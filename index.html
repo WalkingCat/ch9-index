@@ -3,22 +3,18 @@
 <head>
 <title>Channel9</title>
 </head>
-<body style='height:calc(100vh - 32px);'>
-	<nobr style='width:100%;height:90%;margin:0px;border:none;padding:0px;'>
-	<div style='display:inline;>
-		<div style='display:block;width:40%;height:48px;'>
+<body style='margin:0px;height:calc(100vh - 0px);overflow:hidden;'>
+	<nobr>
+	<div style='display:inline-block;width:40%;height:100%'>
+		<div style='display:flex;justify-content:space-evenly;padding:8px;height:24px;'>
 			<a href="Shows.html" target="index">Shows</a>
 			<a href="Blogs.html" target="index">Blogs</a>
 			<a href="Posts.html" target="index">Posts</a>
 			<a href="Series.html" target="index">Series</a>
 			<a href="Event.html" target="index">Events</a>
 			<a href="EventRegion.html" target="index">Events(Region)</a>
-		</div><br/>
-  	<iframe name='index' src='Shows.html' style='width:40%;height:100%;margin:0px;border:none'></iframe>
-  </div>
-  <div style='display:inline;'>
-  	<iframe name='content' src='Shows_Going+Deep.html' style='display:inline;width:60%;height:100%;margin:0px;border:none;'></iframe>
-  </div>
+		</div><iframe name='index' src='Shows.html' style='width:100%;height:calc(100% - 24px);margin:0px;border:none'></iframe>
+	</div><div style='display:inline'><iframe name='content' src='Shows_Going+Deep.html' style='vertical-align:top;width:60%;height:100%;margin:0px;border:none;'></iframe></div>
   </nobr>
 </body>
 </html>
