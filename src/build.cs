@@ -18,7 +18,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
             index_files[index_name] = new StreamWriter(index_name, false, System.Text.Encoding.UTF8);
         }
     }
-    var index = index_files[index_name];
+    var index = index_files.GetValueOrDefault(index_name);
 
     using var content = new StreamWriter($"..\\docs\\{cat}_{name}.html", false, System.Text.Encoding.UTF8);
 
