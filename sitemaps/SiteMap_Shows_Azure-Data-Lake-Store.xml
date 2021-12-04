@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Data-Lake-Store</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Data-Lake-Store/Azure-Data-Factory-makes-it-even-easier-and-convenient-to-uncover-insights-from-data-when-using-Data</loc>
+      <lastmod>2017-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/482b/178c676d-8e90-46b3-becf-0fcfcb55482b/AzureDataFactorysupportforSQLDataWarehousePolyBas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Data Factory makes it even easier and convenient to uncover insights from data when using Data&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Azure Data Factory makes it even easier and convenient to uncover insights from data when using Data Lake Store with SQL Data Warehouse – Azure Data Lake &amp;amp; Azure HDInsight Blog Earlier in February&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/482b/178c676d-8e90-46b3-becf-0fcfcb55482b/AzureDataFactorysupportforSQLDataWarehousePolyBas_mid.mp4</video:content_loc>
+        <video:duration>1242</video:duration>
+        <video:publication_date>2017-06-06T19:57:34.6433847+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Data-Lake-Store/Uncover-insights-rapidly-from-petabytes-of-data-in-Azure-Data-Lake-Store-with-SQL-Data-Warehouse-Pol</loc>
+      <lastmod>2018-08-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0517/79b1103a-1f79-4e55-91c0-3b5440910517/SQLPolybaseSupportforADLS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Uncover insights rapidly from petabytes of data in Azure Data Lake Store with SQL Data Warehouse&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Uncover insights rapidly from petabytes of data in Azure Data Lake Store with SQL Data Warehouse PolyBase support – Azure Data Lake &amp;amp; Azure HDInsight Blog Most common patterns using Azure Data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0517/79b1103a-1f79-4e55-91c0-3b5440910517/SQLPolybaseSupportforADLS_mid.mp4</video:content_loc>
+        <video:duration>1019</video:duration>
+        <video:publication_date>2017-06-06T19:51:55.3701523+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

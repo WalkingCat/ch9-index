@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/10-porad-przy-wdrazaniu-Windows-10-z-ADK</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/10-porad-przy-wdrazaniu-Windows-10-z-ADK/04-Deployment-Image-Servicing-and-Management</loc>
+      <lastmod>2015-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/88b1/2aa81f3a-932f-4e69-bc24-68c237fa88b1/deployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Deployment Image Servicing and Management]]></video:title>
+        <video:description><![CDATA[Co nowego w nowym DISM? W jaki spos&#243;b używać DISM do wdrażania paczek PPKG? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/88b1/2aa81f3a-932f-4e69-bc24-68c237fa88b1/deployment_mid.mp4</video:content_loc>
+        <video:duration>490</video:duration>
+        <video:publication_date>2015-11-11T11:21:49.2034579+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/10-porad-przy-wdrazaniu-Windows-10-z-ADK/03-Narzdzie-Imaging-and-Configuration-Designer</loc>
+      <lastmod>2015-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8bf/da66d9fb-4772-4b8e-8712-b656b37db8bf/narzedzie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Narzdzie Imaging and Configuration Designer]]></video:title>
+        <video:description><![CDATA[Czym jest nowe narzędzie? Do czego służy? Jak zaprojektować sobie własny obraz Windows? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8bf/da66d9fb-4772-4b8e-8712-b656b37db8bf/narzedzie_mid.mp4</video:content_loc>
+        <video:duration>849</video:duration>
+        <video:publication_date>2015-11-11T11:20:32.6762428+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/10-porad-przy-wdrazaniu-Windows-10-z-ADK/02-Wdraanie-Windows-10-w-organizacji</loc>
+      <lastmod>2015-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd96/cbc05da3-4404-4a2a-8123-e783ef73dd96/wdrazanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Wdraanie Windows 10 w organizacji]]></video:title>
+        <video:description><![CDATA[W jaki spos&#243;b ADK może nam pom&#243;c w masowym wdrażaniu system&#243;w Windows? Co nowego jest w ADK dla Windows 10? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd96/cbc05da3-4404-4a2a-8123-e783ef73dd96/wdrazanie_mid.mp4</video:content_loc>
+        <video:duration>310</video:duration>
+        <video:publication_date>2015-11-11T11:19:15.8172657+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/10-porad-przy-wdrazaniu-Windows-10-z-ADK/Po-co-wdrazac-Windows</loc>
+      <lastmod>2015-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0047/e517c6a2-9c00-4655-9749-da901a930047/poco_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Po co wdraa Windows? ]]></video:title>
+        <video:description><![CDATA[Czym jest wdrożenie, a czym instalacja? Jak poradzić sobie z problemem instalacji setek system&#243;w na raz w dużych firmach? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0047/e517c6a2-9c00-4655-9749-da901a930047/poco_mid.mp4</video:content_loc>
+        <video:duration>831</video:duration>
+        <video:publication_date>2015-11-11T11:17:39.6002837+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Toronto</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Toronto/BizSpark</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/74f9/84421505-9298-40a4-8af8-949cad9f74f9/BizSpark_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BizSpark]]></video:title>
+        <video:description><![CDATA[Christian Beauclair talks about Microsoft BizSpark, BizSpark Windows Azure benefits, and current recruitment efforts for the Microsoft Windows Azure Accelerator program. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/74f9/84421505-9298-40a4-8af8-949cad9f74f9/BizSpark_mid.mp4</video:content_loc>
+        <video:duration>206</video:duration>
+        <video:publication_date>2012-06-27T07:13:25.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Toronto/AZR203</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d79/f603276d-e7de-441e-a0e4-37c79ee26d79/ARZ203_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Virtual Machines]]></video:title>
+        <video:description><![CDATA[Windows Azure provides a simple and flexible model for migrating and extending applications through direct access to Virtual Machines. In this session you will learn how to provision and customize&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d79/f603276d-e7de-441e-a0e4-37c79ee26d79/ARZ203_mid.mp4</video:content_loc>
+        <video:duration>3354</video:duration>
+        <video:publication_date>2012-06-27T00:20:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Toronto/AZR204</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/22d0/7141e912-8710-4499-b694-b9d51ce722d0/AZR204_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Storage, Databases, and Service Bus]]></video:title>
+        <video:description><![CDATA[Every application needs to store and manage data. In this session you&#39;ll get a firsthand look at the complete set of scalable and highly available data services including Windows Azure Storage and SQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22d0/7141e912-8710-4499-b694-b9d51ce722d0/AZR204_mid.mp4</video:content_loc>
+        <video:duration>3327</video:duration>
+        <video:publication_date>2012-06-27T00:19:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Toronto/AZR202</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7a8/b68d92a0-6ffc-477b-a0d1-c228336de7a8/AZR202_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Websites]]></video:title>
+        <video:description><![CDATA[Windows Azure Web Sites is a simple, yet powerful platform for web applications in the cloud. In this session you will see how you can build and deploy everything from Wordpress blogs to high scale&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7a8/b68d92a0-6ffc-477b-a0d1-c228336de7a8/AZR202_mid.mp4</video:content_loc>
+        <video:duration>3114</video:duration>
+        <video:publication_date>2012-06-26T04:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Toronto/AZR201</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/06d2/53686831-4d78-4c8c-b110-f3572e4b06d2/AZR201_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Windows Azure June 2012 Preview]]></video:title>
+        <video:description><![CDATA[In this first session you will learn how to quickly get started building cloud applications using several of the exciting new Windows Azure features and services provided with the June 2012 preview.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/06d2/53686831-4d78-4c8c-b110-f3572e4b06d2/AZR201_mid.mp4</video:content_loc>
+        <video:duration>5133</video:duration>
+        <video:publication_date>2012-06-26T04:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

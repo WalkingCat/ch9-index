@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Monitoring</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Monitoring/Azure-Monitor-Activity-Log-Alerts</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dbe7/7effa466-111b-4d14-8329-7fcce444dbe7/actlogalerts2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Monitor: Activity Log Alerts]]></video:title>
+        <video:description><![CDATA[Today we are introducing three new capabilities to Azure Monitor: Activity Log Alerts, Service Health Notifications, and Action Groups. These new capabilities enable you to receive a notification when&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dbe7/7effa466-111b-4d14-8329-7fcce444dbe7/actlogalerts2_mid.mp4</video:content_loc>
+        <video:duration>221</video:duration>
+        <video:publication_date>2017-04-03T20:53:11.8992851+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Monitoring/Get-Started-with-Azure-Monitor</loc>
+      <lastmod>2017-09-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/188a/8baed5ae-1255-4504-aae1-14525350188a/azuremonitorgetstarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Monitor]]></video:title>
+        <video:description><![CDATA[In this quick, 5-minute video we introduce Azure&#39;s new platform service for monitoring your resources, Azure Monitor. Learn the core concepts of Azure Monitor--Activity Log, Diagnostic Logs, Metrics,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/188a/8baed5ae-1255-4504-aae1-14525350188a/azuremonitorgetstarted_mid.mp4</video:content_loc>
+        <video:duration>312</video:duration>
+        <video:publication_date>2016-10-28T17:11:40.1578655+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Monitoring/Analyze-Audit-Logs-in-PowerBI</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a11d/453202a4-6136-4b0c-bbe9-d60056d8a11d/AnalyzeAuditLogsinPowerBI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Analyze Audit Logs in PowerBI]]></video:title>
+        <video:description><![CDATA[In this video, Azure Monitoring Program Manager Ashwin Kamath shows how you can easily stream your Azure Audit Logs to PowerBI for charting and analysis. Azure Audit Logs are operational logs that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a11d/453202a4-6136-4b0c-bbe9-d60056d8a11d/AnalyzeAuditLogsinPowerBI_mid.mp4</video:content_loc>
+        <video:duration>717</video:duration>
+        <video:publication_date>2016-07-18T17:47:53.6912941+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Monitoring/Introduction-to-Webhooks-for-Azure-Alerts</loc>
+      <lastmod>2017-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c75/00acbac7-7827-424a-97bc-8e5384e53c75/IntroToWebhooksforAzureAlerts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Webhooks for Azure Alerts]]></video:title>
+        <video:description><![CDATA[In this video, Azure Monitoring Program Manager Ashwin Kamath introduces the new Webhook option for Azure Alerts, which allows you to set a threshold on Azure metric data and receive alerts on that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c75/00acbac7-7827-424a-97bc-8e5384e53c75/IntroToWebhooksforAzureAlerts_mid.mp4</video:content_loc>
+        <video:duration>617</video:duration>
+        <video:publication_date>2016-07-18T17:45:33.1745371+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

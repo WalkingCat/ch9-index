@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/nigel.watling</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/nigel.watling/What-are-NET-Services</loc>
+      <lastmod>2016-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/9/4/0/9/4/NETServices_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[What are .NET Services?]]></video:title>
+        <video:description><![CDATA[This brief video gives an introduction to .NET Services. We&#39;ll explore its components, what they do and what value they provide.
+
+Suggested Additional Content
+
+
+
+What is Windows Azure?&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/9/4/0/9/4/NETServices_ch9.mp4</video:content_loc>
+        <video:duration>421</video:duration>
+        <video:publication_date>2009-09-10T19:19:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/nigel.watling/Online-Banking-with-Windows-CardSpace</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/nigel.watling/Windows-CardSpace-in-One-Minute</loc>
+      <lastmod>2019-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/nigel.watling/quotInfoCardquot-simple-demo</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

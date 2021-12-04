@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-Backup--Restore-con-Azure-Blob-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-Backup--Restore-con-Azure-Blob-Services/SQL-Server-Backup--Restore-con-Azure-Blob-Services</loc>
+      <lastmod>2015-07-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7808/b5bf618e-dd76-4031-9c15-cdeafc827808/backuprestore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server Backup &amp; Restore con Azure Blob Services]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7808/b5bf618e-dd76-4031-9c15-cdeafc827808/backuprestore_mid.mp4</video:content_loc>
+        <video:duration>2861</video:duration>
+        <video:publication_date>2015-07-15T07:14:40.2127654+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-Backup--Restore-con-Azure-Blob-Services/SQL-Server-HA-and-DR-con-Azure-VM</loc>
+      <lastmod>2015-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/efff/aaea9c6c-4f4e-4e89-ac3e-223b93c3efff/HA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server HA and DR con Azure VM]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efff/aaea9c6c-4f4e-4e89-ac3e-223b93c3efff/HA_mid.mp4</video:content_loc>
+        <video:duration>3574</video:duration>
+        <video:publication_date>2015-07-15T07:14:32.1741728+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AndrewParsons</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AndrewParsons/Cloud-Assist-Demo-from-Build-2014</loc>
+      <lastmod>2017-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1a47/79ba8230-46e3-4abe-88ac-426a7e521a47/builddestructionserverdemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Assist Demo from Build 2014]]></video:title>
+        <video:description><![CDATA[Check out a high resolution side-by-side of the Cloud Assist demo we showed off at Build 2014 during Steve Guggenheimer&#39;s keynote. One side is a single computer doing all of the physics calculations&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1a47/79ba8230-46e3-4abe-88ac-426a7e521a47/builddestructionserverdemo_mid.mp4</video:content_loc>
+        <video:duration>145</video:duration>
+        <video:publication_date>2014-04-09T19:44:57.2510170+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

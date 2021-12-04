@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On/06--Collision-Game-Over--Fazit</loc>
+      <lastmod>2015-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed18/c8a9b78d-e54d-4d93-9da6-84438474ed18/06SpritesGameOver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 | Collision, Game Over &amp; Fazit]]></video:title>
+        <video:description><![CDATA[Zu guter Letzt implementieren wir noch die finale Physik um Kollisionen zu erfassen und auszuwerten. Dazu wird der Game Over State fertig implementiert und schlie&#223;lich der finale Punktestand&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed18/c8a9b78d-e54d-4d93-9da6-84438474ed18/06SpritesGameOver_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2015-01-30T14:20:51.4677381+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On/05--Sprites</loc>
+      <lastmod>2015-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9785/316777d7-ca36-4efa-8163-c1376baa9785/05Sprites_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Sprites]]></video:title>
+        <video:description><![CDATA[Bisher waren die gesamten Elemente im Game State angelegt. Wir &#228;ndern das indem wir von Sprites implementieren um so die Entit&#228;ten Logik von der Spiele Logik zu separieren. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9785/316777d7-ca36-4efa-8163-c1376baa9785/05Sprites_mid.mp4</video:content_loc>
+        <video:duration>1071</video:duration>
+        <video:publication_date>2015-01-30T14:20:23.9403102+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On/04--Assets-Animation-HUD</loc>
+      <lastmod>2015-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a64/a85d4c7c-60dd-435a-a483-595f0c029a64/04AssestAnimationHUD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Assets, Animation, HUD]]></video:title>
+        <video:description><![CDATA[Die ersten Assets werden dem Spiel hinzugef&#252;gt und das Laden dieser im Preload State implementiert. Danach machen wir uns an die Animation des Hintergrundbildes und zeigen die ersten Punkte im Spiel&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a64/a85d4c7c-60dd-435a-a483-595f0c029a64/04AssestAnimationHUD_mid.mp4</video:content_loc>
+        <video:duration>1305</video:duration>
+        <video:publication_date>2015-01-30T14:17:25.3781701+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On/03--Projekt-Struktur-und-Requirejs</loc>
+      <lastmod>2015-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/321c/f3ff99d6-6b34-4e6e-9bad-e2f135ff321c/03ProkektStrukturRequireJS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Projekt Struktur und Require.js]]></video:title>
+        <video:description><![CDATA[Nach den ersten Versuchen strukturieren wir das Projekt f&#252;r das eigentliche Spiel. Wir implementieren Require.js, einen JavaScript Loader und testen entsprechend die einzelnen States des Spiels durch. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/321c/f3ff99d6-6b34-4e6e-9bad-e2f135ff321c/03ProkektStrukturRequireJS_mid.mp4</video:content_loc>
+        <video:duration>1287</video:duration>
+        <video:publication_date>2015-01-30T14:13:37.8515382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On/02--Erste-Schritte-mit-Phaserio</loc>
+      <lastmod>2015-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ce77/c6a4f35d-260f-4a3d-ba68-6c732699ce77/02ErsteSchrittePhaser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Erste Schritte mit Phaser.io]]></video:title>
+        <video:description><![CDATA[Wir werfen einen ersten Blick auf Phaser.io. Installation und Konfiguration des Game Objektes und das erste Arbeiten mit Game States. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce77/c6a4f35d-260f-4a3d-ba68-6c732699ce77/02ErsteSchrittePhaser_mid.mp4</video:content_loc>
+        <video:duration>1792</video:duration>
+        <video:publication_date>2015-01-30T12:58:46.2889750+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/HTML5-Spiele-Programmierung-Hands-On/01--Einleitung</loc>
+      <lastmod>2015-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d46/15128b39-1026-487c-9df8-9c3a06b75d46/01Einleitung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Einleitung]]></video:title>
+        <video:description><![CDATA[In diesem Modul gehen wir kurz auf die Gr&#252;nde f&#252;r die M&#246;glichkeit mit HTML5 Spiele zu programmieren ein und schauen noch auf ein paar popul&#228;re Spiele Frameworks. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d46/15128b39-1026-487c-9df8-9c3a06b75d46/01Einleitung_mid.mp4</video:content_loc>
+        <video:duration>752</video:duration>
+        <video:publication_date>2015-01-30T12:56:53.2211047+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

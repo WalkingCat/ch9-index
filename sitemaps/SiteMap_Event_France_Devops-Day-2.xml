@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Devops-Day-2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Devops-Day-2/Keynote-ENG</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0079/8de0e9ec-312d-4140-beb2-74866d140079/devopsday2Keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote [ENG]]]></video:title>
+        <video:description><![CDATA[Comment appliquer concr&#232;tement une d&#233;marche DevOps pour atteindre les b&#233;n&#233;fices m&#233;tiers attendus ? Par Norm Judah, Chief Technology Officier, Microsoft Services   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0079/8de0e9ec-312d-4140-beb2-74866d140079/devopsday2Keynote_mid.mp4</video:content_loc>
+        <video:duration>3456</video:duration>
+        <video:publication_date>2016-05-20T13:29:19.9336471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Devops-Day-2/Les-cls-de-confiance-des-DEV--pratiques-agiles-provisioning-et-self-service</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/56c1/2c907a9b-98a0-4b20-a161-67165b1656c1/devopsday2Keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Les cl&#233;s de confiance des DEV : pratiques agiles, provisioning et self-service.]]></video:title>
+        <video:description><![CDATA[Les cl&#233;s de confiance des DEV : pratiques agiles, provisioning et self-service. Par Jivane Rajabaly, consultant Microsoft Dev tools &amp;amp; Antoine Cellerier, Senior Dev Lead. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/56c1/2c907a9b-98a0-4b20-a161-67165b1656c1/devopsday2Keynote_mid.mp4</video:content_loc>
+        <video:duration>2112</video:duration>
+        <video:publication_date>2016-05-20T13:29:05.8555913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Devops-Day-2/Les-cls-de-confiance-des-OPS--tests-strategy-release-automation-et-monitoring</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e8f/a3282392-eb40-4128-aad0-e26dab5a6e8f/devopsday2OPS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Les cl&#233;s de confiance des OPS : tests strategy, release automation et monitoring]]></video:title>
+        <video:description><![CDATA[Les cl&#233;s de confiance des OPS : tests strategy, release automation et monitoring. Par Pascal Sauli&#232;re, architecte infrastructure &amp;amp; Antoine Durand, consultant agile &amp;amp; devops.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e8f/a3282392-eb40-4128-aad0-e26dab5a6e8f/devopsday2OPS_mid.mp4</video:content_loc>
+        <video:duration>1975</video:duration>
+        <video:publication_date>2016-05-20T13:28:50.8487089+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Devops-Day-2/Les-cls-de-confiance-du-Business</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a08d/4a1041e8-847a-45f8-9f80-d8a3cb47a08d/devopsday2BUSINESS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Les cl&#233;s de confiance du Business]]></video:title>
+        <video:description><![CDATA[Les cl&#233;s de confiance du Business : gestion des besoins, t&#233;l&#233;m&#233;trie, interlocuteurs uniques, proximit&#233;. Par Laurent Le Guyader, consultant Agile &amp;amp; Devops, Jean-Marc Desamore, consultant Devops&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a08d/4a1041e8-847a-45f8-9f80-d8a3cb47a08d/devopsday2BUSINESS_mid.mp4</video:content_loc>
+        <video:duration>2562</video:duration>
+        <video:publication_date>2016-05-20T13:28:33.0749664+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Devops-Day-2/Dmonstration-de-la-chaine-outille-DevOps-Microsoft-et-Open-Source</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8656/4704f1e5-bffd-4b99-9c29-62a0ab1e8656/devopsday2chaine_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[D&#233;monstration de la chaine outill&#233;e DevOps Microsoft et Open-Source]]></video:title>
+        <video:description><![CDATA[D&#233;monstration de la chaine outill&#233;e DevOps Microsoft et Open-Source. Par Julien Corioland, &#233;vang&#233;liste technique Microsoft &amp;amp; Joao Borras, Consultant Microsoft ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8656/4704f1e5-bffd-4b99-9c29-62a0ab1e8656/devopsday2chaine_mid.mp4</video:content_loc>
+        <video:duration>1128</video:duration>
+        <video:publication_date>2016-05-20T13:27:57.9568357+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-Introduction--la-plateforme-Universelle</loc>
+      <lastmod>2015-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d50/7966ae36-f1aa-4788-ad68-9e2edf165d50/Guidedudevwindows01intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - Introduction &#224; la plateforme Universelle]]></video:title>
+        <video:description><![CDATA[Introduction aux grands principes de la plateforme Windows 10 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d50/7966ae36-f1aa-4788-ad68-9e2edf165d50/Guidedudevwindows01intro_mid.mp4</video:content_loc>
+        <video:duration>2068</video:duration>
+        <video:publication_date>2015-10-27T09:08:50.2087375+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-2-Contrles-XAML</loc>
+      <lastmod>2016-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0aab/e597a8ee-43dd-460e-8ea7-ffc63d0e0aab/guidedudevwindows10controlesxaml_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 2. Contr&#244;les XAML]]></video:title>
+        <video:description><![CDATA[&#201;tudiez comment les contr&#244;les XAML, y compris les nouveaux contr&#244;les RelativePanel et SplitView, sont utilis&#233;s dans une application UWP pour faciliter la conception de votre interface. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0aab/e597a8ee-43dd-460e-8ea7-ffc63d0e0aab/guidedudevwindows10controlesxaml.mp4</video:content_loc>
+        <video:duration>1785</video:duration>
+        <video:publication_date>2015-10-27T09:08:48.5085254+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-3-Fentres-et-navigation-entre-les-pages</loc>
+      <lastmod>2015-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/daad/95f4d3aa-0209-4014-aa35-f85ae770daad/guidedudevwindows10FenetresNavigation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 3. Fen&#234;tres et navigation entre les pages]]></video:title>
+        <video:description><![CDATA[Observez comment redimensionner et cr&#233;er de nouvelles fen&#234;tres. Explorez la navigation entre les diff&#233;rentes pages, et comment g&#233;rer efficacement le bouton back dans vos applications UWP. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/daad/95f4d3aa-0209-4014-aa35-f85ae770daad/guidedudevwindows10FenetresNavigation_mid.mp4</video:content_loc>
+        <video:duration>1553</video:duration>
+        <video:publication_date>2015-10-27T09:08:44.8345655+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-4-Adaptive-UI-et-Adaptive-Code</loc>
+      <lastmod>2016-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05a2/41eb292c-7d7c-4f7d-96d1-5b6d480405a2/guidedudevwindows10AdapatativeUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 4. Adaptive UI et Adaptive Code]]></video:title>
+        <video:description><![CDATA[Apprenez les principes de design/conception pour Windows 10 et construisez une interface qui s&#39;adapte aux &#233;crans de 5&amp;quot; &#224; 84&amp;quot; en utilisant notamment les View States et les Adaptive Triggers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05a2/41eb292c-7d7c-4f7d-96d1-5b6d480405a2/guidedudevwindows10AdapatativeUI_mid.mp4</video:content_loc>
+        <video:duration>1855</video:duration>
+        <video:publication_date>2015-10-27T09:08:40.9596704+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-5-Liaison-de-donnes-et-Performance</loc>
+      <lastmod>2016-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a94/7c6cd7b0-dc35-4d55-85ea-509657ef6a94/guidedudevwindows10LiaisonDonnees_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 5. Liaison de donn&#233;es et Performance]]></video:title>
+        <video:description><![CDATA[Explorez la liaison de donn&#233;es (binding) dans une application UWP d&#233;finie en XAML. D&#233;butez avec la liaison de donn&#233;es classique et d&#233;couvrez ensuite les derni&#232;res nouveaut&#233;s, comme le binding compil&#233;,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a94/7c6cd7b0-dc35-4d55-85ea-509657ef6a94/guidedudevwindows10LiaisonDonnees_mid.mp4</video:content_loc>
+        <video:duration>2201</video:duration>
+        <video:publication_date>2015-10-27T09:08:37.3835974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-6-Cycle-de-vie-et-tches-en-arrire-plan</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e143/ac794610-152f-4f42-9a3e-8b4fdb81e143/guidedudevwindows10cycledevie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 6. Cycle de vie et t&#226;ches en arri&#232;re-plan]]></video:title>
+        <video:description><![CDATA[Plongez dans le cycle de vie d&#39;une application Windows 10 UWP : Lancement, Suspension, Reprise et Arr&#234;t de l&#39;appli. Ce module explique comment g&#233;rer les &#233;v&#233;nements associ&#233;s et comment demander une&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e143/ac794610-152f-4f42-9a3e-8b4fdb81e143/guidedudevwindows10cycledevie_mid.mp4</video:content_loc>
+        <video:duration>3120</video:duration>
+        <video:publication_date>2015-10-27T09:08:31.1487391+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-7-Vignettes-et-Toasts-notifications</loc>
+      <lastmod>2015-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e75d/d3273ceb-b864-49a7-a020-19be9e07e75d/guidedudevwindows10VignettesToasts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 7. Vignettes et Toasts notifications]]></video:title>
+        <video:description><![CDATA[Engagez vos utilisateurs avec les Vignettes Dynamiques et les Toasts Interactifs. Apprenez &#224; utiliser le nouveau mod&#232;le adaptatif disponible sous Windows 10. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e75d/d3273ceb-b864-49a7-a020-19be9e07e75d/guidedudevwindows10VignettesToasts_mid.mp4</video:content_loc>
+        <video:duration>1983</video:duration>
+        <video:publication_date>2015-10-27T09:08:26.1019511+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-8-Communication-entre-applications</loc>
+      <lastmod>2015-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83b0/a3bce7ed-eed8-4ed1-bd81-20394cbc83b0/guidedudevwindows10Communicationentreapplis_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 8. Communication entre applications]]></video:title>
+        <video:description><![CDATA[Etudiez comment mettre en place une communication entre diff&#233;rentes applications UWP. Ce module examine l&#39;activation par URI, les nouveaut&#233;s li&#233;s &#224; Windows 10 et la notion de App Services. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83b0/a3bce7ed-eed8-4ed1-bd81-20394cbc83b0/guidedudevwindows10Communicationentreapplis_mid.mp4</video:content_loc>
+        <video:duration>1581</video:duration>
+        <video:publication_date>2015-10-27T09:08:20.8251063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Guide-du-dveloppeur-Windows-10/Guide-du-dveloppeur-Windows-10-9-Windows-Dev-Center-et-Montisation</loc>
+      <lastmod>2015-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2dae/a15af7c8-5f49-410b-9330-7cbb5b612dae/guidedudevwindows10DevCenter_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Guide du d&#233;veloppeur Windows 10 - 9. Windows Dev Center et Mon&#233;tisation]]></video:title>
+        <video:description><![CDATA[Explorez les nouveaut&#233;s pr&#233;sentes dans le Windows Dev Center pour acqu&#233;rir de nouveaux utilisateurs et les fid&#233;liser. Ce module passe &#233;galement en revue les possibilit&#233;s de mon&#233;tisation, comme la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2dae/a15af7c8-5f49-410b-9330-7cbb5b612dae/guidedudevwindows10DevCenter_mid.mp4</video:content_loc>
+        <video:duration>1364</video:duration>
+        <video:publication_date>2015-10-27T09:08:15.2177776+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

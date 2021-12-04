@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/07</loc>
+      <lastmod>2018-08-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6149/86f169e6-2888-478d-a1ed-0de789076149/647GetStartedPwrShellDSCM07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (07) DSC and Linux]]></video:title>
+        <video:description><![CDATA[Start working cross-platform, and configure Linux.&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;[01:47] - The importance of cross platform&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;[03:16] - Requirements for Linux&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;[05:03] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6149/86f169e6-2888-478d-a1ed-0de789076149/647GetStartedPwrShellDSCM07_mid.mp4</video:content_loc>
+        <video:duration>2405</video:duration>
+        <video:publication_date>2015-03-07T18:43:09.9723624+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/06</loc>
+      <lastmod>2018-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab90/f479ef11-b663-475a-8f4c-cc86c6b8ab90/647GetStartedPwrShellDSCM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (06) Writing Better Configurations]]></video:title>
+        <video:description><![CDATA[Enhance your configurations with parameters, credentials, and more. [01:11] - Parameterized configurations[30:59] - Getting the order straight with DependsOn[48:58] - Building bigger configurations]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab90/f479ef11-b663-475a-8f4c-cc86c6b8ab90/647GetStartedPwrShellDSCM06_mid.mp4</video:content_loc>
+        <video:duration>3116</video:duration>
+        <video:publication_date>2015-03-07T18:42:57.5638274+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/479a/d50ae14e-b63c-41ea-bd9a-763c9193479a/647GetStartedPwrShellDSCM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (05) Resource Roundup]]></video:title>
+        <video:description><![CDATA[Start working with the available resources in your configurations. [02:52] - Working with the built-in resources[36:08] - Adding resources locally[44:08] - Adding resources to a pull server]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/479a/d50ae14e-b63c-41ea-bd9a-763c9193479a/647GetStartedPwrShellDSCM05_mid.mp4</video:content_loc>
+        <video:duration>2927</video:duration>
+        <video:publication_date>2015-03-07T18:42:42.6953817+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/04</loc>
+      <lastmod>2021-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/72c7/47cda7f6-85e9-4c6e-9f0f-099acdaa72c7/647GetStartedPwrShellDSCM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (04) Deploying Configurations&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Learn to prepare your environment for pull configurations and to query diagnostic information. [03:40] - How the deployment works[05:46] - Configuring the LCM for Pull[37:00] - Preparing the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72c7/47cda7f6-85e9-4c6e-9f0f-099acdaa72c7/647GetStartedPwrShellDSCM04_mid.mp4</video:content_loc>
+        <video:duration>3396</video:duration>
+        <video:publication_date>2015-03-07T18:42:30.2936372+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/03</loc>
+      <lastmod>2018-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a5a/07f41620-e7be-4f3d-8a10-f06b976b5a5a/647GetStartedPwrShellDSCM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (03) Configuring Pull Servers for&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Explore the pull server options, SMB and HTTP. [00:54] - The Purpose of a Pull Server[06:06] - Configuring SMB pull server[10:25] - Configuring HTTP pull server[29:26] - Configuring HTTPS pull server]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a5a/07f41620-e7be-4f3d-8a10-f06b976b5a5a/647GetStartedPwrShellDSCM03_mid.mp4</video:content_loc>
+        <video:duration>3005</video:duration>
+        <video:publication_date>2015-03-07T18:42:18.3005560+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/02</loc>
+      <lastmod>2017-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3fba/943fb551-be27-4c5c-8d70-b4718c083fba/647GetStartedPwrShellDSCM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (02) Performing a Push Deployment]]></video:title>
+        <video:description><![CDATA[Perform a push deployment configuring the LCM and your first DSC configuration. [04:36] - The purpose for a Push deployment[18:42] - Creating the Management Object File (MOF)]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3fba/943fb551-be27-4c5c-8d70-b4718c083fba/647GetStartedPwrShellDSCM02_mid.mp4</video:content_loc>
+        <video:duration>2893</video:duration>
+        <video:publication_date>2015-03-07T18:42:07.5049710+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-PowerShell-Desired-State-Configuration-DSC/01</loc>
+      <lastmod>2020-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5cf/8b3cf222-abdd-4e19-9c05-fa541ffac5cf/647GetStartedPwrShellDSCM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PowerShell Desired State Configuration (DSC): (01) Getting Ready for DSC]]></video:title>
+        <video:description><![CDATA[Get an overview of the architecture, along with resources and requirements for DSC. [15:54] - The purpose for DSC[27:09] - DSC architecture overview[30:47] - Resources for DSC[45:07] - Requirements&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5cf/8b3cf222-abdd-4e19-9c05-fa541ffac5cf/647GetStartedPwrShellDSCM01_mid.mp4</video:content_loc>
+        <video:duration>2934</video:duration>
+        <video:publication_date>2015-03-07T18:41:50.7399779+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

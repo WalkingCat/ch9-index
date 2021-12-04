@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/229d/855f87cb-2dc0-4952-9700-4f7e8c5b229d/431DebugWebsiteWithIEF12M05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Debug a Website with Internet Explorer F12 Tools: (05) Testing on All Browsers]]></video:title>
+        <video:description><![CDATA[Learn about using BrowserStack and RemoteIE to test a website. [02:07] - Testing all versions of IE[07:37] - Testing on all browsers]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/229d/855f87cb-2dc0-4952-9700-4f7e8c5b229d/431DebugWebsiteWithIEF12M05_mid.mp4</video:content_loc>
+        <video:duration>712</video:duration>
+        <video:publication_date>2014-12-10T23:51:15.0888865+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b573/1bae06cd-0a3d-42b7-85c6-7580d1ccb573/431DebugWebsiteWithIEF12M04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Debug a Website with Internet Explorer F12 Tools: (04) Developing a Mobile Website]]></video:title>
+        <video:description><![CDATA[Get the details on using Visual Studio to develop and debug a mobile website.​ [01:15] - Using Visual Studio[10:09] - Challenges with mobile websites]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b573/1bae06cd-0a3d-42b7-85c6-7580d1ccb573/431DebugWebsiteWithIEF12M04_mid.mp4</video:content_loc>
+        <video:duration>1027</video:duration>
+        <video:publication_date>2014-12-10T23:50:57.9887611+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/03</loc>
+      <lastmod>2020-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e808/0fdc6c73-1bc0-4c30-9018-6edde8ace808/431DebugWebsiteWithIEF12M03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Debug a Website with Internet Explorer F12 Tools: (03) Optimizing Your Page]]></video:title>
+        <video:description><![CDATA[Find out how to use profiler, memory, network analyzer, and UI responsiveness tools​. [01:24] - DOM explorer[08:52] - Network[14:46] - UI Responsiveness[19:01] - Memory profiler]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e808/0fdc6c73-1bc0-4c30-9018-6edde8ace808/431DebugWebsiteWithIEF12M03_mid.mp4</video:content_loc>
+        <video:duration>1438</video:duration>
+        <video:publication_date>2014-12-10T23:50:28.8978090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d84/6aa3bfab-b76d-4353-bcf2-947a6c723d84/431DebugWebsiteWithIEF12M02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Debug a Website with Internet Explorer F12 Tools: (02) Debugging with the Console and the&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Explore using integrated console and debugger windows to debug your JavaScript code. [02:21] - Brief history[03:11] - Using the console[24:15] - Debugger]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d84/6aa3bfab-b76d-4353-bcf2-947a6c723d84/431DebugWebsiteWithIEF12M02_mid.mp4</video:content_loc>
+        <video:duration>2058</video:duration>
+        <video:publication_date>2014-12-10T23:49:39.2401852+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5157/6f2922b1-63b8-4c8e-94fc-ac2b45c35157/431DebugWebsiteWithIEF12M01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Debug a Website with Internet Explorer F12 Tools: (01) Working with Web Standards]]></video:title>
+        <video:description><![CDATA[Take a quick glance at common issues and how to identify them. [04:39] - The process[10:37] - Current Standards and Vendor Prefixes[17:34] - WHATWG and Contention[21:25] - Demo: Browser Detection and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5157/6f2922b1-63b8-4c8e-94fc-ac2b45c35157/431DebugWebsiteWithIEF12M01_mid.mp4</video:content_loc>
+        <video:duration>1539</video:duration>
+        <video:publication_date>2014-12-10T23:49:20.2411780+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

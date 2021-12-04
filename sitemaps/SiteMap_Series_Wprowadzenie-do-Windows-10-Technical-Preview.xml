@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Windows-10-Technical-Preview</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Windows-10-Technical-Preview/04--Internet-Explorer</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3bd1/9bdddbf9-8df7-43ed-8771-d158b7373bd1/MVAWindows10TPp04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Internet Explorer]]></video:title>
+        <video:description><![CDATA[Dużym problemem dla firm przy migracji do nowych wersji system&#243;w operacyjnych jest kompatybilność aplikacji. W kwestii aplikacji webowych duże znaczenie ma Internet Explorer. Zobacz, co zmieniliśmy w&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3bd1/9bdddbf9-8df7-43ed-8771-d158b7373bd1/MVAWindows10TPp04_mid.mp4</video:content_loc>
+        <video:duration>868</video:duration>
+        <video:publication_date>2015-04-02T10:44:03.7070917+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Windows-10-Technical-Preview/03--Bezpieczestwo</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eeaa/0bf5027a-1d0e-4c97-abe3-599eadf7eeaa/MVAWindows10TPp03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Bezpieczestwo]]></video:title>
+        <video:description><![CDATA[Nowa wersja klienckiego systemu operacyjnego wprowadzi funkcjonalności, kt&#243;re pozwolą jeszcze bardziej zadbać o bezpieczeństwo – zar&#243;wno komputera, danych użytkownika jak i informacji firmowych. Po&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eeaa/0bf5027a-1d0e-4c97-abe3-599eadf7eeaa/MVAWindows10TPp03_mid.mp4</video:content_loc>
+        <video:duration>555</video:duration>
+        <video:publication_date>2015-04-02T10:41:58.8152311+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Windows-10-Technical-Preview/02--Zarzdzanie-i-wdraanie</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c22c/614ab817-6d03-4deb-9735-ccf4c19bc22c/MVAWindows10TPp02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Zarzdzanie i wdraanie]]></video:title>
+        <video:description><![CDATA[Dowiedz się, jakie zmiany zachodzą w Windows 10 w zakresie zarządzania i wdrażania. Zobacze jakie nowe możliwości zarządzania wprowadzi Windows 10 oraz co zmieni się w kontekście wdrażania. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c22c/614ab817-6d03-4deb-9735-ccf4c19bc22c/MVAWindows10TPp02_mid.mp4</video:content_loc>
+        <video:duration>903</video:duration>
+        <video:publication_date>2015-04-02T10:41:41.8546167+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Windows-10-Technical-Preview/01--Wprowadzenie</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/958b/98f1ace8-ee41-46c2-8b78-8a2c04dc958b/MVAWindows10TPp01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Wprowadzenie]]></video:title>
+        <video:description><![CDATA[Dowiedz się, jakie wygląda strategia Microsoft dotycząca klienckiego systemu operacyjnego. Sprawdź w jakich obszarach Microsoft wprowadził (i nadal wprowadza) zmiany i nowe funkcjonalności. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/958b/98f1ace8-ee41-46c2-8b78-8a2c04dc958b/MVAWindows10TPp01_mid.mp4</video:content_loc>
+        <video:duration>1044</video:duration>
+        <video:publication_date>2015-04-02T10:41:16.2965757+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

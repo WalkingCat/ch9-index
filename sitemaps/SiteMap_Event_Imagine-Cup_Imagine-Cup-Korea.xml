@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Imagine-Cup/Imagine-Cup-Korea</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Imagine-Cup/Imagine-Cup-Korea/We-Are-IC-2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/28ef/3a7be26f-d28d-47cc-b488-c013755a28ef/ICKorea2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Imagine Cup 2]]></video:title>
+        <video:description><![CDATA[우리는 Imagine Cup ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28ef/3a7be26f-d28d-47cc-b488-c013755a28ef/ICKorea2_mid.mp4</video:content_loc>
+        <video:duration>318</video:duration>
+        <video:publication_date>2015-10-07T06:30:48.4492916+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Imagine-Cup/Imagine-Cup-Korea/We-Are-IC</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4258/e316d8c1-bb42-4edd-a903-674d3cfa4258/ICKorea1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Imagine Cup 1]]></video:title>
+        <video:description><![CDATA[우리는 Imagine Cup ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4258/e316d8c1-bb42-4edd-a903-674d3cfa4258/ICKorea1_mid.mp4</video:content_loc>
+        <video:duration>207</video:duration>
+        <video:publication_date>2015-10-07T06:28:54.4299869+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

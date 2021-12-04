@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Machine-Learning</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Machine-Learning/03-Azure-Machine-Learning-Web-Service-erstellen</loc>
+      <lastmod>2016-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4a3f/27ae5169-c257-4c11-aced-27adf5d94a3f/AzureML3WebService_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Azure Machine Learning Web Service erstellen]]></video:title>
+        <video:description><![CDATA[In dem letzten Modul w&#228;hlen wir eines der trainierten bin&#228;ren Klassifizierungsmodelle aus und ver&#246;ffentlichen es als Web Service. Diesen Web Service rufen wir aus einer Konsolenapplikation in Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4a3f/27ae5169-c257-4c11-aced-27adf5d94a3f/AzureML3WebService_mid.mp4</video:content_loc>
+        <video:duration>1651</video:duration>
+        <video:publication_date>2015-02-23T12:20:26.4556898+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Machine-Learning/02-Modell-in-Azure-Machine-Learning-bauen-Video-2</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/23b0/d7cbe6de-6b50-4e9a-9c0e-7eb24ec623b0/AzureML2Modellerstellen2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Modell in Azure Machine Learning bauen - Video 2]]></video:title>
+        <video:description><![CDATA[In diesem Modul liefern wir einen &#220;berblick &#252;ber Azure Machine Learning und wie man diesen Dienst nutzen kann. Daraufhin werden wir im Machine Learning Studio ein Experiment erstellen, in dem wir&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23b0/d7cbe6de-6b50-4e9a-9c0e-7eb24ec623b0/AzureML2Modellerstellen2_mid.mp4</video:content_loc>
+        <video:duration>1406</video:duration>
+        <video:publication_date>2015-02-23T12:20:14.2498986+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Machine-Learning/02-Modell-in-Azure-Machine-Learning-bauen-Video-1</loc>
+      <lastmod>2016-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2c0e/2fd34c98-765f-489e-9e70-e559266e2c0e/AzureML2Modellerstellen1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Modell in Azure Machine Learning bauen - Video 1]]></video:title>
+        <video:description><![CDATA[In diesem Modul liefern wir einen &#220;berblick &#252;ber Azure Machine Learning und wie man diesen Dienst nutzen kann. Daraufhin werden wir im Machine Learning Studio ein Experiment erstellen, in dem wir&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c0e/2fd34c98-765f-489e-9e70-e559266e2c0e/AzureML2Modellerstellen1_mid.mp4</video:content_loc>
+        <video:duration>2926</video:duration>
+        <video:publication_date>2015-02-23T12:20:05.3989468+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Machine-Learning/01-Einfuehrung-in-Machine-Learning</loc>
+      <lastmod>2016-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8868/55dbff54-6103-43b1-980a-ac2cbe808868/AzureML1Intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Einf&#252;hrung in Machine Learning]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die Grundlagen von Machine Learning geliefert. Wir fangen mit Definitionen und Beispielen von Machine Learning im Alltag an. Daraufhin gucken wir uns den typischen Machine&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8868/55dbff54-6103-43b1-980a-ac2cbe808868/AzureML1Intro_mid.mp4</video:content_loc>
+        <video:duration>2775</video:duration>
+        <video:publication_date>2015-02-23T12:19:41.4609576+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

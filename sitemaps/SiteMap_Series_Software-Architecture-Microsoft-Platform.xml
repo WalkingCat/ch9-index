@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Software-Architecture-Microsoft-Platform</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Software-Architecture-Microsoft-Platform/Taking-Advantage-of-the-Microsoft-Azure-Service-Bus-Part-2</loc>
+      <lastmod>2016-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae7d/5bf9acc5-25e4-4d1e-9e8c-35512e87ae7d/sundblad15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking Advantage of the Microsoft Azure Service Bus Part 2]]></video:title>
+        <video:description><![CDATA[Welcome to the fifth episode of the Software Architecture Microsoft Platform mini course. It completes the story that began with episode 4. Together, these episodes present an architectural pattern&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae7d/5bf9acc5-25e4-4d1e-9e8c-35512e87ae7d/sundblad15_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2016-09-07T15:43:38.3087055+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Software-Architecture-Microsoft-Platform/Taking-Advantage-of-the-Microsoft-Azure-Service-Bus-Part-1</loc>
+      <lastmod>2018-07-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c78/465674b6-51a0-4c6a-ab58-f7a9778f1c78/sundblad14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking Advantage of the Microsoft Azure Service Bus Part 1]]></video:title>
+        <video:description><![CDATA[Welcome to the fourth episode of the Software Architecture Microsoft Platform mini course. It&#39;s the beginning of a story that ends with episode 5. Together, these episodes present an architectural&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c78/465674b6-51a0-4c6a-ab58-f7a9778f1c78/sundblad14_mid.mp4</video:content_loc>
+        <video:duration>866</video:duration>
+        <video:publication_date>2016-06-15T10:47:45.1459676+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Software-Architecture-Microsoft-Platform/Architectural-Service-Oriented-Patterns</loc>
+      <lastmod>2018-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7845/89c06084-06ae-4a8b-a4d3-c67e74e47845/sundblad13_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architectural Service-Oriented Patterns]]></video:title>
+        <video:description><![CDATA[Welcome to the third episode of the Software Architecture Microsoft Platform mini course. It&#39;s about architectural and service-oriented patterns. We all know that object-oriented patterns have&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7845/89c06084-06ae-4a8b-a4d3-c67e74e47845/sundblad13_mid.mp4</video:content_loc>
+        <video:duration>1151</video:duration>
+        <video:publication_date>2016-03-01T14:19:56.6972554+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Software-Architecture-Microsoft-Platform/Agile-Service-Architecture-for-the-Agile-Business</loc>
+      <lastmod>2018-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/29c0/6f8f177f-eb5f-4328-ad06-9780f6f629c0/sundblad12_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Agile Service Architecture for the Agile Business]]></video:title>
+        <video:description><![CDATA[The second episode is all about how to increase service agility in support of business agility. An agile service architecture is an extensible and modifiable architecture. New consumers of a service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29c0/6f8f177f-eb5f-4328-ad06-9780f6f629c0/sundblad12_mid.mp4</video:content_loc>
+        <video:duration>1056</video:duration>
+        <video:publication_date>2015-11-20T04:26:12.5691615+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Software-Architecture-Microsoft-Platform/Business-Driven-Intentional-Software-Architecture</loc>
+      <lastmod>2017-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09ec/c6273b5c-55c2-45ae-b227-b09b7ac509ec/sundblad11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Business-Driven Intentional Software Architecture]]></video:title>
+        <video:description><![CDATA[Episode 1 sets the scene for Business-Driven Intentional Software Architecture. You&#39;ll learn how to separate architectural design from technical design. You&#39;ll learn how to turn typical requirements&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09ec/c6273b5c-55c2-45ae-b227-b09b7ac509ec/sundblad11_mid.mp4</video:content_loc>
+        <video:duration>968</video:duration>
+        <video:publication_date>2015-09-21T13:25:44.5192824+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

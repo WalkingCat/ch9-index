@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/Building-and-publishing-7-of-7</loc>
+      <lastmod>2021-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7121/9c12d3cc-5761-4c54-940b-2cb87e757121/UnityBeginner7of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building and publishing [7 of 7]]]></video:title>
+        <video:description><![CDATA[So, you finished your game, and now its time to build it and publish it. This video will teach you how to publish your game for different platforms. Download Unity by going to:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6930/035513a8-1e40-4095-a3b8-0ad99d4b6930/UnityBeginner7of7_mid.mp4</video:content_loc>
+        <video:duration>322</video:duration>
+        <video:publication_date>2020-11-09T16:00:07.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/Debugging-and-Analyzing-C-6-of-7</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4548/3e66ebf5-c1ff-42df-8e66-24fe2a214548/UnityBeginnerPart6of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Debugging and Analyzing C# [6 of 7]]]></video:title>
+        <video:description><![CDATA[This video will cover how to find and fix and analyze your C# code while using Unity. Download Unity by going to: store.unity.com/downloadDownload Visual Studio: aka.ms/AAa3k87To learn C# check out&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f6eb/95b0819c-f9ec-4de2-829f-0b29d9f9f6eb/UnityBeginnerPart6of7_mid.mp4</video:content_loc>
+        <video:duration>328</video:duration>
+        <video:publication_date>2020-11-09T16:00:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/Physics-and-collisions-5-of-7</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/83a6/db7ea668-c320-404c-8b1e-4178dfbf83a6/UnityBeginner5of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Physics and collisions [5 of 7] ]]></video:title>
+        <video:description><![CDATA[In this video we will cover how to apply physics to an object, and how to have them collide with others. We will also cover how to code C# for collisions. Download Unity by going to:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/263a/bd3e63f7-2f12-44e6-9c38-d7e8d9bf263a/UnityBeginner5of7_mid.mp4</video:content_loc>
+        <video:duration>479</video:duration>
+        <video:publication_date>2020-11-09T16:00:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/Unitys-input-system-package-4-of-7</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e1a9/cee5209b-ce1d-49f0-b2d3-2dda7bede1a9/UnityBeginner4of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unity&#39;s input system package [4 of 7]]]></video:title>
+        <video:description><![CDATA[This video will covers Unity&#39;s input system package, how to install it, and how to use it as quick as possible. Download Unity by going to: store.unity.com/downloadDownload Visual Studio:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3fb0/9adfb2f8-81f1-4461-bb51-ac398a543fb0/UnityBeginner4of7_mid.mp4</video:content_loc>
+        <video:duration>309</video:duration>
+        <video:publication_date>2020-11-09T16:00:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/GameObjects-and-C-scripts-3-of-7</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a0ba/097c3782-0ed0-422f-8618-d246f3e9a0ba/UnityBeginner3of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GameObjects and C# scripts [3 of 7]]]></video:title>
+        <video:description><![CDATA[This video we will explain what GameObjects are, what are MonoBehaviours, and how to write C# scripts for Unity and attach them to objects. Download Unity by going to: store.unity.com/downloadDownload&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bd2e/5e7bb542-1dd3-4fe6-ac25-29f5bb2ebd2e/UnityBeginner3of7_mid.mp4</video:content_loc>
+        <video:duration>409</video:duration>
+        <video:publication_date>2020-11-09T16:00:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/Installing-Unity-and-Visual-Studio-2-of-7</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c12b/34c244b0-a147-42f8-9852-38a8fc16c12b/UnityBeginner2of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing Unity and Visual Studio [2 of 7]]]></video:title>
+        <video:description><![CDATA[This video will cover installing Unity and Visual Studio and getting familiar with them before we start coding in C#. Download Unity by going to: store.unity.com/downloadDownload Visual Studio:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e825/8ebde26b-43ca-4a6a-a150-8d2556d9e825/UnityBeginner2of7_mid.mp4</video:content_loc>
+        <video:duration>368</video:duration>
+        <video:publication_date>2020-11-09T16:00:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Unity/Introduction-1-of-7</loc>
+      <lastmod>2021-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3b0e/25232f09-b534-4459-a3bf-5edba4793b0e/UnityBeginner1of7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Unity [1 of 7]]]></video:title>
+        <video:description><![CDATA[Welcome, we will teach you how to make games and more, write C# code, and build for over 25 different platforms using Unity. The series will focus on C# coding that are unique to Unity. Download Unity&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b69f/9bffb946-68d4-4753-88e4-28116e2eb69f/UnityBeginner1of7_mid.mp4</video:content_loc>
+        <video:duration>128</video:duration>
+        <video:publication_date>2020-11-09T16:00:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-mit-Barracuda-NextGen-Firewall-in-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-mit-Barracuda-NextGen-Firewall-in-Microsoft-Azure/Teil-3-Hybrid-Cloud-mit-NextGen-Firewall</loc>
+      <lastmod>2020-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2fda/8b926851-ceeb-4bf2-8008-78facec12fda/20160831barracuda3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 3: Hybrid Cloud mit hochverf&#252;gbaren NextGen Firewall-L&#246;sungen]]></video:title>
+        <video:description><![CDATA[In diesem Modul wird die Hochverf&#252;gbarkeit der NextGen Firewall in Azure pr&#228;sentiert und ein VPN-Tunnel von einer On-Prem NextGen Firewall zu einem Azure System konfiguriert. (Hybrid Cloud) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2fda/8b926851-ceeb-4bf2-8008-78facec12fda/20160831barracuda3_mid.mp4</video:content_loc>
+        <video:duration>1316</video:duration>
+        <video:publication_date>2016-09-01T13:21:09.0100711+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-mit-Barracuda-NextGen-Firewall-in-Microsoft-Azure/Teil-2-Windows-Server-mit-Barracuda-NextGen-Firewall-in-Microsoft-Azure</loc>
+      <lastmod>2016-09-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d41d/bffdc742-6a6d-46e7-8258-13e819afd41d/20160831barracuda2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 2: Windows Server mit Barracuda NextGen Firewall in Microsoft Azure sch&#252;tzen]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die grundlegenden Funktionen wie Forwarding Firewall, DNAT, SNAT und URL-Filtering konfiguriert. Desweiteren werden die Routen in Azure mittels UDR konfiguriert. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d41d/bffdc742-6a6d-46e7-8258-13e819afd41d/20160831barracuda2_mid.mp4</video:content_loc>
+        <video:duration>1235</video:duration>
+        <video:publication_date>2016-09-01T13:20:56.8654070+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-mit-Barracuda-NextGen-Firewall-in-Microsoft-Azure/Teil-1-Intro-Azure-Portal-Azure-Marketplace</loc>
+      <lastmod>2016-09-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c895/4a946a23-f69d-4c88-9518-19c3d21dc895/20160831barracuda1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 1: Einf&#252;hrung in das Azure Portal &amp; Azure Marketplace]]></video:title>
+        <video:description><![CDATA[Der erste Teil dieses Kurses erl&#228;utert die Grundlagen des neuen Azure Verwaltungsportal und des Azure Marketplaces.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c895/4a946a23-f69d-4c88-9518-19c3d21dc895/20160831barracuda1_mid.mp4</video:content_loc>
+        <video:duration>1648</video:duration>
+        <video:publication_date>2016-09-01T13:20:35.7041237+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

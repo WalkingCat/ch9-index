@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Services-Analytics</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Services-Analytics/How-does-data-insight-drive-business-value-in-manufacturing</loc>
+      <lastmod>2017-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/20ba/7a59ecd7-b200-4fcf-aa22-22d9747f20ba/Howdoesdatainsightdrivebusinessvalueinmanufacturi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How does data insight drive business value in manufacturing?]]></video:title>
+        <video:description><![CDATA[This presentation describes how a cloud analytics platform can provide value for manufacturing customers. The video presents a process manufacturing scenario and how a Microsoft Azure solution was&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/20ba/7a59ecd7-b200-4fcf-aa22-22d9747f20ba/Howdoesdatainsightdrivebusinessvalueinmanufacturi_mid.mp4</video:content_loc>
+        <video:duration>1274</video:duration>
+        <video:publication_date>2017-06-09T21:54:39.5896728+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Services-Analytics/Advanced-Analytics-Projects-What-Could-Go-Wrong</loc>
+      <lastmod>2017-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e7ed/a1329c1b-a716-4903-9682-dcd45d42e7ed/AAWrongAAProject_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced Analytics Projects - What Could Go Wrong?]]></video:title>
+        <video:description><![CDATA[As a follow up to the original session Implementing Successful Advanced Analytics Projects, this session is focused on helping organizations avoid common projects showstoppers, pitfalls and causes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7ed/a1329c1b-a716-4903-9682-dcd45d42e7ed/AAWrongAAProject_mid.mp4</video:content_loc>
+        <video:duration>1036</video:duration>
+        <video:publication_date>2016-10-14T11:51:00.6423657+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Services-Analytics/Implementing-Successful-Advanced-Analytics-Projects</loc>
+      <lastmod>2018-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/515c/2a6915a2-81e9-4abd-b44b-2c7a502a515c/AdvancedAnalyticsDataInsightsProjects_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Successful Advanced Analytics Projects]]></video:title>
+        <video:description><![CDATA[This presentation illustrates how Microsoft Services implements advanced analytics solutions at customers.  The video reviews the current state of advanced analytics solutions and architectures and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/515c/2a6915a2-81e9-4abd-b44b-2c7a502a515c/AdvancedAnalyticsDataInsightsProjects_mid.mp4</video:content_loc>
+        <video:duration>1872</video:duration>
+        <video:publication_date>2016-05-25T15:47:04.9184647+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Data-Lake</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Data-Lake/Whats-up-with-Spark55-Spark-Streaming</loc>
+      <lastmod>2016-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/462994a5-c7a1-478f-ae53-50967ea90670.png</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s up with Spark(5/5) - Spark Streaming]]></video:title>
+        <video:description><![CDATA[In this episode of What&#39;s up with___?  Andrew Moll meets with Shanyu Zhao, a Senior Engineer on the HDInsight team, and learns all about Spark Streaming.  Shanyu discusses the interworking of running&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2eaa/739e0b4e-cd48-4e40-83bf-d95c46712eaa/SparkStreaming_mid.mp4</video:content_loc>
+        <video:duration>1835</video:duration>
+        <video:publication_date>2015-09-28T21:16:50.1845560+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Data-Lake/Whats-up-with-Spark45-Spark-Machine-Learning</loc>
+      <lastmod>2015-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/c3c199ec-da61-4606-9f99-3057a6faaa9e.png</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s up with Spark(4/5) - Spark Machine Learning]]></video:title>
+        <video:description><![CDATA[In this episode of What&#39;s up with___?  Andrew Moll meets with Alejandro Guerrero Gonzalez, a Engineer on the HDInsight team, and learns all about Machine Learning on Spark.  Alejandro gives a brief&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b726/b03c073d-5aac-44db-af53-50e0eb78b726/SparkMachineLearning_mid.mp4</video:content_loc>
+        <video:duration>1391</video:duration>
+        <video:publication_date>2015-09-28T21:16:36.0315934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Data-Lake/Whats-up-with-Spark35-Jupyter-and-Zepplein-Notebooks</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/97a6/dddcf4a0-5f33-4b49-a680-e0cfb85797a6/SparkNotebooks_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s up with Spark(3/5) - Jupyter and Zepplein Notebooks]]></video:title>
+        <video:description><![CDATA[In this episode of What&#39;s up with___?  Andrew Moll meets with Joel Zambrano, a Senior Engineer on the HDInsight team, and learns all about the notebook experience on Spark.  Joel gives an overview of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/97a6/dddcf4a0-5f33-4b49-a680-e0cfb85797a6/SparkNotebooks_mid.mp4</video:content_loc>
+        <video:duration>1285</video:duration>
+        <video:publication_date>2015-09-28T21:16:22.0572582+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Data-Lake/Whats-up-with-Spark25-SparkSQL</loc>
+      <lastmod>2018-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/005be9c3-dcbe-40f4-84ce-5eda91889bf0.PNG</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s up with Spark(2/5) - SparkSQL]]></video:title>
+        <video:description><![CDATA[In this episode of What&#39;s up with___?  Andrew Moll meets with Asad Khan, a Principal Product Manager on the HDInsight team, and learns all about Spark SQL.  Asad explores a crime data set from the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e00/59003316-3f5a-4b48-8c2f-5ade7fd73e00/SparkSQL_mid.mp4</video:content_loc>
+        <video:duration>2396</video:duration>
+        <video:publication_date>2015-09-28T21:16:09.7726080+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Data-Lake/Whats-up-with-Spark15-Spark-Architecture</loc>
+      <lastmod>2021-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4541/3cafe25e-1bed-43a5-9801-c05c84254541/SparkIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s up with Spark(1/5) - Spark Architecture]]></video:title>
+        <video:description><![CDATA[In this episode of What&#39;s up with___?  Andrew Moll meets with Alejandro Guerrero Gonzalez and Joel Zambrano, Engineers on the HDInsight team, and learns all about the interworkings of Apache Spark. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4541/3cafe25e-1bed-43a5-9801-c05c84254541/SparkIntro_mid.mp4</video:content_loc>
+        <video:duration>1221</video:duration>
+        <video:publication_date>2015-09-28T21:15:52.9138593+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

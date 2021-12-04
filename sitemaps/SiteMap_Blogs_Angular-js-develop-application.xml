@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Angular-js-develop-application</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Angular-js-develop-application/01</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e847/f6b90456-16f0-4cd6-b3e4-10744ba6e847/AngularJSDevelopmentApplication_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Angular.jsSPA ]]></video:title>
+        <video:description><![CDATA[開始使用Angular.js打造SPA應用程式        - Angular.js基本介紹         - 如何綁定UI，以及Two-way Binding         - 撰寫簡單的Controller         - 使用Build-in Directive讓頁面更豐富         - 使用Filter過濾要呈現的資料         - 使用Route切換頁面 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e847/f6b90456-16f0-4cd6-b3e4-10744ba6e847/AngularJSDevelopmentApplication_mid.mp4</video:content_loc>
+        <video:duration>1900</video:duration>
+        <video:publication_date>2014-12-09T05:22:33.4556474+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Angular-js-develop-application/03</loc>
+      <lastmod>2014-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e8d/f93c585a-10e3-44a1-9094-538894fc4e8d/ProceedAngularjsautomatictestwithprotractor_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | ProtractorAngular.js]]></video:title>
+        <video:description><![CDATA[使用Protractor進行Angular.js的自動化測試        - 自動化測試環境設定         - 如何撰寫測試案例         - 撰寫實際頁面         - 進行自動化測試 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e8d/f93c585a-10e3-44a1-9094-538894fc4e8d/ProceedAngularjsautomatictestwithprotractor_mid.mp4</video:content_loc>
+        <video:duration>1561</video:duration>
+        <video:publication_date>2014-11-19T09:29:56.2079351+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Angular-js-develop-application/02</loc>
+      <lastmod>2016-04-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a48/e69be26d-972a-4cec-9342-e51eadbb6a48/Angularjsandajax_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Angular.jsAjax]]></video:title>
+        <video:description><![CDATA[2. 使用Angular.js建置表單，以及Ajax的使用 - 建立簡單的表單與驗證 - 表單驗證狀態與CSS，表單的觸發事件 - 自訂驗證         - 使用$http進行Ajax操作         - 使用$resource與Restful服務互動 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a48/e69be26d-972a-4cec-9342-e51eadbb6a48/Angularjsandajax_mid.mp4</video:content_loc>
+        <video:duration>1786</video:duration>
+        <video:publication_date>2014-11-19T09:29:28.5638512+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

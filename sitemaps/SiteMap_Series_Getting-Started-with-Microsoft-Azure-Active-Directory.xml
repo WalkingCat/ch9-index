@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory/Mod3</loc>
+      <lastmod>2016-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3374/c86d44a0-2296-4ecd-b7c5-8b8f414b3374/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) SaaS Application Access]]></video:title>
+        <video:description><![CDATA[This module will highlight the ease of deploying SaaS Application Access to enable seamless authentication to cloud-based, SaaS or Line of Business applications.  This video is part of the Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3374/c86d44a0-2296-4ecd-b7c5-8b8f414b3374/Mod3_mid.mp4</video:content_loc>
+        <video:duration>588</video:duration>
+        <video:publication_date>2015-03-05T14:03:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory/Mod2</loc>
+      <lastmod>2017-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5486/8052722f-2fd7-41db-a587-5db9b5ba5486/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Multi-Factor Authentication (MFA)]]></video:title>
+        <video:description><![CDATA[This module will cover Multi-Factor Authentication (MFA) role in the Azure family. Powered by a cloud service, it is often deployed to secure on-premises applications in conjunction with an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5486/8052722f-2fd7-41db-a587-5db9b5ba5486/Mod2_mid.mp4</video:content_loc>
+        <video:duration>619</video:duration>
+        <video:publication_date>2015-03-05T14:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory/Mod1</loc>
+      <lastmod>2018-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/027d/64be3bbe-75d3-455c-8a00-15eeca80027d/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Introduction to Microsoft Azure Active Directory ]]></video:title>
+        <video:description><![CDATA[This introduction will walk through the evolution of on premise Active Directory to cloud based Azure Active Directory. Also learn how Microsoft Azure Active Directory Management Access Console&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/027d/64be3bbe-75d3-455c-8a00-15eeca80027d/Mod1_mid.mp4</video:content_loc>
+        <video:duration>1419</video:duration>
+        <video:publication_date>2015-03-05T14:01:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

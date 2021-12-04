@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Polyglot-Notebooks-in-the-Wild</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/095f/39946664-67b3-4e60-bf48-28809b75095f/PolyglotNotebooks_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Polyglot Notebooks in the Wild]]></video:title>
+        <video:description><![CDATA[Join Paige for a conversation about Notebooks. https://aka.ms/dotNETConfFocusFSharp ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3c51/d62c2486-d3df-4ff0-8d43-739cf8993c51/PolyglotNotebooksInTheWild_mid.mp4</video:content_loc>
+        <video:duration>1773</video:duration>
+        <video:publication_date>2021-07-26T17:09:47.8295362+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/FSharp-Software-Foundation-NET-Foundation-QA</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4e6e/9a110a8a-c0d1-4b85-ad35-937365214e6e/FSoftwareNETFoundationQA_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F# Software Foundation &amp; .NET Foundation Q&amp;A]]></video:title>
+        <video:description><![CDATA[Ask questions to board members of F# Software Foundation and the .NET Foundaiton and hear about some of the initiatives they are working on. https://aka.ms/dotNETConfFocusFSharp ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/abbb/80abf2be-c60d-44ab-b26a-5c7809a5abbb/FSharpSoftwareFoundationAndDotNETFoundationQAndA_mid.mp4</video:content_loc>
+        <video:duration>2093</video:duration>
+        <video:publication_date>2021-07-26T16:51:47.5159959+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Simplifying-Data-with-CosmosDB-and-FSharp</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/172e/916970ea-4f91-45aa-8f02-76137df4172e/SimplfyingDataCosmoDB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Simplifying Data with CosmosDB and F#]]></video:title>
+        <video:description><![CDATA[CosmosDB is a multi-paradigm, schemaless database. With an SDK designed for an OO programming model, F# can feel a little clunky to use. So let&#39;s take a look at how we can optimise it for F#, and how&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0522/9d74cc7b-949e-4a24-a9ce-b7bc5bf10522/SimplifyingDataWithCosmosDBAndFSharp_mid.mp4</video:content_loc>
+        <video:duration>1631</video:duration>
+        <video:publication_date>2021-07-26T16:50:40.3459464+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/A-Conversation-About-Fable</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d3d2/43af1790-0fef-4f46-bc94-1f9c2339d3d2/ConversationFable_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Conversation About Fable]]></video:title>
+        <video:description><![CDATA[Let&#39;s talk about Fable, an efficient, productive, F# to JavaScript compiler. We&#39;ll see why F# is a great language to build both the logic and UI of your apps, review some of the many tools and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d35e/01a9eab4-d7a5-4d70-bb0f-5d9ba5cdd35e/AConversationAboutFable_mid.mp4</video:content_loc>
+        <video:duration>1677</video:duration>
+        <video:publication_date>2021-07-26T16:49:18.4306541+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Into-the-Land-of-Biotech-with-FSharp-as-an-Ally</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/42f4/23719707-7287-4c09-a863-dd6f195442f4/LandofBioTech_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Into the Land of Biotech with F# as an Ally]]></video:title>
+        <video:description><![CDATA[The landscape of biotech offers a variety of challenges to software engineers. What is it like to design DNA, manage lab operations, model complex experiment workflows, utilize robot-generated data&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1bf9/1a31083e-66a0-44e7-a049-880d0fc41bf9/IntoTheLandOfBiotechWithFSharpAsAnAlly_mid.mp4</video:content_loc>
+        <video:duration>2014</video:duration>
+        <video:publication_date>2021-07-26T16:47:43.3511032+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/FSharp-Tapas-Small-Bites-from-the-Cloud-to-the-Edge</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9a2f/3d992c5b-c5e6-4fd7-b578-12cc172b9a2f/FTapasCloudEdge_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F# Tapas - Small Bites from the Cloud to the Edge]]></video:title>
+        <video:description><![CDATA[Houston works through a few samples of F# native and &#39;interop&#39; capabilities that recently brought him to the language. Starting with Apache Spark, he hops over to a mini-project in .NET Interactive&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/541b/80338d89-baea-4847-8820-c8041d90541b/FSharpTapasSmallBitesFromTheCloudToTheEdge_mid.mp4</video:content_loc>
+        <video:duration>1909</video:duration>
+        <video:publication_date>2021-07-26T16:44:07.3676648+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Intro-to-Mathematical-Planning-with-FSharp</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fe03/1b859d4d-d635-4b2a-9773-4b2ac607fe03/IntroMathematicalPlanning_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to Mathematical Planning with F#]]></video:title>
+        <video:description><![CDATA[Mathematical Planning is the science of making optimal decisions and has transformed many industries including Logistics, Power Generation, the Stock Market and many others. Learn how F# provides a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/58ac/d149a237-8dd6-48a2-91c8-e5e2472758ac/IntroToMathematicalPlanningWithFSharp_mid.mp4</video:content_loc>
+        <video:duration>1473</video:duration>
+        <video:publication_date>2021-07-26T16:42:44.9332423+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/How-I-Learned-To-Stop-FUD-And-Stay-SAFE</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4537/3cbb37cd-d91c-4aca-a232-5d149f024537/HowStopFUDSAFE_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How I Learned To Stop FUD And Stay SAFE]]></video:title>
+        <video:description><![CDATA[See a SAFE MVP app in action and learn how F# can radically change your perspective on web development. https://aka.ms/dotNETConfFocusFSharp ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/449c/c39755fd-66d8-45a3-98e2-3181667d449c/HowILearnedToStopFUDAndStaySAFE_mid.mp4</video:content_loc>
+        <video:duration>1766</video:duration>
+        <video:publication_date>2021-07-26T16:39:50.1741499+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Don-Teaches-Guido-FSharp</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/00d8/e9b73126-6f32-4451-b818-0df688f000d8/DonTeachGuidoF_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Don Teaches Guido F#]]></video:title>
+        <video:description><![CDATA[Tune in for a fun, interactive, and fascinating session with two programming language creators. Guido van Rossum, creator of Python, learns F# from scratch from the creator of F#, Don Syme!&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8616/46471e90-a125-4be2-853e-8ae697c28616/DonTeachesGuidoFSharp_mid.mp4</video:content_loc>
+        <video:publication_date>2021-07-26T16:37:49.4856158+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Getting-Started-with-Data-Analytics-Machine-Learning-in-FSharp</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d864/c8dca2cd-395e-4ec2-9ab1-54dd14e7d864/GetStartedDataML_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Data Analytics &amp; Machine Learning in F#]]></video:title>
+        <video:description><![CDATA[Get an introduction to the tools and libraries for building data analytics and machine learning applications in F#. https://aka.ms/dotNETConfFocusFSharp ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/587c/7e8d6ee4-a195-4328-af64-ee11d52f587c/GettingStartedWithDataAnalyticsAndMachineLearning_mid.mp4</video:content_loc>
+        <video:duration>1693</video:duration>
+        <video:publication_date>2021-07-26T16:35:54.3264890+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Deploying-Cloud-Infrastructure-with-FSharp</loc>
+      <lastmod>2021-08-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9b75/5889aa63-12bb-4cda-9345-a5d575849b75/DeployCloudInfrastructure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Cloud Infrastructure with F#]]></video:title>
+        <video:description><![CDATA[Building a cloud application also means deploying and managing all the services to support it. We&#39;ll keep this complexity under control just like any other codebase by leveraging tools and techniques&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a315/8f152634-3c64-4f29-8e94-b6f21732a315/DeployingCloudInfrastructureWithFSharp_mid.mp4</video:content_loc>
+        <video:duration>1845</video:duration>
+        <video:publication_date>2021-07-26T16:34:23.1453869+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/A-Tour-of-F-Editor-Tooling</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/80af/0176ddf1-38b3-40cc-9251-0b2d67d080af/TourFEditorTooling_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Tour of F# Editor Tooling]]></video:title>
+        <video:description><![CDATA[F# supports a wide range of quality tooling you can use on any machine. In this talk, we&#39;ll demonstrate using F# for building apps in Visual Studio Code and the Ionide plugin, using F# for building&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2577/6a05f738-80fa-43d8-9dab-5ea9b66f2577/ATourOfFSharpEditorTooling_mid.mp4</video:content_loc>
+        <video:duration>1763</video:duration>
+        <video:publication_date>2021-07-26T16:32:42.1942648+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Productive-Data-Science-in-Biology-with-F</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fc4e/631e0aaa-c2f7-4e88-8cd3-08d08436fc4e/ProductiveDataSciBio_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Productive Data Science in Biology with F#]]></video:title>
+        <video:description><![CDATA[See how F# is used in efficient problem solving in bioinformatics utilizing the FsLab toolbox; from versatile data analysis to productive tooling for open science. https://aka.ms/dotNETConfFocusFSharp ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7bd4/fa5581e2-ebeb-4433-b2b6-656a734c7bd4/ProductiveDataScienceInBiologyWithFSharpNew_mid.mp4</video:content_loc>
+        <video:duration>1891</video:duration>
+        <video:publication_date>2021-07-26T16:13:32.8425989+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Modern-Web-Applications-made-Simple-Succinct-and-Robust</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fd89/11cf110b-72c2-4459-857f-6f99bc26fd89/ModernWebApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern Web Applications made Simple, Succinct and Robust]]></video:title>
+        <video:description><![CDATA[Learn how you can create web applications that take the best of the .NET 5 and JavaScript &amp;#43; React platforms, while harnessing F# to provide a seamless, type-safe, consistent and rewarding&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0b5f/25cc7c3d-bd11-43f3-8087-9bbfe65c0b5f/ModernWebApplicationsMadeSimpleSuccinctAndRobust_mid.mp4</video:content_loc>
+        <video:duration>1640</video:duration>
+        <video:publication_date>2021-07-26T16:06:32.2371808+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Starting-Your-FSharp-Journey</loc>
+      <lastmod>2021-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9ddb/1ccf65af-d5ed-4fff-bf2a-260d83f99ddb/StartingFJourney_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Starting Your F# Journey]]></video:title>
+        <video:description><![CDATA[Learn the basic principles of &#39;functional-first&#39; F# programming. You&#39;ll see how functions are used as the basic building blocks of code, how FP-style refactoring works, and how you can benefit from&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/36a8/8898366c-c33d-4235-8b1a-3a9502f536a8/StartingYourFSharpJourney_mid.mp4</video:content_loc>
+        <video:duration>1914</video:duration>
+        <video:publication_date>2021-07-26T16:04:53.1629024+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp/Don-Symes-F-Bonanza</loc>
+      <lastmod>2021-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/da67/7dc272ef-a27d-4eb2-b7af-1e345e4cda67/DonSymeBonanza_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Don Syme&#39;s F# Bonanza]]></video:title>
+        <video:description><![CDATA[Don Syme, creator of the F# language, will kick off the day by taking us on a journey through the F# language, community, and real-world business users. Learn about the key ideas underlying F#, its&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/61d0/9485fe68-02ac-4d97-b2d7-a59aace761d0/DonSymesFSharpBonanza_mid.mp4</video:content_loc>
+        <video:duration>3602</video:duration>
+        <video:publication_date>2021-07-26T15:57:57.8207055+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

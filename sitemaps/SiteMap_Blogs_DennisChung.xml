@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DennisChung</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DennisChung/Creating-Widgets-for-Silverlight</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/2/1/1/6/4/Widget4Silverlight_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Widgets for Silverlight]]></video:title>
+        <video:description><![CDATA[
+Apurva, Web Developer Evangelist of Microsoft Singapore tells us of a sample &amp;quot;widget&amp;quot; application showcasing how a concept of a widget can be taken to allow end-users to get upto speed on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/2/1/1/6/4/Widget4Silverlight_ch9.mp4</video:content_loc>
+        <video:duration>863</video:duration>
+        <video:publication_date>2009-03-16T02:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DennisChung/Battle-Stations-a-PHP-app-runs-better-on-Windows-Server-2008-IIS7</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/9/9/6/2/4/BattleStations_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Battle Stations, a PHP app, runs better on Windows Server 2008, IIS7]]></video:title>
+        <video:description><![CDATA[Here in Singapore, we started a LAMP2WIMP project team. Focus, to help PHP application owners realize that Windows Server 2008, IIS7 can be an option for them when running PHP applications.
+
+In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/9/9/6/2/4/BattleStations_ch9.mp4</video:content_loc>
+        <video:duration>316</video:duration>
+        <video:publication_date>2008-09-12T00:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp-Habilidades-Basicas</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp-Habilidades-Basicas/Actualizacin-y-Mantenimiento-de-la-Implementacin</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c8a6/63bf00da-12fd-4a60-8461-177166d5c8a6/ActualizacionyManteniientodelaImplementacion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Actualizaci&#243;n y Mantenimiento de la Implementaci&#243;n]]></video:title>
+        <video:description><![CDATA[Conozca los detalles de c&#243;mo mantener sus colecciones de aplicaciones al d&#237;a. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c8a6/63bf00da-12fd-4a60-8461-177166d5c8a6/ActualizacionyManteniientodelaImplementacion_mid.mp4</video:content_loc>
+        <video:duration>1152</video:duration>
+        <video:publication_date>2015-12-28T21:19:06.3999604+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp-Habilidades-Basicas/Informacin-general-sobre-Azure-RemoteApp</loc>
+      <lastmod>2016-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fede/3b8884b9-0a9b-4f36-aaa5-12ec1c2afede/InformaciongeneralSobreAzureREmoteapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Informaci&#243;n general sobre Azure RemoteApp]]></video:title>
+        <video:description><![CDATA[Conozca los principios b&#225;sicos de Azure RemoteApp, as&#237; como las caracter&#237;sticas principales de esta herramienta dentro del paquete Microsoft Azure.     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fede/3b8884b9-0a9b-4f36-aaa5-12ec1c2afede/InformaciongeneralSobreAzureREmoteapp_mid.mp4</video:content_loc>
+        <video:duration>1282</video:duration>
+        <video:publication_date>2015-12-28T21:16:05.2139081+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp-Habilidades-Basicas/Experiencia-de-usuario</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/08b2/e308bb1a-122f-4e50-b853-ff15038e08b2/ExperienciadeUsuario_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Experiencia de usuario]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo podr&#225; conocer la experiencia del cliente en Windows, iOS y Android. Tambi&#233;n se dar&#225; un vistazo a los protocolos y transportes involucrados.     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/08b2/e308bb1a-122f-4e50-b853-ff15038e08b2/ExperienciadeUsuario_mid.mp4</video:content_loc>
+        <video:duration>783</video:duration>
+        <video:publication_date>2015-12-28T21:15:07.9863129+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

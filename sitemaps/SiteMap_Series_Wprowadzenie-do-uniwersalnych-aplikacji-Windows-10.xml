@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-uniwersalnych-aplikacji-Windows-10</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-uniwersalnych-aplikacji-Windows-10/01-Pierwsza-aplikacja-Universal-Windows-Platform</loc>
+      <lastmod>2018-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db69/c3b44918-e8da-499c-bb8c-aaefebdfdb69/pierwsza_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Pierwsza aplikacja Universal Windows Platform]]></video:title>
+        <video:description><![CDATA[W pierwszej części kursu dowiesz się czym jest Universal Windows Platform, poznasz r&#243;żne możliwości tworzenia aplikacji Windows 10 a także zobaczysz jak stworzyć pierwszą aplikację UWP. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db69/c3b44918-e8da-499c-bb8c-aaefebdfdb69/pierwsza_mid.mp4</video:content_loc>
+        <video:duration>1301</video:duration>
+        <video:publication_date>2015-11-12T22:31:33.8620386+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-uniwersalnych-aplikacji-Windows-10/02-Uniwersalny-kod-i-narzdzia-developerskie</loc>
+      <lastmod>2015-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b138/76557fdd-4b37-4ce0-af48-3d724df5b138/uniwersalny_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Uniwersalny kod i narzdzia developerskie]]></video:title>
+        <video:description><![CDATA[W tej części kursu dowiesz się jak wykorzystać takie mechanizmy jak TargetDeviceFamily, dyrektywy kompilatory, Platform Extensions i PlatformSpecific.Analyzer do pisania uniwersalnego kodu dla&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b138/76557fdd-4b37-4ce0-af48-3d724df5b138/uniwersalny_mid.mp4</video:content_loc>
+        <video:duration>943</video:duration>
+        <video:publication_date>2015-11-12T22:29:50.6278560+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-uniwersalnych-aplikacji-Windows-10/03-Mosty-Windows-10--czyli-jak-przenie-aplikacj-iOS-Android-czy-Win32-do-Windows-Store</loc>
+      <lastmod>2015-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f061/e480a54a-bb27-46d7-8118-66a94880f061/mosty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Mosty Windows 10  czyli jak przenie aplikacj iOS, Android czy Win32 do Windows Store]]></video:title>
+        <video:description><![CDATA[W trzeciej części kursu dowiesz się więcej na temat most&#243;w Windows 10, czyli opowiemy jak przenieść istniejącą już aplikację iOS, Android czy Win32 do Windows Store. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f061/e480a54a-bb27-46d7-8118-66a94880f061/mosty_mid.mp4</video:content_loc>
+        <video:duration>894</video:duration>
+        <video:publication_date>2015-11-12T22:29:02.9360370+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

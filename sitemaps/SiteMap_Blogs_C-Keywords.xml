@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-volatile</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d83/2bf8be45-a23f-4271-a8ce-87a1ecfc4d83/csvolatile_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;volatile&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;volatile&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d83/2bf8be45-a23f-4271-a8ce-87a1ecfc4d83/csvolatile_mid.mp4</video:content_loc>
+        <video:duration>481</video:duration>
+        <video:publication_date>2016-06-07T06:34:28.7798982+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-yield</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/062d/92459c5c-d869-4e3e-8834-6836e1af062d/csyield_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;yield&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;yield&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/062d/92459c5c-d869-4e3e-8834-6836e1af062d/csyield_mid.mp4</video:content_loc>
+        <video:duration>407</video:duration>
+        <video:publication_date>2016-06-07T06:34:15.3581294+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-dynamic</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d43/24630a37-9ee1-4d32-b4fa-12c6d0243d43/csdynamic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;dynamic&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;dynamic&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d43/24630a37-9ee1-4d32-b4fa-12c6d0243d43/csdynamic_mid.mp4</video:content_loc>
+        <video:duration>450</video:duration>
+        <video:publication_date>2016-06-07T06:34:13.0455558+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-lock</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1f6/9ec31b32-e87e-454e-aa2a-20a932ecb1f6/cslock_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;lock&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;lock&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSample ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1f6/9ec31b32-e87e-454e-aa2a-20a932ecb1f6/cslock_mid.mp4</video:content_loc>
+        <video:duration>770</video:duration>
+        <video:publication_date>2016-06-07T06:34:08.2248131+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-ref</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c420/e3fca1e9-c668-4e6e-a51f-523ef00ac420/csref_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;ref&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;ref&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c420/e3fca1e9-c668-4e6e-a51f-523ef00ac420/csref_mid.mp4</video:content_loc>
+        <video:duration>1102</video:duration>
+        <video:publication_date>2016-06-07T06:34:03.8954472+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-out</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a51f/0c0494de-e394-4af1-a5b3-794efdbda51f/csout_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;out&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;out&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a51f/0c0494de-e394-4af1-a5b3-794efdbda51f/csout_mid.mp4</video:content_loc>
+        <video:duration>317</video:duration>
+        <video:publication_date>2016-06-07T06:34:01.2591629+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-as</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6ad/5277b070-6c04-44d5-b315-6d00685ad6ad/csas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;as&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;as&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6ad/5277b070-6c04-44d5-b315-6d00685ad6ad/csas_mid.mp4</video:content_loc>
+        <video:duration>248</video:duration>
+        <video:publication_date>2016-06-07T06:33:44.4827838+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/C-Keywords/C-Keywords-Was-macht-eigentlich-checked</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd2d/d81518f9-d3e8-453c-95dc-4cee98bddd2d/cschecked_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# Keywords - Was macht eigentlich &quot;checked&quot;?]]></video:title>
+        <video:description><![CDATA[In diesem Video erkl&#228;rt Daniel Meixner das C# Keyword &amp;quot;checked&amp;quot;. Den Samplecode gibt es hier zum Download: https://github.com/DanielMeixner/CSharpKeywordSamples ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd2d/d81518f9-d3e8-453c-95dc-4cee98bddd2d/cschecked_mid.mp4</video:content_loc>
+        <video:duration>320</video:duration>
+        <video:publication_date>2016-06-07T06:33:41.8526364+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

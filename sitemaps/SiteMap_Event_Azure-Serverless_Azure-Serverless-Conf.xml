@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Serverless-web-apps-with-Durable-Entities-SignalR-React-MobX-TypeScript</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7cce/6e9e0d84-aadc-4c3e-b79b-534231197cce/AzureServerlessConfEMEAKonstantin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Serverless web apps with Durable Entities+SignalR+React+MobX+TypeScript]]></video:title>
+        <video:description><![CDATA[You can build some exciting serverless stuff with a combination of Azure Functions Durable Entities, Azure SignalR Services, React, MobX and TypeScript. You just need some scaffolding.That scaffolding&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7cce/6e9e0d84-aadc-4c3e-b79b-534231197cce/AzureServerlessConfEMEAKonstantin_mid.mp4</video:content_loc>
+        <video:duration>1532</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Build-Custom-Connectors-for-Azure-Logic-Apps</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b4ff/e5600835-6ffe-43cc-9ee9-5ab95af5b4ff/AzureServerlessConfApacEmadAlashi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Custom Connectors for Azure Logic Apps]]></video:title>
+        <video:description><![CDATA[Azure provides more than &amp;#43;300 connectors for Azure Logic Apps to various services and endpoints. But sometimes, your needs cannot be covered by any of these connectors. In this situation, you can&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b4ff/e5600835-6ffe-43cc-9ee9-5ab95af5b4ff/AzureServerlessConfApacEmadAlashi_mid.mp4</video:content_loc>
+        <video:duration>1354</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Event-Sourcing-architecture-with-Azure-Cosmos-DB-and-Azure-Functions</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4e38/48d692e3-cd7c-4463-9c36-4773fa4c4e38/AzureServerlessConfAMERICASSantoshHari_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Event Sourcing architecture with Azure Cosmos DB and Azure Functions]]></video:title>
+        <video:description><![CDATA[These days some of the best solutions are Serverless - code executing in the cloud, reading and writing data to datastores in the cloud, without having to worry about trivial details like the data&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4e38/48d692e3-cd7c-4463-9c36-4773fa4c4e38/AzureServerlessConfAMERICASSantoshHari_mid.mp4</video:content_loc>
+        <video:duration>1535</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Monitoring-Logic-Apps-with-Application-Insights</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dea7/2927e257-a571-4206-9755-a4d70d49dea7/AzureServerlessConfAPAC-PacodelaCruz_Edited_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monitoring Logic Apps with Application Insights]]></video:title>
+        <video:description><![CDATA[The latest release of Logic Apps is now integrated with Application Insights. This integration provides very rich observability capabilities that include an end-to-end dependency map, built-in&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dea7/2927e257-a571-4206-9755-a4d70d49dea7/AzureServerlessConfAPAC-PacodelaCruz_Edited_mid.mp4</video:content_loc>
+        <video:duration>1498</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/When-powers-combine-Azure-Functions-and-PowerShell</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3479/c85c67fb-1bb4-4b78-911c-f3e33c263479/AzureServerlessConfEMEABarbaraForbes_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[When powers combine: Azure Functions and PowerShell]]></video:title>
+        <video:description><![CDATA[Azure PowerShell function apps are a great option for all your Azure administration, event driven scripts and interaction with data in storage accounts or databases. But how do you use them? In this&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3479/c85c67fb-1bb4-4b78-911c-f3e33c263479/AzureServerlessConfEMEABarbaraForbes_mid.mp4</video:content_loc>
+        <video:duration>1475</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Serverless-architectures-with-SQL-Server-and-Azure-Functions</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/05a1/b2e5037d-08a8-4823-a195-7c4de65e05a1/AzureServerlessConfEMEA-MassimoBonnani_Edited_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Serverless architectures with SQL Server and Azure Functions]]></video:title>
+        <video:description><![CDATA[Serverless architecture is becoming more and more fashionable and innovative technologies such as Azure Functions allow us to implement it easily. How can we bring into this reality a consolidated&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/05a1/b2e5037d-08a8-4823-a195-7c4de65e05a1/AzureServerlessConfEMEA-MassimoBonnani_Edited_mid.mp4</video:content_loc>
+        <video:duration>1594</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Azure-security-baseline-for-Azure-Serverless</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e608/e85d87a6-3d46-4aaa-8f69-1787d243e608/AzureServerlessConfEMEANinoCrudele_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure security baseline for Azure Serverless]]></video:title>
+        <video:description><![CDATA[In this session, Nino will share his hands-on experience to provide the best Azure security baseline for Azure Serverless. We will examine the most crucial technology integration stacks like Logic&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e608/e85d87a6-3d46-4aaa-8f69-1787d243e608/AzureServerlessConfEMEANinoCrudele_mid.mp4</video:content_loc>
+        <video:duration>1963</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Creating-the-Azure-Functions-Updates-Twitterbot</loc>
+      <lastmod>2021-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9fee/25960866-55cf-4d0a-a0f8-73427bf69fee/AzureServerlessConfEMEAMarcDuiker_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating the Azure Functions Updates Twitterbot]]></video:title>
+        <video:description><![CDATA[I created a serverless Twitterbot which tweets when new releases are made available in public GitHub repositories related to Azure Functions. In this session, I&#39;ll walk you through the serverless&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9fee/25960866-55cf-4d0a-a0f8-73427bf69fee/AzureServerlessConfEMEAMarcDuiker_mid.mp4</video:content_loc>
+        <video:duration>1426</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Introduction-to-Azure-SQL</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fe95/2a52681b-c7ae-4d40-b937-1adeca8efe95/AzureServerlessConfAmericasJavierVillegas_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Azure SQL]]></video:title>
+        <video:description><![CDATA[In this session we will cover the different options available in Azure SQL in order to select the appropriate option for our next cloud project. We will see practical cases of how to migrate our&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fe95/2a52681b-c7ae-4d40-b937-1adeca8efe95/AzureServerlessConfAmericasJavierVillegas_mid.mp4</video:content_loc>
+        <video:duration>1551</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Build-everything-on-Serverless</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/80d5/8bf5f8af-daed-4d3c-b012-d7eb521e80d5/AzureServerlessConfAPACDivakarKumar_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build everything on Serverless!]]></video:title>
+        <video:description><![CDATA[In the DemoWe will see how to develop Angular SPA and host it on Azure Static Web app and will use integrated API ( Azure Function ) to develop our translator modules , authentication.We will see how&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/80d5/8bf5f8af-daed-4d3c-b012-d7eb521e80d5/AzureServerlessConfAPACDivakarKumar_mid.mp4</video:content_loc>
+        <video:duration>1695</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Serverless-Apps-with-Blazor-WebAssembly-and-Azure-Static-Web-Apps</loc>
+      <lastmod>2021-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8731/502f05b0-968f-400e-9744-094449008731/AzureServerlessConfAmericasJoseColumbie_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Serverless Apps with Blazor WebAssembly and Azure Static Web Apps]]></video:title>
+        <video:description><![CDATA[The recipe is simple: A Blazor WebAssembly app, several Azure Functions, a class library for sharing code and an explosive combination of Github Actions deploying to an Azure Static Web App. Docs&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8731/502f05b0-968f-400e-9744-094449008731/AzureServerlessConfAmericasJoseColumbie_mid.mp4</video:content_loc>
+        <video:duration>1512</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/How-to-Build-Modern-IoT-Solutions-with-CosmosDB-and-PowerBI</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/10b9/60537264-b538-48e9-89ca-7719045c10b9/AzureServerlessConfEMEA-MihailMateev_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Build Modern IoT Solutions with CosmosDB and PowerBI]]></video:title>
+        <video:description><![CDATA[Sometimes design and implementation of modern IoT solutions can be easy. This talk is how to implement modern IoT server-less solutions in Azure, based on event driven design, and powered by Cosmos DB&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/10b9/60537264-b538-48e9-89ca-7719045c10b9/AzureServerlessConfEMEA-MihailMateev_mid.mp4</video:content_loc>
+        <video:duration>1572</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Building-an-Autoscaling-Over-Time-Dashboard-with-Azure-Functions-and-Durable-Entities</loc>
+      <lastmod>2021-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ea5a/267de762-8345-4b0c-aa8a-38138c8fea5a/AzureServerlessConfEMEATomKerkhove_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building an Autoscaling-Over-Time Dashboard with Azure Functions and Durable Entities]]></video:title>
+        <video:description><![CDATA[Durable Entities are an easy way in Azure Functions to keep a state for a given entity, allowing you to design your applications functionally. In this talk, you will learn how to put them in action to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ea5a/267de762-8345-4b0c-aa8a-38138c8fea5a/AzureServerlessConfEMEATomKerkhove_mid.mp4</video:content_loc>
+        <video:duration>1465</video:duration>
+        <video:publication_date>2021-09-29T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Building-Serverless-Automation-Solutions-A-Use-Case-Scenario-with-Luis-Beltran-Jesus-Gil-and-Humbert</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/05f3/99b8bb98-640d-46e6-94ab-428c066305f3/AzureServerlessConfEMEASession6LuisBeltranJesusGi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Serverless Automation Solutions: A Use Case Scenario with Luis Beltran, Jesus Gil, and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Building Serverless Automation Solutions: A Use Case Scenario with Luis Beltran, Jesus Gil, and Humberto Jaimes Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/05f3/99b8bb98-640d-46e6-94ab-428c066305f3/AzureServerlessConfEMEASession6LuisBeltranJesusGi_mid.mp4</video:content_loc>
+        <video:duration>1848</video:duration>
+        <video:publication_date>2021-09-10T06:49:21.1084176+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/The-Different-Patterns-of-Azure-Durable-Functions-with-Jonah-Andersson</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a25a/ce2c6081-9385-47ae-8ee6-8c755139a25a/AzureServerlessConfEMEASession5JonahAndersson_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Different Patterns of Azure Durable Functions with Jonah Andersson]]></video:title>
+        <video:description><![CDATA[The Different Patterns of Azure Durable Functions with Jonah Andersson Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a25a/ce2c6081-9385-47ae-8ee6-8c755139a25a/AzureServerlessConfEMEASession5JonahAndersson_mid.mp4</video:content_loc>
+        <video:duration>1517</video:duration>
+        <video:publication_date>2021-09-10T06:48:39.2170261+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Serverless-Web-Applications-with-GraphQL-Cosmos-DB-and-Azure-Functions-with-Jan-Henrik-Damaschke</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/89b9/f1018145-5223-4f23-8d56-b5cd34ca89b9/AzureServerlessConfEMEASession4JanHenrikDamaschke_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Serverless Web Applications with GraphQL, Cosmos DB and Azure Functions with Jan-Henrik Damaschke]]></video:title>
+        <video:description><![CDATA[Serverless Web Applications with GraphQL, Cosmos DB and Azure Functions with Jan-Henrik Damaschke Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/89b9/f1018145-5223-4f23-8d56-b5cd34ca89b9/AzureServerlessConfEMEASession4JanHenrikDamaschke_mid.mp4</video:content_loc>
+        <video:duration>1424</video:duration>
+        <video:publication_date>2021-09-10T06:48:14.6698310+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Become-an-Azure-Troubleshoot-Rockstar-with-Azure-Monitor-with-Rickard-Oh</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9381/29f13d2a-bf80-4440-b1a2-6a2c47819381/AzureServerlessConfEMEASession3RickardOh_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Become an Azure Troubleshoot Rockstar with Azure Monitor with Rickard Oh]]></video:title>
+        <video:description><![CDATA[Become an Azure Troubleshoot Rockstar with Azure Monitor with Rickard Oh Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9381/29f13d2a-bf80-4440-b1a2-6a2c47819381/AzureServerlessConfEMEASession3RickardOh_mid.mp4</video:content_loc>
+        <video:duration>1866</video:duration>
+        <video:publication_date>2021-09-10T06:47:29.7292967+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Azure-SQL-Database-Up--Down-on-Your-Demand-with-Bjrn-Peters</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c2c9/0b9aab6c-3866-4dcd-bc03-0fdc2d5ac2c9/AzureServerlessConfEMEASession2BjörnPeters_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure SQL Database - Up &amp; Down on Your Demand with Bj&#246;rn Peters]]></video:title>
+        <video:description><![CDATA[Azure SQL Database - Up &amp;amp; Down on Your Demand with Bj&#246;rn Peters Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c2c9/0b9aab6c-3866-4dcd-bc03-0fdc2d5ac2c9/AzureServerlessConfEMEASession2BjörnPeters_mid.mp4</video:content_loc>
+        <video:duration>1514</video:duration>
+        <video:publication_date>2021-09-10T06:46:49.3139698+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Azures-Integration-Platform-Building-Serverless-Applications-with-Eldert-Grootenboer</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/275f/60c1f5ec-20b2-4b53-895d-2133776e275f/AzureServerlessConfEMESession1EldertGrootenboer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure&#39;s Integration Platform: Building Serverless Applications with Eldert Grootenboer]]></video:title>
+        <video:description><![CDATA[Azure&#39;s Integration Platform: Building Serverless Applications with Eldert Grootenboer Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/275f/60c1f5ec-20b2-4b53-895d-2133776e275f/AzureServerlessConfEMESession1EldertGrootenboer_mid.mp4</video:content_loc>
+        <video:duration>1947</video:duration>
+        <video:publication_date>2021-09-10T06:45:57.0608455+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/The-Secret-Behind-Building-a-Reactive-Azure-Integration-Application-with-Ezhilarasi-Kesavan</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9e85/4cd2dd93-d747-4260-a463-38cbaebb9e85/AzureServerlessConfAPACSession6EzhilarasiKesavan_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Secret Behind Building a Reactive Azure Integration Application with Ezhilarasi Kesavan]]></video:title>
+        <video:description><![CDATA[The Secret Behind Building a Reactive Azure Integration Application with Ezhilarasi Kesavan Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9e85/4cd2dd93-d747-4260-a463-38cbaebb9e85/AzureServerlessConfAPACSession6EzhilarasiKesavan_mid.mp4</video:content_loc>
+        <video:duration>1687</video:duration>
+        <video:publication_date>2021-09-10T06:44:32.3513039+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Building-Enterprise-Dynamic-Heatmap-and-Monitoring-Dashboard-Using-Azure-Serverless-Technologies-wit</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a5aa/70ce1a89-7bd8-45c3-b8ff-d1cf0216a5aa/AzureServerlessConfAPACSession5PatrickZhao_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Enterprise Dynamic Heatmap and Monitoring Dashboard Using Azure Serverless Technologies&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Building Enterprise Dynamic Heatmap and Monitoring Dashboard Using Azure Serverless Technologies with Patrick Zhao Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a5aa/70ce1a89-7bd8-45c3-b8ff-d1cf0216a5aa/AzureServerlessConfAPACSession5PatrickZhao_mid.mp4</video:content_loc>
+        <video:duration>2039</video:duration>
+        <video:publication_date>2021-09-10T06:43:37.4943993+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/JavaScript-in-the-Cloud-with-Melissa-Houghton</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f790/9a87e5bc-6112-4f44-bb12-a2af723ff790/AzureServerlessConfAPACSession4MelissaHoughton_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[JavaScript in the Cloud with Melissa Houghton]]></video:title>
+        <video:description><![CDATA[JavaScript in the Cloud with Melissa Houghton Docs Pages/CTAs:Azure Functions: https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?WT.mc_id=azureserverless-34584-jemorgCosmos DB:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f790/9a87e5bc-6112-4f44-bb12-a2af723ff790/AzureServerlessConfAPACSession4MelissaHoughton_mid.mp4</video:content_loc>
+        <video:duration>1390</video:duration>
+        <video:publication_date>2021-09-10T06:42:51.3091155+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/New-Scenarios-with-Azure-Logic-Apps-with-Wagner-Silveira</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bcef/8b54dfcd-0de3-4def-ae46-31eea380bcef/AzureServerlessConfAPACSession3WagnerSilveira_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New Scenarios with Azure Logic Apps with Wagner Silveira ]]></video:title>
+        <video:description><![CDATA[New Scenarios with Azure Logic Apps with Wagner Silveira Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bcef/8b54dfcd-0de3-4def-ae46-31eea380bcef/AzureServerlessConfAPACSession3WagnerSilveira_mid.mp4</video:content_loc>
+        <video:duration>1781</video:duration>
+        <video:publication_date>2021-09-10T06:41:54.9405293+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Building-a-Personal-Serverless-Health-Platform-with-Will-Velida</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9d98/4b610016-88b7-4906-809f-2517cb3a9d98/AzureServerlessConfAPACSession2WillVelida_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a Personal Serverless Health Platform with Will Velida ]]></video:title>
+        <video:description><![CDATA[Building a Personal Serverless Health Platform with Will Velida Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9d98/4b610016-88b7-4906-809f-2517cb3a9d98/AzureServerlessConfAPACSession2WillVelida_mid.mp4</video:content_loc>
+        <video:duration>1687</video:duration>
+        <video:publication_date>2021-09-10T06:41:04.1999148+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Compute-Auto-scaling-in-Azure-SQL-Database-Serverless-with-Morgan-Oslake</loc>
+      <lastmod>2021-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a5cd/673ce9ea-c5bb-4a9d-bdd6-1ad8300aa5cd/AzureServerlessComputeAutoScalingInAzureSQLDataba_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Compute Auto-scaling in Azure SQL Database Serverless with Morgan Oslake]]></video:title>
+        <video:description><![CDATA[Compute Auto-scaling in Azure SQL Database Serverless with Morgan Oslake Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a5cd/673ce9ea-c5bb-4a9d-bdd6-1ad8300aa5cd/AzureServerlessComputeAutoScalingInAzureSQLDataba_mid.mp4</video:content_loc>
+        <video:duration>1502</video:duration>
+        <video:publication_date>2021-09-10T06:39:50.6781249+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Working-with-Azure-SQL-DB-Serverless-with-Carlos-Lopez</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5e2e/9197b2e6-78d8-4570-8f57-67841feb5e2e/AzureServerlessConfAMERICASSession7CarlosLopez_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Azure SQL DB Serverless with Carlos Lopez ]]></video:title>
+        <video:description><![CDATA[Working with Azure SQL DB Serverless with Carlos Lopez Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5e2e/9197b2e6-78d8-4570-8f57-67841feb5e2e/AzureServerlessConfAMERICASSession7CarlosLopez_mid.mp4</video:content_loc>
+        <video:duration>1531</video:duration>
+        <video:publication_date>2021-09-10T06:39:12.0021680+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Surfacing-FDA-COVID-Data-Using-Serverless-Functions-and-CosmosDB-with-Charles-Chen</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f351/2bf6d263-3c6c-48fa-bade-56d59099f351/AzureServerlessConfAMERICASSession6CharlesChen_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Surfacing FDA COVID Data Using Serverless Functions and CosmosDB with Charles Chen]]></video:title>
+        <video:description><![CDATA[Surfacing FDA COVID Data Using Serverless Functions and CosmosDB with Charles Chen Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f351/2bf6d263-3c6c-48fa-bade-56d59099f351/AzureServerlessConfAMERICASSession6CharlesChen_mid.mp4</video:content_loc>
+        <video:duration>1779</video:duration>
+        <video:publication_date>2021-09-10T06:38:37.1891298+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Battle-Royale-Azure-Logic-Apps-vs-Power-Automate-Microsoft-Flow-with-Prashant-G-Bhoyar</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5a62/d87aed6a-1b13-464a-b001-1799d25f5a62/AzureServerlessConfAMERICASSession5PrashantGBhoya_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Battle Royale: Azure Logic Apps vs. Power Automate (Microsoft Flow) with Prashant G Bhoyar ]]></video:title>
+        <video:description><![CDATA[Battle Royale: Azure Logic Apps vs. Power Automate (Microsoft Flow) with Prashant G Bhoyar Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5a62/d87aed6a-1b13-464a-b001-1799d25f5a62/AzureServerlessConfAMERICASSession5PrashantGBhoya_mid.mp4</video:content_loc>
+        <video:duration>1678</video:duration>
+        <video:publication_date>2021-09-10T06:37:30.5780279+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Building-a-Highly-Scalable-Game-with-Azure-Serverless-with-LaBrina-Loving</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/110d/95845db3-25ef-4db9-a467-eef60453110d/AzureServerlessConfAMERICASSession4LaBrinaLoving_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a Highly Scalable Game with Azure Serverless with LaBrina Loving ]]></video:title>
+        <video:description><![CDATA[Building a Highly Scalable Game with Azure Serverless with LaBrina Loving Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/110d/95845db3-25ef-4db9-a467-eef60453110d/AzureServerlessConfAMERICASSession4LaBrinaLoving_mid.mp4</video:content_loc>
+        <video:duration>1726</video:duration>
+        <video:publication_date>2021-09-10T06:35:21.0126648+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Serverless-Full-Stack-Kickstart-with-Davide-Mauri</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/55c8/31e37c22-9379-4129-92dd-02624c7f55c8/AzureServerlessConfAMERICASSession3DavideMauri_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Serverless Full-Stack Kickstart with Davide Mauri ]]></video:title>
+        <video:description><![CDATA[Serverless Full-Stack Kickstart with Davide Mauri Docs Pages/CTAs:Azure Functions: https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?WT.mc_id=azureserverless-34584-jemorgCosmos&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/55c8/31e37c22-9379-4129-92dd-02624c7f55c8/AzureServerlessConfAMERICASSession3DavideMauri_mid.mp4</video:content_loc>
+        <video:duration>1912</video:duration>
+        <video:publication_date>2021-09-10T06:34:51.4140249+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/A-Media-Processing-Workflow-with-Azure-Serverless-with-Braden-Riggs-and-Jayson-DeLancey</loc>
+      <lastmod>2021-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d9ea/88eba85e-fb39-48ec-b60a-903f1867d9ea/AzureServerlessConfAMERICASSession2BradenRiggsJay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Media Processing Workflow with Azure Serverless with Braden Riggs and Jayson DeLancey ]]></video:title>
+        <video:description><![CDATA[A Media Processing Workflow with Azure Serverless with Braden Riggs and Jayson DeLancey Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d9ea/88eba85e-fb39-48ec-b60a-903f1867d9ea/AzureServerlessConfAMERICASSession2BradenRiggsJay_mid.mp4</video:content_loc>
+        <video:duration>1488</video:duration>
+        <video:publication_date>2021-09-10T06:34:06.7618270+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Serverless/Azure-Serverless-Conf/Keynote-How-the-NET-Community-Team-Uses-Serverless-to-Automate-All-the-Things-with-Jon-Galloway-and-</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d597/0554d1b1-c32d-4646-9bc8-5a19278dd597/AzureServerlessConfAMERICASSession1KeynoteJonGall_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote: How the .NET Community Team Uses Serverless to Automate All the Things with Jon Galloway&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Keynote: How the .NET Community Team Uses Serverless to Automate All the Things with Jon Galloway and James Montemagno Docs Pages/CTAs:Azure Functions:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d597/0554d1b1-c32d-4646-9bc8-5a19278dd597/AzureServerlessConfAMERICASSession1KeynoteJonGall_mid.mp4</video:content_loc>
+        <video:duration>2040</video:duration>
+        <video:publication_date>2021-09-10T06:33:33.6806847+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

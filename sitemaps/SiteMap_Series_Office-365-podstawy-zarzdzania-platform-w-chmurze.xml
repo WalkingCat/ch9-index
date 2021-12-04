@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-podstawy-zarzdzania-platform-w-chmurze</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-podstawy-zarzdzania-platform-w-chmurze/04-Administracja-Office-365</loc>
+      <lastmod>2015-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e4a/9ac1015a-20a7-4c21-98f5-a63a7d890e4a/administracja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Administracja Office 365]]></video:title>
+        <video:description><![CDATA[W ostatnim module pokażę od czego zacząć przygotowania do zarządzania usługą, jakie są sposoby zarządzania Office 365. Dodatkowo jakie narzędzia mogą pom&#243;c w automatyzacji proces&#243;w w panelu usługi i&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e4a/9ac1015a-20a7-4c21-98f5-a63a7d890e4a/administracja_mid.mp4</video:content_loc>
+        <video:duration>1062</video:duration>
+        <video:publication_date>2015-05-08T09:14:27.4631221+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-podstawy-zarzdzania-platform-w-chmurze/03-Planowanie-usugi-Office-365</loc>
+      <lastmod>2015-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3752/d7600847-c999-4a83-b3b2-7d3875ff3752/planowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Planowanie usugi Office 365]]></video:title>
+        <video:description><![CDATA[Moduł ten poświęcony jest przygotowaniu do wdrożenia rozwiązania, przeprowadzenia analizy środowiska oraz om&#243;wi dostępne modele synchronizacji tożsamości w Office 365.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3752/d7600847-c999-4a83-b3b2-7d3875ff3752/planowanie_mid.mp4</video:content_loc>
+        <video:duration>897</video:duration>
+        <video:publication_date>2015-05-08T09:12:29.2589132+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-podstawy-zarzdzania-platform-w-chmurze/02-Chmura-publiczna--Office-365</loc>
+      <lastmod>2015-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab7f/0d941ead-88eb-40a3-8fc6-893fec04ab7f/chmurapubliczna_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Chmura publiczna  Office 365]]></video:title>
+        <video:description><![CDATA[Dowiedz się, jakie elementy wchodzą w skład platformy Office 365, jakie są plany i subskrypcje, oraz czym r&#243;żni się i jak działa Office 2013, Office 365 ProPlus i Office Online ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab7f/0d941ead-88eb-40a3-8fc6-893fec04ab7f/chmurapubliczna_mid.mp4</video:content_loc>
+        <video:duration>1273</video:duration>
+        <video:publication_date>2015-05-08T09:12:04.7934641+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-podstawy-zarzdzania-platform-w-chmurze/01-Wprowadzenie</loc>
+      <lastmod>2015-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/68a6/6db8fe3f-ff53-4725-a372-aa82aa6268a6/wprowadzenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wprowadzenie]]></video:title>
+        <video:description><![CDATA[Wprowadzenie do tematyki szkolenia, wskazanie innych kurs&#243;w rozrzeszających wiedzę oraz om&#243;wienie czym jest platforma MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/68a6/6db8fe3f-ff53-4725-a372-aa82aa6268a6/wprowadzenie_mid.mp4</video:content_loc>
+        <video:duration>292</video:duration>
+        <video:publication_date>2015-05-08T08:56:20.7246737+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

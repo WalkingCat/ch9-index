@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/powershell-using-statement</loc>
+      <lastmod>2020-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ecc5/8403d27e-a01b-4a62-8b73-8e4916f3ecc5/LearnPowerShell5UsingStatement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learn About the PowerShell 5.0 Using Statement]]></video:title>
+        <video:description><![CDATA[Check out the cloud &amp;amp; automation training courses that are developed by Art of Shell, who sponsored this video! In PowerShell 5.0, the using statement enables two new, exciting scenarios! If&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ecc5/8403d27e-a01b-4a62-8b73-8e4916f3ecc5/LearnPowerShell5UsingStatement_mid.mp4</video:content_loc>
+        <video:duration>337</video:duration>
+        <video:publication_date>2016-06-15T15:38:06.6957875+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-Two-Methods-of-Supporting-Online-Help</loc>
+      <lastmod>2020-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77dd/1ae57970-d90b-4b54-8ebf-619abe9977dd/PowerShellTwoMethodsOnlineHelp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell: Two Methods of Supporting Online Help]]></video:title>
+        <video:description><![CDATA[During this short video, you can easily discover two different methods of supporting online help in your PowerShell advanced functions! Find out more about Trevor Sullivan on Twitter (@pcgeek86) or on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77dd/1ae57970-d90b-4b54-8ebf-619abe9977dd/PowerShellTwoMethodsOnlineHelp_mid.mp4</video:content_loc>
+        <video:duration>160</video:duration>
+        <video:publication_date>2015-07-14T00:44:29.3717212+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/Introduction-to-PowerShell-Desired-State-Configuration</loc>
+      <lastmod>2020-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e52/58c31f9f-2a25-4647-9ec4-bbd816d76e52/IntroductionToPowerShellDSC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to PowerShell Desired State Configuration]]></video:title>
+        <video:description><![CDATA[During this video, we will introduce the PowerShell &amp;quot;configuration&amp;quot; keyword, which enables us to build declarative configuration documents that will help us to declare our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e52/58c31f9f-2a25-4647-9ec4-bbd816d76e52/IntroductionToPowerShellDSC_mid.mp4</video:content_loc>
+        <video:duration>758</video:duration>
+        <video:publication_date>2015-06-30T01:45:46.6973992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-Desired-State-Configuration-DSC--Installing-New-Resources</loc>
+      <lastmod>2020-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ed1/bb10a758-8efd-4f82-825f-3d0d775b6ed1/PowerShellDSCInstallingModules_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell Desired State Configuration (DSC) :: Installing New Resources]]></video:title>
+        <video:description><![CDATA[During this video, we will explore the locally installed DSC Resources, and then look at the PowerShell Gallery, which contains addition Desired State Configuration (DSC) Resources, enabling you to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ed1/bb10a758-8efd-4f82-825f-3d0d775b6ed1/PowerShellDSCInstallingModules_mid.mp4</video:content_loc>
+        <video:duration>617</video:duration>
+        <video:publication_date>2015-06-29T16:06:47.2502992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/Visual-Studio-2015-PowerShell-Tools-Overview</loc>
+      <lastmod>2020-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2bc/a16c1970-6897-4852-ac12-eed314d3a2bc/VS2015PoshToolsOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2015 PowerShell Tools Overview]]></video:title>
+        <video:description><![CDATA[In this video, we explore Visual Studio 2015 and the PowerShell Tools extension for it! PowerShell Tools is developed by Adam Driscoll (PowerShell MVP), and enables the development of PowerShell&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2bc/a16c1970-6897-4852-ac12-eed314d3a2bc/VS2015PoshToolsOverview_mid.mp4</video:content_loc>
+        <video:duration>709</video:duration>
+        <video:publication_date>2015-06-28T17:57:03.7060741+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-v5-Classes--Introduction-to-PowerShell-Classes</loc>
+      <lastmod>2020-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ec1/4a306b5d-3da9-4a00-a597-598730ab8ec1/PowerShellv5ClassesIntroductionToClasses_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell v5 Classes :: Introduction to PowerShell Classes]]></video:title>
+        <video:description><![CDATA[During this video, we will take an introductory look at the new PowerShell v5.0 Classes feature! Find out more about Trevor Sullivan on Twitter (@pcgeek86) or on his website http://trevorsullivan.net! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ec1/4a306b5d-3da9-4a00-a597-598730ab8ec1/PowerShellv5ClassesIntroductionToClasses_mid.mp4</video:content_loc>
+        <video:duration>379</video:duration>
+        <video:publication_date>2015-06-26T17:36:57.9821282+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-v5-Classes--Property-Validation-Attributes</loc>
+      <lastmod>2020-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aadf/018667fd-d63c-477c-9a97-27da4c3faadf/PowerShellv5ClassesPropertyValidationAttributes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell v5 Classes :: Property Validation Attributes]]></video:title>
+        <video:description><![CDATA[During this video, we will explore the ability to use validation attributes on your class properties in the new PowerShell v5.0 Classes feature! Find out more about Trevor Sullivan on Twitter&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aadf/018667fd-d63c-477c-9a97-27da4c3faadf/PowerShellv5ClassesPropertyValidationAttributes_mid.mp4</video:content_loc>
+        <video:duration>248</video:duration>
+        <video:publication_date>2015-06-26T17:27:10.2487592+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-v5-Classes--Inheritance--Base-Class-Methods</loc>
+      <lastmod>2021-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a032/31e7609b-e4f5-4da4-9eea-f9efa031a032/PowerShellv5ClassesInheritanceBaseClassMethods_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell v5 Classes :: Inheritance &amp; Base Class Methods]]></video:title>
+        <video:description><![CDATA[During this video, we will explore PowerShell v5.0 Class inheritance and how methods are invoked between the parent &amp;amp; child class definitions! Find out more about Trevor Sullivan on Twitter&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a032/31e7609b-e4f5-4da4-9eea-f9efa031a032/PowerShellv5ClassesInheritanceBaseClassMethods_mid.mp4</video:content_loc>
+        <video:duration>361</video:duration>
+        <video:publication_date>2015-06-26T17:15:08.1914789+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-v5-Classes--Object-Constructors</loc>
+      <lastmod>2020-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fca/943e57c0-3fea-4053-b955-b57f36225fca/PowerShellv5ClassesObjectConstructors_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell v5 Classes :: Object Constructors]]></video:title>
+        <video:description><![CDATA[During this video, we will explore the authoring of object constructors in the new PowerShell v5.0 Classes feature! Find out more about Trevor Sullivan on Twitter (@pcgeek86) or on his website&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fca/943e57c0-3fea-4053-b955-b57f36225fca/PowerShellv5ClassesObjectConstructors_mid.mp4</video:content_loc>
+        <video:duration>596</video:duration>
+        <video:publication_date>2015-06-26T16:52:49.1030041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-v5-Classes--NET-Enumerations</loc>
+      <lastmod>2021-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f41/cfd2eb72-fa79-4f6e-a16f-2c466bf03f41/PowerShellv5ClassesDotNetEnumerations_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell v5 Classes :: .NET Enumerations]]></video:title>
+        <video:description><![CDATA[.NET Enumerations are a new feature in PowerShell version 5.0! During this video, we will explore what .NET Enumerations are, and how to use them along with your PowerShell Classes! Visit Trevor&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f41/cfd2eb72-fa79-4f6e-a16f-2c466bf03f41/PowerShellv5ClassesDotNetEnumerations_mid.mp4</video:content_loc>
+        <video:duration>360</video:duration>
+        <video:publication_date>2015-06-23T18:04:49.9775300+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MsftPowerShell/PowerShell-v5-Classes--Why-Use-Them</loc>
+      <lastmod>2020-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a736/63fa0ca6-913c-463f-99df-34c369bda736/PowerShellv5ClassesWhyUseThem_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell v5 Classes :: Why Use Them?]]></video:title>
+        <video:description><![CDATA[During this video, we will discuss what PowerShell v5.0 Classes are, and why you might want to use them. We will take a look at properties, methods, and object constructors, getting you well on your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a736/63fa0ca6-913c-463f-99df-34c369bda736/PowerShellv5ClassesWhyUseThem_mid.mp4</video:content_loc>
+        <video:duration>490</video:duration>
+        <video:publication_date>2015-06-23T18:04:40.1761231+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

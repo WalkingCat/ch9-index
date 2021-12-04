@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MVA-Running-Linux-in-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MVA-Running-Linux-in-Azure/Module-3-VM-Extensions</loc>
+      <lastmod>2015-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/682f/979205df-e084-43fb-9c54-64bbee4a682f/Module3VMExtensions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 3: VM Extensions]]></video:title>
+        <video:description><![CDATA[Running Linux in Azure Module 3: VM Extensions ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/682f/979205df-e084-43fb-9c54-64bbee4a682f/Module3VMExtensions_mid.mp4</video:content_loc>
+        <video:duration>1966</video:duration>
+        <video:publication_date>2014-11-06T17:44:33.5926142+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MVA-Running-Linux-in-Azure/Module-2-Creating-a-Linux-VM-in-Azure</loc>
+      <lastmod>2015-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f46c/729efbf9-e783-4012-94cf-305b2eb7f46c/Module2CreatingALinuxVMInAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 2: Creating a Linux VM in Azure]]></video:title>
+        <video:description><![CDATA[Running Linux in Azure Module 2: Creating a Linux VM in Azure ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f46c/729efbf9-e783-4012-94cf-305b2eb7f46c/Module2CreatingALinuxVMInAzure_mid.mp4</video:content_loc>
+        <video:duration>1484</video:duration>
+        <video:publication_date>2014-11-06T17:44:23.6001256+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MVA-Running-Linux-in-Azure/Module-1-Microsoft-Open-in-the-cloud</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ca1/6f86f32a-7f1d-462f-b470-bbdd73f97ca1/Module1MicrosoftOpenInTheCloud_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 1: Microsoft - Open in the cloud]]></video:title>
+        <video:description><![CDATA[Running Linux in Azure Module 1: Microsoft - Open in the cloud ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ca1/6f86f32a-7f1d-462f-b470-bbdd73f97ca1/Module1MicrosoftOpenInTheCloud_mid.mp4</video:content_loc>
+        <video:duration>451</video:duration>
+        <video:publication_date>2014-11-06T17:44:05.7855908+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

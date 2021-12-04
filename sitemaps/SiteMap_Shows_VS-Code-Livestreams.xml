@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/VS-Code-for-the-Web</loc>
+      <lastmod>2021-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6110/ae182b15-bc89-49a1-9083-93ff02bb6110/VSCodeForTheWeb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code for the Web: vscode.dev]]></video:title>
+        <video:description><![CDATA[We&#39;re excited to introduce you to vscode.dev, bringing a true VS Code experience to the Web that doesn&#39;t need to be installed, launches instantly, and works anywhere (hello, iPad!). Come see the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6110/ae182b15-bc89-49a1-9083-93ff02bb6110/VSCodeForTheWeb_mid.mp4</video:content_loc>
+        <video:duration>3539</video:duration>
+        <video:publication_date>2021-10-21T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Building-a-faster-web-with-the-Jamstack</loc>
+      <lastmod>2021-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a397/16b939c3-22a6-44a1-ae40-489eea2ba397/VSCodeJamstack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a faster web with the Jamstack]]></video:title>
+        <video:description><![CDATA[Join Anthony and Simona to learn about the Jamstack and how to build faster and more secure web applications, all using Visual Studio Code and Azure Static Web Apps. Azure Static Web Apps docs ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a397/16b939c3-22a6-44a1-ae40-489eea2ba397/VSCodeJamstack_mid.mp4</video:content_loc>
+        <video:duration>1938</video:duration>
+        <video:publication_date>2021-10-14T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/VS-Code-1-61-Release-Party</loc>
+      <lastmod>2021-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5e37/efbfea02-bd05-4e3f-9f33-e7e459fe5e37/VSCode161_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.61 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss highlights from the September 2021, 1.61 release. Full release notesDownload VS Code[00:00] Welcome to the livestream[02:50] Platform-specific&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5e37/efbfea02-bd05-4e3f-9f33-e7e459fe5e37/VSCode161_mid.mp4</video:content_loc>
+        <video:duration>2338</video:duration>
+        <video:publication_date>2021-10-07T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/My-favorite-tips-and-tricks-with-VS-Code</loc>
+      <lastmod>2021-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/64cc/64104a79-14ce-44af-85c9-991aeee964cc/VSCodeTipsTrick_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[My favorite tips and tricks with VS Code]]></video:title>
+        <video:description><![CDATA[Hi, I&#39;m James (@jamesqquick) and I&#39;m a software developer. I&#39;ve spent hours researching settings, themes, shortcuts, and other ways to customize VS Code. I&#39;m excited to share some of my favorite tips&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/64cc/64104a79-14ce-44af-85c9-991aeee964cc/VSCodeTipsTrick_mid.mp4</video:content_loc>
+        <video:duration>1859</video:duration>
+        <video:publication_date>2021-09-30T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Open-Source-Design-in-VS-Code</loc>
+      <lastmod>2021-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2944/54f3fbda-c176-49ea-b9d1-bc7cc2c82944/VSCodeOpenSourceDesign_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Design in VS Code]]></video:title>
+        <video:description><![CDATA[Ever wondered what it&#39;s like to design features in the open? Come hear how the Visual Studio Code team invited the community into the design process and adopted open source design. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2944/54f3fbda-c176-49ea-b9d1-bc7cc2c82944/VSCodeOpenSourceDesign_mid.mp4</video:content_loc>
+        <video:duration>1892</video:duration>
+        <video:publication_date>2021-09-23T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Rapid-JavaScript-TypeScript-prototyping-in-VS-Code</loc>
+      <lastmod>2021-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/41bb/626fa6e6-35d1-468f-bb21-a375b47a41bb/VSCodeQuokka_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Rapid JavaScript/TypeScript prototyping in VS Code]]></video:title>
+        <video:description><![CDATA[Quokka provides the ideal scratchpad experience and makes learning, prototyping and testing JavaScript/TypeScript blazingly fast. Runtime values are displayed in VS Code beside your code. Your code&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/41bb/626fa6e6-35d1-468f-bb21-a375b47a41bb/VSCodeQuokka_mid.mp4</video:content_loc>
+        <video:duration>1950</video:duration>
+        <video:publication_date>2021-09-16T23:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Real-time-collaboration-with-Live-Share</loc>
+      <lastmod>2021-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d7f6/62e25867-7554-475d-8140-7b594b3cd7f6/VSCodeLiveShare_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real-time collaboration with Live Share]]></video:title>
+        <video:description><![CDATA[The Live Share extension enables individuals developers, students, and teams to collaboratively edit and debug their code together, directly from VS Code. Join Jonathan as he demonstrates how Live&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d7f6/62e25867-7554-475d-8140-7b594b3cd7f6/VSCodeLiveShare_mid.mp4</video:content_loc>
+        <video:duration>1913</video:duration>
+        <video:publication_date>2021-09-09T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/1-60-Release-Party</loc>
+      <lastmod>2021-09-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3fe4/80c0999d-08fd-4f93-b88f-1e4cf6753fe4/VSCode1.60_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.60 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss highlights from the August 2021, 1.60 release. Full release notes Download VS Code ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3fe4/80c0999d-08fd-4f93-b88f-1e4cf6753fe4/VSCode1.60_mid.mp4</video:content_loc>
+        <video:duration>2141</video:duration>
+        <video:publication_date>2021-09-02T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/WSL-and-VS-Code-code-on-Linux-on-a-Windows-laptop</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8e5e/a44b1f54-4ae9-4173-906f-2a8c82728e5e/VSCodeWSL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WSL and VS Code: code on Linux on a Windows laptop ]]></video:title>
+        <video:description><![CDATA[With VS Code and the Windows Subsystem for Linux (WSL) you get a full Linux environment to develop, build, test, and debug your Linux-based applications, directly inside a Windows machine. Join Craig&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8e5e/a44b1f54-4ae9-4173-906f-2a8c82728e5e/VSCodeWSL_mid.mp4</video:content_loc>
+        <video:duration>1826</video:duration>
+        <video:publication_date>2021-08-26T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/VS-Code-anywhere-GitHub-Codespaces-and-githubdev</loc>
+      <lastmod>2021-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2600/e660a945-99d1-4fd6-964c-306723e92600/VSCodeAnywhereCodespacesGithubDev_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code anywhere: GitHub Codespaces and github.dev]]></video:title>
+        <video:description><![CDATA[Join us to celebrate the launch of GitHub Codespaces and github.dev, and learn how you can develop your apps from wherever you are. [00:00] Welcome remarks[02:30] GitHub Codespaces and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2600/e660a945-99d1-4fd6-964c-306723e92600/VSCodeAnywhereCodespacesGithubDev_mid.mp4</video:content_loc>
+        <video:duration>1972</video:duration>
+        <video:publication_date>2021-08-19T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/VS-Code-1-59-Release-Party</loc>
+      <lastmod>2021-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5638/24f9cb64-e866-4485-9f42-78d60f715638/VSCode159RP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.59 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss highlights from the July 2021, 1.59 release. Full release notesLive Preview extensions[00:00] Welcome to the livestream[02:28] Live Preview&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5638/24f9cb64-e866-4485-9f42-78d60f715638/VSCode159RP_mid.mp4</video:content_loc>
+        <video:duration>1888</video:duration>
+        <video:publication_date>2021-08-10T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/GitHub-with-VS-Code</loc>
+      <lastmod>2021-08-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4577/99fa5f66-52f3-4bcf-b2b6-ce18b9194577/VSCodeGitHub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GitHub with VS Code]]></video:title>
+        <video:description><![CDATA[VS Code and GitHub work beautifully together out of the box, but with extensions take the integration to a whole new level! Come and learn how to level up your daily workflow. GitHub Pull Requests and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4577/99fa5f66-52f3-4bcf-b2b6-ce18b9194577/VSCodeGitHub_mid.mp4</video:content_loc>
+        <video:duration>1884</video:duration>
+        <video:publication_date>2021-08-05T23:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Getting-from-code-to-cloud-with-VS-Code-and-Pulumi</loc>
+      <lastmod>2021-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2b3c/061c7ef5-cbe0-4c56-9361-3fe0c7ed2b3c/VSCodePulumi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting from code to cloud with VS Code and Pulumi]]></video:title>
+        <video:description><![CDATA[For app developers, setting up infrastructure can be the hardest part of getting their app into production. What if you could just configure infrastructure using the same language you&#39;re using to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2b3c/061c7ef5-cbe0-4c56-9361-3fe0c7ed2b3c/VSCodePulumi_mid.mp4</video:content_loc>
+        <video:duration>1968</video:duration>
+        <video:publication_date>2021-07-27T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Type-safe-Database-access-with-Prisma</loc>
+      <lastmod>2021-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6a2d/d7e70aaa-bed7-45b8-b3bd-c73b2f236a2d/VSCodePrisma_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Type-safe Database access with Prisma]]></video:title>
+        <video:description><![CDATA[Prisma provides an excellent modeling language for defining your database, as well as a powerful ORM for working with SQL in JavaScript. The Prisma VS Code extension makes modeling data models fun and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6a2d/d7e70aaa-bed7-45b8-b3bd-c73b2f236a2d/VSCodePrisma_mid.mp4</video:content_loc>
+        <video:duration>1891</video:duration>
+        <video:publication_date>2021-07-22T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Web-Debugging-in-Visual-Studio-Code</loc>
+      <lastmod>2021-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b8fa/c6aa0c99-87a2-4a3d-b5d0-f869f1b8b8fa/VSCodeDevToolsDebugging_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Debugging in Visual Studio Code]]></video:title>
+        <video:description><![CDATA[Join Connor and Brandon as they develop and debug a webpage with VS Code. You&#39;ll learn how to use the JavaScript debugger to fix functional and performance issues in your site, and learn about the new&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b8fa/c6aa0c99-87a2-4a3d-b5d0-f869f1b8b8fa/VSCodeDevToolsDebugging_mid.mp4</video:content_loc>
+        <video:duration>1967</video:duration>
+        <video:publication_date>2021-07-19T19:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/1-58-Release-Party</loc>
+      <lastmod>2021-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/554a/4dd41178-0ff1-420e-9c99-8355cc00554a/VSCode158ReleaseParty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.58 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss highlights from the June 2021, 1.58 release. Full release notesNext livestreamDownload VS Code[00:00] Welcome to the livestream[02:46] Markdown&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/554a/4dd41178-0ff1-420e-9c99-8355cc00554a/VSCode158ReleaseParty_mid.mp4</video:content_loc>
+        <video:duration>2121</video:duration>
+        <video:publication_date>2021-07-13T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Build-your-first-VS-Code-extension</loc>
+      <lastmod>2021-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e4c8/c0219f4b-15bb-47bd-b388-48a9962fe4c8/VSCodeBuildFirstExtension_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build your first VS Code extension]]></video:title>
+        <video:description><![CDATA[Join Tyler as he goes from just an idea to a published extension on the VS Code Marketplace. You&#39;ll learn how to get started on building VS Code extensions, where to find resources, and how to publish&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e4c8/c0219f4b-15bb-47bd-b388-48a9962fe4c8/VSCodeBuildFirstExtension_mid.mp4</video:content_loc>
+        <video:duration>4074</video:duration>
+        <video:publication_date>2021-06-29T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/10-things-about-gitlens</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c90d/fcb3f0c6-b629-44e8-9a1a-e79bb7c6c90d/VSCodeGitLens_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10 things you didn&#39;t know about GitLens]]></video:title>
+        <video:description><![CDATA[GitLens is a popular extension that supercharges the Git capabilities built into VS Code. It lets you glimpse into whom, why, and when a line or code block was changed, then jump back through history&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c90d/fcb3f0c6-b629-44e8-9a1a-e79bb7c6c90d/VSCodeGitLens_mid.mp4</video:content_loc>
+        <video:duration>2054</video:duration>
+        <video:publication_date>2021-06-23T19:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/go-development</loc>
+      <lastmod>2021-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0d6d/6556fb72-ed71-4824-844f-ee2f81670d6d/VSCodeGo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Go: Writing and debugging fast, reliable and efficient software]]></video:title>
+        <video:description><![CDATA[Go is an open source programming language with built-in concurrency that is easy to learn and get started with. Join to learn how the Go extension for VS Code helps you easily develop Go projects, by&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0d6d/6556fb72-ed71-4824-844f-ee2f81670d6d/VSCodeGo_mid.mp4</video:content_loc>
+        <video:duration>1759</video:duration>
+        <video:publication_date>2021-06-17T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/1-57-Release-Party</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4727/767b35d9-57c4-49a7-a5a9-80308b1b4727/VSCode157ReleaseParty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.57 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss some highlights from the latest release (May 2021, v1.57)! Full release notesNext livestreamDownload VS Code[00:00] Welcome to the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4727/767b35d9-57c4-49a7-a5a9-80308b1b4727/VSCode157ReleaseParty_mid.mp4</video:content_loc>
+        <video:duration>2354</video:duration>
+        <video:publication_date>2021-06-10T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/protect-measure-coding-flow-softwarecom-vscode</loc>
+      <lastmod>2021-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5282/b76d7561-ee98-487a-9c0b-fdd2a4ef5282/VSCodeLiveSoftwareCom_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protect your code time and stay in flow with Software.com in VS Code]]></video:title>
+        <video:description><![CDATA[Discover how you can use your data to automate away distractions, protect your top code times, and find the most productive music for coding. Maximize deep work with Flow Mode to silence notifications&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5282/b76d7561-ee98-487a-9c0b-fdd2a4ef5282/VSCodeLiveSoftwareCom_mid.mp4</video:content_loc>
+        <video:duration>1904</video:duration>
+        <video:publication_date>2021-06-03T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Pylance-new-and-improved-Python-experience</loc>
+      <lastmod>2021-08-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2736/64cd3918-1b1e-473f-9295-430dd6d32736/VSCodePylance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pylance: our new and improved Python experience in VS Code]]></video:title>
+        <video:description><![CDATA[Get a glimpse of the most performant and user-friendly editing experience for Python in VS Code ever. The newest version of the extension dramatically improves language support via our new language&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2736/64cd3918-1b1e-473f-9295-430dd6d32736/VSCodePylance_mid.mp4</video:content_loc>
+        <video:duration>1807</video:duration>
+        <video:publication_date>2021-05-13T21:30:22.1522364+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/1-56-Release-Party</loc>
+      <lastmod>2021-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/16e5/0307fc2b-2ee2-4a79-b4d9-5b70243116e5/VSCode156ReleaseParty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.56 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss some highlights from the latest release (April 2021, v1.56)! Full release notesNext livestreamDownload VS Code[T00:00​] About to start[T00:30​]&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/16e5/0307fc2b-2ee2-4a79-b4d9-5b70243116e5/VSCode156ReleaseParty_mid.mp4</video:content_loc>
+        <video:duration>1743</video:duration>
+        <video:publication_date>2021-05-11T16:39:54.2416974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/net-Interactive-notebooks-with-csharp-fsharp</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7600/d08d610e-3b7e-47f0-8d0b-911a614b7600/VSCLiveNETInteractive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Interactive Notebooks with C#/F# in VS Code]]></video:title>
+        <video:description><![CDATA[Join Diego as he discusses some of the experiences he and his team are building to create improve experiences using notebooks. Diego will share the .NET Interactive Notebook experiences, including&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7600/d08d610e-3b7e-47f0-8d0b-911a614b7600/VSCLiveNETInteractive_mid.mp4</video:content_loc>
+        <video:duration>1825</video:duration>
+        <video:publication_date>2021-05-04T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Notebooks-Deep-Dive</loc>
+      <lastmod>2021-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c094/9fb94b51-2ad6-44db-9426-398adbb4c094/VSCodeNotebooksDeepDive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code Notebooks: A Deep Dive]]></video:title>
+        <video:description><![CDATA[VS Code is adding Notebooks as a core concept in the API, on top of which extensions like the Jupyter Notebook are being built. Join Tanha to explore the the capabilities of Notebooks in VS Code.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/378a/1c47dac4-0c2b-4b52-a6c5-f0e968db378a/VSCodeNotebooks_mid.mp4</video:content_loc>
+        <video:duration>3539</video:duration>
+        <video:publication_date>2021-04-15T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/1-55-Release-Party</loc>
+      <lastmod>2021-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d3bc/08c067ff-a103-4255-aa1c-a59d7ccfd3bc/VSCode155ReleaseParty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.55 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss some highlights from the latest release (March 2021, v1.55)! Full release notesNext livestreamDownload VS Code[00:00] About to start[00:33]&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d3bc/08c067ff-a103-4255-aa1c-a59d7ccfd3bc/VSCode155ReleaseParty_mid.mp4</video:content_loc>
+        <video:duration>1789</video:duration>
+        <video:publication_date>2021-04-08T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/Tabnine-AI-assistant</loc>
+      <lastmod>2021-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2eda/2ca86a86-d69d-48c4-bda0-ae8efcde2eda/VSCodeTabnine_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tabnine: Coding in VS Code with the Help of an AI Assistant]]></video:title>
+        <video:description><![CDATA[Software researchers predict that in 5 years, every developer workflow will involve artificial intelligence in one way or another. Join Yotam for a quick review of Tabnine, an AI-driven autocomplete&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2eda/2ca86a86-d69d-48c4-bda0-ae8efcde2eda/VSCodeTabnine_mid.mp4</video:content_loc>
+        <video:duration>1796</video:duration>
+        <video:publication_date>2021-03-25T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/VS-Code-Livestreams/1-54-Release-Party</loc>
+      <lastmod>2021-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8ac8/d9268164-1521-4d8f-ba79-b0b896358ac8/VSCode154ReleaseParty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code 1.54 Release Party ]]></video:title>
+        <video:description><![CDATA[Live event and Q&amp;amp;A with the VS Code team to discuss some highlights from the latest release (February 2021, v1.54)! Full release notesDownload VS Code[03:10] New Git improvements in VS Code[11:15]&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8ac8/d9268164-1521-4d8f-ba79-b0b896358ac8/VSCode154ReleaseParty_mid.mp4</video:content_loc>
+        <video:duration>1784</video:duration>
+        <video:publication_date>2021-03-11T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

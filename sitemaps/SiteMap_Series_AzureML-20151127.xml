@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureML-20151127</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureML-20151127/AzureML04</loc>
+      <lastmod>2015-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0ed/6e8d8e76-6cb6-4a82-ace1-31a48fe1d0ed/AzureML04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Power BI! Azure Machine Learning ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフトサポート エンジニア清水 麿 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0ed/6e8d8e76-6cb6-4a82-ace1-31a48fe1d0ed/AzureML04_mid.mp4</video:content_loc>
+        <video:duration>1578</video:duration>
+        <video:publication_date>2015-12-08T05:43:37.8501270+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureML-20151127/AzureML03</loc>
+      <lastmod>2015-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c743/54516071-aa61-4118-99de-c5ebf7a6c743/AzureML03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Machine Learning  K-means ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフトテクニカル エバンジェリスト大田 昌幸 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c743/54516071-aa61-4118-99de-c5ebf7a6c743/AzureML03_mid.mp4</video:content_loc>
+        <video:duration>1381</video:duration>
+        <video:publication_date>2015-12-08T05:43:23.6156846+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureML-20151127/AzureML02</loc>
+      <lastmod>2015-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e21d/2aee26dc-fd8b-420b-8ee8-44e1b0bee21d/AzureML02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[K-means ]]></video:title>
+        <video:description><![CDATA[フリーランス三上 威 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e21d/2aee26dc-fd8b-420b-8ee8-44e1b0bee21d/AzureML02_mid.mp4</video:content_loc>
+        <video:duration>1843</video:duration>
+        <video:publication_date>2015-12-08T05:43:09.4850511+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureML-20151127/AzureML01</loc>
+      <lastmod>2015-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de0b/f77386f7-e5c5-4679-92dc-b8ee6fe6de0b/AzureML01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Machine Learning  - HDInsight  -]]></video:title>
+        <video:description><![CDATA[株式会社ネクストスケープエバンジェリスト上坂 貴志 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de0b/f77386f7-e5c5-4679-92dc-b8ee6fe6de0b/AzureML01_mid.mp4</video:content_loc>
+        <video:duration>3361</video:duration>
+        <video:publication_date>2015-12-08T05:42:56.5096220+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

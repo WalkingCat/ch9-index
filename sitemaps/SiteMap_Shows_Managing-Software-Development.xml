@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Managing-Software-Development</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Managing-Software-Development/Managing-Software-Development-Eric-Brechner</loc>
+      <lastmod>2019-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/69e6/e2da4e7d-fd06-4b42-be61-26db95bc69e6/EricBrechnerMSD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Software Development - Eric Brechner]]></video:title>
+        <video:description><![CDATA[Here are some questions we asked Eric in this interview: How you setup vision, goals and boundaries for your team.What are your top three priority on the job?The worst advice you heard about&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69e6/e2da4e7d-fd06-4b42-be61-26db95bc69e6/EricBrechnerMSD_mid.mp4</video:content_loc>
+        <video:duration>3425</video:duration>
+        <video:publication_date>2017-05-19T02:06:00.3816141+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

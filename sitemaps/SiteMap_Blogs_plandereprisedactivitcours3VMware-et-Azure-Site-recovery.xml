@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Synthse</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ce30/bbc58de5-8051-4507-a1ad-0d009af1ce30/synthese_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Synth&#232;se]]></video:title>
+        <video:description><![CDATA[Le but de ce module est de vous permettre de revoir l&#39;ensemble des points &#233;tudi&#233;s dans ce cours.    Formateurs : Arnaud Lheureux, Pierre Chesne ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce30/bbc58de5-8051-4507-a1ad-0d009af1ce30/synthese_mid.mp4</video:content_loc>
+        <video:duration>106</video:duration>
+        <video:publication_date>2016-03-03T09:53:14.6359166+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Monte-en-charge-de-Azure-Site-Recovery-pour-Vmware</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a46f/eb674377-e626-4af8-b640-20dff0f2a46f/monteeenchargeazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mont&#233;e en charge de Azure Site Recovery pour Vmware]]></video:title>
+        <video:description><![CDATA[Ce module permet d&#39;&#233;tudier les bonnes pratiques de d&#233;ploiement et de mont&#233;e en charge de la solution pour une mise en production.    Formateurs : Arnaud Lheureux, Pierre Chesne ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a46f/eb674377-e626-4af8-b640-20dff0f2a46f/monteeenchargeazure_mid.mp4</video:content_loc>
+        <video:duration>249</video:duration>
+        <video:publication_date>2016-03-03T09:53:09.3234852+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Cration-du-PRA</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/578a/86ebdb7b-6ce7-4a67-a457-c5997819578a/creationdupra_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cr&#233;ation du PRA]]></video:title>
+        <video:description><![CDATA[Ce module revoit la combination de diff&#233;rentes VM au sein d&#39;un environnement pour cr&#233;er un plan de reprise d&#39;activit&#233; complet.   Formateurs : Arnaud Lheureux, Pierre Chesne ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/578a/86ebdb7b-6ce7-4a67-a457-c5997819578a/creationdupra_mid.mp4</video:content_loc>
+        <video:duration>361</video:duration>
+        <video:publication_date>2016-03-03T09:52:44.6046808+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Mise-en-uvre-de-la-protection-des-VM</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/380d/3fc1905b-8b68-428b-974a-b045f72c380d/miseenoeuvredelaprotectiondesVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mise en uvre de la protection des VM]]></video:title>
+        <video:description><![CDATA[Le but de ce module est de vous permettre de pr&#233;parer les diff&#233;rentes &#233;tapes pour la mise en protection des machines virtuelles Vmware au sein d&#39;Azure.    Formateurs : Arnaud Lheureux, Pierre Chesne ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/380d/3fc1905b-8b68-428b-974a-b045f72c380d/miseenoeuvredelaprotectiondesVM_mid.mp4</video:content_loc>
+        <video:duration>478</video:duration>
+        <video:publication_date>2016-03-03T09:52:37.9641007+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Mise-en-uvre-des-prrequis-Azure</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9c98/ddec53cc-189f-40db-9b5f-c00425419c98/miseenoeuvredesprerequisazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mise en uvre des pr&#233;requis Azure]]></video:title>
+        <video:description><![CDATA[Ce module permet de pr&#233;parer les diff&#233;rentes &#233;tapes pour la mise en œuvre rapide des composants Azure pour Azure Site Recovery avec d&#233;monstration &#224; l&#39;appui.    Formateurs : Arnaud Lheureux, Pierre&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9c98/ddec53cc-189f-40db-9b5f-c00425419c98/miseenoeuvredesprerequisazure_mid.mp4</video:content_loc>
+        <video:duration>736</video:duration>
+        <video:publication_date>2016-03-03T09:52:20.6541898+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Introduction--Azure-Site-Recovery</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/06a2/c48cce6c-50c3-4635-a928-0c203d0006a2/introductionaazuresiterecovery_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction &#224; Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[Ce module aborde les fonctionnalit&#233;s offertes par Azure Site Recovery pour la r&#233;plication de machines virtuelles VMware vers Azure et l&#39;instanciation de ces machines lors d&#39;un incident majeur dans&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/06a2/c48cce6c-50c3-4635-a928-0c203d0006a2/introductionaazuresiterecovery_mid.mp4</video:content_loc>
+        <video:duration>416</video:duration>
+        <video:publication_date>2016-03-03T09:52:08.2783766+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/plandereprisedactivitcours3VMware-et-Azure-Site-recovery/Introduction-aux-notions-de-Plan-de-Reprise-dActivit</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9cbd/0dd8487d-1099-48df-a398-bdd78cce9cbd/introductionauxnotionsdereprisedactivite_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction aux notions de Plan de Reprise d&#39;Activit&#233;]]></video:title>
+        <video:description><![CDATA[Dans ce module, nous introduisons &#224; la notion de plan de reprise d&#39;activit&#233; ainsi qu&#39;au vocabulaire associ&#233; (RPO, RTO...)   Formateurs : Arnaud Lheureux, Pierre Chesne ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9cbd/0dd8487d-1099-48df-a398-bdd78cce9cbd/introductionauxnotionsdereprisedactivite_mid.mp4</video:content_loc>
+        <video:duration>433</video:duration>
+        <video:publication_date>2016-03-03T09:51:35.7023141+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

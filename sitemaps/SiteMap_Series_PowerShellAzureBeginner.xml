@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShellAzureBeginner</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShellAzureBeginner/PowerShell-Azure-Automatisierung-Einsteiger-Teil-5</loc>
+      <lastmod>2015-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/40d4/87c46d01-455f-4685-b660-4c04361140d4/201501PowerShellAzureEinsteigerTeil5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell: Azure-Automatisierung f&#252;r Einsteiger - Teil 5 - Tipps &amp; Tricks]]></video:title>
+        <video:description><![CDATA[Im f&#252;nften und letzten Teil schlie&#223;en wir den Kurs mit Tipps &amp;amp; Tricks ab. Sie erfahren, wo Sie weitere PowerShell-Befehle und Dokumentation finden k&#246;nnen. Zudem lernen Sie einen Tipp kennen, wie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/40d4/87c46d01-455f-4685-b660-4c04361140d4/201501PowerShellAzureEinsteigerTeil5_mid.mp4</video:content_loc>
+        <video:duration>706</video:duration>
+        <video:publication_date>2015-01-16T17:41:34.2579953+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShellAzureBeginner/PowerShell-Azure-Automatisierung-Einsteiger-Teil-4</loc>
+      <lastmod>2015-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/128d/102276e0-d30c-4b5d-8788-4269e581128d/201501PowerShellAzureEinsteigerTeil4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell: Azure-Automatisierung f&#252;r Einsteiger - Teil 4 - VHDs sichern, kopieren und l&#246;schen]]></video:title>
+        <video:description><![CDATA[Das Kopieren und Sichern von Daten in Azure mithilfe von PowerShell bildet den Schwerpunkt im vierten Teil dieses Kurses. Zus&#228;tzlich widmen wir uns zwei h&#228;ufigen Fragestellungen: wie findet man&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/128d/102276e0-d30c-4b5d-8788-4269e581128d/201501PowerShellAzureEinsteigerTeil4_mid.mp4</video:content_loc>
+        <video:duration>2176</video:duration>
+        <video:publication_date>2015-01-16T17:41:25.4851006+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShellAzureBeginner/PowerShell-Azure-Automatisierung-Einsteiger-Teil-3</loc>
+      <lastmod>2015-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a3f7/6d2157d9-607d-4e25-9bc8-0f3f6daca3f7/201501PowerShellAzureEinsteigerTeil3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell: Azure-Automatisierung f&#252;r Einsteiger - Teil 3 - VMs verwalten und &#252;berwachen]]></video:title>
+        <video:description><![CDATA[Der dritte ist voll mit Demos und wir schauen uns ganz praktisch an, wie man alle offenen Ports (Endpoints) in einem Azure-Abonnement erh&#228;lt, Vorlagen (Images) f&#252;r die VM-Erstellung findet und VMs&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3f7/6d2157d9-607d-4e25-9bc8-0f3f6daca3f7/201501PowerShellAzureEinsteigerTeil3_mid.mp4</video:content_loc>
+        <video:duration>1569</video:duration>
+        <video:publication_date>2015-01-16T17:41:15.4834670+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShellAzureBeginner/PowerShell-Azure-Automatisierung-Einsteiger-Teil-2</loc>
+      <lastmod>2015-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1761/a05cb704-401a-4d96-bbe3-3bbabffa1761/201501PowerShellAzureEinsteigerTeil2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell: Azure-Automatisierung f&#252;r Einsteiger - Teil 2 - VMs automatisiert erstellen]]></video:title>
+        <video:description><![CDATA[Der zweite Teil baut zuerst Grundlagen &#252;ber Cloud-Dienste, Speicherkonten und virtuelle Maschinen (VMs) auf. Zum Vergleich wird die Erstellung einmal komplett im Verwaltungsportal demonstriert.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1761/a05cb704-401a-4d96-bbe3-3bbabffa1761/201501PowerShellAzureEinsteigerTeil2_mid.mp4</video:content_loc>
+        <video:duration>1856</video:duration>
+        <video:publication_date>2015-01-16T17:41:03.5214359+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShellAzureBeginner/PowerShell-Azure-Automatisierung-Einsteiger-Teil-1</loc>
+      <lastmod>2015-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d19/72a73299-11b5-45c9-aa3b-ff86a0982d19/201501PowerShellAzureEinsteigerTeil1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell: Azure-Automatisierung f&#252;r Einsteiger - Teil 1 - Erste Schritte]]></video:title>
+        <video:description><![CDATA[Der erste Teil dieses Kurses besch&#228;ftigt sich mit der Installation von PowerShell f&#252;r Azure und der Verwaltungszertifikate, die f&#252;r die Authentisierung gegen&#252;ber Azure notwendig sind. Zum Abschluss&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d19/72a73299-11b5-45c9-aa3b-ff86a0982d19/201501PowerShellAzureEinsteigerTeil1_mid.mp4</video:content_loc>
+        <video:duration>1314</video:duration>
+        <video:publication_date>2015-01-16T17:40:50.8739963+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

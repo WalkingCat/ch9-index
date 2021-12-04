@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/IntroducingTestFeedbackextension</loc>
+      <lastmod>2019-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2729/753c3036-7de3-408d-ade7-460d7b3e2729/GettingStartedv1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Test &amp; Feedback extension: Drive your exploratory testing and feedback flows ]]></video:title>
+        <video:description><![CDATA[The Exploratory Testing extension is now Test &amp;amp; Feedback. Learn More  Everyone in the team, be it product owners, developers, testers, UX designers etc., can use the Test &amp;amp; Feedback extension&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2729/753c3036-7de3-408d-ade7-460d7b3e2729/GettingStartedv1_mid.mp4</video:content_loc>
+        <video:duration>103</video:duration>
+        <video:publication_date>2016-10-07T06:04:13.2288639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Unit-Testing-from-a-CI-Build-with-Visual-Studio-Team-Services</loc>
+      <lastmod>2019-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7009/d38e5bd3-d5c6-4a7c-b91d-d3e014017009/UnitTestCI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unit Testing from a CI Build with Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Unit Testing from a CI Build with Visual Studio Team ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7009/d38e5bd3-d5c6-4a7c-b91d-d3e014017009/UnitTestCI_mid.mp4</video:content_loc>
+        <video:duration>241</video:duration>
+        <video:publication_date>2015-11-20T23:19:36.3939321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Testing-Java-Applications-with-Visual-Studio-Team-Services</loc>
+      <lastmod>2018-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc62/da21a940-7e53-479b-bac4-8ee8c4a0fc62/JavaTesting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Testing Java Applications with Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[This video will show how test Java Applications with Visual Studio Team Services...all from within a CI build pipeline  [00:37] - Try this with your VSTS Account. [Try it now link] [09:37] - Try this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc62/da21a940-7e53-479b-bac4-8ee8c4a0fc62/JavaTesting_mid.mp4</video:content_loc>
+        <video:duration>171</video:duration>
+        <video:publication_date>2015-11-20T21:14:06.9700326+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Browser-based-Exploratory-Testing-in-Visual-Studio-Team-Services</loc>
+      <lastmod>2015-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/411c/d4ed0bac-9ee6-49d1-8918-2860bf5e411c/ManualTestingXT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Browser-based Exploratory Testing in Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Today&#39;s faster application cycle times beg test tools that are easier to use and that are always available in the environment you are working in -and the Microsoft Exploratory Testing delivers this. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/411c/d4ed0bac-9ee6-49d1-8918-2860bf5e411c/ManualTestingXT_mid.mp4</video:content_loc>
+        <video:duration>604</video:duration>
+        <video:publication_date>2015-11-19T17:32:28.9893957+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Cloud-Loading-Testing-in-Visual-Studio-Team-Services</loc>
+      <lastmod>2017-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb95/b6805ac2-6cf6-4fb0-b786-55603643cb95/CLTVSTS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Loading Testing in Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[As you saw in the Connect Keynote the Azure has made Load testing much easier.  In this session Charles Sterling will show how to easily integrate load testing into your development process.  Now,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb95/b6805ac2-6cf6-4fb0-b786-55603643cb95/CLTVSTS_mid.mp4</video:content_loc>
+        <video:duration>631</video:duration>
+        <video:publication_date>2015-11-19T17:02:37.9750462+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Continuous-Testing-with-VSO</loc>
+      <lastmod>2018-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/445f/14440b18-7887-48a6-a147-7cea8655445f/CTinDevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Testing with Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Making a copy of the video looking at Continuous Testing and integrating Testing Efforts into the DevOps in Visual Studio Online.  While most of this video is done from Build the same workflows apply&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/445f/14440b18-7887-48a6-a147-7cea8655445f/CTinDevOps_mid.mp4</video:content_loc>
+        <video:duration>523</video:duration>
+        <video:publication_date>2015-11-17T20:07:02.9042263+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Load-Test-at-Build-2014</loc>
+      <lastmod>2015-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ff3/149a2d13-96cc-4fbc-aec5-f0a10bde1ff3/Loadtestbuild2014_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Load Test at Build 2014]]></video:title>
+        <video:description><![CDATA[Do you find it painful to set up infrastructure to run performance and load tests? Do you think load testing is an expensive affair? Do you have a need for testing your service with a large burst load&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ff3/149a2d13-96cc-4fbc-aec5-f0a10bde1ff3/Loadtestbuild2014_mid.mp4</video:content_loc>
+        <video:duration>3329</video:duration>
+        <video:publication_date>2015-11-16T21:14:18.6662358+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/New-Load-Test-Experience-in-Azure</loc>
+      <lastmod>2017-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b9b6/51353d68-a2d2-4832-8010-81c187cdb9b6/AzureCLT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New Load Test Experience in Azure]]></video:title>
+        <video:description><![CDATA[In this Azure Friday Scott Hanselman talks to Manas Maheshwari from the Azure team about a great new feature that lets you performance test your Azure Web Application directly from the Azure Portal!&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b9b6/51353d68-a2d2-4832-8010-81c187cdb9b6/AzureCLT_mid.mp4</video:content_loc>
+        <video:duration>735</video:duration>
+        <video:publication_date>2015-11-16T20:03:37.4583142+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Load-Testing-on-Visual-Studio-Tool-Box</loc>
+      <lastmod>2017-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a0a4/4e3672b3-f21d-4868-bad0-aa5b9bcfa0a4/VSToolboxLoadTesting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Load Testing on Visual Studio Tool Box]]></video:title>
+        <video:description><![CDATA[Continuing the Visual Study Toolbox exploration of testing, Chuck Sterling joins Robert Green this week to discuss load testing. Load testing provides you with the ability to see how well your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a0a4/4e3672b3-f21d-4868-bad0-aa5b9bcfa0a4/VSToolboxLoadTesting_mid.mp4</video:content_loc>
+        <video:duration>1797</video:duration>
+        <video:publication_date>2015-11-16T19:39:13.3061084+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/Performance-Testing-in-DevOps-workflows</loc>
+      <lastmod>2018-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d95c/98cf3f28-6078-4b08-b3c4-15858b4ed95c/LoadTestInDevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Performance Testing in DevOps workflows]]></video:title>
+        <video:description><![CDATA[In this video i join forces w/ Cory Fowler to walk through a typical DevOps workflow and how you would could integrate Load Testing into this interaction...Thanks for a fun time Cory! Chuck   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d95c/98cf3f28-6078-4b08-b3c4-15858b4ed95c/LoadTestInDevOps_mid.mp4</video:content_loc>
+        <video:duration>2085</video:duration>
+        <video:publication_date>2015-11-16T19:06:44.0972420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Test-Tools-in-Visual-Studio/New-Visual-Studio-Online-Load-Test-Experience</loc>
+      <lastmod>2014-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cbd5/f325cc7b-ee1e-4c40-ba44-8b636c61cbd5/LoadTestnewexperience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New Visual Studio Online Load Test Experience]]></video:title>
+        <video:description><![CDATA[Visual Studio Online also released a simplified browser based load testing experience that enables testing web pages by simply supplying the URL of the web application in question. This new load&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cbd5/f325cc7b-ee1e-4c40-ba44-8b636c61cbd5/LoadTestnewexperience_mid.mp4</video:content_loc>
+        <video:duration>591</video:duration>
+        <video:publication_date>2014-10-24T16:34:01.7834315+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

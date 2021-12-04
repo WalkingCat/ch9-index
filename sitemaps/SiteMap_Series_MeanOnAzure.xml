@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/The-Regatta-Project</loc>
+      <lastmod>2017-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3aa5/936e9c68-50a3-4eac-a16f-4db2e7233aa5/Regatta_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Regatta Project]]></video:title>
+        <video:description><![CDATA[This is an overview of the Regatta Project.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3aa5/936e9c68-50a3-4eac-a16f-4db2e7233aa5/Regatta_mid.mp4</video:content_loc>
+        <video:duration>285</video:duration>
+        <video:publication_date>2016-11-10T17:42:17.3052002+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-on-Azure-Episode-9--Mongo-DB-Sharding</loc>
+      <lastmod>2017-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ad8/e253a0af-125e-4236-8e49-80e493847ad8/MOAE9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN on Azure Episode 9: Mongo DB Sharding]]></video:title>
+        <video:description><![CDATA[MEAN on Azure Episode 9: Mongo DB Replica Sets In this episode we have MongoDB Master Nuri Halprin helps us understand Sharding.   About Nuri: Nuri Halperin consults, develops software, and trains&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ad8/e253a0af-125e-4236-8e49-80e493847ad8/MOAE9_mid.mp4</video:content_loc>
+        <video:duration>1286</video:duration>
+        <video:publication_date>2016-03-11T19:32:14.4621404+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-on-Azure-Episode-8--Understanding-Express-and-the-Express-Generator</loc>
+      <lastmod>2018-05-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9567/c4c035b4-3442-4c06-a134-f7e763769567/MOAE8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN on Azure Episode 8: Understanding Express and the Express Generator]]></video:title>
+        <video:description><![CDATA[In this episode, we pick up where we left off in Episode 5.  In that episode we showed you how to create a simple http server using node and the http module.  We finished off by showing you how to use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9567/c4c035b4-3442-4c06-a134-f7e763769567/MOAE8_mid.mp4</video:content_loc>
+        <video:duration>2044</video:duration>
+        <video:publication_date>2016-03-10T03:30:46.8322995+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-On-Azure-Episode-7-Mongo-Mongo-Replica-Sets</loc>
+      <lastmod>2017-09-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/257a/0b19cb1f-1183-4171-8838-067c2ae2257a/MOA7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN On Azure Episode 7: Mongo Replica Sets]]></video:title>
+        <video:description><![CDATA[The MEAN on Azure series includes both hands on coding and theory.  In this episode I was able to catch up with Nuri Halperin a MongoDB master and award winner to discuss replica sets in MongoDB  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/257a/0b19cb1f-1183-4171-8838-067c2ae2257a/MOA7_mid.mp4</video:content_loc>
+        <video:duration>1123</video:duration>
+        <video:publication_date>2016-02-29T21:14:08.5692799+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-on-Azure-Episode-6-A-Mean-On-Azure-Project-Chess</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1e6/bc2d1ffa-db0a-4b81-ae5e-c14eef39b1e6/MOA062_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN on Azure Episode 6: A Mean On Azure Project - Chess]]></video:title>
+        <video:description><![CDATA[In this episode of MEAN on Azure guest speaker David Washington walks us through how to build a multi-player chess game using, Azure, node.js, and socket.io.  If you want to follow along with the fun,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1e6/bc2d1ffa-db0a-4b81-ae5e-c14eef39b1e6/MOA062_mid.mp4</video:content_loc>
+        <video:duration>1526</video:duration>
+        <video:publication_date>2016-02-11T00:24:33.9286200+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-on-Azure-Episode-5--Creating-a-simple-Node-App</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/84c9/407224a8-4082-4024-ab04-01a9a69584c9/MOA5v2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN on Azure Episode 5 : Creating a Simple Node App]]></video:title>
+        <video:description><![CDATA[In this episode, we talk about NPM, Node and walk through a simple Node application.  We then show you how to use one of the many generators you can find on NPMjs.com.  The express-generator creates a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/84c9/407224a8-4082-4024-ab04-01a9a69584c9/MOA5v2_mid.mp4</video:content_loc>
+        <video:duration>1730</video:duration>
+        <video:publication_date>2016-01-27T22:22:01.8981797+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-on-Azure-MongoDB-in-the-Cloud-On-Linux</loc>
+      <lastmod>2016-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37a7/a09e6094-cd27-4a53-b34f-f37eb83f37a7/MOAE4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN on Azure Episode 4: Mongo in the Cloud - Linux Machine]]></video:title>
+        <video:description><![CDATA[In this video, we continue with installing the MongoDB database in the Azure Cloud but this time we show you how to stand up a Linux VM and install MongoDB on it.         ****  Long Commands that were&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37a7/a09e6094-cd27-4a53-b34f-f37eb83f37a7/MOAE4_mid.mp4</video:content_loc>
+        <video:duration>965</video:duration>
+        <video:publication_date>2015-12-15T22:56:04.9770585+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MOA-Episode-3-Mongo-in-the-Cloud-Windows-Machine</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2a3/e225b7a9-648a-4cfb-bf24-17e114efe2a3/MOAE3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN On Azure Episode 3: Mongo in the Cloud - Windows Machine]]></video:title>
+        <video:description><![CDATA[In this episode we show you how to set up MongoDB in Azure using a Windows Server complete with installing Mongo, setting up the service, opening the needed port, and an introduction to a really&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2a3/e225b7a9-648a-4cfb-bf24-17e114efe2a3/MOAE3_mid.mp4</video:content_loc>
+        <video:duration>1936</video:duration>
+        <video:publication_date>2015-12-10T17:04:34.2675432+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/A-MeanOnAzure-project</loc>
+      <lastmod>2017-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db8f/a734745b-6df2-4086-b6d7-5b318cd9db8f/MOA02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN On Azure Episode 2 : A MeanOnAzure project]]></video:title>
+        <video:description><![CDATA[In this video, we introduce a project we will be working on during the MeanOnAzure series. As any developer knows, you only really learn when you dive deep on a specific project so I have teamed up&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db8f/a734745b-6df2-4086-b6d7-5b318cd9db8f/MOA02_mid.mp4</video:content_loc>
+        <video:duration>589</video:duration>
+        <video:publication_date>2015-12-08T02:44:19.7070826+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MeanOnAzure/MEAN-on-Azure--Intro-and-Setting-up-your-Dev-Environment</loc>
+      <lastmod>2018-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5270/5b1b9e79-ff59-4b4e-a82f-0981895b5270/MEAN01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN on Azure Episode 1 : Intro and Setting up your Dev Environment]]></video:title>
+        <video:description><![CDATA[In this first show, we briefly talk about what to expect from this series and then dive right in to show you how to set up your machine so that you can follow along with the rest of the videos in this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5270/5b1b9e79-ff59-4b4e-a82f-0981895b5270/MEAN01_mid.mp4</video:content_loc>
+        <video:duration>2030</video:duration>
+        <video:publication_date>2015-11-25T19:50:10.0565578+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

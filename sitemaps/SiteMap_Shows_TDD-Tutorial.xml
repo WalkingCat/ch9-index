@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TDD-Tutorial</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TDD-Tutorial/Quickly-Start-TDD-with-Alive</loc>
+      <lastmod>2015-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9037/d1114e22-0407-40de-92fe-cee23f6b9037/TDD01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quickly Start TDD with Alive]]></video:title>
+        <video:description><![CDATA[歡迎收看由台灣MVP Joey Chen製作的影片，內容以一個簡單的例子來說明 Alive可以幫助我們在TDD 的過程更加順利。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9037/d1114e22-0407-40de-92fe-cee23f6b9037/TDD01_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2015-10-16T05:45:51.7795122+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

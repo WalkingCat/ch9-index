@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2022-Launch-Event</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2022-Launch-Event/Visual-Studio-2022</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c21a/57f51442-e956-41b3-9a2d-1de93807c21a/VS2022Overview_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2022]]></video:title>
+        <video:description><![CDATA[A 30 second tour of some of the latest features in Visual Studio 2022. https://visualstudio.microsoft.com/launch/ ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3f14/ff0713f6-cd21-42a8-9552-557e54443f14/VS2022promo30secondsFINAL_mid.mp4</video:content_loc>
+        <video:duration>30</video:duration>
+        <video:publication_date>2021-10-27T06:23:36.8278093+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Pitch-Perfect</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Pitch-Perfect/Windows-10-Pitch-Perfect</loc>
+      <lastmod>2020-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/23c3/07ce53a2-3e23-44d6-969a-376cc0fb23c3/Windows10PitchPerfect_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Pitch Perfect]]></video:title>
+        <video:description><![CDATA[Come and learn more about Windows 10 sales, discover Windows 10 functionality and the value proposition to customers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23c3/07ce53a2-3e23-44d6-969a-376cc0fb23c3/Windows10PitchPerfect_mid.mp4</video:content_loc>
+        <video:duration>3792</video:duration>
+        <video:publication_date>2015-10-23T10:06:59.2467942+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Pitch-Perfect/Partner-Role-Play-Scenario-for-Windows-10</loc>
+      <lastmod>2015-12-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aedf/3387df9e-98e4-4e6a-bcb3-c2325bceaedf/PartnerRolePlayScenarioForWindows10Sales_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Role Play Scenario for Windows 10]]></video:title>
+        <video:description><![CDATA[Come and learn more about Windows 10 sales, discover Windows 10 functionality and the value proposition to customers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aedf/3387df9e-98e4-4e6a-bcb3-c2325bceaedf/PartnerRolePlayScenarioForWindows10Sales_mid.mp4</video:content_loc>
+        <video:duration>2508</video:duration>
+        <video:publication_date>2015-10-23T10:06:05.1536915+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

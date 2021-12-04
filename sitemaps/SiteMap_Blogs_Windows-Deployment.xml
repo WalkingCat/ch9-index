@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Deployment</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Deployment/EDTforSystemBuilders</loc>
+      <lastmod>2019-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/98f9/a4ec8180-758c-4688-bc11-c807bce298f9/edt_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Express Deployment Tool (EDT) for System Builders]]></video:title>
+        <video:description><![CDATA[Do you find the Windows deployment process and tools complex and hard to understand? Does it take you multiple hours to create a Windows customized image? The Express Deployment Tool (EDT) makes it&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/98f9/a4ec8180-758c-4688-bc11-c807bce298f9/edt_mid.mp4</video:content_loc>
+        <video:duration>2361</video:duration>
+        <video:publication_date>2016-11-03T06:10:57.3791496+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Deployment/rs1deployment</loc>
+      <lastmod>2018-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3dee/c95dc220-2e5f-4b0b-9de3-ee8078ec3dee/RS1ODR201608_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Anniversary Update Deployment Training for System Builders]]></video:title>
+        <video:description><![CDATA[Are you a System Builder who has already created customized Windows 10 images? Want to see what is new in the Windows 10 Anniversary update? How about a new solution for customizing a Windows 10 image&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3dee/c95dc220-2e5f-4b0b-9de3-ee8078ec3dee/RS1ODR201608_mid.mp4</video:content_loc>
+        <video:duration>3535</video:duration>
+        <video:publication_date>2016-11-01T16:15:30.5442785+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Deployment/Windows10DeploymentTrainingforODR</loc>
+      <lastmod>2019-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/177b/d4537b4c-dbac-4e5a-b358-b751be16177b/win10DeploymentODR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Deployment Training for System Builders]]></video:title>
+        <video:description><![CDATA[Want to see how to build a PC with Windows 10 customized image pre-installed following Microsoft recommended steps and procedures? Here is a comprehensive look into deploying customized Windows 10&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/177b/d4537b4c-dbac-4e5a-b358-b751be16177b/win10DeploymentODR_mid.mp4</video:content_loc>
+        <video:duration>2840</video:duration>
+        <video:publication_date>2016-06-02T18:33:35.4257984+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

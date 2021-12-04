@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/More-Personal-Computing</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/More-Personal-Computing/05--Identitt</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d3c/8bfba6af-16c7-4aab-bc9e-a74780832d3c/05Identitaet_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Identit&#228;t]]></video:title>
+        <video:description><![CDATA[Entwickler k&#246;nnen Microsoft Passport nutzen, um Benutzern eine biometrische Authentifizierung mittels Windows Hello per Fingerabdruck-, Gesichts- oder Iriserkennung zu erm&#246;glichen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d3c/8bfba6af-16c7-4aab-bc9e-a74780832d3c/05Identitaet_mid.mp4</video:content_loc>
+        <video:duration>641</video:duration>
+        <video:publication_date>2016-04-06T13:39:59.1614942+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/More-Personal-Computing/04--Sprache</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe32/1da5434d-2be0-4618-8e61-5e49263cfe32/04Sprache_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Sprache]]></video:title>
+        <video:description><![CDATA[Dieses Modul stellt das Speech SDK und Cortana vor. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe32/1da5434d-2be0-4618-8e61-5e49263cfe32/04Sprache_mid.mp4</video:content_loc>
+        <video:duration>1436</video:duration>
+        <video:publication_date>2016-04-06T13:39:08.4384271+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/More-Personal-Computing/03--Gesten</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fec9/fd0d1026-3371-4865-82b8-52cb41c3fec9/03Gesten_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Gesten]]></video:title>
+        <video:description><![CDATA[Dieses Modul besch&#228;ftigt sich mit Gestensteuerung. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fec9/fd0d1026-3371-4865-82b8-52cb41c3fec9/03Gesten_mid.mp4</video:content_loc>
+        <video:duration>386</video:duration>
+        <video:publication_date>2016-04-06T13:37:54.8898221+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/More-Personal-Computing/02--Ink</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ef3a/92eb4b1d-a1bb-4353-ad88-c3fa97e1ef3a/01Ink_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Ink]]></video:title>
+        <video:description><![CDATA[Schreiben und Zeichnen beschreiben immer noch eine nat&#252;rliche Art der Kommunikation. Mit DirectInk k&#246;nnen Entwickler sehr einfach digitale Stifteingabe in ihre eigene Apps einbauen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef3a/92eb4b1d-a1bb-4353-ad88-c3fa97e1ef3a/01Ink_mid.mp4</video:content_loc>
+        <video:duration>624</video:duration>
+        <video:publication_date>2016-04-06T13:35:31.9837070+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/More-Personal-Computing/01--Einfhrung</loc>
+      <lastmod>2016-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d0b/552ff530-b8b9-4f2e-9c7a-e74d8bba9d0b/01Einfuehrung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Einf&#252;hrung]]></video:title>
+        <video:description><![CDATA[. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d0b/552ff530-b8b9-4f2e-9c7a-e74d8bba9d0b/01Einfuehrung_mid.mp4</video:content_loc>
+        <video:duration>378</video:duration>
+        <video:publication_date>2016-03-31T12:22:37.2714964+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

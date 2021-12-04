@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Microsoft-Dynamics-GP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Microsoft-Dynamics-GP/Microsoft-Dynamics-GP-Overview</loc>
+      <lastmod>2015-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/855d/b1643377-3735-4618-957b-04ef7a71855d/MicrosoftDynamicsGPOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Dynamics GP Overview]]></video:title>
+        <video:description><![CDATA[Get an overview of the Microsoft Dynamics GP application, including the basic modules that are available and the integration that takes place between them to help reduce the workload of the end user. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/855d/b1643377-3735-4618-957b-04ef7a71855d/MicrosoftDynamicsGPOverview_mid.mp4</video:content_loc>
+        <video:duration>2866</video:duration>
+        <video:publication_date>2015-05-15T14:48:11.6930452+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Microsoft-Dynamics-GP/Basic-Elements</loc>
+      <lastmod>2015-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c0f/f54f0bc0-5b1a-4bcf-83a5-c8c05ed81c0f/BasicElements_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Basic Elements]]></video:title>
+        <video:description><![CDATA[Gain insights into how to use basic elements within the Microsoft Dynamics GP application, including lookup windows, inquiry windows, and reports. Find out how to enter dates, make the most of notes,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c0f/f54f0bc0-5b1a-4bcf-83a5-c8c05ed81c0f/BasicElements_mid.mp4</video:content_loc>
+        <video:duration>3413</video:duration>
+        <video:publication_date>2015-05-15T14:47:54.3342155+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

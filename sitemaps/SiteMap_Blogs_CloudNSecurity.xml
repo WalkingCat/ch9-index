@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudNSecurity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudNSecurity/WannaCryptDefense</loc>
+      <lastmod>2017-05-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/13b6/f997da0d-e0c8-4571-a48b-ea40151513b6/WannaCryptDefense_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WannaCrypt:  Conducting a Hasty Defense]]></video:title>
+        <video:description><![CDATA[By now you have probably heard about the WannaCrypt Ransomware attack that occurred on May 12, 2017.  Despite the initial attack being stopped accidentally on May 13th by a savvy antimalware analyst,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13b6/f997da0d-e0c8-4571-a48b-ea40151513b6/WannaCryptDefense_mid.mp4</video:content_loc>
+        <video:duration>801</video:duration>
+        <video:publication_date>2017-05-15T17:02:46.2167401+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudNSecurity/AESOMSCyberDetect</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e1ee/3973d464-38d6-4538-875a-14e435f8e1ee/aesomscyberdetec_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Education Series-Detecting a Cyberattack with the Operations Management Suite]]></video:title>
+        <video:description><![CDATA[This 30 minute video demonstrates how cyberattacks occur and how the Microsoft Operations Management Suite Security Solution and Advanced Threat Analytics can be used to both detect and respond to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e1ee/3973d464-38d6-4538-875a-14e435f8e1ee/aesomscyberdetec_mid.mp4</video:content_loc>
+        <video:duration>1783</video:duration>
+        <video:publication_date>2017-02-10T20:43:30.8209629+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudNSecurity/AES-CloudStorage</loc>
+      <lastmod>2018-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8375/67b7bf3d-5e50-4707-b7af-aff317188375/AESCloudStorageandBackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Education Series-Cloud Storage, Backup and Disaster Recovery]]></video:title>
+        <video:description><![CDATA[This video is a recording of a live webcast delivered on January 24, 2017 and will provide a technical overview of the more popular uses cases for Azure Storage as they relate to Hybrid, Cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8375/67b7bf3d-5e50-4707-b7af-aff317188375/AESCloudStorageandBackup_mid.mp4</video:content_loc>
+        <video:duration>4002</video:duration>
+        <video:publication_date>2017-01-25T01:45:46.1035002+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudNSecurity/Combating-Corporate-Security-Threats-with-Log-AnalyticsNotable-Issues</loc>
+      <lastmod>2018-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ac3/d30b9a82-2b7e-4814-aa5c-608882459ac3/LogAnalyticsNotableIssues_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Combating Corporate Security Threats with Log Analytics....Notable Issues]]></video:title>
+        <video:description><![CDATA[This is the second video in my Combating Corporate Security Threats series covering the Security and Audit solution within Log Analytics.  In this entry I will drill down into the &amp;quot;Notable&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ac3/d30b9a82-2b7e-4814-aa5c-608882459ac3/LogAnalyticsNotableIssues_mid.mp4</video:content_loc>
+        <video:duration>550</video:duration>
+        <video:publication_date>2016-08-04T01:37:48.7639979+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudNSecurity/Combating-Corporate-Security-Threats-Getting-Started-with-Log-Analytics</loc>
+      <lastmod>2017-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5492/c1e9ba81-adfa-4af5-a98b-79476c725492/GettingStartedwLogAnalytics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Combating Corporate Security Threats:  Getting Started with Log Analytics]]></video:title>
+        <video:description><![CDATA[With the increase in cyber attacks over the past two years, organizations need intelligence based threat detection tools to assist them in protecting their enterprise.  This video will demonstrate how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5492/c1e9ba81-adfa-4af5-a98b-79476c725492/GettingStartedwLogAnalytics_mid.mp4</video:content_loc>
+        <video:duration>1008</video:duration>
+        <video:publication_date>2016-07-29T20:48:37.3091365+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido/reti-virtuali</loc>
+      <lastmod>2014-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f437/daf2910e-cded-4a5e-8710-b9198604f437/reti_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Le reti virtuali in Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato per il corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f437/daf2910e-cded-4a5e-8710-b9198604f437/reti_mid.mp4</video:content_loc>
+        <video:duration>654</video:duration>
+        <video:publication_date>2014-07-02T13:03:35.6795357+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido/macchine-virtuali</loc>
+      <lastmod>2014-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d25c/2f17f669-85d3-4043-b032-c1fdcc94d25c/VM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Le macchine virtuali in Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato per il corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d25c/2f17f669-85d3-4043-b032-c1fdcc94d25c/VM_mid.mp4</video:content_loc>
+        <video:duration>1044</video:duration>
+        <video:publication_date>2014-07-02T13:03:15.2765234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido/demovm</loc>
+      <lastmod>2014-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1d6/5e5af86b-ae10-466e-9f8e-4d3355d4b1d6/demovm_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure - Come si crea una macchina virtuale]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato per il corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1d6/5e5af86b-ae10-466e-9f8e-4d3355d4b1d6/demovm_mid.mp4</video:content_loc>
+        <video:duration>718</video:duration>
+        <video:publication_date>2014-07-02T13:02:11.9796996+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido/scenari</loc>
+      <lastmod>2014-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/865a/05f875b6-fc27-4bef-afd5-03e21e79865a/scenari_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gli scenari di Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato per il corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/865a/05f875b6-fc27-4bef-afd5-03e21e79865a/scenari_mid.mp4</video:content_loc>
+        <video:duration>1733</video:duration>
+        <video:publication_date>2014-07-02T12:58:47.8280803+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido/Intro</loc>
+      <lastmod>2014-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7300/e2f19fef-5828-422a-adca-9e0a735b7300/intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduzione al Cloud Pubblico]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato per il corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7300/e2f19fef-5828-422a-adca-9e0a735b7300/intro_mid.mp4</video:content_loc>
+        <video:duration>799</video:duration>
+        <video:publication_date>2014-07-02T12:54:32.5959653+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione-al-Cloud-Ibrido/calcolatore</loc>
+      <lastmod>2014-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3337/cccbaf68-e74f-4a51-a37d-c23c098b3337/calc_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure - Come si usa il calcolatore]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato per il corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3337/cccbaf68-e74f-4a51-a37d-c23c098b3337/calc_mid.mp4</video:content_loc>
+        <video:duration>314</video:duration>
+        <video:publication_date>2014-07-02T10:24:46.2990603+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

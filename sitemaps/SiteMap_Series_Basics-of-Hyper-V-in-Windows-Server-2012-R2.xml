@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Basics-of-Hyper-V-in-Windows-Server-2012-R2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Basics-of-Hyper-V-in-Windows-Server-2012-R2/04</loc>
+      <lastmod>2020-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5848/8a8d4775-e974-4412-8024-483d7db15848/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 |  ,     ]]></video:title>
+        <video:description><![CDATA[В это&amp;#1084; &amp;#1084;одуле вы узнаете, как сохранить состояние виртуальной &amp;#1084;ашины с по&amp;#1084;ощью контрольных точек, экспортировать и и&amp;#1084;портировать виртуальные &amp;#1084;ашины. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5848/8a8d4775-e974-4412-8024-483d7db15848/04_mid.mp4</video:content_loc>
+        <video:duration>881</video:duration>
+        <video:publication_date>2015-04-22T21:27:57.4456934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Basics-of-Hyper-V-in-Windows-Server-2012-R2/03</loc>
+      <lastmod>2020-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/90fb/840eb99b-8915-4013-8d2e-25facf8490fb/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |   ]]></video:title>
+        <video:description><![CDATA[В это&amp;#1084; &amp;#1084;одуле вы узнаете об особенностях настройки сетевого взаи&amp;#1084;одействия в виртуальных &amp;#1084;ашинах Hyper-V. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90fb/840eb99b-8915-4013-8d2e-25facf8490fb/03_mid.mp4</video:content_loc>
+        <video:duration>953</video:duration>
+        <video:publication_date>2015-04-22T21:27:51.7147783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Basics-of-Hyper-V-in-Windows-Server-2012-R2/02</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94c8/cac30035-21ce-42e9-bedf-5d56cb8894c8/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |   ]]></video:title>
+        <video:description><![CDATA[В данно&amp;#1084; &amp;#1084;одуле вы подробно расс&amp;#1084;отрите весь процесс создания новой виртуальной &amp;#1084;ашины. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94c8/cac30035-21ce-42e9-bedf-5d56cb8894c8/02_mid.mp4</video:content_loc>
+        <video:duration>1244</video:duration>
+        <video:publication_date>2015-04-22T21:27:42.8717203+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Basics-of-Hyper-V-in-Windows-Server-2012-R2/01</loc>
+      <lastmod>2019-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f69/c9a3d405-136c-4ca0-a769-4711ae168f69/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 |  Hyper-V]]></video:title>
+        <video:description><![CDATA[В ра&amp;#1084;ках этого &amp;#1084;одуля вы познако&amp;#1084;итесь с Hyper-V и установите эту роль на ваш сервер. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f69/c9a3d405-136c-4ca0-a769-4711ae168f69/01_mid.mp4</video:content_loc>
+        <video:duration>1095</video:duration>
+        <video:publication_date>2015-04-22T21:27:39.5801910+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

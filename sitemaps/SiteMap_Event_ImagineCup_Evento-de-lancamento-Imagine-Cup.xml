@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/ImagineCup/Evento-de-lancamento-Imagine-Cup</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ImagineCup/Evento-de-lancamento-Imagine-Cup/Lanamento-IC-2017</loc>
+      <lastmod>2017-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e1b/6d943b80-58b1-4c31-9ef9-fae2f9dc4e1b/lancamentoIC_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lan&#231;amento IC 2017]]></video:title>
+        <video:description><![CDATA[Evento de lan&#231;amento Imagine Cup 2017 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e1b/6d943b80-58b1-4c31-9ef9-fae2f9dc4e1b/lancamentoIC_mid.mp4</video:content_loc>
+        <video:duration>4877</video:duration>
+        <video:publication_date>2017-01-02T12:10:47.9187597+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

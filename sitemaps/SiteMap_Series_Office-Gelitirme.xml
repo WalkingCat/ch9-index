@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-Gelitirme</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-Gelitirme/02-Office-Tab-Apps-Addin-Gelistirme</loc>
+      <lastmod>2016-08-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a4ef/d645cb63-0d7e-44d7-84f7-8ba23150a4ef/02MicrosoftOfficetabapps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - Office Tab Apps Addin Gelitirme Visual Studio]]></video:title>
+        <video:description><![CDATA[Visual Stududio 2015 ile Office 365 ve Microsoft Office 2013 &#252;zerinde Tab Apps Addin geliştirme ve uygulama manifes dosyası tanıtımları.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a4ef/d645cb63-0d7e-44d7-84f7-8ba23150a4ef/02MicrosoftOfficetabapps_mid.mp4</video:content_loc>
+        <video:duration>952</video:duration>
+        <video:publication_date>2016-08-06T13:05:46.2091824+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-Gelitirme/01-Microsoft-Office-Gelitirmeye-Giri</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62ce/45eabf1a-2e9e-4903-8b1c-4b48396a62ce/mp4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - Microsoft Office Gelitirmeye Giri]]></video:title>
+        <video:description><![CDATA[Microsoft Office programları &#252;zerinde geliştirme ortamlarına giriş hakkında bilgiler i&#231;erir. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62ce/45eabf1a-2e9e-4903-8b1c-4b48396a62ce/mp4_mid.mp4</video:content_loc>
+        <video:duration>1305</video:duration>
+        <video:publication_date>2016-07-20T21:06:03.5274692+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/NetCamp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/NetCamp/NETC4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1113/015abd4b-d0d1-4695-834a-c6c34ba41113/NETC4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Connected Windows Store Apps the Easy Way]]></video:title>
+        <video:description><![CDATA[So you&#39;ve got a great idea and you know how to make a killer app but moving your crud to the cloud, dealing with schema and managing service endpoints just does not sound like fun. We hear you, and we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1113/015abd4b-d0d1-4695-834a-c6c34ba41113/NETC4_mid.mp4</video:content_loc>
+        <video:duration>3078</video:duration>
+        <video:publication_date>2013-03-18T00:51:48.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/NetCamp/NETC3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/06c7/90e8ef60-169b-4d81-908d-8ac745e306c7/NETC3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[XAML: What you need to know for Windows 8]]></video:title>
+        <video:description><![CDATA[At first glance XAML looks pretty straight forward, it&#39;s kind of like HTML and you can lay things out on a canvas or a grid. But there&#39;s so much more to it than that. In this session you&#39;ll learn the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/06c7/90e8ef60-169b-4d81-908d-8ac745e306c7/NETC3_mid.mp4</video:content_loc>
+        <video:duration>3746</video:duration>
+        <video:publication_date>2013-03-13T20:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/NetCamp/NETC2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb7a/c47ae01d-5e90-4949-adc1-e8be2aaacb7a/NETC2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Services, .NET &amp; You]]></video:title>
+        <video:description><![CDATA[Windows Azure Cloud Services offers a great way to logically separate your applications and scale the components up and out independently and easily. In this session you will get a complete overview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb7a/c47ae01d-5e90-4949-adc1-e8be2aaacb7a/NETC2_mid.mp4</video:content_loc>
+        <video:duration>2786</video:duration>
+        <video:publication_date>2013-03-13T19:56:57.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/NetCamp/NETC1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5523/cf107cb2-e06c-4b98-9702-ff4d23c75523/NETC1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sharing Awesome Across Multiple Screens]]></video:title>
+        <video:description><![CDATA[That thing where you build a phone app and you can just install it on a PC in addition to the phone you built the app for in the first place, yeah, it&#39;s not gonna happen.  By now you may already know&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5523/cf107cb2-e06c-4b98-9702-ff4d23c75523/NETC1_mid.mp4</video:content_loc>
+        <video:duration>1596</video:duration>
+        <video:publication_date>2013-03-13T19:56:18.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/NetCamp/NETC0</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5462/be97f200-7f68-49b6-96e9-305f245e5462/NETC0_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction/A Little About the Developer Movement]]></video:title>
+        <video:description><![CDATA[Learn a bit about the Developer Movement and about the content of the .NET Camp. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5462/be97f200-7f68-49b6-96e9-305f245e5462/NETC0_mid.mp4</video:content_loc>
+        <video:duration>436</video:duration>
+        <video:publication_date>2013-03-13T19:55:59.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

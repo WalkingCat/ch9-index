@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microservices-Architectures</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microservices-Architectures/Azure-Service-Fabric-Core-Wars</loc>
+      <lastmod>2017-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9731/51447811-a887-4aa2-b27f-e7e318249731/Az_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Service Fabric: Core Wars]]></video:title>
+        <video:description><![CDATA[Azure Service Fabric: Core Wars ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9731/51447811-a887-4aa2-b27f-e7e318249731/Az_mid.mp4</video:content_loc>
+        <video:duration>4474</video:duration>
+        <video:publication_date>2017-07-07T13:23:13.5171591+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microservices-Architectures/Ya-funciona-en-mi-mquina-Y-en-produccin-qu</loc>
+      <lastmod>2021-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4918/c8fec14e-dacd-46fd-9381-c472c83a4918/Ya_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ya funciona en mi m&#225;quina... Y en producci&#243;n &#191;qu&#233;?]]></video:title>
+        <video:description><![CDATA[Ya funciona en mi m&#225;quina... Y en producci&#243;n &#191;qu&#233;? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4918/c8fec14e-dacd-46fd-9381-c472c83a4918/Ya_mid.mp4</video:content_loc>
+        <video:duration>2725</video:duration>
+        <video:publication_date>2017-07-06T14:37:38.3528856+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microservices-Architectures/Microservices-Architecture-and-Docker-Containers-with-Microsoft-Platform-and-Tools</loc>
+      <lastmod>2021-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/60a3/5de23f67-4321-41a6-86a2-20d7787960a3/MS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microservices Architecture and Docker Containers with Microsoft Platform and Tools]]></video:title>
+        <video:description><![CDATA[Microservices Architecture and Docker Containers with Microsoft Platform and Tools ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/60a3/5de23f67-4321-41a6-86a2-20d7787960a3/MS_mid.mp4</video:content_loc>
+        <video:duration>4904</video:duration>
+        <video:publication_date>2017-07-06T14:29:42.5627453+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microservices-Architectures/Net-Core--Micro-Services</loc>
+      <lastmod>2019-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2c03/f158c2b6-8a4d-4e0a-9cd8-7b05e0212c03/avc_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.Net Core &amp; Micro-Services]]></video:title>
+        <video:description><![CDATA[.Net Core &amp;amp; Micro-Services ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c03/f158c2b6-8a4d-4e0a-9cd8-7b05e0212c03/avc_mid.mp4</video:content_loc>
+        <video:duration>2141</video:duration>
+        <video:publication_date>2017-07-06T14:29:41.4063903+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microservices-Architectures/Patrones-de-diseo-de-software-en-la-creacin-de-microservicios</loc>
+      <lastmod>2021-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc4d/0363e283-7379-4a82-85b4-27be2aa8fc4d/pa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Patrones de dise&#241;o de software en la creaci&#243;n de microservicios]]></video:title>
+        <video:description><![CDATA[Patrones de dise&#241;o de software en la creaci&#243;n de microservicios ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc4d/0363e283-7379-4a82-85b4-27be2aa8fc4d/pa_mid.mp4</video:content_loc>
+        <video:duration>2308</video:duration>
+        <video:publication_date>2017-07-06T14:29:41.2480346+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

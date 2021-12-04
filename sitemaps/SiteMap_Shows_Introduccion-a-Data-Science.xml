@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introduccion-a-Data-Science</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introduccion-a-Data-Science/Aplicaciones-de-Data-Science</loc>
+      <lastmod>2018-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4f10/9aec6e08-15d2-4643-8b5f-51d195b74f10/AplicacionesDataScience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Aplicaciones de Data Science]]></video:title>
+        <video:description><![CDATA[En este modulo se presentan algunas aplicaciones de Data Science en escenarios reales. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f10/9aec6e08-15d2-4643-8b5f-51d195b74f10/AplicacionesDataScience_mid.mp4</video:content_loc>
+        <video:duration>1049</video:duration>
+        <video:publication_date>2017-10-25T15:51:45.3067887+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introduccion-a-Data-Science/Herramientas-para-Data-Science</loc>
+      <lastmod>2020-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4ed4/c134c763-9323-4cca-9861-34e39e864ed4/HerramientasDataScience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Herramientas para Data Science]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presenta una introducci&#243;n a las herramientas disponibles para los cient&#237;ficos de datos y c&#243;mo podemos iniciar con estas herramientas. Algunas de las herramientas a revisar son: DSVM,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ed4/c134c763-9323-4cca-9861-34e39e864ed4/HerramientasDataScience_mid.mp4</video:content_loc>
+        <video:duration>1913</video:duration>
+        <video:publication_date>2017-10-25T15:51:26.9124185+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introduccion-a-Data-Science/Proceso-de-Data-Science</loc>
+      <lastmod>2021-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f6cc/a76ef519-a34e-43ca-8ca4-0ff1d994f6cc/ProcesoDataScience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Proceso de Data Science]]></video:title>
+        <video:description><![CDATA[En este modulo se presenta el proceso de Data Science, se muestra el TDSP (Team Data Science Process) y se describen cada una de las etapas del proceso. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6cc/a76ef519-a34e-43ca-8ca4-0ff1d994f6cc/ProcesoDataScience_mid.mp4</video:content_loc>
+        <video:duration>1311</video:duration>
+        <video:publication_date>2017-10-25T15:49:38.6568211+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introduccion-a-Data-Science/Conceptos-bsicos-de-Data-Science</loc>
+      <lastmod>2021-09-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1250/1068abae-293d-4735-a121-8afd76ae1250/ConceptobasicosDataScience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conceptos b&#225;sicos de Data Science]]></video:title>
+        <video:description><![CDATA[En este modulo se presenta la definici&#243;n de Data Science y su relaci&#243;n con otros conceptos como inteligencia de negocios, an&#225;lisis de informaci&#243;n, miner&#237;a de datos y machine learning. Adicionalmente&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1250/1068abae-293d-4735-a121-8afd76ae1250/ConceptobasicosDataScience_mid.mp4</video:content_loc>
+        <video:duration>956</video:duration>
+        <video:publication_date>2017-10-25T15:48:54.1490562+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Technical-Cloud-Day-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Technical-Cloud-Day-2015/Microsoft-Azure-RemoteApp-e-AD</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdbb/4a48ca73-3ca1-4e97-aa96-a38d80b8cdbb/remoteapp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure RemoteApp e AD]]></video:title>
+        <video:description><![CDATA[Gli utenti sono sempre pi&#249; mobili e sempre pi&#249; utilizzatori di pi&#249; di un device, con i quali vogliono accedere alla risorse aziendali ovunque si trovino. Per questa esigenza gli IT Admin si trovano a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdbb/4a48ca73-3ca1-4e97-aa96-a38d80b8cdbb/remoteapp_mid.mp4</video:content_loc>
+        <video:duration>3705</video:duration>
+        <video:publication_date>2015-02-09T16:49:49.1652701+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Technical-Cloud-Day-2015/Azure-Site-Recovery-Disaster-Recovery-sul-Cloud</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b052/9722e018-38a0-44dc-b102-b0753700b052/asr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Site Recovery: Disaster Recovery sul Cloud]]></video:title>
+        <video:description><![CDATA[Disaster Recovery: un tema che oltre agli scongiuri del caso, solleva importanti sfide logistiche e tecnologiche. Sia che stiate preparando un piano di Business Continuity,  sia che vogliate dare una&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b052/9722e018-38a0-44dc-b102-b0753700b052/asr_mid.mp4</video:content_loc>
+        <video:duration>3674</video:duration>
+        <video:publication_date>2015-02-06T11:04:18.6585330+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Technical-Cloud-Day-2015/Azure-StorSimple-Un-nuovo-modello-di-Storage</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/efab/cf209012-c260-4abd-a8ee-c95b8f76efab/store_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure StorSimple: Un nuovo modello di Storage]]></video:title>
+        <video:description><![CDATA[StorSimple e Microsoft Azure offrono una soluzione pacchettizzata di hybrid cloud storage fornendo primary storage, archive e disaster recovery. La soluzione ottimizza i costi di storage e protezione&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efab/cf209012-c260-4abd-a8ee-c95b8f76efab/store_mid.mp4</video:content_loc>
+        <video:duration>4026</video:duration>
+        <video:publication_date>2015-02-06T10:49:51.2370041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Technical-Cloud-Day-2015/Azure-Web-Sites-I-siti-web-sul-Cloud</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c028/6ea7a681-7117-40d8-a576-6d9923d1c028/web_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Web Sites: I siti web sul Cloud]]></video:title>
+        <video:description><![CDATA[Il PaaS &#232; l&#39;acceleratore di qualsiasi business, sia quelli in crescita rapida, che quelli maturi. Per i primi, i WebSites rappresentano la via veloce per ottenere un risultato talvolta complesso; per&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c028/6ea7a681-7117-40d8-a576-6d9923d1c028/web_mid.mp4</video:content_loc>
+        <video:duration>2559</video:duration>
+        <video:publication_date>2015-02-02T16:37:53.5571642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Technical-Cloud-Day-2015/Azure-IaaS-Implementare-lHybrid-Cloud</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4dff/21d721b3-610c-4fe4-9e61-d9fb7a4e4dff/IaaS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure IaaS: Implementare l&#39;Hybrid Cloud]]></video:title>
+        <video:description><![CDATA[Infrastructure as a Service &#232; il nuovo modello che permette di creare delle macchine virtuali all&#39;interno di Microsoft Azure, senza dover affrontare i costi legati all&#39;acquisto di nuovo hardware,e che&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4dff/21d721b3-610c-4fe4-9e61-d9fb7a4e4dff/IaaS_mid.mp4</video:content_loc>
+        <video:duration>5048</video:duration>
+        <video:publication_date>2015-01-29T08:18:42.3480923+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

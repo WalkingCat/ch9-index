@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/01</loc>
+      <lastmod>2019-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/960a/d648ccae-6af5-4c3e-a631-886818bd960a/01WelcomeToFSharpConf_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to fsharpConf]]></video:title>
+        <video:description><![CDATA[fsharpConf is a free virtual event supported by the F# Software Foundation featuring world-class F# experts across the globe. For the introduction and welcome session, Don Syme will be joining us&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/960a/d648ccae-6af5-4c3e-a631-886818bd960a/01WelcomeToFSharpConf_mid.mp4</video:content_loc>
+        <video:duration>1737</video:duration>
+        <video:publication_date>2018-04-16T21:08:21.0195450+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/02</loc>
+      <lastmod>2019-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3733/b4a2965f-db3e-44b5-9c9a-1de507593733/02ConcurrentProgrammingFSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Concurrent programming with F#]]></video:title>
+        <video:description><![CDATA[Enabling developers to write concise code in solving complex problems is one of the significant characteristics of functional programming. The conciseness is mostly due to the abstractions provided by&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3733/b4a2965f-db3e-44b5-9c9a-1de507593733/02ConcurrentProgrammingFSharp_mid.mp4</video:content_loc>
+        <video:duration>2523</video:duration>
+        <video:publication_date>2018-04-06T19:10:04.7948374+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/03</loc>
+      <lastmod>2018-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/49ce/0dccdf93-c44e-4700-aa62-0d86e6db49ce/03CuriousCaseofFreya_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The curious case of Freya, Suave and Giraffe: Reducing risks in picking a new tech]]></video:title>
+        <video:description><![CDATA[Picking a new technology is hard. Very often you avoid change at all cost, and go with the devil you know. Another extreme is to do some haphazard implementation and hope for the best. In this talk,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49ce/0dccdf93-c44e-4700-aa62-0d86e6db49ce/03CuriousCaseofFreya_mid.mp4</video:content_loc>
+        <video:duration>2807</video:duration>
+        <video:publication_date>2018-04-06T19:09:58.9203629+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/04</loc>
+      <lastmod>2018-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b848/40d2539e-4045-42b5-b7d5-bd58fd2fb848/04FableOfFable_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The astounding fable of Fable]]></video:title>
+        <video:description><![CDATA[Fable is F# to JavaScript compiler for the 21st century that enables F# developers to target the modern JavaScript ecosystem. In this interview with Alfonso, the creator of Fable, we will talk about&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b848/40d2539e-4045-42b5-b7d5-bd58fd2fb848/04FableOfFable_mid.mp4</video:content_loc>
+        <video:duration>1625</video:duration>
+        <video:publication_date>2018-04-06T19:09:52.9642106+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/05</loc>
+      <lastmod>2018-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e3ec/50d2a8ea-10bb-466c-9c39-59880ecae3ec/05BuildingMobileAppsXamarinFSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building mobile apps using Xamarin and F#]]></video:title>
+        <video:description><![CDATA[Xamarin is well known as a platform for building cross-platform mobile apps using C#, but did you know it also supports F#? In this session we&#39;ll look at the F# support in Visual Studio for mobile&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e3ec/50d2a8ea-10bb-466c-9c39-59880ecae3ec/05BuildingMobileAppsXamarinFSharp_mid.mp4</video:content_loc>
+        <video:duration>2449</video:duration>
+        <video:publication_date>2018-04-06T19:09:46.5434954+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/06</loc>
+      <lastmod>2018-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c99e/8a242228-7a4d-4217-b118-e1be3594c99e/06HowToLookLikeAStatistician_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to look like a statistician: a developer&#39;s guide to probabilistic programming]]></video:title>
+        <video:description><![CDATA[Machine learning is sneaking into everything, even into functional programming languages! Probabilistic programming integrates standard programming with probabilistic machine learning - and allows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c99e/8a242228-7a4d-4217-b118-e1be3594c99e/06HowToLookLikeAStatistician_mid.mp4</video:content_loc>
+        <video:duration>2684</video:duration>
+        <video:publication_date>2018-04-06T19:09:41.1313337+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/07</loc>
+      <lastmod>2018-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2ae0/c6a0a331-440d-49ee-a85a-f150d9482ae0/07JourneyFromLearningFSharptoContributing_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A journey from learning F# to contributing to the compiler]]></video:title>
+        <video:description><![CDATA[In this interview, we will talk with Ody Mbegbu, a .NET and F# developer from Lagos about his journey with F# and about his F# projects. How does one get from learning F# all the way to fixing bugs in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ae0/c6a0a331-440d-49ee-a85a-f150d9482ae0/07JourneyFromLearningFSharptoContributing_mid.mp4</video:content_loc>
+        <video:duration>1558</video:duration>
+        <video:publication_date>2018-04-06T19:09:35.5249709+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/08</loc>
+      <lastmod>2018-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1558/bec6f794-335f-46e0-957c-4f6293221558/DistributedTracingLessonsLearned_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Distributed tracing, lessons learned]]></video:title>
+        <video:description><![CDATA[Industry standards like OpenTracing provide some mindshare on tracing RPC style communications, but leave much unsaid about asynchronous communications over message busses or Kafka. At Jet.com Gina&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1558/bec6f794-335f-46e0-957c-4f6293221558/DistributedTracingLessonsLearned_mid.mp4</video:content_loc>
+        <video:duration>2935</video:duration>
+        <video:publication_date>2018-04-06T19:09:29.3785552+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/09</loc>
+      <lastmod>2018-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c6bf/429df95f-a942-45ac-afa9-8785d49bc6bf/09FSharpFromTheTrenches_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F# from the trenches]]></video:title>
+        <video:description><![CDATA[There are strengths and pitfalls to using Functional Programming for industrial applications. There are many ways to bootstrap F# teams within larger development organizations. This talk will go over&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c6bf/429df95f-a942-45ac-afa9-8785d49bc6bf/09FSharpFromTheTrenches_mid.mp4</video:content_loc>
+        <video:duration>2279</video:duration>
+        <video:publication_date>2018-04-06T19:09:22.6708419+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/10</loc>
+      <lastmod>2018-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6e41/2a378a03-1c95-4b10-a2a9-2ea3fa586e41/10DescribingTheWorldtoVisuallyImpaired_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Describing the world to visually impaired with F# and Cognitive Services]]></video:title>
+        <video:description><![CDATA[Of late Seeing AI, a fantastic mobile app for describing the world to low vision people, has been making the rounds. Its main goal of taking a picture, understanding its contents, and narrating them,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e41/2a378a03-1c95-4b10-a2a9-2ea3fa586e41/10DescribingTheWorldtoVisuallyImpaired_mid.mp4</video:content_loc>
+        <video:duration>1907</video:duration>
+        <video:publication_date>2018-04-06T19:09:15.5809406+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/12</loc>
+      <lastmod>2018-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8356/22724d56-668a-4442-8543-ad01447c8356/12SAFEStackRapidFullStack_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The SAFE Stack: Rapid full stack F# development]]></video:title>
+        <video:description><![CDATA[Learn how to optimize your development flow by leveraging the type-safe, functional-first, SAFE Stack. Make your applications SAFE with Suave (or Giraffe/Saturn), Azure, Fable, and Elmish. The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8356/22724d56-668a-4442-8543-ad01447c8356/12SAFEStackRapidFullStack_mid.mp4</video:content_loc>
+        <video:duration>2591</video:duration>
+        <video:publication_date>2018-04-06T19:09:08.1231604+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/14</loc>
+      <lastmod>2018-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6d31/4bb32de2-c26a-44cc-854c-a91114ba6d31/14BitOfFoomandFSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A bit of Foom &amp;  F# and hardware intrinsics in CoreCLR]]></video:title>
+        <video:description><![CDATA[In this double act session, we will look at what F# offers for game developers! First, Will shares his experience building Foom – Learn what it is like building a complex system in F# with regards to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d31/4bb32de2-c26a-44cc-854c-a91114ba6d31/14BitOfFoomandFSharp_mid.mp4</video:content_loc>
+        <video:duration>1655</video:duration>
+        <video:publication_date>2018-04-06T19:09:02.5195671+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/11</loc>
+      <lastmod>2018-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/96f3/3c0cfb4f-2b91-4dfe-b0ac-978f5b0696f3/11TaleOfTwoLanguages_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A tale of two languages: F# &amp; Q#]]></video:title>
+        <video:description><![CDATA[The tale of two languages: F# &amp;amp; Q# - Q# is a new language under development at Microsoft Research, specially designed for quantum computing. F# has played a significant role in helping the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/96f3/3c0cfb4f-2b91-4dfe-b0ac-978f5b0696f3/11TaleOfTwoLanguages_mid.mp4</video:content_loc>
+        <video:duration>2009</video:duration>
+        <video:publication_date>2018-04-06T19:08:50.9078519+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/13</loc>
+      <lastmod>2018-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/907b/ee9ea940-5009-4989-99f6-e2a8c99a907b/13AskUsAnythingFSharpFoundation_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ask us anything about the F# Software Foundation]]></video:title>
+        <video:description><![CDATA[Reed Copsey is the executive director of the F# Software Foundation, a non-profit organization setup by the F# community to promote, protect and advance the F# programming language. Reed will be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/907b/ee9ea940-5009-4989-99f6-e2a8c99a907b/13AskUsAnythingFSharpFoundation_mid.mp4</video:content_loc>
+        <video:duration>1839</video:duration>
+        <video:publication_date>2018-04-06T19:08:42.2623382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/15</loc>
+      <lastmod>2018-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1433/6ffa79e0-4884-49e2-8c30-bc8a50801433/15QandAFSharpTeam_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Q&amp;A with the F# team at Microsoft]]></video:title>
+        <video:description><![CDATA[Phillip, Will and Kevin will be joining us for a closing session of the fsharpConf conference. We will discuss what is the F# team at Microsoft in Redmond working on, what are their plans for the near&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1433/6ffa79e0-4884-49e2-8c30-bc8a50801433/15QandAFSharpTeam_mid.mp4</video:content_loc>
+        <video:duration>1403</video:duration>
+        <video:publication_date>2018-04-06T19:08:32.4100077+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

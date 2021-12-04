@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/4--Jump-Start-Q--A</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f3c6/ff4e6c63-24a1-4dab-93fd-999172a3f3c6/mod4prepareyourenterprise_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 | Jump Start Q &amp; A]]></video:title>
+        <video:description><![CDATA[When will the next version of MDT supporting Windows be released? Is it possible to manage Configuration Manager with SC 2012 R2? What are the acronyms CBCBB and LTSB and what&#39;s the difference? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3c6/ff4e6c63-24a1-4dab-93fd-999172a3f3c6/mod4prepareyourenterprise_mid.mp4</video:content_loc>
+        <video:duration>895</video:duration>
+        <video:publication_date>2015-09-28T18:53:17.0397361+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/3--Staying-Current-with-Windows-as-a-Service</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7a0/1b1f0395-a52a-4745-8534-8265c4ceb7a0/mod3prepareyourenterprise_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 | Staying Current with Windows as a Service]]></video:title>
+        <video:description><![CDATA[Explore how Windows capabilities are now delivered faster than ever, to address new security threats, new employee scenarios, and the different ways people are using PCs.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7a0/1b1f0395-a52a-4745-8534-8265c4ceb7a0/mod3prepareyourenterprise_mid.mp4</video:content_loc>
+        <video:duration>2386</video:duration>
+        <video:publication_date>2015-09-28T18:52:57.3840994+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/2--Deploying-Windows-10-as-a-Service</loc>
+      <lastmod>2018-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd83/c9497e2d-f377-4634-985d-97d8cc53dd83/mod2prepareyourenterprise_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 | Deploying Windows 10 as a Service]]></video:title>
+        <video:description><![CDATA[Consider shifting from a traditional wipe and load deployment to an in-place upgrade, so Windows 10 can ease your workload, utilizing your existing tools and without new infrastructure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd83/c9497e2d-f377-4634-985d-97d8cc53dd83/mod2prepareyourenterprise_mid.mp4</video:content_loc>
+        <video:duration>3724</video:duration>
+        <video:publication_date>2015-09-28T18:52:37.3977878+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/1--Introducing-Windows-as-a-Service</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/331b/6808c868-a351-4f6a-895d-86ae8951331b/mod1prepareyourenterprise_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 | Introducing Windows as a Service]]></video:title>
+        <video:description><![CDATA[Learn how customer input and feedback is being used to shape Windows 10 and how the service&#39;s flexibility, iteration, and quick evolution helps manage and secure new and legacy applications. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/331b/6808c868-a351-4f6a-895d-86ae8951331b/mod1prepareyourenterprise_mid.mp4</video:content_loc>
+        <video:duration>2225</video:duration>
+        <video:publication_date>2015-09-28T18:52:11.3065407+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

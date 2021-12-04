@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Julia-Liuson-Developer-Day</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Julia-Liuson-Developer-Day/demo-showcase</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae7d/d8d6155a-1482-463b-9d96-79cd15d6ae7d/MicrosoftDeveloperDemoShowcase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - Demo &amp; Showcase]]></video:title>
+        <video:description><![CDATA[邁向雲端開發的微軟開發工具藍圖及未來 - Demo &amp;amp; Showcase - IoT 物聯網應用 &amp;amp; Demo - Azure &amp;amp; Cloud development - Cross platform and .NET Open Source - DevOps practices &amp;amp; Agile Development - Machine Learning&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae7d/d8d6155a-1482-463b-9d96-79cd15d6ae7d/MicrosoftDeveloperDemoShowcase_mid.mp4</video:content_loc>
+        <video:duration>4217</video:duration>
+        <video:publication_date>2015-04-02T06:58:53.8541404+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Julia-Liuson-Developer-Day/developer-division-RD-journey</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5903/c7e72922-1094-4cd5-8d11-4c0c8d775903/MicrosoftDeveloperDivisionJourneyShippingSoftware_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[-  Julia Liuson]]></video:title>
+        <video:description><![CDATA[Microsoft Developer Division R&amp;amp;D journey - shipping software in the modern world 微軟研發團隊如何在快速變化的雲端時代持續發佈軟體微軟開發平臺事業部全球資深副總裁 潘正磊 (Julia Liuson) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5903/c7e72922-1094-4cd5-8d11-4c0c8d775903/MicrosoftDeveloperDivisionJourneyShippingSoftware_mid.mp4</video:content_loc>
+        <video:duration>3348</video:duration>
+        <video:publication_date>2015-04-02T06:58:32.9395943+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Julia-Liuson-Developer-Day/Opening</loc>
+      <lastmod>2015-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8875/ed8135f8-c227-45bb-a83c-9a26f6ae8875/openingandwarmup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Opening &amp; Warm-up -   ]]></video:title>
+        <video:description><![CDATA[雲端時代軟體研發的變革與轉型   微軟研發流程及組織改造的實務分享 Opening ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8875/ed8135f8-c227-45bb-a83c-9a26f6ae8875/openingandwarmup_mid.mp4</video:content_loc>
+        <video:duration>396</video:duration>
+        <video:publication_date>2015-04-02T06:50:51.9804632+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gamingserver-mit-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gamingserver-mit-Microsoft-Azure/05--Erfahrungen-mit-Azure-VMs</loc>
+      <lastmod>2015-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a5ff/f4dcf907-1b33-48f7-b23d-034eb21ba5ff/05ErfahrungenAzureVMs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Erfahrungen mit Azure VMs]]></video:title>
+        <video:description><![CDATA[In diesem Modul sprechen wir &#252;ber den Einsatz von Microsoft Azure in Bezug zum TeamSpeak und Minecraft Servern in der Community. Ebenfalls sprechen wir &#252;ber das Preis-Leistungsverh&#228;ltnis der Nutzung&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a5ff/f4dcf907-1b33-48f7-b23d-034eb21ba5ff/05ErfahrungenAzureVMs_mid.mp4</video:content_loc>
+        <video:duration>737</video:duration>
+        <video:publication_date>2015-03-18T10:15:40.9465900+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gamingserver-mit-Microsoft-Azure/04--Minecraft-Server-einrichten</loc>
+      <lastmod>2015-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d1d/a07be5aa-a5b0-4a93-a5a5-315fb8af2d1d/04MinecraftServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Minecraft Server einrichten]]></video:title>
+        <video:description><![CDATA[In diesem Modul wird gezeigt wie Sie in wenigen Schritten einen Minecraft Server auf einem Windows Server 2012 installieren. Weiterhin sprechen dar&#252;ber wie man Endpunkte setzt, um den Server von au&#223;en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d1d/a07be5aa-a5b0-4a93-a5a5-315fb8af2d1d/04MinecraftServer_mid.mp4</video:content_loc>
+        <video:duration>828</video:duration>
+        <video:publication_date>2015-03-18T10:14:35.7541681+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gamingserver-mit-Microsoft-Azure/03--TeamSpeak-auf-dem-Server</loc>
+      <lastmod>2015-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/47bd/362a3e55-dac0-4d31-8f94-762a07a747bd/03TeamSpeakServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | TeamSpeak auf dem Server]]></video:title>
+        <video:description><![CDATA[In diesem dritten Modul zeigen wir, wie man in wenigen Minuten einen TeamSpeak Server in der vorher installierten virtuellen Windows Server 2012 R2 installiert und in Betrieb nimmt. Dazu zeigen wir&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/47bd/362a3e55-dac0-4d31-8f94-762a07a747bd/03TeamSpeakServer_mid.mp4</video:content_loc>
+        <video:duration>1144</video:duration>
+        <video:publication_date>2015-03-18T10:11:43.5387913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gamingserver-mit-Microsoft-Azure/02--Eine-virtuelle-Maschine-VM-erstellen</loc>
+      <lastmod>2015-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/67f1/7a4fcbe3-8cd3-44c6-9c80-c770993a67f1/02InstallationVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Eine &quot;virtuelle Maschine&quot; (VM) erstellen]]></video:title>
+        <video:description><![CDATA[In dem zweiten Modul wird gezeigt, wie man einfach und schnell eine virtuelle VM mit einem Windows Server 2012 R2 in Microsoft Azure erstellt. Dabei bestimmen wir die Region und geben n&#252;tzliche&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/67f1/7a4fcbe3-8cd3-44c6-9c80-c770993a67f1/02InstallationVM_mid.mp4</video:content_loc>
+        <video:duration>728</video:duration>
+        <video:publication_date>2015-03-18T10:06:08.4967693+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gamingserver-mit-Microsoft-Azure/01--Einfhrung-in-Azure</loc>
+      <lastmod>2015-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d26/3ad0bc97-f23e-4dec-aae7-149d24c41d26/01Einfuehrung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Einf&#252;hrung in Azure]]></video:title>
+        <video:description><![CDATA[Dieses Video gibt Ihnen eine kurze Einf&#252;hrung in den Kurs und zeigt einen &#220;berblick &#252;ber die M&#246;glichkeiten und Management von Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d26/3ad0bc97-f23e-4dec-aae7-149d24c41d26/01Einfuehrung_mid.mp4</video:content_loc>
+        <video:duration>375</video:duration>
+        <video:publication_date>2015-03-18T10:02:04.5079003+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

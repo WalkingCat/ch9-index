@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Modern-Applications</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Modern-Applications/Take-a-modern-approach-to-data-in-your-apps</loc>
+      <lastmod>2018-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42b3/a00cc822-62f5-4c80-b65f-891bc8f442b3/moderndata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Take a modern approach to data in your apps]]></video:title>
+        <video:description><![CDATA[Modern Application Demo- WingTip Tickets (SaaS Application) and Dartmouth Hitchcock (Patient Healthcare) WingTip Tickets- This demonstration explores the benefits for several Microsoft Azure SQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42b3/a00cc822-62f5-4c80-b65f-891bc8f442b3/moderndata_mid.mp4</video:content_loc>
+        <video:duration>3737</video:duration>
+        <video:publication_date>2015-12-14T03:10:53.8638248+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

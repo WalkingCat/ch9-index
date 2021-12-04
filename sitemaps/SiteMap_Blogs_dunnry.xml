@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Introducing-the-Windows-Azure-Platform-Appliance</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f081/e9369916-90dc-4ebc-80c4-1ff49534f081/Introducing-the-Windows-Azure-Platform-Appliance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing the Windows Azure Platform Appliance]]></video:title>
+        <video:description><![CDATA[
+At WPC, Bob Muglia announced an exciting new addition the Windows Azure platform, called the
+Windows Azure Platform Appliance.  When the appliance is released for broader availability, it will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f081/e9369916-90dc-4ebc-80c4-1ff49534f081/Introducing-the-Windows-Azure-Platform-Appliance_mid.mp4</video:content_loc>
+        <video:duration>573</video:duration>
+        <video:publication_date>2010-07-12T13:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Hello-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/4/7/9/1/5/HelloWindowsAzure_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Hello Windows Azure!]]></video:title>
+        <video:description><![CDATA[Are you wondering how to get started with Windows Azure?  Join me in this quick video featuring Steve Marx as we walk through a simple &#39;Hello World&#39; application in Windows Azure.  See how easy it is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/4/7/9/1/5/HelloWindowsAzure_ch9.mp4</video:content_loc>
+        <video:duration>765</video:duration>
+        <video:publication_date>2010-01-12T21:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Deploying-Applications-on-Windows-Azure</loc>
+      <lastmod>2011-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/4/6/6/8/4/DeployingOnWindowsAzure_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Applications on Windows Azure]]></video:title>
+        <video:description><![CDATA[Windows Azure features a very powerful, yet simple deployment model.  By focusing on your application and abstracting away the infrastructure details, you can deploy almost any app with minimal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/4/6/6/8/4/DeployingOnWindowsAzure_ch9.mp4</video:content_loc>
+        <video:duration>832</video:duration>
+        <video:publication_date>2009-08-24T21:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/What-is-Windows-Azure</loc>
+      <lastmod>2013-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/447b/08dddd63-a35d-4fa8-a523-6a4e911c447b/What-is-Windows-Azure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Windows Azure?]]></video:title>
+        <video:description><![CDATA[Just what is Windows Azure?  Join me in this brief video for an introduction to Windows Azure.  We&#39;ll explore its components, the key features, and discuss why you should care.
+
+Suggested Additional&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/447b/08dddd63-a35d-4fa8-a523-6a4e911c447b/What-is-Windows-Azure_mid.mp4</video:content_loc>
+        <video:duration>389</video:duration>
+        <video:publication_date>2009-07-31T17:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Windows-Azure-Storage-Overview</loc>
+      <lastmod>2011-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/0/1/4/7/4/StorageOverview_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Storage Overview]]></video:title>
+        <video:description><![CDATA[A key component of any cloud computing offering is durable storage.  Windows Azure provides 3 forms of durable storage: tables, blobs, and queues.  Join me as we explore the highlights of these 3&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/0/1/4/7/4/StorageOverview_ch9.mp4</video:content_loc>
+        <video:duration>421</video:duration>
+        <video:publication_date>2009-07-31T17:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/NeoGeo-on-building-with-SQL-Data-Services</loc>
+      <lastmod>2010-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Whats-new-in-SQL-Data-Services-for-Developers</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Remote-Administration-and-Delegation-in-IIS7</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c06c/944c81b7-b116-4f0e-a4f0-bd68450cc06c/Remote-Administration-and-Delegation-in-IIS7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Remote Administration and Delegation in IIS7]]></video:title>
+        <video:description><![CDATA[In this screencast, we configure our IIS7 server for remote administration and delegation.  The remote administration service in IIS7 is a new and powerful feature that allows us to connect securely&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c06c/944c81b7-b116-4f0e-a4f0-bd68450cc06c/Remote-Administration-and-Delegation-in-IIS7_mid.mp4</video:content_loc>
+        <video:duration>448</video:duration>
+        <video:publication_date>2007-11-13T19:08:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Failed-Request-Tracing-on-IIS7</loc>
+      <lastmod>2013-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0fb/4c9377b8-579d-4fa1-9f4b-c35d6814d0fb/Failed-Request-Tracing-on-IIS7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failed Request Tracing on IIS7]]></video:title>
+        <video:description><![CDATA[In this screencast, we see how to configure our IIS7 server for Failed Request Tracing (sometimes called FREB).  Failed Request Tracing is a powerful new capability in IIS7 that allows us to easily&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0fb/4c9377b8-579d-4fa1-9f4b-c35d6814d0fb/Failed-Request-Tracing-on-IIS7_mid.mp4</video:content_loc>
+        <video:duration>429</video:duration>
+        <video:publication_date>2007-11-13T18:55:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/dunnry/Installing-PHP-Applications-on-IIS7</loc>
+      <lastmod>2013-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ac5/e1a167a8-dca6-4587-9aaa-4e78b0971ac5/Installing-PHP-Applications-on-IIS7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing PHP Applications on IIS7]]></video:title>
+        <video:description><![CDATA[In this screencast, discover how easy it is to get PHP up and configured on your IIS7 webserver using FastCGI.  The popular PHP-based blogging application, Wordpress, is used to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ac5/e1a167a8-dca6-4587-9aaa-4e78b0971ac5/Installing-PHP-Applications-on-IIS7_mid.mp4</video:content_loc>
+        <video:duration>816</video:duration>
+        <video:publication_date>2007-11-13T18:44:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

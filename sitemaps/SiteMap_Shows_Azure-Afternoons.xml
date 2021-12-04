@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Afternoons</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Afternoons/Building-continuous-delivery-with-Docker-and-VSTS</loc>
+      <lastmod>2017-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/43ae/4bdb3961-b334-435d-b91d-0b1bdcc043ae/BuildingContinuousDeliveryDocker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building continuous delivery with Docker and VSTS]]></video:title>
+        <video:description><![CDATA[Esta palestra dever&#225; apresentar de maneira pr&#225;tica o processo de cria&#231;&#227;o de um flow para deployment automatizado de aplica&#231;&#245;es em containers Docker usando VSTS. Palestrante: Ricardo Serradas N&#237;vel:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/43ae/4bdb3961-b334-435d-b91d-0b1bdcc043ae/BuildingContinuousDeliveryDocker_mid.mp4</video:content_loc>
+        <video:duration>2774</video:duration>
+        <video:publication_date>2016-12-14T11:29:49.7289830+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Afternoons/Microservices-on-Azure-how-we-can-do-this</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/375c/8426feea-6007-4695-9655-b0b8cd52375c/MicroservicesonAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microservices on Azure: how we can do this?]]></video:title>
+        <video:description><![CDATA[Esta palestra dever&#225; apresentar uma vis&#227;o geral sobre Microservices (como solu&#231;&#227;o de desenvolvimento) e focar de maneira pr&#225;tica, as op&#231;&#245;es no Azure para hostear aplica&#231;&#245;es dessa natureza.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/375c/8426feea-6007-4695-9655-b0b8cd52375c/MicroservicesonAzure_mid.mp4</video:content_loc>
+        <video:duration>3210</video:duration>
+        <video:publication_date>2016-12-14T11:29:30.9581482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Afternoons/Deep-Dive-on-Recommendations-API-Cognitive-Services</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f04b/3d2e7d04-0f35-4edb-af7e-07419fe4f04b/DeepDiveRecommendAPICognitiveSVCS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Dive on Recommendations API (Cognitive Services)]]></video:title>
+        <video:description><![CDATA[Esta palestra dever&#225; apresentar uma vis&#227;o pr&#225;tica fim-a-fim sobre a API de recomenda&#231;&#245;es do Cognitive Services. Uma explica&#231;&#227;o detalhada dever&#225; ser apresentada com uma demonstra&#231;&#227;o passo-a-passo.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f04b/3d2e7d04-0f35-4edb-af7e-07419fe4f04b/DeepDiveRecommendAPICognitiveSVCS_mid.mp4</video:content_loc>
+        <video:duration>3582</video:duration>
+        <video:publication_date>2016-12-14T11:29:15.5692845+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Afternoons/Deep-Dive-on-Azure-ARM-Templates</loc>
+      <lastmod>2016-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ffd2/e705a8d8-b119-4fba-97e7-689b6e88ffd2/DeepDiveARMTemplate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Dive on Azure ARM Templates]]></video:title>
+        <video:description><![CDATA[Esta palestra dever&#225; apresentar uma vis&#227;o geral sobre a utiliza&#231;&#227;o dos templates para deployment de assets ARM e tamb&#233;m aplica&#231;&#245;es pr&#225;ticas sobre customiza&#231;&#227;o dos mesmos. Palestrante: Paulo Teixeira -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ffd2/e705a8d8-b119-4fba-97e7-689b6e88ffd2/DeepDiveARMTemplate_mid.mp4</video:content_loc>
+        <video:duration>3818</video:duration>
+        <video:publication_date>2016-12-14T11:28:50.7129857+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

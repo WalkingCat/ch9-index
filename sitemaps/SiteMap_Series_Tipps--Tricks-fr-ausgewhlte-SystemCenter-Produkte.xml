@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps--Tricks-fr-ausgewhlte-SystemCenter-Produkte</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps--Tricks-fr-ausgewhlte-SystemCenter-Produkte/SCVMM-Haeufige-Probleme-und-Hyper-V</loc>
+      <lastmod>2016-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8846/02f96f6d-9a23-4442-b38b-ca5700918846/SCVmmHaeufigeProblemeUndOverrides_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[System Center Virtual Machine Manager - H&#228;ufige Probleme und Hyper-V]]></video:title>
+        <video:description><![CDATA[Das Video gibt im ersten Teil Hinweise zu h&#228;ufig auftretenden Fehlern bei der Installation und der Verteilung von Agenten des System Center Virtual Machine Managers 2012 R2. Im zweiten Teil werden&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8846/02f96f6d-9a23-4442-b38b-ca5700918846/SCVmmHaeufigeProblemeUndOverrides_mid.mp4</video:content_loc>
+        <video:duration>1470</video:duration>
+        <video:publication_date>2016-07-01T13:35:42.4764301+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps--Tricks-fr-ausgewhlte-SystemCenter-Produkte/SCOM-Haeufige-Probleme-und-Overrides</loc>
+      <lastmod>2016-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f3b0/b2478fbb-455b-4fa3-9408-957985fdf3b0/SCOMHaeufigeProblemeUndOverrides_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[System Center Operations Manager - H&#228;ufige Probleme und Overrides]]></video:title>
+        <video:description><![CDATA[Das Video gibt im ersten Teil Hinweise zu h&#228;ufig auftretenden Fehlern bei der Installation, Konfiguration und dem Betrieb vom Microsoft System Center Operations Manager 2012 R2. Im zweiten Teil wird&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3b0/b2478fbb-455b-4fa3-9408-957985fdf3b0/SCOMHaeufigeProblemeUndOverrides_mid.mp4</video:content_loc>
+        <video:duration>1479</video:duration>
+        <video:publication_date>2016-07-01T13:34:20.9543900+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps--Tricks-fr-ausgewhlte-SystemCenter-Produkte/WSUS-in-Kombination-mit-Configuration-Manager-und-Probleme-hierbei</loc>
+      <lastmod>2016-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4459/3fa9c8ce-fbfd-4414-bb65-7fac933f4459/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WSUS in Kombination mit Configuration Manager und Probleme hierbei]]></video:title>
+        <video:description><![CDATA[Dieses Video liefert Vorgehensweisen beim Troubleshooting und beschreibt Probleme und L&#246;sungsans&#228;tze zum Thema &amp;quot;Probleme vom Configuration Manager in Kombination mit WSUS&amp;quot;. Das&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4459/3fa9c8ce-fbfd-4414-bb65-7fac933f4459/1_mid.mp4</video:content_loc>
+        <video:duration>966</video:duration>
+        <video:publication_date>2016-06-15T07:40:53.1756924+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps--Tricks-fr-ausgewhlte-SystemCenter-Produkte/System-Center-Configuration-Manager-Installation-und-potentielle-Fehler-dabei</loc>
+      <lastmod>2016-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e16/23db1296-3555-4039-9ec2-ce61d3bf2e16/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[System Center Configuration Manager: Installation und potentielle Fehler dabei]]></video:title>
+        <video:description><![CDATA[Welche Installationsm&#246;glichkeiten bietet System Center Configuration Manager 2012 R2? Welche Fehler k&#246;nnen bei der Installation auftreten und was sind die Ursachen daf&#252;r? Diesen Fragen geht Folge 1&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e16/23db1296-3555-4039-9ec2-ce61d3bf2e16/01_mid.mp4</video:content_loc>
+        <video:duration>874</video:duration>
+        <video:publication_date>2016-05-20T14:06:21.8283127+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

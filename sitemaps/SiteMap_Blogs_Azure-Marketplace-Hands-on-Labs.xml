@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/CoreOS-Virtual-Lab</loc>
+      <lastmod>2016-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6c1/714e2a9d-94b2-4a66-916b-0cf28333d6c1/CoreOsVirtualLab_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CoreOS Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll hear from a CoreOS representative who will teach you how CoreOS is providing an easy way to run containers, manage clusters and seamlessly update servers.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6c1/714e2a9d-94b2-4a66-916b-0cf28333d6c1/CoreOsVirtualLab_mid.mp4</video:content_loc>
+        <video:duration>4441</video:duration>
+        <video:publication_date>2016-06-29T23:24:17.6340554+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/Nasuni-Virtual-Lab</loc>
+      <lastmod>2016-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2e6/2281b0aa-9220-4a9d-b014-c171fb31f2e6/NasuniVirtualLab_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nasuni Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll hear how Nasuni is a complete storage solution leveraging the cloud as a primary storage component built-in to a unified, high-performance storage system. By&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2e6/2281b0aa-9220-4a9d-b014-c171fb31f2e6/NasuniVirtualLab_mid.mp4</video:content_loc>
+        <video:duration>4058</video:duration>
+        <video:publication_date>2016-06-20T21:11:45.4226750+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/Hanu-Virtual-Lab</loc>
+      <lastmod>2016-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/024e/c6e1aae5-94b6-4e5c-a6fb-4ed8d4c9024e/HanuVirtualLab_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hanu Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll learn how to maximize your Azure investment with total end-to-end visibility of your Azure spend. Hanu Insight for Microsoft Azure delivers cloud governance&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/024e/c6e1aae5-94b6-4e5c-a6fb-4ed8d4c9024e/HanuVirtualLab_mid.mp4</video:content_loc>
+        <video:duration>4132</video:duration>
+        <video:publication_date>2016-06-20T21:11:05.2430956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/Chef-Virtual-Lab</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1a23/02a015e2-e3f3-41dd-9a74-d7cc6d8e1a23/ChefVirtualLab_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Chef Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5 hour live webcast, you&#39;ll hear from Andre Elizondo who will teach you how to use Chef to automate and scale your infrastructure.  We&#39;ll cover how to: Automate how you create your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1a23/02a015e2-e3f3-41dd-9a74-d7cc6d8e1a23/ChefVirtualLab_mid.mp4</video:content_loc>
+        <video:duration>4437</video:duration>
+        <video:publication_date>2016-06-06T22:18:46.1681185+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/DataStax-Virtual-Lab</loc>
+      <lastmod>2018-08-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b178/dd05cfae-c093-492f-aa8b-5b8518a6b178/DataStaxRecording_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DataStax Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll hear how DataStax is a provider of database software for cloud applications. DataStax accelerates the ability to power the exploding number of cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b178/dd05cfae-c093-492f-aa8b-5b8518a6b178/DataStaxRecording_mid.mp4</video:content_loc>
+        <video:duration>5299</video:duration>
+        <video:publication_date>2016-05-26T22:04:12.4864387+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/Hortonworks-Sanbox-Virtual-Lab</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59b3/00fcf144-ad92-478c-af0a-47d2012459b3/HortonworksRecording_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hortonworks Sandbox Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll hear from a Hortonworks representative who will teach you how to use key features of Hortonworks Sandbox VM including how to: Import data and logs from outside&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59b3/00fcf144-ad92-478c-af0a-47d2012459b3/HortonworksRecording_mid.mp4</video:content_loc>
+        <video:duration>6455</video:duration>
+        <video:publication_date>2016-05-26T19:26:31.5599350+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/KEMP-Loadmaster-Virtual-Lab</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5975/74019dc5-754a-4717-8171-b1a68e8b5975/KEMPLabRecording_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[KEMP Loadmaster Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll learn how to use key features of KEMP&#39;s Loadmaster application including how to:  Build and customize data for Loadmaster configurationCreate, modify, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5975/74019dc5-754a-4717-8171-b1a68e8b5975/KEMPLabRecording_mid.mp4</video:content_loc>
+        <video:duration>5399</video:duration>
+        <video:publication_date>2016-05-25T20:01:17.7427702+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/Cloud-Cruiser-Virtual-Lab</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e21b/83a94953-1b6b-461a-b285-d17c2cabe21b/CloudCruiserRecording_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Cruiser Virtual Lab]]></video:title>
+        <video:description><![CDATA[You&#39;ve moved to Azure cloud – do you have the information you need to manage your organization&#39;s consumption? Cloud Cruiser will teach you how to better understand your consumption costs and manage&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e21b/83a94953-1b6b-461a-b285-d17c2cabe21b/CloudCruiserRecording_mid.mp4</video:content_loc>
+        <video:duration>4552</video:duration>
+        <video:publication_date>2016-05-19T19:12:29.4625027+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Marketplace-Hands-on-Labs/Barracuda-Web-Application-Firewall-WAF-Virtual-Lab</loc>
+      <lastmod>2016-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb91/703cc06d-9a82-4422-a19b-3b5b5bc1eb91/BarracudaWAFRecording_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Barracuda Web Application Firewall (WAF) Virtual Lab]]></video:title>
+        <video:description><![CDATA[During this 1.5-hour live webcast you&#39;ll hear from Barracuda&#39;s Neil Correa who will teach you how to use key features of Barracuda&#39;s Web Application Firewall including how to: Create and configure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb91/703cc06d-9a82-4422-a19b-3b5b5bc1eb91/BarracudaWAFRecording_mid.mp4</video:content_loc>
+        <video:duration>6280</video:duration>
+        <video:publication_date>2016-05-18T22:49:21.2907732+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

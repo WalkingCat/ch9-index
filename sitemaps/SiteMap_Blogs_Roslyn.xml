@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Roslyn</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Roslyn/Analyzer-sample-in-Dev14-CTP3</loc>
+      <lastmod>2015-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e25/4632f61b-cf37-451d-a48d-d0c86e1c3e25/AnalyzerSampleDev14CPT3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Analyzer sample in Dev14 CTP3]]></video:title>
+        <video:description><![CDATA[This video walks through two sample Roslyn Analyzers. One analyzer gives squiggles where you could improve your code with the new C#6 language features - nameof(), ?. and primary constructors. Another&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e25/4632f61b-cf37-451d-a48d-d0c86e1c3e25/AnalyzerSampleDev14CPT3_mid.mp4</video:content_loc>
+        <video:duration>774</video:duration>
+        <video:publication_date>2014-08-26T22:24:24.1258667+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

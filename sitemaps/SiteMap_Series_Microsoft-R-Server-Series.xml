@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server-Series</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server-Series/Data-Mining-with-Microsoft-R-Server-Webinar</loc>
+      <lastmod>2018-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b62/eb18d785-cf6c-43d7-9ca7-0d02d55d9b62/DataMiiningwithMicrosoftRServerAWebinar_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data Mining with Microsoft R Server - Webinar]]></video:title>
+        <video:description><![CDATA[R is the world&#39;s most widely used programming language for data analysis. The R ecosystem provides thousands of external libraries that can facilitate the transition from dataset to actionable&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b62/eb18d785-cf6c-43d7-9ca7-0d02d55d9b62/DataMiiningwithMicrosoftRServerAWebinar_mid.mp4</video:content_loc>
+        <video:duration>3551</video:duration>
+        <video:publication_date>2016-10-19T19:16:12.3258003+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server-Series/Introduction-to-Microsoft-R-Server-Session-4-Data-Analysis-and-Modeling</loc>
+      <lastmod>2017-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/511b/4f174392-f001-4888-959d-f0ab3e84511b/MRSModeling_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Microsoft R Server, Session 4: Data Analysis and Modeling]]></video:title>
+        <video:description><![CDATA[In this final session of this four-part series, our data set has been imported and prepared and we&#39;re finally ready for some analysis. Matt Parker walks you through the classic functions for exploring&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/511b/4f174392-f001-4888-959d-f0ab3e84511b/MRSModeling_mid.mp4</video:content_loc>
+        <video:duration>2183</video:duration>
+        <video:publication_date>2016-07-07T19:37:49.5338716+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server-Series/Introduction-to-Microsoft-R-Server-Session-3-Data-Management</loc>
+      <lastmod>2017-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4506/4bb7af53-16f6-4123-8fb6-8ac024924506/MRSDataManagement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Microsoft R Server, Session 3: Data Management]]></video:title>
+        <video:description><![CDATA[In this session (third of this four-part series), Matt Parker introduces Microsoft R Server&#39;s key functions for the standard data management tasks: creating and modifying variables, sorting,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4506/4bb7af53-16f6-4123-8fb6-8ac024924506/MRSDataManagement_mid.mp4</video:content_loc>
+        <video:duration>4842</video:duration>
+        <video:publication_date>2016-07-07T19:35:57.2941827+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server-Series/Introduction-to-Microsoft-R-Server-Session-2--Data-Ingestion</loc>
+      <lastmod>2018-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6837/5cc52d16-d84e-4d3f-b5aa-2d00ff3a6837/MRSDataIngestion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Microsoft R Server Session 2 : Data Ingestion]]></video:title>
+        <video:description><![CDATA[In this session (second of this four-part series), Matt Parker discusses the advantages of Microsoft R Server&#39;s native file format, the eXternal Data Frame (XDF) file for advanced analytics, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6837/5cc52d16-d84e-4d3f-b5aa-2d00ff3a6837/MRSDataIngestion_mid.mp4</video:content_loc>
+        <video:duration>2038</video:duration>
+        <video:publication_date>2016-07-07T19:34:23.0607175+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server-Series/Introduction-to-Microsoft-R-Server-Session-1--Overview</loc>
+      <lastmod>2019-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/52d5/90e15081-2bfd-4a51-9c6b-26b096f352d5/MRSOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Microsoft R Server Session 1 : Overview]]></video:title>
+        <video:description><![CDATA[In this four-part series, Matt Parker will introduce you to the fundamentals of Microsoft R Server, a big-data extension to the open-source statistical programming language R. In this session, Matt&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/52d5/90e15081-2bfd-4a51-9c6b-26b096f352d5/MRSOverview_mid.mp4</video:content_loc>
+        <video:duration>775</video:duration>
+        <video:publication_date>2016-07-07T19:33:18.1562264+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

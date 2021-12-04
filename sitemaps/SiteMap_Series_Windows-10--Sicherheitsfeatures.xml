@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Sicherheitsfeatures</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Sicherheitsfeatures/03-Credential-Guard</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ba9/d0ef5ae5-36b9-4b55-8fe5-5cf2b7ad6ba9/03a_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Credential Guard]]></video:title>
+        <video:description><![CDATA[Wie installiere ich den Credential Guard und wie &#252;berpr&#252;fe ich ob dieser aktiv ist. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ba9/d0ef5ae5-36b9-4b55-8fe5-5cf2b7ad6ba9/03a_mid.mp4</video:content_loc>
+        <video:duration>448</video:duration>
+        <video:publication_date>2016-04-01T15:40:34.8893957+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Sicherheitsfeatures/03-Credential-Guard-2</loc>
+      <lastmod>2018-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0420/2f359ec6-e391-4a0d-934c-5b4d15460420/03b_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Credential Guard - 2]]></video:title>
+        <video:description><![CDATA[Wie installiere ich den Credential Guard und wie &#252;berpr&#252;fe ich ob dieser aktiv ist. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0420/2f359ec6-e391-4a0d-934c-5b4d15460420/03b_mid.mp4</video:content_loc>
+        <video:duration>358</video:duration>
+        <video:publication_date>2016-04-01T15:39:29.8855360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Sicherheitsfeatures/02-Virtualization-based-security</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/497b/499d28d6-9151-4595-88a7-a7a32091497b/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Virtualization based security]]></video:title>
+        <video:description><![CDATA[Was ist die virtualization based security und wie wird sie verwendet um mich und meine Daten vor Diebstahl zu sch&#252;tzen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/497b/499d28d6-9151-4595-88a7-a7a32091497b/02_mid.mp4</video:content_loc>
+        <video:duration>398</video:duration>
+        <video:publication_date>2016-04-01T15:38:16.8533758+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Sicherheitsfeatures/01-Protection-Rings</loc>
+      <lastmod>2016-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a089/c519bbf2-c5f9-4c71-9cbf-4bc259bfa089/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Protection Rings]]></video:title>
+        <video:description><![CDATA[Wie sind Betriebssysteme &#252;berhaupt aufgebaut und was f&#252;r Sicherheitsmechanismen gibt es, die ein System vor Angriffen sch&#252;tzen k&#246;nnen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a089/c519bbf2-c5f9-4c71-9cbf-4bc259bfa089/01_mid.mp4</video:content_loc>
+        <video:duration>820</video:duration>
+        <video:publication_date>2016-04-01T15:31:24.2031762+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

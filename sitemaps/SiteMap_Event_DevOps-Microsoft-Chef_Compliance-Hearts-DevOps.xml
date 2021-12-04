@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-Microsoft-Chef/Compliance-Hearts-DevOps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-Microsoft-Chef/Compliance-Hearts-DevOps/Compliance-Hearts-DevOps</loc>
+      <lastmod>2020-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4429/3980e67f-1fda-49c9-b0ad-b37a92d74429/ChefMicrosoftEpisode1ComplianceHeartsDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Compliance &lt;3s DevOps]]></video:title>
+        <video:description><![CDATA[Chef and Azure work well together to improve the security and compliance of your applications and infrastructure. David Tesar of Microsoft &amp;amp; Justin Arbuckle of Chef share how and why DevOps&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4429/3980e67f-1fda-49c9-b0ad-b37a92d74429/ChefMicrosoftEpisode1ComplianceHeartsDevOps_mid.mp4</video:content_loc>
+        <video:duration>3225</video:duration>
+        <video:publication_date>2015-11-20T17:06:16.2170841+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

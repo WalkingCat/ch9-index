@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Exchange-Online-Tech-Talk</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Exchange-Online-Tech-Talk/Conectividad-con-aplicaciones-cliente-y-Exchange-Online</loc>
+      <lastmod>2019-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/74c2/1ba69011-2408-429f-ac8f-a923ef6274c2/ClientConnTS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conectividad con aplicaciones cliente y Exchange Online]]></video:title>
+        <video:description><![CDATA[En este webcast, Nacho S&#225;nchez-Beato (Ingeniero de soporte de Exchange) explicar&#225; como conecta las aplicaciones cliente a trav&#233;s de los diferentes protocolos a Exchange Online y como identificar&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/74c2/1ba69011-2408-429f-ac8f-a923ef6274c2/ClientConnTS_mid.mp4</video:content_loc>
+        <video:duration>3483</video:duration>
+        <video:publication_date>2016-08-26T13:10:33.0664115+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Exchange-Online-Tech-Talk/Exchange-Online-Protection-y-Advanced-Threat-Protection</loc>
+      <lastmod>2016-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f8e7/fd185257-d941-404b-b0f5-87e7b348f8e7/EOP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exchange Online Protection y Advanced Threat Protection]]></video:title>
+        <video:description><![CDATA[En este webcast, Andy Day y Ross Parkel (Ingenieros de escalaci&#243;n de Exchange Online) presentar&#225;n las ventajas que presenta Exchange Online Protection (EOP) frente a las actuales soluciones y que es&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f8e7/fd185257-d941-404b-b0f5-87e7b348f8e7/EOP_mid.mp4</video:content_loc>
+        <video:duration>4270</video:duration>
+        <video:publication_date>2016-08-24T06:36:24.5128235+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Exchange-Online-Tech-Talk/Administracin-de-Office365-con-PowerShell</loc>
+      <lastmod>2020-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d10b/af0ff8bb-fdb5-4706-9dff-ad9ccc35d10b/PS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Administraci&#243;n de Office365 con PowerShell]]></video:title>
+        <video:description><![CDATA[En este webcast, Ignacio Serrano y Madalina Florea (Ingenieros de soporte de Exchange) ayudaran a introducir al administrador de la suscripcion de Office 365 en la administracion mediante PowerShell,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d10b/af0ff8bb-fdb5-4706-9dff-ad9ccc35d10b/PS_mid.mp4</video:content_loc>
+        <video:duration>2474</video:duration>
+        <video:publication_date>2016-08-24T06:36:12.0452007+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Exchange-Online-Tech-Talk/Gestion-de-ActiveSync-y-DLP-en-Exchange-Online</loc>
+      <lastmod>2016-08-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a8b9/5020656c-4e58-4e92-bbfa-98b9aec2a8b9/EASDLP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gestion de ActiveSync y DLP en Exchange Online]]></video:title>
+        <video:description><![CDATA[En este webcast, Marco Castro y Guillermo Castro Dur&#225;n (Ingenieros de soporte de Exchange) discuten la gesti&#243;n de dispositivos ActiveSync en Exchange Online y la funcionalidad de Data Loss Prevention&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a8b9/5020656c-4e58-4e92-bbfa-98b9aec2a8b9/EASDLP_mid.mp4</video:content_loc>
+        <video:duration>2307</video:duration>
+        <video:publication_date>2016-08-24T06:35:56.3004024+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Exchange-Online-Tech-Talk/Recuperacin-de-datos-en-Exchange-Online</loc>
+      <lastmod>2016-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4957/26c3131c-72b0-462b-a878-538629c94957/WebcastEXODataRecovery_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Recuperaci&#243;n de datos en Exchange Online]]></video:title>
+        <video:description><![CDATA[En este webcast, Irene Higuera y Alberto Pascual (Ingenieros de soporte de Exchange Online) discutir&#225;n el tratamiento de datos almacenados en nuestra suscripci&#243;n de Exchange Online, como prevenir su&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4957/26c3131c-72b0-462b-a878-538629c94957/WebcastEXODataRecovery_mid.mp4</video:content_loc>
+        <video:duration>3309</video:duration>
+        <video:publication_date>2016-08-24T06:35:35.6480105+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

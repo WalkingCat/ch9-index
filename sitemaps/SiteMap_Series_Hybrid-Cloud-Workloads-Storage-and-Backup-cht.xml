@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht/06</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5662/8e29d960-e47d-497b-91d3-196e8c7f5662/Mod6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(06)  StorSimple ]]></video:title>
+        <video:description><![CDATA[本單元將帶您了解關於混合資料保護及 StorSimple 的更多相關資訊。像是如何集成內部部署與雲端儲存，並和磁碟映像與文件複製工具進行比較。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5662/8e29d960-e47d-497b-91d3-196e8c7f5662/Mod6_mid.mp4</video:content_loc>
+        <video:duration>804</video:duration>
+        <video:publication_date>2015-03-30T07:38:49.7475542+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht/05</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b51/fce6cb24-c94c-4f8f-abcd-b002d3b12b51/Mod5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(05)  Data Protection Manager ]]></video:title>
+        <video:description><![CDATA[本單元將帶您了解 DPM 如何以每 15 分鐘一次的頻率執行備份 (備份到硬碟)，以及使用 DPM 作為 offsite 災難備援決方案的優異性。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b51/fce6cb24-c94c-4f8f-abcd-b002d3b12b51/Mod5_mid.mp4</video:content_loc>
+        <video:duration>865</video:duration>
+        <video:publication_date>2015-03-30T07:38:41.8343273+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht/04</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6da3/a5d7bb0d-7484-4c71-8fb9-e386e1bc6da3/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04) Windows Azure Backup]]></video:title>
+        <video:description><![CDATA[本單元將帶您了解 Microsoft Azure 中提供的新服務：Windows Azure Backup，以及它是如何簡單且可靠地將伺服器備份到雲端。Microsoft Azure 會將資料進行加密，所以是相當安全的，而且能夠有效地利用網路和儲存資源，將現有的 Microsoft 備份工具透過雲端備份功能更加強化之。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6da3/a5d7bb0d-7484-4c71-8fb9-e386e1bc6da3/Mod4_mid.mp4</video:content_loc>
+        <video:duration>997</video:duration>
+        <video:publication_date>2015-03-30T07:38:34.4513796+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht/03</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2175/2fe284d4-9c30-4cb2-9770-2e61d2a62175/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03)  StorSimple ]]></video:title>
+        <video:description><![CDATA[本單元將帶您了解如何使用 StorSimple 的混合儲存功能，它可以獨立進行恢復，並具有相當高的效率和確定性。StorSimple 易於測試，可以放心部署。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2175/2fe284d4-9c30-4cb2-9770-2e61d2a62175/Mod3_mid.mp4</video:content_loc>
+        <video:duration>1336</video:duration>
+        <video:publication_date>2015-03-30T07:38:22.4027732+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht/02</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7708/8c98c669-184f-4792-ae24-bf2304397708/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02)  Azure ]]></video:title>
+        <video:description><![CDATA[本單元將帶您了解為何雲端是個很好的儲存選擇，為何對於所有備份、儲存資料及常訪問的主要資料而言，Azure 會為企業帶來更大的價&amp;#20540;。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7708/8c98c669-184f-4792-ae24-bf2304397708/Mod2_mid.mp4</video:content_loc>
+        <video:duration>1067</video:duration>
+        <video:publication_date>2015-03-30T07:38:06.2948212+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-Storage-and-Backup-cht/01</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3fb6/34bb9003-0685-4215-8ae9-6a7112ca3fb6/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01) Windows Server 2012 R2 ]]></video:title>
+        <video:description><![CDATA[本單元將探討 Microsoft 儲存的創新，並了解 Windows Server 2012 R2 如何提供在產業標準硬體設備上運行的企業級功能。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3fb6/34bb9003-0685-4215-8ae9-6a7112ca3fb6/Mod1_mid.mp4</video:content_loc>
+        <video:duration>6003</video:duration>
+        <video:publication_date>2015-03-30T07:37:49.7988760+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

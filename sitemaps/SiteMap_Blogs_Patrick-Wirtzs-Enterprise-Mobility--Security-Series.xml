@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Patrick-Wirtzs-Enterprise-Mobility--Security-Series</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Patrick-Wirtzs-Enterprise-Mobility--Security-Series/End-User-Experience-of-Enrollment-of-iOS-Device-in-Intune</loc>
+      <lastmod>2017-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b404/201b0e15-5c79-46c5-a48e-dfd10576b404/EndUserEnrollmentInIntuneExperience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[End User Experience of Enrollment of iOS Device in Intune]]></video:title>
+        <video:description><![CDATA[This video walks through the end user experience of enrolling a device in Microsoft Intune. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b404/201b0e15-5c79-46c5-a48e-dfd10576b404/EndUserEnrollmentInIntuneExperience_mid.mp4</video:content_loc>
+        <video:duration>268</video:duration>
+        <video:publication_date>2017-04-12T00:56:13.2627243+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Patrick-Wirtzs-Enterprise-Mobility--Security-Series/Enable-Azure-AD-Identity-Protection</loc>
+      <lastmod>2017-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7424/375cb0c7-49fc-480d-a6aa-eb9513bb7424/AADIPC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enable Azure AD Identity Protection]]></video:title>
+        <video:description><![CDATA[In this session we will go through the process to enable Azure AD Identity Protection. This feature of EMS E5 not only helps corporations understand the risk levels of authentication, mitigating them&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7424/375cb0c7-49fc-480d-a6aa-eb9513bb7424/AADIPC_mid.mp4</video:content_loc>
+        <video:duration>371</video:duration>
+        <video:publication_date>2017-04-03T18:17:37.7309787+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Patrick-Wirtzs-Enterprise-Mobility--Security-Series/Enable-Enterprise-Mobility--Security-EMS-E5-License-on-User-Account</loc>
+      <lastmod>2017-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c95/c58bf358-8dc1-4a8a-9d13-f24fe5728c95/EnableUserLicense_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enable Enterprise Mobility + Security (EMS) E5 License on User Account]]></video:title>
+        <video:description><![CDATA[In this video we will go through how to add a license, specifically EMS E5, to a user account through the Office 365 portal. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c95/c58bf358-8dc1-4a8a-9d13-f24fe5728c95/EnableUserLicense_mid.mp4</video:content_loc>
+        <video:duration>54</video:duration>
+        <video:publication_date>2017-03-08T05:53:41.9723907+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Patrick-Wirtzs-Enterprise-Mobility--Security-Series/Adding-Enterprise-Mobility--Security-EMS-Trial-Licenses-to-an-Existing-Office-365-Tenant</loc>
+      <lastmod>2017-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9061/5409e7ac-55d7-4abd-9faa-f68b88b59061/AddEMSTrialRevC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding Enterprise Mobility + Security (EMS) Trial Licenses to an Existing Office 365 Tenant]]></video:title>
+        <video:description><![CDATA[In this video we will walk through the process of adding trial licenses of EMS to an existing Office 365 tenant. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9061/5409e7ac-55d7-4abd-9faa-f68b88b59061/AddEMSTrialRevC_mid.mp4</video:content_loc>
+        <video:duration>67</video:duration>
+        <video:publication_date>2017-03-08T04:59:37.6165385+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Patrick-Wirtzs-Enterprise-Mobility--Security-Series/Creating-an-Office365-Tenant</loc>
+      <lastmod>2017-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c625/42da6cb6-0186-46fe-bd41-d68807b6c625/CreateO365TestTenant_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating an Office365 Tenant]]></video:title>
+        <video:description><![CDATA[In this video we will go through creating a new Office 365 tenant. This can be used to start off with a production tenant, trial features or anything else you might need to do with Office 365! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c625/42da6cb6-0186-46fe-bd41-d68807b6c625/CreateO365TestTenant_mid.mp4</video:content_loc>
+        <video:duration>136</video:duration>
+        <video:publication_date>2017-03-07T05:01:21.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

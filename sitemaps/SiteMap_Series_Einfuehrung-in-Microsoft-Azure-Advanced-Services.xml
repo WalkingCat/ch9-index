@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Advanced-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Advanced-Services/05-Entwurf-Cloud-basierter-Apps</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9422/8e661886-7484-463d-a8a3-e9fefa739422/05CloudApps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05| Entwurf Cloud-basierter Apps]]></video:title>
+        <video:description><![CDATA[Neben vielen Vorteilen bringt die Entscheidung f&#252;r den Betrieb der eigenen Anwendungen auf einer Cloud Plattform wie Microsoft Azure neue Herausforderungen, gerade beim Entwurf der Anwendungen sowie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9422/8e661886-7484-463d-a8a3-e9fefa739422/05CloudApps_mid.mp4</video:content_loc>
+        <video:duration>1701</video:duration>
+        <video:publication_date>2015-05-21T16:59:25.4233089+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Advanced-Services/04-API-Management</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4766/1c2a5e88-ce0e-40be-8ebc-bb350d8c4766/04API_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04| API Management]]></video:title>
+        <video:description><![CDATA[Anwendungslogik wird h&#228;ufig nicht &#252;ber eine endbenutzertaugliche Oberfl&#228;che sondern als API bereitgestellt. API Management kann bei der Vermarktung einer API helfen. Dazu k&#246;nnen bereitgestellte APIs&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4766/1c2a5e88-ce0e-40be-8ebc-bb350d8c4766/04API_mid.mp4</video:content_loc>
+        <video:duration>645</video:duration>
+        <video:publication_date>2015-05-21T16:58:40.1730727+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Advanced-Services/03-Media-Services</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/540d/2cdb5f98-1600-4f0d-998f-5ffb0a47540d/03MediaServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Media Services]]></video:title>
+        <video:description><![CDATA[Media Services sind eine Sammlung von Funktionen zur Verarbeitung von Mediendaten. Unterst&#252;tzt werden Upload, Codierung, Paketierung, Streaming (On-demand und Live) von Audio- und Videodaten. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/540d/2cdb5f98-1600-4f0d-998f-5ffb0a47540d/03MediaServices_mid.mp4</video:content_loc>
+        <video:duration>1043</video:duration>
+        <video:publication_date>2015-05-21T16:57:40.2862387+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Advanced-Services/02-Identity</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/480e/1158179b-28c8-459e-9918-01a7acbc480e/02Identity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Identity]]></video:title>
+        <video:description><![CDATA[Dieses Modul stellt die M&#246;glichkeiten des Identity Managements in der Cloud mit Hilfe von Azure Active Directory vor. Zu diesen M&#246;glichkeiten geh&#246;ren zentralen Benutzeridentit&#228;ten f&#252;r selbst&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/480e/1158179b-28c8-459e-9918-01a7acbc480e/02Identity_mid.mp4</video:content_loc>
+        <video:duration>1551</video:duration>
+        <video:publication_date>2015-05-21T16:56:43.3097119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Microsoft-Azure-Advanced-Services/01-Analytics--Big-Data</loc>
+      <lastmod>2015-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f83b/9f9220a2-f09d-4603-b9d2-20c41651f83b/01AnalyticsBigDataNEW_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Analytics &amp; Big Data]]></video:title>
+        <video:description><![CDATA[Azure bietet eine ganze Reihe an Diensten f&#252;r Analytics- und BigData-Szenarien. Mit diesen k&#246;nnen Herausforderungen, die sich aus einer Vielzahl an Datenquellen, hohen Datenvolumina und der&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f83b/9f9220a2-f09d-4603-b9d2-20c41651f83b/01AnalyticsBigDataNEW_mid.mp4</video:content_loc>
+        <video:duration>2958</video:duration>
+        <video:publication_date>2015-05-21T16:55:37.1575356+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

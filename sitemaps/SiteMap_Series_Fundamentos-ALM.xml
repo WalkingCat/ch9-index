@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM/Valoracin-en-ALM</loc>
+      <lastmod>2017-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a834/faa79c50-9bab-46cd-a960-b2cd6309a834/ALMMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Preguntas frecuentes de ALM]]></video:title>
+        <video:description><![CDATA[Respuesta a preguntas frecuentes que se realizan en eventos de comunidad o al interior de las empresas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a834/faa79c50-9bab-46cd-a960-b2cd6309a834/ALMMod4_mid.mp4</video:content_loc>
+        <video:duration>3659</video:duration>
+        <video:publication_date>2016-11-23T19:21:57.5862001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM/ALM-SDLC-DevOps</loc>
+      <lastmod>2017-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c53/b9dd82e9-147c-449d-84ac-18b143d20c53/ALMMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ALM - SDLC - DevOps]]></video:title>
+        <video:description><![CDATA[Entender la relaci&#243;n que existe entre los diferentes conceptos o tendencias de industria que han tomado o estan tomando mayor relevancia en el mundo del desarrollo de software. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c53/b9dd82e9-147c-449d-84ac-18b143d20c53/ALMMod3_mid.mp4</video:content_loc>
+        <video:duration>2519</video:duration>
+        <video:publication_date>2016-11-23T16:39:36.1959534+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM/Pilares-de-ALM</loc>
+      <lastmod>2017-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d171/ebb2e18a-d417-4b56-868d-bfab223ed171/ALMMod1part2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pilares de ALM]]></video:title>
+        <video:description><![CDATA[Entender que sin importar la responsabilidad asociada a una persona o a un rol en particular, existen elementos comunes que denominaremos pilares y que ser&#225;n utilizados para soportar un proceso de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d171/ebb2e18a-d417-4b56-868d-bfab223ed171/ALMMod1part2_mid.mp4</video:content_loc>
+        <video:duration>1853</video:duration>
+        <video:publication_date>2016-11-23T16:39:30.5787361+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM/Visual-Studio-Team-Services</loc>
+      <lastmod>2017-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/494a/f0021de0-1f03-46fc-9161-f95881cb494a/ALMModulo5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Conocer Visual Studio Team Services y utilizar algunas de sus caracter&#237;sticas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/494a/f0021de0-1f03-46fc-9161-f95881cb494a/ALMModulo5_mid.mp4</video:content_loc>
+        <video:duration>1165</video:duration>
+        <video:publication_date>2016-11-22T15:06:47.6997616+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM/Puntos-de-Vista</loc>
+      <lastmod>2020-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/652d/163c3b1d-1338-47d8-b7ca-c7d6fb7e652d/ALMModulo2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Puntos de Vista]]></video:title>
+        <video:description><![CDATA[Comprender que la construcci&#243;n o soporte de aplicaciones se debe entender con un esfuerzo de equipo, por lo anterior, esta claro que intervienen varias personas y que cada persona adopta uno o m&#225;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/652d/163c3b1d-1338-47d8-b7ca-c7d6fb7e652d/ALMModulo2_mid.mp4</video:content_loc>
+        <video:duration>1510</video:duration>
+        <video:publication_date>2016-11-22T15:06:28.2241185+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-ALM/Introduccin-a-ALM</loc>
+      <lastmod>2017-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4ecb/829549db-766e-43de-adbf-a6bbe04d4ecb/ALMModulo1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a ALM]]></video:title>
+        <video:description><![CDATA[Entender el proceso asociado a la gesti&#243;n del ciclo de vida de las aplicaciones y la forma en que intervienen cada uno de los miembros de un equipo de desarrollo de software. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ecb/829549db-766e-43de-adbf-a6bbe04d4ecb/ALMModulo1_mid.mp4</video:content_loc>
+        <video:duration>1551</video:duration>
+        <video:publication_date>2016-11-22T15:06:22.2023966+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

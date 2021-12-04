@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/power-bi-jumpstart-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/power-bi-jumpstart-2015/desktop</loc>
+      <lastmod>2015-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b33/4f69e91c-d14b-4d18-a5c7-b9f439867b33/desktop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI Desktop ]]></video:title>
+        <video:description><![CDATA[Power BI Desktop 能做到哪些事情呢？此課程將帶您探討 Desktop 如何發揮最大功效 －　在單一介面中整合 Power Query、Power Pivot 與 Power View  -     簡化開發與部屬流程 系列相關影片： - Power BI 概述簡介 - Power BI 資料模型設計 - 靈活運用 Power Map - Power BI Mobile App ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b33/4f69e91c-d14b-4d18-a5c7-b9f439867b33/desktop_mid.mp4</video:content_loc>
+        <video:duration>701</video:duration>
+        <video:publication_date>2015-11-03T05:52:35.5320970+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/power-bi-jumpstart-2015/mobile-app</loc>
+      <lastmod>2015-11-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a750/bae8e5b3-b153-4cff-b4c0-76e81d42a750/mobileapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI Mobile App]]></video:title>
+        <video:description><![CDATA[大部分的企業都是運用公司內部瀏覽器存取商業智慧。但隨著跨國企業變多，行動式管理逐漸流行，商業智慧變得無所不在，此單元將但您探討 Power BI Mobile App 的實際操作！ 系列相關影片： - Power BI 概述簡介 - Power BI 資料模型設計 - Power BI Desktop 簡化佈署 - 靈活運用 Power Map ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a750/bae8e5b3-b153-4cff-b4c0-76e81d42a750/mobileapp_mid.mp4</video:content_loc>
+        <video:duration>835</video:duration>
+        <video:publication_date>2015-10-30T17:00:08.1779216+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/power-bi-jumpstart-2015/data-model</loc>
+      <lastmod>2015-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7aad/5a49a07a-204d-4a5b-9668-c5198f697aad/data_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI ]]></video:title>
+        <video:description><![CDATA[過去的商業智慧主流的資料模型主要是由多維度分析的方式進行，自從微軟在SQL 2008 R2推出 Power BI 記憶體運算的機制稱為 xVelocity，此課程將帶您一同瞭解模型設計！ 系列相關影片： - Power BI 概述簡介 - Power BI Desktop 簡化佈署 - 靈活運用 Power Map - Power BI Mobile App ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7aad/5a49a07a-204d-4a5b-9668-c5198f697aad/data_mid.mp4</video:content_loc>
+        <video:duration>1440</video:duration>
+        <video:publication_date>2015-10-30T16:59:18.5016174+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/power-bi-jumpstart-2015/power-map</loc>
+      <lastmod>2017-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e5f9/dc6a6058-dfa7-4f99-8d8b-727406bfe5f9/map_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Power Map ]]></video:title>
+        <video:description><![CDATA[Power Map 技術是以 Excel 中的 3D 地圖體驗功能探索與瀏覽地理資料，此堂課程將帶大家深入瞭解 Map 以下應用 - 可以整合 2D、3D 畫面 - 無須取得經緯度即可依照地名設計地理報表 - 可設計多張場景變成地圖導覽 - 支援多種資料視覺化技術 系列相關影片： - Power BI 概述簡介 - Power BI 資料模型設計 - Power BI Desktop 簡化佈署 -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5f9/dc6a6058-dfa7-4f99-8d8b-727406bfe5f9/map_mid.mp4</video:content_loc>
+        <video:duration>1065</video:duration>
+        <video:publication_date>2015-10-30T12:08:08.7097246+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/power-bi-jumpstart-2015/overview</loc>
+      <lastmod>2016-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7da/b21c48cd-ae52-4c4f-b18c-e9d97f9fc7da/overview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI ]]></video:title>
+        <video:description><![CDATA[Power BI 話題逐漸火熱，此堂課將帶大家探討以下重點 - Power BI 2.0 的架構變化 - 運用 Power BI 設計高度視覺化儀表板 - Power BI 數據存取 - 行動商業智慧 系列相關影片： - Power BI 資料模型設計 - Power BI Desktop 簡化佈署 - 靈活運用 Power Map - Power BI Mobile App ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7da/b21c48cd-ae52-4c4f-b18c-e9d97f9fc7da/overview_mid.mp4</video:content_loc>
+        <video:duration>1174</video:duration>
+        <video:publication_date>2015-10-30T08:44:26.3011887+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

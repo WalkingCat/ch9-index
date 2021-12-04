@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Grundlagen-Basic-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Grundlagen-Basic-Services/04--Azure-Networking</loc>
+      <lastmod>2015-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc76/c83886d6-2a3c-4d1f-b08b-980c86abbc76/04AzureNetworking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Azure Networking]]></video:title>
+        <video:description><![CDATA[Nicht immer werden alle Komponenten einer Anwendung vollst&#228;ndig in der Cloud ausgef&#252;hrt. Oft ist eine Integration mit bestehenden, lokalen Infrastrukturelementen in einem eigenen Rechenzentrum&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc76/c83886d6-2a3c-4d1f-b08b-980c86abbc76/04AzureNetworking_mid.mp4</video:content_loc>
+        <video:duration>1860</video:duration>
+        <video:publication_date>2015-05-07T11:12:20.8604423+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Grundlagen-Basic-Services/03--Azure-Data-Services</loc>
+      <lastmod>2015-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1396/ff566bad-5a29-4ff7-932a-a1cd31321396/03AzureDataServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Azure Data Services]]></video:title>
+        <video:description><![CDATA[Microsoft Azure umfasst eine Reihe von relationalen (SQL-IaaS, SQL Database, …), nicht-relationalen (DocumentDB, Table Storage, Blob Storage, …) und Dateisystem-basierten Services (Disks, File&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1396/ff566bad-5a29-4ff7-932a-a1cd31321396/03AzureDataServices_mid.mp4</video:content_loc>
+        <video:duration>4382</video:duration>
+        <video:publication_date>2015-05-07T11:12:06.1631176+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Grundlagen-Basic-Services/02--Azure-Compute-Services</loc>
+      <lastmod>2015-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0b1e/aabc387f-d218-4ca6-abee-5e8015a40b1e/03AzureComputeServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Azure Compute Services]]></video:title>
+        <video:description><![CDATA[In Microsoft Azure bestehen verschiedene M&#246;glichkeiten zur Ausf&#252;hrung eigener Anwendungen. Die hierf&#252;r ben&#246;tigten Dienste lassen sich den beiden Bereichen Platform-as-a-Service (PaaS) und&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b1e/aabc387f-d218-4ca6-abee-5e8015a40b1e/03AzureComputeServices_mid.mp4</video:content_loc>
+        <video:duration>5854</video:duration>
+        <video:publication_date>2015-05-07T11:11:57.5063906+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Grundlagen-Basic-Services/01-Ueberblick</loc>
+      <lastmod>2015-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c7a/3e1d4206-3b56-4bf7-be2d-0704b2733c7a/01Ueberblick_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | &#220;berblick]]></video:title>
+        <video:description><![CDATA[Im ersten Modul erhalten Sie einen ersten &#220;berblick &#252;ber die Einsatzm&#246;glichkeiten einer Cloud-Plattform wie Microsoft Azure. Es werden die wesentlichen Dienste von Microsoft Azure vorgestellt und&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c7a/3e1d4206-3b56-4bf7-be2d-0704b2733c7a/01Ueberblick_mid.mp4</video:content_loc>
+        <video:duration>2512</video:duration>
+        <video:publication_date>2015-05-07T11:11:47.8717790+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/AppTemplates</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/AppTemplates/TEM2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b00/861f8bb4-d8e6-4772-a114-bb22c1302b00/TEM2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building an App Using the Hero App Template]]></video:title>
+        <video:description><![CDATA[The Windows 8 Hero App Template is a template developed to allow developers to quickly and easily create an application to collect certain information while out in the field on a Windows 8 device. For&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b00/861f8bb4-d8e6-4772-a114-bb22c1302b00/TEM2_mid.mp4</video:content_loc>
+        <video:duration>883</video:duration>
+        <video:publication_date>2013-05-10T15:10:51.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/AppTemplates/TEM1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cad3/10db90df-3038-48dd-bf50-ad907dc8cad3/TEM1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a Location-based App Using the Finder Template]]></video:title>
+        <video:description><![CDATA[The Windows 8 Finder Template is a template developed to allow developers to quickly and easily create a location based type application for the Windows 8 store.  It allows a developer to easily pull&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cad3/10db90df-3038-48dd-bf50-ad907dc8cad3/TEM1_mid.mp4</video:content_loc>
+        <video:duration>974</video:duration>
+        <video:publication_date>2013-05-10T14:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

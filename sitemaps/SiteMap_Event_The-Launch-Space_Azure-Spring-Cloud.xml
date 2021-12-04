@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Amazing-Spring-on-Azure-integrations</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2379/8b2be7e6-1277-41ee-b92e-42b504462379/SpringonAzureIntegrations_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Amazing Spring on Azure integrations]]></video:title>
+        <video:description><![CDATA[Josh Long, Spring Developer Advocate at VMware, talks about the amazing functionality of Spring on Azure integrations. Learn how to use Spring Cloud Stream Binders for Azure Event Hub and Service Bus.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2379/8b2be7e6-1277-41ee-b92e-42b504462379/SpringonAzureIntegrations_mid.mp4</video:content_loc>
+        <video:duration>1794</video:duration>
+        <video:publication_date>2020-09-24T20:27:16.5912850+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Secure-apps-on-Azure-Spring-Cloud-with-Managed-Virtual-Network</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3d8e/6a44948f-7e03-4e03-af21-ff7824143d8e/AzureSpringCloudwithAutoscale_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Secure apps on Azure Spring Cloud with Managed Virtual Network]]></video:title>
+        <video:description><![CDATA[Managed Virtual Network puts you in control of all your network communications and enables secure communication your Spring apps and other systems. In this demo, you&#39;ll learn how to:- Isolate apps by&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3d8e/6a44948f-7e03-4e03-af21-ff7824143d8e/AzureSpringCloudwithAutoscale_mid.mp4</video:content_loc>
+        <video:duration>1282</video:duration>
+        <video:publication_date>2020-09-24T20:26:44.8300046+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Accelerate-Spring-apps-to-cloud-at-scale</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/98a0/2d21dd46-fae1-4d7e-abe1-a0521c2598a0/AccelerateSpringApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Accelerate Spring apps to cloud at scale  A discussion with Azure Spring Cloud customers]]></video:title>
+        <video:description><![CDATA[Learn how enterprise leaders are using Azure Spring Cloud to transform their IT operations and deliver value. This moderated panel discussion will feature customers sharing real-world stories about:-&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/98a0/2d21dd46-fae1-4d7e-abe1-a0521c2598a0/AccelerateSpringApps_mid.mp4</video:content_loc>
+        <video:duration>1794</video:duration>
+        <video:publication_date>2020-09-24T20:26:33.8933304+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Azure-Spring-Cloud-with-Autoscale</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1f76/345fad0a-49cd-47ca-8c5c-185a31e91f76/AzureSpringCloudwithAutoscale_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Drive higher utilization of apps in Azure Spring Cloud with Autoscale]]></video:title>
+        <video:description><![CDATA[Autoscale enables you to be more productive and cost-efficient by automatically scaling apps based on load or schedule. Watch a hands-on demo and learn how to use this powerful functionality with&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1f76/345fad0a-49cd-47ca-8c5c-185a31e91f76/AzureSpringCloudwithAutoscale_mid.mp4</video:content_loc>
+        <video:duration>1191</video:duration>
+        <video:publication_date>2020-09-24T20:25:48.2747511+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Microsoft-and-VMware-Supporting-Spring-and-Open-Source-Developers</loc>
+      <lastmod>2020-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4f2b/c1d2fa31-5b22-4330-8393-df60ce414f2b/MicrosoftandVMware_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft and VMware: Supporting Spring and Open Source Developers]]></video:title>
+        <video:description><![CDATA[Julia Liuson, CVP of Developer Division at Microsoft, and Ajay Patel, SVP/GM of Modern Applications Platform Business Unit at VMware, discuss the Microsoft and VMware partnership, modern application&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4f2b/c1d2fa31-5b22-4330-8393-df60ce414f2b/MicrosoftandVMware_mid.mp4</video:content_loc>
+        <video:duration>1271</video:duration>
+        <video:publication_date>2020-09-24T20:24:28.2736678+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Deploy-to-Azure-Spring-Cloud-and-enable-enterprise-grade-AuthN-and-AuthZ</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fe18/e892138a-2dc2-45f7-ae30-cf075dadfe18/AuthNAuthZ_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy to Azure Spring Cloud and enable enterprise-grade AuthN and AuthZ]]></video:title>
+        <video:description><![CDATA[Join this live coding session to learn how to deploy to Azure Spring Cloud and enable enterprise grade authentication (AuthN) and authorization (AuthZ) with Azure Active Directory (AAD). Learn about&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fe18/e892138a-2dc2-45f7-ae30-cf075dadfe18/AuthNAuthZ_mid.mp4</video:content_loc>
+        <video:duration>999</video:duration>
+        <video:publication_date>2020-09-24T20:24:09.9812308+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Rapidly-dev-and-deploy-Spring-apps-to-Azure-Spring-Cloud</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b846/867831ed-3c14-4f2f-ac84-a661c8f7b846/DeploySpringApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Rapidly dev and deploy Spring apps to Azure Spring Cloud]]></video:title>
+        <video:description><![CDATA[Azure Spring Cloud enables rapid development and deployment of your applications through a variety of familiar tools. In this session you&#39;ll learn how to:- Provision using Terraform and Azure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b846/867831ed-3c14-4f2f-ac84-a661c8f7b846/DeploySpringApps_mid.mp4</video:content_loc>
+        <video:duration>980</video:duration>
+        <video:publication_date>2020-09-24T20:23:54.7247668+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Manage-secrets-for-apps-in-Azure-Spring-Cloud-with-Key-Vault</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3ec9/3f83f4be-688b-4384-9286-11dd7fc03ec9/SpringCloudwithKeyVault_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Manage secrets for apps in Azure Spring Cloud with Key Vault]]></video:title>
+        <video:description><![CDATA[Keep your secrets a secret with Key Vault! Key Vault stores secrets and enforces a zero-trust model. You keep control over your secrets—simply grant permission for your own applications to use them as&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3ec9/3f83f4be-688b-4384-9286-11dd7fc03ec9/SpringCloudwithKeyVault_mid.mp4</video:content_loc>
+        <video:duration>696</video:duration>
+        <video:publication_date>2020-09-24T20:23:13.6044912+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Azure-Spring-Cloud/Azure-Spring-Cloud-a-fully-managed-service-for-Spring-Boot-apps</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7daa/faf5a889-4883-46c2-9b90-72ac52f97daa/springbootapps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Spring Cloud - a fully managed service for Spring Boot apps]]></video:title>
+        <video:description><![CDATA[Azure Spring Cloud abstracts away the complexity of infrastructure management and Spring Cloud middleware management, so you can focus on building your business logic and let Azure take care of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7daa/faf5a889-4883-46c2-9b90-72ac52f97daa/springbootapps_mid.mp4</video:content_loc>
+        <video:duration>1887</video:duration>
+        <video:publication_date>2020-09-24T19:37:00.7051173+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

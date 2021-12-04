@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-in-15-Minuten-Polybase</loc>
+      <lastmod>2016-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5114/4f4aa91f-e906-433e-afa5-0432fcb65114/Sql2k16Polybase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 in 15 Minuten - Polybase ]]></video:title>
+        <video:description><![CDATA[In der Serie SQLServer 2016 in 15 Minuten werden neue Features im SQLServer 2016 kurz vorgestellt.Dieses Mal ist das Thema: &amp;quot;Polybase&amp;quot;. Mit dem SQL Server 2016 wurde die M&#246;glichkeit&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5114/4f4aa91f-e906-433e-afa5-0432fcb65114/Sql2k16Polybase_mid.mp4</video:content_loc>
+        <video:duration>1269</video:duration>
+        <video:publication_date>2016-01-26T15:15:44.2359321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-in-15-Minutes--Der-Mobile-Report-Publisher</loc>
+      <lastmod>2016-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f5fd/ea76b3b3-b3ed-4319-97bb-73d760a1f5fd/SQL2k16MobileReportPublisher_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 in 15 Minuten  Der Mobile Report Publisher]]></video:title>
+        <video:description><![CDATA[In der Serie SQLServer 2016 in 15 Minuten werden neue Features im SQLServer 2016 kurz vorgestellt.Dieses Mal ist das Thema: &amp;quot;Der Mobile Report Publisher&amp;quot;. Mit dem SQL Server 2016 wurden auch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f5fd/ea76b3b3-b3ed-4319-97bb-73d760a1f5fd/SQL2k16MobileReportPublisher_mid.mp4</video:content_loc>
+        <video:duration>2114</video:duration>
+        <video:publication_date>2015-12-22T22:29:22.0155224+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-in-15-Minutes-R-Integration</loc>
+      <lastmod>2017-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7f9/c39aad20-b313-4451-84e1-4ce74037b7f9/SQLServerRIntegrationen_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 in 15 Minutes - R Integration ]]></video:title>
+        <video:description><![CDATA[SQL Server R Services is comprised of a server-client architecture that supports two important data science scenarios: exploring data and developing rich predictive models, and operationalizing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7f9/c39aad20-b313-4451-84e1-4ce74037b7f9/SQLServerRIntegrationen_mid.mp4</video:content_loc>
+        <video:duration>1143</video:duration>
+        <video:publication_date>2015-12-22T11:43:23.1681817+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-in-15-Minuten-SSIS-Azure-Feature-Pack</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d250/11537c22-3329-46fa-9f45-0be1b12dd250/SSISAzureFeaturePack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 in 15 Minuten - SSIS Azure Feature Pack ]]></video:title>
+        <video:description><![CDATA[In der Serie SQLServer 2016 in 15 Minuten werden neue Features im SQLServer 2016 kurz vorgestellt. Dieses Mal ist das Thema: &amp;quot;SSIS Azure Feature Pack&amp;quot;. SQL Server Integration Services (SSIS)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d250/11537c22-3329-46fa-9f45-0be1b12dd250/SSISAzureFeaturePack_mid.mp4</video:content_loc>
+        <video:duration>1192</video:duration>
+        <video:publication_date>2015-12-21T12:05:41.6032227+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-CTP3-in-15-Minuten--R-Integration</loc>
+      <lastmod>2016-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5c8/4b6880c9-8e1a-47f1-b468-6e2bae81d5c8/SQL2k16IntegrationOfR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 CTP3 in 15 Minuten  R Integration]]></video:title>
+        <video:description><![CDATA[In der Serie SQLServer 2016 in 15 Minuten werden neue Features im SQLServer 2016 kurz vorgestellt. Dieses Mal ist das Thema: &amp;quot;R Integration&amp;quot;. R gilt zunehmend als die Standardsprache f&#252;r&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5c8/4b6880c9-8e1a-47f1-b468-6e2bae81d5c8/SQL2k16IntegrationOfR_mid.mp4</video:content_loc>
+        <video:duration>1174</video:duration>
+        <video:publication_date>2015-11-03T18:27:16.1310386+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-CTP3-in-15-Minuten-Temporal-Tables</loc>
+      <lastmod>2016-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/735b/6fc70a98-dc08-4248-bb05-e7c3f581735b/SQl2k16TemporalTables_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 CTP3 in 15 Minuten - Temporal Tables]]></video:title>
+        <video:description><![CDATA[In der Serie SQLServer 2016 in 15 Minuten werden neue Features im SQLServer 2016 kurz vorgestellt.Dieses Mal ist das Thema: &amp;quot;Temporal Tables&amp;quot;. Manches Mal w&#228;re es gro&#223;artig, wenn die Daten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/735b/6fc70a98-dc08-4248-bb05-e7c3f581735b/SQl2k16TemporalTables_mid.mp4</video:content_loc>
+        <video:duration>1843</video:duration>
+        <video:publication_date>2015-11-03T13:23:51.5778842+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQLServer-2016-in-15-Minuten/SQLServer-2016-in-15-Minuten-Dynamic-Data-Masking</loc>
+      <lastmod>2016-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/18f3/a8b88711-cf10-4d3c-9add-473463b318f3/SQL2k16DynamicDataMasking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQLServer 2016 in 15 Minuten - Dynamic Data Masking]]></video:title>
+        <video:description><![CDATA[In der Serie SQLServer 2016 in 15 Minuten werden neue Features im SQLServer 2016 kurz vorgestellt.Dieses Mal ist das Thema: &amp;quot;Dynamic Data Masking&amp;quot;. Nicht immer d&#252;rfen alle Benutzer die Daten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/18f3/a8b88711-cf10-4d3c-9add-473463b318f3/SQL2k16DynamicDataMasking_mid.mp4</video:content_loc>
+        <video:duration>527</video:duration>
+        <video:publication_date>2015-11-03T13:23:44.0334068+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

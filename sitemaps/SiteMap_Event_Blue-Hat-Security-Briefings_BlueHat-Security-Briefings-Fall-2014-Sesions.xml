@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2014-Sesions</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2014-Sesions/BlueHat-Security-Briefing-Fall-2014-Keynote-by-Chris-Betz</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03ec/e30d8529-8e24-4691-9b87-1e58a84003ec/BlueHatv14ChrisBetz_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BlueHat Security Briefing: Fall 2014 Keynote by Chris Betz]]></video:title>
+        <video:description><![CDATA[Keynote ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03ec/e30d8529-8e24-4691-9b87-1e58a84003ec/BlueHatv14ChrisBetz_mid.mp4</video:content_loc>
+        <video:duration>1628</video:duration>
+        <video:publication_date>2014-11-24T17:59:55.1105325+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2014-Sesions/BlueHat-Security-Briefing-Fall-2014-Botintime-Phoenix-DGA-based-Botnet-Stefano-Zanero</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5dce/16f6df44-3057-4e8b-8056-a2f0cd745dce/Zanero_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BlueHat Security Briefing: Fall 2014 Botintime Phoenix: DGA-based Botnet - Stefano Zanero]]></video:title>
+        <video:description><![CDATA[Botintime - Phoenix: DGA-based Botnet Tracking and Intelligence Its common knowledge that a malicious domain automatically generated will not become popular and also an attacker will register a domain&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5dce/16f6df44-3057-4e8b-8056-a2f0cd745dce/Zanero_mid.mp4</video:content_loc>
+        <video:duration>2824</video:duration>
+        <video:publication_date>2014-11-24T17:59:34.0166055+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2014-Sesions/BlueHat-Security-Briefing-Fall-2014-Summary-of-Attacks-against-BIOS-and-Secure-Boot-Yuriy-Bulygin</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/48ee/773f85df-13d9-441a-bbfd-a9195d4c48ee/BlueHatv14bulygin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BlueHat Security Briefing: Fall 2014 Summary of Attacks against BIOS and Secure Boot - Yuriy Bulygin ]]></video:title>
+        <video:description><![CDATA[UEFI - Summary of Attacks against BIOS and Secure BootA variety of attacks targeting platform firmware have been discussed publicly, drawing attention to the pre-boot and firmware components of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/48ee/773f85df-13d9-441a-bbfd-a9195d4c48ee/BlueHatv14bulygin_mid.mp4</video:content_loc>
+        <video:duration>1197</video:duration>
+        <video:publication_date>2014-11-24T17:59:08.6392653+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2014-Sesions/BlueHat-Security-Briefing-Fall-2014-Defining-and-Enforcing-Intent-Semantics-at-ABI-level-Sergey-Brat</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/920d/8659b057-11ae-430a-a105-aa3e1608920d/BlueHatv14bratus_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BlueHat Security Briefing: Fall 2014 Defining and Enforcing Intent Semantics at ABI level - Sergey&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Defining and Enforcing Intent Semantics at ABI levelDominant OS security policy designs treat a process as an opaque entity that has a &amp;quot;bag&amp;quot; of permissions to access some OS resources at any&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/920d/8659b057-11ae-430a-a105-aa3e1608920d/BlueHatv14bratus_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2014-11-24T17:58:50.3828889+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

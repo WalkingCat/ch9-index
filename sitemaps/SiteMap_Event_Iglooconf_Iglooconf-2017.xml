@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Azure-Messaging-When-to-use-what-and-why</loc>
+      <lastmod>2017-07-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/aff01b65-ff1e-4081-ac46-7981f6abd43a.png</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Messaging: When to use what and why]]></video:title>
+        <video:description><![CDATA[Azure offers several messaging specific services including Service Bus Queues &amp;amp; Topics, Relay / Hybrid Connections, and Event Hubs. This talk will introduce each of these services and help you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac8a/bdfa6a7a-fb85-4882-9978-8d0e1ae5ac8a/AzureMessagingWhenToUseWhatAndWhy_mid.mp4</video:content_loc>
+        <video:duration>2476</video:duration>
+        <video:publication_date>2017-01-24T11:26:52.2518591+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Twitter-Machine-Learning</loc>
+      <lastmod>2017-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/9b9b7685-6c9b-4083-bbcf-9134828cf418.png</video:thumbnail_loc>
+        <video:title><![CDATA[1. Tweet 2. ??? 3. profit]]></video:title>
+        <video:description><![CDATA[Social Media and Twitter were heavily used as public relations tools during the USA presidential campaign of 2016. In this presentation we&#39;re going to pick one of the candidates, and then proceed to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cad4/02152868-e84a-4310-8cdf-e6cb6febcad4/TwitterMachineLearning_mid.mp4</video:content_loc>
+        <video:duration>2917</video:duration>
+        <video:publication_date>2017-01-24T11:24:40.8239783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/What-is-going-on-Tips-and-tricks-around-application-diagnostics-on-Azure</loc>
+      <lastmod>2017-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/e8055a1c-9d4c-44ac-ba91-de66ed99cd53.png</video:thumbnail_loc>
+        <video:title><![CDATA[What is going on? Tips and tricks around application diagnostics on Azure]]></video:title>
+        <video:description><![CDATA[We all like building and deploying cloud applications. But what happens once that&#39;s done? How do we know if our application behaves like we expect it to behave? Of course, logging! But how do we get&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/70d6/65bb8137-f831-4645-ba91-848748c070d6/WhatIsGoingOnTipcsAndTricks_mid.mp4</video:content_loc>
+        <video:duration>3596</video:duration>
+        <video:publication_date>2017-01-24T11:24:36.6652637+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Being-Zen-on-Microsoft-Azure-with-Continuous-Delivery-Monitoring-and-Learning</loc>
+      <lastmod>2017-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/1571175c-296e-4ed6-8a26-1ca5965b9845.png</video:thumbnail_loc>
+        <video:title><![CDATA[Being Zen on Microsoft Azure with Continuous Delivery, Monitoring and Learning]]></video:title>
+        <video:description><![CDATA[Ever felt you spend more time packing deployments, configuring test environments and deploying the latest build, in order to please the testers, than you spend writing actual code? Ever had your flow&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6727/97b3efdf-22e1-4f98-ae5f-548d4c366727/BeingZenOnMicrosoftAzure_mid.mp4</video:content_loc>
+        <video:duration>3352</video:duration>
+        <video:publication_date>2017-01-24T11:24:34.7352814+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/ARM-template-and-PowerShell-DSC-a-Match-Made-in-Heaven</loc>
+      <lastmod>2017-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d6207511-9969-4251-ab07-cd1e5ae8e39f.png</video:thumbnail_loc>
+        <video:title><![CDATA[ARM template and PowerShell DSC, a Match Made in Heaven]]></video:title>
+        <video:description><![CDATA[Both, ARM templates and PowerShell DSC represent the declarative model where we describe what we want instead of using the &amp;quot;old&amp;quot; imperative approach. ARM templates enable idempotent&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d04f/95e5a017-13b7-4671-91b1-73b4b901d04f/ARMTemplateAndPowerShell_mid.mp4</video:content_loc>
+        <video:duration>3654</video:duration>
+        <video:publication_date>2017-01-24T11:24:30.0990452+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Integration-of-things-building-on-Azure-IoT-for-industrial-IoT-solutions</loc>
+      <lastmod>2017-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/a6a37843-46ae-48f8-a26d-4ee83b7fa84b.png</video:thumbnail_loc>
+        <video:title><![CDATA[Integration of things; building on Azure IoT for industrial IoT solutions]]></video:title>
+        <video:description><![CDATA[In the past 2 years, Sam has been working on several Internet of Things projects with different customers in Europe. To build an overall IoT solution, a lof of different technologies and skills are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4455/2b1cbe48-3140-46f9-a865-7733c12a4455/IntegrationOfThingsBuildingOnAzureIoT_mid.mp4</video:content_loc>
+        <video:duration>3711</video:duration>
+        <video:publication_date>2017-01-24T11:24:26.2760358+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Azure-Functions-NuGet-Superpowers</loc>
+      <lastmod>2017-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/e705589f-07b0-4b2a-841e-7ade6e3ee3b6.png</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Functions + NuGet = Superpowers]]></video:title>
+        <video:description><![CDATA[Azure Functions are really easy to get started with for simple tasks. But when you want to start solving more complex problems with Azure Functions you are going start copy-pasting code to share&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92ff/52113017-ba84-4f2a-9252-e453c0a792ff/AzureFunctionsNugetSuperpowers_mid.mp4</video:content_loc>
+        <video:duration>3228</video:duration>
+        <video:publication_date>2017-01-24T11:24:23.8350825+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Building-a-SaaS-platform-in-Azure-challenges-and-lessons-learned</loc>
+      <lastmod>2017-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/30eeec3f-2d2f-49b6-9cf6-85c76922d72e.png</video:thumbnail_loc>
+        <video:title><![CDATA[Building a SaaS platform in Azure - challenges and lessons learned]]></video:title>
+        <video:description><![CDATA[Saravana has buit two SaaS products in Azure (BizTalk360 Cloud and ServiceBus360). He will speak about the challenges and technologies used in building a SaaS product in Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4961/aaeb81d9-8337-4461-99f3-6947d0834961/BuildingSaaSPlatforminAzure_mid.mp4</video:content_loc>
+        <video:duration>3233</video:duration>
+        <video:publication_date>2017-01-24T11:24:21.0196602+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Enter-the-Matrix-Securing-Azures-assets</loc>
+      <lastmod>2017-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/aba6e7e2-1a36-4630-9eda-4ff08e3d74ad.png</video:thumbnail_loc>
+        <video:title><![CDATA[Enter the Matrix: Securing Azure&#39;s assets]]></video:title>
+        <video:description><![CDATA[In the cloud no one can hear you scream... or can they. Even though Microsoft has a tremendous army of gadgets (besides the sharks with freakin lasers that is) in place for defending your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/08b3/c8f088af-0ade-444d-b57c-87adf11108b3/EnterTheMatrixSecuringAzureAssets_mid.mp4</video:content_loc>
+        <video:duration>3553</video:duration>
+        <video:publication_date>2017-01-24T11:24:17.7032072+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Iglooconf/Iglooconf-2017/Azure-Service-Fabric-Reliable-Actors</loc>
+      <lastmod>2018-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/c745b95b-698e-4f2c-a042-ab0e95d9f9bf.png</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Service Fabric Reliable Actors]]></video:title>
+        <video:description><![CDATA[The actor model adopts the philosophy that everything is an actor. It provides a pattern for concurrent communication allowing discrete units of computation called &amp;quot;Actors&amp;quot;. Actors maintain&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a583/afc6b68b-fe80-4395-b1f2-cf4c6844a583/AzureServiceFabricReliableActors_mid.mp4</video:content_loc>
+        <video:duration>3119</video:duration>
+        <video:publication_date>2017-01-24T11:24:15.1928444+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

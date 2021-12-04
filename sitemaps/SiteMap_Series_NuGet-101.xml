@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/NuGet-101</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NuGet-101/Create-and-Publish-a-NuGet-Package-with-the-NET-CLI-5-of-5</loc>
+      <lastmod>2020-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6ed0/a8ea9909-cc6f-4672-9a01-75d4e4f56ed0/CreateandPublishaNuGetPackagewiththeNETCLI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create and Publish a NuGet Package with the .NET CLI [5 of 5]]]></video:title>
+        <video:description><![CDATA[An introduction to creating NuGet packages with the .NET CLI and publishing to nuget.org. In this tutorial we will build a simple class library from scratch, use good practices to fill out the package&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4865/1303e0ae-8843-44da-ac4c-e1b992f74865/CreateandPublishaNuGetPackagewiththeNETCLI_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NuGet-101/Create-and-Publish-a-NuGet-Package-with-Visual-Studio-4-of-5</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0ed7/f37917a0-c598-4c99-a7fe-a64ae7f70ed7/CreateandPublishaNuGetPackagewithVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create and Publish a NuGet Package with Visual Studio [4 of 5]]]></video:title>
+        <video:description><![CDATA[An introduction to creating NuGet packages with Visual Studio and publishing to nuget.org. In this tutorial we will build a simple class library from scratch, use good practices to fill out the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/388c/fb3d4097-8524-457f-a5f2-935a3d45388c/CreateandPublishaNuGetPackagewithVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>513</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NuGet-101/Install-and-Use-a-NuGet-Package-with-the-NET-CLI-3-of-5</loc>
+      <lastmod>2020-12-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cfa9/f3f03da5-7ad3-4078-931d-3c4e24c6cfa9/InstallAndUseANugetPackageWith.NETCLI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Install and Use a NuGet Package with the .NET CLI [3 of 5]]]></video:title>
+        <video:description><![CDATA[An introduction to installing and using NuGet packages with cross-platform .NET CLI. We will walk through an example of converting a mascot object to a JSON string and cover how to search for,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d0e2/e27f282c-f6ba-4a58-8f67-687d2d88d0e2/InstallAndUseANugetPackageWith.NETCLI_mid.mp4</video:content_loc>
+        <video:duration>345</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NuGet-101/Install-and-Use-a-NuGet-Package-with-Visual-Studio-2-of-5</loc>
+      <lastmod>2020-01-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/47bb/4c892154-21fb-4292-8832-ea07d21147bb/InstallAndUseANugetPackageWithVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Install and Use a NuGet Package with Visual Studio [2 of 5]]]></video:title>
+        <video:description><![CDATA[An introduction to installing and using NuGet  packages with the built in Visual Studio package manager. We will walk through an example of converting millisecond timespans to readable&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7cd2/1dbbae5d-e69a-44a0-8608-c4e5ad807cd2/InstallAndUseANugetPackageWithVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>344</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NuGet-101/What-is-NuGet-1-of-5</loc>
+      <lastmod>2021-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c529/67ada36a-45d2-472e-b8db-02c5f1a3c529/WhatIsNuget_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is NuGet? [1 of 5]]]></video:title>
+        <video:description><![CDATA[This tutorial is a brief introduction to NuGet and .NET package management. NuGet is the official package manager for the .NET developer platform. That means NuGet hosts a massive ecosystem of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/786a/bfea9664-0e2e-4b92-844d-5eec6219786a/WhatIsNuget_mid.mp4</video:content_loc>
+        <video:duration>235</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

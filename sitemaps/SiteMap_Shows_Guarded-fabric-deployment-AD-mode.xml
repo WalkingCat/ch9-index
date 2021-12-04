@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Guarded-fabric-deployment-AD-mode</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Guarded-fabric-deployment-AD-mode/Guarded-fabric-deployment-TPM-mode</loc>
+      <lastmod>2017-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/9877970c-edf2-4164-b549-7cb0f7ba2570.png</video:thumbnail_loc>
+        <video:title><![CDATA[Guarded fabric deployment TPM mode]]></video:title>
+        <video:description><![CDATA[This video illustrates the deployment process for a guarded fabric using TPM mode. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5a0/491441ba-ce4d-4fd7-9de3-d5ed7cece5a0/GuardedFabricDeploymentTPMMode_mid.mp4</video:content_loc>
+        <video:duration>213</video:duration>
+        <video:publication_date>2017-05-24T20:56:34.4092475+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Guarded-fabric-deployment-AD-mode/Guarded-fabric-deployment-AD-mode</loc>
+      <lastmod>2017-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/62467cbc-df97-4835-aaec-c75f2ef2eb79.png</video:thumbnail_loc>
+        <video:title><![CDATA[Guarded fabric deployment AD mode]]></video:title>
+        <video:description><![CDATA[This video illustrates the process to deploy a guarded fabric in AD mode.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2eb5/c8bab287-95e9-4ef6-9bd7-cf4f3b6b2eb5/GuardedFabricDeploymentADMode_mid.mp4</video:content_loc>
+        <video:duration>165</video:duration>
+        <video:publication_date>2017-05-24T20:54:14.8857512+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

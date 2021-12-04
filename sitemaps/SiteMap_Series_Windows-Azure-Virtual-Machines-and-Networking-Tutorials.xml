@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Step-by-step-click-by-click-video-of-creating-Internet-facing-Load-Balancer-and-2-VMs-in-the-portal-</loc>
+      <lastmod>2018-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8fd9/f50035d3-32a5-4fa9-86b6-efb9bddc8fd9/LBARMinNewPortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Click-by-click - Creating load balanced VMs using Azure Resource Manager in the Azure portal]]></video:title>
+        <video:description><![CDATA[Every click, select, text-entry and check-box you need, plus diagrams to show you what is being built. The pictures show how the architecture relates to the controls in the UI that are bing clicked,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8fd9/f50035d3-32a5-4fa9-86b6-efb9bddc8fd9/LBARMinNewPortal_mid.mp4</video:content_loc>
+        <video:duration>4105</video:duration>
+        <video:publication_date>2016-04-04T08:26:16.6009409+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Load-balanced-Apache-Webservers-on-Ubuntu-Linux-in-Azure</loc>
+      <lastmod>2015-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/eefc9877-069d-4145-bd7e-1a9510e57d58.png</video:thumbnail_loc>
+        <video:title><![CDATA[Load-balanced Apache Webservers on Ubuntu Linux in Azure]]></video:title>
+        <video:description><![CDATA[Just thought I&#39;d show how easy and simple it is to get a couple of Apache web servers running on Ubuntu to load balance web traffic in Azure. If you&#39;re a Linux/LAMP guy, Azure is a great cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1923/dd2953ce-7eb7-461a-82e8-3d49c35a1923/LoadBalancedApacheWebserversOnUbuntuLinux_high.mp4</video:content_loc>
+        <video:duration>772</video:duration>
+        <video:publication_date>2015-03-12T22:08:04.3813526+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Running-a-Remote-Desktop-on-a-Windows-Azure-Linux-VM</loc>
+      <lastmod>2016-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a92/f471d75d-1038-4cee-a68c-3791c22c8a92/RunningARemoteDesktopOnAWindowsAzureLinuxVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Running a Remote Desktop on a Windows Azure Linux VM]]></video:title>
+        <video:description><![CDATA[There are some programs and utilities that just can&#39;t be run at the command-line supplied by the default Linux images in the Windows Azure Linux gallery. Sometimes, you have to use a graphical desktop&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a92/f471d75d-1038-4cee-a68c-3791c22c8a92/RunningARemoteDesktopOnAWindowsAzureLinuxVM_mid.mp4</video:content_loc>
+        <video:duration>578</video:duration>
+        <video:publication_date>2013-11-12T11:44:02.3157985+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Automating-the-pop-up-and-pop-down-process-of-a-Windows-Azure-SharePoint-Pop-up-Lab</loc>
+      <lastmod>2013-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7a0f/f75478fc-fcf3-4e3c-8728-a6b75cf77a0f/PowershellSharePointPopUpLab_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Automating the pop-up and pop-down process of a Windows Azure SharePoint Pop-up Lab with Powershell]]></video:title>
+        <video:description><![CDATA[If you&#39;ve built the SharePoint Pop-up Lab, you&#39;ll want to automate the process of popping it up and popping it back down again. This video shows you how to take the lab you&#39;ve already built and do&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7a0f/f75478fc-fcf3-4e3c-8728-a6b75cf77a0f/PowershellSharePointPopUpLab_mid.mp4</video:content_loc>
+        <video:duration>1019</video:duration>
+        <video:publication_date>2013-05-29T06:56:30.3637889+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Building-a-SharePoint-2010-Pop-up-Lab-in-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5270/df4238ec-5cfe-4ad6-9733-e1480bb95270/BuildingSharePointPopUpLabInAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a SharePoint Pop-up Lab in Windows Azure]]></video:title>
+        <video:description><![CDATA[Increasingly, pop-up labs are being used by more and more people. They are pre-configured, self-contained lab environments. This click-by-click video shows you how to build a SharePoint 2010 pop-up&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5270/df4238ec-5cfe-4ad6-9733-e1480bb95270/BuildingSharePointPopUpLabInAzure_mid.mp4</video:content_loc>
+        <video:duration>1215</video:duration>
+        <video:publication_date>2013-05-28T19:45:11.5499119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Introduction-to-Windows-Azure-PowerShell</loc>
+      <lastmod>2016-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c83/95b4219c-406b-44ee-a124-3c1731514c83/IntroToWAPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Windows Azure PowerShell]]></video:title>
+        <video:description><![CDATA[This video introduces Windows Azure PowerShell cmdlets. Learn how you can automate common and advanced VM management using PowerShell. You can learn more about Windows Azure Virtual Machines and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c83/95b4219c-406b-44ee-a124-3c1731514c83/IntroToWAPowerShell_mid.mp4</video:content_loc>
+        <video:duration>576</video:duration>
+        <video:publication_date>2013-02-04T23:42:09.1308874+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Introduction-to-Windows-Azure-Virtual-Machines</loc>
+      <lastmod>2016-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c9af/793b1f3d-0cd2-4b4c-9ade-1fefdbc7c9af/IntroToVirtualMachines_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Windows Azure Virtual Machines]]></video:title>
+        <video:description><![CDATA[This video introduces Windows Azure Virtual Machines. By watching this video you will learn the core concepts of Windows Azure VMs as well as see how easy it is to create a deploy your own VM. You can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c9af/793b1f3d-0cd2-4b4c-9ade-1fefdbc7c9af/IntroToVirtualMachines_mid.mp4</video:content_loc>
+        <video:duration>726</video:duration>
+        <video:publication_date>2013-02-04T23:39:37.3604373+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Creating-Windows-Azure-Virtual-Machines-with-PowerShell</loc>
+      <lastmod>2016-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e4f/59fa37a2-0eac-43f7-ae4f-048268603e4f/CreatingVMsWithPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Azure Virtual Machines with PowerShell]]></video:title>
+        <video:description><![CDATA[This video demonstrates how to create Windows Azure Virtual Machines using the Windows Azure PowerShell Cmdlets. You can learn more about Windows Azure Virtual Machines and Networking from the videos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e4f/59fa37a2-0eac-43f7-ae4f-048268603e4f/CreatingVMsWithPowerShell_mid.mp4</video:content_loc>
+        <video:duration>708</video:duration>
+        <video:publication_date>2013-02-04T23:36:23.3420499+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Virtual-Machines-and-Networking-Tutorials/Introduction-to-Virtual-Machine-Networking</loc>
+      <lastmod>2016-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0f41/ffe26bd4-ec91-4a45-9a7a-faa4f7810f41/IntroToVMNetworking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Windows Azure Virtual Machine Networking]]></video:title>
+        <video:description><![CDATA[This video introduces the concerts of Virtual Machine Networking. You will learn how to connect multiple virtual machines in the same network and the basics of configuring the load balancer. You can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f41/ffe26bd4-ec91-4a45-9a7a-faa4f7810f41/IntroToVMNetworking_mid.mp4</video:content_loc>
+        <video:duration>761</video:duration>
+        <video:publication_date>2013-02-04T23:31:02.4312691+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

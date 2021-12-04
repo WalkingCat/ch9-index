@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Multi-user-Support-in-Dev-Center</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca6c/035d6e7e-5799-48ab-9c8e-e1a5a105ca6c/IWPMultiUserSupportinDevCenter_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multi-user Support in Dev Center]]></video:title>
+        <video:description><![CDATA[Join Shen Chauhan and Victor Soto from the Dev Center Engineering team as he walks you through the new multi-user role based access feature. Victor show you how you can use the power of Azure Active&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca6c/035d6e7e-5799-48ab-9c8e-e1a5a105ca6c/IWPMultiUserSupportinDevCenter_mid.mp4</video:content_loc>
+        <video:duration>1223</video:duration>
+        <video:publication_date>2015-12-11T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Web-Application-Compatibility-Inside-Windows-10</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ddaa/f4c15ec0-b4c5-4bde-99e2-ac1904fdddaa/WebAppinsideWindows10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Application Compatibility Inside Windows 10]]></video:title>
+        <video:description><![CDATA[In this weeks&#39; episode we will take a look at the browsers inside Windows 10, Microsoft Edge and Internet Explorer 11. We will help answer questions such as, why does Windows 10  have 2 browsers, how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ddaa/f4c15ec0-b4c5-4bde-99e2-ac1904fdddaa/WebAppinsideWindows10_mid.mp4</video:content_loc>
+        <video:duration>1204</video:duration>
+        <video:publication_date>2015-11-24T17:24:08.3178439+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Leverage-Inking-in-your-UWP-Apps</loc>
+      <lastmod>2017-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ed5/65640fa6-9dc3-4ee5-920c-2645946b2ed5/IWPInking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Leverage Inking in your UWP Apps]]></video:title>
+        <video:description><![CDATA[This week, Shen walked us through the Windows 10 Ink APIs. Here are some more resources for you on this topic: Shen&#39;s blog on adding Ink functionality to your Windows 10 UWP applicationShen&#39;s code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ed5/65640fa6-9dc3-4ee5-920c-2645946b2ed5/IWPInking_mid.mp4</video:content_loc>
+        <video:duration>731</video:duration>
+        <video:publication_date>2015-11-05T16:19:35.2858017+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Nerding-out-with-Surface-Book</loc>
+      <lastmod>2016-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7a7/26d3f25e-8b4d-4d2e-9554-e83a1942f7a7/IWPSurfaceBook_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nerding out with Surface Book]]></video:title>
+        <video:description><![CDATA[In this week&#39;s show, we nerd-out on the features of the Surface Book and Surface Pro 4 that are amazing for IT Pros and Developers. Wonder what makes the Surface Book the ultimate laptop, then take a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7a7/26d3f25e-8b4d-4d2e-9554-e83a1942f7a7/IWPSurfaceBook_mid.mp4</video:content_loc>
+        <video:duration>1069</video:duration>
+        <video:publication_date>2015-10-27T23:29:38.8729910+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Exposing-and-Calling-App-Services-from-your-UWP-app</loc>
+      <lastmod>2019-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/96d0/7b27be97-802f-4b60-9163-f226ea6296d0/IWPAppServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exposing and Calling App Services from your UWP app]]></video:title>
+        <video:description><![CDATA[This week we&#39;re talking about App Services. App Services in UWP allow you to exposes some aspect of your application in such a way that it can be called by other applications. You can think of this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/96d0/7b27be97-802f-4b60-9163-f226ea6296d0/IWPAppServices_mid.mp4</video:content_loc>
+        <video:duration>954</video:duration>
+        <video:publication_date>2015-10-15T22:27:22.2327793+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Detecting-and-Responding-to-Battery-Status-in-UWP-apps</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/feef/d39e924a-6084-4a26-928f-f8a5cd83feef/IWPBackgroundProcess_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Detecting and Responding to Battery Status in UWP apps]]></video:title>
+        <video:description><![CDATA[This week we talked about how you can easily detect the battery status, and respond to that status. It&#39;s become more and more critical that the experiences you create for the end user respect battery&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/feef/d39e924a-6084-4a26-928f-f8a5cd83feef/IWPBackgroundProcess_mid.mp4</video:content_loc>
+        <video:duration>532</video:duration>
+        <video:publication_date>2015-10-01T16:42:33.5939735+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Using-Drag-and-Drop-in-your-Universal-Windows-App</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ceb/4ecf64bc-d697-409e-b04f-f9c687711ceb/IWPDragandDrop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using &quot;Drag and Drop&quot; in your Universal Windows App]]></video:title>
+        <video:description><![CDATA[In Windows 10, we&#39;ve made it exceedingly easy to add &amp;quot;Drag and Drop&amp;quot; functionality to your UWP application. As you&#39;re probably aware, &amp;quot;drag and drop&amp;quot; is by no means a new feature&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ceb/4ecf64bc-d697-409e-b04f-f9c687711ceb/IWPDragandDrop_mid.mp4</video:content_loc>
+        <video:duration>702</video:duration>
+        <video:publication_date>2015-09-25T00:40:03.3412487+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/UWP-Layout-using-SplitView-and-RelativePanel-in-C-with-XAML</loc>
+      <lastmod>2017-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59b9/090a13d6-6c82-4df6-843f-9eb49f3059b9/IWPWin10Basics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP Layout using SplitView and RelativePanel in C# with XAML]]></video:title>
+        <video:description><![CDATA[This week, Shen and I took a look at how you can very easily use the new XAML SplitView control to build an experience in your UWP application that automatically _adapts_ based on the current size of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59b9/090a13d6-6c82-4df6-843f-9eb49f3059b9/IWPWin10Basics_mid.mp4</video:content_loc>
+        <video:duration>894</video:duration>
+        <video:publication_date>2015-09-17T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Project-Astoria-Build-great-Windows-apps-with-your-Android-app-code</loc>
+      <lastmod>2017-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d81c/bc5886b8-6d03-4601-a872-3c658b4ed81c/ProjectAstoriaIntroduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&quot;Project Astoria&quot;: Build great Windows apps with your Android app code]]></video:title>
+        <video:description><![CDATA[&amp;quot;Project Astoria&amp;quot; lets you build great Windows apps, while reusing your Android app code and tools. Apps built with this technology leverage key Windows interactions, and deliver the kind of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d81c/bc5886b8-6d03-4601-a872-3c658b4ed81c/ProjectAstoriaIntroduction_mid.mp4</video:content_loc>
+        <video:duration>151</video:duration>
+        <video:publication_date>2015-04-30T17:56:01.7866577+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/A-First-Look-at-Building-Windows-10-Universal-Applications</loc>
+      <lastmod>2020-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77b7/bb145117-bd4b-4efa-8c97-964b03ae77b7/FirstLookAtBuildingWindows10UAP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A First Look at Building Windows 10 Universal Apps]]></video:title>
+        <video:description><![CDATA[At Mobile World Congress 2015, Kevin Gallo gave the world a first look at the Windows 10 universal app platform. Kevin provided background into how developers can achieve scale through reach across&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77b7/bb145117-bd4b-4efa-8c97-964b03ae77b7/FirstLookAtBuildingWindows10UAP_mid.mp4</video:content_loc>
+        <video:duration>2785</video:duration>
+        <video:publication_date>2015-03-23T19:40:32.0649751+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform-How-to-Add-Push-Notifications-to-Your-App</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9dba/52fa7f0c-ef37-48a4-b5ef-e92766cf9dba/20141014IWP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside Windows Platform | How to Add Push Notifications to Your App]]></video:title>
+        <video:description><![CDATA[In this video, Shen chatted with Yavor Georgiev from the Azure team about how easy it is to add push notifications to your Windows app, using Azure Mobile Services. Why would you want to use Azure?&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9dba/52fa7f0c-ef37-48a4-b5ef-e92766cf9dba/20141014IWP_mid.mp4</video:content_loc>
+        <video:duration>552</video:duration>
+        <video:publication_date>2015-01-09T04:09:22.7874857+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform--Going-from-Windows-Phone-Silverlight-to-Windows-RT-XAML</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7fc9/7996c6ba-6f9f-4434-a1bd-f09f67d37fc9/IWPSilverlighttoWinRTXAML_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside Windows Platform | Going from Windows Phone Silverlight to Windows RT XAML]]></video:title>
+        <video:description><![CDATA[As we all know, up until Windows Phone 8.1, virtually all Windows Phone applications were written with Windows Phone Silverlight. With 8.1, we introduced Windows Runtime (WinRT) XAML. WinRT XAML,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7fc9/7996c6ba-6f9f-4434-a1bd-f09f67d37fc9/IWPSilverlighttoWinRTXAML_mid.mp4</video:content_loc>
+        <video:duration>1284</video:duration>
+        <video:publication_date>2014-12-17T06:42:05.5358193+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform--Inside-the-Windows-Ad-Mediator-Service-and-Control-Maximize-your-Ad-Revenue</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f058/13a80894-550b-4f06-9345-2cbd7cd3f058/IWPMediation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside Windows Platform | Inside the Windows Ad Mediator Service and Control - Maximize your Ad&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Bernardo Zamora joined us to announce the immediate availability of the new Microsoft Windows Ad Mediator Service and Control, an awesome new service designed to help you massively improve your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f058/13a80894-550b-4f06-9345-2cbd7cd3f058/IWPMediation_mid.mp4</video:content_loc>
+        <video:duration>1633</video:duration>
+        <video:publication_date>2014-11-07T15:45:30.9446748+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform-Inside-Microsoft-OCR-Libraries</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/597b/a617b3c8-7452-4b80-a64c-83940f3b597b/InsideWindowsPlatformMicrosoftOCR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside Windows Platform | Inside Microsoft OCR Libraries]]></video:title>
+        <video:description><![CDATA[In this week&#39;s episode of Inside Windows Platform, we talked with Ivan Stojiljkovic, the Dev Lead of the OCR team at Microsoft. OCR is an extremely compelling developer scenario which can empower all&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/597b/a617b3c8-7452-4b80-a64c-83940f3b597b/InsideWindowsPlatformMicrosoftOCR_mid.mp4</video:content_loc>
+        <video:duration>832</video:duration>
+        <video:publication_date>2014-10-31T03:18:32.4172588+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform-Intro-to-Azure-Mobile-Services-for-Windows-Platform</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9c0e/a6cf7334-c6f0-4b10-ab0e-0f2badce9c0e/InsideWindowsPlatformMobileServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside Windows Platform | Intro to Azure Mobile Services for Windows Platform]]></video:title>
+        <video:description><![CDATA[Today, Yavor Georgiev from the Azure Mobile Services team joined us to walk us through exactly how a Windows application developer would get started building a back-end service for your mobile app.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9c0e/a6cf7334-c6f0-4b10-ab0e-0f2badce9c0e/InsideWindowsPlatformMobileServices_mid.mp4</video:content_loc>
+        <video:duration>854</video:duration>
+        <video:publication_date>2014-10-23T06:01:49.1282405+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform-Common-App-Developer-Design-Considerations-with-Dave-Crawford</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8ac/93c797eb-cfec-4c21-a51e-a582e1cbb8ac/InsideWindowsPlatformDesignExperience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside Windows Platform | Common App Developer Design Considerations with Dave Crawford]]></video:title>
+        <video:description><![CDATA[Dave is an experienced graphic design professional, who&#39;s spent the last several years driving high quality design into some of the most popular Windows apps. This week Shen and Dave spent time&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8ac/93c797eb-cfec-4c21-a51e-a582e1cbb8ac/InsideWindowsPlatformDesignExperience_mid.mp4</video:content_loc>
+        <video:duration>933</video:duration>
+        <video:publication_date>2014-10-08T04:45:48.6359647+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

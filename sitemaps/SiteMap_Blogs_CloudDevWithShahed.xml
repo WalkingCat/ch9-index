@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudDevWithShahed</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudDevWithShahed/VT-Hacks-David-Tim-Josh</loc>
+      <lastmod>2016-02-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a192/dec889ad-cd2c-4b86-abe9-bb9242d8a192/vthacksDavidTimeJosh_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VT Hacks with David, Tim &amp; Josh]]></video:title>
+        <video:description><![CDATA[David, Tim &amp;amp; Josh talk about their hackathon project during VT Hacks at Virginia Tech, and how Microsoft Azure helped bring together a variety of technologies on their project. Quote: &amp;quot;One of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a192/dec889ad-cd2c-4b86-abe9-bb9242d8a192/vthacksDavidTimeJosh_mid.mp4</video:content_loc>
+        <video:duration>124</video:duration>
+        <video:publication_date>2016-02-27T23:12:01.9776119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudDevWithShahed/Azure-Chat-Moises-Jaramillo-SensiNM</loc>
+      <lastmod>2016-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf5d/ac3eff94-f1d6-40b1-abe0-5b6faa6fbf5d/azuremoises_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Chat with Moises Jaramillo of SensiNM]]></video:title>
+        <video:description><![CDATA[Blog Post: http://WakeUpAndCode.com/Azure-Chat-Moises-Jaramillo-SensiNM   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf5d/ac3eff94-f1d6-40b1-abe0-5b6faa6fbf5d/azuremoises_mid.mp4</video:content_loc>
+        <video:duration>176</video:duration>
+        <video:publication_date>2016-02-27T22:32:55.6184339+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudDevWithShahed/Create-Azure-VM</loc>
+      <lastmod>2016-03-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2689/0091ce5c-381d-4ff3-ba37-dbe7278c2689/createazurevm_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a new VM on Azure]]></video:title>
+        <video:description><![CDATA[Blog Post: http://wakeupandcode.com/create-azure-vm/ Do you need a new server? Are you unsure of how many you may need? Learn how you can create your own Virtual Machine in Microsoft&#39;s Azure cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2689/0091ce5c-381d-4ff3-ba37-dbe7278c2689/createazurevm_mid.mp4</video:content_loc>
+        <video:duration>879</video:duration>
+        <video:publication_date>2016-01-14T02:18:39.0117332+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/CloudDevWithShahed/Deploy-Your-Web-Site-Web-App-on-Azure</loc>
+      <lastmod>2018-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b3f5/e5116d1b-48b6-43ed-8188-5ea9a0a0b3f5/azurewebdeploy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy Your Web Site or Web App on Azure]]></video:title>
+        <video:description><![CDATA[Blog post: http://wakeupandcode.com/deploy-your-web-site-web-app-on-azure Learn how you can deploy your Web Site or Web App on Azure, the Microsoft Cloud!]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b3f5/e5116d1b-48b6-43ed-8188-5ea9a0a0b3f5/azurewebdeploy_mid.mp4</video:content_loc>
+        <video:duration>1000</video:duration>
+        <video:publication_date>2015-12-04T23:28:08.1142447+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

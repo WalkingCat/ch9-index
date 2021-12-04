@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/07</loc>
+      <lastmod>2017-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d37/56242593-fe92-4145-88e0-e756ab716d37/648AdvPwrShellDSCM07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (07) Advanced&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Dive deeper into reusable, nested, and partial configurations. [02:06] - The purpose of Partial Configurations[07:20] - Demo - Partial Configurations]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d37/56242593-fe92-4145-88e0-e756ab716d37/648AdvPwrShellDSCM07_mid.mp4</video:content_loc>
+        <video:duration>2630</video:duration>
+        <video:publication_date>2015-03-07T18:44:52.1245628+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/06</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/75a2/ff6afdbd-0a9e-400a-b975-8f999fc375a2/648AdvPwrShellDSCM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (06) Building Composite&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Enhance your configurations by packaging and deploying composite resources. [01:35] - The purpose to composite resources[04:03] - Composite resource structure[16:45] - Creating DSC configurations&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/75a2/ff6afdbd-0a9e-400a-b975-8f999fc375a2/648AdvPwrShellDSCM06_mid.mp4</video:content_loc>
+        <video:duration>1102</video:duration>
+        <video:publication_date>2015-03-07T18:44:41.7895414+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/05</loc>
+      <lastmod>2017-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9317/f86c06a7-c93d-45ee-bf84-0f453a259317/648AdvPwrShellDSCM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (05) Enhancing Your&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Add help content, debug information, and more to your custom resources. [01:14] - Adding verbose and debug information[26:05] - Handling computer restarts]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9317/f86c06a7-c93d-45ee-bf84-0f453a259317/648AdvPwrShellDSCM05_mid.mp4</video:content_loc>
+        <video:duration>3044</video:duration>
+        <video:publication_date>2015-03-07T18:44:32.9597471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44b4/b9451927-2264-4a6a-b120-42927dda44b4/648AdvPwrShellDSCM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (04) Using Classes to&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Discover and create resources using class-defined custom resources. [06:51] - What are classes[10:37] - Benefits to writing custom resources using classes[11:45] - Creating a class defined custom&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44b4/b9451927-2264-4a6a-b120-42927dda44b4/648AdvPwrShellDSCM04_mid.mp4</video:content_loc>
+        <video:duration>2815</video:duration>
+        <video:publication_date>2015-03-07T18:44:22.2545332+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4789/9d3241ef-466b-4fd0-92fa-ed5e32314789/648AdvPwrShellDSCM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (03) Packaging and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Learn to deploy resources with a &amp;quot;push and pull&amp;quot; deployment. [01:30] - Packaging a custom resource]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4789/9d3241ef-466b-4fd0-92fa-ed5e32314789/648AdvPwrShellDSCM03_mid.mp4</video:content_loc>
+        <video:duration>3117</video:duration>
+        <video:publication_date>2015-03-07T18:44:11.1202044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/02</loc>
+      <lastmod>2019-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/261e/559dba14-6144-4025-b3ed-efd7ac62261e/648AdvPwrShellDSCM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (02) Implementing and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Get the details on creating Test-TargetResource, Set-TargetResource, and Get-TargetResource. [00:57] - Designing custom resources[04:32] - Test-TargetResource[13:57] - Set-TargetResource[17:37] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/261e/559dba14-6144-4025-b3ed-efd7ac62261e/648AdvPwrShellDSCM02_mid.mp4</video:content_loc>
+        <video:duration>1861</video:duration>
+        <video:publication_date>2015-03-07T18:43:58.3093148+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/01</loc>
+      <lastmod>2019-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d86/2c718da7-b458-420f-8c69-fc3e73f67d86/648AdvPwrShellDSCM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (01) Getting Ready for&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Get an overview of existing and custom resource architecture. [12:34] - The Purpose of a custom resource[18:06] - Existing resources review[27:49] - DSC custom resource architecture overview]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d86/2c718da7-b458-420f-8c69-fc3e73f67d86/648AdvPwrShellDSCM01_mid.mp4</video:content_loc>
+        <video:duration>2925</video:duration>
+        <video:publication_date>2015-03-07T18:43:48.5153189+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

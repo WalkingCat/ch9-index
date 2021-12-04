@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Designing-Solutions-for-SQL-Server</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Designing-Solutions-for-SQL-Server/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6876/2c31c2e8-a462-4a42-a327-1d0c28e06876/464DesigningDatabaseSolutionsForSQLServerM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Solutions for SQL Server: (05) Troubleshooting and Maintaining a Database]]></video:title>
+        <video:description><![CDATA[Learn about key maintenance tasks to keep performance optimal and how to automate them. Plus, look into techniques and tools you can use to monitor a database, along with the kinds of information each&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6876/2c31c2e8-a462-4a42-a327-1d0c28e06876/464DesigningDatabaseSolutionsForSQLServerM05_mid.mp4</video:content_loc>
+        <video:duration>3199</video:duration>
+        <video:publication_date>2015-02-01T18:17:10.1878844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Designing-Solutions-for-SQL-Server/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/72d6/217d6d1f-7efd-4046-83c0-fda4904972d6/464DesigningDatabaseSolutionsForSQLServerM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Solutions for SQL Server: (04) Designing a High-Availability Solution]]></video:title>
+        <video:description><![CDATA[Find out about the high-availability solutions supported by SQL Server (Log Shipping, AlwaysOn Availability Groups, AlwaysOn Failover Clustering, and P2P Replication). Look at key considerations for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72d6/217d6d1f-7efd-4046-83c0-fda4904972d6/464DesigningDatabaseSolutionsForSQLServerM04_mid.mp4</video:content_loc>
+        <video:duration>4372</video:duration>
+        <video:publication_date>2015-02-01T18:17:02.4869528+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Designing-Solutions-for-SQL-Server/03</loc>
+      <lastmod>2019-11-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b18/23a076c4-4ea3-4ba9-ae3f-2d707ec99b18/464DesigningDatabaseSolutionsForSQLServerM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Solutions for SQL Server: (03) Designing a Backup and Recovery Solution]]></video:title>
+        <video:description><![CDATA[Hear strategies for backup and recovery, including full, log, and differential backups, partial backups, and backing up to Azure blob storage, and get best practices for backing up system databases.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b18/23a076c4-4ea3-4ba9-ae3f-2d707ec99b18/464DesigningDatabaseSolutionsForSQLServerM03_mid.mp4</video:content_loc>
+        <video:duration>3018</video:duration>
+        <video:publication_date>2015-02-01T18:16:50.0764183+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Designing-Solutions-for-SQL-Server/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/773c/fc613877-6410-4635-a084-1024aece773c/464DesigningDatabaseSolutionsForSQLServerM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Solutions for SQL Server: (02) Designing Database Security]]></video:title>
+        <video:description><![CDATA[Learn about the security architecture of SQL Server, along with how to set permissions on objects. Find out how ownership chains work and how to manage cross-database ownership chains, and get details&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/773c/fc613877-6410-4635-a084-1024aece773c/464DesigningDatabaseSolutionsForSQLServerM02_mid.mp4</video:content_loc>
+        <video:duration>3513</video:duration>
+        <video:publication_date>2015-02-01T18:16:40.3935283+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Designing-Solutions-for-SQL-Server/01</loc>
+      <lastmod>2019-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e42/5c4448e5-e9d3-478d-b4b4-a2748b238e42/464DesigningDatabaseSolutionsForSQLServerM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Solutions for SQL Server: (01) Managing a SQL Server Environment]]></video:title>
+        <video:description><![CDATA[Explore considerations and tools available for managing a SQL Server environment, including SQL Server Agent, Resource Governor, SQL Server Audit, and Policy-based Management. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e42/5c4448e5-e9d3-478d-b4b4-a2748b238e42/464DesigningDatabaseSolutionsForSQLServerM01_mid.mp4</video:content_loc>
+        <video:duration>2857</video:duration>
+        <video:publication_date>2015-02-01T18:16:27.4086138+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

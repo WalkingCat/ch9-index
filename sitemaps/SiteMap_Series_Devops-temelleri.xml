@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Devops-temelleri</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Devops-temelleri/Infrastructure-as-a-Code-Nedir-Kod-olarak-Altyap</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc75/98d7ad94-8d05-4276-8277-343653f2bc75/whatisiac_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Infrastructure as a Code Nedir? (Kod olarak Altyap)]]></video:title>
+        <video:description><![CDATA[Bu oturumda Infrastructure as a Code, Kod olarak altyapı konusunu inceliyoruz. Devops&#39; un en &#246;nemli bileşenlerinden olan Infrastructure as a Code nedir, ne işe yarar, hangi y&#246;ntemler ile uygulanır ve&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc75/98d7ad94-8d05-4276-8277-343653f2bc75/whatisiac_mid.mp4</video:content_loc>
+        <video:duration>1484</video:duration>
+        <video:publication_date>2016-10-17T22:54:45.8428132+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Devops-temelleri/DevOps-Nedir</loc>
+      <lastmod>2017-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/14a2/19f30854-6788-4d3d-b402-52312a2614a2/DevOps01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Nedir?]]></video:title>
+        <video:description><![CDATA[Serinin ilk b&#246;l&#252;m&#252;nde, DevOps nedir? Ne işe yarar? Hayatımıza ne gibi kolaylıklar getirir ve bize ne fayda sağlar gibi DevOps&#39; un temellerinin anlatıldığı konuları işleyeceğiz. Kısaca Konu başlıkları;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/14a2/19f30854-6788-4d3d-b402-52312a2614a2/DevOps01_mid.mp4</video:content_loc>
+        <video:duration>2489</video:duration>
+        <video:publication_date>2016-10-12T10:10:15.5221979+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

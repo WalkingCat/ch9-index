@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Pimp-The-Cloud-Show</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Pimp-The-Cloud-Show/Azure-Active-Directory-Authentification-B2B</loc>
+      <lastmod>2015-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81cf/6ee33f8c-b3ef-473f-a29c-1ecc19e281cf/PTCAADB2B_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory - Authentification B2B]]></video:title>
+        <video:description><![CDATA[Salut &#224; tous, Azure Active Directory B2B est maintenant en preview !! Quoi de mieu de d&#233;couvrir ensemble les possibilit&#233;s et surtout comment impl&#233;menter cette fonctionalit&#233; dans vos abonnements Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81cf/6ee33f8c-b3ef-473f-a29c-1ecc19e281cf/PTCAADB2B_mid.mp4</video:content_loc>
+        <video:duration>1186</video:duration>
+        <video:publication_date>2015-09-25T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Pimp-The-Cloud-Show/Dbuter-avec-Azure-Resource-Manager</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a20/2c58636c-8260-40e3-b0e4-44e738c49a20/PTCIntroARM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[D&#233;buter avec Azure Resource Manager]]></video:title>
+        <video:description><![CDATA[Pour les personnes qui conaissent d&#233;j&#224; Azure et qui veulent en savoir plus sur Azure Resource Manager (ARM). J&#39;essaie de faire une grosse introduction sur les points suivant : - &amp;quot;Mode&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a20/2c58636c-8260-40e3-b0e4-44e738c49a20/PTCIntroARM_mid.mp4</video:content_loc>
+        <video:duration>3473</video:duration>
+        <video:publication_date>2015-09-02T15:35:39.5389411+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Pimp-The-Cloud-Show/02-20150713-O365API</loc>
+      <lastmod>2015-07-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/78ba/3dc8c510-a317-409c-917e-d3677ac478ba/0220150713O365API_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - News Semaine du 13 Juillet 2015]]></video:title>
+        <video:description><![CDATA[Pimp The Cloud - Show num&#233;ro 2 Revue de la semaine du 13 Juillet 2015 Sujet de la semaine : Office 365 API&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78ba/3dc8c510-a317-409c-917e-d3677ac478ba/0220150713O365API_mid.mp4</video:content_loc>
+        <video:duration>652</video:duration>
+        <video:publication_date>2015-07-24T01:14:21.5678729+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Pimp-The-Cloud-Show/01-20150706-ARM</loc>
+      <lastmod>2015-07-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e734/11a77574-4dc7-403d-95cd-cee2e84ae734/0120150706ARM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - News Semaine du 6 Juillet 2015]]></video:title>
+        <video:description><![CDATA[Pimp The Cloud - Show num&#233;ro 1 Revue de la semaine du 6 Juillet Sujet de la semaine : Azure Resources Manager&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e734/11a77574-4dc7-403d-95cd-cee2e84ae734/0120150706ARM_mid.mp4</video:content_loc>
+        <video:duration>578</video:duration>
+        <video:publication_date>2015-07-14T21:22:13.3041511+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Excel-and-Reporting-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Excel-and-Reporting-Arabic/Building-Your-Dashboard-Arabic</loc>
+      <lastmod>2018-11-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/151d/47aedc7a-6f37-4600-a050-2e10f02c151d/BuildingyourDashboard_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Your Dashboard (Arabic)]]></video:title>
+        <video:description><![CDATA[Dive into analysis by creating your reports and dashboard using pivot tables, pivot charts and slicers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/151d/47aedc7a-6f37-4600-a050-2e10f02c151d/BuildingyourDashboard_mid.mp4</video:content_loc>
+        <video:duration>3199</video:duration>
+        <video:publication_date>2015-11-04T10:49:53.0504890+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Excel-and-Reporting-Arabic/Managing-your-Data-Arabic</loc>
+      <lastmod>2015-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8320/e7a67770-c13c-4fca-8f10-0513d8a88320/ManageYourData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing your Data (Arabic)]]></video:title>
+        <video:description><![CDATA[Learn how to organize your data into information by building your first tables and give it insight via sorting, filtering and conditional formatting. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8320/e7a67770-c13c-4fca-8f10-0513d8a88320/ManageYourData_mid.mp4</video:content_loc>
+        <video:duration>2027</video:duration>
+        <video:publication_date>2015-11-04T10:49:33.7435990+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

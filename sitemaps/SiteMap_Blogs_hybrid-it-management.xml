@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-Discover-MP-updates-and-recommendations-and-tune-MP-alerts</loc>
+      <lastmod>2020-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0b4/e744a3fa-f984-445d-aa9d-7fc927b0d0b4/SCOMDiscoverMPUpdatesTuneAlerts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Discover MP updates and recommendations, and tune MP alerts]]></video:title>
+        <video:description><![CDATA[In this video tutorial you will see how you can use the automated management pack (MP) updates and recommendation tool, provided by System Center 2016 Operations Manager, to see MPs that are partially&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0b4/e744a3fa-f984-445d-aa9d-7fc927b0d0b4/SCOMDiscoverMPUpdatesTuneAlerts_mid.mp4</video:content_loc>
+        <video:duration>778</video:duration>
+        <video:publication_date>2017-02-16T18:32:32.0663349+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-Setup-extended-network-monitoring</loc>
+      <lastmod>2020-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfa5/7c7fb526-f949-4aa5-a0a0-59318e58cfa5/DemoNetworkMonitoringMPGenerator_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Setup extended network monitoring]]></video:title>
+        <video:description><![CDATA[In this video tutorial you will see how to setup extended network monitoring in System Center 2016 Operations Manager. Using the new Network Monitoring MP Generator tool you can generate management&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfa5/7c7fb526-f949-4aa5-a0a0-59318e58cfa5/DemoNetworkMonitoringMPGenerator_mid.mp4</video:content_loc>
+        <video:duration>467</video:duration>
+        <video:publication_date>2016-11-07T18:35:22.5127213+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source</loc>
+      <lastmod>2020-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6099/0967d2b7-72a3-4f69-b567-f6a20e926099/PowershellonLinux_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux and Open Source]]></video:title>
+        <video:description><![CDATA[Continuing the commitment to enable an open and flexible platform that meets customers where they are, Microsoft has now open sourced PowerShell and made it available on Linux and macOS. Matt&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6099/0967d2b7-72a3-4f69-b567-f6a20e926099/PowershellonLinux_mid.mp4</video:content_loc>
+        <video:duration>3084</video:duration>
+        <video:publication_date>2016-08-18T15:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-New-date-dimensions-in-System-Center-2016-Service-Manager-DW-cubes-and-how-to-extend-them</loc>
+      <lastmod>2018-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afb7/4d8ed730-6de1-4a01-b309-b4654ae9afb7/ServiceManagerDateDimensions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: New date dimensions in System Center 2016 Service Manager DW cubes and how to extend them]]></video:title>
+        <video:description><![CDATA[The inbox Data Warehouse cubes in System Center 2016 Service Manager now have date dimensions for common date properties, which can be sliced based on years, quarters, months, days etc. for rich&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afb7/4d8ed730-6de1-4a01-b309-b4654ae9afb7/ServiceManagerDateDimensions_mid.mp4</video:content_loc>
+        <video:duration>104</video:duration>
+        <video:publication_date>2016-07-06T17:45:07.8287425+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-Deploy-and-personalize-the-new-Self-Service-Portal-in-System-Center-2016-Service-Manager</loc>
+      <lastmod>2020-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b27/db8be884-eddc-4f1b-9ce8-f3f1c6982b27/ServiceManagerPortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Deploy and personalize the new Self Service Portal in System Center 2016 Service Manager]]></video:title>
+        <video:description><![CDATA[This short video tutorial gives a walkthrough of how to install the new HTML Self Service Portal in System Center 2016 Service Manager, and then how to personalize it. More ResourcesRead more about&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b27/db8be884-eddc-4f1b-9ce8-f3f1c6982b27/ServiceManagerPortal_mid.mp4</video:content_loc>
+        <video:duration>180</video:duration>
+        <video:publication_date>2016-07-06T17:44:43.7109405+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-Optionally-Disable-ECL-Logging-for-Faster-Connector-Synchronization-with-Service-Manager</loc>
+      <lastmod>2017-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e51/728c8404-c294-4c6d-be81-26664ff56e51/ServiceManagerECLLogging_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Optionally Disable ECL Logging for Faster Connector Synchronization with System Center 2016&amp;#8230;]]></video:title>
+        <video:description><![CDATA[This video tutorial provides a walkthrough of how to disable ECL logging, for Configuration Manager and Active Directory connectors, in Service Manager 2016. This process can help in attaining much&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e51/728c8404-c294-4c6d-be81-26664ff56e51/ServiceManagerECLLogging_mid.mp4</video:content_loc>
+        <video:duration>122</video:duration>
+        <video:publication_date>2016-07-06T17:44:35.9031614+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-Creating-a-Shielded-VM-using-System-Center-2016-Virtual-Machine-Manager-VMM</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2626/8ae80e3e-799b-4a7a-80ba-2b0187532626/VMMShieldedVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Creating a Shielded VM using System Center 2016 Virtual Machine Manager (VMM)]]></video:title>
+        <video:description><![CDATA[In this video, Riyaz Pishori, Program Manager at Microsoft, gives a demo of the new Shielded VM feature. You can see how to create a shielded using  System Center 2016 Virtual Machine Manager (VMM)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2626/8ae80e3e-799b-4a7a-80ba-2b0187532626/VMMShieldedVM_mid.mp4</video:content_loc>
+        <video:duration>121</video:duration>
+        <video:publication_date>2016-06-07T15:44:51.7682127+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-PowerShell-ISE-Add-On-for-Service-Management-Automation-SMA</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a4d/d198ea7d-ad74-4350-b285-ec3dbcfa5a4d/PowerShellISEforSMA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: PowerShell ISE Add-On for Service Management Automation (SMA)]]></video:title>
+        <video:description><![CDATA[In this video, Snehith Muvva, Program Manager at Microsoft, gives a demo of the new System Center 2016 Service Management Automation (SMA) PowerShell ISE Add-on. In the demo, you can see how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a4d/d198ea7d-ad74-4350-b285-ec3dbcfa5a4d/PowerShellISEforSMA_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2016-06-05T20:29:22.9613297+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-Designating-a-Runbook-Worker-in-System-Center-2016-Service-Management-Automation-SMA</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a3c/a0292b62-aecf-40ce-856f-738e6a269a3c/RunbookWorkerSMA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Designating a Runbook Worker in System Center 2016 Service Management Automation (SMA)]]></video:title>
+        <video:description><![CDATA[With the release of System Center 2016 Technical Preview 5, Service Management Automation allows you to designate on which runbook worker your runbooks will run. In this video, Snehith Muvva, Program&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a3c/a0292b62-aecf-40ce-856f-738e6a269a3c/RunbookWorkerSMA_mid.mp4</video:content_loc>
+        <video:duration>178</video:duration>
+        <video:publication_date>2016-06-05T20:18:08.4828093+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/hybrid-it-management/Demo-PowerShell-Script-Runbook-Support-in-Service-Management-Automation-SMA</loc>
+      <lastmod>2017-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d8d9/de3fa02e-5009-4bd1-9a19-04b1c9b8d8d9/PSRunbooksSMA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: PowerShell Script Runbook Support in Service Management Automation (SMA)]]></video:title>
+        <video:description><![CDATA[In this video, Snehith Muvva, Program Manager at Microsoft, showcases the support for the new PowerShell Script type runbooks. In the demo, you can see how to create and run PowerShell Script type&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d8d9/de3fa02e-5009-4bd1-9a19-04b1c9b8d8d9/PSRunbooksSMA_mid.mp4</video:content_loc>
+        <video:duration>248</video:duration>
+        <video:publication_date>2016-06-05T20:13:38.8829731+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

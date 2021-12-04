@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Czech-Devs/ODE2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Czech-Devs/ODE2016/Open-Data-Expo-2016</loc>
+      <lastmod>2016-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e17/61c585b4-2eb2-4aff-999c-b38b699c8e17/ODE2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Data Expo 2016]]></video:title>
+        <video:description><![CDATA[AGENDA: [00:00] Opening Speech (Michal Tošovsk&#253;, Fond Otakara Motejla) [04:28] Cloudov&#233; technologie a otevřen&#225; data (V&#225;clav Koudele, Microsoft) [16:49] Co nov&#233;ho v otevřen&#253;ch datech aneb co přin&#225;š&#237;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e17/61c585b4-2eb2-4aff-999c-b38b699c8e17/ODE2016_mid.mp4</video:content_loc>
+        <video:duration>7615</video:duration>
+        <video:publication_date>2016-06-12T18:46:02.6507799+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/NET-Core</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/NET-Core/What-is-NET-Core</loc>
+      <lastmod>2021-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/490b/b9594fa4-8be1-4125-87b9-3b8bb95a490b/dotnetCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is .NET Core]]></video:title>
+        <video:description><![CDATA[This video explain what is .NET Core and also helps you learn why .NET Core, it&#39;s vision and future path. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/490b/b9594fa4-8be1-4125-87b9-3b8bb95a490b/dotnetCore.mp4</video:content_loc>
+        <video:duration>819</video:duration>
+        <video:publication_date>2016-07-01T23:24:56.6772330+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

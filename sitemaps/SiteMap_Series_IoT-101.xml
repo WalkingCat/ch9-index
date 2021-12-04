@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/Advanced-Tutorial-Extending-Blinky-with-a-Temperature-Sensor-9-of-9</loc>
+      <lastmod>2021-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f19e/745104b1-46ae-4bae-9f25-bd90902af19e/ExtendingBlinky_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced Tutorial: Extending Blinky with a Temperature Sensor [9 of 9]]]></video:title>
+        <video:description><![CDATA[Let&#39;s take this sample to the next level! Why simply blink the LED when we can make it blink to notify us of temperature changes! We will add a temperature sensor to our circuit, add a few lines of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a9c2/1161d046-dfa1-4cf0-a5f6-cee6eb3ba9c2/ExtendingBlinky_mid.mp4</video:content_loc>
+        <video:duration>695</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/Blinky-Explained-8-of-9</loc>
+      <lastmod>2021-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/17de/a73a9603-640b-4c8b-8962-c7b6e53d17de/BlinkyExplained_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Blinky! - Explained [8 of 9]]]></video:title>
+        <video:description><![CDATA[In this video, we will understand the magic behind the blinking LED. We will walkthrough the Blinky sample to understand how .NET Core is able to control the LED connected to the Raspberry Pi. The&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5580/2411b4e0-9d36-4e41-8bf5-ef3930825580/BlinkyExplained_mid.mp4</video:content_loc>
+        <video:duration>138</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/Hello-World-in-IoT-ie-Blinky-boot-to-desktop-tutorial-7-of-9</loc>
+      <lastmod>2021-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/87d0/c6353719-a896-4fff-8fcb-ad034e4b87d0/HelloWorldBootToDesktop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hello World in IoT i.e Blinky - boot to desktop tutorial [7 of 9]]]></video:title>
+        <video:description><![CDATA[Now that we have our hardware and software ready, let us run Hello World, IoT style, using .NET to trigger the GPIO to blink the LED. We call this sample Blinky and in this video, we will run Blinky &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/97ec/48cbac88-815d-4592-addd-22e8866897ec/HelloWorldBootToDesktop_mid.mp4</video:content_loc>
+        <video:duration>129</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/Hello-World-in-IoT-ie-Blinky-headless-mode-tutorial-6-of-9</loc>
+      <lastmod>2021-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/eb9b/387e7685-426f-48bd-bef0-de61cc6deb9b/HelloWorldWithBlinky_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hello World in IoT i.e Blinky - headless mode tutorial [6 of 9]]]></video:title>
+        <video:description><![CDATA[Now that we have our hardware and software ready, let us run Hello World, IoT style, using .NET to trigger the GPIO to blink the LED. We call this sample Blinky and in this video, we will run Blinky &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4c8d/331f3d66-6d21-4336-9284-c0a42ec14c8d/HelloWorldWithBlinky_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/What-is-NET-Core-IOT-5-of-9</loc>
+      <lastmod>2021-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6d6c/e3602d5a-c374-40f4-8221-023d1ccb6d6c/WhatIs.NETCoreIoT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is .NET Core IoT? [5 of 9]]]></video:title>
+        <video:description><![CDATA[So far, we have learnt about IoT and the devices. Let us learn more about the software we will be using; how .NET core runs on the Raspberry Pi and how we can use .NET libraries to write our code. You&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/25dc/5a487080-eeb7-4afd-bf63-9823492225dc/WhatIs.NETCoreIoT_mid.mp4</video:content_loc>
+        <video:duration>195</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/How-to-connect-the-physical-parts-4-of-9</loc>
+      <lastmod>2020-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/77d5/a8b5afb1-f2be-4ed5-b1f1-435f327077d5/HowToConnectThePysicalParts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to connect the physical parts? [4 of 9]]]></video:title>
+        <video:description><![CDATA[Grab your wires and LEDs, it&#39;s time to make some connections for our sample, Blinky. Let&#39;s learn how to connect the LED and resistor to the Raspberry Pi&#39;s GPIO via a breadboard. You can find the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/00f2/0598e177-e0b6-49e0-8c90-10994f6a00f2/HowToConnectThePysicalParts_mid.mp4</video:content_loc>
+        <video:duration>132</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/What-is-IOT-3-of-9</loc>
+      <lastmod>2021-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/11e6/9d02e019-0b34-42bf-854b-a486e03e11e6/WhatIsIot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is IoT?  [3 of 9]]]></video:title>
+        <video:description><![CDATA[What exactly is IoT? What is an LED? Keep seeing this word GPIO in samples and tutorials? In this video, we will get an understanding of what exactly is IoT, learn some commonly used acronyms and what&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ea68/bb7e11a0-c05c-478e-801c-7a47ad21ea68/WhatIsIot_mid.mp4</video:content_loc>
+        <video:duration>417</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/Raspberry-Pi-Setup-Tutorial-2-of-9</loc>
+      <lastmod>2021-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ab11/a0f9c38e-17b8-47ef-8533-ff781877ab11/RaspberryPiSetupTutorial_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Raspberry Pi Setup Tutorial  [2 of 9]]]></video:title>
+        <video:description><![CDATA[Let&#39;s get started with our device of choice, the Raspberry Pi. In this video we will learn what Raspberry Pi board is, learn how we can set it up and then install .NET Core on it, making it ready for&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e5cb/5783305c-1818-431b-a110-14d80fd1e5cb/RaspberryPiSetupTutorial_mid.mp4</video:content_loc>
+        <video:duration>405</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IoT-101/Intro-to-IOT-with-NET-Core-1-of-9</loc>
+      <lastmod>2021-07-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ce28/e1bd3281-3ed5-4185-8010-f5e98050ce28/IntrotoIOTwith.NETCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to IoT with .NET Core [1 of 9]]]></video:title>
+        <video:description><![CDATA[In this video tutorial, we explain what we are going to accomplish in this overall series. Learn what hardware and software components will be needed to join us in this journey of discovering the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2509/7b3e709b-334a-48d7-b43e-cb25ff082509/IntrotoIOTwith.NETCore_mid.mp4</video:content_loc>
+        <video:duration>141</video:duration>
+        <video:publication_date>2020-01-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

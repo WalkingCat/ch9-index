@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDays/DevOps-101-for-Developers</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDays/DevOps-101-for-Developers/IntegratingGitHub-Actionswith-Teams-for-ChatOps</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3fe8/5d44c5e4-1258-4001-b6da-8f85a5c43fe8/IntegratingGitHubActions withTeamsforChatOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IntegratingGitHub Actionswith Teams for ChatOps]]></video:title>
+        <video:description><![CDATA[Integrating GitHub Actions with Teams for ChatOps with Sam Rowe and Peter Murray and Wrap up and next steps Check out all of the Azure DevOps Documentation on Microsoft Docs. Collaborate on software&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3fe8/5d44c5e4-1258-4001-b6da-8f85a5c43fe8/IntegratingGitHubActions withTeamsforChatOps_mid.mp4</video:content_loc>
+        <video:duration>1684</video:duration>
+        <video:publication_date>2021-06-22T07:00:53.0864962+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDays/DevOps-101-for-Developers/Leveraging-existing-Azure-Boards-investment-to-manage-work-state</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/50de/d69fd9cd-cc5d-401d-8cd5-cbf3933a50de/LeveragingexistingAzureBoardsinvestmenttomanagewo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Leveraging existing Azure Boards investment to manage work state]]></video:title>
+        <video:description><![CDATA[Check out all of the Azure DevOps Documentation on Microsoft Docs. Collaborate on software development through source control, work tracking, and continuous integration and delivery, both on-premises&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/50de/d69fd9cd-cc5d-401d-8cd5-cbf3933a50de/LeveragingexistingAzureBoardsinvestmenttomanagewo_mid.mp4</video:content_loc>
+        <video:duration>1321</video:duration>
+        <video:publication_date>2021-06-22T06:58:51.2805033+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDays/DevOps-101-for-Developers/Implementing-DevSecOps-usingGitHub-Advanced-Security-and-Dependabot</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bbce/5150ee4e-05a2-4811-908c-b2051769bbce/ImplementingDevSecOpsusing GitHubAdvancedSecurity_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing DevSecOps usingGitHub Advanced Security and Dependabot]]></video:title>
+        <video:description><![CDATA[Check out all of the Azure DevOps Documentation on Microsoft Docs. Collaborate on software development through source control, work tracking, and continuous integration and delivery, both on-premises&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bbce/5150ee4e-05a2-4811-908c-b2051769bbce/ImplementingDevSecOpsusing GitHubAdvancedSecurity_mid.mp4</video:content_loc>
+        <video:duration>2204</video:duration>
+        <video:publication_date>2021-06-22T06:57:46.0925650+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDays/DevOps-101-for-Developers/GitHub-Actions-and-Packagesfor-CICD</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c780/af38242a-570d-443f-aac1-0e603faac780/GitHubActionsandPackages forCICD_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GitHub Actions and Packagesfor CI/CD]]></video:title>
+        <video:description><![CDATA[Check out all of the Azure DevOps Documentation on Microsoft Docs. Collaborate on software development through source control, work tracking, and continuous integration and delivery, both on-premises&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c780/af38242a-570d-443f-aac1-0e603faac780/GitHubActionsandPackages forCICD_mid.mp4</video:content_loc>
+        <video:duration>2731</video:duration>
+        <video:publication_date>2021-06-22T06:56:29.1150871+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDays/DevOps-101-for-Developers/Taking-a-legacy-Java-app-from-Azure-DevOps-repos-to-GitHub</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c436/5fe2af23-fed8-40f3-b9cb-0c9b397bc436/TakingalegacyJavaappfromAzureDevOpsrepostoGitHub_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking a legacy Java app from Azure DevOps repos to GitHub]]></video:title>
+        <video:description><![CDATA[Welcome &amp;amp; introductions Taking a legacy Java app from Azure DevOps repos to GitHub with Sam Rowe Check out all of the Azure DevOps Documentation on Microsoft Docs. Collaborate on software&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c436/5fe2af23-fed8-40f3-b9cb-0c9b397bc436/TakingalegacyJavaappfromAzureDevOpsrepostoGitHub_mid.mp4</video:content_loc>
+        <video:duration>801</video:duration>
+        <video:publication_date>2021-06-22T06:54:41.5186272+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

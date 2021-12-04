@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Workshop-Module-3-Microservice-Communication</loc>
+      <lastmod>2020-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e04d/6c9f66bb-55d0-47d3-861c-933cdea9e04d/dotNETConfArchitectingMicroservices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Module 3: Microservice Communication]]></video:title>
+        <video:description><![CDATA[We explore microservice architecture, its characteristics, and design. Emphasis is on widely-accepted patterns and principles. Coverage includes service design, DDD, backing services, observability,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e04d/6c9f66bb-55d0-47d3-861c-933cdea9e04d/dotNETConfArchitectingMicroservices_mid.mp4</video:content_loc>
+        <video:duration>5458</video:duration>
+        <video:publication_date>2020-08-07T00:47:47.9673248+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Workshop-Module-6-Distributed-Data</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2e83/a1bf86e9-a9cb-4dd5-94f4-b0f0a18d2e83/dotNETConfModule6_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Module 6: Distributed Data]]></video:title>
+        <video:description><![CDATA[We consider best practices for managing distributed data following the widely-accepted Database per Microservice pattern. Emphasis is on managing consistency when implementing cross-service queries&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2e83/a1bf86e9-a9cb-4dd5-94f4-b0f0a18d2e83/dotNETConfModule6_mid.mp4</video:content_loc>
+        <video:duration>2250</video:duration>
+        <video:publication_date>2020-08-06T23:43:53.1806396+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Workshop-Module-5-Deploying-Service-Mesh-to-Kubernetes</loc>
+      <lastmod>2020-08-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b910/26d4c615-26ac-45f1-ae49-9bb02d36b910/dotNETConfModule5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Module 5: Deploying Service Mesh to Kubernetes]]></video:title>
+        <video:description><![CDATA[We will deploy service mesh solution on top of Azure Kubernetes Service with emphasis on having a dedicated infrastructure layer for handling layer service to service communication and layer 7 service&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b910/26d4c615-26ac-45f1-ae49-9bb02d36b910/dotNETConfModule5_mid.mp4</video:content_loc>
+        <video:duration>2950</video:duration>
+        <video:publication_date>2020-08-06T23:06:49.1329095+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Workshop-Module-4-Deploying-Microservices-to-Kubernetes</loc>
+      <lastmod>2021-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8520/3cdc007a-9bc3-4376-9983-ba3319cf8520/dotNETConfModule4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Module 4: Deploying Microservices to Kubernetes]]></video:title>
+        <video:description><![CDATA[We deploy a set of containerized microservices to Azure Kubernetes Service. Emphasis is on the orchestration and management features of Kubernetes along with decision of criteria of when to use it. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8520/3cdc007a-9bc3-4376-9983-ba3319cf8520/dotNETConfModule4_mid.mp4</video:content_loc>
+        <video:duration>4305</video:duration>
+        <video:publication_date>2020-08-06T22:52:20.1414001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Workshop-Module-2-Modeling-Microservices</loc>
+      <lastmod>2020-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/264e/5f7d9fa2-86f7-4088-a491-52792b84264e/dotNETConfModelingMicroservices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Module 2: Modeling and Architecting Microservices]]></video:title>
+        <video:description><![CDATA[We examine best practices for scoping microservices.  What are the drivers for partitioning them? How granular should they be?  We talk greenfield systems as well as approaches to replatforming a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/264e/5f7d9fa2-86f7-4088-a491-52792b84264e/dotNETConfModelingMicroservices_mid.mp4</video:content_loc>
+        <video:duration>3571</video:duration>
+        <video:publication_date>2020-08-06T21:50:11.6491020+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Workshop-Module-1-Introducing-Microservices</loc>
+      <lastmod>2020-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8377/c021e9b3-ebe4-4796-b39f-4904eaea8377/DotNETConfModule1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Module 1: Introducing Microservices]]></video:title>
+        <video:description><![CDATA[We define microservices: What they are? How they work? Their benefits and challenges? The problems they solve. Importantly, we identity systems that would warrant this architectural approach. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8377/c021e9b3-ebe4-4796-b39f-4904eaea8377/DotNETConfModule1_mid.mp4</video:content_loc>
+        <video:duration>2761</video:duration>
+        <video:publication_date>2020-08-06T21:50:05.3955349+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Building--Debugging-Microservices-faster-using-Kubernetes-and-Visual-Studio</loc>
+      <lastmod>2020-08-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7dea/154e5146-0472-4fc5-ad0f-8e729dea7dea/DotNETConfBuildingAndDebuggingMicroservicesWithKu_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building &amp; Debugging Microservices faster using Kubernetes and Visual Studio]]></video:title>
+        <video:description><![CDATA[See how you can take advantage of Visual Studio tools to build, debug and deploy microservices to Kubernetes faster. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7dea/154e5146-0472-4fc5-ad0f-8e729dea7dea/DotNETConfBuildingAndDebuggingMicroservicesWithKu_mid.mp4</video:content_loc>
+        <video:duration>2066</video:duration>
+        <video:publication_date>2020-07-23T00:35:54.9864116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Migrating-NET-Framework-Web-Apps-to-Azure</loc>
+      <lastmod>2020-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2189/a45d8bbb-cbc7-4e9c-8b9b-2a922ff12189/DotNETConfMigratingDotNETFrameworkWebAppsAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating .NET Framework Web Apps to Azure]]></video:title>
+        <video:description><![CDATA[You don&#39;t have to have a micorservice-based architecture to take advantage of the cloud. In this session, Carey shows you how to take a monolith WebForms application and make it cloud ready with&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2189/a45d8bbb-cbc7-4e9c-8b9b-2a922ff12189/DotNETConfMigratingDotNETFrameworkWebAppsAzure_mid.mp4</video:content_loc>
+        <video:duration>1750</video:duration>
+        <video:publication_date>2020-07-23T00:34:05.8850387+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Evolving-NET-Framework-Monoliths-with-NET-5-and-Kubernetes</loc>
+      <lastmod>2020-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2988/ff5154f6-a9e8-4bd9-88c5-754f093e2988/DotNETConfEvolvingDotNETFramworkMonolithsDotNET5K_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Evolving .NET Framework Monoliths with .NET 5 and Kubernetes]]></video:title>
+        <video:description><![CDATA[You want to migrate your .NET monolith to microservices so you can run it in Kubernetes? That could be a year-long project, and you really don&#39;t need to do it. This session gives you a pragmatic&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2988/ff5154f6-a9e8-4bd9-88c5-754f093e2988/DotNETConfEvolvingDotNETFramworkMonolithsDotNET5K_mid.mp4</video:content_loc>
+        <video:duration>2075</video:duration>
+        <video:publication_date>2020-07-23T00:27:41.2492057+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/API-Communication-in-Microservices-with-Azure-API-Management-and-Azure-Functions</loc>
+      <lastmod>2020-08-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1336/ac85b01a-fb37-4391-b25e-4ffd2ce11336/DotNETConfAPICommInMicroservicesLoving_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[API Communication in Microservices with Azure API Management and Azure Functions]]></video:title>
+        <video:description><![CDATA[Managing how clients communicate to your microservices can become quite a challenge as your application grows in size and complexity.  Implementing an API Gateway to provide a single point of entry to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1336/ac85b01a-fb37-4391-b25e-4ffd2ce11336/DotNETConfAPICommInMicroservicesLoving_mid.mp4</video:content_loc>
+        <video:duration>2067</video:duration>
+        <video:publication_date>2020-07-23T00:24:59.9372963+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/DevOps-Waffles-and-Superheroes-Oh-My</loc>
+      <lastmod>2020-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/57ca/f304f110-aa75-442f-95e8-c96fb93a57ca/DotNETConfDevOpsWafflesSuperheroes_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps, Waffles, and Superheroes - Oh My!]]></video:title>
+        <video:description><![CDATA[Microservices can be hard; understanding container best practices can be hard as those practices are still being discovered. This session helps you minimize the learning curve with container&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/57ca/f304f110-aa75-442f-95e8-c96fb93a57ca/DotNETConfDevOpsWafflesSuperheroes_mid.mp4</video:content_loc>
+        <video:duration>1863</video:duration>
+        <video:publication_date>2020-07-23T00:22:36.1612076+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Build-High-performance-Microservices-with-gRPC-and-NET</loc>
+      <lastmod>2020-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/027f/1c9a5762-04c1-4f04-ad61-af01cdfd027f/DotNETConfBuildHighPerformance_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build High-performance Microservices with gRPC and .NET]]></video:title>
+        <video:description><![CDATA[gRPC is a high-performance RPC framework designed for microservices. In this talk you will learn how to use gRPC in .NET and see how gRPC&#39;s support for deadlines and cancellation can be used to create&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/027f/1c9a5762-04c1-4f04-ad61-af01cdfd027f/DotNETConfBuildHighPerformance_mid.mp4</video:content_loc>
+        <video:duration>1667</video:duration>
+        <video:publication_date>2020-07-23T00:20:53.4880639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/The-Intersection-of-Microservices-Domain-Driven-Design-and-Entity-Framework-Core</loc>
+      <lastmod>2021-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/49b2/d1055e5e-308b-4bae-975e-2a5fa2cd49b2/DotNETConfIntersectionOfMicroservicesDomainDriven_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Intersection of Microservices, Domain-Driven Design and Entity Framework Core]]></video:title>
+        <video:description><![CDATA[Domain-Driven Design (DDD) provides much of the strategic design guidance that we can use to determine the boundaries around and interactions between Microservices in our solutions. DDD also follows&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/49b2/d1055e5e-308b-4bae-975e-2a5fa2cd49b2/DotNETConfIntersectionOfMicroservicesDomainDriven_mid.mp4</video:content_loc>
+        <video:duration>1992</video:duration>
+        <video:publication_date>2020-07-23T00:17:58.0248067+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Beyond-REST-and-RPC-Asynchronous-Eventing-and-Messaging-Patterns</loc>
+      <lastmod>2021-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/631c/db1fd0e9-20e5-4ea8-97d3-ab6a4fe6631c/DotNETConfBeyondRESTandRPC_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns]]></video:title>
+        <video:description><![CDATA[In this session you will learn about when and why to use asynchronous communication with and between services, what kind of eventing/messaging infrastructure you can use in the cloud and on the edge,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/631c/db1fd0e9-20e5-4ea8-97d3-ab6a4fe6631c/DotNETConfBeyondRESTandRPC_mid.mp4</video:content_loc>
+        <video:duration>1768</video:duration>
+        <video:publication_date>2020-07-23T00:14:08.8662657+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Developing-and-Deploying-Microservices-with-Tye</loc>
+      <lastmod>2020-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/04af/a5ae7f4b-eb01-4ba6-9399-23ba366b04af/DotNetConfDevelopingAndDeployingMicroservicesProj_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing and Deploying Microservices with &#39;Tye&#39;]]></video:title>
+        <video:description><![CDATA[Learn about new tooling the .NET team is working on to help you build microservices faster. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/04af/a5ae7f4b-eb01-4ba6-9399-23ba366b04af/DotNetConfDevelopingAndDeployingMicroservicesProj_mid.mp4</video:content_loc>
+        <video:duration>1545</video:duration>
+        <video:publication_date>2020-07-23T00:12:28.0108624+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Adding-a-Little-DAPR-to-Your-NET-Microservices</loc>
+      <lastmod>2020-10-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1333/5f10aa93-cb4e-4d33-8968-8f607b821333/DotNETConfAddingALittleDAPR_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding a Little DAPR to Your .NET Microservices]]></video:title>
+        <video:description><![CDATA[DAPR makes building distributed applications much easier by providing a collection of language agnostic building blocks that can be used in any cloud or on-prem environment. In this session, we&#39;ll&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1333/5f10aa93-cb4e-4d33-8968-8f607b821333/DotNETConfAddingALittleDAPR_mid.mp4</video:content_loc>
+        <video:duration>1718</video:duration>
+        <video:publication_date>2020-07-23T00:09:30.4315369+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Orleans-at-Microsoft</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7bda/8deb4d10-8e9c-4c2b-a744-56754c5e7bda/DotNETConfOrleansAtMicrosoft_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Orleans at Microsoft]]></video:title>
+        <video:description><![CDATA[See how Orleans, an open source, cross-platform, distributed application framework, is used to build hyper-scale, highly-available systems at Microsoft. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7bda/8deb4d10-8e9c-4c2b-a744-56754c5e7bda/DotNETConfOrleansAtMicrosoft_mid.mp4</video:content_loc>
+        <video:duration>1573</video:duration>
+        <video:publication_date>2020-07-23T00:07:16.1151799+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/A-Journey-into-NET-Microservices-with-Steeltoe</loc>
+      <lastmod>2020-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fa4c/aa652994-4e32-473c-a587-a22c9deefa4c/DotNetConfJourneyIntoDotNETMicroservicesWithSteel_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Journey into .NET Microservices with Steeltoe]]></video:title>
+        <video:description><![CDATA[The Steeltoe project aims to help you get the most out of the cloud, with very little code. By taking advantage of .NET Core&#39;s dependency injection and middleware pipeline, it gives developers instant&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fa4c/aa652994-4e32-473c-a587-a22c9deefa4c/DotNetConfJourneyIntoDotNETMicroservicesWithSteel_mid.mp4</video:content_loc>
+        <video:duration>1701</video:duration>
+        <video:publication_date>2020-07-23T00:03:07.8165945+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Stay-Sharp</loc>
+      <lastmod>2020-08-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/196a/45923754-bfd8-4624-95f8-20f28a77196a/DotNetConfStaySharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stay Sharp]]></video:title>
+        <video:description><![CDATA[Speaker: Kelsey Hightower ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/196a/45923754-bfd8-4624-95f8-20f28a77196a/DotNetConfStaySharp_mid.mp4</video:content_loc>
+        <video:duration>3387</video:duration>
+        <video:publication_date>2020-07-23T00:00:10.6439239+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Why-You-Should-Care-About-Microservices</loc>
+      <lastmod>2020-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fd63/cf8f399a-2a08-4aa4-ae3a-50381802fd63/DotNetConfWhyYouShouldCareAboutMicroservices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why You Should Care About Microservices]]></video:title>
+        <video:description><![CDATA[Hear from the co-founder of Kubernetes about why microservices are important and why you should care about them. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fd63/cf8f399a-2a08-4aa4-ae3a-50381802fd63/DotNetConfWhyYouShouldCareAboutMicroservices_mid.mp4</video:content_loc>
+        <video:duration>3308</video:duration>
+        <video:publication_date>2020-07-22T23:57:57.5619767+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Welcome-to-NET-Conf-Focus-on-Microservices</loc>
+      <lastmod>2020-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e68e/bb55a605-8173-4de4-bd44-a49068e8e68e/DotNetConfMicroservicesWelcome_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to .NET Conf: Focus on Microservices]]></video:title>
+        <video:description><![CDATA[Scott and David from the .NET team kick off the day with .NET Core features, roadmap and lots of demos of building microservices with .NET. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e68e/bb55a605-8173-4de4-bd44-a49068e8e68e/DotNetConfMicroservicesWelcome_mid.mp4</video:content_loc>
+        <video:duration>3824</video:duration>
+        <video:publication_date>2020-07-22T23:55:26.1235233+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

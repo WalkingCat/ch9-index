@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Blending-and-Models</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Blending-and-Models/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5c5a/c95e6600-85b8-4395-8c3c-b3ad98c65c5a/384GameDevBlendingModelsM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Blending and Models: (04) Using the Model Importer]]></video:title>
+        <video:description><![CDATA[Look at the new model loader provided by Microsoft (utilized in the demo) and how you can use it to import third-party models from other software or handmade models from a text file. Plus, get a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5c5a/c95e6600-85b8-4395-8c3c-b3ad98c65c5a/384GameDevBlendingModelsM04_mid.mp4</video:content_loc>
+        <video:duration>2395</video:duration>
+        <video:publication_date>2015-01-28T21:47:46.9437977+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Blending-and-Models/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de1c/f188210d-8f00-4c86-ba2f-de290320de1c/384GameDevBlendingModelsM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Blending and Models: (03) Creating Models and the OBJ Format]]></video:title>
+        <video:description><![CDATA[Take a deep dive into how the open source OBJ and VBO file formats represent models and why this is important. And hear how to create them from a third-party program like Maya, or by hand if you are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de1c/f188210d-8f00-4c86-ba2f-de290320de1c/384GameDevBlendingModelsM03_mid.mp4</video:content_loc>
+        <video:duration>2048</video:duration>
+        <video:publication_date>2015-01-28T21:47:34.7708528+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Blending-and-Models/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e8d/705566fe-320e-4ae3-902a-59061b754e8d/384GameDevBlendingModelsM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Blending and Models: (02) Blending/Transparency]]></video:title>
+        <video:description><![CDATA[Learn how to implement techniques, like alpha clipping, global fog, and transparency/blending. [01:55] - Adding A Face/Quad class[11:25] - Placing A Face[18:40] - Creating A Transparent Clip Pixel&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e8d/705566fe-320e-4ae3-902a-59061b754e8d/384GameDevBlendingModelsM02_mid.mp4</video:content_loc>
+        <video:duration>3309</video:duration>
+        <video:publication_date>2015-01-28T21:47:18.3693420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Blending-and-Models/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6816/4af9bc3a-c691-479e-8980-d62e70cf6816/384GameDevBlendingModelsM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Blending and Models: (01) Introduction / Getting Started]]></video:title>
+        <video:description><![CDATA[Hear a course intro, and get a quick look at the current state of the prototype. Explore Windows Developer landscape changes, given the unification of phone/desktop accounts, plus hear about new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6816/4af9bc3a-c691-479e-8980-d62e70cf6816/384GameDevBlendingModelsM01_mid.mp4</video:content_loc>
+        <video:duration>1800</video:duration>
+        <video:publication_date>2015-01-28T21:47:07.1686776+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

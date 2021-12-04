@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Multi-Factor-Authentication</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Multi-Factor-Authentication/05</loc>
+      <lastmod>2018-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e20c/757d7e48-4971-4fcc-94bd-52ca2358e20c/444AzureMFAM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Multi-Factor Authentication: (05) How to Upgrade to Latest Azure MFA Server Version]]></video:title>
+        <video:description><![CDATA[Learn some important considerations for upgrading, the MFA Server upgrade process, the user portal, and the phone app upgrade. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e20c/757d7e48-4971-4fcc-94bd-52ca2358e20c/444AzureMFAM05_mid.mp4</video:content_loc>
+        <video:duration>739</video:duration>
+        <video:publication_date>2014-12-12T22:13:29.7369392+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Multi-Factor-Authentication/04</loc>
+      <lastmod>2018-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a4d7/09f219f4-0eec-41e2-a754-c74c3e3ba4d7/444AzureMFAM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Multi-Factor Authentication: (04) Overview of Azure MFA Server Features]]></video:title>
+        <video:description><![CDATA[Take a look at installation, a user section overview, enabling Radius, IIS, LDAP, and Windows,  plus other key operations. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a4d7/09f219f4-0eec-41e2-a754-c74c3e3ba4d7/444AzureMFAM04_mid.mp4</video:content_loc>
+        <video:duration>725</video:duration>
+        <video:publication_date>2014-12-12T22:11:56.8638115+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Multi-Factor-Authentication/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0194/21167c41-2518-4f8b-8b9e-b0024ad70194/444AzureMFAM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Multi-Factor Authentication: (03) General Overview of Azure MFA Management Portal]]></video:title>
+        <video:description><![CDATA[Gain an understanding of key aspects of Management Portal, including settings, caching, downloading MFA Server, reporting, and other key operations. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0194/21167c41-2518-4f8b-8b9e-b0024ad70194/444AzureMFAM03_mid.mp4</video:content_loc>
+        <video:duration>564</video:duration>
+        <video:publication_date>2014-12-12T22:10:20.4662801+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Multi-Factor-Authentication/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d1e8/361b00d8-de30-4c42-aa03-06ddf1dcd1e8/444AzureMFAM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Multi-Factor Authentication: (02) How to Set Up Azure MFA Service]]></video:title>
+        <video:description><![CDATA[Create an MSA/Azure subscription, learn how to access the management portal, and hear how to create an MFA provider. Plus, find out how to add multiple administrators. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d1e8/361b00d8-de30-4c42-aa03-06ddf1dcd1e8/444AzureMFAM02_mid.mp4</video:content_loc>
+        <video:duration>235</video:duration>
+        <video:publication_date>2014-12-12T22:09:55.9536579+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Multi-Factor-Authentication/01</loc>
+      <lastmod>2018-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4400/2c31a0c7-c404-496f-a212-f504892b4400/444AzureMFAM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Multi-Factor Authentication: (01) Introduction to Azure Multi-Factor Authentication (MFA)]]></video:title>
+        <video:description><![CDATA[Get an overview of the Multi-Factor Authentication feature and of MFA Architecture. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4400/2c31a0c7-c404-496f-a212-f504892b4400/444AzureMFAM01_mid.mp4</video:content_loc>
+        <video:duration>498</video:duration>
+        <video:publication_date>2014-12-12T22:09:31.1114171+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

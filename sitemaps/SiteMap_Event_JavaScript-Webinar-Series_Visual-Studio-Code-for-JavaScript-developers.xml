@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Visual-Studio-Code-for-JavaScript-developers</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Visual-Studio-Code-for-JavaScript-developers/Visual-Studio-Code-for-JavaScript-developers</loc>
+      <lastmod>2016-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2e8/f53cd99e-b71f-4c7f-a64d-d022c30de2e8/vscodejavascript_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Code for JavaScript developers]]></video:title>
+        <video:description><![CDATA[When doing web development or building cloud applications, you want to have a code editor that is fast and lightweight. Yet, you still want to have some of those code editing features that can really&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2e8/f53cd99e-b71f-4c7f-a64d-d022c30de2e8/vscodejavascript_mid.mp4</video:content_loc>
+        <video:duration>3755</video:duration>
+        <video:publication_date>2016-06-02T13:38:45.4552806+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

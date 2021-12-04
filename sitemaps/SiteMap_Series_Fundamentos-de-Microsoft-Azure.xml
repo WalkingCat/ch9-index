@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-VI-Backup-en-Microsoft-Azure-Video--Demo</loc>
+      <lastmod>2021-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/67e3/656b86e6-5254-4a3d-8084-9f99c42767e3/FundamentosMicrosoftAzureMod6BackupRecoveryIntroD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo VI - Backup en Microsoft Azure Video &amp; Demo]]></video:title>
+        <video:description><![CDATA[C&#243;mo hacer respaldo de datos en Microsoft Azure de manera confiable y segura. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/67e3/656b86e6-5254-4a3d-8084-9f99c42767e3/FundamentosMicrosoftAzureMod6BackupRecoveryIntroD_mid.mp4</video:content_loc>
+        <video:duration>1539</video:duration>
+        <video:publication_date>2015-05-26T20:05:08.3177157+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-IV-Websites-en-Microsoft-Azure</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/097d/adfbce74-c70c-4f34-9be5-72e3258f097d/FundamentosMicrosoftAzureMod4WebsitesIntroduccion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Websites en Microsoft Azure]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestran los Websites (Sitios Web) en Azure, c&#243;mo configurarlos y c&#243;mo sacar el m&#225;ximo provecho de ellos. Se explica c&#243;mo en minutos se puede tener un sitio web operativo y c&#243;mo se&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/097d/adfbce74-c70c-4f34-9be5-72e3258f097d/FundamentosMicrosoftAzureMod4WebsitesIntroduccion_mid.mp4</video:content_loc>
+        <video:duration>991</video:duration>
+        <video:publication_date>2015-05-26T20:05:03.7542232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-III-VMs-en-Microsoft-Azure</loc>
+      <lastmod>2015-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8322/b80f5066-0b03-4fd5-b238-6bb2e6ea8322/FundamentosMicrosoftAzureMod3VMsIntroduccion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - VMs en Microsoft Azure]]></video:title>
+        <video:description><![CDATA[M&#225;quinas Virtuales (VMs), en Azure. Versatilidad de la plataforma, plantillas predefinidas y opciones en Open Source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8322/b80f5066-0b03-4fd5-b238-6bb2e6ea8322/FundamentosMicrosoftAzureMod3VMsIntroduccion_mid.mp4</video:content_loc>
+        <video:duration>824</video:duration>
+        <video:publication_date>2015-05-21T13:42:48.6420499+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-V-Demo</loc>
+      <lastmod>2015-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c18c/b802db7c-7a96-4b19-b931-859a1b0ac18c/FundamentosMicrosoftAzureMod5SQLDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo V - Demo]]></video:title>
+        <video:description><![CDATA[Se explora SQL Server en Azure y la versatilidad de la plataforma para aprovisionamiento de Bases de Datos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c18c/b802db7c-7a96-4b19-b931-859a1b0ac18c/FundamentosMicrosoftAzureMod5SQLDemo_mid.mp4</video:content_loc>
+        <video:duration>1870</video:duration>
+        <video:publication_date>2015-05-20T16:43:14.5993020+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-IV-Demo</loc>
+      <lastmod>2019-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f16b/2794e0fa-e9be-4954-a27e-963119f5f16b/FundamentosMicrosoftAzureMod4WebsitesDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Demo]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestran los Websites (Sitios Web) en Azure, c&#243;mo configurarlos y c&#243;mo sacar el m&#225;ximo provecho de ellos. Se explica c&#243;mo en minutos se puede tener un sitio web operativo y c&#243;mo se&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f16b/2794e0fa-e9be-4954-a27e-963119f5f16b/FundamentosMicrosoftAzureMod4WebsitesDemo_mid.mp4</video:content_loc>
+        <video:duration>2055</video:duration>
+        <video:publication_date>2015-05-20T16:42:41.4411604+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-V-SQL-en-Microsoft-Azure</loc>
+      <lastmod>2015-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6ce/7242d231-342c-4e36-9769-28d8e6d7e6ce/FundamentosMicrosoftAzureMod5SQLIntroduccion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo V - SQL en Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Se explora SQL Server en Azure y la versatilidad de la plataforma para aprovisionamiento de Bases de Datos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6ce/7242d231-342c-4e36-9769-28d8e6d7e6ce/FundamentosMicrosoftAzureMod5SQLIntroduccion_mid.mp4</video:content_loc>
+        <video:duration>489</video:duration>
+        <video:publication_date>2015-05-20T16:42:28.9209104+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-III-Demo</loc>
+      <lastmod>2015-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfce/2cd115b1-7da5-414e-86fb-b971a472cfce/FundamentosMicrosoftAzureMod3VMsDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Demo]]></video:title>
+        <video:description><![CDATA[M&#225;quinas Virtuales (VMs), en Azure. Versatilidad de la plataforma, plantillas predefinidas y opciones en Open Source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfce/2cd115b1-7da5-414e-86fb-b971a472cfce/FundamentosMicrosoftAzureMod3VMsDemo_mid.mp4</video:content_loc>
+        <video:duration>3155</video:duration>
+        <video:publication_date>2015-05-20T16:10:07.7035041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-II-Demo</loc>
+      <lastmod>2015-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1ed/cf147427-b301-4aaf-bf00-75bad755b1ed/FundamentosMicrosoftAzureMod2NetworkingDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Demo]]></video:title>
+        <video:description><![CDATA[Caracter&#237;sticas de las redes en Microsoft Azure. C&#243;mo configurarlas, posibilidades de las redes en Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1ed/cf147427-b301-4aaf-bf00-75bad755b1ed/FundamentosMicrosoftAzureMod2NetworkingDemo_mid.mp4</video:content_loc>
+        <video:duration>1333</video:duration>
+        <video:publication_date>2015-05-20T15:41:33.8749585+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-II-Networking-en-Microsoft-Azure</loc>
+      <lastmod>2019-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c886/da39e106-bbc4-4bc1-a426-01ae75aac886/FundamentosMicrosoftAzureMod2NetworkingIntroducci_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Networking en Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Caracter&#237;sticas de las redes en Microsoft Azure. C&#243;mo configurarlas, posibilidades de las redes en Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c886/da39e106-bbc4-4bc1-a426-01ae75aac886/FundamentosMicrosoftAzureMod2NetworkingIntroducci_mid.mp4</video:content_loc>
+        <video:duration>1682</video:duration>
+        <video:publication_date>2015-05-20T15:40:36.4004439+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-I-Demo</loc>
+      <lastmod>2019-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d95/9188ba64-ae38-412a-bf05-fdd4bb728d95/FundamentosMicrosoftAzureMod1Demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Demo]]></video:title>
+        <video:description><![CDATA[Fundamentos de Microsoft Azure, caracter&#237;sticas y ventajas para los profesionales de IT y las empresas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d95/9188ba64-ae38-412a-bf05-fdd4bb728d95/FundamentosMicrosoftAzureMod1Demo_mid.mp4</video:content_loc>
+        <video:duration>1685</video:duration>
+        <video:publication_date>2015-05-20T15:40:11.8172978+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure/Mdulo-I-Introduccin-a-los-fundamentos-de-Microsoft-Azure</loc>
+      <lastmod>2019-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bcfd/21fb06bf-044a-435d-a9ff-91c938f6bcfd/FundamentosMicrosoftAzureMod1Introduccion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Introducci&#243;n a los fundamentos de Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Fundamentos de Microsoft Azure, caracter&#237;sticas y ventajas para los profesionales de IT y las empresas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bcfd/21fb06bf-044a-435d-a9ff-91c938f6bcfd/FundamentosMicrosoftAzureMod1Introduccion_mid.mp4</video:content_loc>
+        <video:duration>1679</video:duration>
+        <video:publication_date>2015-05-20T15:39:54.1999376+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

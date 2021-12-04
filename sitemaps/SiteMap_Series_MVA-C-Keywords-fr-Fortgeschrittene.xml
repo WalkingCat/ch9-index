@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-C-Keywords-fr-Fortgeschrittene</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-C-Keywords-fr-Fortgeschrittene/MVA-C-Keywords-Modul-3-dynamic--checked-as-und-yield</loc>
+      <lastmod>2016-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e545/96d56614-a313-4ef2-b560-7fb736d6e545/mvacskw3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - C# Keywords - Modul 3 - &#39;dynamic&#39; , &#39;checked&#39;, &#39;as&#39; und &#39;yield&#39;]]></video:title>
+        <video:description><![CDATA[In diesem Modul erl&#228;utert Daniel Meixner die C# Keywords &#39;dynamic&#39; , &#39;checked&#39;, &#39;as&#39; und &#39;yield&#39;. Die Beispiele finden sich auf Github hier https://github.com/DanielMeixner/CSharpKeywordSamples. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e545/96d56614-a313-4ef2-b560-7fb736d6e545/mvacskw3_mid.mp4</video:content_loc>
+        <video:duration>1467</video:duration>
+        <video:publication_date>2016-05-02T08:19:14.9970142+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-C-Keywords-fr-Fortgeschrittene/MVA-C-Keywords-Modul-2-ref-und-out</loc>
+      <lastmod>2016-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1473/fe76f0ed-a26b-4db6-b287-4b383bbb1473/mvacskw2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - C# Keywords - Modul 2 - &#39;ref&#39; und &#39;out&#39;]]></video:title>
+        <video:description><![CDATA[In diesem Modul erl&#228;utert Daniel Meixner die C# Keywords &#39;ref&#39; und &#39;out&#39;. Die Beispiele finden sich auf Github hier https://github.com/DanielMeixner/CSharpKeywordSamples. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1473/fe76f0ed-a26b-4db6-b287-4b383bbb1473/mvacskw2_mid.mp4</video:content_loc>
+        <video:duration>1468</video:duration>
+        <video:publication_date>2016-05-02T08:19:02.9946427+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-C-Keywords-fr-Fortgeschrittene/MVA-C-Keywords-Modul-1-volatile-und-lock</loc>
+      <lastmod>2016-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/11d8/28638120-6021-49ba-8650-876b08c411d8/mvacskw1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - C# Keywords - Modul 1 - &#39;volatile&#39; und &#39;lock&#39;]]></video:title>
+        <video:description><![CDATA[In diesem Modul erl&#228;utert Daniel Meixner die C# Keywords &#39;volatile&#39; und &#39;lock&#39;. Die Beispiele finden sich auf Github hier https://github.com/DanielMeixner/CSharpKeywordSamples. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/11d8/28638120-6021-49ba-8650-876b08c411d8/mvacskw1_mid.mp4</video:content_loc>
+        <video:duration>1336</video:duration>
+        <video:publication_date>2016-05-02T08:18:34.4718725+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

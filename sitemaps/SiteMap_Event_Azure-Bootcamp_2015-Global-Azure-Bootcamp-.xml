@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-/002</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e217/8cd874ca-63da-49b4-9daf-99a963d8e217/2015GlobalAzureBootcampAzureMobileService_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Mobile Service]]></video:title>
+        <video:description><![CDATA[MVP Bill (1) 實作排序與分頁存取(2) 實作本地快取機制 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e217/8cd874ca-63da-49b4-9daf-99a963d8e217/2015GlobalAzureBootcampAzureMobileService_mid.mp4</video:content_loc>
+        <video:duration>2221</video:duration>
+        <video:publication_date>2015-07-08T10:06:00.5411216+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-/004</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05f9/1a643a34-993a-4d8d-a00d-4a6149b405f9/2015GlobalAzureBootcampAzureSQLDatabase_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[雲端資料上的存取策略 • 資料庫 • 分散式快取 • 儲存體 / CDN (Content Delivery Network) • 諸多適用於其他不同情境的服務 • Notification Hub • Queue  欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05f9/1a643a34-993a-4d8d-a00d-4a6149b405f9/2015GlobalAzureBootcampAzureSQLDatabase_mid.mp4</video:content_loc>
+        <video:duration>3526</video:duration>
+        <video:publication_date>2015-07-08T10:04:38.0004053+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-/003</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b7c/8efc3e3e-42dc-4475-b653-0811489d8b7c/2015GlobalAzureBootcampDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ DevOps  Chef, Docker, Vagrant  Microsoft Azure ]]></video:title>
+        <video:description><![CDATA[MVP 鮑承佑 本活動從一個簡易線上網頁遊戲範例，解說如何利用 Docker, Vagrant, Chef 等開源工具，結合 Microsoft Azure 提供的 Cross Platform Command Line 的部署工具，來達到所謂的 Infrasctuion as Code，從開發端到線上營運雲端環境的一致性 DevOps 工作流程。 範例內容解說及架構簡介(5&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b7c/8efc3e3e-42dc-4475-b653-0811489d8b7c/2015GlobalAzureBootcampDevOps_mid.mp4</video:content_loc>
+        <video:duration>3696</video:duration>
+        <video:publication_date>2015-07-08T10:04:19.1601393+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-/005</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a65/1ba2b130-a2e6-40c1-be53-4af436575a65/2015GlobalAzureBootcampIaaSPaaS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ -  IaaS  PaaS ]]></video:title>
+        <video:description><![CDATA[MVP 朱明中 雲端對於大多數的企業來說，可能只是把公司的虛擬機丟到雲上就說上雲了，事實上卻不是如此，要真的活用到雲端的能量才能真正算是上雲，而活用雲端能量的最快最簡便的方法，就是重構應用程式，讓它能運用雲端的平台服務 (PaaS)，並讓它自主管理 Scaling, Load Balancing 以及容錯能力。本堂課程就是告訴你要如何下手，才能最快的將應用程式回 IaaS 環境移到 PaaS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a65/1ba2b130-a2e6-40c1-be53-4af436575a65/2015GlobalAzureBootcampIaaSPaaS_mid.mp4</video:content_loc>
+        <video:duration>2785</video:duration>
+        <video:publication_date>2015-07-08T10:04:04.8426476+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-/006</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f0e6/aee28da6-08ea-4e56-bdf2-c711c0cbf0e6/2015GlobalAzureBootcampCloudInformationSecurity_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[登豐數位科技 黃建笙 議程討論 • AZURE 解決方案的安全議題 • 如何確保可用性問題 • 如何確保一致性問題 • 如何確保機密性問題 • Q&amp;amp;A 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f0e6/aee28da6-08ea-4e56-bdf2-c711c0cbf0e6/2015GlobalAzureBootcampCloudInformationSecurity_mid.mp4</video:content_loc>
+        <video:duration>2856</video:duration>
+        <video:publication_date>2015-07-08T10:03:35.4412226+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Bootcamp/2015-Global-Azure-Bootcamp-/Keynote</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b453/acb5fbfa-d220-43c1-bc17-8f3101a0b453/2015GlobalAzureBootcampKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote]]></video:title>
+        <video:description><![CDATA[台灣微軟 技術傳教士 上官林傑曾在中華電信從事網站以及 App 的開發工作，亦曾組織 Taipei GTUG 社群，並且積極參與台灣各種社群，熱愛軟體開發技術，特別在 web、cloud、mobile 領域有所涉獵，現任台灣微軟的應用技術開發經理 (Technical Evangelist)，持續與開發者社群互動。 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b453/acb5fbfa-d220-43c1-bc17-8f3101a0b453/2015GlobalAzureBootcampKeynote_mid.mp4</video:content_loc>
+        <video:duration>2260</video:duration>
+        <video:publication_date>2015-07-08T07:57:29.6475602+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

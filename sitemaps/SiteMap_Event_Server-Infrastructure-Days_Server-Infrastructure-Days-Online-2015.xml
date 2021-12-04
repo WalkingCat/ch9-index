@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Windows-Server-2016-Docker-Integration</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/987a/e8b99083-bbbf-4248-b64b-5f4870e7987a/docker_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2016 Docker Integration]]></video:title>
+        <video:description><![CDATA[I Containers, grazie a Docker, escono dalla nicchia specializzata dei sistemi SaaS trasformandosi in uno strumento d&#39;uso comune. Docker semplifica i dettagli operativi nell&#39;uso dei Containers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/987a/e8b99083-bbbf-4248-b64b-5f4870e7987a/docker_mid.mp4</video:content_loc>
+        <video:duration>3151</video:duration>
+        <video:publication_date>2015-12-21T11:14:14.0982693+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Workloads-Linux-su-Azure</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b34/c0a35e9f-7eed-49bc-b517-58569bfe9b34/Linux_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workloads Linux su Azure]]></video:title>
+        <video:description><![CDATA[L&#39;eterogenit&#224; dei sistemi &#232; spesso un elemento comune all&#39;interno dei nostri datacenter e molti clienti hanno scelto di utilizzare macchine virtuali Linux su Microsoft Azure. In questa sessione vi&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b34/c0a35e9f-7eed-49bc-b517-58569bfe9b34/Linux_mid.mp4</video:content_loc>
+        <video:duration>3095</video:duration>
+        <video:publication_date>2015-12-16T15:44:00.2215287+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Windows-Server-2016-Remote-Desktop-Services</loc>
+      <lastmod>2020-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c351/bb092758-3c90-4e39-9955-f4b031dbc351/RemoteDesktop_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2016 Remote Desktop Services]]></video:title>
+        <video:description><![CDATA[Durante questa sessione vedremo alcune novit&#224; introdotte in Windows Server 2016 in ambito Remote Desktop Services, come i Personal Session Host che consentono di sfruttare la potenza della GPU&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c351/bb092758-3c90-4e39-9955-f4b031dbc351/RemoteDesktop_mid.mp4</video:content_loc>
+        <video:duration>2761</video:duration>
+        <video:publication_date>2015-12-16T15:43:35.2649925+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Windows-Server-2016-Deploy-Nano-Server</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd58/724708e4-6b77-46ee-ae68-aae99725fd58/NanoServer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2016 Deploy Nano Server]]></video:title>
+        <video:description><![CDATA[Nano Server &#232; una nuova modalit&#224; di installazione presente all&#39;interno di Windows Server 2016, che permette di erogare servizi di vario genere con un basso utilizzo di risorse, grazie all&#39;eliminazione&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd58/724708e4-6b77-46ee-ae68-aae99725fd58/NanoServer_mid.mp4</video:content_loc>
+        <video:duration>2964</video:duration>
+        <video:publication_date>2015-12-16T15:43:01.4585134+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Windows-Server-2016-Deploy-Containers</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac5f/7d78e4fd-1b75-42e9-817b-cb21ffebac5f/2016cCont_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2016 Deploy Containers]]></video:title>
+        <video:description><![CDATA[Sono quasi vent&#39;anni che i sistemi di virtualizzazione migliorano l&#39;efficienza dell&#39;uso dei server. I Containers, evoluzione dei concetti di isolamento nati dai contesti del &amp;quot;Virtual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac5f/7d78e4fd-1b75-42e9-817b-cb21ffebac5f/2016cCont_mid.mp4</video:content_loc>
+        <video:duration>3153</video:duration>
+        <video:publication_date>2015-12-16T15:42:47.7235688+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Windows-10-Management-with-GPO</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc88/9b530f6c-73bd-460c-a4dc-10fc9533fc88/w10gpo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Management with GPO]]></video:title>
+        <video:description><![CDATA[Windows 10, come Windows 8, ha introdotto un nuovo mondo di applicazioni che sono diverse dalle classiche Destkop App. La gestione di queste app, e delle nuove features, pu&#242; sembrare difficile quando&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc88/9b530f6c-73bd-460c-a4dc-10fc9533fc88/w10gpo_mid.mp4</video:content_loc>
+        <video:duration>3709</video:duration>
+        <video:publication_date>2015-12-16T15:42:29.2636085+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Protect-your-Datacenter-with-Azure-Site-Recovery</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/318e/9fb171d0-1b4c-43f3-adf5-ed900bb1318e/ASR_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protect your Datacenter with Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[Azure Site Recovery fornisce un punto di ripristino con una tecnologia di protezione continua del dato. Inoltre, grazie a piani personalizzabili, dati e applicazioni vengono recuperate in modo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/318e/9fb171d0-1b4c-43f3-adf5-ed900bb1318e/ASR_mid.mp4</video:content_loc>
+        <video:duration>2865</video:duration>
+        <video:publication_date>2015-12-16T15:42:12.4944402+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Mobile-Device-Management-with-Microsoft-Intune</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0794/06d2e874-4426-4a26-85e7-da385d7e0794/mdm_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mobile Device Management with Microsoft Intune ]]></video:title>
+        <video:description><![CDATA[La gestione dei dispositivi mobile &#232; sempre pi&#249; importante, soprattutto per proteggere i dati aziendali sia che i dispositivi siano personali o che siano aziendali. Microsoft Intune &#232; la soluzione MDM&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0794/06d2e874-4426-4a26-85e7-da385d7e0794/mdm_mid.mp4</video:content_loc>
+        <video:duration>2983</video:duration>
+        <video:publication_date>2015-12-16T15:25:31.0930105+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2015/Extend-Monitoring-with-Operations-Management-Suite</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c03e/c215a44e-90fb-4c73-a8f3-4f9ee88fc03e/OMS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Extend Monitoring with Operations Management Suite]]></video:title>
+        <video:description><![CDATA[Riprendiamo da dove ci eravamo lasciati lo sorso Luglio a SID 2015 per scoprire insieme quanto c&#39;&#232; di nuovo in Microsoft Operations Management Suite. Pu&#242; OMS essere il nuovo System Center? I due&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c03e/c215a44e-90fb-4c73-a8f3-4f9ee88fc03e/OMS_mid.mp4</video:content_loc>
+        <video:duration>3108</video:duration>
+        <video:publication_date>2015-12-16T15:25:12.2347601+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

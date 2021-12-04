@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AzureDocumentDB</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AzureDocumentDB/azure-documentdb-walking-dead</loc>
+      <lastmod>2016-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6354/e6ddd975-3949-48b7-8ad0-e74cd8546354/documentdb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Walking Dead: No Man&#39;s Land game built on DocumentDB]]></video:title>
+        <video:description><![CDATA[Next Games, is a fast growing gaming company based in Helsinki, Finland. On October 7, 2015, AMC and Next Games released The Walking Dead: No Man&#39;s Land, the official mobile game based on AMC&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6354/e6ddd975-3949-48b7-8ad0-e74cd8546354/documentdb_mid.mp4</video:content_loc>
+        <video:duration>81</video:duration>
+        <video:publication_date>2016-04-21T18:37:06.5815603+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AzureDocumentDB/ChangeDocumentDBCollectionPerformance</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc97/3736bbe0-1533-4fad-b117-301ac3f1bc97/AzureDocumentDBChangeCollectionPerformance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Change a DocumentDB collection from pre-defined to user-defined performance in the Azure portal]]></video:title>
+        <video:description><![CDATA[This video shows the steps required to change a DocumentDB collection from using pre-defined performance to user-defined performance in the Azure Portal. Changing the performance level from&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc97/3736bbe0-1533-4fad-b117-301ac3f1bc97/AzureDocumentDBChangeCollectionPerformance_mid.mp4</video:content_loc>
+        <video:duration>73</video:duration>
+        <video:publication_date>2016-04-07T15:57:38.4243094+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

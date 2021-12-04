@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Day/Minsk-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Day/Minsk-2015/Vstuplenie</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62aa/41226761-b9b9-479b-af0e-8ebf9c4e62aa/VstuplenieMinsk2015_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[Вступление ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62aa/41226761-b9b9-479b-af0e-8ebf9c4e62aa/VstuplenieMinsk2015_mid.mp4</video:content_loc>
+        <video:duration>78</video:duration>
+        <video:publication_date>2016-02-01T17:10:06.9410653+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Day/Minsk-2015/Visual-Studio-2015</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb26/79d59cb4-c0a4-4ffc-ac79-05669fe5fb26/AzureDay2015VisualStudio2015_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2015  , ,     ]]></video:title>
+        <video:description><![CDATA[Влади&amp;#1084;ир Юнев / Visual Studio 2015 для веба, облака, контейнеров и любого из вас. С выходо&amp;#1084; .NET 2015 и Visual Studio 2015, а так же с развитие&amp;#1084; ASP.NET5 у разработчиков появляется&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb26/79d59cb4-c0a4-4ffc-ac79-05669fe5fb26/AzureDay2015VisualStudio2015.mp4</video:content_loc>
+        <video:duration>4477</video:duration>
+        <video:publication_date>2016-02-01T09:01:34.2568500+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Day/Minsk-2015/Azure-Storage</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e285/10eddb9d-ad1b-45a8-9bec-1066f86fe285/AzureDay2015AzureStorage_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Storage -      ]]></video:title>
+        <video:description><![CDATA[Антон Бойко / Azure Storage - как выжать &amp;#1084;акси&amp;#1084;у&amp;#1084; скорости и производительности. Доклад будет состоять из двух частей. В первой части &amp;#1084;ы поговори&amp;#1084; про Azure Storage в&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e285/10eddb9d-ad1b-45a8-9bec-1066f86fe285/AzureDay2015AzureStorage.mp4</video:content_loc>
+        <video:duration>5199</video:duration>
+        <video:publication_date>2016-02-01T09:01:21.0365487+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Day/Minsk-2015/Azure-Application-Insights</loc>
+      <lastmod>2016-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9057/13d5d8cd-b461-4641-8831-2ad839989057/AzureDay2015AzureApplicationInsights_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  Azure Application Insights]]></video:title>
+        <video:description><![CDATA[Андрей Ди&amp;#1084;чук / Знако&amp;#1084;ство с Azure Application Insights. Различные сервисы Azure и&amp;#1084;еют встроенные воз&amp;#1084;ожности сбора диагностической инфор&amp;#1084;ации и &amp;#1084;ониторинга. Перед&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9057/13d5d8cd-b461-4641-8831-2ad839989057/AzureDay2015AzureApplicationInsights.mp4</video:content_loc>
+        <video:duration>2984</video:duration>
+        <video:publication_date>2016-01-31T09:30:50.6288065+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Day/Minsk-2015/Azure-Service-Bus</loc>
+      <lastmod>2016-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7ae/60e0ee20-673d-430f-a066-b4747f3de7ae/AzureDay2015AzureServiceBus_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure Service Bus]]></video:title>
+        <video:description><![CDATA[Павел Соколов / Тюнинг Azure Service Bus. Вы узнаете, какие сервисы предоставляет служебная шина и заче&amp;#1084; их несколько. А также о пропускной способности, скорости доступа и о то&amp;#1084;, что&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7ae/60e0ee20-673d-430f-a066-b4747f3de7ae/AzureDay2015AzureServiceBus_mid.mp4</video:content_loc>
+        <video:duration>2716</video:duration>
+        <video:publication_date>2016-01-29T16:34:59.1452678+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

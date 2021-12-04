@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureMarketplace</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureMarketplace/How-to-deploy-and-use-MySQL</loc>
+      <lastmod>2017-11-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/85ce/85d1dc4a-608f-4df6-9f74-65ab444085ce/DeployingMySQLfromAzureMarketplace_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to deploy and use MySQL]]></video:title>
+        <video:description><![CDATA[In this video you will learn how to deploy MySQL in minutes from the Azure Marketplace. MySQL is a popular open source relational database especially for those building on the LAMP stack. For detailed&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/85ce/85d1dc4a-608f-4df6-9f74-65ab444085ce/DeployingMySQLfromAzureMarketplace_mid.mp4</video:content_loc>
+        <video:duration>265</video:duration>
+        <video:publication_date>2016-03-22T17:52:06.1778358+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureMarketplace/Deploy-GitLab-from-Azure-Marketplace</loc>
+      <lastmod>2016-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49dc/794cc968-ad7d-42ad-8693-5f7d4d8149dc/AzureMP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy GitLab from Azure Marketplace]]></video:title>
+        <video:description><![CDATA[What is GitLab? It&#39;s a self-hosted Git management platform and open-source Continuous Integration (CI) server. You can also perform code reviews and collaborate with merge requests, it also includes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49dc/794cc968-ad7d-42ad-8693-5f7d4d8149dc/AzureMP_mid.mp4</video:content_loc>
+        <video:duration>294</video:duration>
+        <video:publication_date>2016-03-11T21:56:52.8888936+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/AzureMarketplace/What-exactly-is-the-Azure-Marketplace</loc>
+      <lastmod>2017-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d328/f11d1472-deea-496f-8cd9-f52cf5dcd328/AzureMarketplace_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What exactly is the Azure Marketplace?]]></video:title>
+        <video:description><![CDATA[What exactly is the Azure Marketplace? I&#39;m Marc Gagne, a senior technical evangelist with Microsoft Canada and in this video we are going to learn about the Azure Marketplace and what exactly you can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d328/f11d1472-deea-496f-8cd9-f52cf5dcd328/AzureMarketplace_mid.mp4</video:content_loc>
+        <video:duration>280</video:duration>
+        <video:publication_date>2016-03-08T19:31:56.7340154+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

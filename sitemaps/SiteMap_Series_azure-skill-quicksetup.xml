@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-quicksetup</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-quicksetup/Azure-Security-Center-Setup</loc>
+      <lastmod>2016-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9db8/d607418f-59f8-4fee-8545-586073d29db8/security_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Security Center ]]></video:title>
+        <video:description><![CDATA[此課程由台灣微軟技術經理 Perl Tsai 所主講，將介紹 Azure Security 當中重要的新功能 - Azure Security Center 企業為了保護本地端資料總是訂定許多防線，上雲端最大的顧慮也是資訊安全相關議題，資訊安全中心利用加強對 Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9db8/d607418f-59f8-4fee-8545-586073d29db8/security_mid.mp4</video:content_loc>
+        <video:duration>639</video:duration>
+        <video:publication_date>2016-03-02T03:17:24.2800794+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-quicksetup/set-ip</loc>
+      <lastmod>2016-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb60/f3e44bae-4820-48c4-854c-7e19a54fcb60/IP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure  IP ]]></video:title>
+        <video:description><![CDATA[本課程由微軟技術支援團隊 Sharon 所主講。 有些 Azure 使用者在建置為虛擬機器後並未設置固定 IP 位置，導致在關閉虛擬機器後先前所使用的 IP 將會流失掉，造成之後的使用上要使用不同 IP 進行連線，但今天要分享給大家如何輕鬆在入口網站即可固定 IP 位置！ 欲下載投影片請點這裡。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb60/f3e44bae-4820-48c4-854c-7e19a54fcb60/IP_mid.mp4</video:content_loc>
+        <video:duration>648</video:duration>
+        <video:publication_date>2016-01-07T03:04:23.8519472+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

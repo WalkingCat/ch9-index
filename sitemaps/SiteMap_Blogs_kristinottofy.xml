@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/msppanel</loc>
+      <lastmod>2017-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f52a/7667796e-c503-4abe-ac52-e4e9b41cf52a/msppanel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Panel for Micrcosoft Student Partner Workshop]]></video:title>
+        <video:description><![CDATA[A group of Microsoft Technical Evangelists and interns team up to answer questions about how they achieved success. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f52a/7667796e-c503-4abe-ac52-e4e9b41cf52a/msppanel_mid.mp4</video:content_loc>
+        <video:duration>3580</video:duration>
+        <video:publication_date>2017-02-15T16:56:42.0684779+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/TiltSensor</loc>
+      <lastmod>2017-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e32/b6f89da9-943c-4894-ade6-87443d9f4e32/TiltSensorBeerMe_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Azure IoT - TiltSensor / Beer Me]]></video:title>
+        <video:description><![CDATA[TiltSensor / Beer Me is an introductory IoT project that uses a Raspberry Pi 2 Model B, a breadboard, wires, 3 resistors, and 3 LEDs. The code is open sourced on GitHub and this video walks through&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e32/b6f89da9-943c-4894-ade6-87443d9f4e32/TiltSensorBeerMe_mid.mp4</video:content_loc>
+        <video:duration>909</video:duration>
+        <video:publication_date>2016-07-02T18:51:33.3598344+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/IntoxicatingVR-Atlanta</loc>
+      <lastmod>2016-06-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f572/845b4003-f992-452b-82b1-35071638f572/IntoxicatingVRAtlanta_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IntoxicatingVR Atlanta]]></video:title>
+        <video:description><![CDATA[IntoxicatingVR was an event held initially at the Microsoft Innovation Center (MIC) in Atlanta, Georgia on May 19, 2016. Ian Philpot, Microsoft Sr. Technical Evangelist, (@tripdubroot) was the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f572/845b4003-f992-452b-82b1-35071638f572/IntoxicatingVRAtlanta_mid.mp4</video:content_loc>
+        <video:duration>172</video:duration>
+        <video:publication_date>2016-06-17T17:16:30.4460896+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/Navlit</loc>
+      <lastmod>2017-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ec6/66b13bd1-fd38-46fe-90fb-be807a775ec6/Navlit_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Navlit]]></video:title>
+        <video:description><![CDATA[Here&#39;s a video from the Navlit team demoing their web app that runs on Azure. These are the winners of the Best Microsoft Hack and second place overall at HackATL 2015! This application helps folks&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ec6/66b13bd1-fd38-46fe-90fb-be807a775ec6/Navlit_mid.mp4</video:content_loc>
+        <video:duration>533</video:duration>
+        <video:publication_date>2016-05-06T15:43:12.6186818+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/Sweet-Tweets-Part-3</loc>
+      <lastmod>2016-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a828/85fdd652-60f5-4a9b-9311-9407f009a828/SweetTweetsPart3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sweet Tweets Part 3]]></video:title>
+        <video:description><![CDATA[This is the third video in a three video series called Sweet Tweets! This is a web application that takes in an input, searches Twitter for tweets or users relating to that query, and sends the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a828/85fdd652-60f5-4a9b-9311-9407f009a828/SweetTweetsPart3_mid.mp4</video:content_loc>
+        <video:duration>1256</video:duration>
+        <video:publication_date>2016-04-27T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/Sweet-Tweets-Part-2</loc>
+      <lastmod>2016-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/197d/1930f26c-452c-4b46-8915-a9bf523f197d/SweetTweetsPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sweet Tweets Part 2]]></video:title>
+        <video:description><![CDATA[This is the second video in a three video series called Sweet Tweets! This is a web application that takes in an input, searches Twitter for tweets or users relating to that query, and sends the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/197d/1930f26c-452c-4b46-8915-a9bf523f197d/SweetTweetsPart2_mid.mp4</video:content_loc>
+        <video:duration>1371</video:duration>
+        <video:publication_date>2016-04-26T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/kristinottofy/Sweet-Tweets-Part-1</loc>
+      <lastmod>2017-12-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/11f1/85524313-8478-41d9-b784-e4b8401a11f1/SweetTweetsPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sweet Tweets Part 1]]></video:title>
+        <video:description><![CDATA[This is the first video in a three video series called Sweet Tweets! This is a web application that takes in an input, searches Twitter for tweets or users relating to that query, and sends the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/11f1/85524313-8478-41d9-b784-e4b8401a11f1/SweetTweetsPart1_mid.mp4</video:content_loc>
+        <video:duration>912</video:duration>
+        <video:publication_date>2016-04-25T16:23:11.8291012+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

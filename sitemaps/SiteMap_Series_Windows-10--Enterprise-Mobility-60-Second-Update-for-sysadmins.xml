@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Enterprise-Mobility-60-Second-Update-for-sysadmins</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Enterprise-Mobility-60-Second-Update-for-sysadmins/Windows-10-Application-Compatibility</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a95/9de8ef63-ec97-4da3-9129-eb8d63c53a95/windows10appcompat_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Application Compatibility ]]></video:title>
+        <video:description><![CDATA[In the second installment of the playlist, Simon looks at some of the top training resources and videos for app compat in Windows 10 as well as on third-party platforms like iOS and Android. Ensure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a95/9de8ef63-ec97-4da3-9129-eb8d63c53a95/windows10appcompat_mid.mp4</video:content_loc>
+        <video:duration>41</video:duration>
+        <video:publication_date>2015-12-07T19:18:39.6725870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10--Enterprise-Mobility-60-Second-Update-for-sysadmins/Windows-10-Security</loc>
+      <lastmod>2018-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8725/cb6a8c82-b970-4109-8e7d-0c89b5c88725/Windows10Security_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Security]]></video:title>
+        <video:description><![CDATA[Channel 9 hosts a lot of useful videos on Windows 10 security for sysadmins. However, since you&#39;re probably like us, and don&#39;t have time to find them all, we asked our Senior Technical Evangelist,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8725/cb6a8c82-b970-4109-8e7d-0c89b5c88725/Windows10Security_mid.mp4</video:content_loc>
+        <video:duration>64</video:duration>
+        <video:publication_date>2015-09-08T20:05:56.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

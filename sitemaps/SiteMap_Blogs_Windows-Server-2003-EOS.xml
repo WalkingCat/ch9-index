@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Server-2003-EOS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Server-2003-EOS/Windows-Server-2003-EOS-2</loc>
+      <lastmod>2014-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d252/8ed01c33-eb4e-4186-bb73-ea294d1dd252/WS2003WOS2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2003 EOS  ()]]></video:title>
+        <video:description><![CDATA[本課程將帶您快速了解 Windows Server 2003 升級的四大流程：探索、評估、鎖定目標及升級轉移。並透過實際 Demo 帶您了解如何進行評估作業。希望本課程對您的學習有所幫助！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d252/8ed01c33-eb4e-4186-bb73-ea294d1dd252/WS2003WOS2_mid.mp4</video:content_loc>
+        <video:duration>497</video:duration>
+        <video:publication_date>2014-11-04T09:28:02.7038031+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Server-2003-EOS/Windows-Server-2003-EOS-1</loc>
+      <lastmod>2014-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c170/dc3a2ef2-6d3e-42c6-ae2f-8c0f6fd4c170/WindowsServer2003EOS1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2003 EOS  ()]]></video:title>
+        <video:description><![CDATA[本課程將帶您快速了解 Windows Server 2003 升級的四大流程：探索、評估、鎖定目標及升級轉移。並透過實際 Demo 帶您了解如何進行評估作業。希望本課程對您的學習有所幫助！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c170/dc3a2ef2-6d3e-42c6-ae2f-8c0f6fd4c170/WindowsServer2003EOS1_mid.mp4</video:content_loc>
+        <video:duration>845</video:duration>
+        <video:publication_date>2014-11-04T09:27:46.4809876+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

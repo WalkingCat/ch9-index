@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-APIs-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-APIs-Arabic/Deep-Dive-into-Azure-AD-and-Office-365-APIs-Arabic</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb49/f7bc1512-6691-45a5-a133-ed8e96aacb49/DeepDiveIntoAzureADAndOffice365APIs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Dive into Azure AD and Office 365 APIs (Arabic) ]]></video:title>
+        <video:description><![CDATA[This webinar covers consuming O365 data from UWP project after authentication using identity API. The demo shows how to register and build UWP application that authenticates the O365 user using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb49/f7bc1512-6691-45a5-a133-ed8e96aacb49/DeepDiveIntoAzureADAndOffice365APIs_mid.mp4</video:content_loc>
+        <video:duration>2911</video:duration>
+        <video:publication_date>2015-12-08T10:52:56.9599422+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-APIs-Arabic/Authentication</loc>
+      <lastmod>2018-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b83/da910ac1-bcc8-4579-9982-c5670bd19b83/Authentication_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Authentication (Arabic)]]></video:title>
+        <video:description><![CDATA[This webinar covers authentication on top of O365 platform! It starts with highlighting Azure AD authentication role in the O365 dev journey then covers authentication protocols and flow using OAuth&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b83/da910ac1-bcc8-4579-9982-c5670bd19b83/Authentication_mid.mp4</video:content_loc>
+        <video:duration>2719</video:duration>
+        <video:publication_date>2015-12-01T09:02:43.4425886+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-APIs-Arabic/Overview-of-O365-Development</loc>
+      <lastmod>2020-07-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cdeb/1dda2939-9f33-4097-8111-32639201cdeb/overviewofo365development_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Overview of O365 Development (Arabic)]]></video:title>
+        <video:description><![CDATA[This webinar is an introduction to O365 dev world! It starts with highlighting the dev opportunity on top of O365 platform then covers the available development scenarios, O365 dev platform, discovery&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdeb/1dda2939-9f33-4097-8111-32639201cdeb/overviewofo365development_mid.mp4</video:content_loc>
+        <video:duration>4112</video:duration>
+        <video:publication_date>2015-11-26T08:39:19.7290121+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

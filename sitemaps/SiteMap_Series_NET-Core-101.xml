@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/NET-Publishing-an-App</loc>
+      <lastmod>2021-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/992e/2d9c8f26-7ddf-4a2f-ab91-6fa18a25992e/NETCore101PublishingApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET - Publishing an App [8 of 8]]]></video:title>
+        <video:description><![CDATA[When you write programs with C# and .NET they can run almost anywhere. You can write mobile apps, websites, and so much more. Let&#39;s publish our little app to Windows...and to Linux! We&#39;ll see our app&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/441d/893ae4c2-21c8-471b-9bd4-d48ba1d9441d/NETCore101PublishingApp_mid.mp4</video:content_loc>
+        <video:duration>469</video:duration>
+        <video:publication_date>2019-09-23T15:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/NET-Unit-Testing</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/276b/ee085c6f-8494-414d-b6cb-f3a2cf1a276b/NETCore101UnitTesting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET - Unit Testing [7 of 8]]]></video:title>
+        <video:description><![CDATA[Every good project has a lot of Tests that &amp;quot;assert&amp;quot; our assumptions. Every method you write should have a lot of Test Methods or &amp;quot;facts&amp;quot; that express how it SHOULD work! But, DOES&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0d8e/145af402-9b2f-44b1-b6aa-00163e350d8e/NETCore101UnitTesting_mid.mp4</video:content_loc>
+        <video:duration>824</video:duration>
+        <video:publication_date>2019-09-23T15:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/NET-Using-a-Nuget-Package</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1a16/b85e921e-019e-4337-ac9d-effe5dc61a16/NETCore101NugetPackage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET - Using a NuGet Package [6 of 8]]]></video:title>
+        <video:description><![CDATA[Next we learn about NuGet. NuGet is the .NET package manager and it will let you pull in code from other community members and use it in your programs. Let&#39;s find a great library that will make our&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ab31/8e9e61e3-c09f-42b9-ad58-ac694f65ab31/NETCore101NugetPackage_mid.mp4</video:content_loc>
+        <video:duration>730</video:duration>
+        <video:publication_date>2019-09-23T15:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/NET-Adding-a-Class-Library</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9077/986c1f76-96cd-497f-ab1d-6a6729ec9077/NETCore101AddingClassLibrary_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET - Adding a Class Library [5 of 8]]]></video:title>
+        <video:description><![CDATA[We will move beyond a single project to a Solution with multiple projects by adding a Class Library to our Executable Program. We can share our Library most anywhere with C# and .NET. Watch the entire&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/53d9/a8696d3a-75f0-4efd-9741-14a6bbd153d9/NETCore101AddingClassLibrary_mid.mp4</video:content_loc>
+        <video:duration>562</video:duration>
+        <video:publication_date>2019-09-23T15:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/NET-Basic-Debugging</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f2b5/a2658842-1e9a-4904-a583-2dc77c91f2b5/NETCore101BasicDebugging_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET: Basic Debugging [4 of 8]]]></video:title>
+        <video:description><![CDATA[Now it&#39;s time to familiarize ourselves with Visual Studio and do some basic debugging. We&#39;ll see breakpoints, conditions, and see how quickly we can make a code change and see the result happen! Watch&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7891/e5625c92-6fce-4812-91a6-32e9eb4d7891/NETCore101BasicDebugging_mid.mp4</video:content_loc>
+        <video:duration>513</video:duration>
+        <video:publication_date>2019-09-23T15:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/What-is-a-NET-Hello-World-App</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/545a/7247218c-94e6-4473-8b32-a8a82297545a/NETCore101HelloWorldApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is a .NET Hello World App? [3 of 8]]]></video:title>
+        <video:description><![CDATA[Let&#39;s say Hello World with C#! Now you&#39;re a C# programmer! What is involved when you say Hello World and what did you actually produce? Watch the entire series hereDownload Visual Studio 2019&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a2a6/8c046d37-2f51-4f23-bb06-5d286c9ca2a6/NETCore101HelloWorldApp_mid.mp4</video:content_loc>
+        <video:duration>222</video:duration>
+        <video:publication_date>2019-09-23T15:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/Installing-NET</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b867/0037e66e-c39b-44ed-bae9-4841d412b867/NETCore101InstallingNET_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing .NET [2 of 8]]]></video:title>
+        <video:description><![CDATA[Time to start. How do you get .NET and start writing C# applications today? We will look at multiple ways to install the .NET SDK (Software Development Kit) as well as how to get and install Visual&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c2ce/a6ff6510-96e3-4ad9-ac55-647c57b2c2ce/NETCore101InstallingNET_mid.mp4</video:content_loc>
+        <video:duration>99</video:duration>
+        <video:publication_date>2019-09-23T15:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Core-101/What-is-NET</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/82a8/56de09f9-d3f6-44c3-8ccd-9a1e270b82a8/NETCore101WhatIs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is .NET? [1 of 8]]]></video:title>
+        <video:description><![CDATA[This tutorial explains what is .NET anyway? .NET is an open source development platform which is just a way of saying it&#39;s a collection of languages and libraries that can all work together to build&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/40ce/1bf436fd-3940-40a6-b423-ce3a92d840ce/update_mid.mp4</video:content_loc>
+        <video:duration>174</video:duration>
+        <video:publication_date>2019-09-23T15:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Skype-for-Schools</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Skype-for-Schools/Skype-for-Schools</loc>
+      <lastmod>2020-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dfe4/24d50fc0-0a2b-4c9f-91e4-a9b339abdfe4/SkypeforSchools_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Skype for Schools]]></video:title>
+        <video:description><![CDATA[In this session we discuss the differences between Skype and Skype for Business and how both of these tools can be used to great effect in the classroom. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dfe4/24d50fc0-0a2b-4c9f-91e4-a9b339abdfe4/SkypeforSchools_mid.mp4</video:content_loc>
+        <video:duration>2520</video:duration>
+        <video:publication_date>2017-04-24T09:36:33.3174039+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

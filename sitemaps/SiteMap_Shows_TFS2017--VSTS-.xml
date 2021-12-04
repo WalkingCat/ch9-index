@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/CD</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89b5/cb5606d6-7dd0-47b6-a3ec-6cb545fe89b5/CDwithAzureWebApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CI]]></video:title>
+        <video:description><![CDATA[先前介紹過了CI以及在CI流程中進行自動化測試之後，緊接著我們要在CI之後實現自動佈署。這可以讓任何一位開發人員在把程式碼遷入(Check in/push)到VSTS/TFS中之後，自動觸發CI與Unit Test，在Build與Unit Test都通過之後，將修改後的網站成果自動佈署到某一個網址。&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89b5/cb5606d6-7dd0-47b6-a3ec-6cb545fe89b5/CDwithAzureWebApp_mid.mp4</video:content_loc>
+        <video:duration>457</video:duration>
+        <video:publication_date>2017-04-25T09:41:36.8615220+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/vsts01</loc>
+      <lastmod>2018-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b066/9aabe91c-7e32-43e6-a486-aae1cfe7b066/vsts01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[身為PM/PO/Team Leader... 你怎麼知道這個迭代會不會delay? 你能夠掌握哪一個開發人員因為哪一個需求或bug所以敢改了哪一段程式碼嗎? 你在安排工作項目的時候，能夠一目了然的看到每位開發人員的預估工時嗎? 這一段影片，可以幫助您解決這些問題，讓您的專案管理不再無為而治...  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b066/9aabe91c-7e32-43e6-a486-aae1cfe7b066/vsts01_mid.mp4</video:content_loc>
+        <video:duration>700</video:duration>
+        <video:publication_date>2017-04-25T04:48:08.5312453+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/CI-BuildUnit-Test</loc>
+      <lastmod>2017-03-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b0c7/249b9397-5dd1-417c-a405-9ce3f972b0c7/CIBuildWithUnitTest_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CI BuildUnit Test]]></video:title>
+        <video:description><![CDATA[為何應該要撰寫 Unit Test? 如何非常輕鬆的在 TFS/VSTS 的CI自動建置之中，自動執行 Unit Test? 這個影片用一個非常簡單的例子說明這些。 影片中使用到的範例位於:https://github.com/isdaviddong/Lab_CIWithUnitTest ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0c7/249b9397-5dd1-417c-a405-9ce3f972b0c7/CIBuildWithUnitTest_mid.mp4</video:content_loc>
+        <video:duration>820</video:duration>
+        <video:publication_date>2017-03-25T07:55:22.0487200+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/VSTSTFSTeam-Project</loc>
+      <lastmod>2018-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a98b/fd434984-c7f2-40a6-9292-94646087a98b/VSTSTFSTeamProject_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VSTS/TFSTeam Project]]></video:title>
+        <video:description><![CDATA[準備要進入CI/CD與專案透明度提升之旅了嗎? 由於VSTS一直『持續改善』，UI操作已與過去大不相同。所以我們也持續更新一下建立VSTS Team Site(站台)以及Team Project(專案)的操作說明，如果你至今還沒使用過VSTS/TFS，別再錯過了... btw, 現在的VSTS/TFS不只支援TFVC版控，也支援Git囉... ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a98b/fd434984-c7f2-40a6-9292-94646087a98b/VSTSTFSTeamProject_mid.mp4</video:content_loc>
+        <video:duration>493</video:duration>
+        <video:publication_date>2017-03-24T04:21:25.0075113+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/GithubVSTS</loc>
+      <lastmod>2017-03-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e64/9a26203b-4488-41a9-ad1a-907a6e9a2e64/Github_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GithubVSTS]]></video:title>
+        <video:description><![CDATA[你知道現在VSTS也支援Git Repository了嗎? 而且五人以下免費喔，現在想要擁有Private的Git Repository毋須自己架設Git伺服器，還可以輕鬆地從Github把專案Clone過來呢。 來看看怎麼瞬間搭建免費私有的Git repository，並且從Github匯入專案吧... ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e64/9a26203b-4488-41a9-ad1a-907a6e9a2e64/Github_mid.mp4</video:content_loc>
+        <video:duration>713</video:duration>
+        <video:publication_date>2017-03-24T00:33:40.3855040+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/CI01</loc>
+      <lastmod>2017-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/458d/8e860c5d-187f-4d27-91d8-f7ab495c458d/CIBuild_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(CI)]]></video:title>
+        <video:description><![CDATA[開發流程的自動化可說是近代軟體專案管理中不可或缺的一環，幸運的是，透過VSTS/TFS，要實現CI(持續整合)自動建置已經是非常容易的了，我們來看看如何輕鬆的建立Auto Build，讓開發人員每當程式碼簽入的同時，就自動觸發整合建置。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/458d/8e860c5d-187f-4d27-91d8-f7ab495c458d/CIBuild_mid.mp4</video:content_loc>
+        <video:duration>644</video:duration>
+        <video:publication_date>2017-03-23T16:34:37.1283685+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TFS2017--VSTS-/VSTSTFSGit</loc>
+      <lastmod>2019-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e9f3/eba153f6-c512-491b-8843-f5b0919de9f3/GitVC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VSTS/TFSGit]]></video:title>
+        <video:description><![CDATA[你知道VSTS/TFS也支援Git版控嗎? 現在，你可以透過Visual Studio ，輕易的將程式碼簽入到VSTS或TFS上的Git repository，在這段影片當中，我們示範了如何在VSTS或TFS當中建立一個支援Git repository的team project當中，並且從Visual Studio當中實際簽入檔案，並且進行檔案的版控與異動的查詢。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e9f3/eba153f6-c512-491b-8843-f5b0919de9f3/GitVC_mid.mp4</video:content_loc>
+        <video:duration>480</video:duration>
+        <video:publication_date>2017-03-23T15:30:38.0363193+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

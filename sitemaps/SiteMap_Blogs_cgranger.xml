@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger/Context-menu-customization</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/6/4/2/1/5/contextmenucustomization_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Context menu customization]]></video:title>
+        <video:description><![CDATA[This is part two of the series of shell customization videos from Suzanne Hansen. In this video, Suzanne shows you how to customize your context menu.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/6/4/2/1/5/contextmenucustomization_ch9.mp4</video:content_loc>
+        <video:duration>192</video:duration>
+        <video:publication_date>2009-12-11T22:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger/Command-bar-customization</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/8/0/2/1/5/commandbarcustomization1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Command bar customization]]></video:title>
+        <video:description><![CDATA[In this video Suzanne Hansen takes you through how you can customize command bars inside of Visual Studio 2010.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/8/0/2/1/5/commandbarcustomization1_ch9.mp4</video:content_loc>
+        <video:duration>171</video:duration>
+        <video:publication_date>2009-12-10T02:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger/Sharing-Visual-Studio-Extensions</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/3/7/8/0/5/SharingExtensions_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Sharing Visual Studio Extensions]]></video:title>
+        <video:description><![CDATA[Quan To, a program manager on the Visual Studio Platform extensibility team, recently created a video that shows you how you can upload and share your extensions with others using the Visual Studio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/3/7/8/0/5/SharingExtensions_ch9.mp4</video:content_loc>
+        <video:duration>233</video:duration>
+        <video:publication_date>2009-11-30T21:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger/The-VS2010-Extension-Manager</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/7/5/6/7/4/VS2010ExtensionManager_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[The VS2010 Extension Manager]]></video:title>
+        <video:description><![CDATA[One of the big initiatives for Visual Studio 2010 was to incorporate the community directly into the IDE itself and the extension manager was created to achieve just that. This newcomer to VS allows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/7/5/6/7/4/VS2010ExtensionManager_ch9.mp4</video:content_loc>
+        <video:duration>74</video:duration>
+        <video:publication_date>2009-07-01T20:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger/The-new-project-dialog</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/8/1/5/7/4/VS2010NPD_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[The New Project Dialog]]></video:title>
+        <video:description><![CDATA[With the shell refresh that is coming in Visual Studio 2010, a great deal of the UI has been replaced with new Windows Presentation Foundation parts. The new project dialog (NPD), for example,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/8/1/5/7/4/VS2010NPD_ch9.mp4</video:content_loc>
+        <video:duration>168</video:duration>
+        <video:publication_date>2009-06-23T19:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cgranger/New-Editor-Box-Selection</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/8/1/5/7/4/VS2010BoxSelection_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[New Editor Box Selection]]></video:title>
+        <video:description><![CDATA[
+Since VS 2010 Beta1 became publicly available last week, the Editor team has heard from quite a few users who miss box selection (aka column selection, block selection, or rectangular selection). &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/8/1/5/7/4/VS2010BoxSelection_ch9.mp4</video:content_loc>
+        <video:duration>204</video:duration>
+        <video:publication_date>2009-06-23T19:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

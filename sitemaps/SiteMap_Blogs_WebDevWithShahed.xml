@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WebDevWithShahed</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WebDevWithShahed/Web-App-Security</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/200d/460ec398-8acf-438b-b4d9-c440c46c200d/webappsecuritylouder_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Application Security]]></video:title>
+        <video:description><![CDATA[NOTE: Is the audio too low? Please turn up the volume and/or use headphones for now, and I&#39;ll re-upload the video with louder audio ASAP. Blog Post: http://WakeUpAndCode.com/web-app-security Whether&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/200d/460ec398-8acf-438b-b4d9-c440c46c200d/webappsecuritylouder_mid.mp4</video:content_loc>
+        <video:duration>1335</video:duration>
+        <video:publication_date>2016-03-24T17:31:47.4553913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WebDevWithShahed/Unit-Testing-Your-Web-Apps</loc>
+      <lastmod>2018-09-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb47/df4f59f1-1600-4062-b4db-bf3df027bb47/UnitTestingYourWebApps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unit Testing Your Web Apps]]></video:title>
+        <video:description><![CDATA[This presentation on &amp;quot;Unit Testing Your Web Apps&amp;quot; demonstrates the use of C# in ASP.NET using Visual Studio. Start with a Web App projectCreate a Test App projectTest your Web App!  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb47/df4f59f1-1600-4062-b4db-bf3df027bb47/UnitTestingYourWebApps_mid.mp4</video:content_loc>
+        <video:duration>600</video:duration>
+        <video:publication_date>2015-07-24T16:35:06.1716428+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-12092016</loc>
+      <lastmod>2016-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5182/0d74eac6-b071-46d0-ae3c-121c995b5182/OMSTechFridays12092016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 12/09/2016 ]]></video:title>
+        <video:description><![CDATA[In this session OMS PM Nick Burling talks about the Service Mapping Preview. Service Map automatically discovers application components on Windows and Linux systems and maps the communication between&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5182/0d74eac6-b071-46d0-ae3c-121c995b5182/OMSTechFridays12092016_mid.mp4</video:content_loc>
+        <video:duration>3593</video:duration>
+        <video:publication_date>2016-12-14T01:42:57.5438382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-10282016</loc>
+      <lastmod>2016-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f52/d312f3e7-eab9-4c21-9856-c22de8128f52/OMSTechFridays10282016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 10/28/2016]]></video:title>
+        <video:description><![CDATA[Keiko from the OMS Program Management Team. presents, Monitor VMware using OMS Log Analytics, This solution collects VMware ESXi host logs from any location and provides centralized searching and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f52/d312f3e7-eab9-4c21-9856-c22de8128f52/OMSTechFridays10282016_mid.mp4</video:content_loc>
+        <video:duration>3371</video:duration>
+        <video:publication_date>2016-11-03T00:43:34.5141767+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-102872016</loc>
+      <lastmod>2016-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a3e/0d24d2b5-52c7-46af-b1f6-999ca7ed2a3e/OMSTechFridays102872016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 10/28/2016 ]]></video:title>
+        <video:description><![CDATA[Keiko from the OMS Program Management Team. presents, Monitor VMware using OMS Log Analytics, This solution collects VMware ESXi host logs from any location and provides centralized searching and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a3e/0d24d2b5-52c7-46af-b1f6-999ca7ed2a3e/OMSTechFridays102872016_mid.mp4</video:content_loc>
+        <video:duration>3371</video:duration>
+        <video:publication_date>2016-11-02T23:24:47.3422030+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-10142016</loc>
+      <lastmod>2016-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b0ec/110da60c-e911-4dd3-9941-0c25cc64b0ec/OMSTechFridays10142016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 10/14/2016]]></video:title>
+        <video:description><![CDATA[Evan Hissey talks about the new View Designer. The View Designer enables you to create visualizations and dashboards that are powered by your OMS data as Views, much like OMS Solutions do.   You can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0ec/110da60c-e911-4dd3-9941-0c25cc64b0ec/OMSTechFridays10142016_mid.mp4</video:content_loc>
+        <video:duration>2946</video:duration>
+        <video:publication_date>2016-10-15T13:07:24.5825375+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-09302016</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ecd/f10fce75-a319-4eda-b8b6-a6a3ea408ecd/OMSTechFridays09302016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 09/30/2016]]></video:title>
+        <video:description><![CDATA[In this session we review how we can use Azure Site Recover (ASR) Scout to migrate VMware virtual machines (including Linux VMs) to HyperV ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ecd/f10fce75-a319-4eda-b8b6-a6a3ea408ecd/OMSTechFridays09302016_mid.mp4</video:content_loc>
+        <video:duration>3114</video:duration>
+        <video:publication_date>2016-10-03T02:40:20.4085590+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-09172016</loc>
+      <lastmod>2016-09-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/69d4/0b68db08-6d69-49d9-a6cd-1423550469d4/OMSTechFridays09172016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 09/17/2016]]></video:title>
+        <video:description><![CDATA[Azure Site Recovery Setup and Common Issues Troubleshooting ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69d4/0b68db08-6d69-49d9-a6cd-1423550469d4/OMSTechFridays09172016_mid.mp4</video:content_loc>
+        <video:duration>2991</video:duration>
+        <video:publication_date>2016-09-20T02:06:51.0284398+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-06102016</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e885/999f6854-3643-481b-a9d3-72d2fb6ee885/omstechfridayssession8dripchanges_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 06/10/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and focus on a way to address IP address changes during a failover using ASR &amp;#43; AA..  For more information about this series, go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e885/999f6854-3643-481b-a9d3-72d2fb6ee885/omstechfridayssession8dripchanges_mid.mp4</video:content_loc>
+        <video:duration>3223</video:duration>
+        <video:publication_date>2016-06-10T20:14:30.1467135+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-05272016</loc>
+      <lastmod>2016-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b13/5edc7912-1ae0-447c-b063-5901470d1b13/omstechfridayspowerbiLA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 05/27/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and details on PowerBI integration with Log Analytics.  For more information about this series, go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b13/5edc7912-1ae0-447c-b063-5901470d1b13/omstechfridayspowerbiLA_mid.mp4</video:content_loc>
+        <video:duration>3360</video:duration>
+        <video:publication_date>2016-05-27T20:31:08.6480669+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-05132016</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a6ef/7aae3863-1db8-493b-b3e7-b280e3d9a6ef/omstechfridaysvmwarebackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 05/13/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and details on VMware VM backup and recovery.  For more information about this series, go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6ef/7aae3863-1db8-493b-b3e7-b280e3d9a6ef/omstechfridaysvmwarebackup_mid.mp4</video:content_loc>
+        <video:duration>3562</video:duration>
+        <video:publication_date>2016-05-13T20:14:17.4694890+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-04292016</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6bf7/64d3c577-0b8d-4c0f-9339-4eb15f3f6bf7/Session5RS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 04/29/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and walkthrough of new RS (ASR) vault.  For more information about this series, please go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6bf7/64d3c577-0b8d-4c0f-9339-4eb15f3f6bf7/Session5RS_mid.mp4</video:content_loc>
+        <video:duration>3545</video:duration>
+        <video:publication_date>2016-04-30T20:13:50.1302120+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-04152016</loc>
+      <lastmod>2016-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7780/ea8c3427-37a0-490e-8b63-b87e0e657780/Session4AA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 04/15/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and details on Azure Automation.  For more information about this series, please go here.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7780/ea8c3427-37a0-490e-8b63-b87e0e657780/Session4AA_mid.mp4</video:content_loc>
+        <video:duration>3238</video:duration>
+        <video:publication_date>2016-04-21T15:46:28.7901896+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-04012016</loc>
+      <lastmod>2017-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc36/7d557ada-558f-4c40-9b5c-750556e2cc36/Session3LA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 04/01/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and details on Log Analytics.  For more information about this series, please go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc36/7d557ada-558f-4c40-9b5c-750556e2cc36/Session3LA_mid.mp4</video:content_loc>
+        <video:duration>3126</video:duration>
+        <video:publication_date>2016-04-21T15:46:19.3379097+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-03182016</loc>
+      <lastmod>2016-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7c3/40432f24-8469-458e-9b0a-79462a5ff7c3/Session2AB_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 03/18/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and details on Azure Backup.  For more information about this series, please go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7c3/40432f24-8469-458e-9b0a-79462a5ff7c3/Session2AB_mid.mp4</video:content_loc>
+        <video:duration>3531</video:duration>
+        <video:publication_date>2016-04-21T15:45:49.8788330+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/OMS-TECH-Fridays/OMS-Tech-Fridays-03042016</loc>
+      <lastmod>2016-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b96/eaade2b7-9653-44d7-9c43-d419f8e37b96/Session1ASR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS Tech Fridays 03/04/2016]]></video:title>
+        <video:description><![CDATA[In this session, we provide an OMS Overview and details on Azure Site Recovery.  For more information about this series, please go here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b96/eaade2b7-9653-44d7-9c43-d419f8e37b96/Session1ASR_mid.mp4</video:content_loc>
+        <video:duration>3602</video:duration>
+        <video:publication_date>2016-04-21T15:45:32.5097836+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

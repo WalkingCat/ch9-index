@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Shift-Your-ADFS-Workload-to-Azure</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Shift-Your-ADFS-Workload-to-Azure/Mod4</loc>
+      <lastmod>2018-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f81c/71779c2a-50c0-4609-a78e-f033bcd3f81c/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Monitoring and Maintaining]]></video:title>
+        <video:description><![CDATA[In this module we&#39;ll cover off how to monitor the Identity services, and the tools which are used to do this.  We will also run through some common issues with identity services and how to resolve&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f81c/71779c2a-50c0-4609-a78e-f033bcd3f81c/Mod4_mid.mp4</video:content_loc>
+        <video:duration>881</video:duration>
+        <video:publication_date>2014-12-19T14:01:42.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Shift-Your-ADFS-Workload-to-Azure/Mod3</loc>
+      <lastmod>2017-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/66af/4209d254-1786-4503-ba37-ff447d4e66af/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Building and Deploying ]]></video:title>
+        <video:description><![CDATA[In this module we&#39;ll cover off the tools and services that provide identity services and how we can use them to deploy these services to Azure.  At the end of the module there will be a short demo of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/66af/4209d254-1786-4503-ba37-ff447d4e66af/Mod3_mid.mp4</video:content_loc>
+        <video:duration>964</video:duration>
+        <video:publication_date>2014-12-19T14:00:42.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Shift-Your-ADFS-Workload-to-Azure/Mod2</loc>
+      <lastmod>2018-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c92c/d326fd0d-1723-44ba-98bf-7311b248c92c/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Planning and Design]]></video:title>
+        <video:description><![CDATA[In this module we&#39;ll cover off how to plan and design a solution to provide identity services in Azure that meets best practices. The module will also highlight the pros and cons of the different&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c92c/d326fd0d-1723-44ba-98bf-7311b248c92c/Mod2_mid.mp4</video:content_loc>
+        <video:duration>840</video:duration>
+        <video:publication_date>2014-12-16T05:02:48.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Shift-Your-ADFS-Workload-to-Azure/Mod1</loc>
+      <lastmod>2018-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be3d/7ef2da47-98fa-48f5-9854-81669ecdbe3d/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Basic Overview of ADFS &amp; Azure Identity]]></video:title>
+        <video:description><![CDATA[In this module we&#39;ll cover off what is meant by hybrid identity, the various types of identity, and the various tools provided by Microsoft which can be configured to provide the various identity&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be3d/7ef2da47-98fa-48f5-9854-81669ecdbe3d/Mod1_mid.mp4</video:content_loc>
+        <video:duration>746</video:duration>
+        <video:publication_date>2014-12-16T05:01:50.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

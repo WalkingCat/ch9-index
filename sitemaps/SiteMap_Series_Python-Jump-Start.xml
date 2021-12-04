@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start/Syntax-und-Semantik-von-Python</loc>
+      <lastmod>2015-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/98b7/ebd09f9b-7979-4c80-a18d-b8d0048898b7/SyntaxUndSemantikVonPython_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Syntax und Semantik von Python]]></video:title>
+        <video:description><![CDATA[In diesem Video lernt ihr, Code in Python zu schreiben. Dabei lernt ihr die Schreibweise der wichtigsten Bestandteile von Programmiersprachen kennen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/98b7/ebd09f9b-7979-4c80-a18d-b8d0048898b7/SyntaxUndSemantikVonPython_mid.mp4</video:content_loc>
+        <video:duration>1528</video:duration>
+        <video:publication_date>2015-08-21T07:58:08.6018037+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start/Wichtige-Bibliotheken</loc>
+      <lastmod>2015-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b03/e8ec3857-8087-468c-981e-9ba376315b03/WichtigeBibliotheken_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wichtige Bibliotheken]]></video:title>
+        <video:description><![CDATA[In diesem Video wird der Umgang mit Python Bibliotheken vorgestellt und der Umgang mit Erweiterung pylab, die hilfreich f&#252;r Python Programmierer ist. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b03/e8ec3857-8087-468c-981e-9ba376315b03/WichtigeBibliotheken_mid.mp4</video:content_loc>
+        <video:duration>826</video:duration>
+        <video:publication_date>2015-08-21T07:39:46.5752596+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start/Arbeit-mit-Dateien</loc>
+      <lastmod>2015-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f17a/d31f98a9-a9ce-47cd-9505-391b0fe1f17a/ArbeitMitDateien_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Arbeit mit Dateien]]></video:title>
+        <video:description><![CDATA[In diesem Video lernt ihr mit Dateien in Python zu arbeiten. Wir behandeln die Erstellung von Dateien und die Manipulation dieser. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f17a/d31f98a9-a9ce-47cd-9505-391b0fe1f17a/ArbeitMitDateien_mid.mp4</video:content_loc>
+        <video:duration>717</video:duration>
+        <video:publication_date>2015-08-21T07:39:33.5768013+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start/OOP-in-Python</loc>
+      <lastmod>2015-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/51d6/2dac9f40-3824-4e46-afec-1b72670d51d6/OOPInPython_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OOP in Python]]></video:title>
+        <video:description><![CDATA[In diesem Video werden kurz die Grundlagen von Klassen in Python vorgestellt und diese anhand einer &amp;quot;Vehicle&amp;quot;-Klasse gezeigt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/51d6/2dac9f40-3824-4e46-afec-1b72670d51d6/OOPInPython_mid.mp4</video:content_loc>
+        <video:duration>830</video:duration>
+        <video:publication_date>2015-08-21T07:39:15.3427154+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start/Arbeit-mit-Python-Tools</loc>
+      <lastmod>2015-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2cff/1b2516ea-4f6f-4321-b2a1-2623e6fd2cff/ArbeitMitPythonTools_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Arbeit mit Python Tools]]></video:title>
+        <video:description><![CDATA[Dieses Video macht euch kurz mit den Grundlagen zum Programmieren mit Python in Visual Studio vertraut und zeigt euch die Vorteile, die ihr durch diese Kooperation erhaltet. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2cff/1b2516ea-4f6f-4321-b2a1-2623e6fd2cff/ArbeitMitPythonTools_mid.mp4</video:content_loc>
+        <video:duration>503</video:duration>
+        <video:publication_date>2015-08-21T07:22:50.6207169+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Python-Jump-Start/Einfhrung-und-Installation</loc>
+      <lastmod>2015-08-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3083/4872ee79-b50f-4936-a470-f866b35e3083/1EinfuehrungUndInstallation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Einf&#252;hrung und Installation]]></video:title>
+        <video:description><![CDATA[In diesem ersten Video erkl&#228;re ich euch was Python ist, warum man damit arbeiten sollte und was wir zur Arbeit damit brauchen.           ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3083/4872ee79-b50f-4936-a470-f866b35e3083/1EinfuehrungUndInstallation_mid.mp4</video:content_loc>
+        <video:duration>408</video:duration>
+        <video:publication_date>2015-08-19T10:51:33.8594685+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

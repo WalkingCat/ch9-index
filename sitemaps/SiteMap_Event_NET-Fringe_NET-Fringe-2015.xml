@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/ScriptCS-with-Glenn-Block</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f3e/52e1ac1a-8509-441d-87e6-81e174a72f3e/GlennBlock2of2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ScriptCS with Glenn Block]]></video:title>
+        <video:description><![CDATA[In this interview I take some time learning about ScriptCS from Glenn Block. It is an interesting way of working with C# with a tighter development loop. It was an interesting interview that shows the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f3e/52e1ac1a-8509-441d-87e6-81e174a72f3e/GlennBlock2of2_mid.mp4</video:content_loc>
+        <video:duration>1664</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/Scott-talks-to-Maria-Naggaga-about-learning-ASPNET</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b3c0/bde3b125-b153-4bd6-bbad-6a900486b3c0/07DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Scott talks to Maria Naggaga about learning ASP.NET]]></video:title>
+        <video:description><![CDATA[  Scott Hanselman spent some time talking to Maria Naggaga, a Microsoft Evangelist that works with students. Her perspective on getting starting with web development and working with students is very&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b3c0/bde3b125-b153-4bd6-bbad-6a900486b3c0/07DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/Prism-for-XAML-with-Brian-Lagunas</loc>
+      <lastmod>2018-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e85/5f0416b1-42ce-43bc-9862-c44e13218e85/05DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Prism for XAML with Brian Lagunas]]></video:title>
+        <video:description><![CDATA[In this interview Brian breaks down the Prism library for building XAML applications. Microsoft recently open sourced Prism and put the community in charge of its direction. Brian happens to be one of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e85/5f0416b1-42ce-43bc-9862-c44e13218e85/05DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>682</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/Web-UI-Testing-with-F-and-Canopy</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/56fb/98d0d43d-1836-4e96-8c76-884b6a5f56fb/09DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web UI Testing with F# and Canopy]]></video:title>
+        <video:description><![CDATA[Amir spends some time showing how to do web UI testing using F# and Canopy. The interesting bit was the tight scripting-to-test loop he demonstrated. In essence he showed getting the tests scripted in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/56fb/98d0d43d-1836-4e96-8c76-884b6a5f56fb/09DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>335</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/Creating-Web-Applications-with-NancyFX</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1408/7eacb265-3c2c-4189-aa4b-52d549641408/03DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Web Applications with NancyFX]]></video:title>
+        <video:description><![CDATA[Adam Ralph was gracious enough to spend some time with me explaining NancyFX, an open source project for creating &amp;quot;lightweight, low-ceremony, framework for building HTTP based services on .Net&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1408/7eacb265-3c2c-4189-aa4b-52d549641408/03DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>896</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/CQRS-in-NET-with-Brighter</loc>
+      <lastmod>2018-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f071/65171d15-aba3-4f81-8fbf-90461c71f071/02DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CQRS in .NET with Brighter]]></video:title>
+        <video:description><![CDATA[In this video I had the privilege of talking to Ian Cooper about an open source project called Brighter. Brighter is built for scalable applications through the use of CQRS pattern. Its a truly&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f071/65171d15-aba3-4f81-8fbf-90461c71f071/02DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>1073</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/AutoMapper-and-Open-Source-with-Jimmy-Bogard</loc>
+      <lastmod>2015-12-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae5d/34a6017d-3706-405c-902e-e97a14eeae5d/01DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AutoMapper and Open Source with Jimmy Bogard]]></video:title>
+        <video:description><![CDATA[This was a fun one! I spent some time with Jimmy Bogard on his tremendously successful open source project called AutoMapper. If you have not heard of it then you have no doubt, like me, wasted&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae5d/34a6017d-3706-405c-902e-e97a14eeae5d/01DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>632</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/The-Actor-Programming-model-with-AKKANET</loc>
+      <lastmod>2016-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c89/96a254f3-e82b-41d1-ae55-e2c84ca34c89/08DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Actor Programming model with AKKA.NET]]></video:title>
+        <video:description><![CDATA[In this video Aaron takes me through the .NET implementation of Akka, a highly concurrent reactive programming model for building scalable systems. Akka.net uses the actor model to help facilitate the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c89/96a254f3-e82b-41d1-ae55-e2c84ca34c89/08DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>1266</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/Reactive-Programming-with-Amy-Palamountain</loc>
+      <lastmod>2018-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9fc6/bc9c8a9b-dc82-483e-a4b3-240515869fc6/06DotNetFringe06_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Programming with Amy Palamountain]]></video:title>
+        <video:description><![CDATA[Amy Palamountain breaks down reactive programming into its essence with both concrete examples as well as the mathematical foundations one can use to understand this style of programming. It was super&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fc6/bc9c8a9b-dc82-483e-a4b3-240515869fc6/06DotNetFringe06_mid.mp4</video:content_loc>
+        <video:duration>980</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/Working-wth-dynamic-types-in-C-with-Oak</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b962/a0ad9f26-b823-4aef-afd6-1c60382eb962/10DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with dynamic types in C# with Oak]]></video:title>
+        <video:description><![CDATA[For this interview I got to talk to Amir Rajan on dynamic types in C#. He showed a very interesting use case (working with databases and tables) for the dynamic type and introduced us to some open&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b962/a0ad9f26-b823-4aef-afd6-1c60382eb962/10DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>1461</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2015/F-and-MBrace</loc>
+      <lastmod>2018-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/68bd/0905983b-4349-4269-91fe-a871a07768bd/04DotNetFringe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F# and MBrace with Lena Dzenisenka]]></video:title>
+        <video:description><![CDATA[I had the privilege of talking with Lena at .NET Fringe about F# and MBrace. She is definitely a genius level software engineer (and I&#39;ve met a lot). She takes us through using MBrace to distribute&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/68bd/0905983b-4349-4269-91fe-a871a07768bd/04DotNetFringe_mid.mp4</video:content_loc>
+        <video:duration>354</video:duration>
+        <video:publication_date>2015-06-08T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

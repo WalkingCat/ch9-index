@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Power-BI-en-ambientes-empresariales</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Power-BI-en-ambientes-empresariales/Mdulo-III-Capacidades-adicionales-en-Power-BI</loc>
+      <lastmod>2017-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6c2c/a7ac14b5-c68a-491b-84aa-eb0ec2566c2c/PowerBIavanzadoMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Capacidades adicionales en Power BI]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan algunas capacidades adicionales en Power BI como dashboards en tiempo real, seguridad a nivel de fila, auditor&#237;a, etc. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c2c/a7ac14b5-c68a-491b-84aa-eb0ec2566c2c/PowerBIavanzadoMod3_mid.mp4</video:content_loc>
+        <video:duration>1403</video:duration>
+        <video:publication_date>2017-06-15T16:08:20.9223505+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Power-BI-en-ambientes-empresariales/Mdulo-II-Actualizacin-de-datos</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/24c6/29634bcb-ffc0-4d06-bd53-79023c9524c6/PowerBIMOd3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Actualizaci&#243;n de datos]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las capacidades de actualizaci&#243;n de datos (nube, locales) disponibles en Power BI. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/24c6/29634bcb-ffc0-4d06-bd53-79023c9524c6/PowerBIMOd3_mid.mp4</video:content_loc>
+        <video:duration>1502</video:duration>
+        <video:publication_date>2017-06-15T16:08:15.9154808+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Power-BI-en-ambientes-empresariales/Mdulo-I-Colaborar-en-Power-BI</loc>
+      <lastmod>2017-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2a49/a20c474e-d45b-4fef-8ab3-962a77f32a49/PowerBIMOd1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Colaborar en Power BI]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las caracter&#237;sticas de colaboraci&#243;n disponibles en Power BI. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a49/a20c474e-d45b-4fef-8ab3-962a77f32a49/PowerBIMOd1_mid.mp4</video:content_loc>
+        <video:duration>1210</video:duration>
+        <video:publication_date>2017-06-15T16:08:09.4404014+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

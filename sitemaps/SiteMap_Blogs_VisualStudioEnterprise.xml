@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VisualStudioEnterprise</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VisualStudioEnterprise/ReleaseManagement</loc>
+      <lastmod>2017-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8816/1293f9a4-783b-472b-a35a-ab0c31298816/ReleaseManagement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Release Management]]></video:title>
+        <video:description><![CDATA[En este video podr&#225;s ver c&#243;digo de ASP.NET Core compilado y probado desde una Mac con Visual Studio para consumir una API Restful hecha en Java que se desarroll&#243; en Eclipse haciendo push a un&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8816/1293f9a4-783b-472b-a35a-ab0c31298816/ReleaseManagement_mid.mp4</video:content_loc>
+        <video:duration>1761</video:duration>
+        <video:publication_date>2017-01-31T02:53:45.4491785+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VisualStudioEnterprise/IntelliTest</loc>
+      <lastmod>2019-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd07/3b90b318-505b-4b73-af3c-68f62129bd07/IntelliTest_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IntelliTest]]></video:title>
+        <video:description><![CDATA[En este video podemos conocer las caracter&#237;sticas de Visual Studio Enterprise con respecto a IntelliTest para creaci&#243;n automatizada de pruebas unitarias o Unit Test. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd07/3b90b318-505b-4b73-af3c-68f62129bd07/IntelliTest_mid.mp4</video:content_loc>
+        <video:duration>920</video:duration>
+        <video:publication_date>2016-12-12T19:22:35.5728379+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VisualStudioEnterprise/Code-Coverage</loc>
+      <lastmod>2017-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/094d/6ae9595c-6019-476b-b5a7-71fddf33094d/CodeCoverage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Code Coverage]]></video:title>
+        <video:description><![CDATA[En este video puedes ver las capacidades de Code Coverage y Unit Testing en Visual Studio Enterprise. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/094d/6ae9595c-6019-476b-b5a7-71fddf33094d/CodeCoverage_mid.mp4</video:content_loc>
+        <video:duration>785</video:duration>
+        <video:publication_date>2016-12-12T15:43:32.0222922+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

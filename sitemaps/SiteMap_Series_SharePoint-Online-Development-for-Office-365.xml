@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365/06</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c21e/7c4a8afa-0f8e-41e2-b73d-1e53ffc0c21e/544SharePointOnlineDevForO365M06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Online Development for Office 365: (06) Office 365 APIs]]></video:title>
+        <video:description><![CDATA[Close off the day, and Lab 4, by seeing the power of the Office 365 APIs. Find out how to manage contacts, files, and SharePoint sites. [01:15] - Connecting Calendar, Mail and Contacts[03:23] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c21e/7c4a8afa-0f8e-41e2-b73d-1e53ffc0c21e/544SharePointOnlineDevForO365M06_mid.mp4</video:content_loc>
+        <video:duration>1664</video:duration>
+        <video:publication_date>2015-03-29T16:14:03.8248281+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3574/57a586c7-0015-412f-9311-c8b0f9893574/544SharePointOnlineDevForO365M05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Online Development for Office 365: (05) Office 365 Authentication]]></video:title>
+        <video:description><![CDATA[Find out about using Office 365 as the back end for your application. Start by investigating how to manage authentication, and begin working through Lab 4 from the Office 365 DevCamp. [00:57] - Hook&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3574/57a586c7-0015-412f-9311-c8b0f9893574/544SharePointOnlineDevForO365M05_mid.mp4</video:content_loc>
+        <video:duration>2433</video:duration>
+        <video:publication_date>2015-03-29T16:13:52.5333281+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365/04</loc>
+      <lastmod>2018-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05b9/b8cc62ee-233d-4733-aa8f-ba30a81b05b9/544SharePointOnlineDevForO365M04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Online Development for Office 365: (04) Cross-Domain Library]]></video:title>
+        <video:description><![CDATA[When creating code that will run outside of SharePoint but will access SharePoint data, there are some potential security issues, so take a look at how they are addressed. Then, complete Lab 3.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05b9/b8cc62ee-233d-4733-aa8f-ba30a81b05b9/544SharePointOnlineDevForO365M04_mid.mp4</video:content_loc>
+        <video:duration>1739</video:duration>
+        <video:publication_date>2015-03-29T16:13:44.1817101+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365/03</loc>
+      <lastmod>2017-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c151/db8c6be6-e843-4ff0-a107-36a57fc9c151/544SharePointOnlineDevForO365M03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Online Development for Office 365: (03) OAuth]]></video:title>
+        <video:description><![CDATA[Since authentication for SharePoint apps is handled through OAuth, find out how to obtain and manage tokens by continuing through Lab 3. [01:43] - OAuth Concepts[13:20] - Programming OAuth[26:58] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c151/db8c6be6-e843-4ff0-a107-36a57fc9c151/544SharePointOnlineDevForO365M03_mid.mp4</video:content_loc>
+        <video:duration>2064</video:duration>
+        <video:publication_date>2015-03-29T16:13:34.5042470+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365/02</loc>
+      <lastmod>2018-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d9b/de10bd12-e1b4-4c3e-9e0f-a77f14a97d9b/544SharePointOnlineDevForO365M02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Online Development for Office 365: (02) Introduction to SharePoint Apps]]></video:title>
+        <video:description><![CDATA[See how​ ​SharePoint, both online and on-premises, can be extended through the use of apps. Explore how to create a SharePoint app, and walk through the first part of Lab 3 from the Office 365&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d9b/de10bd12-e1b4-4c3e-9e0f-a77f14a97d9b/544SharePointOnlineDevForO365M02_mid.mp4</video:content_loc>
+        <video:duration>1829</video:duration>
+        <video:publication_date>2015-03-29T16:13:22.3909482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SharePoint-Online-Development-for-Office-365/01</loc>
+      <lastmod>2018-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ca0/2754334a-3057-490d-a3f9-fb8789108ca0/544SharePointOnlineDevForO365M01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Online Development for Office 365: (01) Introduction to Office 365 Development]]></video:title>
+        <video:description><![CDATA[Get started with an overview of Office 365 and the opportunities that exist for developers. Find out how to create a developer tenant on Office 365 and where to obtain the necessary tools. [13:08] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ca0/2754334a-3057-490d-a3f9-fb8789108ca0/544SharePointOnlineDevForO365M01_mid.mp4</video:content_loc>
+        <video:duration>1972</video:duration>
+        <video:publication_date>2015-03-29T16:13:11.7322311+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

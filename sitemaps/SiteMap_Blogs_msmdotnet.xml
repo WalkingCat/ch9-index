@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Planes-de-App-Service</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/63ca/13b5c76e-35c9-40f9-aa74-614a0b3d63ca/01010400_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Planes de App Service]]></video:title>
+        <video:description><![CDATA[En este video se presenta una introducci&#243;n a los planes de App Service. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63ca/13b5c76e-35c9-40f9-aa74-614a0b3d63ca/01010400_mid.mp4</video:content_loc>
+        <video:duration>190</video:duration>
+        <video:publication_date>2017-04-14T04:01:17.1380356+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Tipos-de-aplicaciones-en-App-Service</loc>
+      <lastmod>2017-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/031e/c5fee2e7-5ade-4445-930b-4339f722031e/01010300_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tipos de aplicaciones en App Service]]></video:title>
+        <video:description><![CDATA[En este video se describen los distintos tipos de aplicaciones que ofrece App Service, cada uno pensado para hospedar una carga de trabajo espec&#237;fica. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/031e/c5fee2e7-5ade-4445-930b-4339f722031e/01010300_mid.mp4</video:content_loc>
+        <video:duration>135</video:duration>
+        <video:publication_date>2017-04-14T04:00:57.2592611+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Por-qu-usar-App-Service</loc>
+      <lastmod>2017-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6c43/deb7f2a3-9818-4395-95e9-7ad140a56c43/01010200_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&#191;Por qu&#233; usar App Service?]]></video:title>
+        <video:description><![CDATA[En este video se describen algunas de las caracter&#237;sticas y funcionalidades principales de App Service. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c43/deb7f2a3-9818-4395-95e9-7ad140a56c43/01010200_mid.mp4</video:content_loc>
+        <video:duration>178</video:duration>
+        <video:publication_date>2017-04-14T04:00:45.8868193+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Qu-es-App-Service</loc>
+      <lastmod>2017-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4691/f3136758-fda4-49f8-a087-9aed9ba94691/01010100_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&#191;Qu&#233; es App Service?]]></video:title>
+        <video:description><![CDATA[Este video presenta una introducci&#243;n a Microsoft Azure App Service.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4691/f3136758-fda4-49f8-a087-9aed9ba94691/01010100_mid.mp4</video:content_loc>
+        <video:duration>321</video:duration>
+        <video:publication_date>2017-04-14T04:00:28.1178226+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Informacin-general-sobre-Azure-App-Service</loc>
+      <lastmod>2020-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9fda/aeab5a8a-18e3-4b4b-bc67-9176574b9fda/01010000_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Informaci&#243;n general sobre Azure App Service]]></video:title>
+        <video:description><![CDATA[Este video presenta una introducci&#243;n a la lecci&#243;n &amp;quot;Informaci&#243;n general sobre Azure App Service&amp;quot; ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fda/aeab5a8a-18e3-4b4b-bc67-9176574b9fda/01010000_mid.mp4</video:content_loc>
+        <video:duration>75</video:duration>
+        <video:publication_date>2017-04-14T04:00:10.0943270+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Introduccin-a-Azure-App-Service</loc>
+      <lastmod>2017-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bba9/a5e202f5-d806-4662-a2be-f7a52f0abba9/01000000_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a Azure App Service]]></video:title>
+        <video:description><![CDATA[Este video presenta una introducci&#243;n al m&#243;dulo &amp;quot;Introducci&#243;n a Azure App Service&amp;quot;.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bba9/a5e202f5-d806-4662-a2be-f7a52f0abba9/01000000_mid.mp4</video:content_loc>
+        <video:duration>259</video:duration>
+        <video:publication_date>2017-04-14T03:58:55.9633195+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/010204</loc>
+      <lastmod>2020-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fb3/24525b19-2199-4c51-a634-9199b0fd5fb3/xamarin010204_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&#191;Una panacea multiplataforma?]]></video:title>
+        <video:description><![CDATA[Para la mayor parte, Xamarin.Forms define sus abstracciones con enfoque en &#225;reas de la interfaz de usuario m&#243;vil que son comunes a las APIs de iOS, Android y Windows. Aunque los objetos visuales de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fb3/24525b19-2199-4c51-a634-9199b0fd5fb3/xamarin010204_mid.mp4</video:content_loc>
+        <video:duration>138</video:duration>
+        <video:publication_date>2016-10-14T04:17:06.7263063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin</loc>
+      <lastmod>2017-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95ae/2a78013e-32b5-403d-be97-06db489595ae/00000000_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creando Aplicaciones M&#243;viles con Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[Este video proporciona una introducci&#243;n al contenido del curso &amp;quot;Creando Aplicaciones M&#243;viles con Xamarin.Forms&amp;quot;. ContenidoM&#243;dulo 1: &#191;Qu&#233; es Xamarin.Forms? Lecci&#243;n 1: Desarrollo de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95ae/2a78013e-32b5-403d-be97-06db489595ae/00000000_mid.mp4</video:content_loc>
+        <video:duration>353</video:duration>
+        <video:publication_date>2016-10-12T14:59:31.6246691+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin010203</loc>
+      <lastmod>2016-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/778a/888c47a0-6723-45e5-9ac5-26d901e3778a/xamarin010203_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Especificaci&#243;n de la plataforma]]></video:title>
+        <video:description><![CDATA[Xamarin.Forms ofrece diversas t&#233;cnicas para introducir especificaciones propias de cada plataforma dentro de c&#243;digo C# o de marcado XAML. Esto es &#250;til debido a que cada plataforma podr&#237;a generar una&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/778a/888c47a0-6723-45e5-9ac5-26d901e3778a/xamarin010203_mid.mp4</video:content_loc>
+        <video:duration>118</video:duration>
+        <video:publication_date>2016-10-12T14:48:58.8803706+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/010202</loc>
+      <lastmod>2016-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/55d3/608b4a64-171f-46ac-9325-9e158eab55d3/xamarin010202_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Soporte XAML]]></video:title>
+        <video:description><![CDATA[Xamarin.Forms tambi&#233;n soporta XAML, el lenguaje de marcado extensible basado en XML desarrollado por Microsoft como un lenguaje de marcado de prop&#243;sito general para instanciar e inicializar objetos.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/55d3/608b4a64-171f-46ac-9325-9e158eab55d3/xamarin010202_mid.mp4</video:content_loc>
+        <video:duration>76</video:duration>
+        <video:publication_date>2016-10-12T14:48:13.5367480+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin010201</loc>
+      <lastmod>2016-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6bcf/939a3bf6-d837-4f3e-b2a5-f7ffbbcd6bcf/xamarin010201_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[La opci&#243;n Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[Xamarin.Forms soporta 5 plataformas de aplicaciones distintas: iOS para programas que se ejecutan sobre iPhone, iPad y iPod Touch.Android para programas que se ejecutan sobre tel&#233;fonos y tabletas&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6bcf/939a3bf6-d837-4f3e-b2a5-f7ffbbcd6bcf/xamarin010201_mid.mp4</video:content_loc>
+        <video:duration>384</video:duration>
+        <video:publication_date>2016-10-12T14:47:30.8209828+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin0102</loc>
+      <lastmod>2016-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3797/69adcc66-5851-42c3-a466-00011bef3797/xamarin0102_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lecci&#243;n 2: Introducci&#243;n a Xamarin.Forms ]]></video:title>
+        <video:description><![CDATA[En mayo 28 de 2014, Xamarin introdujo Xamarin.Forms que permite a los desarrolladores escribir c&#243;digo de interfaz de usuario que puede ser compilado para dispositivos iOS, Android y Windows. En esta&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3797/69adcc66-5851-42c3-a466-00011bef3797/xamarin0102_mid.mp4</video:content_loc>
+        <video:duration>114</video:duration>
+        <video:publication_date>2016-10-12T14:46:44.5517527+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin010103</loc>
+      <lastmod>2018-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ee5/e5c1f8e9-d409-4926-b5ab-1c1291d02ee5/xamarin010103_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[La soluci&#243;n C# y .NET]]></video:title>
+        <video:description><![CDATA[Al igual que Java, C# es un lenguaje influenciado por C&amp;#43;&amp;#43; pero con una sintaxis m&#225;s clara. Anunciado en el a&#241;o 2000, C# es un lenguaje relativamente nuevo en comparaci&#243;n con Objective-C y&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ee5/e5c1f8e9-d409-4926-b5ab-1c1291d02ee5/xamarin010103_mid.mp4</video:content_loc>
+        <video:duration>864</video:duration>
+        <video:publication_date>2016-10-12T14:45:45.0883498+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin010102</loc>
+      <lastmod>2016-12-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b70/acc7ff65-f088-4f64-be0e-d2bfe42a3b70/xamarin010102_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Obst&#225;culos en el desarrollo de aplicaciones multiplataforma]]></video:title>
+        <video:description><![CDATA[Existen 4 obst&#225;culos principales a los que los desarrolladores de aplicaciones multiplataforma deben enfrentarse: Diferentes paradigmas de Interfaz de Usuario.Diferentes ambientes de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b70/acc7ff65-f088-4f64-be0e-d2bfe42a3b70/xamarin010102_mid.mp4</video:content_loc>
+        <video:duration>327</video:duration>
+        <video:publication_date>2016-10-12T14:44:12.1205349+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin010101</loc>
+      <lastmod>2016-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9815/7258798a-3195-4cde-bf17-d489701e9815/xamarin010101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[El panorama m&#243;vil]]></video:title>
+        <video:description><![CDATA[En la actualidad, predominan tres plataformas m&#243;viles de tabletas y tel&#233;fonos inteligentes: La familia Apple de tel&#233;fonos iPhone y de tabletas iPad, todos ellos ejecutando el sistema operativo iOS.El&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9815/7258798a-3195-4cde-bf17-d489701e9815/xamarin010101_mid.mp4</video:content_loc>
+        <video:duration>115</video:duration>
+        <video:publication_date>2016-10-12T14:42:47.2080486+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin0101</loc>
+      <lastmod>2017-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/834b/b410532e-3d57-4e3c-a545-53e977ca834b/xamarin0101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lecci&#243;n 1: Desarrollo de aplicaciones m&#243;viles multiplataforma ]]></video:title>
+        <video:description><![CDATA[La industria de la computaci&#243;n crece constantemente d&#237;a tras d&#237;a. Los equipos de escritorio nos permiten realizar tareas que requieren teclados y grandes pantallas, sin embargo, muchas de las tareas&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/834b/b410532e-3d57-4e3c-a545-53e977ca834b/xamarin0101_mid.mp4</video:content_loc>
+        <video:duration>133</video:duration>
+        <video:publication_date>2016-10-12T14:41:24.6519252+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/xamarin01</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/892e/a6666e82-4f8c-4371-ba3c-487548e7892e/xamarin01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo 1: &#191;Qu&#233; es Xamarin.Forms?]]></video:title>
+        <video:description><![CDATA[Acerca del m&#243;duloAntes de empezar a desarrollar aplicaciones multiplataforma con Xamarin, es importante conocer qu&#233; es exactamente Xamarin y Xamarin.Forms. En este m&#243;dulo, se presenta una introducci&#243;n&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/892e/a6666e82-4f8c-4371-ba3c-487548e7892e/xamarin01_mid.mp4</video:content_loc>
+        <video:duration>106</video:duration>
+        <video:publication_date>2016-10-12T14:40:06.6556903+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/01010100</loc>
+      <lastmod>2018-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/963c/5a0a02e0-8bfc-44df-875f-59244842963c/01010100_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a la Programaci&#243;n. 1.1.1. Sistemas num&#233;ricos de la computadora]]></video:title>
+        <video:description><![CDATA[En este video, se describe el tema Sistemas num&#233;ricos de la computadora perteneciente a la lecci&#243;n 1 del m&#243;dulo 1 del entrenamiento Introducci&#243;n a la programaci&#243;n.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/963c/5a0a02e0-8bfc-44df-875f-59244842963c/01010100_mid.mp4</video:content_loc>
+        <video:duration>3533</video:duration>
+        <video:publication_date>2016-02-17T03:05:18.3931001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/01010000</loc>
+      <lastmod>2016-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bed2/de8019a9-97d0-4758-a4e2-437a14e2bed2/01010000_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a la Programaci&#243;n. 1.1.0 Procesamiento y Almacenamiento de datos en una computadora]]></video:title>
+        <video:description><![CDATA[En este video, se describe el contenido de la Lecci&#243;n 1: Procesamiento y Almacenamiento de datos en una computadora del M&#243;dulo 1 del entrenamiento Introducci&#243;n a la Programaci&#243;n.     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bed2/de8019a9-97d0-4758-a4e2-437a14e2bed2/01010000_mid.mp4</video:content_loc>
+        <video:duration>83</video:duration>
+        <video:publication_date>2016-02-17T03:04:55.7140858+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/01000000</loc>
+      <lastmod>2016-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c4b/6df93d61-2f65-4f81-9dad-1758b9b50c4b/01000000_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a la programaci&#243;n. 1. Contenido]]></video:title>
+        <video:description><![CDATA[En este video, se describe el contenido del M&#243;dulo 1: Conceptos b&#225;sicos de la Programaci&#243;n del entrenamiento Introducci&#243;n a la Programaci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c4b/6df93d61-2f65-4f81-9dad-1758b9b50c4b/01000000_mid.mp4</video:content_loc>
+        <video:duration>316</video:duration>
+        <video:publication_date>2016-02-17T03:02:53.5117570+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/introprog00000000</loc>
+      <lastmod>2017-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e00/ed955a8b-f292-40c8-b022-f3c9e3004e00/introprog00000000_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a la Programaci&#243;n - Contenido]]></video:title>
+        <video:description><![CDATA[Hola que tal, mi nombre es Miguel Mu&#241;oz Seraf&#237;n, me acompa&#241;a Abigail Huerta de los Santos y con este video iniciamos el entrenamiento virtual &amp;quot;Introducci&#243;n a la Programaci&#243;n&amp;quot;. Este&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e00/ed955a8b-f292-40c8-b022-f3c9e3004e00/introprog00000000_mid.mp4</video:content_loc>
+        <video:duration>1725</video:duration>
+        <video:publication_date>2016-01-27T05:14:03.5084233+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/Back-To-Basics-Desarrollando-mi-primera-aplicacin-C</loc>
+      <lastmod>2017-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c51/d5cdce5e-f559-4430-bdd8-919fbc468c51/b2b01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Back To Basics: Desarrollando mi primera aplicaci&#243;n C#]]></video:title>
+        <video:description><![CDATA[Hola que tal, mi nombre es Miguel Mu&#241;oz Seraf&#237;n y en esta ocasi&#243;n me acompa&#241;a Mariana Herrera G&#243;mez para presentarles el tema &amp;quot;Desarrollando mi primera aplicaci&#243;n en C#&amp;quot; de la serie Back To&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c51/d5cdce5e-f559-4430-bdd8-919fbc468c51/b2b01_mid.mp4</video:content_loc>
+        <video:publication_date>2016-01-15T00:10:17.9525548+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs611</loc>
+      <lastmod>2016-09-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4fcf/a241819b-2f9b-49c5-977e-87bfc1d54fcf/cs611_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Miembros con una Expresi&#243;n como cuerpo  (Expression-bodied function&amp;#8230;]]></video:title>
+        <video:description><![CDATA[En este video, se muestra el uso de la caracter&#237;stica que nos permite definir el cuerpo de un Miembro de una clase con una sintaxis similar a la de una expresi&#243;n lambda. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4fcf/a241819b-2f9b-49c5-977e-87bfc1d54fcf/cs611_mid.mp4</video:content_loc>
+        <video:duration>674</video:duration>
+        <video:publication_date>2015-08-14T00:01:29.1472384+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs610</loc>
+      <lastmod>2016-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d9e/0a305b6d-00ea-43e2-b79b-38ef09931d9e/cs610_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Propiedades Auto-implementadas de s&#243;lo lectura]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la caracter&#237;stica Propiedades Auto-implementadas de s&#243;lo lectura. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d9e/0a305b6d-00ea-43e2-b79b-38ef09931d9e/cs610_mid.mp4</video:content_loc>
+        <video:duration>254</video:duration>
+        <video:publication_date>2015-08-13T00:06:51.8344216+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs609</loc>
+      <lastmod>2015-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cf2c/f6ca99f4-5e41-4236-9478-4b9365edcf2c/cs609_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Inicializadores para propiedades Auto-Implementadas]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la funcionalidad de los Inicializadores para propiedades Auto-Implementadas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf2c/f6ca99f4-5e41-4236-9478-4b9365edcf2c/cs609_mid.mp4</video:content_loc>
+        <video:duration>406</video:duration>
+        <video:publication_date>2015-08-12T23:27:42.7865369+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs608</loc>
+      <lastmod>2015-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab2f/6b3d3571-79de-4b47-829f-6da5c774ab2f/cs608_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Filtros de Excepci&#243;n  (Exception filters)]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la funcionalidad de la caracter&#237;stica Filtros de Excepci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab2f/6b3d3571-79de-4b47-829f-6da5c774ab2f/cs608_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2015-08-12T22:27:05.2216517+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs607</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e82/ab0430ba-37e2-445f-9c57-cbc174cd6e82/cs607_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Uso del operador await en bloques catch y finally]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la capacidad de poder utilizar el operador await en bloques catch y finally. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e82/ab0430ba-37e2-445f-9c57-cbc174cd6e82/cs607_mid.mp4</video:content_loc>
+        <video:duration>542</video:duration>
+        <video:publication_date>2015-08-12T20:50:28.7933490+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs606</loc>
+      <lastmod>2015-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03d5/dec9903b-1a90-441d-a8d3-ec62064b03d5/cs606_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: using static]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la funcionalidad de la caracter&#237;stica using static. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03d5/dec9903b-1a90-441d-a8d3-ec62064b03d5/cs606_mid.mp4</video:content_loc>
+        <video:duration>664</video:duration>
+        <video:publication_date>2015-08-12T19:53:38.2755178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs604</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/347d/4098dbcf-dfd7-4440-bb30-a4d86a37347d/cs604_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Operador Null-Conditional ]]></video:title>
+        <video:description><![CDATA[En este video, se muestra el uso del operador Null-conditional. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/347d/4098dbcf-dfd7-4440-bb30-a4d86a37347d/cs604_mid.mp4</video:content_loc>
+        <video:duration>1794</video:duration>
+        <video:publication_date>2015-08-11T14:09:36.3026749+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs605</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0089/b10a8643-317f-4678-a232-5a7a99b50089/cs605_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Interpolaci&#243;n de Cadenas  (String interpolation)]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la caracter&#237;stica Interpolaci&#243;n de Cadenas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0089/b10a8643-317f-4678-a232-5a7a99b50089/cs605_mid.mp4</video:content_loc>
+        <video:duration>665</video:duration>
+        <video:publication_date>2015-08-11T01:09:36.0166516+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs603</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/baed/2aab4519-6a39-4c48-8d63-d61b53fbbaed/cs603_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Expresiones Nameof]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la funcionalidad del operador nameof. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/baed/2aab4519-6a39-4c48-8d63-d61b53fbbaed/cs603_mid.mp4</video:content_loc>
+        <video:duration>1075</video:duration>
+        <video:publication_date>2015-08-11T00:35:28.1363365+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs602</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/32ff/ae4d680f-6c5f-437a-8ef0-c1cde0bf32ff/cs602_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: Inicializadores de &#205;ndice  (Index initializers)]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la nueva caracter&#237;stica de C# 6 Inicializadores de &#205;ndice que nos permite inicializar objetos permitiendo establecer valores a llaves a trav&#233;s de cualquier Indizador&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/32ff/ae4d680f-6c5f-437a-8ef0-c1cde0bf32ff/cs602_mid.mp4</video:content_loc>
+        <video:duration>748</video:duration>
+        <video:publication_date>2015-08-11T00:16:16.0503992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/cs601</loc>
+      <lastmod>2015-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8018/be6199a3-4594-4cb7-85cf-4ddac98b8018/cs01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nuevas caracter&#237;sticas en C# 6: M&#233;todos de extensi&#243;n Add en Inicializadores de Colecciones]]></video:title>
+        <video:description><![CDATA[En este video, se muestra la funcionalidad de la caracter&#237;stica del uso de M&#233;todos de Extensi&#243;n Add en Inicializadores de Colecciones. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8018/be6199a3-4594-4cb7-85cf-4ddac98b8018/cs01_mid.mp4</video:content_loc>
+        <video:duration>356</video:duration>
+        <video:publication_date>2015-08-11T00:15:24.2927252+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev16</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3987/1852b485-e849-4597-ba9b-9cfa3a343987/win10dev16_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Presentando a Template 10]]></video:title>
+        <video:description><![CDATA[En este video se describe el prop&#243;sito del proyecto Template 10 relacionado con el desarrollo de aplicaciones para la Plataforma Universal de Windows. Video anterior: Microsoft .NET Native   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3987/1852b485-e849-4597-ba9b-9cfa3a343987/win10dev16_mid.mp4</video:content_loc>
+        <video:duration>84</video:duration>
+        <video:publication_date>2015-07-30T19:11:04.3080978+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev15</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0d92/38230bc7-52cf-49a8-aae3-4000b33c0d92/win10dev15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Microsoft .NET Native]]></video:title>
+        <video:description><![CDATA[En este video se describe el nuevo compilador de la siguiente generaci&#243;n en la Nube: .NET Native. Video anterior: IDE Visual Studio Siguiente video: Presentando a &amp;quot;Template 10&amp;quot; ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0d92/38230bc7-52cf-49a8-aae3-4000b33c0d92/win10dev15_mid.mp4</video:content_loc>
+        <video:duration>149</video:duration>
+        <video:publication_date>2015-07-30T19:10:10.5651707+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev14</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e81/7efa00cf-01ea-4128-aab0-9a1bd8402e81/win10dev14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: IDE Visual Studio]]></video:title>
+        <video:description><![CDATA[En este video se describen las herramientas y recursos principales disponibles para desarrollar aplicaciones para la Plataforma Universal de Windows. Video anterior: C&#243;digo Adaptativo Siguiente video:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e81/7efa00cf-01ea-4128-aab0-9a1bd8402e81/win10dev14_mid.mp4</video:content_loc>
+        <video:duration>329</video:duration>
+        <video:publication_date>2015-07-30T17:13:54.2229109+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev13</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f489/9648070a-8e8a-444a-a802-91193a3af489/win10dev13_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: C&#243;digo Adaptativo]]></video:title>
+        <video:description><![CDATA[En este video se muestra un ejemplo de c&#243;digo adaptativo. Video anterior: C&#243;digo Adaptativo Video siguiente: IDE Visual Studio ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f489/9648070a-8e8a-444a-a802-91193a3af489/win10dev13_mid.mp4</video:content_loc>
+        <video:duration>734</video:duration>
+        <video:publication_date>2015-07-30T04:48:35.0661730+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev12</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4fa1/f903e275-3319-4db5-a31f-b06fc2dd4fa1/win10dev12_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: C&#243;digo Adaptativo]]></video:title>
+        <video:description><![CDATA[En este video se describe el concepto de c&#243;digo adaptativo. Video anterior: Dise&#241;o Adaptativo  Siguiente video: C&#243;digo Adaptativo   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4fa1/f903e275-3319-4db5-a31f-b06fc2dd4fa1/win10dev12_mid.mp4</video:content_loc>
+        <video:duration>286</video:duration>
+        <video:publication_date>2015-07-30T01:01:15.0363215+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev11</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b76/093f5f13-25b9-4610-ad9c-d61b3b128b76/win10dev11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Dise&#241;o Adaptativo ]]></video:title>
+        <video:description><![CDATA[En este video se muestra un ejemplo de c&#243;mo crear un dise&#241;o adaptativo. Video anterior: Dise&#241;o Adaptativo Siguiente video: C&#243;digo Adaptativo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b76/093f5f13-25b9-4610-ad9c-d61b3b128b76/win10dev11_mid.mp4</video:content_loc>
+        <video:duration>2043</video:duration>
+        <video:publication_date>2015-07-29T23:18:32.3173844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev10</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0d74/7d739166-1c5a-4da2-9409-e25d9e060d74/win10dev10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Dise&#241;o Adaptativo]]></video:title>
+        <video:description><![CDATA[En este video se describen algunas de las opciones disponibles para crear aplicaciones Windows Adaptativas y Responsivas. Video anterior: Tecnolog&#237;as Puente (bridge technologies) Siguiente video:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0d74/7d739166-1c5a-4da2-9409-e25d9e060d74/win10dev10_mid.mp4</video:content_loc>
+        <video:duration>427</video:duration>
+        <video:publication_date>2015-07-29T20:01:55.0302960+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev09</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ddcf/9fe789fd-a4b9-470c-b4bb-51ecaed8ddcf/win10dev09_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Tecnolog&#237;as Puente (bridge technologies)]]></video:title>
+        <video:description><![CDATA[En este video se describen las tecnolog&#237;as puente disponibles para crear versiones de aplicaciones para la Plataforma Universal de Windows. Video anterior: Tecnolog&#237;as Microsoft para desarrollo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ddcf/9fe789fd-a4b9-470c-b4bb-51ecaed8ddcf/win10dev09_mid.mp4</video:content_loc>
+        <video:duration>172</video:duration>
+        <video:publication_date>2015-07-29T03:47:50.3833996+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev08</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6fc0/3b7fa698-483c-46f7-91e8-4cea4e7c6fc0/win10dev08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Tecnolog&#237;as Microsoft para desarrollo]]></video:title>
+        <video:description><![CDATA[En este video se describen los distintos tipos de aplicaciones que pueden desarrollarse en Windows 10. Video anterior: Resumen Siguiente video: Tecnolog&#237;as Puente (bridge technologies) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6fc0/3b7fa698-483c-46f7-91e8-4cea4e7c6fc0/win10dev08_mid.mp4</video:content_loc>
+        <video:duration>150</video:duration>
+        <video:publication_date>2015-07-29T03:23:15.4998809+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev07</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b0f/5328c8e1-4ee9-4c01-bab0-ff847e327b0f/win10dev07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Resumen]]></video:title>
+        <video:description><![CDATA[En este video se presenta un resumen de la Plataforma Universal de Windows. Video anterior: Extensiones de la Plataforma Siguiente video: Tecnolog&#237;as Microsoft para desarrollo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b0f/5328c8e1-4ee9-4c01-bab0-ff847e327b0f/win10dev07_mid.mp4</video:content_loc>
+        <video:duration>57</video:duration>
+        <video:publication_date>2015-07-29T03:01:35.2277622+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev06</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a0a6/46188396-209f-4d2c-9ed5-7607c82aa0a6/win10dev06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Extensiones de la Plataforma]]></video:title>
+        <video:description><![CDATA[En este video se explica la forma de extender la funcionalidad de una aplicaci&#243;n de la Plataforma Universal de Windows a trav&#233;s del uso de SDKs de Extensi&#243;n. Video anterior: Aplicaci&#243;n Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a0a6/46188396-209f-4d2c-9ed5-7607c82aa0a6/win10dev06_mid.mp4</video:content_loc>
+        <video:duration>247</video:duration>
+        <video:publication_date>2015-07-29T01:54:30.7454673+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev05</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8eb8/cf153ba6-3637-4ce4-bb5b-fb426c628eb8/win10dev05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Aplicaci&#243;n Windows]]></video:title>
+        <video:description><![CDATA[En este video se describen las caracter&#237;sticas de las Aplicaciones para la Plataforma Universal de Windows. Video anterior: Hola, Dispositivos  Siguiente video: Extensiones de la Plataforma ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8eb8/cf153ba6-3637-4ce4-bb5b-fb426c628eb8/win10dev05_mid.mp4</video:content_loc>
+        <video:duration>173</video:duration>
+        <video:publication_date>2015-07-29T00:55:08.1299125+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev04</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89fb/6bdb742a-9eb7-49de-8b76-c686282889fb/win10dev04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Hola, Dispositivos]]></video:title>
+        <video:description><![CDATA[En este video se muestra la nueva forma de desarrollar aplicaciones para la Plataforma Universal de Windows que nos permite desplegar el mismo binario de la aplicaci&#243;n a distintas familias de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89fb/6bdb742a-9eb7-49de-8b76-c686282889fb/win10dev04_mid.mp4</video:content_loc>
+        <video:duration>1258</video:duration>
+        <video:publication_date>2015-07-29T00:20:03.3951373+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev03</loc>
+      <lastmod>2015-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb63/22701198-d9ad-4429-9842-4047a30cbb63/win10dev03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: La Plataforma Universal de Windows]]></video:title>
+        <video:description><![CDATA[En este video se describen los beneficios que proporciona la Plataforma Universal de Windows a los desarrolladores. Video anterior: El viaje de convergencia Video siguiente: Hola, Dispositivos   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb63/22701198-d9ad-4429-9842-4047a30cbb63/win10dev03_mid.mp4</video:content_loc>
+        <video:duration>185</video:duration>
+        <video:publication_date>2015-07-28T22:55:52.0391978+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/win10dev02</loc>
+      <lastmod>2015-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2bc/7bf40ca0-fda7-4f45-b672-b17341a8e2bc/windev02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: El viaje de convergencia]]></video:title>
+        <video:description><![CDATA[En este video se describe la evoluci&#243;n de los sistemas operativos Microsoft y la forma en que se ha logrado la convergencia de ellos dando como resultado a Windows 10. Video anterior: Presentando a la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2bc/7bf40ca0-fda7-4f45-b672-b17341a8e2bc/windev02_mid.mp4</video:content_loc>
+        <video:duration>311</video:duration>
+        <video:publication_date>2015-07-28T20:18:03.4800019+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msmdotnet/windev01</loc>
+      <lastmod>2015-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2954/b288269d-293c-4f2b-882d-aabd56ed2954/windev01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Developer Readiness: Presentando a la Plataforma Universal de Windows]]></video:title>
+        <video:description><![CDATA[En este video se describe la Plataforma Universal de Windows. Siguiente video: El viaje de convergencia   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2954/b288269d-293c-4f2b-882d-aabd56ed2954/windev01_mid.mp4</video:content_loc>
+        <video:duration>602</video:duration>
+        <video:publication_date>2015-07-28T16:09:02.8779131+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

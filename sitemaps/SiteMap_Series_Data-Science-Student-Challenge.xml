@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Science-Student-Challenge</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Science-Student-Challenge/ENSAE-ParisTech-DSSC</loc>
+      <lastmod>2019-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/deeb/ef35e33c-3379-407f-b861-076a0cbedeeb/HackathonENSAEParis_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ENSAE ParisTech - DSSC]]></video:title>
+        <video:description><![CDATA[Watch the students at ENSAE ParisTech help the Red Cross have greater impact with their relief missions. Real data &amp;#43; real problems = real opportunities for learning and community. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/deeb/ef35e33c-3379-407f-b861-076a0cbedeeb/HackathonENSAEParis_mid.mp4</video:content_loc>
+        <video:duration>135</video:duration>
+        <video:publication_date>2016-03-17T20:57:09.7941727+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Science-Student-Challenge/Columbia-University-DSSC</loc>
+      <lastmod>2017-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d492/4c9176ca-6252-4574-8463-eae64879d492/ColumbiaDSSC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Columbia University DSSC]]></video:title>
+        <video:description><![CDATA[Columbia University and Microsoft take students from across multiple disciplines and use a hackathon format to introduce them to the Data Science discipline. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d492/4c9176ca-6252-4574-8463-eae64879d492/ColumbiaDSSC_mid.mp4</video:content_loc>
+        <video:duration>181</video:duration>
+        <video:publication_date>2016-02-26T21:35:59.0666338+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/using-apps-with-Microsoft-Azure-RemoteApp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/using-apps-with-Microsoft-Azure-RemoteApp/hybrid-deployment</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d877/5106d7e4-d3fe-4430-beeb-a22f7031d877/HybridDeployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ ]]></video:title>
+        <video:description><![CDATA[В гибридно&amp;#1084; варианте ИТ-ад&amp;#1084;инистратор готовит и загружает на портал Microsoft Azure VHD-файл с образо&amp;#1084; ОС и требуе&amp;#1084;ы&amp;#1084;и приложения&amp;#1084;и. Эти приложения связываются с&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d877/5106d7e4-d3fe-4430-beeb-a22f7031d877/HybridDeployment_mid.mp4</video:content_loc>
+        <video:duration>2765</video:duration>
+        <video:publication_date>2014-12-16T12:07:59.8122759+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/using-apps-with-Microsoft-Azure-RemoteApp/cloud-deployment</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95fe/7ed7da01-13fa-4130-9b54-220dfdaf95fe/CloudDeployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ ]]></video:title>
+        <video:description><![CDATA[В докладе обсуждается облачный вариант развертывания Microsoft Azure RemoteApp. Этот вариант не предполагает связи публикуе&amp;#1084;ых приложений с корпоративной сетью. Однако, это&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95fe/7ed7da01-13fa-4130-9b54-220dfdaf95fe/CloudDeployment_mid.mp4</video:content_loc>
+        <video:duration>1162</video:duration>
+        <video:publication_date>2014-12-16T12:07:43.4876829+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/using-apps-with-Microsoft-Azure-RemoteApp/technical-overview-Microsoft-Azure-RemoteApp</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9015/85ec5839-685d-4109-9826-2c1d71779015/TechnicalOverviewRemoteApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  Microsoft Azure RemoteApp]]></video:title>
+        <video:description><![CDATA[Из этого доклада вы узнаете, что собой представляет сервис Microsoft Azure RemoteApp, какие задачи он призван решать, и как выглядит использование этого сервиса для конечного потребителя ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9015/85ec5839-685d-4109-9826-2c1d71779015/TechnicalOverviewRemoteApp_mid.mp4</video:content_loc>
+        <video:duration>1251</video:duration>
+        <video:publication_date>2014-12-16T12:07:42.3834558+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

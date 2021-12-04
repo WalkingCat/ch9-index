@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f852/860614dd-8295-4c70-8f22-e12711ddf852/383GameDevFunSoundsShadersM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Fun with Sounds and Shaders: (04) Gameplay Expansions]]></video:title>
+        <video:description><![CDATA[Expand the features of the game to allow for more strategies and dynamics during a battle. [03:53] - The Push Mechanic[24:51] - Creating A Power-up Spawn Manager[37:34] - Adding The First&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f852/860614dd-8295-4c70-8f22-e12711ddf852/383GameDevFunSoundsShadersM04_mid.mp4</video:content_loc>
+        <video:duration>3291</video:duration>
+        <video:publication_date>2015-01-17T17:18:00.6818782+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/03</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/086e/11be26f3-ed4a-4b0b-9632-cb14bb25086e/383GameDevFunSoundsShadersM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Fun with Sounds and Shaders: (03) Adding Audio Effects]]></video:title>
+        <video:description><![CDATA[Take a look at XAudio2 and how to integrate it into your DirectX/C&amp;#43;&amp;#43; game engine. [01:19] - Introduction To XAudio 2[08:13] - How To Include XAudio 2 in Your Project[18:24] - Creating an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/086e/11be26f3-ed4a-4b0b-9632-cb14bb25086e/383GameDevFunSoundsShadersM03_mid.mp4</video:content_loc>
+        <video:duration>2349</video:duration>
+        <video:publication_date>2015-01-17T17:17:36.4310615+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c05e/ba72333e-a2be-4128-b548-9007b2e0c05e/383GameDevFunSoundsShadersM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Fun with Sounds and Shaders: (02) Basic Artistic Shader Effects]]></video:title>
+        <video:description><![CDATA[Learn how to apply basic artistic effects, such as lighten/darken, color burn, and vignette, among others, through the use of simple HLSL operations and custom shader functions. [01:10] - What do we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c05e/ba72333e-a2be-4128-b548-9007b2e0c05e/383GameDevFunSoundsShadersM02_mid.mp4</video:content_loc>
+        <video:duration>3523</video:duration>
+        <video:publication_date>2015-01-17T17:17:22.8144852+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/01</loc>
+      <lastmod>2017-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/174b/f0df88c3-3113-4d25-836b-81e819e5174b/383GameDevFunSoundsShadersM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Fun with Sounds and Shaders: (01) Introduction/Debugging Graphics]]></video:title>
+        <video:description><![CDATA[Take a look at where we left off and where we want to go with the prototype, as you get a quick overview of the day. Investigate the Visual Studio graphics debugging tool. [05:20] - Goals For The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/174b/f0df88c3-3113-4d25-836b-81e819e5174b/383GameDevFunSoundsShadersM01_mid.mp4</video:content_loc>
+        <video:duration>2571</video:duration>
+        <video:publication_date>2015-01-17T17:17:08.6098074+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

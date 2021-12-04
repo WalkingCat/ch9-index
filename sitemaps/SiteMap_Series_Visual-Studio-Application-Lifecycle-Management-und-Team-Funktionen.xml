@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Application-Lifecycle-Management-und-Team-Funktionen</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Application-Lifecycle-Management-und-Team-Funktionen/01-Visual-Studio-Online-Team-Foundation-Server-und-Planning-Tools</loc>
+      <lastmod>2015-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/28ac/bbd7f388-ff33-4209-bd56-587f225128ac/VSundTFSundPlanningTools_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01-Visual Studio Online, Team Foundation Server und Planning Tools]]></video:title>
+        <video:description><![CDATA[Artur und Chris gehen auf Continuous Value Delivery und die VSO Feature-Timeline ein. Zudem behandelt das Modul TFS 2015 und Planning Tools mit Visual Studio Online. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28ac/bbd7f388-ff33-4209-bd56-587f225128ac/VSundTFSundPlanningTools_mid.mp4</video:content_loc>
+        <video:duration>1209</video:duration>
+        <video:publication_date>2015-05-26T07:54:37.0903447+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Application-Lifecycle-Management-und-Team-Funktionen/02-Source-Collaboration-und-Build-Automation</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/965b/09acedaa-fa5f-41a0-90ea-d1372888965b/SourceCollaborationBuildAutomation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02-Source Collaboration und Build Automation]]></video:title>
+        <video:description><![CDATA[In diesem Modul gehen Artur und Chris auf GIT und Codesearch anhand von Demos mit Visual Studio ein. In einer weiteren Demo wird Build Automation erkl&#228;rt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/965b/09acedaa-fa5f-41a0-90ea-d1372888965b/SourceCollaborationBuildAutomation_mid.mp4</video:content_loc>
+        <video:duration>1476</video:duration>
+        <video:publication_date>2015-05-26T07:54:26.5935306+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Application-Lifecycle-Management-und-Team-Funktionen/03-Release-Management-berblick-Application-Insights-und-Open-System</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5935/9a9a23d0-4ae9-4f0f-a7e0-b8ef065f5935/ReleaseManagementAppInsightsOpenSys_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03-Release Management, &#220;berblick Application Insights und Open System]]></video:title>
+        <video:description><![CDATA[In dem letzten Modul sprechen Artur und Chris &#252;ber Release Management mit Visual Studio Online und geben einen &#220;berblick zu Application Insights und Open Systems. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5935/9a9a23d0-4ae9-4f0f-a7e0-b8ef065f5935/ReleaseManagementAppInsightsOpenSys_mid.mp4</video:content_loc>
+        <video:duration>823</video:duration>
+        <video:publication_date>2015-05-26T07:53:56.0906957+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

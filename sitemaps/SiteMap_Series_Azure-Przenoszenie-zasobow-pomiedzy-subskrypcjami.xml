@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Przenoszenie-zasobow-pomiedzy-subskrypcjami</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Przenoszenie-zasobow-pomiedzy-subskrypcjami/04-Praktyka</loc>
+      <lastmod>2020-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/437b/cd75dd90-6773-4b3a-9d18-eb4d5381437b/AzurePrzenoszenieZasobow04Praktyka_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Praktyka]]></video:title>
+        <video:description><![CDATA[Dokonujemy finalnego przeniesienia zasob&#243;w z jednej subskrypcji do drugiej. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/437b/cd75dd90-6773-4b3a-9d18-eb4d5381437b/AzurePrzenoszenieZasobow04Praktyka_mid.mp4</video:content_loc>
+        <video:duration>664</video:duration>
+        <video:publication_date>2017-02-28T12:04:13.2474646+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Przenoszenie-zasobow-pomiedzy-subskrypcjami/03-Skrypt</loc>
+      <lastmod>2020-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/967d/a6395384-0915-493a-ad1e-0f7c746a967d/AzurePrzenoszenieZasobow03Skrypt_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Skrypt]]></video:title>
+        <video:description><![CDATA[Poznajemy komendy PowerShell dzięki, kt&#243;rym przeniesiemy zasoby z jednej subskrypcji do drugiej. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/967d/a6395384-0915-493a-ad1e-0f7c746a967d/AzurePrzenoszenieZasobow03Skrypt_mid.mp4</video:content_loc>
+        <video:duration>491</video:duration>
+        <video:publication_date>2017-02-28T12:04:08.8181119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Przenoszenie-zasobow-pomiedzy-subskrypcjami/02-Teoria</loc>
+      <lastmod>2020-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c7d7/28ea5b0a-91aa-46f1-a5cc-9fd498d1c7d7/AzurePrzenoszenieZasobow02Teoria_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Teoria]]></video:title>
+        <video:description><![CDATA[Przygotowania i wymagania jakie należy spełnić, aby przenieść zasoby między subskrypcjami.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7d7/28ea5b0a-91aa-46f1-a5cc-9fd498d1c7d7/AzurePrzenoszenieZasobow02Teoria_mid.mp4</video:content_loc>
+        <video:duration>1437</video:duration>
+        <video:publication_date>2017-02-28T12:04:05.9972781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Przenoszenie-zasobow-pomiedzy-subskrypcjami/01-Wstep</loc>
+      <lastmod>2020-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4ea1/f57bd6dc-1474-4ce8-a53f-0ce303504ea1/AzurePrzenoszenieZasobow01Wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wstp]]></video:title>
+        <video:description><![CDATA[Wstęp do przenoszenia zasob&#243;w pomiędzy subskrypcjami Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ea1/f57bd6dc-1474-4ce8-a53f-0ce303504ea1/AzurePrzenoszenieZasobow01Wstep_mid.mp4</video:content_loc>
+        <video:duration>345</video:duration>
+        <video:publication_date>2017-02-28T12:00:29.8543941+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

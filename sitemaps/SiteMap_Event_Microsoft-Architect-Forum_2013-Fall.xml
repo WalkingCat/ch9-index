@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Architect-Forum/2013-Fall</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Architect-Forum/2013-Fall/kazuhi</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7c7/df31c09b-5d4e-4dd2-8d9b-16df74e9c7c7/maf002_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社デベロッパー &amp;amp; プラットフォーム統括本部業務執行役員 部長 平野 和順 IT の進化は人々の生活や働き方に大きな変化をもたらしつつあります。本キーノートではクラウドを中心としてマイクロソフトが目指しているプラットフォーム技術の方向性や、今後開発者がどのような分野において活躍する機会を拡大できるかを、ビジョン・事例・デモなどを交えながら提示いたします。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7c7/df31c09b-5d4e-4dd2-8d9b-16df74e9c7c7/maf002_mid.mp4</video:content_loc>
+        <video:duration>4088</video:duration>
+        <video:publication_date>2013-12-20T05:32:34.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Architect-Forum/2013-Fall/shosuznaokis</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c17/ac627354-e569-44a0-a2b8-6e67743f7c17/maf005_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   Windows 8 ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社テクニカル エバンジェリスト 佐藤 直樹/鈴木 章太郎 次世代型のアプリケーション パターンである「デバイス」と「サービス」を組み合わせたモダンなアプリの登場も影響し、アーキテクトの役割が拡大しています。本セッションでは、アーキテクトの役割を確認し、モダンアプリケーションの適応にあたっての技術の選択肢や設計・開発で優先すべき項目を確認します。特に、Windows 8&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c17/ac627354-e569-44a0-a2b8-6e67743f7c17/maf005_mid.mp4</video:content_loc>
+        <video:duration>3755</video:duration>
+        <video:publication_date>2013-12-13T05:51:23.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Architect-Forum/2013-Fall/archway</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/54ca041a-0859-4859-93bd-177e8f0951fc.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ ]]></video:title>
+        <video:description><![CDATA[株式会社アークウェイ代表取締役 森屋 英治 企業の IT 投資を効果的に行うためにはあるべき未来をデザインしアーキテクチャ戦略に基づく中長期計画を立て実践することが重要です。本セッションでは IT 戦略について意思決定される方を対象にアークウェイが推進する未来デザインのためのアプリケーション アーキテクチャ戦略についてお話させて頂きます。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/093b/113fafdf-f6cd-4337-b437-4ad457c3093b/maf003_mid.mp4</video:content_loc>
+        <video:duration>1040</video:duration>
+        <video:publication_date>2013-12-12T08:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Architect-Forum/2013-Fall/masayh</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2bac/c9b20679-ee22-49d0-9c00-9e1b47392bac/maf007_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社テクニカル エバンジェリスト 萩原 正義 クラウドを前提としたデータ アーキテクチャーの構築では、スケーラビリティの観点だけでなく、可用性、耐障害性、レイテンシーなどの考慮が重要となります。一方、CAP 定理に見られるように可用性と一貫性のトレードオフ、多様な一貫性モデルの選択肢、NoSQL や CEP などの混在したデータ&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2bac/c9b20679-ee22-49d0-9c00-9e1b47392bac/maf007_mid.mp4</video:content_loc>
+        <video:duration>3812</video:duration>
+        <video:publication_date>2013-12-12T04:55:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Architect-Forum/2013-Fall/tomohn</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/378e/f1b8e731-29fd-4895-89b4-503607bd378e/maf006_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ IT  DevOps Dev  Ops ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社テクニカル エバンジェリスト 長沢 智治 ビジネスに貢献する戦略的な IT へ向けた DevOps ムーブメントを実践していくには、開発のスタイルや開発環境も進化する必要があります。本セッションでは、サイクル タイムの安定と短期化、MTTR (Mean Time To Resolve: 平均解決時間) に対する開発チームとしての責務を果たすためのエッセンスを Team&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/378e/f1b8e731-29fd-4895-89b4-503607bd378e/maf006_mid.mp4</video:content_loc>
+        <video:duration>3943</video:duration>
+        <video:publication_date>2013-12-12T04:54:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/buildingconnectedapps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/buildingconnectedapps/AZVIR02-1</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b49f/4475acde-135b-4df7-9253-d28ae567b49f/AZRVIR021Introduction_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Introduction]]></video:title>
+        <video:description><![CDATA[In this workshop, you will discover how the various Windows Azure services can be integrated into apps  to extend their functionality. You will also learn how to address common needs such as computing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b49f/4475acde-135b-4df7-9253-d28ae567b49f/AZRVIR021Introduction_mid.mp4</video:content_loc>
+        <video:duration>240</video:duration>
+        <video:publication_date>2013-01-28T04:23:57.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/buildingconnectedapps/AZVIR02-4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eed7/016db74d-7622-47f7-b5bb-4f1cc9f2eed7/AZVIR024_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bringing Together App Experiences]]></video:title>
+        <video:description><![CDATA[Modern apps do not exist on a single platform or device as users have become accustomed to being able to work wherever they want and on a device of their choosing. As a modern app developer, you will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eed7/016db74d-7622-47f7-b5bb-4f1cc9f2eed7/AZVIR024_mid.mp4</video:content_loc>
+        <video:duration>2510</video:duration>
+        <video:publication_date>2013-01-28T01:26:35.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/buildingconnectedapps/AZVIR02-3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e412/81532e9c-83b3-40b9-9996-b3ba5b7ee412/AZRVIR023_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Connected Applications]]></video:title>
+        <video:description><![CDATA[As the best apps need cloud services. In this session you will learn how you can leverage the new functionality in Windows Azure to add structured storage, integrated authentication and even Push&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e412/81532e9c-83b3-40b9-9996-b3ba5b7ee412/AZRVIR023_mid.mp4</video:content_loc>
+        <video:duration>4581</video:duration>
+        <video:publication_date>2013-01-28T01:26:19.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/buildingconnectedapps/AZVIR02-2</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f783/7f4c514e-ec5d-44b2-acca-4f0048f0f783/AZRVIR022_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Apps, Devices, and the Cloud]]></video:title>
+        <video:description><![CDATA[As powerful as devices are, they still only have a finite amount of resources that are available for apps to consume. However, apps utilizing Windows Azure as their backend are not bound by these&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f783/7f4c514e-ec5d-44b2-acca-4f0048f0f783/AZRVIR022_mid.mp4</video:content_loc>
+        <video:duration>3319</video:duration>
+        <video:publication_date>2013-01-28T01:23:53.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/buildingconnectedapps/AZVIR02-5</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/19df/782cb015-ab42-4d0a-82f4-c1f7d25819df/AZVIR025_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Q&amp;A with Paul, James, and Jonathan]]></video:title>
+        <video:description><![CDATA[Paul Laberge, James Chambers, and Jonathan Rozenblit take questions from the virtual audience. Questions? If you have any questions for Paul, James, and/or Jonathan or comments to share about this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19df/782cb015-ab42-4d0a-82f4-c1f7d25819df/AZVIR025_mid.mp4</video:content_loc>
+        <video:duration>1477</video:duration>
+        <video:publication_date>2013-01-28T01:23:49.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

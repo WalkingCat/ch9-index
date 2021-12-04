@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server/Technology-Overview-for-Microsoft-R-Server-2016</loc>
+      <lastmod>2017-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d08a880b-9ce9-4f57-befe-b7fc905b0a49.png</video:thumbnail_loc>
+        <video:title><![CDATA[Technology Overview for Microsoft R Server 2016]]></video:title>
+        <video:description><![CDATA[This brief overview video discusses the features and benefits of the Microsoft R Server product. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f65c/e070d484-4ad8-4541-b492-4726a120f65c/technologyoverviewMSRS2016_high.mp4</video:content_loc>
+        <video:duration>1957</video:duration>
+        <video:publication_date>2016-01-12T23:37:18.9319921+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-R-Server/Microsoft-R-Server-Installation-Linux</loc>
+      <lastmod>2017-07-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/44507b30-046b-4eb4-ac8c-686a9da4eb13.png</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft R Server Installation - Linux]]></video:title>
+        <video:description><![CDATA[This how-to video walks through the steps to install the Microsoft R Server product in a Linux environment. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6242/1bf8b22b-6cb5-4772-8164-30e2f5406242/MSRInstallLinux_high.mp4</video:content_loc>
+        <video:duration>397</video:duration>
+        <video:publication_date>2016-01-12T23:36:01.0483339+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

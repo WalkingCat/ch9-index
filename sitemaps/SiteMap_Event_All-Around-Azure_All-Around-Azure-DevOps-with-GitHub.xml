@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub/Session-5-Operating-Software-In-the-Cloud</loc>
+      <lastmod>2021-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4609/66131f12-6a83-428c-8bf9-5060a9974609/AllAroundAzureDevOpswithGitHubSession5OperatingSo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Session 5: Operating Software In the Cloud]]></video:title>
+        <video:description><![CDATA[DevOps doesn&#39;t stop when you deploy. Incident response, identity management, and controlling access to production are all part of learning to run software well. All Around Azure Microsoft Learn&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4609/66131f12-6a83-428c-8bf9-5060a9974609/AllAroundAzureDevOpswithGitHubSession5OperatingSo_mid.mp4</video:content_loc>
+        <video:duration>942</video:duration>
+        <video:publication_date>2021-04-29T01:58:09.0165806+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub/Session-4-Delivering-Change-to-the-Cloud</loc>
+      <lastmod>2021-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fd6d/ccb8ead9-dccf-4ad1-a313-9b0916d7fd6d/AllAroundAzureDevOpswithGitHubSession4DeliveringC_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Session 4: Delivering Change to the Cloud]]></video:title>
+        <video:description><![CDATA[The team at Tailwind Traders has a problem - they&#39;re still too dependent on manual processes and key individuals to bring their ideas to customers! While they have successfully implemented a raft of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fd6d/ccb8ead9-dccf-4ad1-a313-9b0916d7fd6d/AllAroundAzureDevOpswithGitHubSession4DeliveringC_mid.mp4</video:content_loc>
+        <video:duration>1117</video:duration>
+        <video:publication_date>2021-04-29T01:57:17.5059215+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub/Session-3-Building-in-Security-and-Quality</loc>
+      <lastmod>2021-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/15e1/aaa73419-66ee-402d-af17-fe9d66ce15e1/Session3BuildinginSecurityandQuality_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Session 3: Building in Security and Quality]]></video:title>
+        <video:description><![CDATA[Security and compliance are core concerns for organizations. Adopting DevOps practices and delivering software faster can increase those concerns. We can take steps to increase security and compliance&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/15e1/aaa73419-66ee-402d-af17-fe9d66ce15e1/Session3BuildinginSecurityandQuality_mid.mp4</video:content_loc>
+        <video:duration>974</video:duration>
+        <video:publication_date>2021-04-29T01:55:47.1378819+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub/Session-2-Managing-the-Flow-of-Work</loc>
+      <lastmod>2021-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/11dd/3534e9ce-2126-4838-9cc7-7bb8e52211dd/AllAroundAzureDevOpswithGitHubSession2Managingthe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Session 2: Managing the Flow of Work]]></video:title>
+        <video:description><![CDATA[DevOps is all about continuously delivering value. Before we can even begin thinking about CI/CD, we need to make sure we do the right work. Sprint after sprint, iteration after iteration, we need to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/11dd/3534e9ce-2126-4838-9cc7-7bb8e52211dd/AllAroundAzureDevOpswithGitHubSession2Managingthe_mid.mp4</video:content_loc>
+        <video:duration>1214</video:duration>
+        <video:publication_date>2021-04-29T01:54:07.1816172+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub/Session-1-Getting-started-with-DevOps</loc>
+      <lastmod>2021-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0751/276e875a-641a-43fd-85f8-bf450d860751/Session1GettingstartedwithDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Session 1: Getting started with DevOps]]></video:title>
+        <video:description><![CDATA[As teams grow, finding ways to effectively work together is vital. Communication across teams is challenging. We need to enable discovery of conversations and related information. Source code,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0751/276e875a-641a-43fd-85f8-bf450d860751/Session1GettingstartedwithDevOps_mid.mp4</video:content_loc>
+        <video:duration>1612</video:duration>
+        <video:publication_date>2021-04-29T01:52:22.7108538+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-DevOps-with-GitHub/Welcome</loc>
+      <lastmod>2021-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e777/fc1d158f-aaf1-4cff-b257-22b01b17e777/AllaroundazureWelcome_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome]]></video:title>
+        <video:description><![CDATA[This event follows along the DevOps Learning Path. A learning path is a carefully curated set of technical sessions that provide a view into a particular area of Azure; and often help you prepare for&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e777/fc1d158f-aaf1-4cff-b257-22b01b17e777/AllaroundazureWelcome_mid.mp4</video:content_loc>
+        <video:duration>437</video:duration>
+        <video:publication_date>2021-04-29T00:52:22.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/11-How-it-works-in-real-life-Part-2</loc>
+      <lastmod>2019-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6cb9/97dbb90e-fd21-4040-8a26-29d8fd346cb9/devops11_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[11 - How it works in real life? - Part 2]]></video:title>
+        <video:description><![CDATA[We&#39;ll complete the DevOps environment on Azure with Gitlab, Gitlab-CI and Kubernetes. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cb9/97dbb90e-fd21-4040-8a26-29d8fd346cb9/devops11_mid.mp4</video:content_loc>
+        <video:duration>1159</video:duration>
+        <video:publication_date>2017-04-25T17:53:56.8239338+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/10-How-it-works-in-real-life-Part-1</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d211/12bcd400-827a-4ccb-8326-98351c83d211/devops10_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10- How it works in real life? - Part 1 ]]></video:title>
+        <video:description><![CDATA[In this session we&#39;ll show you how to set up a DevOps environment in Azure with Gitlab, Gitlab-CI and Kubernetes. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d211/12bcd400-827a-4ccb-8326-98351c83d211/devops10_mid.mp4</video:content_loc>
+        <video:duration>683</video:duration>
+        <video:publication_date>2017-04-25T17:53:43.6159303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/09-Continuous-Integration--Delivery</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b1d/0518f94a-2001-4b02-b12c-026f14df5b1d/devops09_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[09 - Continuous Integration &amp; Delivery ]]></video:title>
+        <video:description><![CDATA[The latest version of a software should be deployed to the users. In this session we&#39;ll show you the latest and greatest tools to get the job done. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b1d/0518f94a-2001-4b02-b12c-026f14df5b1d/devops09_mid.mp4</video:content_loc>
+        <video:duration>1003</video:duration>
+        <video:publication_date>2017-04-25T17:40:10.6297602+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/08-Testing-Concept-and-Theories-Part-3</loc>
+      <lastmod>2018-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/970e/5b706134-5511-42ac-98bb-81ce4a3b970e/devops08_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 - Testing Concept and Theories - Part 3]]></video:title>
+        <video:description><![CDATA[A DevOps engineer has to be familiar with the basics of software development as well. In this session you&#39;ll get a brief overview of clean code and we&#39;ll uncover what SOLID means. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/970e/5b706134-5511-42ac-98bb-81ce4a3b970e/devops08_mid.mp4</video:content_loc>
+        <video:duration>453</video:duration>
+        <video:publication_date>2017-04-25T17:23:59.3097499+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/07-Testing-Concept-and-Theories-Part-2</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c732/e2b53e0e-dde2-4aeb-a419-162ddcf1c732/devops07_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 - Testing Concept and Theories - Part 2]]></video:title>
+        <video:description><![CDATA[In this session we&#39;ll introduce the test pyramid and its various levels. You will also hear about unit, integration and end-to-end testing and will find out what &amp;quot;supergreen&amp;quot; means ;) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c732/e2b53e0e-dde2-4aeb-a419-162ddcf1c732/devops07_mid.mp4</video:content_loc>
+        <video:duration>1824</video:duration>
+        <video:publication_date>2017-04-25T17:23:44.0433481+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/06-Testing-Concept-and-Theories-Part-1</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/63f6/4c679332-051a-4d97-9b84-0ee76aad63f6/devops06_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 - Testing Concept and Theories - Part 1 ]]></video:title>
+        <video:description><![CDATA[Why is testing a must? Especially automated testing... ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63f6/4c679332-051a-4d97-9b84-0ee76aad63f6/devops06_mid.mp4</video:content_loc>
+        <video:duration>1174</video:duration>
+        <video:publication_date>2017-04-25T17:10:38.8702291+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/05-Why-do-we-need-version-control</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f99d/f3123b85-d3c6-4844-b463-c3cc7610f99d/devops05_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 - Why do we need version control? ]]></video:title>
+        <video:description><![CDATA[By the end of this session, you&#39;ll get familiar with version control, and you&#39;ll know its benefits. Also, you can see how effective Git can be. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f99d/f3123b85-d3c6-4844-b463-c3cc7610f99d/devops05_mid.mp4</video:content_loc>
+        <video:duration>1330</video:duration>
+        <video:publication_date>2017-04-25T17:10:30.2726040+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/04-Docker-orchestration-systems</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1a8d/b5ea7e4b-45fb-4a45-8069-6e4f40941a8d/devops04_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 - Docker orchestration systems]]></video:title>
+        <video:description><![CDATA[In this video we introduce you to Docker orchestration systems. You can learn how to set-up a Kubernetes cluster on Azure for your containers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1a8d/b5ea7e4b-45fb-4a45-8069-6e4f40941a8d/devops04_mid.mp4</video:content_loc>
+        <video:duration>1592</video:duration>
+        <video:publication_date>2017-04-25T17:10:16.6883869+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/03-Docker-for-beginners</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7b9/2d3dfbbc-3a3b-4ef4-8af9-c498e9a6e7b9/devops03_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 - Docker for beginners]]></video:title>
+        <video:description><![CDATA[During this video you&#39;ll get to know Docker and we&#39;ll show you how to create a Docker container ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7b9/2d3dfbbc-3a3b-4ef4-8af9-c498e9a6e7b9/devops03_mid.mp4</video:content_loc>
+        <video:duration>1141</video:duration>
+        <video:publication_date>2017-04-25T17:09:48.7723472+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/02-What-is-CM</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8dc/65c36fc6-710f-4124-a5e1-199bfe78e8dc/devops02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - What is CM?]]></video:title>
+        <video:description><![CDATA[What is CM? When should you use it? How to automate it with Ansible? You&#39;ll get all the answer for these questions.... ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8dc/65c36fc6-710f-4124-a5e1-199bfe78e8dc/devops02_mid.mp4</video:content_loc>
+        <video:duration>1267</video:duration>
+        <video:publication_date>2017-04-25T17:09:29.7567533+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-on-Azure-webinar/01-What-is-Devops</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7cd7/a62e45be-2ae0-4a16-bbea-f379736e7cd7/devops01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01- What is Devops?]]></video:title>
+        <video:description><![CDATA[In this session, you&#39;ll get a brief overview of the DevOps methodology, how it differs from &amp;quot;traditional&amp;quot; IT operations and what are its main benefits. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7cd7/a62e45be-2ae0-4a16-bbea-f379736e7cd7/devops01_mid.mp4</video:content_loc>
+        <video:duration>627</video:duration>
+        <video:publication_date>2017-04-25T17:09:14.6302100+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/06--Dalsze-kroki</loc>
+      <lastmod>2015-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/905a/18b062fa-b9f7-49d3-8c72-d9c150a9905a/06DalszeKroki_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 | Dalsze kroki]]></video:title>
+        <video:description><![CDATA[Moduł przedstawiające kolejne kroki, kt&#243;re użytkownik powinien podjąć, aby poszerzyć swoją wiedzę na temat PowerShella. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/905a/18b062fa-b9f7-49d3-8c72-d9c150a9905a/06DalszeKroki_mid.mp4</video:content_loc>
+        <video:duration>221</video:duration>
+        <video:publication_date>2015-10-19T15:02:36.5915003+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/05--Przykady-zastosowania-mechanizmw-PowerShell</loc>
+      <lastmod>2015-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c55c/53e8fe0d-f2fa-41d2-863d-f9447603c55c/05Przyklady_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Przykady zastosowania mechanizm&#243;w PowerShell]]></video:title>
+        <video:description><![CDATA[W kolejnej części przedstawione zostały najważniejsze przykłady zastosowania mechanizm&#243;w PowerShell. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c55c/53e8fe0d-f2fa-41d2-863d-f9447603c55c/05Przyklady_mid.mp4</video:content_loc>
+        <video:duration>1595</video:duration>
+        <video:publication_date>2015-10-19T15:02:25.1897044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/04--Mechanizmy-PowerShell</loc>
+      <lastmod>2019-09-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd58/80d95f4e-eca6-439e-be6b-46911675dd58/04Mechanizmy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Mechanizmy PowerShell]]></video:title>
+        <video:description><![CDATA[W tym module om&#243;wione zostały najważniejsze mechanizmy stanowiące o tym, że PowerShell jest narzędziem potężnym i wszechstronnym. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd58/80d95f4e-eca6-439e-be6b-46911675dd58/04Mechanizmy_mid.mp4</video:content_loc>
+        <video:duration>1283</video:duration>
+        <video:publication_date>2015-10-19T15:02:14.0559482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/03--Przykady-skryptw</loc>
+      <lastmod>2016-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/73c7/d14b66f4-6692-414a-add4-d40d8dd873c7/03przyklady_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Przykady skrypt&#243;w]]></video:title>
+        <video:description><![CDATA[W tej części przedstawione zostały najważniejsze polecenia PowerShell i ich zastosowanie. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/73c7/d14b66f4-6692-414a-add4-d40d8dd873c7/03przyklady_mid.mp4</video:content_loc>
+        <video:duration>2692</video:duration>
+        <video:publication_date>2015-10-19T15:02:04.8258688+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/02--Pierwsze-kroki-w-pisaniu-skryptw</loc>
+      <lastmod>2015-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/969a/52de9803-e1f8-4987-aea5-40f8e9c6969a/02skrypty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Pierwsze kroki w pisaniu skrypt&#243;w]]></video:title>
+        <video:description><![CDATA[W tym module pokazono jak rozpocząć pracę z powłoką PowerShell oraz om&#243;wiono podstawową składnię tego języka. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/969a/52de9803-e1f8-4987-aea5-40f8e9c6969a/02skrypty_mid.mp4</video:content_loc>
+        <video:duration>814</video:duration>
+        <video:publication_date>2015-10-19T15:01:51.7481412+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/01--PowerShell-co-to-za-zwierz</loc>
+      <lastmod>2015-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4609/38cdf057-ff77-4926-be22-72d5c4164609/01zwierz_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | PowerShell - co to za zwierz?]]></video:title>
+        <video:description><![CDATA[Czym PowerShell jest, a czym nie jest? Podstawowe informacje wprowadzające i tło historyczne. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4609/38cdf057-ff77-4926-be22-72d5c4164609/01zwierz_mid.mp4</video:content_loc>
+        <video:duration>1539</video:duration>
+        <video:publication_date>2015-10-19T15:01:39.9007143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztkujcych/00--Wprowadzenie-do-kursu</loc>
+      <lastmod>2018-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1053/bd4a5f8f-0f2d-4bae-b844-0aba7ba21053/00wprowadzenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[00 | Wprowadzenie do kursu]]></video:title>
+        <video:description><![CDATA[Kr&#243;tki kurs dla os&#243;b, kt&#243;re z PowerShell swoją przygodę dopiero co rozpoczęli lub zamierzają to zrobić.  Przeznaczony gł&#243;wnie dla os&#243;b zajmujących się administracją IT, ponieważ tam języki skryptowe&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1053/bd4a5f8f-0f2d-4bae-b844-0aba7ba21053/00wprowadzenie_mid.mp4</video:content_loc>
+        <video:duration>540</video:duration>
+        <video:publication_date>2015-10-19T14:34:30.6381162+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-Analysis-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-Analysis-Services/Azure-Analysis-Services-overview</loc>
+      <lastmod>2018-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6dd/a1cda46b-ef03-4cea-8f11-68da23c5d6dd/AzureASoverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Analysis Services overview]]></video:title>
+        <video:description><![CDATA[Based on the proven analytics engine in SQL Server Analysis Services, Azure Analysis Services is an enterprise grade OLAP engine and BI modeling platform, offered as a fully managed&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6dd/a1cda46b-ef03-4cea-8f11-68da23c5d6dd/AzureASoverview_mid.mp4</video:content_loc>
+        <video:duration>658</video:duration>
+        <video:publication_date>2017-05-16T18:26:13.8803617+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-Analysis-Services/AzureAnalysisServicesMovingModels</loc>
+      <lastmod>2016-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/238ca45f-b443-4071-a95d-985a7ef7824a.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Moving from on premises to the cloud]]></video:title>
+        <video:description><![CDATA[How to move an existing SQL Server 2016 Analysis Services semantic model from on-premises to cloud, so you do not need to manage the underlying infrastructure in order to maximize performance,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cc1/f3bc296f-33e1-42f2-9a5a-11ada88e6cc1/aasMovingModels_mid.mp4</video:content_loc>
+        <video:duration>221</video:duration>
+        <video:publication_date>2016-10-25T13:57:10.7605434+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-Analysis-Services/AzureAnalysisServicesGettingStarted</loc>
+      <lastmod>2019-11-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/b66cb9b6-86b0-45e5-a38b-899e9cc46c5f.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started]]></video:title>
+        <video:description><![CDATA[High level overview of Microsoft&#39;s Azure Analysis Services, which is part of Microsoft&#39;s overall BI offerings to help organizations gain insights from their data. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/85a4/87a8a132-a5d1-44a9-a533-3ae5191d85a4/aasGettingStarted_mid.mp4</video:content_loc>
+        <video:duration>352</video:duration>
+        <video:publication_date>2016-10-25T13:57:01.0365439+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-Analysis-Services/AzureAnalysisServicesAutomation</loc>
+      <lastmod>2019-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/cb16425b-bca1-41f6-8a8f-48baa7284187.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Automating deployment]]></video:title>
+        <video:description><![CDATA[This is a short video showing the automation capabilities in Azure Analysis Services for integration with Dev Ops processes and improved Application Lifecycle Management. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/32d7/313511db-3718-453c-941b-78615ace32d7/aasAutomation_mid.mp4</video:content_loc>
+        <video:duration>349</video:duration>
+        <video:publication_date>2016-10-25T13:56:49.9021349+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-Analysis-Services/AzureAnalysisServicesOverview</loc>
+      <lastmod>2019-11-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/29d7/e921f8e5-6cfe-41c4-a879-ed1dde7b29d7/AzureAnalysisServicesOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AzureAnalysisServicesOverview]]></video:title>
+        <video:description><![CDATA[Overview of Microsoft Azure Analysis Services, available in preview. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29d7/e921f8e5-6cfe-41c4-a879-ed1dde7b29d7/AzureAnalysisServicesOverview_mid.mp4</video:content_loc>
+        <video:duration>105</video:duration>
+        <video:publication_date>2016-10-25T13:54:46.5040130+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

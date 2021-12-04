@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-trjwymiarowych-gier-w-Unity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-trjwymiarowych-gier-w-Unity/03--Implementacja-mechaniki-gry</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b10/02226366-6c52-4021-872e-91d166cd1b10/03ImplementacjaMechanikiGry_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Implementacja mechaniki gry]]></video:title>
+        <video:description><![CDATA[W tym module pokazane zostanie w jaki spos&#243;b należy zaimplementować mechanikę naszej gry tr&#243;jwymiarowej oraz o czym należy pamiętać podczas jej tworzenia. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b10/02226366-6c52-4021-872e-91d166cd1b10/03ImplementacjaMechanikiGry_mid.mp4</video:content_loc>
+        <video:duration>6727</video:duration>
+        <video:publication_date>2015-11-09T15:24:28.7410919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-trjwymiarowych-gier-w-Unity/02--Prototypowanie-wiata-gry</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac0d/a49b9491-9faf-42e5-8722-385cd9c6ac0d/02PrototypowanieSwiata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Prototypowanie wiata gry]]></video:title>
+        <video:description><![CDATA[Z tego modułu dowiesz się jak stworzyć prototyp świata naszej gry. Dowiesz się jak poruszać się po tr&#243;jwymiarowym świecie w Unity oraz jakie elementy będą nam potrzebne do zrobienia gry. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac0d/a49b9491-9faf-42e5-8722-385cd9c6ac0d/02PrototypowanieSwiata_mid.mp4</video:content_loc>
+        <video:duration>2260</video:duration>
+        <video:publication_date>2015-11-09T15:24:12.0159465+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-trjwymiarowych-gier-w-Unity/01--Przygotowanie-assetw-do-naszej-gry</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e77a/f340ce80-f0e7-4be2-87bd-a639eeffe77a/01PrzygotowanieAssetow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Przygotowanie asset&#243;w do naszej gry	]]></video:title>
+        <video:description><![CDATA[W tym module dowiecie się jak należy przygotować assety do naszej gry tak aby można było zrobić szybki prototyp gameplay&#39;u. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e77a/f340ce80-f0e7-4be2-87bd-a639eeffe77a/01PrzygotowanieAssetow_mid.mp4</video:content_loc>
+        <video:duration>1274</video:duration>
+        <video:publication_date>2015-11-09T15:24:06.5110221+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-trjwymiarowych-gier-w-Unity/00--Intro-do-kursu</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f83b/43d90921-0ba5-4901-946e-3591bd77f83b/00IntroDoKursu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[00 | Intro do kursu]]></video:title>
+        <video:description><![CDATA[Kurs ten skupia się na tym jak tworzy się tr&#243;jwymiarowe gry za pomocą silnika Unity. Pokazuje jak należy importować tr&#243;jwymiarowe assety do swojej gry oraz o czym należy pamiętać podczas robienia gier&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f83b/43d90921-0ba5-4901-946e-3591bd77f83b/00IntroDoKursu_mid.mp4</video:content_loc>
+        <video:duration>22</video:duration>
+        <video:publication_date>2015-11-09T15:23:56.6621775+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

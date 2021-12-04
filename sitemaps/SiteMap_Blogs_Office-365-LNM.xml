@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Office-365-LNM</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Office-365-LNM/Conoce-O365</loc>
+      <lastmod>2015-10-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6193/e2b9d03c-0bd7-40c5-a2d9-8ccdb3b96193/ConoceOffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conoce O365]]></video:title>
+        <video:description><![CDATA[Te invitamos a ver este video, el cual te mostrar&#225; que es O365 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6193/e2b9d03c-0bd7-40c5-a2d9-8ccdb3b96193/ConoceOffice365_mid.mp4</video:content_loc>
+        <video:duration>208</video:duration>
+        <video:publication_date>2015-10-02T00:03:46.2290911+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

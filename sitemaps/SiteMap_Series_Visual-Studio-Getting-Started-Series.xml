@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio-Debugging-your-code</loc>
+      <lastmod>2017-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1bbe/469b7ad7-bef8-41a6-b758-f1201db11bbe/VS2015DebuggingYourCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio - Debugging your code]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning how to use breakpoints to step through your code and debug it. Download Visual Studio for free at http://www.visualstudio.com/community ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1bbe/469b7ad7-bef8-41a6-b758-f1201db11bbe/VS2015DebuggingYourCode_mid.mp4</video:content_loc>
+        <video:duration>420</video:duration>
+        <video:publication_date>2016-08-18T20:29:31.9164466+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio-Editing-and-navigating-your-code</loc>
+      <lastmod>2018-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/142c/bf049fb4-93e7-4001-9a76-d3157b8b142c/VS2015CodeEditorAndNavTips_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio - Editing and navigating your code]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning about features in the editor, like the code map, IntelliSense and Light bulbs. Download Visual Studio for free at http://www.visualstudio.com/community ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/142c/bf049fb4-93e7-4001-9a76-d3157b8b142c/VS2015CodeEditorAndNavTips_mid.mp4</video:content_loc>
+        <video:duration>226</video:duration>
+        <video:publication_date>2016-08-18T20:29:00.0450985+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio-Tips--Tricks</loc>
+      <lastmod>2017-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/97c4/85119f0b-2f3f-4ba4-b3aa-6259467e97c4/VS2015TipsAndTricks_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio - Tips &amp; Tricks]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning some features that will help you be more productive. Download Visual Studio for free at http://www.visualstudio.com/community ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/97c4/85119f0b-2f3f-4ba4-b3aa-6259467e97c4/VS2015TipsAndTricks_mid.mp4</video:content_loc>
+        <video:duration>410</video:duration>
+        <video:publication_date>2016-08-18T20:28:33.4744436+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio-Installing-Visual-Studio-extensions</loc>
+      <lastmod>2020-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d748/47a5d6ec-231a-4a3e-9a6e-b54163b8d748/VS2015InstallingExtensions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio - Installing Visual Studio extensions]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning about additional extensions you can install, like the GitHub or Web Essentials extension. Download Visual Studio for free at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d748/47a5d6ec-231a-4a3e-9a6e-b54163b8d748/VS2015InstallingExtensions_mid.mp4</video:content_loc>
+        <video:duration>127</video:duration>
+        <video:publication_date>2016-08-18T20:26:53.0944303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio--Opening-a-project-from-Source-Control</loc>
+      <lastmod>2017-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/670a/988c62fe-02b9-470d-af5c-651cf82b670a/VisualStudioSourceControl_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio  Opening a project from Source Control]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning about how to open a project from source control, like GitHub. Download Visual Studio for free at www.visualstudio.com/community ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/670a/988c62fe-02b9-470d-af5c-651cf82b670a/VisualStudioSourceControl_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2016-08-01T21:56:52.0971167+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio--Building-blocks-of-the-IDE</loc>
+      <lastmod>2017-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/76c7/4c857f16-285f-4c04-bfca-1858a64676c7/VisualStudioBuildingBlocks_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio  Building blocks of the IDE]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning about the Solution Explorer, Team Explorer and tool windows. Download Visual Studio for free at www.visualstudio.com/community ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/76c7/4c857f16-285f-4c04-bfca-1858a64676c7/VisualStudioBuildingBlocks_mid.mp4</video:content_loc>
+        <video:duration>222</video:duration>
+        <video:publication_date>2016-08-01T21:55:58.6738776+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Getting-Started-Series/Getting-Started-with-Visual-Studio--Setting-up-your-IDE</loc>
+      <lastmod>2017-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ee9/730dc43b-a8cc-4d07-b64b-03ce9d526ee9/GettingStartedwithVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Visual Studio  Setting up your IDE]]></video:title>
+        <video:description><![CDATA[Get started with Visual Studio by learning about custom install options, configuring the theme and accessing commands through quick launch. Download Visual Studio for free at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ee9/730dc43b-a8cc-4d07-b64b-03ce9d526ee9/GettingStartedwithVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>227</video:duration>
+        <video:publication_date>2016-08-01T21:54:32.7204989+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

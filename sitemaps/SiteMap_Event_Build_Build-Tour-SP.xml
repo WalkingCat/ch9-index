@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Build-Tour-SP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Build-Tour-SP/Session03</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/82cc/cf69150f-3009-40c8-b013-e040354b82cc/lighteningtalksbuildtoursp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Sess&#227;o #3 Lightening Talks]]></video:title>
+        <video:description><![CDATA[Sess&#227;o #3 Lightening Talks ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/82cc/cf69150f-3009-40c8-b013-e040354b82cc/lighteningtalksbuildtoursp_mid.mp4</video:content_loc>
+        <video:duration>2454</video:duration>
+        <video:publication_date>2015-05-12T22:08:11.2455403+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Build-Tour-SP/Session02</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8822/42b0680b-bc67-43bf-94c0-15a844b68822/webbuildtoursp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sess&#227;o #2 Web]]></video:title>
+        <video:description><![CDATA[Sess&#227;o #2 Web ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8822/42b0680b-bc67-43bf-94c0-15a844b68822/webbuildtoursp_mid.mp4</video:content_loc>
+        <video:duration>3488</video:duration>
+        <video:publication_date>2015-05-12T22:07:03.4139059+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Build-Tour-SP/Sesso</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f38d/a5d5f923-7bd3-4aa2-9b04-1ce0bd23f38d/universalwindowsplatafmor_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sess&#227;o #1 Universal Windows Platform]]></video:title>
+        <video:description><![CDATA[Sess&#227;o #1 Universal Windows Platform ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f38d/a5d5f923-7bd3-4aa2-9b04-1ce0bd23f38d/universalwindowsplatafmor_mid.mp4</video:content_loc>
+        <video:duration>1931</video:duration>
+        <video:publication_date>2015-05-12T21:34:14.6027606+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Build-Tour-SP/Keynote</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/99d5/0eb3d028-26d3-4fdb-ad6d-b1ad0e9e99d5/keynotebuildtoursp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote]]></video:title>
+        <video:description><![CDATA[Keynote do Build Tour SP ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99d5/0eb3d028-26d3-4fdb-ad6d-b1ad0e9e99d5/keynotebuildtoursp_mid.mp4</video:content_loc>
+        <video:duration>6570</video:duration>
+        <video:publication_date>2015-05-12T21:33:24.7680144+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

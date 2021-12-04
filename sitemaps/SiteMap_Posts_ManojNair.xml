@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Deploying-and-Testing-a-Simple-Azure-Function</loc>
+      <lastmod>2018-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/74a5950e-3993-48a2-bf5d-a87b006d3b2e_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying and Testing a Simple Azure Function]]></video:title>
+        <video:description><![CDATA[In this nugget, we will create a simple Azure Function that calculates the square of a number. We will test the function using the Portal and using PowerShell. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/08f7/e123d613-3f05-4f14-bf82-0097792808f7/Deploying-and-Testing-Microsoft-Azure-Functions_mid.mp4</video:content_loc>
+        <video:duration>302</video:duration>
+        <video:publication_date>2018-02-02T07:07:23.7341178+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

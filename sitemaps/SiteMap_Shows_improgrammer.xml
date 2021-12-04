@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/improgrammer</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/improgrammer/azure</loc>
+      <lastmod>2020-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7bed/5d1c1471-ce13-40b9-995d-985d20d67bed/azure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure,   ]]></video:title>
+        <video:description><![CDATA[10월 30일 넥슨아레나에서 진행되었던 Invited Session, &#39;Microsoft Azure, 그 가능성을 엿보다&#39; 입니다 발표자 : 김명신 한국마이크로소프트 에반젤리스트 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7bed/5d1c1471-ce13-40b9-995d-985d20d67bed/azure_mid.mp4</video:content_loc>
+        <video:duration>1665</video:duration>
+        <video:publication_date>2015-11-23T00:25:47.3093081+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

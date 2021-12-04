@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Curso-de-Big-Data-y-HADOOP-en-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Curso-de-Big-Data-y-HADOOP-en-Azure/Sesin-presencial-da-2-Desarrollo</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c70e/16a388d7-dd68-4a3b-87df-0b2e6bc0c70e/SesionPresencialDia2Desarrollo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sesi&#243;n presencial d&#237;a 2: Desarrollo]]></video:title>
+        <video:description><![CDATA[Durante el curso se usar&#225; extensivamente Azure para preparar e implementar escenarios por lo que se necesita tener una suscripci&#243;n activa de Azure con un m&#237;nimo de 1.000 euros de cr&#233;dito&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c70e/16a388d7-dd68-4a3b-87df-0b2e6bc0c70e/SesionPresencialDia2Desarrollo_mid.mp4</video:content_loc>
+        <video:duration>12123</video:duration>
+        <video:publication_date>2016-05-25T08:02:49.2329707+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Curso-de-Big-Data-y-HADOOP-en-Azure/Sesin-presencial-da-1-Despliegue-y-Administracin</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cd64/f83de0e0-a3e3-4dcb-b318-7ea4a8a2cd64/SesionPresencialDia1DespliegueYAdministracion_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sesi&#243;n presencial d&#237;a 1: Despliegue y Administraci&#243;n]]></video:title>
+        <video:description><![CDATA[Durante el curso se usar&#225; extensivamente Azure para preparar e implementar escenarios por lo que se necesita tener una suscripci&#243;n activa de Azure con un m&#237;nimo de 1.000 euros de cr&#233;dito&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cd64/f83de0e0-a3e3-4dcb-b318-7ea4a8a2cd64/SesionPresencialDia1DespliegueYAdministracion_mid.mp4</video:content_loc>
+        <video:duration>12846</video:duration>
+        <video:publication_date>2016-05-20T13:43:40.0520010+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

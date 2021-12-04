@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Azure-od-podstaw</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Azure-od-podstaw/04--Zakres-dostpnych-usug</loc>
+      <lastmod>2015-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e054/d8c0ad6f-7ae2-407e-9a2d-4387da14e054/ZakresUslug_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Zakres dostpnych usug ]]></video:title>
+        <video:description><![CDATA[Zakres dostępnych usług W module zostały zaprezentowane i om&#243;wione poszczeg&#243;lne usługi dostępne w Microsoft Azure  - Websites, maszyny wirtualne, usługi mobilne, cloud services,  relacyjne bazy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e054/d8c0ad6f-7ae2-407e-9a2d-4387da14e054/ZakresUslug_mid.mp4</video:content_loc>
+        <video:duration>845</video:duration>
+        <video:publication_date>2015-01-21T09:11:51.6366214+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Azure-od-podstaw/03--Poruszanie-si-po-portalu-oraz-portal-w-wersji-testowej-Preview-Portal</loc>
+      <lastmod>2015-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de1c/d315b7a2-0fa2-49fb-96e3-458278f7de1c/Portal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Poruszanie si po portalu oraz portal w wersji testowej (Preview Portal) ]]></video:title>
+        <video:description><![CDATA[Poruszanie się po portalu oraz portal w wersji testowej (Preview Portal) Zapoznaj się z narzędziami umożliwiającymi dostęp do usługi Microsoft Azure, dowiedz się jak korzystać i jakie funkcjonalności&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de1c/d315b7a2-0fa2-49fb-96e3-458278f7de1c/Portal_mid.mp4</video:content_loc>
+        <video:duration>699</video:duration>
+        <video:publication_date>2015-01-21T09:11:48.6683549+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Azure-od-podstaw/02--Geolokalizacje-regiony-centra-danych</loc>
+      <lastmod>2015-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94d8/0d489bc2-a34d-4e78-be2b-6c97a55394d8/Geolokalizacja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Geolokalizacje, regiony, centra danych]]></video:title>
+        <video:description><![CDATA[Geolokalizacje, regiony, centra danychW module &amp;quot;Geolokalizacje, regiony, centra danych&amp;quot; dowiesz się gdzie się znajdują centra dane Microsoft, w jaki spos&#243;b przechowywane są dane w chmurze&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94d8/0d489bc2-a34d-4e78-be2b-6c97a55394d8/Geolokalizacja_mid.mp4</video:content_loc>
+        <video:duration>606</video:duration>
+        <video:publication_date>2015-01-21T09:11:40.1235308+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Azure-od-podstaw/01--Tworzenie-konta-organizacyjnego-i-subskrypcji</loc>
+      <lastmod>2015-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/40fe/98b46773-b080-46f5-8c2e-6a35c92e40fe/TworzenieKonta_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Tworzenie konta organizacyjnego i subskrypcji]]></video:title>
+        <video:description><![CDATA[Tworzenie konta organizacyjnego i Subskrypcji Dowiedz się jak zacząć korzystać z usługi Microsoft Azure. Zapoznaj się z procesem aktywacji bezpłatnej wersji testowej Miorsoft Azure. Naucz się jak&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/40fe/98b46773-b080-46f5-8c2e-6a35c92e40fe/TworzenieKonta_mid.mp4</video:content_loc>
+        <video:duration>551</video:duration>
+        <video:publication_date>2015-01-21T09:11:16.5837860+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

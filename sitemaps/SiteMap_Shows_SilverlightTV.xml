@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-83-Using-Wireframes-to-Visually-Communicate-a-Windows-Phone-Experience</loc>
+      <lastmod>2011-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/383b/54cf1c6e-b518-4daa-9bed-9f42015b383b/sltv83_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 83: Using Wireframes to Visually Communicate a Windows Phone Experience]]></video:title>
+        <video:description><![CDATA[ In this episode, Corrina continues the Design Tips miniseries by sharing her insights on how to use wireframes to improve the design and development process for Windows Phone applications. She walks&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/383b/54cf1c6e-b518-4daa-9bed-9f42015b383b/sltv83_high_ch9.mp4</video:content_loc>
+        <video:duration>2385</video:duration>
+        <video:publication_date>2011-08-25T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-82-Custom-Markup-Extensions</loc>
+      <lastmod>2011-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b8d/b0781669-f1ef-4b8c-b9f7-9f3501666b8d/sltv82_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 82: Custom Markup Extensions]]></video:title>
+        <video:description><![CDATA[ Sundara Kumar and Mark Harper work on the new custom markup extensions (CME) feature in Silverlight 5. They explain how CME&#39;s allow you to extend XAML so that you can run any custom code. These guys&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b8d/b0781669-f1ef-4b8c-b9f7-9f3501666b8d/sltv82_high_ch9.mp4</video:content_loc>
+        <video:duration>1339</video:duration>
+        <video:publication_date>2011-08-18T15:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-81-4-Great-Windows-Phone-UX-Tips</loc>
+      <lastmod>2011-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac38/a08c3387-beea-4008-95f8-9f350160ac38/sltv81_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 81: Four Great Windows Phone UX Tips]]></video:title>
+        <video:description><![CDATA[ In this episode, Dave Crawford and Tom Eddings visit from the UK to contribute to the Design Tips miniseries. Dave and Tom have tremendous amounts of experience helping to create great UX for Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac38/a08c3387-beea-4008-95f8-9f350160ac38/sltv81_high_ch9.mp4</video:content_loc>
+        <video:duration>1493</video:duration>
+        <video:publication_date>2011-08-11T15:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-80-Reactive-Extensions</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6a7/e03d4181-57aa-4a7d-b814-9f0f015ad6a7/sltv80_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 80: Reactive Extensions]]></video:title>
+        <video:description><![CDATA[ In this episode, Jesse Liberty explains how Reactive Extensions work with Silverlight and Windows Phone. In order to simplify the code, Jesse suggests using Reactive Extensions whenever you are deep&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6a7/e03d4181-57aa-4a7d-b814-9f0f015ad6a7/sltv80_high_ch9.mp4</video:content_loc>
+        <video:duration>1356</video:duration>
+        <video:publication_date>2011-08-04T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-79-Data-Binding-Debugging</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0820/614b4fe3-0ab4-489d-8c78-9f08012d0820/sltv79_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 79: Data Binding Debugging]]></video:title>
+        <video:description><![CDATA[ Ever bang your head against a wall trying to figure out what&#39;s wrong with your data binding XAML? If so, then you will love the new data binding debugging features in Silverlight 5. In this episode&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0820/614b4fe3-0ab4-489d-8c78-9f08012d0820/sltv79_high_ch9.mp4</video:content_loc>
+        <video:duration>1231</video:duration>
+        <video:publication_date>2011-07-21T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-78-Designing-Tiles-and-Splash-Screens-for-Windows-Phone-Design-Tips-Mini-Series</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e8e/c31d74e1-1183-4109-bdfb-9f02011a5e8e/sltv78_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 78: Designing Tiles and Splash Screens for Windows Phone (Design Tips Mini Series)]]></video:title>
+        <video:description><![CDATA[ In this episode, Corrina continues the Design Tips miniseries by sharing her insights on how to create tiles and splash screens for Windows Phone applications. She walks through the process of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e8e/c31d74e1-1183-4109-bdfb-9f02011a5e8e/sltv78_high_ch9.mp4</video:content_loc>
+        <video:duration>1405</video:duration>
+        <video:publication_date>2011-07-14T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-77-Exploring-3D</loc>
+      <lastmod>2011-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2ee/692ca647-9b5e-4b71-a9c0-9ef40142a2ee/sltv77_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 77: Exploring 3D]]></video:title>
+        <video:description><![CDATA[ This week Aaron Oneal, program manager of the Silverlight 3D efforts, joins John to discuss the 3D APIs in Silverlight 5 beta. Aaron was instrumental in working on the 3D features and helped to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2ee/692ca647-9b5e-4b71-a9c0-9ef40142a2ee/sltv77_high_ch9.mp4</video:content_loc>
+        <video:duration>1606</video:duration>
+        <video:publication_date>2011-06-23T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-76-Animations-on-Windows-Phone-in-the-Bird-Hunt-Game</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/18d5/912f7f15-85e2-4043-adb3-9ef4014518d5/sltv76_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 76: Animations on Windows Phone in the Bird Hunt Game]]></video:title>
+        <video:description><![CDATA[ Interested in creating a game for Windows Phone using Silverlight? In this episode, Jeff Paries, Silverlight MVP and author of the book Silverlight Animation, walks through the source for his Bird&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/18d5/912f7f15-85e2-4043-adb3-9ef4014518d5/sltv76_high_ch9.mp4</video:content_loc>
+        <video:duration>1100</video:duration>
+        <video:publication_date>2011-06-09T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-75-Quick-and-Dirty-UX-Testing-Design-Tips-Mini-Series</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de56/b8706197-d2f6-4495-9661-9ef4013ade56/sltv75_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 75: Quick and Dirty UX Testing (Design Tips Mini Series)]]></video:title>
+        <video:description><![CDATA[ Susan shares her insights on how to do quick and dirty UX testing to help your application be more successful. Susan (who works with great people on the UX team, including Corrina Black, Tsitsi Gora,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de56/b8706197-d2f6-4495-9661-9ef4013ade56/sltv75_high_ch9.mp4</video:content_loc>
+        <video:duration>1214</video:duration>
+        <video:publication_date>2011-06-02T22:21:37.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-74-Whats-New-in-RIA-Services</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0811/8c628380-7bff-4e93-995b-9ee901460811/sltv74_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 74: What&#39;s New in RIA Services]]></video:title>
+        <video:description><![CDATA[ In this episode, Deepesh Mohnani of the WCF RIA Services team discusses all of the new features introduced since the initial RIA Services release. These include expanded localization support,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0811/8c628380-7bff-4e93-995b-9ee901460811/sltv74_high_ch9.mp4</video:content_loc>
+        <video:duration>1601</video:duration>
+        <video:publication_date>2011-05-26T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-73-Whats-New-in-MVVM-Light</loc>
+      <lastmod>2017-08-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cf47/34ed061c-cf04-460f-8de4-9ee6017ccf47/sltv73_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 73: What&#39;s New in MVVM Light]]></video:title>
+        <video:description><![CDATA[ Laurent Bugnion of IdentityMine appears on the show to discuss his latest additions to the MVVM Light toolkit for both Silverlight, WPF, and Windows Phone. Laurent covers several new features,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf47/34ed061c-cf04-460f-8de4-9ee6017ccf47/sltv73_high_ch9.mp4</video:content_loc>
+        <video:duration>1034</video:duration>
+        <video:publication_date>2011-05-19T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-72-Windows-Phone-Tips-for-Loading-Images</loc>
+      <lastmod>2015-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/B680/3E6F4D51-B077-4BC4-A714-9EE0013FB680/sltv72_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 72: Windows Phone Tips for Optimizing Image Quality]]></video:title>
+        <video:description><![CDATA[ Want to optimize how a list of images loads and scrolls in your Windows Phone application? Jobi Joy, UX Architect with IdentityMine and key contributor to the IRC chat app in the MIX11 Day 2 keynote,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/B680/3E6F4D51-B077-4BC4-A714-9EE0013FB680/sltv72_high_ch9.mp4</video:content_loc>
+        <video:duration>1053</video:duration>
+        <video:publication_date>2011-05-12T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-71-Laurent-Bugnion-Luigi-Ross-and-Ward-Bell-Talk-Silverlight-5-at-MIX11</loc>
+      <lastmod>2015-03-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4234/0FDC952E-ABE4-4EB0-B3B4-9ED901824234/Ch9LiveMIX11SilverlightTV_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 71: Laurent Bugnion, Luigi Rosso, and Ward Bell Talk Silverlight 5 at MIX11]]></video:title>
+        <video:description><![CDATA[ Laurent Bugion of IdentityMine, Luigi Rosso of Archetype, and Ward Bell of IdeaBlade join John Papa at MIX11 to answer questions about Silverlight 5 from the live viewers of Channel 9 Live. The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4234/0FDC952E-ABE4-4EB0-B3B4-9ED901824234/Ch9LiveMIX11SilverlightTV_high_ch9.mp4</video:content_loc>
+        <video:duration>1928</video:duration>
+        <video:publication_date>2011-05-05T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-70-Sockets-Unplugged</loc>
+      <lastmod>2014-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/CAFF/6320D8FD-4ACC-42C5-BB34-9ED20156CAFF/sltv70_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 70: Sockets Unplugged]]></video:title>
+        <video:description><![CDATA[ Ever wonder how to use sockets or what they&#39;re good for? In this video, Peter Smith of the Silverlight networking team joins John to discuss these topics and demonstrate how sockets work by using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/CAFF/6320D8FD-4ACC-42C5-BB34-9ED20156CAFF/sltv70_high_ch9.mp4</video:content_loc>
+        <video:duration>858</video:duration>
+        <video:publication_date>2011-04-28T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-69-UX-and-Perceived-Performance-of-WP7-Apps</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/beb7/96fbcf8b-18d1-42e0-be01-9ecb0145beb7/sltv69_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 69: UX and Perceived Performance of WP7 Apps]]></video:title>
+        <video:description><![CDATA[ In this video, Jobi Joy, UX Architect with IdentityMine, joins John to discuss some of the lessons his company learned while contributing to the very popular and successful IMDB and Twitter Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/beb7/96fbcf8b-18d1-42e0-be01-9ecb0145beb7/sltv69_high_ch9.mp4</video:content_loc>
+        <video:duration>968</video:duration>
+        <video:publication_date>2011-04-21T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-68-Worlds-are-Colliding-New-Silverlight-Web-Parts-for-Sharepoint</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5408/c84ccca9-b27f-472d-a942-9eb7015d5408/sltv68_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 68: Worlds are Colliding! New Silverlight Web Parts for SharePoint]]></video:title>
+        <video:description><![CDATA[ Paul Stubbs, of Sharepoint Sideshow,  joins John to discuss some new features the Sharepoint team have released for Visual Studio to make Silverlight development easier. Paul walks through the new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5408/c84ccca9-b27f-472d-a942-9eb7015d5408/sltv68_high_ch9.mp4</video:content_loc>
+        <video:duration>736</video:duration>
+        <video:publication_date>2011-04-01T04:58:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-67-Bill-Buxton-Talks-about-Speed-Dating-at-MIX11</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7008/33C40066-6731-4527-A5DC-9EAD01657008/sltv67_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 67: Bill Buxton Talks about Speed Dating at MIX11]]></video:title>
+        <video:description><![CDATA[ Recently, UX legend Bill Buxton was in town and stopped by to share what he&#39;s been up to. In this video, he discusses how integrated devices with things that &amp;quot;just work together,&amp;quot; UX, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7008/33C40066-6731-4527-A5DC-9EAD01657008/sltv67_high_ch9.mp4</video:content_loc>
+        <video:duration>863</video:duration>
+        <video:publication_date>2011-03-24T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-66-Phoney-New-Windows-Phone-7-Open-Source-Project</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/CB2B/6100F597-A5E3-4751-A198-9EA7015FCB2B/sltv66_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 66: Phoney - New Windows Phone 7 Open Source Project]]></video:title>
+        <video:description><![CDATA[ Struggling with using bit.ly or logging on Windows Phone 7? Then you might want to learn about Phoney, a new open source project by Shawn Wildermuth that will be at Open Source Fest at MIX11 on April&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/CB2B/6100F597-A5E3-4751-A198-9EA7015FCB2B/sltv66_high_ch9.mp4</video:content_loc>
+        <video:duration>1198</video:duration>
+        <video:publication_date>2011-03-17T16:22:49.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-65-3D-Graphics</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/C618/E96B2AD8-B543-4B43-9886-9E9C0145C618/sltv65_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 65: 3D Graphics]]></video:title>
+        <video:description><![CDATA[ Do 3D and graphics get you going? The folks at Archetype created an amazing 3D application that we first showed in the keynote at the Silverlight Firestarter in December, 2010. In this episode, Danny&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/C618/E96B2AD8-B543-4B43-9886-9E9C0145C618/sltv65_high_ch9.mp4</video:content_loc>
+        <video:duration>652</video:duration>
+        <video:publication_date>2011-03-10T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-64-Dive-into-64bit-Support-App-Model-and-Security</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8A3A/7D69959A-8873-466A-9CD9-9E9901588A3A/sltv64_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 64: Dive into 64bit Support, App Model and Security]]></video:title>
+        <video:description><![CDATA[ In this episode, Nick Kramer of the Silverlight team joins John on Silverlight TV to discuss the application model, 64bit support, and security features with Silverlight. Nick dives into some of his&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8A3A/7D69959A-8873-466A-9CD9-9E9901588A3A/sltv64_high_ch9.mp4</video:content_loc>
+        <video:duration>729</video:duration>
+        <video:publication_date>2011-03-03T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-63-Exploring-National-Instruments-App-Using-Data-and-Business-Features</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6CB6/F91C1658-00E3-4DA6-BFE3-9E9401686CB6/sltv63_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 63: Exploring National Instruments&#39; App Using Data and Business Features]]></video:title>
+        <video:description><![CDATA[ In this episode, Steve Lasker of the Silverlight team joins John on Silverlight TV to discuss data and business features with Silverlight. Steve dives into some of his favorite features and shows off&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6CB6/F91C1658-00E3-4DA6-BFE3-9E9401686CB6/sltv63_high_ch9.mp4</video:content_loc>
+        <video:duration>950</video:duration>
+        <video:publication_date>2011-02-25T17:21:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-62-The-Silverlight-5-Triad-Unplugged</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e77b/b21d7957-7a8e-4f0b-8cf5-9e8c011de77b/sltv62_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 62: The Silverlight 5 Triad Unplugged]]></video:title>
+        <video:description><![CDATA[ In this episode, the Silverlight 5 Triad joins John on Silverlight TV to discuss their Silverlight 5 roles, some ways they receive feedback from customers, how they interact with each other, and to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e77b/b21d7957-7a8e-4f0b-8cf5-9e8c011de77b/sltv62_high_ch9.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2011-02-17T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-61-Expert-Chat-on-Deep-Zoom-Touch-and-Windows-Phone</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0AD1/49005F3B-09EA-4AF6-906C-9E8600770AD1/sltv61_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 61: Expert Chat on Deep Zoom, Touch, and Windows Phone]]></video:title>
+        <video:description><![CDATA[ Thinking about writing a touch intensive Windows Phone 7 application? In this episode, David Kelley of Wirestone shares his experience creating rich experiences with Silverlight. David has been&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0AD1/49005F3B-09EA-4AF6-906C-9E8600770AD1/sltv61_high_ch9.mp4</video:content_loc>
+        <video:duration>1068</video:duration>
+        <video:publication_date>2011-02-10T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-60-Checking-Out-the-Zero-Gravity-Game-Now-on-Windows-Phone-7</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/43BC/DD3FA913-A74A-44CF-A914-9E7E014D43BC/sltv60_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 60: Checking Out the Zero Gravity Game, Now on Windows Phone 7]]></video:title>
+        <video:description><![CDATA[ Did you ever want to write a game with Silverlight for Windows Phone 7? Ryan Plemons, Sr Developer with Terralever, shares his journey in optimizing the Silverlight based Zero Gravity game to work on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/43BC/DD3FA913-A74A-44CF-A914-9E7E014D43BC/sltv60_high_ch9.mp4</video:content_loc>
+        <video:duration>560</video:duration>
+        <video:publication_date>2011-02-03T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-59-What-Does-it-Take-to-Get-Silverlight-Out-to-the-Public</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/A399/03FF05C9-F6C3-4E9E-813A-9E750145A399/sltv59_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 59: What Goes Into Baking Silverlight?]]></video:title>
+        <video:description><![CDATA[ Ever wonder what goes into making Silverlight? This week on Silverlight TV, we go behind the scenes with some folks who are responsible for testing and getting the Silverlight bits out to the public.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/A399/03FF05C9-F6C3-4E9E-813A-9E750145A399/sltv59_high_ch9.mp4</video:content_loc>
+        <video:duration>974</video:duration>
+        <video:publication_date>2011-01-27T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-58-Windows-Phone-Design-Tips-With-Corrina</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/955B/EA24AB4C-E892-4E1C-BB7B-9E6B0170955B/sltv58_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 58: Windows Phone Design Tips With Corrina]]></video:title>
+        <video:description><![CDATA[ New Windows Phone 7 applications are being uploaded to the marketplace all the time. But is your application standing out? This week, John and Corrina Black kick off a new Silverlight TV mini series&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/955B/EA24AB4C-E892-4E1C-BB7B-9E6B0170955B/sltv58_high_ch9.mp4</video:content_loc>
+        <video:duration>970</video:duration>
+        <video:publication_date>2011-01-20T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-57-Performance-Tuning-Your-Apps</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb2c/8cca920c-c209-4d7b-bc67-9e67015deb2c/sltv57_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 57: Performance Tuning Your Apps]]></video:title>
+        <video:description><![CDATA[ Application performance is a hot topic, and for good reason. User Experience is hugely important, but if your app is slow then everything degrades, including UX. In this episode, John talks to the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb2c/8cca920c-c209-4d7b-bc67-9e67015deb2c/sltv57_high_ch9.mp4</video:content_loc>
+        <video:duration>1634</video:duration>
+        <video:publication_date>2011-01-13T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-56-WCF-RIA-Services-and-Azure</loc>
+      <lastmod>2015-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/938f/453ca8b5-4983-4502-8528-9e4e0132938f/sltv56_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 56: WCF RIA Services and Azure]]></video:title>
+        <video:description><![CDATA[ In this episode, John sits down with Saurabh Pant of the WCF RIA Services team and discusses the story of RIA Services and Azure. Saurabh walks through the scenarios in which Azure and RIA Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/938f/453ca8b5-4983-4502-8528-9e4e0132938f/sltv56_high_ch9.mp4</video:content_loc>
+        <video:duration>1431</video:duration>
+        <video:publication_date>2011-01-06T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-55-1000-Silverlight-Cream-Posts-and-Counting</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/09a2/baf4b7c7-85f9-41cb-9ea6-9e4d017909a2/sltv55_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 55: 1000 Silverlight Cream Posts and Counting!]]></video:title>
+        <video:description><![CDATA[ This week on Silverlight TV, John welcomes Dave Campbell. Dave, a Silverlight MVP and creator of Silverlight Cream, recently published his 1000th Silverlight Cream post, calling out the best and most&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/09a2/baf4b7c7-85f9-41cb-9ea6-9e4d017909a2/sltv55_high_ch9.mp4</video:content_loc>
+        <video:duration>379</video:duration>
+        <video:publication_date>2010-12-16T22:38:21.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-54-New-Silverlight-Training-Series</loc>
+      <lastmod>2017-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/ec6f/5936c759-c8d3-4873-b573-9e440140ec6f/sltv54_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 54: New Silverlight Training Series]]></video:title>
+        <video:description><![CDATA[ This week on Silverlight TV, John introduces a brand-new Silverlight Training Series first announced at the Silverlight Firestarter. Created by John Papa and Silverlight MVPs Corey Schuman and Dan&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/ec6f/5936c759-c8d3-4873-b573-9e440140ec6f/sltv54_high_ch9.mp4</video:content_loc>
+        <video:duration>456</video:duration>
+        <video:publication_date>2010-12-09T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-53-T-Minus-2-Weeks-to-the-Silverlight-Firestarter</loc>
+      <lastmod>2012-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/42f1/8dab8c21-b1ad-4a72-88cd-9e31014b42f1/sltv53_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 53: T Minus 2 Weeks to the Silverlight Firestarter]]></video:title>
+        <video:description><![CDATA[ Only two weeks remain until the Silverlight Firestarter.  In this video, John and Scott Guthrie discuss the upcoming Silverlight Firestarter and what the folks watching it online and in person should&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/42f1/8dab8c21-b1ad-4a72-88cd-9e31014b42f1/sltv53_high_ch9.mp4</video:content_loc>
+        <video:duration>344</video:duration>
+        <video:publication_date>2010-11-18T08:45:39.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-52-Entity-Level-Validation-Defining-MetaData-and-Nested-ComboBoxes-with-WCF-RIA-Servi</loc>
+      <lastmod>2011-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/580c/c474b274-cbf4-4e90-ae6a-9e2c005c580c/sltv52_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 52: Entity Level Validation, Defining MetaData and Nested ComboBoxes with WCF RIA&amp;#8230;]]></video:title>
+        <video:description><![CDATA[ In this video, John sits down with Kyle McClellan of the WCF RIA Services team and responds to top questions from the RIA Services forums. Kyle runs through various scenarios and provides great&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/580c/c474b274-cbf4-4e90-ae6a-9e2c005c580c/sltv52_ch9.mp4</video:content_loc>
+        <video:duration>1267</video:duration>
+        <video:publication_date>2010-11-12T23:20:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-51-Debugging-and-Deploying-WCF-RIA-Services</loc>
+      <lastmod>2012-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/adc2/a11a4433-78da-4d98-b6c3-9e240170adc2/sltv51_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 51: Debugging and Deploying WCF RIA Services ]]></video:title>
+        <video:description><![CDATA[ In this video, John sits down with Saurabh Pant of the WCF RIA Services team and responds to some of the most common issues customers encounter when deploying WCF RIA Services. Saurabh runs through&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/adc2/a11a4433-78da-4d98-b6c3-9e240170adc2/sltv51_ch9.mp4</video:content_loc>
+        <video:duration>1156</video:duration>
+        <video:publication_date>2010-11-05T15:58:39.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-50-The-State-of-Silverlight-with-Scott-Guthrie</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/d274/e69539b7-2e75-462d-a614-9e150175d274/sltv50_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 50: The State of Silverlight with Scott Guthrie]]></video:title>
+        <video:description><![CDATA[ John sits down with Scott Guthrie, Corporate VP at Microsoft, to discuss the state of Silverlight. Scott discusses the impact of Silverlight in applications including Windows Phone 7, the history of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/d274/e69539b7-2e75-462d-a614-9e150175d274/sltv50_ch9.mp4</video:content_loc>
+        <video:duration>1143</video:duration>
+        <video:publication_date>2010-10-21T16:17:52.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-49-Creating-Rich-Interactive-Prototypes-with-Sketchflow-Part-2</loc>
+      <lastmod>2011-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7eb1/b22eb807-e297-4258-a7f2-9e0e01517eb1/sltv49_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 49: Creating Rich Interactive Prototypes with Sketchflow - Part 2]]></video:title>
+        <video:description><![CDATA[ Janete Perez rejoins Silverlight TV to complete her 2 part series on Sketchflow (you can watch Janete in Part 1 of her Sketchflow series here). up. This time Janete walks through the creation of a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7eb1/b22eb807-e297-4258-a7f2-9e0e01517eb1/sltv49_ch9.mp4</video:content_loc>
+        <video:duration>1757</video:duration>
+        <video:publication_date>2010-10-14T08:00:00.0000000-07:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-48-Creating-Rich-Interactive-Prototypes-with-Sketchflow-Part-1</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/d69b/8f0ff521-84ba-4389-809a-9e060159d69b/sltv48_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 48: Creating Rich Interactive Prototypes with Sketchflow - Part 1]]></video:title>
+        <video:description><![CDATA[ Creating prototypes that convey what the application should present, how it should respond to user events, and the general flow of an application is made a whole lot easier with Sketchflow. Janete&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/d69b/8f0ff521-84ba-4389-809a-9e060159d69b/sltv48_ch9.mp4</video:content_loc>
+        <video:duration>1060</video:duration>
+        <video:publication_date>2010-10-07T02:00:00.0000000-07:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/SIlverlight-TV-47-Silverlight-and-Windows-Phone-7-Performance-Tips</loc>
+      <lastmod>2010-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/49104dda-321f-4b12-85bb-76ddfb53a684.png</video:thumbnail_loc>
+        <video:title><![CDATA[SIlverlight TV 47: Silverlight and Windows Phone 7 Performance Tips]]></video:title>
+        <video:description><![CDATA[Performance is always a critical topic in development, especially when it comes to a mobile device. Jeff Wilcox shares several performance tips and dives deep into how he made the ProgressBar perform&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/55e6/3b4eedc2-cd7e-4393-b07f-9e00017c55e6/sltv47_ch9.mp4</video:content_loc>
+        <video:duration>772</video:duration>
+        <video:publication_date>2010-09-30T09:00:00.0000000-07:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-46-Whats-Wrong-with-my-WCF-Service</loc>
+      <lastmod>2011-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0e1a/c400f1a2-263b-4c93-8b4d-9df901370e1a/sltv46_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 46: What&#39;s Wrong with my WCF Service? ]]></video:title>
+        <video:description><![CDATA[WCF is an integral part of the communication stack for Silverlight applications, but sometimes things go wrong, very wrong. How do you fix those issues. In this episode of Silverlight TV, Yavor&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0e1a/c400f1a2-263b-4c93-8b4d-9df901370e1a/sltv46_ch9.mp4</video:content_loc>
+        <video:duration>1549</video:duration>
+        <video:publication_date>2010-09-23T16:01:35.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-45-Building-a-Bing-Web-and-Image-Search-App-for-Windows-Phone-7-Using-Blend-and-Silve</loc>
+      <lastmod>2010-12-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4414/574414/sltv45_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 45: Building a Bing Web and Image Search App for Windows Phone 7 Using Blend and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[
+Want to build a Bing web and image search using Silverlight for Windows Phone 7? Kirupa Chinnathambi of the Expression team shows you just how to do that in this week&#39;s episode. Kirupa covers a lot&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4414/574414/sltv45_ch9.mp4</video:content_loc>
+        <video:duration>1482</video:duration>
+        <video:publication_date>2010-09-16T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-44-Top-Four-Questions-from-the-WCF-RIA-Services-Forum</loc>
+      <lastmod>2011-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2804/572804/sltv44_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 44: Top Four Questions from the WCF RIA Services Forum]]></video:title>
+        <video:description><![CDATA[
+Today on Silverlight TV, Deepesh Mohnani answers four of the questions most frequently asked in the popular WCF RIA Services forums. This is a great episode to watch and the first in a periodic&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2804/572804/sltv44_ch9.mp4</video:content_loc>
+        <video:duration>1338</video:duration>
+        <video:publication_date>2010-09-09T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-43-Applying-Animations-and-States-to-Your-Application</loc>
+      <lastmod>2011-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8435/568435/sltv43_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 43: Applying Animations and States to Your Application]]></video:title>
+        <video:description><![CDATA[
+On this episode, John Stockton demonstrates how to create animations for Silverlight using Storyboards in Expression Blend. He explores the roles that the storyboards, visual states, behaviors,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8435/568435/sltv43_ch9.mp4</video:content_loc>
+        <video:duration>1686</video:duration>
+        <video:publication_date>2010-09-02T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-42-Apply-and-Customize-the-New-Silverlight-Themes</loc>
+      <lastmod>2011-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7256/567256/sltv42_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 42: Apply and Customize the New Silverlight Themes]]></video:title>
+        <video:description><![CDATA[
+Tsitsi Gora, UX Designer at Microsoft, appears on the show to announce the new Silverlight themes that her team has been working on. Tsitsi demonstrates the new themes available for download and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7256/567256/sltv42_ch9.mp4</video:content_loc>
+        <video:duration>1168</video:duration>
+        <video:publication_date>2010-08-26T15:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-41-Top-Tips-for-WCF-RIA-Services</loc>
+      <lastmod>2010-11-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7026/567026/sltv41_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 41: Top Tips for WCF RIA Services]]></video:title>
+        <video:description><![CDATA[On this episode, Dinesh Kulkarni shares his top tips for creating streamlined and performant WCF RIA Services applications. He walks through some key decision points while creating domain services&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7026/567026/sltv41_ch9.mp4</video:content_loc>
+        <video:duration>1780</video:duration>
+        <video:publication_date>2010-08-19T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-40-You-Are-Already-a-Windows-Phone-Developer</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6527/566527/sltv40_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 40: You Are Already a Windows Phone Developer]]></video:title>
+        <video:description><![CDATA[
+It has been said that if you know Silverlight then you are already a Windows Phone 7 developer. Jesse Liberty joins John Papa this week to explore that statement and demonstrate the side-by-side&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6527/566527/sltv40_ch9.mp4</video:content_loc>
+        <video:duration>1338</video:duration>
+        <video:publication_date>2010-08-12T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Advanced-Silverlight-Navigation-Scenarios-Part-2-Silverlight-TV-39</loc>
+      <lastmod>2010-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4531/564531/sltv39b_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced Silverlight Navigation Scenarios - Part 2 (Silverlight TV #39)]]></video:title>
+        <video:description><![CDATA[
+In the second of two navigation videos we filmed, Karl Shifflett joins John Papa to demonstrate how he made some simple extensions to the navigation API in Silverlight in order to solve very common&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4531/564531/sltv39b_ch9.mp4</video:content_loc>
+        <video:duration>1676</video:duration>
+        <video:publication_date>2010-08-05T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Creating-Navigation-Structures-in-Silverlight-Silverlight-TV-38</loc>
+      <lastmod>2010-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3896/563896/sltv38nav_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Navigation Structures in Silverlight (Silverlight TV #38)]]></video:title>
+        <video:description><![CDATA[
+In the first of 2 navigation videos we filmed, David Poll joins John Papa to demonstrate how the Silverlight navigation API can be used to solve common navigational structures. David explains how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3896/563896/sltv38nav_ch9.mp4</video:content_loc>
+        <video:duration>1584</video:duration>
+        <video:publication_date>2010-07-29T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Understanding-the-Value-of-Prism-Silverlight-TV-37</loc>
+      <lastmod>2013-03-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/9/3/2/6/5/sltv37revision_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding the Value of Prism (Silverlight TV #37)]]></video:title>
+        <video:description><![CDATA[
+In this episode, Brian Noyes discusses strategies for building Silverlight business applications. Brian is an advisor working with the Patterns and Practices team on the current and future versions&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/9/3/2/6/5/sltv37revision_ch9.mp4</video:content_loc>
+        <video:duration>1592</video:duration>
+        <video:publication_date>2010-07-22T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Templating-Controls-with-Silverlight-Silverlight-TV-36</loc>
+      <lastmod>2011-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/0/0/1/6/5/sltv36_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Templating Controls with Silverlight (Silverlight TV #36)]]></video:title>
+        <video:description><![CDATA[
+In this episode, Adam Kinney discusses how you can completely customize how a control looks and behaves. Adam explains how all Silverlight controls are lookless and that they can be customized using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/0/0/1/6/5/sltv36_ch9.mp4</video:content_loc>
+        <video:duration>1163</video:duration>
+        <video:publication_date>2010-07-15T15:36:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Advanced-Silverlight-Printing-Strategies-Silverlight-TV-35</loc>
+      <lastmod>2018-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/ch9/6/2/3/8/5/5/sltv35_512_ch9a.png</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced Silverlight Printing Strategies (Silverlight TV #35)]]></video:title>
+        <video:description><![CDATA[In this episode, Pete Brown discusses the printing API in Silverlight 4 and demonstrates his recent printing exploits. Pete shows John how, using the API, he created a printing library that serves as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/2/3/8/5/5/sltv35_ch9.mp4</video:content_loc>
+        <video:duration>929</video:duration>
+        <video:publication_date>2010-07-01T20:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Duplex-Communication-with-WCF-in-Silverlight-4-Silverlight-TV-34</loc>
+      <lastmod>2011-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/2/0/7/5/5/sltv34_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Duplex Communication with WCF in Silverlight 4 (Silverlight TV #34)]]></video:title>
+        <video:description><![CDATA[
+In this episode, Tomasz Janczuk of the Silverlight Web Services team joins John to demonstrate how to implement duplex communication with WCF in Silverlight. Tomasz discusses a how to implement a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/2/0/7/5/5/sltv34_ch9.mp4</video:content_loc>
+        <video:duration>1189</video:duration>
+        <video:publication_date>2010-06-24T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Jesse-Liberty-Explains-Silverlight-as-a-Transmedia-Platform-Silverlight-TV-33</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/7/9/5/5/5/sltv33_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jesse Liberty Explains Silverlight with Transmedia Storytelling (Silverlight TV #33)]]></video:title>
+        <video:description><![CDATA[
+In this episode, Jesse Liberty explains Transmedia Storytelling and why he believes that Silverlight may be the ideal platform for creating Transmedia applications on the web, Windows Phone 7, and,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/7/9/5/5/5/sltv33_ch9.mp4</video:content_loc>
+        <video:duration>442</video:duration>
+        <video:publication_date>2010-06-17T10:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Creating-Rich-Interactions-Using-Blend-4-Transition-Effects-Fluid-Layout-and-Layout-States-Silverlig</loc>
+      <lastmod>2011-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/1/7/4/5/5/sltv32young_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Rich Interactions Using Blend 4: Transition Effects, Fluid Layout, and Layout States&amp;#8230;]]></video:title>
+        <video:description><![CDATA[
+In this episode, Kenny Young of the Expression Blend team demonstrates how to make some compelling interactions using Expression Blend 4 for Silverlight 4. He demonstrates some great examples using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/1/7/4/5/5/sltv32young_ch9.mp4</video:content_loc>
+        <video:duration>1177</video:duration>
+        <video:publication_date>2010-06-10T10:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Diving-into-the-RichTextBox-Silverlight-TV-31</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/2/4/3/5/5/sltv31rtb_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Diving into the RichTextBox (Silverlight TV #31)]]></video:title>
+        <video:description><![CDATA[
+Mark Rideout, Program Manager on the Silverlight product team, joins John to dive deep into many of the RichTextBox control&#39;s features. Mark has worked on the text aspects of Silverlight since the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/2/4/3/5/5/sltv31rtb_ch9.mp4</video:content_loc>
+        <video:duration>1420</video:duration>
+        <video:publication_date>2010-06-03T16:59:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Using-Behaviors-in-Blend-4-Silverlight-TV-30</loc>
+      <lastmod>2010-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/0/8/2/5/5/sltv30behaviorstry2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Using Behaviors in Blend 4 (Silverlight TV 30)]]></video:title>
+        <video:description><![CDATA[
+In this episode, Adam Kinney demonstrates how to take advantage of behaviors in Expression Blend 4. He creates several demonstrations using the new DataStore and conditional behavior features in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/0/8/2/5/5/sltv30behaviorstry2_ch9.mp4</video:content_loc>
+        <video:duration>1111</video:duration>
+        <video:publication_date>2010-06-01T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Learning-Silverlight-and-Blend-with-toolbox-Silverlight-TV-29</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/9/3/1/5/5/sltv29toolbox_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Learning Silverlight and Blend with .toolbox (Silverlight TV #29)]]></video:title>
+        <video:description><![CDATA[
+In this episode, Arturo Toledo demonstrates all of the new content he and his colleagues have created to teach you to design and develop with Expression Blend and Silverlight. He shows off some&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/9/3/1/5/5/sltv29toolbox_ch9.mp4</video:content_loc>
+        <video:duration>1055</video:duration>
+        <video:publication_date>2010-05-27T16:19:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/WCF-RIA-Services-v10-Launch-Silverlight-TV-28</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/3/1/0/5/5/sltv28riaserviceslaunch_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WCF RIA Services v1.0 Launch! (Silverlight TV 28)]]></video:title>
+        <video:description><![CDATA[
+Nikhil Kothari and Dinesh Kulkarni join John to announce the official release of WCF RIA Services v1.0! They discuss the road their teams took to create RIA Services, some of the decision points&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/3/1/0/5/5/sltv28riaserviceslaunch_ch9.mp4</video:content_loc>
+        <video:duration>838</video:duration>
+        <video:publication_date>2010-05-17T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-4-Tools-for-Visual-Studio-2010-Launch-New-Designer-Capabilities-Silverlight-TV-27</loc>
+      <lastmod>2015-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/3/1/0/5/5/sltv27ciderlaunch_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight 4 Tools for Visual Studio 2010 Launch: New Designer Capabilities (Silverlight TV 27) ]]></video:title>
+        <video:description><![CDATA[
+Mark Wilson-Thomas joins John to announce the launch of the Silverlight 4 Tools for Visual Studio 2010! Mark shows off several impressive, new features in the Visual Studio 2010 designer that work&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/3/1/0/5/5/sltv27ciderlaunch_ch9.mp4</video:content_loc>
+        <video:duration>1234</video:duration>
+        <video:publication_date>2010-05-17T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-26-Exposing-SOAP-OData-and-JSON-Endpoints-for-RIA-Services</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/1/7/8/4/5/SLTV26_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 26: Exposing SOAP, OData, and JSON Endpoints for RIA Services]]></video:title>
+        <video:description><![CDATA[
+In this video, John meets with Deepesh Mohnani from the WCF RIA Services team. Deepesh demonstrates how to expose various endpoints from WCF RIA Services. This is a great explanation and walk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/1/7/8/4/5/SLTV26_ch9.mp4</video:content_loc>
+        <video:duration>1047</video:duration>
+        <video:publication_date>2010-05-13T15:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-25-No-More-Boxes-Exploring-the-PathListBox</loc>
+      <lastmod>2010-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/0/7/8/4/5/SLTV25_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 25: No More Boxes! Exploring the PathListBox]]></video:title>
+        <video:description><![CDATA[
+In this video, Adam Kinney explains what the PathListBox is and why it is so compelling. Then, he demonstrates several ways of using it in creative examples. The PathListBox is one of the newest&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/0/7/8/4/5/SLTV25_ch9.mp4</video:content_loc>
+        <video:duration>850</video:duration>
+        <video:publication_date>2010-05-11T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-24-eBays-Silverlight-4-Simple-Lister-Application</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/8/2/7/4/5/SLTV24ebayrevised_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 24: eBay&#39;s Silverlight 4 Simple Lister Application]]></video:title>
+        <video:description><![CDATA[
+John grabs a few minutes with Dave Wolf of Cynergy to talk about the eBay Simple Lister application, one of the first publicly available Silverlight 4 out of browser applications. Dave discusses the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/8/2/7/4/5/SLTV24ebayrevised_ch9.mp4</video:content_loc>
+        <video:duration>935</video:duration>
+        <video:publication_date>2010-05-06T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-23-MVP-QA-with-Wildermuth-Wahlin-and-Bell</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/0/7/7/4/5/sltv23mvppanel_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 23: MVP Q&amp;A with Wildermuth, Wahlin, and Bell]]></video:title>
+        <video:description><![CDATA[
+
+John interviews a panel of three well known Silverlight leaders (Shawn Wildermuth, Dan Wahlin, and Ward Bell) at the Silverlight 4 launch event. The guest panel answers questions sent in from&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/0/7/7/4/5/sltv23mvppanel_ch9.mp4</video:content_loc>
+        <video:duration>1665</video:duration>
+        <video:publication_date>2010-05-04T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-22-Tim-Heuer-on-Extending-the-Silverlight-Media-Framework</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/3/7/6/4/5/SLTV22SMFTimHeuer_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 22: Tim Heuer on Extending the Silverlight Media Framework]]></video:title>
+        <video:description><![CDATA[
+Tim Heuer demonstrates how to use the Silverlight Media Framework (SMF) to create a nice media experience akin to what has been demonstrated through the 2010 Winter Olympics and Sunday
+ Night&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/3/7/6/4/5/SLTV22SMFTimHeuer_ch9.mp4</video:content_loc>
+        <video:duration>1275</video:duration>
+        <video:publication_date>2010-04-29T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-21-Silverlight-4-A-Customers-Perspective</loc>
+      <lastmod>2012-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/4/7/4/4/5/SLTV21CustomersPerspective_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 21: Silverlight 4 - Customer Perspectives]]></video:title>
+        <video:description><![CDATA[
+Live from the official launch event for Silverlight 4, John talks with a panel of guests who build applications using Silverlight. Franck Jeannin of Ormetis, Ward Bell of IdeaBlade, and Dave Wolf of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/4/7/4/4/5/SLTV21CustomersPerspective_ch9.mp4</video:content_loc>
+        <video:duration>1582</video:duration>
+        <video:publication_date>2010-04-22T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-20-Community-Driven-Development-with-WCF-RIA-Services</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/1/7/1/4/5/sltv20jeffhandley_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 20: Community Driven Development with WCF RIA Services]]></video:title>
+        <video:description><![CDATA[
+In this episode, John talks with Jeff Handley about how the community&#39;s feedback really helped shape some features in WCF RIA Services. Jeff is very active in the community and has a wealth of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/1/7/1/4/5/sltv20jeffhandley_ch9.mp4</video:content_loc>
+        <video:duration>953</video:duration>
+        <video:publication_date>2010-04-08T15:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-19-Hidden-Gems-from-MIX10-UFCs-Multi-Touch-App</loc>
+      <lastmod>2010-10-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/7/8/9/3/5/sltv19ideabladeufc_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 19: Hidden Gems from MIX10, UFC&#39;s Multi-Touch App]]></video:title>
+        <video:description><![CDATA[
+John ran into Silverlight MVP Ward Bell of 
+IdeaBlade while at MIX10 (how could anyone miss him!). Ward was kind enough to sit and talk with John to show off the multi-touch application his company&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/7/8/9/3/5/sltv19ideabladeufc_ch9.mp4</video:content_loc>
+        <video:duration>543</video:duration>
+        <video:publication_date>2010-04-01T15:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-18-WCF-RIA-Services-Validation</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/0/8/8/3/5/SLTV18RIASvcsNK_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 18: WCF RIA Services Validation]]></video:title>
+        <video:description><![CDATA[
+Just prior to MIX10, Nikhil Kothari appears on the show to demonstrate some of the key advantages around validation when using WCF RIA Services. He demonstrates how to use a Domain Service to expose&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/0/8/8/3/5/SLTV18RIASvcsNK_ch9.mp4</video:content_loc>
+        <video:duration>1418</video:duration>
+        <video:publication_date>2010-03-25T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-17-Build-a-Twitter-Client-for-Windows-Phone-7-with-Silverlight</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/7/5/6/3/5/SLTV17WP7TwitterHarsh_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 17: Build a Twitter Client for Windows Phone 7 with Silverlight]]></video:title>
+        <video:description><![CDATA[Mike Harsh comes back to Silverlight TV to show
+John how easy it is to develop a real world application for Windows Phone 7 Series (WP7) using Silverlight. Within a matter of minutes, Mike has&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/7/5/6/3/5/SLTV17WP7TwitterHarsh_ch9.mp4</video:content_loc>
+        <video:duration>763</video:duration>
+        <video:publication_date>2010-03-17T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-16-Top-Features-in-Silverlight-4</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/7/5/6/3/5/SLTV16SL4RCPanel_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 16: Top Features in Silverlight 4]]></video:title>
+        <video:description><![CDATA[While at MIX10, John catches up with
+
+Jesse Liberty and Tim Heuer to discuss their favorite features in Silverlight 4. Along with calling out and discussing why they&#39;re each impressed with their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/7/5/6/3/5/SLTV16SL4RCPanel_ch9.mp4</video:content_loc>
+        <video:duration>403</video:duration>
+        <video:publication_date>2010-03-16T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-14-Developing-for-Windows-Phone-7-with-Silverlight</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/7/5/6/3/5/SLTV14WP7Overview_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 14: Developing for Windows Phone 7 with Silverlight ]]></video:title>
+        <video:description><![CDATA[We&#39;re here at MIX10 where Windows Phone 7 (WP7) and Silverlight just became the best match since peanut butter and chocolate!
+Mike Harsh, Program Manager for the Silverlight team working on WP7,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/7/5/6/3/5/SLTV14WP7Overview_ch9.mp4</video:content_loc>
+        <video:duration>565</video:duration>
+        <video:publication_date>2010-03-15T17:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-15-Announcing-Silverlight-4-RC</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/7/5/6/3/5/SLTV15SL4RC_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 15: Announcing Silverlight 4 RC]]></video:title>
+        <video:description><![CDATA[John and 
+Adam follow up the MIX10 keynote announcement of Silverlight 4 RC by discussing what is new and what materials have been released on the Channel 9 learning center website. They cover their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/7/5/6/3/5/SLTV15SL4RC_ch9.mp4</video:content_loc>
+        <video:duration>1003</video:duration>
+        <video:publication_date>2010-03-15T17:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-13-MVVM-Light-Toolkit</loc>
+      <lastmod>2012-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/3/2/5/3/5/SLTV13MVVMLite_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 13: MVVM Light Toolkit]]></video:title>
+        <video:description><![CDATA[
+Silverlight MVP Laurent Bugnion of IdentityMine appears on the show to discuss using MVVM with Silverlight. Laurent and John discuss their experiences with MVVM and how Laurent&#39;s experiences&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/3/2/5/3/5/SLTV13MVVMLite_ch9.mp4</video:content_loc>
+        <video:duration>871</video:duration>
+        <video:publication_date>2010-03-11T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-12-The-Best-Blend-3-Video-Ever</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/0/5/3/3/5/SLTV12Blend3_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 12: The Best Blend 3 Video Ever!]]></video:title>
+        <video:description><![CDATA[You never know what hijinks are in store when Adam Kinney and John get together. In this episode, Adam makes his theatrical return to Silverlight TV and claims to have filmed the best Expression Blend&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/0/5/3/3/5/SLTV12Blend3_ch9.mp4</video:content_loc>
+        <video:duration>1957</video:duration>
+        <video:publication_date>2010-03-03T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-11-Dynamically-Loading-XAPs-with-MEF</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/3/2/6/2/5/SLTV008_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 11: Dynamically Loading XAPs with MEF]]></video:title>
+        <video:description><![CDATA[Glenn Block, Program Manager working on MEF and self professed &amp;quot;MEF Maniac,&amp;quot; makes a return visit to Silverlight TV. Glenn dives right into the code and shows how to use MEF to load and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/3/2/6/2/5/SLTV008_ch9.mp4</video:content_loc>
+        <video:duration>1120</video:duration>
+        <video:publication_date>2010-03-01T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-10-Jesse-Liberty-Explains-the-Hyper-Video-Project</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/2/5/1/3/5/SLTV10SLHVP_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 10: Jesse Liberty Explains the Hyper Video Project]]></video:title>
+        <video:description><![CDATA[The Silverlight Geek himself, Jesse Liberty, appears on Silverlight TV and explores the Silverlight Hyper Video Platform (SLHVP). Jesse explains how SLHVP got off the ground and how it has evolved&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/2/5/1/3/5/SLTV10SLHVP_ch9.mp4</video:content_loc>
+        <video:duration>1259</video:duration>
+        <video:publication_date>2010-02-24T04:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-9-MIX-10K-Challenge</loc>
+      <lastmod>2015-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/3/2/9/2/5/SLTV009MIX10K_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 9: MIX 10K Challenge]]></video:title>
+        <video:description><![CDATA[The Continuum Show meets Silverlight TV as John and Adam Kinney, Expression Evangelist, review the highlights of the MIX 10K Challenge. They check out the winners in each category of the second annual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/3/2/9/2/5/SLTV009MIX10K_ch9.mp4</video:content_loc>
+        <video:duration>504</video:duration>
+        <video:publication_date>2010-02-18T11:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-8-Inside-Look-at-the-Code-for-the-Silverlight-for-Facebook-App</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/3/2/6/2/5/SLTV8Facebook_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 8: Inside Look at the Code for the Silverlight for Facebook App]]></video:title>
+        <video:description><![CDATA[John scores a cool interview with one of the developers responsible for the Silverlight client for Facebook application. This application made a big splash at the PDC 09 keynote, and another when it&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/3/2/6/2/5/SLTV8Facebook_ch9.mp4</video:content_loc>
+        <video:duration>830</video:duration>
+        <video:publication_date>2010-02-15T20:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-7-When-and-Where-to-use-MEF</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/2/2/6/2/5/SLTV007_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV 7: When and Where to use MEF]]></video:title>
+        <video:description><![CDATA[Glenn Block, Program Manager working on MEF and self professed &amp;quot;MEF Maniac,” makes his first visit to Silverlight TV. Glenn and John set aside the code for this episode, taking a step back to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/2/2/6/2/5/SLTV007_ch9.mp4</video:content_loc>
+        <video:duration>672</video:duration>
+        <video:publication_date>2010-02-10T18:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-Episode-6-Creating-Custom-Pre-Loaders</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/6/7/4/2/5/SLTV006_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV Episode 6: Creating Custom Pre-Loaders]]></video:title>
+        <video:description><![CDATA[Silverlight MVP John Stockton of Ascentium appears on the show to explain how to create a custom pre-loader (sometimes called a splash screen) for Silverlight applications. He demonstrates how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/6/7/4/2/5/SLTV006_ch9.mp4</video:content_loc>
+        <video:duration>1244</video:duration>
+        <video:publication_date>2010-02-04T15:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-Episode-5-Using-Metadata-with-MEF</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/9/6/3/2/5/SLTV005UsingMetadataWithMEF_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV Episode 5: Using Metadata with MEF]]></video:title>
+        <video:description><![CDATA[Hamilton Verissimo, Program Manager working on MEF, makes a return visit to Silverlight TV to follow up his discussion of MEF. This time Hamilton discusses different ways metadata can be used with MEF&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/9/6/3/2/5/SLTV005UsingMetadataWithMEF_ch9.mp4</video:content_loc>
+        <video:duration>809</video:duration>
+        <video:publication_date>2010-01-31T21:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-Episode-4-3-Steps-to-MEF-Export-Import-Compose</loc>
+      <lastmod>2017-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/7/1/1/2/5/SLTVEpisode4MEF3Steps_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV Episode 4: 3 Steps to MEF - Export, Import, Compose]]></video:title>
+        <video:description><![CDATA[John interviews Hamilton Verissimo, of Castle Windsor fame, about his latest work on the MEF team. Hamilton (aka MEF Man) discusses what MEF does and why you want to use MEF with your Silverlight&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/7/1/1/2/5/SLTVEpisode4MEF3Steps_ch9.mp4</video:content_loc>
+        <video:duration>970</video:duration>
+        <video:publication_date>2010-01-25T15:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-Episode-3-Multi-Touch-101-with-Silverlight</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/6/1/1/2/5/SLTV3LearnMultiTouch_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV Episode 3: Multi-Touch 101 with Silverlight]]></video:title>
+        <video:description><![CDATA[John interviews Silverlight MVP David Kelley about developing multi-touch applications in Silverlight. David discusses the types of multi-touch hardware and his experiences in developing real world&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/6/1/1/2/5/SLTV3LearnMultiTouch_ch9.mp4</video:content_loc>
+        <video:duration>627</video:duration>
+        <video:publication_date>2010-01-20T18:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Silverlight-TV-Episode-2-Perspectives-on-Flash-and-Silverlight</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/5/1/1/2/5/SLTV002FlashAndSilverlight_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV Episode 2: Perspectives on Flash and Silverlight]]></video:title>
+        <video:description><![CDATA[Mike Downey (Principal Evangelist) shares his experiences with Flash, Flex and Air and discusses how they compare with Silverlight&#39;s offerrings. Hear Mike, a former Flash evangelist for 9 years before&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/5/1/1/2/5/SLTV002FlashAndSilverlight_ch9.mp4</video:content_loc>
+        <video:duration>937</video:duration>
+        <video:publication_date>2010-01-18T19:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/SilverlightTV/Out-of-Browser-in-Silverlight-4-Silverlight-TV-Episode-1</loc>
+      <lastmod>2011-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/5/2/0/2/5/JoysOfSilverlightTrustedOutOfBrowserApps_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight TV Episode 1: The Joys of Trusted Out-of-Browser Applications]]></video:title>
+        <video:description><![CDATA[
+  
+I am proud to announce the premier of 
+Silverlight TV airing on 
+Channel 9! You can watch the first episode right here where Keith Smith (Silverlight Group Program Manager), along with host&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/5/2/0/2/5/JoysOfSilverlightTrustedOutOfBrowserApps_ch9.mp4</video:content_loc>
+        <video:duration>954</video:duration>
+        <video:publication_date>2010-01-16T00:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

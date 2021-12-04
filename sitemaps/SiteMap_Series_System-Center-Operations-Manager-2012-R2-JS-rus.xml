@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Operations-Manager-2012-R2-JS-rus</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Operations-Manager-2012-R2-JS-rus/04</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dce6/4bcd1851-5350-4ec3-b1f5-3f52755cdce6/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 |   ]]></video:title>
+        <video:description><![CDATA[Основное вни&amp;#1084;ание в это&amp;#1084; &amp;#1084;одуле уделено пакета&amp;#1084; правления (management packs, MP). Расс&amp;#1084;атривается структура MP, а также воз&amp;#1084;ожности и особенности различных&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dce6/4bcd1851-5350-4ec3-b1f5-3f52755cdce6/04_mid.mp4</video:content_loc>
+        <video:duration>2946</video:duration>
+        <video:publication_date>2015-04-22T16:48:59.4620698+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Operations-Manager-2012-R2-JS-rus/03</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6dfa/ef08cb8e-7355-4dde-8d2c-ae1d4d3e6dfa/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |   ]]></video:title>
+        <video:description><![CDATA[В &amp;#1084;одуле расс&amp;#1084;атриваются воз&amp;#1084;ожности SCOM 2012 R2 по &amp;#1084;ониторингу активного сетевого оборудования. Вы узнаете, что собой представляет пул ресурсов, как выглядит процесс&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6dfa/ef08cb8e-7355-4dde-8d2c-ae1d4d3e6dfa/03_mid.mp4</video:content_loc>
+        <video:duration>3766</video:duration>
+        <video:publication_date>2015-04-22T16:48:56.5167992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Operations-Manager-2012-R2-JS-rus/02</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bbda/15e3ef2c-e4a9-4fb5-84e4-3b9c477fbbda/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |     ]]></video:title>
+        <video:description><![CDATA[В &amp;#1084;одуле расс&amp;#1084;атриваются вопросы интеграции Operations Manager с други&amp;#1084;и ко&amp;#1084;понента&amp;#1084;и System Center, включая Service Manager, Virtual Machine Manager, Orchestrator, Data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bbda/15e3ef2c-e4a9-4fb5-84e4-3b9c477fbbda/02_mid.mp4</video:content_loc>
+        <video:duration>3770</video:duration>
+        <video:publication_date>2015-04-22T16:48:53.9044572+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Operations-Manager-2012-R2-JS-rus/01</loc>
+      <lastmod>2018-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e87/73a7c323-85b1-4311-b279-f62e19ed8e87/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 |   System Center Operations Manager 2012 R2 ]]></video:title>
+        <video:description><![CDATA[В &amp;#1084;одуле на основе де&amp;#1084;онстраций реального продукта дается технический обзор System Center Operations Manager 2012 R2, обсуждаются вопросы развертывания пакетов управления (MP), установки&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e87/73a7c323-85b1-4311-b279-f62e19ed8e87/01_mid.mp4</video:content_loc>
+        <video:duration>3655</video:duration>
+        <video:publication_date>2015-04-22T16:48:50.7767112+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/JVM-MX/Abril-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JVM-MX/Abril-2016/Spring-Security-Oauth-2</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c0a/df04e636-1c35-4199-8dc2-dc7df7e18c0a/cenobyte321_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Spring Security Oauth 2.0]]></video:title>
+        <video:description><![CDATA[Presentaci&#243;n &amp;quot;Spring Security Oauth 2.0&amp;quot; por Luis Armando Ram&#237;rez aka @cenobyte321 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c0a/df04e636-1c35-4199-8dc2-dc7df7e18c0a/cenobyte321_mid.mp4</video:content_loc>
+        <video:duration>3400</video:duration>
+        <video:publication_date>2016-05-02T21:35:55.9997178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JVM-MX/Abril-2016/Elasticsearch</loc>
+      <lastmod>2016-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/925e/016f12e6-a362-48de-9b37-9354d4ef925e/domix_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Elasticsearch]]></video:title>
+        <video:description><![CDATA[Presentaci&#243;n &amp;quot;Elasticsearch&amp;quot; por Domingo Su&#225;rez aka @domix ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/925e/016f12e6-a362-48de-9b37-9354d4ef925e/domix_mid.mp4</video:content_loc>
+        <video:duration>3277</video:duration>
+        <video:publication_date>2016-05-02T18:03:58.8477427+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

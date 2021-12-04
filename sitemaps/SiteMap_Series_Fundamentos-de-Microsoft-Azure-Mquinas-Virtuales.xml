@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure-Mquinas-Virtuales</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure-Mquinas-Virtuales/Mdulo-IV-Demostraciones</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c792/43da8f9c-16eb-4f50-831e-3acae850c792/Modulo4curso3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Demostraciones de m&#225;quinas virtuales en la nube]]></video:title>
+        <video:description><![CDATA[Demostraci&#243;n de c&#243;mo configurar 2 m&#225;quinas virtuales en el mismo servicio de comunicaciones cloud. Tambi&#233;n se mostrar&#225; c&#243;mo c&#243;mo crear una nube en la red virtual. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c792/43da8f9c-16eb-4f50-831e-3acae850c792/Modulo4curso3_mid.mp4</video:content_loc>
+        <video:duration>1548</video:duration>
+        <video:publication_date>2015-12-29T20:40:15.5393682+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure-Mquinas-Virtuales/Redes-virtuales-de-las-mquinas-virtuales-en-Azure</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b1a/83b8c156-704d-417c-8735-434ab6ab7b1a/RedesVirtualesdelaMaquinasVirtualesenAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Redes virtuales de las m&#225;quinas virtuales en Azure]]></video:title>
+        <video:description><![CDATA[En el m&#243;dulo 3 entenderemos el balance de cargas en M&#225;quinas Virtuales, as&#237; como la configuraci&#243;n de una red virtual y reservand olas direcciones IP, y por &#250;ltimo entenderemos la relaci&#243;n entre&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b1a/83b8c156-704d-417c-8735-434ab6ab7b1a/RedesVirtualesdelaMaquinasVirtualesenAzure_mid.mp4</video:content_loc>
+        <video:duration>275</video:duration>
+        <video:publication_date>2015-12-29T20:37:09.7042725+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure-Mquinas-Virtuales/Discos-duros-en-una-mquina-virtual-de-Azure</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/140d/eb113c3a-82e3-430f-8f47-6cff49e1140d/DiscosdurosenunaMaquinaVirtualAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Discos duros en una m&#225;quina virtual de Azure]]></video:title>
+        <video:description><![CDATA[En el m&#243;dulo 2 se ver&#225;n algunas demostraciones de c&#243;mo adjuntar discos duros en una m&#225;quina virtual, c&#243;mo crear imag&#233;nes de discos duros y c&#243;mo habilitar el escalonamiento en las m&#225;quinas virtuales. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/140d/eb113c3a-82e3-430f-8f47-6cff49e1140d/DiscosdurosenunaMaquinaVirtualAzure_mid.mp4</video:content_loc>
+        <video:duration>839</video:duration>
+        <video:publication_date>2015-12-29T20:37:06.9370831+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Fundamentos-de-Microsoft-Azure-Mquinas-Virtuales/Introduccin-a-las-mquinas-virtuales-en-Azure</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/191d/dea73fdb-904c-4605-be47-c53aeb56191d/IntroduccionalasMaquinasvirtualesenAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Introducci&#243;n a las m&#225;quinas virtuales en Azure]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se ver&#225; una introducci&#243;n a las m&#225;quinas virtuales en Azure, as&#237; como algunas demostraciones de c&#243;mo crear y configurar una red EndPoint. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/191d/dea73fdb-904c-4605-be47-c53aeb56191d/IntroduccionalasMaquinasvirtualesenAzure_mid.mp4</video:content_loc>
+        <video:duration>2878</video:duration>
+        <video:publication_date>2015-12-29T20:36:50.0390005+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

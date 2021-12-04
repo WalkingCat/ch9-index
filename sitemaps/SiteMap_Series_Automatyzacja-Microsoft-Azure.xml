@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatyzacja-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatyzacja-Microsoft-Azure/03-Uruchamianie-spoza-chmury</loc>
+      <lastmod>2015-05-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/28fc/dc1bd61d-00f4-45ba-bba0-215c7a4e28fc/uruchamianie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Uruchamianie spoza chmury]]></video:title>
+        <video:description><![CDATA[W module 3 dowiesz się, jak za pomocą power shell-a uruchomić skrypty, kt&#243;rych zakres działania dotyczy platformy Microsoft Azure, a uruchamiane są spoza Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28fc/dc1bd61d-00f4-45ba-bba0-215c7a4e28fc/uruchamianie_mid.mp4</video:content_loc>
+        <video:duration>1440</video:duration>
+        <video:publication_date>2015-05-28T17:54:26.7834102+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatyzacja-Microsoft-Azure/02-Automatyzacja-Microsoft-Azure-Skrypty</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aff3/d6702dad-ebd0-4e32-99cd-34e209d2aff3/auto2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Automatyzacja Microsoft Azure. Skrypty]]></video:title>
+        <video:description><![CDATA[W module 2 w spos&#243;b praktyczny zapoznasz się z procesem tworzenia i edytowania skrypt&#243;w. Dowiesz się, co składa się na edycje runbook&#243;w oraz poznasz miejsca skąd można je pobrać. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aff3/d6702dad-ebd0-4e32-99cd-34e209d2aff3/auto2_mid.mp4</video:content_loc>
+        <video:duration>1554</video:duration>
+        <video:publication_date>2015-05-26T16:45:57.1737716+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatyzacja-Microsoft-Azure/01-Automatyzacja-Microsoft-Azure-Automatyzacja-chmury</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eec2/1a8e116a-b168-495c-9a97-7c001296eec2/1auto_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Automatyzacja Microsoft Azure. Automatyzacja chmury]]></video:title>
+        <video:description><![CDATA[W module 1 dowiesz się, z jakich komponent&#243;w składa się proces automatyzacji chmury, do czego można go wykorzystać, z jakimi platformami można zintegrować oraz w spos&#243;b praktyczny zapoznasz się z jego&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eec2/1a8e116a-b168-495c-9a97-7c001296eec2/1auto_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2015-05-26T16:45:39.1563930+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

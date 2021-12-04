@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/mirailab</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/mirailab/mirailab03</loc>
+      <lastmod>2016-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c944/b12386f3-4fd3-44a9-b697-734a9194c944/mirailab03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IT : ]]></video:title>
+        <video:description><![CDATA[スピーカー: アイティメディア株式会社鎌田 敏弘氏周木 翔氏 日本マイクロソフト株式会社デベロッパー エバンジェリズム統括本部プラットフォーム エバンジェリスト高橋 忍/井上 章 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c944/b12386f3-4fd3-44a9-b697-734a9194c944/mirailab03_mid.mp4</video:content_loc>
+        <video:duration>1147</video:duration>
+        <video:publication_date>2015-11-25T02:10:17.9230238+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/mirailab/mirailab02</loc>
+      <lastmod>2016-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e7c/8bc1d506-607b-4549-af39-9f4067417e7c/mirailab02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IT: ]]></video:title>
+        <video:description><![CDATA[スピーカー:Publickey 編集長 新野 淳一氏 日本マイクロソフト株式会社デベロッパー エバンジェリズム統括本部プラットフォーム エバンジェリスト高橋 忍/井上 章 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e7c/8bc1d506-607b-4549-af39-9f4067417e7c/mirailab02_mid.mp4</video:content_loc>
+        <video:duration>1240</video:duration>
+        <video:publication_date>2015-10-30T00:31:15.7937757+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/mirailab/mirailab01</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/8248c41a-35ce-40de-a8fc-386a7f40cb19.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IT: ]]></video:title>
+        <video:description><![CDATA[スピーカー:Publickey 編集長 新野 淳一 氏 日本マイクロソフト株式会社デベロッパー エバンジェリズム統括本部プラットフォーム エバンジェリスト高橋 忍/井上 章 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab10/d2a3e596-07ea-4aff-ac5d-76ae7a90ab10/mirailab01_mid.mp4</video:content_loc>
+        <video:duration>1182</video:duration>
+        <video:publication_date>2015-10-07T01:44:05.9330423+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

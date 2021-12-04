@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/PHP-on-Azure</loc>
+      <lastmod>2015-03-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ed2/ad7a7430-ed0c-49be-95ce-8c2128675ed2/PHPonAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PHP on Azure]]></video:title>
+        <video:description><![CDATA[Ready to take off to the cloud? Learn how to deploy your PHP application on Windows Azure, an open cloud platform that enables you to quickly build, deploy and manage applications across a global&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ed2/ad7a7430-ed0c-49be-95ce-8c2128675ed2/PHPonAzure_mid.mp4</video:content_loc>
+        <video:duration>194</video:duration>
+        <video:publication_date>2015-03-25T17:02:23.1334617+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/04--Data-storage-options-for-PHP-applications</loc>
+      <lastmod>2015-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/20e3/9ecee2e8-59ea-4ce6-a9c0-0b5c959a20e3/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Data storage options for PHP applications]]></video:title>
+        <video:description><![CDATA[After deploying a PHP application and making it scalable, the next natural step is to start using dedicated Azure services to get away from all the administrative hassle. This module will cover the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/20e3/9ecee2e8-59ea-4ce6-a9c0-0b5c959a20e3/04_mid.mp4</video:content_loc>
+        <video:duration>4809</video:duration>
+        <video:publication_date>2015-03-05T10:50:59.9961533+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/03--Scaling-out-PHP-applications</loc>
+      <lastmod>2015-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2fb/cbbc0692-270b-41af-a886-a043107fa2fb/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Scaling out PHP applications]]></video:title>
+        <video:description><![CDATA[This module will cover the most common changes you need to make to your PHP application to make it scale horizontally (on multiple nodes) in Azure. We&#39;ll talk about centralized session stores,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2fb/cbbc0692-270b-41af-a886-a043107fa2fb/03_mid.mp4</video:content_loc>
+        <video:duration>3582</video:duration>
+        <video:publication_date>2015-03-05T10:50:56.1395191+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/05--Deploying-a-highly-available-database-cluster-for-your-PHP-app</loc>
+      <lastmod>2015-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a83/7c7f6e73-77d9-4abd-aadd-85ddbbc12a83/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Deploying a highly available database cluster for your PHP app]]></video:title>
+        <video:description><![CDATA[This is the final step for making your application scalable and resilient to failures - making the data tier highly available and scalabe. We&#39;ll go through deploying a MySQL cluster (using Percona&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a83/7c7f6e73-77d9-4abd-aadd-85ddbbc12a83/05_mid.mp4</video:content_loc>
+        <video:duration>4180</video:duration>
+        <video:publication_date>2015-03-05T10:50:46.0790448+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/02--Deploying-PHP-code-to-Azure-seamlessly</loc>
+      <lastmod>2015-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ac0/8eb3488f-06e8-4266-8fa4-e6c1171b7ac0/module2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Deploying PHP code to Azure seamlessly]]></video:title>
+        <video:description><![CDATA[In this module we&#39;ll go through the most common ways of deploying PHP code to Azure depending on the service you chose to use, as well as your scaling needs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ac0/8eb3488f-06e8-4266-8fa4-e6c1171b7ac0/module2_mid.mp4</video:content_loc>
+        <video:duration>4907</video:duration>
+        <video:publication_date>2015-03-05T10:49:55.0676640+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/01--Choosing-the-right-environment-for-your-Azure-PHP-application</loc>
+      <lastmod>2015-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd61/3ae73b59-8aa8-4006-997a-ec2e4111dd61/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Choosing the right environment for your Azure PHP application]]></video:title>
+        <video:description><![CDATA[Choosing the right environment for your Azure PHP application ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd61/3ae73b59-8aa8-4006-997a-ec2e4111dd61/01_mid.mp4</video:content_loc>
+        <video:duration>3696</video:duration>
+        <video:publication_date>2015-03-05T10:49:45.6478525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/00--INTRO--WHY-PHP-ON-AZURE</loc>
+      <lastmod>2015-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cd39/78e78d80-3c42-4afa-ba90-2b69d179cd39/00_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[00 | INTRO  WHY PHP ON AZURE]]></video:title>
+        <video:description><![CDATA[After this module you&#39;ll be able to make the right decision when it comes to choosing the right Azure service to deploy your PHP application to - from the convenient Azure Websites to the flexible&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cd39/78e78d80-3c42-4afa-ba90-2b69d179cd39/00_mid.mp4</video:content_loc>
+        <video:duration>232</video:duration>
+        <video:publication_date>2015-03-05T10:49:42.6322546+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/The-choice-of-environment-for-the-Azure-PHP-applications</loc>
+      <lastmod>2015-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7072/dfc8658c-4f85-45a2-9b9a-9336a5c57072/module1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   Azure PHP ]]></video:title>
+        <video:description><![CDATA[После этого &amp;#1084;одуля вы с&amp;#1084;ожете правильно выбирать тип Azure сервисов для запуска PHP приложений – от удобных Azure Websites до гибких Virtual Machines. Програ&amp;#1084;&amp;#1084;а: Запуск PHP на&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7072/dfc8658c-4f85-45a2-9b9a-9336a5c57072/module1_mid.mp4</video:content_loc>
+        <video:duration>3345</video:duration>
+        <video:publication_date>2015-02-18T11:08:56.1885981+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/Easy-delivery-of-PHP-code-in-Azure</loc>
+      <lastmod>2015-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/11bd/d9f302ba-19eb-4212-865d-89577b4a11bd/module2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  PHP   Azure]]></video:title>
+        <video:description><![CDATA[В это&amp;#1084; &amp;#1084;одуле &amp;#1084;ы расс&amp;#1084;отри&amp;#1084; основные способы доставки PHP кода в Azure в зависи&amp;#1084;ости о выбранного сервиса и потребностей в &amp;#1084;асштабировании.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/11bd/d9f302ba-19eb-4212-865d-89577b4a11bd/module2_mid.mp4</video:content_loc>
+        <video:duration>3067</video:duration>
+        <video:publication_date>2015-02-18T11:08:52.1112229+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/Scaling-PHP-applications</loc>
+      <lastmod>2016-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/051b/fec89965-7109-44bc-8e2f-e7ad2259051b/module3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ PHP ]]></video:title>
+        <video:description><![CDATA[В это&amp;#1084; &amp;#1084;одуле будут расс&amp;#1084;отрены основные из&amp;#1084;енения, которые необходи&amp;#1084;о внести в PHP приложение, чтобы достичь горизонтального &amp;#1084;асштабирования (на &amp;#1084;ножестве&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/051b/fec89965-7109-44bc-8e2f-e7ad2259051b/module3_mid.mp4</video:content_loc>
+        <video:duration>3750</video:duration>
+        <video:publication_date>2015-02-18T11:08:46.8174636+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/Storage-technologies-PHP-applications</loc>
+      <lastmod>2015-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f575/d02a22a8-5842-4c3d-b55a-9853eec2f575/module4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   PHP ]]></video:title>
+        <video:description><![CDATA[После развертывания PHP приложений и обеспечения их &amp;#1084;асштабируе&amp;#1084;ости, следующий естественный шаг – это использование выделенных сервисов Azure чтобы уйти от всех ад&amp;#1084;инистративных&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f575/d02a22a8-5842-4c3d-b55a-9853eec2f575/module4_mid.mp4</video:content_loc>
+        <video:duration>4040</video:duration>
+        <video:publication_date>2015-02-18T11:08:42.3535915+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-PHP-developers/Deploying-a-highly-available-MySQL-Cluster-for-PHP-applications</loc>
+      <lastmod>2015-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4647/bff3b6c6-3b04-416f-ac94-827034524647/module5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  MySQL   PHP ]]></video:title>
+        <video:description><![CDATA[Это последний шаг для подготовки вашего приложения к &amp;#1084;асштабированию и устойчивости от сбоев – настройка высокодоступной и &amp;#1084;асштабируе&amp;#1084;ой подсисте&amp;#1084;ы данных. Мы&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4647/bff3b6c6-3b04-416f-ac94-827034524647/module5_mid.mp4</video:content_loc>
+        <video:duration>3406</video:duration>
+        <video:publication_date>2015-02-18T11:08:35.1377795+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

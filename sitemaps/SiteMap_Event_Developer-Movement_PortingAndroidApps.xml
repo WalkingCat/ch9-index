@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/PortingAndroidApps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/PortingAndroidApps/1</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/57f4/d7e2533a-d273-4b83-b8ca-ceb1995d57f4/Porting1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Development Overview for the Android Developer]]></video:title>
+        <video:description><![CDATA[In this session of the Dojo, Code Sensei Rami Sayar gives you a development overview from an Android developer&#39;s perspective, covering what the Android developer needs to know to get up and running&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/57f4/d7e2533a-d273-4b83-b8ca-ceb1995d57f4/Porting1_mid.mp4</video:content_loc>
+        <video:duration>1980</video:duration>
+        <video:publication_date>2014-01-24T13:10:08.6750767+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/PortingAndroidApps/2</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2c1/155b72c0-169c-4a01-9c95-1d1dac85a2c1/Porting2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# for the Java Developer]]></video:title>
+        <video:description><![CDATA[Android developers may have never used C#. As much as Java is similar to C#, there are some subtle differences that are important to know about before diving deep into porting an Android app from Java&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2c1/155b72c0-169c-4a01-9c95-1d1dac85a2c1/Porting2_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2014-01-24T13:08:52.5122344+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

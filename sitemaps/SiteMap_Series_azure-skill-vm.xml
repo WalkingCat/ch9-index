@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-vm</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-vm/How-to-migrate-classic-VM-to-ARM-VM</loc>
+      <lastmod>2016-03-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5de/a242b3a7-2af3-4ad4-a4ec-108fcc01c5de/vmmigrate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ VM  VM]]></video:title>
+        <video:description><![CDATA[您知道嗎？2015 年底新版的 Azure Portal 正式上線，特別在虛擬機器的地方大家會發現新版與舊版有些許的不同，本課程將分享如何將 VM1 移轉至 VM2 ，提供最短的停機時間，就能完成移轉動作，有兩種方式移轉，一種為純圖形介面，另一種則是 AZ Copy 的方法，只要 6 個步驟就能輕鬆移轉！ 欲下載投影片請點這裡。  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5de/a242b3a7-2af3-4ad4-a4ec-108fcc01c5de/vmmigrate_mid.mp4</video:content_loc>
+        <video:duration>1311</video:duration>
+        <video:publication_date>2016-03-04T09:42:19.4828201+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-vm/Azure-VM-FTP</loc>
+      <lastmod>2015-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/daf9/6f7be7d5-675a-48b0-938f-0c14ced5daf9/passiveFTP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure VM  FTP]]></video:title>
+        <video:description><![CDATA[此教學影片由技術支援副理 Oscar 主講 如何在 Azure VM 建立 FTP？讓我們從 FTP 的簡單原理告訴您，Azure 目前支援被動式 FTP。 該如何進行設定將由此影片一步一步帶您操作！ 要建立FTP要做那些設定?​要如何在 Classic VM上設定FTP?​如何在ARM VM上設定]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/daf9/6f7be7d5-675a-48b0-938f-0c14ced5daf9/passiveFTP_mid.mp4</video:content_loc>
+        <video:duration>673</video:duration>
+        <video:publication_date>2015-12-15T03:13:25.4387703+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

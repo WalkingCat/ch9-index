@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/INTERVIEW-F-Community-in-Japan</loc>
+      <lastmod>2016-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7801/37ab0932-b5fc-4b58-a8b2-96e478087801/13FSharpCommunityJapan_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[INTERVIEW: F# Community in Japan]]></video:title>
+        <video:description><![CDATA[There are F# user groups all around the world! In this interview, we&#39;ll chat with Yukitoshi Suzuki, who is a board member of the F# Software Foundation and an active F#er from Japan. You will learn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7801/37ab0932-b5fc-4b58-a8b2-96e478087801/13FSharpCommunityJapan_mid.mp4</video:content_loc>
+        <video:duration>1026</video:duration>
+        <video:publication_date>2016-02-29T19:48:39.0003830+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/INTERVIEW-Using-F-at-Jetcom</loc>
+      <lastmod>2016-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec39/74a8be33-691d-4ea9-aa39-c7b07df2ec39/10UsingFSharpatJet_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[INTERVIEW: Using F# at Jet.com]]></video:title>
+        <video:description><![CDATA[Jet.com is an e-commerce startup trying to take on Amazon that builds most of it&#39;s backend technology using F#. In this interview, we&#39;ll chat with Rachel Reese, a Senior Software Engineer working at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec39/74a8be33-691d-4ea9-aa39-c7b07df2ec39/10UsingFSharpatJet_mid.mp4</video:content_loc>
+        <video:duration>1782</video:duration>
+        <video:publication_date>2016-02-29T19:44:56.5677162+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/DEMO-Ionide--Cross-platform-F-Tools</loc>
+      <lastmod>2016-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30a4/ee2ef508-7fbf-47e3-921d-3b172a8630a4/IonideCrossplatformFSharpTools_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DEMO: Ionide &amp; Cross-platform F# Tools]]></video:title>
+        <video:description><![CDATA[Krzysztof Cieślak, lead developer of the Ionide project will show the awesome F# support that Ionide provides for Visual Studio code and Atom editors. With Ionide, you get an awesome F# experience,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30a4/ee2ef508-7fbf-47e3-921d-3b172a8630a4/IonideCrossplatformFSharpTools_mid.mp4</video:content_loc>
+        <video:duration>1334</video:duration>
+        <video:publication_date>2016-02-29T19:35:03.3430788+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/DEMO-Fun-and-Games-with-F</loc>
+      <lastmod>2016-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c9b8/2a8536e6-2d12-4155-a8fc-5c70653cc9b8/FsharpConfFunGamesFsharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DEMO: Fun and Games with F#]]></video:title>
+        <video:description><![CDATA[Join us for a live coding F# session with Sean Trelford, demoing all the fun things in the F# Interactive REPL. Sean will show how to make music in F# Interactive, how to compose 3D graphics and even&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c9b8/2a8536e6-2d12-4155-a8fc-5c70653cc9b8/FsharpConfFunGamesFsharp_mid.mp4</video:content_loc>
+        <video:duration>1650</video:duration>
+        <video:publication_date>2016-02-29T19:30:59.5283426+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/F-Microservices-with-Logging-Tracing-and-More-on-Docker</loc>
+      <lastmod>2016-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b32c/eb654e8e-0243-4b94-a14e-4b7b8762b32c/FsharpMicroservices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F# Microservices with Logging, Tracing and More on Docker]]></video:title>
+        <video:description><![CDATA[In this session, you will learn how to build a web application based on the microservice architecture from scratch using the Suave.io library. Henrik Feldt, contributor to Suave, will guide you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b32c/eb654e8e-0243-4b94-a14e-4b7b8762b32c/FsharpMicroservices_mid.mp4</video:content_loc>
+        <video:duration>2681</video:duration>
+        <video:publication_date>2016-02-20T10:47:58.7781356+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/The-Force-Awakens</loc>
+      <lastmod>2016-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d3b8/0706399a-b5d7-4856-98f1-3ce8306dd3b8/FsharpForceAwakens_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The F#orce Awakens]]></video:title>
+        <video:description><![CDATA[Let&#39;s dive together into the the world of Star Wars! We&#39;ll use the force of F# to process publicly available datasets relating to the Star Wars movies and we&#39;ll find out who&#39;s the most important&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d3b8/0706399a-b5d7-4856-98f1-3ce8306dd3b8/FsharpForceAwakens_mid.mp4</video:content_loc>
+        <video:duration>2543</video:duration>
+        <video:publication_date>2016-02-20T10:43:04.0548030+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Real-World-Microservices</loc>
+      <lastmod>2018-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/752b/6f74b10d-b188-40c2-94d8-8d201b23752b/FsharpConfPatternsandPracticesMicroservices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Patterns and Practices for Real-World Event-Driven Microservices]]></video:title>
+        <video:description><![CDATA[Jet.com is an e-commerce startup competing with Amazon. We&#39;re heavy users of F#, and have based our architecture around Azure-based event-driven functional microservices. Over the last several months,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/752b/6f74b10d-b188-40c2-94d8-8d201b23752b/FsharpConfPatternsandPracticesMicroservices_mid.mp4</video:content_loc>
+        <video:duration>2566</video:duration>
+        <video:publication_date>2016-02-20T10:42:59.3498457+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/The-3D-Geometry-of-Louvre-Abu-Dhabi</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/505c/6202d4c4-0371-4153-84ef-f8b4ceb4505c/Fsharpconf3DGeometryofLouvreAbuDhabi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The 3D Geometry of Louvre Abu Dhabi]]></video:title>
+        <video:description><![CDATA[Join Goswin Rothenthal to explore the role of F# in 3D geometric design for the construction industry. Goswin will show how he used F# and the CAD app Rhino to construct an associative digital 3D&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/505c/6202d4c4-0371-4153-84ef-f8b4ceb4505c/Fsharpconf3DGeometryofLouvreAbuDhabi_mid.mp4</video:content_loc>
+        <video:duration>2588</video:duration>
+        <video:publication_date>2016-02-20T10:42:55.3016776+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Types-Properties-Software</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d626/aa1afda2-1e16-4e7f-83e9-5bf4ea4dd626/FsharpConfTypesPropertiesMarkSeemann_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Types + Properties = Software]]></video:title>
+        <video:description><![CDATA[Given a sufficiently strong type system, you can model your problem domain in such a way that invalid states become unrepresentable. This is one of the corner stones of encapsulation, but requires a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d626/aa1afda2-1e16-4e7f-83e9-5bf4ea4dd626/FsharpConfTypesPropertiesMarkSeemann_mid.mp4</video:content_loc>
+        <video:duration>2775</video:duration>
+        <video:publication_date>2016-02-20T10:42:46.6930557+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Web-UI-Automation-with-F-and-canopy</loc>
+      <lastmod>2017-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/edba/e7a185c6-7c7f-4aa3-bcbb-ad264fb8edba/WebUIAutomation_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web UI Automation with F# and canopy]]></video:title>
+        <video:description><![CDATA[UI Automation has become increasingly important as web applications become richer. As your test suite becomes larger it can become more difficult to grow and maintain.  canopy was created all of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edba/e7a185c6-7c7f-4aa3-bcbb-ad264fb8edba/WebUIAutomation_mid.mp4</video:content_loc>
+        <video:duration>2279</video:duration>
+        <video:publication_date>2016-02-20T10:42:34.7053065+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Android-Watch-Gesture-Recognition-with-Functional-State-Machines</loc>
+      <lastmod>2020-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b43/f37ec9d3-0478-4007-bb26-f1c433ea9b43/AndroidWatchGestureRecognition_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Android Watch Gesture Recognition with Functional State Machines]]></video:title>
+        <video:description><![CDATA[Finite state machines (FSM) are a common technique for recognizing patterns over streams of data. However basic FSM cannot easily handle noisy data such as sensor data from a wearable device that is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b43/f37ec9d3-0478-4007-bb26-f1c433ea9b43/AndroidWatchGestureRecognition_mid.mp4</video:content_loc>
+        <video:duration>2725</video:duration>
+        <video:publication_date>2016-02-20T10:42:29.7345788+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Cassandra-Docker-and-F-Awesomeness</loc>
+      <lastmod>2016-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d96/d76c5d3d-55a4-4e81-a7d1-6077bf0c5d96/12CassandraDockerFSharpAwesomeness_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cassandra, Docker and F# Awesomeness]]></video:title>
+        <video:description><![CDATA[Data is everywhere. Open source world gives us an opportunity to use advanced technical solutions to handle not uncommon problems of huge amounts of data that require low latency access. Can we use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d96/d76c5d3d-55a4-4e81-a7d1-6077bf0c5d96/12CassandraDockerFSharpAwesomeness_mid.mp4</video:content_loc>
+        <video:duration>2259</video:duration>
+        <video:publication_date>2016-02-20T10:42:26.6283724+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/A-Boardgame-Night-with-Geeks</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfd8/fc5d1966-14f1-4ca0-96c5-6177682bcfd8/14BoardgameNightGeeks_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Boardgame Night with Geeks]]></video:title>
+        <video:description><![CDATA[So this one day, I am playing the board game Quarto with my friend and I wonder, can this game end in a tie, or is there always a winner? Normal people might have squabbled or shrugged, but not us&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfd8/fc5d1966-14f1-4ca0-96c5-6177682bcfd8/14BoardgameNightGeeks_mid.mp4</video:content_loc>
+        <video:duration>2120</video:duration>
+        <video:publication_date>2016-02-20T10:42:20.3588965+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Welcome-to-fsharpConf</loc>
+      <lastmod>2016-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/20e6/add27dcc-a3c5-4a97-9aa0-6e64830e20e6/WelcometoFSharpConf_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to fsharpConf]]></video:title>
+        <video:description><![CDATA[fsharpConf is a free virtual event supported by the F# Software Foundation featuring world-class F# experts across the globe. For the introduction and welcome session, Don Syme will be joining us&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/20e6/add27dcc-a3c5-4a97-9aa0-6e64830e20e6/WelcometoFSharpConf_mid.mp4</video:content_loc>
+        <video:duration>1917</video:duration>
+        <video:publication_date>2016-02-20T10:42:15.9995271+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/QA-with-the-F-Team-and-Community</loc>
+      <lastmod>2016-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/65cf/07d6e524-fa3f-4da1-ab76-d7fa346465cf/15QandAFSharpTeamCommunity_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Q&amp;A with the F# Team and Community]]></video:title>
+        <video:description><![CDATA[After a long day, we&#39;ll wrap up with a short summary and a live Q&amp;amp;A session with Tomas Petricek, a long-time F# contributor, and David Stephens, program manager for the F# language at Microsoft.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/65cf/07d6e524-fa3f-4da1-ab76-d7fa346465cf/15QandAFSharpTeamCommunity_mid.mp4</video:content_loc>
+        <video:duration>1891</video:duration>
+        <video:publication_date>2016-02-20T10:41:43.8374269+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

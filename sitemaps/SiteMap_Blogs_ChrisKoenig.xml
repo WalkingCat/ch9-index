@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig/Windows-Phone-7-with-Expression-Blend</loc>
+      <lastmod>2011-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/caa1/861fa55a-4a54-44b5-8eb9-9e2b0140caa1/CHKOENIGWP7WithExpressionBlend_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Phone 7 with Expression Blend]]></video:title>
+        <video:description><![CDATA[ This 30 minute video walks you step-by-step through the process of using Expression Blend 4 to create a Silverlight application for Windows Phone 7.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/caa1/861fa55a-4a54-44b5-8eb9-9e2b0140caa1/CHKOENIGWP7WithExpressionBlend_ch9.mp4</video:content_loc>
+        <video:duration>1865</video:duration>
+        <video:publication_date>2010-11-15T17:00:30.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig/How-Do-I-Test-Impact-Analysis-in-Visual-Studio-2010</loc>
+      <lastmod>2011-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/7/5/5/5/5/ChrisKoenigHDITestImpactAnalysis_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How Do I: Test Impact Analysis in Visual Studio 2010]]></video:title>
+        <video:description><![CDATA[I used to work for a company who&#39;s core application, I was told, had over 40,000 unit tests (no joke). I asked them if they had a CI process and ran those tests at every build. The answer I was given&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/7/5/5/5/5/ChrisKoenigHDITestImpactAnalysis_ch9.mp4</video:content_loc>
+        <video:duration>302</video:duration>
+        <video:publication_date>2010-06-11T20:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig/How-Do-I-Using-Generate-From-Usage-in-Visual-Studio-2010</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/7/5/5/5/5/ChrisKoenigHDIGenerateFromUsage_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How Do I: Using Generate From Usage in Visual Studio 2010]]></video:title>
+        <video:description><![CDATA[For those using Test Driven Development processes in Visual Studio, you’ll be excited to here that there are some enhancements to the way Code Generation is done from within Visual Studio 2010. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/7/5/5/5/5/ChrisKoenigHDIGenerateFromUsage_ch9.mp4</video:content_loc>
+        <video:duration>365</video:duration>
+        <video:publication_date>2010-06-11T20:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig/How-Do-I-WebConfig-Transformations-in-VS2010</loc>
+      <lastmod>2011-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/6/5/5/5/5/ChrisKoenigHDIWebConfigTransformations_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How Do I: Web.Config Transformations in VS2010]]></video:title>
+        <video:description><![CDATA[In the past, dealing with environment-specific data points like Connection Strings, Logging Settings, etc. has been a real challenge. Most organizations have invented their own slick way to manage&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/6/5/5/5/5/ChrisKoenigHDIWebConfigTransformations_ch9.mp4</video:content_loc>
+        <video:duration>402</video:duration>
+        <video:publication_date>2010-06-11T20:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig/How-Do-I-Code-Navigation-Improvements-in-VS2010</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/6/5/5/5/5/ChrisKoenigHDICodeNavigationImprovements_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How Do I: Code Navigation Improvements in VS2010]]></video:title>
+        <video:description><![CDATA[Exploring code is a great way to learn, but CTRL-F isn’t the only way to get around. Visual Studio 2010 adds some interesting new code navigation features to help developers better understand their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/6/5/5/5/5/ChrisKoenigHDICodeNavigationImprovements_ch9.mp4</video:content_loc>
+        <video:duration>507</video:duration>
+        <video:publication_date>2010-06-11T20:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/ChrisKoenig/How-Do-I-Using-IntelliTrace-in-VisualStudio-2010</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/7/0/5/5/5/ChrisKoenigHDIIntellitrace_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How Do I: Using IntelliTrace in VisualStudio 2010]]></video:title>
+        <video:description><![CDATA[IntelliTrace is one of the newest, coolest features in Visual Studio 2010. This short video will give you a jump-start into how you can use IntelliTrace as a developer to aid you in your debugging&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/7/0/5/5/5/ChrisKoenigHDIIntellitrace_ch9.mp4</video:content_loc>
+        <video:duration>606</video:duration>
+        <video:publication_date>2010-06-10T22:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

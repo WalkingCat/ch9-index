@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQLNexus</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQLNexus/Keynote-SQL-Nexus-2016</loc>
+      <lastmod>2016-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4741/5a66417a-d971-43bf-ae74-bc106c134741/SQLNexus2016Keynote_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote SQL Nexus 2016]]></video:title>
+        <video:description><![CDATA[Joseph Sirosh is the Corporate Vice President of the Data Group &amp;amp; Troels Petersen Associate Professor in particle physics at the Niels Bohr Institute and TED&#39;x speaker. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4741/5a66417a-d971-43bf-ae74-bc106c134741/SQLNexus2016Keynote_mid.mp4</video:content_loc>
+        <video:duration>6528</video:duration>
+        <video:publication_date>2016-05-12T20:26:50.9656820+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/Azure-AD-Tech-Summit-2016-</loc>
+      <lastmod>2020-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/23db/8b97c00d-d5e6-41ce-9093-7251a45a23db/AzureADNewPortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD Tech Summit 2016 ]]></video:title>
+        <video:description><![CDATA[これまでクラシックポータルでしか提供されてこなかったAzure Active Directory（Azure AD）の管理機能が新ポータルでPreview公開されました。本ハンズオンでは、新ポータルを使ってAzure ADを管理する方法をいち早く体験いただきます。（予定している内容）・ユーザとグループの管理・アプリケーションの管理・ドメインの管理・カスタムブランディング ※Tech Summit&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23db/8b97c00d-d5e6-41ce-9093-7251a45a23db/AzureADNewPortal_mid.mp4</video:content_loc>
+        <video:duration>3548</video:duration>
+        <video:publication_date>2016-11-04T23:15:47.2638665+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/windows10signinwithsmartphone</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/947b/e410ce47-30f2-40d9-aa52-2ac728df947b/windows10signinwithsmartphone_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10]]></video:title>
+        <video:description><![CDATA[WindowsのPCへスマートフォン（Windows 10 Mobile）でサインインします。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/947b/e410ce47-30f2-40d9-aa52-2ac728df947b/windows10signinwithsmartphone_mid.mp4</video:content_loc>
+        <video:duration>153</video:duration>
+        <video:publication_date>2016-03-27T04:41:31.1149770+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/SAMLAzure-ADSSO</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/51aa/b4efe397-351c-484a-b2cf-90bef68251aa/simplesamlphp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAMLAzure ADSSO]]></video:title>
+        <video:description><![CDATA[simpleSAMLphpを使ってカスタムSPを構成し、Azure ADでシングルサインオンできるように設定します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/51aa/b4efe397-351c-484a-b2cf-90bef68251aa/simplesamlphp_mid.mp4</video:content_loc>
+        <video:duration>1703</video:duration>
+        <video:publication_date>2016-03-21T22:29:33.9366015+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/Azure-ADWindows-10-MobileIntune</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53e8/04645edf-429b-44ce-92da-3165550253e8/windows10mobileIntune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure ADWindows 10 MobileIntune]]></video:title>
+        <video:description><![CDATA[Azure ADに参加したWindows 10 MobileデバイスをIntuneからリモートワイプします。   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53e8/04645edf-429b-44ce-92da-3165550253e8/windows10mobileIntune_mid.mp4</video:content_loc>
+        <video:duration>552</video:duration>
+        <video:publication_date>2015-11-23T02:30:52.6038870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/Surface-Pro-4--Windows-Hello</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0162/88ec5ca9-4e27-4be0-8e87-4dd028410162/SurfacePro4WindowsHello_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Surface Pro 4  Windows Hello]]></video:title>
+        <video:description><![CDATA[Surface Pro 4 で Windows Hello ログオンを行います。 顔認&amp;#35388;、指紋認&amp;#35388;でのログインからAzure ADアカウントでのSSO、ストアアプリの購入を行います。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0162/88ec5ca9-4e27-4be0-8e87-4dd028410162/SurfacePro4WindowsHello_mid.mp4</video:content_loc>
+        <video:duration>273</video:duration>
+        <video:publication_date>2015-11-07T23:39:43.2963759+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-7</loc>
+      <lastmod>2016-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b8f/4b006785-7f64-43c5-b4bf-731920089b8f/azureadfujie7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (7)  ]]></video:title>
+        <video:description><![CDATA[Azure AD の概要 - アプリケーション連携編 第7回 今回は、アクセスルールを使ったルールベースのアクセス制御について解説します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b8f/4b006785-7f64-43c5-b4bf-731920089b8f/azureadfujie7_mid.mp4</video:content_loc>
+        <video:duration>742</video:duration>
+        <video:publication_date>2015-10-04T03:58:22.1213197+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-6</loc>
+      <lastmod>2015-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f127/dbf3053c-bc15-47be-9d8e-dac686b4f127/azureadfujie6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (6)  ]]></video:title>
+        <video:description><![CDATA[Azure AD の概要 - アプリケーション連携編 第6回 今回は、動的なユーザーの割り当て方法について解説します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f127/dbf3053c-bc15-47be-9d8e-dac686b4f127/azureadfujie6_mid.mp4</video:content_loc>
+        <video:duration>475</video:duration>
+        <video:publication_date>2015-09-29T02:21:17.2505264+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-5</loc>
+      <lastmod>2015-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eef1/d47af766-6aac-4215-83b1-4abe2a30eef1/azureadfujie5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (5)  ]]></video:title>
+        <video:description><![CDATA[Azure AD の概要 - アプリケーション連携編 第5回 今回は、グループベースのユーザー割り当て方法について解説します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eef1/d47af766-6aac-4215-83b1-4abe2a30eef1/azureadfujie5_mid.mp4</video:content_loc>
+        <video:duration>888</video:duration>
+        <video:publication_date>2015-09-29T02:21:06.5410820+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-4</loc>
+      <lastmod>2015-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa7e/c0f4cf1e-d7a7-4a44-82d5-f43825d6aa7e/FujieAzureAD4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (4)  ASP.NET  ID ]]></video:title>
+        <video:description><![CDATA[Azure AD の概要 - アプリケーション連携編 第4回 今回は、独自に開発した ASP.NET アプリケーションとの連携について解説します   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa7e/c0f4cf1e-d7a7-4a44-82d5-f43825d6aa7e/FujieAzureAD4_mid.mp4</video:content_loc>
+        <video:duration>725</video:duration>
+        <video:publication_date>2015-09-19T05:19:42.5882106+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-3</loc>
+      <lastmod>2015-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c260/d1437476-fd54-40a8-af34-8d4829a2c260/FujieAzureAD3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (3)  Google  ID]]></video:title>
+        <video:description><![CDATA[Azure AD の概要 - アプリケーション連携編 第3回 今回は Google Apps にIDをプロビジョニングする手順について解説します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c260/d1437476-fd54-40a8-af34-8d4829a2c260/FujieAzureAD3_mid.mp4</video:content_loc>
+        <video:duration>614</video:duration>
+        <video:publication_date>2015-09-19T05:05:22.2826106+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-2</loc>
+      <lastmod>2015-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7505/fa8435d1-0ac5-4ef1-a955-88a406d67505/FujieAzureAD2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (2)  Google Apps ]]></video:title>
+        <video:description><![CDATA[Azure AD の概要 - アプリケーション連携編の第2回 3. アプリケーション連携設定の実施 　- Googe Apps との連携を設定する ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7505/fa8435d1-0ac5-4ef1-a955-88a406d67505/FujieAzureAD2_mid.mp4</video:content_loc>
+        <video:duration>558</video:duration>
+        <video:publication_date>2015-09-19T05:04:59.5427654+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IdM-Lab-Annex-MVP-for-Directory-Services-Naohiro-Fujie/AAD-Setup-App-1</loc>
+      <lastmod>2015-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb42/84687544-b1db-4f45-8652-604119c1bb42/FujieAzureAD1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD (1)  ]]></video:title>
+        <video:description><![CDATA[Azure Active Directory アプリケーション連携編 シリーズの第1回です。 この回では以下について解説します。 Azure AD のアプリケーション連携の特徴Google Apps を使用した動作イメージ次回以降に設定方法をご説明します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb42/84687544-b1db-4f45-8652-604119c1bb42/FujieAzureAD1.mp4</video:content_loc>
+        <video:duration>451</video:duration>
+        <video:publication_date>2015-09-19T04:55:39.0034382+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

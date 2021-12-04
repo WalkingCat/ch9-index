@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog/Microsoft-Goes-Big-at-the-2015-AllSeen-Alliance-Summit</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog/Creating-AllJoyn-Producers-and-Authoring-AllJoyn-Introspection-XML</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog/Using-the-AllJoyn--Studio-Extension</loc>
+      <lastmod>2016-11-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog/Troubleshooting-AllJoyn-with-Windows-10-Insider-Preview-Builds</loc>
+      <lastmod>2015-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog/Step-By-Step-Building-AllJoyn-Universal-Windows-Apps-for-Windows-10-Public-Preview</loc>
+      <lastmod>2020-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Internet-of-Things-Blog/IoT-Hackathon-with-the-Intel-Galileo</loc>
+      <lastmod>2021-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8201/3cdbbceb-10eb-4d84-903a-650c09618201/IoTHackathonIntelGalileo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IoT Hackathon with the Intel Galileo]]></video:title>
+        <video:description><![CDATA[Ric Lewis, Program Manager for the IoT team, walks us through an internal Hackathon held here at Microsoft. The event was designed to introduce internal developers to the Intel Galileo board. These&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8201/3cdbbceb-10eb-4d84-903a-650c09618201/IoTHackathonIntelGalileo_mid.mp4</video:content_loc>
+        <video:duration>373</video:duration>
+        <video:publication_date>2014-09-09T17:58:08.6872214+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

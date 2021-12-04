@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anlisis-de-Datos-con-R-Nivel-Intermedio</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anlisis-de-Datos-con-R-Nivel-Intermedio/Mdulo-II-Anlisis-y-Limpieza-de-datos</loc>
+      <lastmod>2020-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09db/ebc2bebf-353d-4502-baf6-573f6b8a09db/RserverMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - An&#225;lisis y Limpieza de datos]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo entender&#225;n la estructura de los datos y estudiar los datos. Le ense&#241;aremos a manipular los datos faltantes NA y los outliers (at&#237;picos). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09db/ebc2bebf-353d-4502-baf6-573f6b8a09db/RserverMod2_mid.mp4</video:content_loc>
+        <video:duration>2412</video:duration>
+        <video:publication_date>2016-12-23T16:19:51.1634573+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anlisis-de-Datos-con-R-Nivel-Intermedio/Mdulo-I-Anlisis-Grafico-en-R</loc>
+      <lastmod>2016-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/01a5/5b6e7f12-dad6-4950-8fce-7c49fab601a5/RserverMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - An&#225;lisis Grafico en R]]></video:title>
+        <video:description><![CDATA[En el an&#225;lisis exploratorio de datos, el an&#225;lisis grafico es fundamental, ya que el cerebro y el ojo humano detectan e identifican patrones en los datos, cuando estos son presentados gr&#225;ficamente. En&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/01a5/5b6e7f12-dad6-4950-8fce-7c49fab601a5/RserverMod1_mid.mp4</video:content_loc>
+        <video:duration>2268</video:duration>
+        <video:publication_date>2016-12-22T22:37:40.4372545+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

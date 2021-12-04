@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain/Bots-101-Scenarios-for-bots</loc>
+      <lastmod>2018-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afb2/6c86d7e2-f662-4d2d-9e1c-5fa9f26bafb2/bots101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bots 101 - Scenarios for bots]]></video:title>
+        <video:description><![CDATA[Let us take a look at real world scenarios for bots and how they can be used for solving real user needs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afb2/6c86d7e2-f662-4d2d-9e1c-5fa9f26bafb2/bots101_mid.mp4</video:content_loc>
+        <video:duration>980</video:duration>
+        <video:publication_date>2017-02-28T17:29:11.8123904+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain/Venha-conhecer-o-presenterBot-um-bot-que-explica-sobre-bots-Portuguese</loc>
+      <lastmod>2017-02-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc41/0cea786e-eebb-48eb-815c-5e633959cc41/presenterBotBR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Venha conhecer o presenterBot, um bot que explica sobre bots - Portuguese]]></video:title>
+        <video:description><![CDATA[O presenterBot &#233; um demo usando o Microsoft Bot Framework para mostrar o que a tecnologia &#233; capaz.   C&#243;digo fonte: www.github.com/matvelloso/presenterbot ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc41/0cea786e-eebb-48eb-815c-5e633959cc41/presenterBotBR_mid.mp4</video:content_loc>
+        <video:duration>380</video:duration>
+        <video:publication_date>2016-11-07T20:19:41.9948184+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain/Meet-the-presenter-bot-a-bot-that-presents-about-bots</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d52/06cd2bf6-9ca5-4ba6-bc46-8e089e183d52/presenterbot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Meet the presenter bot, a bot that presents about bots]]></video:title>
+        <video:description><![CDATA[PresenterBot is an open source project to demonstrate some of the technologies behind Microsoft Bot Framework, LUIS, Skype and Bing Speech.   You can find the source code here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d52/06cd2bf6-9ca5-4ba6-bc46-8e089e183d52/presenterbot.mp4</video:content_loc>
+        <video:duration>294</video:duration>
+        <video:publication_date>2016-10-27T18:48:06.7756068+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain/Identity-201-Cloud-Identity-for-Developers</loc>
+      <lastmod>2017-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/47b2/f08a3006-a362-4efe-98cc-d70b1bd747b2/identity201_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identity 201: Cloud Identity for Developers]]></video:title>
+        <video:description><![CDATA[In this video we will discuss some basic concepts around OAuth, Microsoft Azure Active Directory and how applications interact with it. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/47b2/f08a3006-a362-4efe-98cc-d70b1bd747b2/identity201_mid.mp4</video:content_loc>
+        <video:duration>535</video:duration>
+        <video:publication_date>2015-02-25T00:08:26.8862266+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain/HybridCloud101</loc>
+      <lastmod>2017-06-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4099/17c3efd7-068f-4fd7-beb9-6a378f744099/Hybrid101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hybrid Cloud 101: Different ways to connect your network to Azure]]></video:title>
+        <video:description><![CDATA[In this episode we will review different ways you can connect your applications on premises with other applications on Azure.   We will see the differences between BizTalk hybrid connections, Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90ff/3a3106a5-b8c2-4df2-ab30-74bb615e90ff/Hybrid101_mid.mp4</video:content_loc>
+        <video:duration>672</video:duration>
+        <video:publication_date>2014-07-26T01:19:46.1923931+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Explain/Identity101</loc>
+      <lastmod>2017-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7205/aea671e7-bb80-4131-b579-c49545887205/Identity101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identity 101: Azure and Office 365 Powered by Identity And Access Control]]></video:title>
+        <video:description><![CDATA[Identity 101: This video gives a high level overview of Azure Active Directory and how it integrates with Office 365 and Azure. We will discuss how applications are authorized, the consent screen and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7205/aea671e7-bb80-4131-b579-c49545887205/Identity101_mid.mp4</video:content_loc>
+        <video:duration>228</video:duration>
+        <video:publication_date>2014-07-23T01:24:31.5037284+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

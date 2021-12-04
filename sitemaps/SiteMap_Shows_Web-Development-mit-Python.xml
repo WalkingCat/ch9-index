@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python/6-Datenbanken</loc>
+      <lastmod>2016-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e36c/7c53958c-6f65-4ff2-9ddc-c37c4578e36c/6Datenbanken_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[6 - Datenbanken]]></video:title>
+        <video:description><![CDATA[In unserem letzten Video der Serie: &amp;quot;Webdevelopment mit Python und Flask&amp;quot; verwenden wir eine Datenbank, um eine Quiz Website aufzubauen, in der Nutzer Fragen einsenden und beantworten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e36c/7c53958c-6f65-4ff2-9ddc-c37c4578e36c/6Datenbanken_mid.mp4</video:content_loc>
+        <video:duration>1019</video:duration>
+        <video:publication_date>2016-03-05T08:01:34.9404668+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python/5-Website-Layout-mit-Bootstrap</loc>
+      <lastmod>2016-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c612/651db613-8f83-4744-b6f6-469bf7fcc612/5WebsiteLayoutBootstrap_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 - Website Layout mit Bootstrap]]></video:title>
+        <video:description><![CDATA[Der Code f&#252;r die Webseite steht, nun m&#246;chten wir, dass die Website auch ansprechend aussieht und sich gut bedienen l&#228;sst. Daf&#252;r geben wir in diesem Video einen Einblick in das Styling mit Bootstrap.  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c612/651db613-8f83-4744-b6f6-469bf7fcc612/5WebsiteLayoutBootstrap_mid.mp4</video:content_loc>
+        <video:duration>932</video:duration>
+        <video:publication_date>2016-03-05T07:52:39.8022825+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python/4-App-Code-Layout</loc>
+      <lastmod>2016-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3174/e2ab0bba-94ad-480e-a020-a649db333174/4AppCodeLayout_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 - App Code Layout]]></video:title>
+        <video:description><![CDATA[ Nachdem die ersten Grundlagen vorgestellt wurden, dreht sich in diesem Video alles um den Code-seitigen Aufbau euren Flask Website. Wir analysieren den Aufbau des Webprojekts anhand von 2 Beispielen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3174/e2ab0bba-94ad-480e-a020-a649db333174/4AppCodeLayout_mid.mp4</video:content_loc>
+        <video:duration>728</video:duration>
+        <video:publication_date>2016-03-05T07:52:27.4449208+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python/3-Flask-Basics</loc>
+      <lastmod>2016-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3beb/dbb66c6d-26ae-49bb-8e10-207b36053beb/3FlaskBasics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 - Flask Basics]]></video:title>
+        <video:description><![CDATA[DIeses Video gibt euch einen ersten Einblick in das Python Framework Flask, das wir zur Webentwicklung verwenden. Anhang eines Blank Projects werden euch die Grundlagen der Flask/Python Entwicklung&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3beb/dbb66c6d-26ae-49bb-8e10-207b36053beb/3FlaskBasics_mid.mp4</video:content_loc>
+        <video:duration>585</video:duration>
+        <video:publication_date>2016-03-05T07:52:18.0355176+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python/2-Python-Basics</loc>
+      <lastmod>2017-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0f45/a658ea12-1b42-4a65-9e3b-693e53100f45/2PythonBasics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 - Python Basics ]]></video:title>
+        <video:description><![CDATA[In diesem Video geben wir eine kurze Einf&#252;hrung in die Programmiersprache Python und gehen auf Konzepte ein, die wir im sp&#228;teren Verlauf der Serie f&#252;r die Website ben&#246;tigen.   Lukas Pollmann   |&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f45/a658ea12-1b42-4a65-9e3b-693e53100f45/2PythonBasics_mid.mp4</video:content_loc>
+        <video:duration>1024</video:duration>
+        <video:publication_date>2016-03-05T07:52:10.5040197+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Development-mit-Python/1-Einfhrung-und-Installation</loc>
+      <lastmod>2016-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b20/8d2e7649-ae33-40f2-9b49-c23bd1212b20/1EinfuehrungundInstallation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 - Einf&#252;hrung und Installation]]></video:title>
+        <video:description><![CDATA[Dieses Video gibt eine kurze Motivation der Thematik: Webentwicklung mit Python und Flask und Erl&#228;utert die erforderlichen Schritte der Installation, die zum Entwickeln n&#246;tig sind.   Lukas Pollmann  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b20/8d2e7649-ae33-40f2-9b49-c23bd1212b20/1EinfuehrungundInstallation_mid.mp4</video:content_loc>
+        <video:duration>429</video:duration>
+        <video:publication_date>2016-03-05T07:52:01.0360736+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

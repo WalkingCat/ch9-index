@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps-und-Tricks-beim-Erstellen-einer-Testumgebung-On-Premise-und-in-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps-und-Tricks-beim-Erstellen-einer-Testumgebung-On-Premise-und-in-Azure/03-Tipps--Demo-fr-Azure-Site-Recovery</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7718/c7115315-9cb5-4940-a6e4-53f6289d7718/3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Tipps &amp; Demo f&#252;r Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[ Im dritten Modul wird Azure Site Recovery vorgestellt. Hiermit ist es m&#246;glich ein Abbild der Produktivumgebung als Testumgebung zu nutzen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7718/c7115315-9cb5-4940-a6e4-53f6289d7718/3_mid.mp4</video:content_loc>
+        <video:duration>1426</video:duration>
+        <video:publication_date>2016-06-24T14:23:31.8386172+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps-und-Tricks-beim-Erstellen-einer-Testumgebung-On-Premise-und-in-Azure/02-Tipps--Demo-fr-On-Premise-Hyper-V</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d660af0d-5f05-4e50-bd50-65e25bca0f32.png</video:thumbnail_loc>
+        <video:title><![CDATA[02| Tipps &amp; Demo f&#252;r On-Premise, Hyper-V]]></video:title>
+        <video:description><![CDATA[Im zweiten Modul werden konkrete Tipps und Tricks beim Einrichten und Verwalten einer Testumgebung mittels Hyper-V gegeben. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/04c7/419e9e0e-c4a8-4a92-be68-c53ba0be04c7/2_mid.mp4</video:content_loc>
+        <video:duration>1387</video:duration>
+        <video:publication_date>2016-06-24T14:10:09.3871234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tipps-und-Tricks-beim-Erstellen-einer-Testumgebung-On-Premise-und-in-Azure/01-Planung-Vorbereitung--Szenarien</loc>
+      <lastmod>2017-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b98f/1107ee2f-88ca-40ba-91aa-3417bb36b98f/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Planung, Vorbereitung &amp; Szenarien]]></video:title>
+        <video:description><![CDATA[Im ersten Modul werden verschiedene Szenarien vorgestellt, bei denen der Einsatz einer Testumgebung sinnvoll ist. Au&#223;erdem werden die Schritte der Planung und Vorbereitung einer Testumgebung&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b98f/1107ee2f-88ca-40ba-91aa-3417bb36b98f/1_mid.mp4</video:content_loc>
+        <video:duration>1097</video:duration>
+        <video:publication_date>2016-06-24T12:11:10.1536709+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

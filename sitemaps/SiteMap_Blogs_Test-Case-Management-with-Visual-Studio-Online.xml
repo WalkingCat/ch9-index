@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Test-Case-Management-with-Visual-Studio-Online</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Test-Case-Management-with-Visual-Studio-Online/Managing-test-steps-and-test-data-with-Test-Hub-on-Visual-Studio-Online</loc>
+      <lastmod>2021-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff25/60d76e42-d0ae-4e16-b2e1-1fe03b86ff25/ManagingTestStepsAndTestDataWithTestHub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing test steps and test data with Test Hub on Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Learn how to centrally manage and share test steps and test data across test cases. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff25/60d76e42-d0ae-4e16-b2e1-1fe03b86ff25/ManagingTestStepsAndTestDataWithTestHub_mid.mp4</video:content_loc>
+        <video:duration>191</video:duration>
+        <video:publication_date>2015-01-07T15:49:32.6429161+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Test-Case-Management-with-Visual-Studio-Online/Creating-test-cases-with-Test-Hub-on-Visual-Studio-Online</loc>
+      <lastmod>2021-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7a2e/5f9f783f-c04b-4047-aec6-f9b719b77a2e/CreatingTestCasesWithTestHub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating test cases with Test Hub on Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Learn how to create test cases and data driven manual tests. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7a2e/5f9f783f-c04b-4047-aec6-f9b719b77a2e/CreatingTestCasesWithTestHub_mid.mp4</video:content_loc>
+        <video:duration>182</video:duration>
+        <video:publication_date>2015-01-07T15:49:23.0513430+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Test-Case-Management-with-Visual-Studio-Online/Test-Planning-with-Test-Hub-on-Visual-Studio-Online</loc>
+      <lastmod>2021-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1bd5/906fb014-50bf-464a-bc24-be997c551bd5/TestPlanningWithTestHub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Test Planning with Test Hub on Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Learn how to plan your test activities for a sprint. Find out how simple it&#39;s organize tests to track quality for user stories and to manage regression test coverage. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1bd5/906fb014-50bf-464a-bc24-be997c551bd5/TestPlanningWithTestHub_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2015-01-07T15:48:59.0829525+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

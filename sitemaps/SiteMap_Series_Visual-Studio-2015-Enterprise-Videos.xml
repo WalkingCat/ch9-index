@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/Building-JavaScript-apps-with-Angular</loc>
+      <lastmod>2020-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/014f/a2045fa0-b277-4381-be71-27c3625f014f/BuildingJavaScriptAppsWithAngular_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building JavaScript apps with Angular]]></video:title>
+        <video:description><![CDATA[Angular is an extremely popular JavaScript library used by developers to build web and mobile client apps. Visual Studio 2015 improves the HTML and JavaScript editors to help developers building with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/014f/a2045fa0-b277-4381-be71-27c3625f014f/BuildingJavaScriptAppsWithAngular_mid.mp4</video:content_loc>
+        <video:duration>671</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/Connecting-to-Services-with-Visual-Studio</loc>
+      <lastmod>2020-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/48e6/93f37564-bf6c-4ad4-acd6-6594296248e6/ConnectingtoServicesWithVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Connecting to Services with Visual Studio]]></video:title>
+        <video:description><![CDATA[Developers are building apps with an increasing number of services, yet the service technologies are evolving just as fast. How will developers keep up? Visual Studio 2015 brings a modern service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/48e6/93f37564-bf6c-4ad4-acd6-6594296248e6/ConnectingtoServicesWithVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>432</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/Code-Editor-Enhancements-for-XAML-Developers</loc>
+      <lastmod>2018-07-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6dd/85831196-8824-43d1-8fb6-00eeac92d6dd/CodeEditorEnhancementsForXAMLDevelopers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Code Editor Enhancements for XAML Developers]]></video:title>
+        <video:description><![CDATA[We have rebuilt the XAML language service on top of the .NET Compiler Platform (&amp;quot;Roslyn&amp;quot;) to provide an improved XAML editing experience with rich IntelliSense that is faster and more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6dd/85831196-8824-43d1-8fb6-00eeac92d6dd/CodeEditorEnhancementsForXAMLDevelopers_mid.mp4</video:content_loc>
+        <video:duration>248</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/Whats-New-for-NET-2015</loc>
+      <lastmod>2017-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c88a/94e64b2c-7fc5-4885-9308-b9a95f14c88a/WhatsNewforDotNet2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New for .NET 2015]]></video:title>
+        <video:description><![CDATA[Join Habib Haydarian, discover the .NET 2015, learn the latest on the different pieces of the .NET universe: .NET Framework 4.6, .NET Core, ASP.NET 5, Roslyn... and more. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c88a/94e64b2c-7fc5-4885-9308-b9a95f14c88a/WhatsNewforDotNet2015_mid.mp4</video:content_loc>
+        <video:duration>501</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/Whats-New-in-CSharp-6</loc>
+      <lastmod>2021-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2c1/e78a06b8-25d4-41e9-9299-9e089797a2c1/WhatsNewinCSharp6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New in C# 6.0]]></video:title>
+        <video:description><![CDATA[C# 6 adds a lot of small but useful language features to remove boilerplate and clean up your code. This video takes you on a whirlwind tour through all the new language constructs ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2c1/e78a06b8-25d4-41e9-9299-9e089797a2c1/WhatsNewinCSharp6_mid.mp4</video:content_loc>
+        <video:duration>469</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/Windows-Presentation-Foundation-Application-Development</loc>
+      <lastmod>2019-12-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ecc/9bd44ac5-bc13-47c3-b2d6-a069e9179ecc/WPFApplicationDevelopment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Presentation Foundation Application Development]]></video:title>
+        <video:description><![CDATA[Windows Presentation Foundation (WPF) and XAML combine into a rich presentation system for building Windows desktop applications with visually stunning user experiences that incorporate UI, media, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ecc/9bd44ac5-bc13-47c3-b2d6-a069e9179ecc/WPFApplicationDevelopment_mid.mp4</video:content_loc>
+        <video:duration>949</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Videos/IntelliTrace-Experience</loc>
+      <lastmod>2020-08-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1ac/623776c4-9bcd-43fc-aa25-7a810fb2b1ac/IntelliTraceExperience_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IntelliTrace Experience]]></video:title>
+        <video:description><![CDATA[Learn how to diagnose issues much faster with IntelliTrace&#39;s Historical Debugging in Visual Studio 2015 Enterprise. This video includes a quick introduction to IntelliTrace as well as a walkthrough of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1ac/623776c4-9bcd-43fc-aa25-7a810fb2b1ac/IntelliTraceExperience_mid.mp4</video:content_loc>
+        <video:duration>733</video:duration>
+        <video:publication_date>2015-04-29T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

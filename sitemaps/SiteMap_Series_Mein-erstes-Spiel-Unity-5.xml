@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5/6--Das-Projekt-generieren-und-verffentlichen</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e83b/f1f98fe1-d1fb-445c-9bb3-eb429acce83b/PublishUnity5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[6 | Das Projekt generieren und ver&#246;ffentlichen]]></video:title>
+        <video:description><![CDATA[Das Projekt ist jetzt fertig (sagen wir mal so) - erstellen wir das Universal App-Paket und laden unser Spiel in den Windows Store. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e83b/f1f98fe1-d1fb-445c-9bb3-eb429acce83b/PublishUnity5_mid.mp4</video:content_loc>
+        <video:duration>868</video:duration>
+        <video:publication_date>2015-06-19T00:25:14.6860231+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5/5--Das-Spiel-aufhbschen</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00a0/ac269f7b-f5ff-49f6-9a9d-32ac7d8300a0/TerrainUnity5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 | Das Spiel aufh&#252;bschen]]></video:title>
+        <video:description><![CDATA[So, Zeit wirds, die bisher erstellten Objektvorlagen in ein &amp;quot;echtes Level&amp;quot; zu setzen - erstellen wir eine neue Szene und arbeiten mit dem Terrain-Tool, um eine h&#252;bschere Umgebung zu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00a0/ac269f7b-f5ff-49f6-9a9d-32ac7d8300a0/TerrainUnity5_mid.mp4</video:content_loc>
+        <video:duration>1214</video:duration>
+        <video:publication_date>2015-06-19T00:14:03.2269374+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5/4--Punkte-zhlen</loc>
+      <lastmod>2015-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1119/84b73d10-c1df-442b-939b-549979521119/ScoringUnity5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 | Punkte z&#228;hlen]]></video:title>
+        <video:description><![CDATA[Nutzen wir die Gelegenheit und f&#252;gen ein paar Punkte hinzu, wann immer wir &#252;ber den W&#252;rfel rollen! Der Punktewert bleibt dabei anpassbar. Au&#223;erdem zeigen wir die Punkte mit Hilfe eines&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1119/84b73d10-c1df-442b-939b-549979521119/ScoringUnity5_mid.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2015-06-19T00:12:38.3299015+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5/3--Sammelobjekte-erstellen-und-generieren-lassen</loc>
+      <lastmod>2015-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e980/931bc0cb-3dc7-4a6a-b22b-0e8e0b68e980/CollectiblesUnity5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 | Sammelobjekte erstellen und generieren lassen]]></video:title>
+        <video:description><![CDATA[Jetzt wollen wir ein Objekt erstellen, das wir sp&#228;ter f&#252;r Punkte aufsammeln k&#246;nnen. Dieses Objekt lassen wir um seine eigene Achse rotieren und nutzen dabei Animationen sowie Skripte. Au&#223;erdem lernen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e980/931bc0cb-3dc7-4a6a-b22b-0e8e0b68e980/CollectiblesUnity5_mid.mp4</video:content_loc>
+        <video:duration>1783</video:duration>
+        <video:publication_date>2015-06-19T00:10:34.5962781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5/2--Grundlegende-Steuerung</loc>
+      <lastmod>2015-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5c7/56ca7a45-7683-4c60-90e6-523e1d72d5c7/SteuerungUnity5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 | Grundlegende Steuerung]]></video:title>
+        <video:description><![CDATA[Im zweiten Kapitel erstellen wir eine Spielfigur - einen Ball - und lernen, wie wir ihn auf zwei Arten steuern k&#246;nnen; einmal durch die absolute Ver&#228;nderung seiner Position und au&#223;erdem mit Hilfe von&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5c7/56ca7a45-7683-4c60-90e6-523e1d72d5c7/SteuerungUnity5_mid.mp4</video:content_loc>
+        <video:duration>1226</video:duration>
+        <video:publication_date>2015-06-19T00:08:19.1720169+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mein-erstes-Spiel-Unity-5/1--Die-Arbeitsumgebung</loc>
+      <lastmod>2015-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4bb7/98ab6f0e-61ca-41e2-884c-b75316204bb7/ArbeitsumgebungUnity5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 | Die Arbeitsumgebung]]></video:title>
+        <video:description><![CDATA[In dem vorbereitenden ersten Kapitel laden wir uns die Tools Unity und Visual Studio und schauen uns die einzelnen Arbeitsbereiche in Unity selbst an. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4bb7/98ab6f0e-61ca-41e2-884c-b75316204bb7/ArbeitsumgebungUnity5_mid.mp4</video:content_loc>
+        <video:duration>1426</video:duration>
+        <video:publication_date>2015-06-19T00:07:58.3121436+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

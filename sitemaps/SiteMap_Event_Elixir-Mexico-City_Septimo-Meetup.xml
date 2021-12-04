@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Elixir-Mexico-City/Septimo-Meetup</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Elixir-Mexico-City/Septimo-Meetup/Curso-y-taller-de-Erlang</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/78c0/2ae94d2c-4423-4df7-9390-3267f8ee78c0/cursoNor_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Curso y taller de Erlang]]></video:title>
+        <video:description><![CDATA[Un curso para entender m&#225;s el lenguaje y un mini taller para poner manos a la obra. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78c0/2ae94d2c-4423-4df7-9390-3267f8ee78c0/cursoNor.mp4</video:content_loc>
+        <video:duration>4749</video:duration>
+        <video:publication_date>2016-06-10T16:26:43.9395785+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Elixir-Mexico-City/Septimo-Meetup/Una-aplicacion-OTP-en-la-vida-real</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a93/18d2a3e1-ac1a-47ad-9819-d92ee3a62a93/01Gustavo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Una aplicaci&#243;n OTP en la vida real]]></video:title>
+        <video:description><![CDATA[Una aplicaci&#243;n OTP en la vida real por Gustavo Mora. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a93/18d2a3e1-ac1a-47ad-9819-d92ee3a62a93/01Gustavo_mid.mp4</video:content_loc>
+        <video:duration>2161</video:duration>
+        <video:publication_date>2016-06-10T01:38:08.4070778+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Elixir-Mexico-City/Septimo-Meetup/Introduccion-a-Elixir</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a89/3b5b3ae5-74c6-4ff0-9889-44aefd275a89/01Norberto_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a Elixir]]></video:title>
+        <video:description><![CDATA[Nuestra ya normal platica introductoria para quienes lleguen por primera vez a la reuni&#243;n y as&#237; se sientan c&#243;modos para las siguiente platicas y reuniones.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a89/3b5b3ae5-74c6-4ff0-9889-44aefd275a89/01Norberto_mid.mp4</video:content_loc>
+        <video:duration>2324</video:duration>
+        <video:publication_date>2016-06-10T01:37:51.3051249+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

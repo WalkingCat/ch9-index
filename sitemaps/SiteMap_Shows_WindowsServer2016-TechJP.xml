@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/WindowsServer2016-TechJP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/WindowsServer2016-TechJP/WindowsServer2016-TechJP01</loc>
+      <lastmod>2015-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fbd4/1cea2f56-5c2f-4009-9909-4233cf8bfbd4/WindowsServer2016TechJP01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Technical Preview 3 !  Windows Server 2016]]></video:title>
+        <video:description><![CDATA[2016 年、いよいよ Windows Server 2016 が提供されます。8 月 19 日には、Windows Server 2016 Technical Preview 3 も公開されました。Windows Server 2016 では、Technical Preview 2 から提供されている Hyper-V や Nano Server のアップデートに加えて、期待値が高まっている&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbd4/1cea2f56-5c2f-4009-9909-4233cf8bfbd4/WindowsServer2016TechJP01_mid.mp4</video:content_loc>
+        <video:duration>2201</video:duration>
+        <video:publication_date>2015-09-03T08:42:04.6560653+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

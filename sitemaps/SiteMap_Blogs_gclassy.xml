@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/3-min-Quickie-Compiling-C-Projects-using-only-the-Windows-SDK-and-the-Command-Prompt</loc>
+      <lastmod>2011-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/C2CC/48E31057-CC1D-4167-B64A-9E720017C2CC/winsdkcompiling_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3-min. Quickie: Compiling C++ Projects using only the Windows SDK and the Command Prompt ]]></video:title>
+        <video:description><![CDATA[ I have received a couple questions about &amp;quot;How do you build C&amp;#43;&amp;#43; projects in Windows without installing Visual Studio?&amp;quot;.  This video demonstrates the process but to explain it in a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/C2CC/48E31057-CC1D-4167-B64A-9E720017C2CC/winsdkcompiling_high_ch9.mp4</video:content_loc>
+        <video:duration>199</video:duration>
+        <video:publication_date>2011-01-21T21:09:09.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Lecture-Series-250-Integration-with-the-Graphics-Pipeline</loc>
+      <lastmod>2018-07-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/1/0/9/5/5/DCIntegrationGraphicsPipeline_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Lecture Series 250: Integration with the Graphics Pipeline]]></video:title>
+        <video:description><![CDATA[ Join James Fung from Nvidia as he shows you how to make use of vertex, pixel, and geometry shaders to add visualization to their DirectCompute applications. The following topics will be covered: A&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/1/0/9/5/5/DCIntegrationGraphicsPipeline_ch9.mp4</video:content_loc>
+        <video:duration>1217</video:duration>
+        <video:publication_date>2010-08-18T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/Pivot-Tables-with-Tons-of-Developer-Resources</loc>
+      <lastmod>2015-10-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6909/566909/PivotTablesWindowsProgramming_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Pivot Tables with Tons of Developer Resources]]></video:title>
+        <video:description><![CDATA[Just showing off a long list of resources that will eventually make it into the
+Windows Developer Center.  If you are interested in topics like
+
+how to write a Windows app, grab my excel&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6909/566909/PivotTablesWindowsProgramming_ch9.mp4</video:content_loc>
+        <video:duration>55</video:duration>
+        <video:publication_date>2010-08-17T12:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Lecture-Series-230-GPU-Accelerated-Physics</loc>
+      <lastmod>2011-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/3/2/8/5/5/DirectCompute230GpuPhysics_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Lecture Series 230: GPU Accelerated Physics]]></video:title>
+        <video:description><![CDATA[ Join Lee Howes, a Senior SDE at ATI/AMD, as he gives you a deep dive into GPU accelerated physics.  This lecture explains how DirectCompute can be employed to create solutions simulating physical&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/3/2/8/5/5/DirectCompute230GpuPhysics_ch9.mp4</video:content_loc>
+        <video:duration>1683</video:duration>
+        <video:publication_date>2010-08-11T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Lecture-Series-210-GPU-Optimizations-and-Performance</loc>
+      <lastmod>2017-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/2/7/7/5/5/DirectCompute210_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Lecture Series 210: GPU Optimizations and Performance]]></video:title>
+        <video:description><![CDATA[ Join James Fung from Developer Technology at NVIDIA as he covers the following advanced topics for DirectCompute:    Work distribution best practices   Compute shader code best practices   Algorithm&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/2/7/7/5/5/DirectCompute210_ch9.mp4</video:content_loc>
+        <video:duration>1270</video:duration>
+        <video:publication_date>2010-08-04T15:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Lecture-Series-120-Basics-of-DirectCompute-Application-Development</loc>
+      <lastmod>2011-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/0/1/7/5/5/DirectComputeBasics_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Lecture Series 120: Basics of DirectCompute Application Development]]></video:title>
+        <video:description><![CDATA[ In this lecture, Jason Yang (a technical lead from AMD) goes over the basics of creating a DirectCompute application that performs matrix multiplication. Specifically, he covers: Instantiating a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/0/1/7/5/5/DirectComputeBasics_ch9.mp4</video:content_loc>
+        <video:duration>1069</video:duration>
+        <video:publication_date>2010-07-28T10:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Lecture-Series-110-Memory-Patterns</loc>
+      <lastmod>2017-07-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/2/9/6/5/5/DirectComputeMemoryPatterns_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Lecture Series 110: Memory Patterns]]></video:title>
+        <video:description><![CDATA[ In this video, Matt Sandy, a Program Manager on the DirectX team, provides an in-depth look at memory usage patterns in DirectCompute.In this lecture, you will learn how to most effectively use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/2/9/6/5/5/DirectComputeMemoryPatterns_ch9.mp4</video:content_loc>
+        <video:duration>1065</video:duration>
+        <video:publication_date>2010-07-21T16:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Lecture-Series-101-Introduction-to-DirectCompute</loc>
+      <lastmod>2017-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/4/3/6/5/5/DirectComputeIntroduction_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Lecture Series 101:  Introduction to DirectCompute]]></video:title>
+        <video:description><![CDATA[ In this lecture, Chas Boyd, the Program Manager Architect of Windows Graphics, gives you an introduction to DirectCompute. He covers some background on DirectCompute, gives examples of applications,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/4/3/6/5/5/DirectComputeIntroduction_ch9.mp4</video:content_loc>
+        <video:duration>1487</video:duration>
+        <video:publication_date>2010-07-14T17:51:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gclassy/DirectCompute-Expert-Roundtable-Discussion</loc>
+      <lastmod>2011-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/1/9/5/5/5/DirectComputeExpertRoundtable_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[DirectCompute Expert Roundtable Discussion]]></video:title>
+        <video:description><![CDATA[ In this video, Robert Hess has a roundtable discussion with industry experts to help you understand exactly what DirectCompute is and the kinds of software problems to which you can apply&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/1/9/5/5/5/DirectComputeExpertRoundtable_ch9.mp4</video:content_loc>
+        <video:duration>2663</video:duration>
+        <video:publication_date>2010-07-07T16:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

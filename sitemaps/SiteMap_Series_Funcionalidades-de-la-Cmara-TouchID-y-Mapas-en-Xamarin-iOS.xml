@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Funcionalidades-de-la-Cmara-TouchID-y-Mapas-en-Xamarin-iOS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Funcionalidades-de-la-Cmara-TouchID-y-Mapas-en-Xamarin-iOS/Mdulo-IV-Ubicacin-y-Mapas-con-Xamarin</loc>
+      <lastmod>2019-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9fce/24ee0ee1-68ae-4e8d-b914-cf94d6c09fce/XanmarinMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Ubicaci&#243;n y Mapas con Xamarin]]></video:title>
+        <video:description><![CDATA[Se agregar&#225; la funcionalidad para que tome la ubicaci&#243;n del usuario, se la agregue a un mapa, incluyendo un Pin con la descripci&#243;n.  1.- Se agregar&#225; un Mapa. 2.- Se obtendr&#225; la localizaci&#243;n con su&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fce/24ee0ee1-68ae-4e8d-b914-cf94d6c09fce/XanmarinMod4_mid.mp4</video:content_loc>
+        <video:duration>871</video:duration>
+        <video:publication_date>2017-01-27T21:32:54.5757742+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Funcionalidades-de-la-Cmara-TouchID-y-Mapas-en-Xamarin-iOS/Mdulo-III-Manipular-la-imagen-con-Xamarin</loc>
+      <lastmod>2017-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b2f/1928b0c1-a2d5-4d4d-b08a-be3ecca12b2f/XanmarinMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Manipular la imagen con Xamarin]]></video:title>
+        <video:description><![CDATA[Se agregar&#225; la funcionalidad para modificar una imagen mediante los controles de temperatura y tinta de una imagen que se tomen desde la c&#225;mara de temperatura y tinta.  1.- Tomando en base la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b2f/1928b0c1-a2d5-4d4d-b08a-be3ecca12b2f/XanmarinMod3_mid.mp4</video:content_loc>
+        <video:duration>469</video:duration>
+        <video:publication_date>2017-01-27T21:32:28.2150966+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Funcionalidades-de-la-Cmara-TouchID-y-Mapas-en-Xamarin-iOS/Mdulo-II-Xamarin-con-AVFoundation</loc>
+      <lastmod>2017-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8197/06cb41a0-5779-4b32-9baf-63d07b328197/XanmarinMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Xamarin con AVFoundation]]></video:title>
+        <video:description><![CDATA[Se agregar&#225; la funcionalidad a la aplicaci&#243;n anterior que permita obtener autorizaci&#243;n, visualizar la imagen que proyecta la c&#225;mara en una zona de la pantalla, capturar una foto y colocarla en una&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8197/06cb41a0-5779-4b32-9baf-63d07b328197/XanmarinMod2_mid.mp4</video:content_loc>
+        <video:duration>537</video:duration>
+        <video:publication_date>2017-01-27T21:32:13.8757616+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Funcionalidades-de-la-Cmara-TouchID-y-Mapas-en-Xamarin-iOS/Xamarin-con-TouchID</loc>
+      <lastmod>2017-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b7f/a87ef622-d5cb-4aa4-982e-319ab9953b7f/XanmarinMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Xamarin con TouchID]]></video:title>
+        <video:description><![CDATA[Se agregar&#225; la funcionalidad a una aplicaci&#243;n para la validaci&#243;n de acceso usando el TouchID. 1.- Se realizar&#225; una aplicaci&#243;n para iPhone que permita usar el TouchID para poder usar la aplicaci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b7f/a87ef622-d5cb-4aa4-982e-319ab9953b7f/XanmarinMod1_mid.mp4</video:content_loc>
+        <video:duration>257</video:duration>
+        <video:publication_date>2017-01-27T19:32:22.0918664+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

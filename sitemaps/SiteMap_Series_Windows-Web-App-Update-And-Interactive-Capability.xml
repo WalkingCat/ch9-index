@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Web-App-Update-And-Interactive-Capability</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Web-App-Update-And-Interactive-Capability/Windows-10-UWP-App-Develop</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8fc/25c473ac-21ef-4c13-b658-b6dad182e8fc/WUP04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Cortana  Windows 10 UWP ]]></video:title>
+        <video:description><![CDATA[本课程介绍了语音助手 Cortana(小娜)在 Windows 10 平台上的新特征，结合具体的示例，讲解了如何通过前台启动的方式在 UWP 应用中集成 Cortana，如何通过后台的方式将应用集成在 Cortana 画布上。同时介绍说明了如何根据相应的情况选择使用前后台集成的的方式。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8fc/25c473ac-21ef-4c13-b658-b6dad182e8fc/WUP04_mid.mp4</video:content_loc>
+        <video:duration>3168</video:duration>
+        <video:publication_date>2015-12-28T05:57:01.6196379+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Web-App-Update-And-Interactive-Capability/Face-Detection-API</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bbcd/9b2e3f3b-d824-45c9-8d36-ca312792bbcd/face_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[目前的认证方式存在低效、不安全以及凭据易丢失等问题，这个方案结合微软的最新的技术，实现刷脸进行认证，并结合微信公众号实现认证信息的推送。该解决方案将可广泛应用在智慧旅游、智能会务以及访客管理等领域。这个解决方案项目使用树莓派2、Azure、 Oxford Project 以及微信，利用 Windows 10内核自带的离线 Face Detection API&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bbcd/9b2e3f3b-d824-45c9-8d36-ca312792bbcd/face_mid.mp4</video:content_loc>
+        <video:duration>741</video:duration>
+        <video:publication_date>2015-12-28T05:56:50.7344187+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Web-App-Update-And-Interactive-Capability/Edge-Browser-And-Website-Compatibility</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2900/24568b46-50e2-49d9-b509-c0fc6ad82900/Edge_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Edge ]]></video:title>
+        <video:description><![CDATA[Edge 是 Windows 10 上全新的浏览器，是横跨 PC、平板和手机的 Web 平台。本课程将向你介绍 Edge 的新特性、新体验并从开发的角度介绍如何使用 Edge 自带的工具对网站进行测试和调优。本课程还将探讨如何使网站实现对 Edge 以及所有现代浏览器的最佳兼容性，为用户带来最佳体验，我们将围绕此兼容性话题，讨论兼容性的最佳实践并介绍相关测试工具和资源。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2900/24568b46-50e2-49d9-b509-c0fc6ad82900/Edge_mid.mp4</video:content_loc>
+        <video:duration>3135</video:duration>
+        <video:publication_date>2015-12-28T05:56:40.4812763+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Web-App-Update-And-Interactive-Capability/Windows-10-Web-Apps</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db58/c633d3de-0221-4561-bd66-97961833db58/WEB01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Web Apps]]></video:title>
+        <video:description><![CDATA[通过本课程，开发者可以了解到 Windows 10 上的 Web 应用的种类，Web 应用在 Windows 10 上的发展，Webview 的新功能。 针对应用开发者，尤其是 Web 开发者，这里我们着重介绍了 Host Web Apps （托管Web应用）的模式。告诉开发者如何将浏览器里的 Web 网站，快速转化为跨越不同设备Windows 通用应用，同时，在 Web 应用里如何使用&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db58/c633d3de-0221-4561-bd66-97961833db58/WEB01_mid.mp4</video:content_loc>
+        <video:duration>2977</video:duration>
+        <video:publication_date>2015-12-28T05:56:28.4222578+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

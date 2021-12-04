@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Improve-your-robotics-skills-with-EZ-Robot</loc>
+      <lastmod>2017-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6580/9f8d2623-01fb-4f0a-ada4-ad9358bc6580/ez1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Improve your robotics skills with EZ-Robot]]></video:title>
+        <video:description><![CDATA[This interview we recorder during Vancouver Mini Maker Faire. Of course, WMMF is a not quiet space but we hope that you enjoy it.   Canadian founded by DJ Sures, EZ-Robot (located in Calgary) offers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6580/9f8d2623-01fb-4f0a-ada4-ad9358bc6580/ez1_mid.mp4</video:content_loc>
+        <video:duration>654</video:duration>
+        <video:publication_date>2016-06-14T19:06:04.2765723+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Be-ready-for-MakerFaire-Azure-IoT-demo</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f172/daa426ef-5ac9-4fc5-824e-a59b8616f172/maker31_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Be ready for MakerFaire: Azure IoT demo]]></video:title>
+        <video:description><![CDATA[In this demo I will show several different boards based on different OS/Platforms: Linux, Win 10 IoT, TI RTOS and Arduino. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f172/daa426ef-5ac9-4fc5-824e-a59b8616f172/maker31_mid.mp4</video:content_loc>
+        <video:duration>614</video:duration>
+        <video:publication_date>2016-06-10T04:40:28.4890372+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Be-ready-for-MakerFaire-Bluetooth-Low-Energy-demo</loc>
+      <lastmod>2016-08-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc98/f8bb6c9b-9251-4751-bea0-b7e137a3bc98/maker2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Be ready for MakerFaire: Bluetooth Low Energy demo]]></video:title>
+        <video:description><![CDATA[In this session I am going to show our second demo for MakerFaire in Vancouver: Bluetooth Low Energy devices and Windows 10. Thanks to Bluetooth LE API in Windows 10, you can easy build Universal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc98/f8bb6c9b-9251-4751-bea0-b7e137a3bc98/maker2_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2016-06-07T21:31:32.8722960+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Be-ready-for-MakerFaire-AllJoyn-demo</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7600/8ff8c577-5c9f-43c9-ae4d-02f43be47600/mfaire1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Be ready for MakerFaire: AllJoyn demo]]></video:title>
+        <video:description><![CDATA[In this session I am going to show our first demo for MakerFaire in Vancouver: AllJoyn and Windows 10 IoT. In this demo: LifX All Joyn bulb, Phillips Hue (ZigBee) and Z-Wave Smart Switch.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7600/8ff8c577-5c9f-43c9-ae4d-02f43be47600/mfaire1_mid.mp4</video:content_loc>
+        <video:duration>255</video:duration>
+        <video:publication_date>2016-06-06T19:18:01.2731029+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/How-to-work-with-AllJoyn-devices-in-C-LIFX-Color-1000-example</loc>
+      <lastmod>2016-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/04d7/96daa4ce-1b24-48af-b1cb-cfd9972404d7/lifx2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to work with AllJoyn devices in C#: LIFX Color 1000 example]]></video:title>
+        <video:description><![CDATA[In the previous session we discussed, how to onboard a LIFX bulb to our network. Now it&#39;s time to manage the bulb, using AllJoyn providers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/04d7/96daa4ce-1b24-48af-b1cb-cfd9972404d7/lifx2_mid.mp4</video:content_loc>
+        <video:duration>1499</video:duration>
+        <video:publication_date>2016-06-06T15:59:14.0721193+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/How-to-onboard-AllJoyn-devices-in-C-LIFX-Color-1000-example</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e636/590721af-a62f-437e-85a9-8a5d72c9e636/iotbvlifx_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to onboard AllJoyn devices in C#: LIFX Color 1000 example]]></video:title>
+        <video:description><![CDATA[In this session we will discuss how to start working with AllJoyn devices. The first task there is adding all devices in your local network. Let&#39;s use LIFX Color 1000 as an example and let&#39;s develop a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e636/590721af-a62f-437e-85a9-8a5d72c9e636/iotbvlifx_mid.mp4</video:content_loc>
+        <video:duration>2314</video:duration>
+        <video:publication_date>2016-05-20T17:53:08.3789271+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Launch-Academy-video-Internet-of-Things-in-the-Cloud</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c366/07197824-9cd7-4e28-be83-85172d21c366/la1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Launch Academy video: Internet of Things in the Cloud]]></video:title>
+        <video:description><![CDATA[From smart-bulbs and connected home appliances to Raspberry Pi 2boards, ESP8266 modules and micro-controllers: all of these things can be connected to the Internet with ease.  Connecting devices to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c366/07197824-9cd7-4e28-be83-85172d21c366/la1_mid.mp4</video:content_loc>
+        <video:duration>4197</video:duration>
+        <video:publication_date>2016-05-03T17:32:15.6922835+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Bonus-Video-USBAsp-Atmel-Studio-and-ATTINY45</loc>
+      <lastmod>2016-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/782e/334ad632-f7e4-4b87-b3ec-019e0b28782e/bv5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bonus Video: USBAsp, Atmel Studio and ATTINY45]]></video:title>
+        <video:description><![CDATA[In this video we will see how to use USBASP programmer in order to program ATTINY45 directly on a breadboard. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/782e/334ad632-f7e4-4b87-b3ec-019e0b28782e/bv5_mid.mp4</video:content_loc>
+        <video:duration>762</video:duration>
+        <video:publication_date>2016-04-12T01:35:24.1694847+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Bonus-Video-How-to-burn-Arduino-bootloader-using-an-Arduino-Uno-board</loc>
+      <lastmod>2016-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0493/63c128de-7f49-4179-a934-966dc2870493/bv4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bonus Video: How to burn Arduino bootloader using an Arduino Uno board]]></video:title>
+        <video:description><![CDATA[If you have an Atmel chip without Arduino bootloader, just find a friend with Arduino board and burn the bootloader. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0493/63c128de-7f49-4179-a934-966dc2870493/bv4_mid.mp4</video:content_loc>
+        <video:duration>459</video:duration>
+        <video:publication_date>2016-04-11T03:44:03.5747844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Bonus-Video-How-to-burn-Arduino-bootloader-using-the-USBAsp-programmer</loc>
+      <lastmod>2016-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ea4/3b9e8b11-c359-4e7b-a65c-dd87d5972ea4/bv3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bonus Video: How to burn Arduino bootloader using the USBAsp programmer]]></video:title>
+        <video:description><![CDATA[How to burn Arduino bootloader using the USBAsp programmer. You can use just a microcontroller on a breadboard. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ea4/3b9e8b11-c359-4e7b-a65c-dd87d5972ea4/bv3_mid.mp4</video:content_loc>
+        <video:duration>626</video:duration>
+        <video:publication_date>2016-04-11T03:00:44.4266483+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Bonus-Video-Programming-an-Arduino-microcontroller-without-any-dev-board</loc>
+      <lastmod>2016-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7757/8561bab1-823f-40ef-8943-4d2e63dd7757/bv2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bonus Video: Programming an Arduino microcontroller without any dev board]]></video:title>
+        <video:description><![CDATA[In this video we will show how to use a breadboard and a USB to serial converter in order to program Atmel ATMega328P microcontroller. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7757/8561bab1-823f-40ef-8943-4d2e63dd7757/bv2_mid.mp4</video:content_loc>
+        <video:duration>574</video:duration>
+        <video:publication_date>2016-04-10T01:59:08.1114253+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Bonus-Video-The-second-life-for-Raspberry-Pi-B</loc>
+      <lastmod>2016-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2720/df5505a5-aebe-4eb7-b9b5-7b4167b42720/bv1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bonus Video: The second life for Raspberry Pi B+]]></video:title>
+        <video:description><![CDATA[In this short video you can see how to use Visual Studio 2015 in order to create, debug and deploy applications to Raspberry Pi B&amp;#43; that is running Linux ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2720/df5505a5-aebe-4eb7-b9b5-7b4167b42720/bv1_mid.mp4</video:content_loc>
+        <video:duration>522</video:duration>
+        <video:publication_date>2016-04-07T01:08:57.8621811+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Module-2-Thinking-Digital-part-1</loc>
+      <lastmod>2016-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe3c/302cf63f-3774-413f-ac87-9b1ee7dffe3c/iot21_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 2: Thinking Digital (part 1)]]></video:title>
+        <video:description><![CDATA[In this session we will program MSP430G2xx ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe3c/302cf63f-3774-413f-ac87-9b1ee7dffe3c/iot21_mid.mp4</video:content_loc>
+        <video:duration>2431</video:duration>
+        <video:publication_date>2016-03-03T06:25:46.7248642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Module-1-How-to-start</loc>
+      <lastmod>2017-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e0a/7e7d4ed6-1685-4ea9-8506-de099c367e0a/iot1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 1: Introduction to Microcontrollers]]></video:title>
+        <video:description><![CDATA[We are going to discuss the most popular microcontrollers and why it&#39;s so important to start with microcontrollers rather than microboards ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e0a/7e7d4ed6-1685-4ea9-8506-de099c367e0a/iot1_mid.mp4</video:content_loc>
+        <video:duration>2267</video:duration>
+        <video:publication_date>2016-02-03T02:01:23.6252346+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-of-Things-micro-boards-for-beginners/Tools-review-for-your-first-IOT-project</loc>
+      <lastmod>2017-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/094e/1a49599b-4406-4dc9-802f-6bfdcfe7094e/iot00_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tools review for your first IOT project]]></video:title>
+        <video:description><![CDATA[According to IDC research the market of IOT will grow almost 4 times and exceeds 7 Trillion by 2020. It represents a huge opportunity for developers and entrepreneurs who are looking to create the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/094e/1a49599b-4406-4dc9-802f-6bfdcfe7094e/iot00_mid.mp4</video:content_loc>
+        <video:duration>911</video:duration>
+        <video:publication_date>2015-11-17T04:00:24.6857096+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

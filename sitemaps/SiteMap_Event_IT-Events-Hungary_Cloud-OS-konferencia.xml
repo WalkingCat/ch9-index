@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Events-Hungary/Cloud-OS-konferencia</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Events-Hungary/Cloud-OS-konferencia/A-felhasznlo-kozpontu-IT</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a116/70e194db-cf10-4164-9e89-50338684a116/AFelhasznaloKozpontuIT_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A felhaszn&#225;l&#243; k&#246;zpont&#250; IT]]></video:title>
+        <video:description><![CDATA[Az előad&#225;sban bemutat&#225;sra ker&#252;l, milyen m&#243;dszerekkel &#233;s szoftverekkel lehets&#233;ges egy heterog&#233;n eszk&#246;zk&#246;rnyezet hat&#233;kony, biztons&#225;gos &#233;s felhaszn&#225;l&#243;bar&#225;t &#252;zemeltet&#233;se. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a116/70e194db-cf10-4164-9e89-50338684a116/AFelhasznaloKozpontuIT_mid.mp4</video:content_loc>
+        <video:duration>3698</video:duration>
+        <video:publication_date>2013-11-10T11:23:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Events-Hungary/Cloud-OS-konferencia/ut-a-felhobe-Azure-IaaS</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a68/f044522f-db81-489f-a8b2-e5438d7a9a68/UtAfelhobe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&#218;t a felhbe - Azure IaaS]]></video:title>
+        <video:description><![CDATA[Az előad&#225;sban bemutat&#225;sra ker&#252;l, hogyan lehet a Microsoft felhőj&#233;ben virtu&#225;lis g&#233;peket l&#233;trehozni &#233;s &#252;zemeltetni. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a68/f044522f-db81-489f-a8b2-e5438d7a9a68/UtAfelhobe_mid.mp4</video:content_loc>
+        <video:duration>4340</video:duration>
+        <video:publication_date>2013-11-10T11:22:15.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Events-Hungary/Cloud-OS-konferencia/Storage-ujdonsagok</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afcc/cea93b7e-3156-47ad-bec4-5c718b05afcc/StorageUjdonsagok_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage &#250;jdons&#225;gok]]></video:title>
+        <video:description><![CDATA[Az előad&#225;sban bemutat&#225;sra ker&#252;lnek azok a technol&#243;gi&#225;k, amelyek lehetőv&#233; teszik az adatok biztons&#225;gos &#233;s gazdas&#225;gos t&#225;rol&#225;s&#225;t f&#246;ld&#246;n &#233;s a felhőben. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afcc/cea93b7e-3156-47ad-bec4-5c718b05afcc/StorageUjdonsagok_mid.mp4</video:content_loc>
+        <video:duration>2204</video:duration>
+        <video:publication_date>2013-11-10T11:20:58.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Events-Hungary/Cloud-OS-konferencia/Hyper-V-ujdonsgok</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d03/653eb98c-f9ed-474a-882d-d01c4a6d5d03/HyperVujdonsagok_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hyper-V &#250;jdons&#225;gok]]></video:title>
+        <video:description><![CDATA[Az előad&#225;sban bemutat&#225;sra ker&#252;lnek a Windows Server R2-vel egy&#252;tt megjelent Hyper-V &#250;jdons&#225;gok. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d03/653eb98c-f9ed-474a-882d-d01c4a6d5d03/HyperVujdonsagok_mid.mp4</video:content_loc>
+        <video:duration>2705</video:duration>
+        <video:publication_date>2013-11-10T11:19:35.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

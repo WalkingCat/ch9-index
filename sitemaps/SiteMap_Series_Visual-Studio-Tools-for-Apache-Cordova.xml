@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova/Getting-Started-With-Chutzpah-to-Test-Apache-Cordova-Apps-in-Visual-Studio-2015</loc>
+      <lastmod>2017-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac7b/6ea7db7d-1694-438d-95ca-3192e4b8ac7b/GettingStartedWithChutzpath_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started With Chutzpah to Test Apache Cordova Apps in Visual Studio 2015 ]]></video:title>
+        <video:description><![CDATA[You&#39;ve probably heard about Chutzpah and how awesome it is to help you unit test your web apps! In this video, we will take what you already know and show how you can use Chutzpah in Visual Studio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac7b/6ea7db7d-1694-438d-95ca-3192e4b8ac7b/GettingStartedWithChutzpath_mid.mp4</video:content_loc>
+        <video:duration>674</video:duration>
+        <video:publication_date>2015-09-11T17:54:36.8045952+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova/Using-Karma-and-Jasmine-To-Test-Apache-Cordova-Apps-in-Visual-Studio-2015</loc>
+      <lastmod>2018-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b853/727dc7dd-6ac6-40a7-917f-463f50b2b853/UsingKarmaAndJasmineToTestCordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Karma and Jasmine To Test Apache Cordova Apps in Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[In this short video, we will walk through unit testing a simple Apache Cordova application in Visual Studio 2015 using Karma and Jasmine. Along the way, we&#39;ll cover how to work with some cool new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b853/727dc7dd-6ac6-40a7-917f-463f50b2b853/UsingKarmaAndJasmineToTestCordova_mid.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2015-09-11T17:54:18.4146071+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova/Debugging-Windows-Phone-81-Apps</loc>
+      <lastmod>2017-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8361/2ba668a4-4112-4484-844a-22833b818361/cordovadebuggingwp81_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Debugging Windows Phone 8.1 Apps]]></video:title>
+        <video:description><![CDATA[See how easy it is to use Visual Studio to debug your Apache Cordova apps that target Windows Phone 8.1. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8361/2ba668a4-4112-4484-844a-22833b818361/cordovadebuggingwp81_mid.mp4</video:content_loc>
+        <video:duration>216</video:duration>
+        <video:publication_date>2015-03-06T23:31:44.9711023+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova/Building-Apache-Cordova-Apps-with-Visual-Studio</loc>
+      <lastmod>2021-07-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7dd8/ba64187c-9964-4c89-80c6-cb539a637dd8/BuildingCordovaAppsWithVS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Apache Cordova Apps with Visual Studio]]></video:title>
+        <video:description><![CDATA[Build Apache Codova apps using Visual Studio that run on iOS, Android, Windows and Windows Phone using a single project based on HTML and JavaScript. This video gets you started with a short overview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7dd8/ba64187c-9964-4c89-80c6-cb539a637dd8/BuildingCordovaAppsWithVS_mid.mp4</video:content_loc>
+        <video:duration>2048</video:duration>
+        <video:publication_date>2014-11-12T16:48:33.6479892+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova/Debugging-your-Apache-Cordova-App-on-iOS</loc>
+      <lastmod>2015-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0647/7582eef5-1de8-47bf-9c80-0a3d1dc80647/DebuggingApacheCordovaAppOniOS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Debugging your Apache Cordova App on iOS]]></video:title>
+        <video:description><![CDATA[Build Apache Codova apps using Visual Studio that run on iOS, Android, Windows and Windows Phone using a single project based on HTML and JavaScript. This video gets you started with a short overview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0647/7582eef5-1de8-47bf-9c80-0a3d1dc80647/DebuggingApacheCordovaAppOniOS_mid.mp4</video:content_loc>
+        <video:duration>710</video:duration>
+        <video:publication_date>2014-11-12T16:48:21.7250581+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Tools-for-Apache-Cordova/Creating-your-first-Hello-World-app-with-Tools-for-Apache-Cordova</loc>
+      <lastmod>2021-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2b3/a293a2ab-9de6-4185-8b3d-45142bf9e2b3/CreatingYourFirstHelloWorldWithVSCordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating your first Hello World app with Tools for Apache Cordova]]></video:title>
+        <video:description><![CDATA[Build Apache Codova apps using Visual Studio that run on iOS, Android, Windows and Windows Phone using a single project based on HTML and JavaScript. This video gets you started with a short overview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2b3/a293a2ab-9de6-4185-8b3d-45142bf9e2b3/CreatingYourFirstHelloWorldWithVSCordova_mid.mp4</video:content_loc>
+        <video:duration>430</video:duration>
+        <video:publication_date>2014-11-12T16:47:53.2915009+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

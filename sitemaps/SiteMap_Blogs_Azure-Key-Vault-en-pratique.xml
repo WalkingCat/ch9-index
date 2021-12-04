@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Stocker-des-cls-de-chiffrement-pour-SQL-Server</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b036/5676ba90-21c1-4ef9-8463-5481289eb036/stockerdescles_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stocker des cl&#233;s de chiffrement pour SQL Server]]></video:title>
+        <video:description><![CDATA[Ce module illustre l&#39;utilisation en pratique d&#39;un coffre de cl&#233;s pour configurer les fonctionnalit&#233;s de chiffrement (TDE, CLE, backup) de SQL Server dans une VM Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b036/5676ba90-21c1-4ef9-8463-5481289eb036/stockerdescles_mid.mp4</video:content_loc>
+        <video:duration>2679</video:duration>
+        <video:publication_date>2016-06-23T11:23:26.8150712+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Stocker-des-cls-de-chiffrement-pour-vos-propres-applications</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e773/67411f72-30ef-4026-8400-a44a9a83e773/stockerdescles_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stocker des cl&#233;s de chiffrement pour vos propres applications]]></video:title>
+        <video:description><![CDATA[Ce module illustre l&#39;utilisation en pratique d&#39;un coffre de cl&#233;s pour stocker des cl&#233;s, octroyer des autorisations d&#39;utilisation &#224; vos propres applications ou aux applications tierces. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e773/67411f72-30ef-4026-8400-a44a9a83e773/stockerdescles_mid.mp4</video:content_loc>
+        <video:duration>615</video:duration>
+        <video:publication_date>2016-06-23T09:48:50.5322673+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Exploiter-les-journaux-Azure-Key-Vault</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fefa/2a93ecbd-af29-4abf-9c6c-03a4217efefa/exploiterlesjourneaux_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exploiter les journaux Azure Key Vault]]></video:title>
+        <video:description><![CDATA[Ce module illustre l&#39;utilisation en pratique des fichiers journaux d&#39;un coffre de cl&#233;s pour surveiller l&#39;utilisation de celui-ci et des secrets et cl&#233;s qu&#39;il renferme et prot&#232;ge. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fefa/2a93ecbd-af29-4abf-9c6c-03a4217efefa/exploiterlesjourneaux_mid.mp4</video:content_loc>
+        <video:duration>1087</video:duration>
+        <video:publication_date>2016-06-23T09:37:49.5239677+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Stocker-des-secrets-applicatifs-dans-Azure-Key-Vault</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b573/a104348c-5ef8-4d18-83a3-ef313354b573/stockerdessecretsapplicatifs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stocker des secrets applicatifs dans Azure Key Vault]]></video:title>
+        <video:description><![CDATA[Ce module illustre l&#39;utilisation en pratique d&#39;un coffre de cl&#233;s pour stocker des secrets applicatifs comme des mots de passe ou des chaines de connexion. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b573/a104348c-5ef8-4d18-83a3-ef313354b573/stockerdessecretsapplicatifs_mid.mp4</video:content_loc>
+        <video:duration>1263</video:duration>
+        <video:publication_date>2016-06-23T09:37:41.5192815+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Chiffrer-les-disques-des-VM-Windows-et-Linux-dans-Azure-IaaS</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/690a/568a6b0a-afc1-4a64-8ac7-7df0a873690a/chiffrerlesdisquesdesVMdansazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Chiffrer les disques des VM Windows et Linux dans Azure IaaS]]></video:title>
+        <video:description><![CDATA[Ce module illustre l&#39;utilisation en pratique d&#39;un coffre de cl&#233;s pour chiffrer les disques virtuels de VM Windows Server ou Linux dans Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/690a/568a6b0a-afc1-4a64-8ac7-7df0a873690a/chiffrerlesdisquesdesVMdansazure_mid.mp4</video:content_loc>
+        <video:duration>1803</video:duration>
+        <video:publication_date>2016-06-23T09:21:09.2146351+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Grer-des-certificats-dans-les-VM</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d95/e6867323-f96a-43fc-b02e-70cd0b0a2d95/gererlescertificats_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[G&#233;rer des certificats dans les VM]]></video:title>
+        <video:description><![CDATA[Ce module illustre l&#39;utilisation en pratique d&#39;un coffre de cl&#233;s Azure pour d&#233;ployer en toute s&#233;curit&#233; des certificats avec leur cl&#233; priv&#233;e dans des VM dans Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d95/e6867323-f96a-43fc-b02e-70cd0b0a2d95/gererlescertificats_mid.mp4</video:content_loc>
+        <video:duration>1648</video:duration>
+        <video:publication_date>2016-06-23T09:21:06.9828353+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Comprendre-Azure-Key-Vault</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d515/5bae65e4-b66a-4863-80c7-2cb1851bd515/comprendreazurekey_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comprendre Azure Key Vault]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente les sc&#233;narios types du service de coffres de cl&#233;s Azure et en introduit les concepts importants : les diff&#233;rents types de coffre de cl&#233;s, les secrets, ou les cl&#233;s RSA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d515/5bae65e4-b66a-4863-80c7-2cb1851bd515/comprendreazurekey_mid.mp4</video:content_loc>
+        <video:duration>2191</video:duration>
+        <video:publication_date>2016-06-23T09:21:03.5241178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Key-Vault-en-pratique/Introduction--Azure-Key-Vault</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9be0/79f78229-3424-4516-9967-70f012c39be0/introazurekeyvault_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction &#224; Azure Key Vault]]></video:title>
+        <video:description><![CDATA[Ce module introduit le contexte de l&#39;utilisation du service de coffres de cl&#233;s Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9be0/79f78229-3424-4516-9967-70f012c39be0/introazurekeyvault_mid.mp4</video:content_loc>
+        <video:duration>1366</video:duration>
+        <video:publication_date>2016-06-23T09:21:01.7168062+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

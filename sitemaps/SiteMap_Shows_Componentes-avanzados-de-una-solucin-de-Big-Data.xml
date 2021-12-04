@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data/Mdulo-IV-Resumen-de-componentes</loc>
+      <lastmod>2018-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ca5/84d7fb6c-cb45-46ac-91e0-dc6dd78b1ca5/BigdataavanzadoMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Resumen de componentes]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se realiza un resumen de los componentes disponibles en una soluci&#243;n de Big Data dependiendo del tipo de an&#225;lisis requerido. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ca5/84d7fb6c-cb45-46ac-91e0-dc6dd78b1ca5/BigdataavanzadoMod4_mid.mp4</video:content_loc>
+        <video:duration>743</video:duration>
+        <video:publication_date>2017-06-12T16:56:01.4148789+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data/Mdulo-III-Anlisis-en-tiempo-real</loc>
+      <lastmod>2021-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/411e/c01abb3e-53a5-4008-86e2-d5d51a70411e/BigdataavanzadoMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - An&#225;lisis en tiempo real]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las tecnolog&#237;as disponibles para realizar an&#225;lisis y procesamiento de datos en tiempo real (Storm, Spark Streaming, Azure Stream Analytics). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/411e/c01abb3e-53a5-4008-86e2-d5d51a70411e/BigdataavanzadoMod3_mid.mp4</video:content_loc>
+        <video:duration>1507</video:duration>
+        <video:publication_date>2017-06-12T16:55:52.2601788+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data/Mdulo-II-Introduccin-a-HBase</loc>
+      <lastmod>2018-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41aa/0fa962a9-755d-4be0-9495-9f7a7dbd41aa/BigdataavanzadoMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Introducci&#243;n a HBase]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las caracter&#237;sticas de HBase como base de datos NoSQL disponible en HDInsight. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41aa/0fa962a9-755d-4be0-9495-9f7a7dbd41aa/BigdataavanzadoMod2_mid.mp4</video:content_loc>
+        <video:duration>1180</video:duration>
+        <video:publication_date>2017-06-12T16:55:44.8980169+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data/Mdulo-I-Introduccin-a-Spark</loc>
+      <lastmod>2017-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/055e/643bbd65-53fb-4978-a428-2bde1720055e/BigdataavanzadoMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Introducci&#243;n a Spark]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las caracter&#237;sticas b&#225;sicas de Spark y se utiliza esta tecnolog&#237;a para realizar an&#225;lisis interactivo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/055e/643bbd65-53fb-4978-a428-2bde1720055e/BigdataavanzadoMod1_mid.mp4</video:content_loc>
+        <video:duration>2343</video:duration>
+        <video:publication_date>2017-06-12T16:55:37.2405090+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

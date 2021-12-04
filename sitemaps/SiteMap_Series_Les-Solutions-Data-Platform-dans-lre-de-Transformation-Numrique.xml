@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Les-Solutions-Data-Platform-dans-lre-de-Transformation-Numrique</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Les-Solutions-Data-Platform-dans-lre-de-Transformation-Numrique/Introduction-French</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c283/a450e374-8aa7-4815-8ce6-3457b68fc283/IntroductionFrench_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction (French)]]></video:title>
+        <video:description><![CDATA[Introduction g&#233;n&#233;rale sur la Transformation Num&#233;rique et la structure de la Data Platform de Microsoft ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c283/a450e374-8aa7-4815-8ce6-3457b68fc283/IntroductionFrench_mid.mp4</video:content_loc>
+        <video:duration>623</video:duration>
+        <video:publication_date>2016-12-13T07:50:52.2085062+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Les-Solutions-Data-Platform-dans-lre-de-Transformation-Numrique/SQL-Server-2016--Everything-built-in-French</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ccfd/1d0e9e49-6fd8-43a6-b9e7-0cdc565cccfd/SQLServer2016French_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016 : Everything built-in (French]]></video:title>
+        <video:description><![CDATA[Les nouvelles fonctionnalit&#233;s de SQL Server 2016, un d&#233;mo sur le Mobile Report Publisher et une comparaison entre les diff&#233;rentes &#233;ditions de SQL Server 2016 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ccfd/1d0e9e49-6fd8-43a6-b9e7-0cdc565cccfd/SQLServer2016French_mid.mp4</video:content_loc>
+        <video:duration>1293</video:duration>
+        <video:publication_date>2016-12-13T07:50:48.7634226+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Les-Solutions-Data-Platform-dans-lre-de-Transformation-Numrique/Power-BI-French</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8c27/7ca594aa-d7e0-4d27-aa19-10901a7a8c27/PowerBIFrench_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI (French)]]></video:title>
+        <video:description><![CDATA[Description de l&#39;outil Power BI et un d&#233;mo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c27/7ca594aa-d7e0-4d27-aa19-10901a7a8c27/PowerBIFrench_mid.mp4</video:content_loc>
+        <video:duration>1098</video:duration>
+        <video:publication_date>2016-12-13T07:50:45.8342631+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Les-Solutions-Data-Platform-dans-lre-de-Transformation-Numrique/Conclusion-French</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ebb3/070fa3ad-f962-4477-9dc6-11b97442ebb3/ConclusionFrench_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conclusion (French)]]></video:title>
+        <video:description><![CDATA[Conclusion g&#233;n&#233;rale sur le contenu et les ressources &#224; consulter ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebb3/070fa3ad-f962-4477-9dc6-11b97442ebb3/ConclusionFrench_mid.mp4</video:content_loc>
+        <video:duration>375</video:duration>
+        <video:publication_date>2016-12-13T07:50:44.4218219+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

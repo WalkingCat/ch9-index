@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016/Llevando-Azure-a-tu-datacenter-con-Azure-Stack-y-Windows-Server-2016</loc>
+      <lastmod>2018-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a278/eaec537c-7744-4cbe-8bd8-3ef30157a278/WSCRAZURESTACK_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Llevando Azure a tu datacenter con Azure Stack y Windows Server 2016]]></video:title>
+        <video:description><![CDATA[Muchas empresas est&#225;n adoptando r&#225;pidamente la nube como plataforma para evolucionar su infraestructura de forma &#225;gil y din&#225;mica. Sin embargo, en muchos casos es necesario tener una estrategia h&#237;brida&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a278/eaec537c-7744-4cbe-8bd8-3ef30157a278/WSCRAZURESTACK_mid.mp4</video:content_loc>
+        <video:duration>3110</video:duration>
+        <video:publication_date>2016-03-31T17:56:53.4000559+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016/Gestin-de-forma-unificada-con-Operations-Management-Suite</loc>
+      <lastmod>2016-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6fc1/2ff7e2b4-341b-4252-8076-db2d7f596fc1/WSCROMS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gesti&#243;n de forma unificada con Operations Management Suite]]></video:title>
+        <video:description><![CDATA[La gesti&#243;n de nuestra infraestructura requiere a d&#237;a de hoy el soporte para entornos heterog&#233;neos. Parte de nuestra aplicaci&#243;n puede estar en nuestra infraestructura, otra parte en Azure y otra en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6fc1/2ff7e2b4-341b-4252-8076-db2d7f596fc1/WSCROMS_mid.mp4</video:content_loc>
+        <video:duration>2701</video:duration>
+        <video:publication_date>2016-03-31T17:55:43.1368409+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016/El-futuro-de-Windows-Server-Nano-Server</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/671f/2bc1b1bc-6da1-4f3e-a76a-f9bc1efc671f/WSRSNANOSERVER_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[El futuro de Windows Server: Nano Server]]></video:title>
+        <video:description><![CDATA[El cloud computing y los nuevos paradigmas de desarrollo de aplicaciones nos dirigen a una nueva forma de ver la infraestructura. Los contenedores han influenciado mucho en ello haciendo de las&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/671f/2bc1b1bc-6da1-4f3e-a76a-f9bc1efc671f/WSRSNANOSERVER_mid.mp4</video:content_loc>
+        <video:duration>3242</video:duration>
+        <video:publication_date>2016-03-31T17:54:14.9293845+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016/La-identidad-y-los-entornos-hbridos</loc>
+      <lastmod>2016-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53a2/6687f7db-433e-48ee-9b03-216c68a153a2/WSCRIDENTIDADENTORNOSHIBRIDOS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[La identidad y los entornos h&#237;bridos]]></video:title>
+        <video:description><![CDATA[En los entornos de movilidad y de integraci&#243;n entre diferentes servicios y plataforma, la identidad se convierte en una pieza clave para gestionar y controlar de forma adecuada el acceso a nuestros&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53a2/6687f7db-433e-48ee-9b03-216c68a153a2/WSCRIDENTIDADENTORNOSHIBRIDOS_mid.mp4</video:content_loc>
+        <video:duration>3094</video:duration>
+        <video:publication_date>2016-03-31T17:53:20.1768968+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016/Hyper-V-y-Contenedores-una-nueva-forma-de-virtualizacin</loc>
+      <lastmod>2016-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a91/6db8443e-dd52-4f80-a2c2-4831dc575a91/WSCRHYPERVYCONTENEDORES_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hyper-V y Contenedores, una nueva forma de virtualizaci&#243;n]]></video:title>
+        <video:description><![CDATA[El ritmo de evoluci&#243;n de Hyper-V como plataforma de evaluaci&#243;n no se detiene con esta nueva edici&#243;n de Windows Server. No solo encontraremos mejoras en la gesti&#243;n de la red, la memoria o el&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a91/6db8443e-dd52-4f80-a2c2-4831dc575a91/WSCRHYPERVYCONTENEDORES_mid.mp4</video:content_loc>
+        <video:duration>3443</video:duration>
+        <video:publication_date>2016-03-31T17:52:25.4635388+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Novedades-de-Windows-Server-2016/Keynote</loc>
+      <lastmod>2016-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/50c0/4bf11519-d890-452e-9e3d-0289d4f150c0/WSCRDATACENTERMODERNIZATION_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote]]></video:title>
+        <video:description><![CDATA[Keynote del evento Windows Server Community Roadshow impartida por Matt McSpirit hacienda un repaso a las novedades de Windows Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/50c0/4bf11519-d890-452e-9e3d-0289d4f150c0/WSCRDATACENTERMODERNIZATION_mid.mp4</video:content_loc>
+        <video:duration>3642</video:duration>
+        <video:publication_date>2016-03-31T17:51:20.8933087+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

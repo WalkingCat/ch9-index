@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Project-Online-Overview</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Project-Online-Overview/Project-Online-Webinar</loc>
+      <lastmod>2020-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/80ce/eb745cba-a8a9-4b24-b68e-27a727d680ce/POWebinar_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Project Online Webinar]]></video:title>
+        <video:description><![CDATA[Education Webinar - Project Online Project Online – an Office 365 module - is a collaboration tool that can be used to save, view, and edit project plans, enter timesheets, report project status, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/80ce/eb745cba-a8a9-4b24-b68e-27a727d680ce/POWebinar_mid.mp4</video:content_loc>
+        <video:duration>4021</video:duration>
+        <video:publication_date>2014-05-15T15:15:15.1978479+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

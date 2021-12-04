@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Modern-Web-Development-Show</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Modern-Web-Development-Show/Visual-Studio-2013-Update-2-CTP2-SASS-Editor-Enhancement</loc>
+      <lastmod>2014-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c8a3/3429b694-d5d6-46aa-9cc3-2a9ac799c8a3/VisualStudio2013Update2CTP2SassEditor_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2013 Update 2 CTP2  SASS ]]></video:title>
+        <video:description><![CDATA[日前 Visual Studio 2013 發表了 Update 2 CTP 2 的版本，雖然還沒到正式的版本，不過已經揭露很多 Visual Studio 2013 內建的新功能，其中一個就是對於 SASS 編輯器的增強，透過對 SASS 更多的支援，可以幫助開發人員減少維護 CSS 的負擔。 在今天的節目中，我們邀請到 twMVC 社群的核心成員的 Dino 來為各位介紹 Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c8a3/3429b694-d5d6-46aa-9cc3-2a9ac799c8a3/VisualStudio2013Update2CTP2SassEditor_mid.mp4</video:content_loc>
+        <video:duration>422</video:duration>
+        <video:publication_date>2014-03-07T11:57:36.3178676+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Modern-Web-Development-Show/ASP-NET-MVC-51-New-Features</loc>
+      <lastmod>2015-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2c33/7a1481e0-1124-4551-9142-93a36e8c2c33/ASPNETMVC51NewFeatures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET MVC 5.1 ]]></video:title>
+        <video:description><![CDATA[ASP.NET MVC 日前推出 5.1 的更新 (釋出說明)，本集很高興邀請到微軟最有價&amp;#20540;專家 (MVP) -- Demo Fan 來為各位介紹 ASP.NET MVC 5.1 更新的功能，像是在 EditorFor 語法中可以輕易加入 HTML Attribute 以及列舉（Enum）的支援，可以如何幫助您在 ASP.NET MVC 專案中做到更多功能。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c33/7a1481e0-1124-4551-9142-93a36e8c2c33/ASPNETMVC51NewFeatures_mid.mp4</video:content_loc>
+        <video:duration>299</video:duration>
+        <video:publication_date>2014-02-19T06:51:24.4528194+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

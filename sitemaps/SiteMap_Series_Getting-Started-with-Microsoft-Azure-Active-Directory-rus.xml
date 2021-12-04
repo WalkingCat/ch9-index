@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory-rus</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory-rus/03</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5763/da28cd6e-ab74-4c95-8a9c-1460eed25763/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |    SaaS]]></video:title>
+        <video:description><![CDATA[Обратите вни&amp;#1084;ание на простоту развертывания програ&amp;#1084;&amp;#1084;ного обеспечения как услуги (SaaS) с доступо&amp;#1084; к приложения&amp;#1084; для включения опти&amp;#1084;изированной проверки подлинности&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5763/da28cd6e-ab74-4c95-8a9c-1460eed25763/03_mid.mp4</video:content_loc>
+        <video:duration>409</video:duration>
+        <video:publication_date>2015-06-29T11:32:26.4427400+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory-rus/02</loc>
+      <lastmod>2015-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/27d9/a13748c7-7f14-4e5b-a5fc-819dd9fc27d9/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |    (MFA)]]></video:title>
+        <video:description><![CDATA[Познако&amp;#1084;ьтесь с ролью &amp;#1084;ногофакторной проверки подлинности (MFA) в се&amp;#1084;ействе Azure. Роль на основе облачной службы часто развертывают для защиты локальных приложений в сочетании с&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/27d9/a13748c7-7f14-4e5b-a5fc-819dd9fc27d9/02_mid.mp4</video:content_loc>
+        <video:duration>448</video:duration>
+        <video:publication_date>2015-06-29T11:32:23.4740150+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Azure-Active-Directory-rus/01</loc>
+      <lastmod>2018-12-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b5c/c44958d3-8d86-4fc3-a293-ed437afe5b5c/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 |   Active Directory Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Познако&amp;#1084;ьтесь с эволюционны&amp;#1084; развитие&amp;#1084; локальной службы каталогов Active Directory к облачной Azure Active Directory. Как консоль доступа к управлению Azure Active Directory&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b5c/c44958d3-8d86-4fc3-a293-ed437afe5b5c/01_mid.mp4</video:content_loc>
+        <video:duration>1621</video:duration>
+        <video:publication_date>2015-06-29T11:32:19.9037886+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

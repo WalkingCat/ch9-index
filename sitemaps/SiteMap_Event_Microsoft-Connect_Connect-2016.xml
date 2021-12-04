@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Connect/Connect-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Connect/Connect-2016/russian-keynote-connect-2016</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1544/b6a5738c-4852-4970-9992-a14538d21544/keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[     - Connect(); // 2016]]></video:title>
+        <video:description><![CDATA[16 ноября состоялась пря&amp;#1084;ая онлайн-трансляция &amp;#1084;ероприятия Connect(); 2016 из Нью-Йорка, где Скотт Гатри и Скотт Хансель&amp;#1084;ан представили последние инновации в разработке приложений.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1544/b6a5738c-4852-4970-9992-a14538d21544/keynote.mp4</video:content_loc>
+        <video:duration>12975</video:duration>
+        <video:publication_date>2016-11-29T13:37:39.2096702+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/MVP-RD-Americas/GitHub--Microsoft-Partnership</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MVP-RD-Americas/GitHub--Microsoft-Partnership/GH3-AdvancedGit-commits-stash-stagingarea</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/796c/2c5f0a11-36a4-4329-a143-b3bf15a1796c/GH3AdvancedGitTopics_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced Git Topics:  How to change the last commit, using staging area, Git stash and other features]]></video:title>
+        <video:description><![CDATA[In this video, Phil and the MVPs discuss advanced topics about pull-request, private vs public branches, squash commits and Git rebase, answering many of developers questions that are working with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/796c/2c5f0a11-36a4-4329-a143-b3bf15a1796c/GH3AdvancedGitTopics_mid.mp4</video:content_loc>
+        <video:duration>1981</video:duration>
+        <video:publication_date>2015-11-24T13:53:30.0061420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MVP-RD-Americas/GitHub--Microsoft-Partnership/GH2-Open-Source-projects-best-practices</loc>
+      <lastmod>2017-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/71ac/e9dc905b-3946-40b5-94b6-acfa406071ac/GH2OpenSourceProjectsBestPractices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source projects best practices]]></video:title>
+        <video:description><![CDATA[What are good practices for committing new features to your product&#39;s repository? How can I know, or how can I prevent, my build from being broken by a PR by a project team member, or the community?&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71ac/e9dc905b-3946-40b5-94b6-acfa406071ac/GH2OpenSourceProjectsBestPractices_mid.mp4</video:content_loc>
+        <video:duration>1351</video:duration>
+        <video:publication_date>2015-11-24T12:49:03.3391576+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MVP-RD-Americas/GitHub--Microsoft-Partnership/GH1-Publishing-code-to-GitHub-using-Visual-Studio-integration</loc>
+      <lastmod>2015-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c20f/80b3d210-47a1-4de4-8b66-dfdf8e95c20f/GH1PublishingCodeToGitHubVStudio_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publishing code to GitHub using Visual Studio integration]]></video:title>
+        <video:description><![CDATA[In this video, Phil Haack and MVPs discuss how to create and publish repositories, using extensions and the difference between Git and GitHub extensions. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c20f/80b3d210-47a1-4de4-8b66-dfdf8e95c20f/GH1PublishingCodeToGitHubVStudio_mid.mp4</video:content_loc>
+        <video:duration>1637</video:duration>
+        <video:publication_date>2015-11-24T12:48:50.2734572+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

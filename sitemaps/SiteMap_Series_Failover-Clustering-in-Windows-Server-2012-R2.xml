@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/08</loc>
+      <lastmod>2018-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6709/d577c396-af89-49a2-809d-f84b5ed76709/626FailoverClusteringWinSVR2012R2M08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (08) Managing Clusters with System Center 2012 R2]]></video:title>
+        <video:description><![CDATA[Get the details on cluster management and integration with System Center 2012 R2. Explore all System Center components, while focusing on using Virtual Machine Manager, Data Protection Manager, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6709/d577c396-af89-49a2-809d-f84b5ed76709/626FailoverClusteringWinSVR2012R2M08_mid.mp4</video:content_loc>
+        <video:duration>2069</video:duration>
+        <video:publication_date>2015-01-21T17:11:44.7022058+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/07</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7cb/ddf5a809-212f-470a-a938-b3c6eb94e7cb/626FailoverClusteringWinSVR2012R2M07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (07) Advanced Cluster Administration &amp; Troubleshooting]]></video:title>
+        <video:description><![CDATA[Learn about the internals of failover clustering so that you can become efficient at managing and troubleshooting the configuration. Explore cluster events, logs, the resource host system, and user&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7cb/ddf5a809-212f-470a-a938-b3c6eb94e7cb/626FailoverClusteringWinSVR2012R2M07_mid.mp4</video:content_loc>
+        <video:duration>1627</video:duration>
+        <video:publication_date>2015-01-21T17:11:34.2097134+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/06</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4946/2e3169f0-5209-4397-aa56-33c775fb4946/626FailoverClusteringWinSVR2012R2M06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (06) Multi-Site Clustering &amp; Disaster Recovery]]></video:title>
+        <video:description><![CDATA[Get an introduction to disaster recovery (DR), and see how this differs from high availability. Learn how to create an in-box DR solution for VMs using Hyper-V Replica, and get best practices around&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4946/2e3169f0-5209-4397-aa56-33c775fb4946/626FailoverClusteringWinSVR2012R2M06_mid.mp4</video:content_loc>
+        <video:duration>3685</video:duration>
+        <video:publication_date>2015-01-21T17:11:09.9726204+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/05</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ced5/95b5e364-a93b-45cc-8dba-b5125fecced5/626FailoverClusteringWinSVR2012R2M05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (05) Hyper-V Clustering]]></video:title>
+        <video:description><![CDATA[See how to deploy and manage Hyper-V VMs on a failover cluster. After exploring the best practices for VM optimization, take a look at advanced features, such as VM Monitoring and Guest Clustering.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ced5/95b5e364-a93b-45cc-8dba-b5125fecced5/626FailoverClusteringWinSVR2012R2M05_mid.mp4</video:content_loc>
+        <video:duration>2935</video:duration>
+        <video:publication_date>2015-01-21T17:10:58.7868779+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/04</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f386/a340df52-3b44-4435-bdc1-e26bab26f386/626FailoverClusteringWinSVR2012R2M04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (04) Cluster Storage &amp; Scale-Out File Server]]></video:title>
+        <video:description><![CDATA[Find out how to design and optimize the shared storage for a cluster. Explore traditional cluster storage, learn about Cluster Shared Volumes (CSV), and build a Scale-Out File Server which offers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f386/a340df52-3b44-4435-bdc1-e26bab26f386/626FailoverClusteringWinSVR2012R2M04_mid.mp4</video:content_loc>
+        <video:duration>3022</video:duration>
+        <video:publication_date>2015-01-21T17:10:46.3871944+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ba7/d2270267-f034-4f86-a4a7-9b75662e2ba7/626FailoverClusteringWinSVR2012R2M03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (03) Cluster Networking]]></video:title>
+        <video:description><![CDATA[Learn about requirements and best practices to configure redundant networks for a cluster. Then, discover how to design and optimize the network for different types of cluster traffic. [00:46] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ba7/d2270267-f034-4f86-a4a7-9b75662e2ba7/626FailoverClusteringWinSVR2012R2M03_mid.mp4</video:content_loc>
+        <video:duration>2687</video:duration>
+        <video:publication_date>2015-01-21T17:10:29.6053246+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/02</loc>
+      <lastmod>2021-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b1a/7dee97d2-f143-48d2-ad62-b51104a01b1a/626FailoverClusteringWinSVR2012R2M02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (02) Cluster Deployment &amp; Upgrades]]></video:title>
+        <video:description><![CDATA[Find out how to build a failover cluster, and start by looking at the Active Directory requirements. Learn how to install and validate the configuration, see basic cluster management tasks, learn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b1a/7dee97d2-f143-48d2-ad62-b51104a01b1a/626FailoverClusteringWinSVR2012R2M02_mid.mp4</video:content_loc>
+        <video:duration>4477</video:duration>
+        <video:publication_date>2015-01-21T17:10:10.0947806+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Failover-Clustering-in-Windows-Server-2012-R2/01</loc>
+      <lastmod>2018-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bac7/ed32f67c-625f-4cac-a07f-c2cd2550bac7/626FailoverClusteringWinSVR2012R2M01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Failover Clustering in Windows Server 2012 R2: (01) Introduction to Failover Clustering]]></video:title>
+        <video:description><![CDATA[Get an overview of the course and of the key scenarios for Windows Server 2012 R2 failover clustering. Learn about the basic requirements and architecture to start with clustering, including hardware,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bac7/ed32f67c-625f-4cac-a07f-c2cd2550bac7/626FailoverClusteringWinSVR2012R2M01_mid.mp4</video:content_loc>
+        <video:duration>2169</video:duration>
+        <video:publication_date>2015-01-21T17:09:53.8349933+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

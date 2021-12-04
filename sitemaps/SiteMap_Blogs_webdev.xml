@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/webdev</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/webdev/Live-Bug-Triage-with-the-SignalR-Team</loc>
+      <lastmod>2013-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb56/2079786f-205f-4f00-b291-a00f9aeebb56/BugTriage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Live Bug Triage with the SignalR Team]]></video:title>
+        <video:description><![CDATA[In this week&#39;s episode of the Web Development and Tooling TV show, we&#39;re going to go deep into the SignalR team room to watch the creators of SignalR, Damian Edwards and David Fowler, triaging bugs.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb56/2079786f-205f-4f00-b291-a00f9aeebb56/BugTriage_mid.mp4</video:content_loc>
+        <video:duration>1974</video:duration>
+        <video:publication_date>2013-10-21T12:00:36.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/webdev/Intro</loc>
+      <lastmod>2018-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc53/b0b958f1-9bee-48a3-98aa-10bf8733dc53/Episode1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Web Development and Tooling TV]]></video:title>
+        <video:description><![CDATA[Welcome to the ASP.NET and Visual Studio Web Tools team&#39;s new video section here on Channel9. In this episode we talk to Scott Hunter - the Principal Group Program Manager of the web team. Please tell&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc53/b0b958f1-9bee-48a3-98aa-10bf8733dc53/Episode1_mid.mp4</video:content_loc>
+        <video:duration>614</video:duration>
+        <video:publication_date>2013-10-14T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

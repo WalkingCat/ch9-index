@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Create-a-Git-repo-in-Visual-Studio-2015</loc>
+      <lastmod>2016-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb5e/077f43d0-cd19-4304-b8ef-19848438bb5e/gitrepovs2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Create a Git repo in Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[Learn how to create or clone repos in Visual Studio 2015 Update 2 or later.   View our full Git tutorial for Visual Studio at https://www.visualstudio.com/docs/git/overview ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb5e/077f43d0-cd19-4304-b8ef-19848438bb5e/gitrepovs2015_high.mp4</video:content_loc>
+        <video:duration>180</video:duration>
+        <video:publication_date>2016-10-13T17:52:27.2547667+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Create-a-repo-from-the-command-line</loc>
+      <lastmod>2021-10-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/297a/8b50f168-2cb4-4d42-885a-3c173ffd297a/gitrepocmdline_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Create a repo from the command line]]></video:title>
+        <video:description><![CDATA[Learn about Git repos and create or clone one from the command line. View our full Git tutorial for Visual Studio Team Services at https://www.visualstudio.com/docs/git/overview ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/297a/8b50f168-2cb4-4d42-885a-3c173ffd297a/gitrepocmdline_high.mp4</video:content_loc>
+        <video:duration>141</video:duration>
+        <video:publication_date>2016-10-13T17:52:15.6308016+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Rebase</loc>
+      <lastmod>2020-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2386/ba14d6bb-8101-4642-ac9b-1cc4e0732386/gitrebase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Rebase]]></video:title>
+        <video:description><![CDATA[Learn about using Git&#39;s rebase feature to catch up with changes from your master branch. Browse our full Git tutorial for Visual Studio at https://www.visualstudio.com/docs/git/overview ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2386/ba14d6bb-8101-4642-ac9b-1cc4e0732386/gitrebase_high.mp4</video:content_loc>
+        <video:duration>139</video:duration>
+        <video:publication_date>2016-10-12T17:28:29.3512600+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Push</loc>
+      <lastmod>2020-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/392c/e177915a-e6fb-4912-8a54-b1572c4c392c/GitTutorialPush_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Push]]></video:title>
+        <video:description><![CDATA[Share your code in Git by pushing your branches to your remote repo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/392c/e177915a-e6fb-4912-8a54-b1572c4c392c/GitTutorialPush_high.mp4</video:content_loc>
+        <video:duration>82</video:duration>
+        <video:publication_date>2016-09-22T20:47:46.8126676+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Commits</loc>
+      <lastmod>2020-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d28d/acd8777e-db2b-4117-90f7-fe855477d28d/TutorialGitCommits_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Commits]]></video:title>
+        <video:description><![CDATA[Learn how to save your work in Git with commits. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d28d/acd8777e-db2b-4117-90f7-fe855477d28d/TutorialGitCommits_mid.mp4</video:content_loc>
+        <video:duration>80</video:duration>
+        <video:publication_date>2016-09-22T20:47:33.1706154+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Branches</loc>
+      <lastmod>2020-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b73d/bc6d7a94-5fa5-42ff-9da3-eea99f7cb73d/GitTutorialBranches_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Branches]]></video:title>
+        <video:description><![CDATA[Learn how to work with multiple versions of your code in isolation using Git branches. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b73d/bc6d7a94-5fa5-42ff-9da3-eea99f7cb73d/GitTutorialBranches_high.mp4</video:content_loc>
+        <video:duration>86</video:duration>
+        <video:publication_date>2016-09-22T20:44:48.4577698+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Pull</loc>
+      <lastmod>2020-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d46/c177af05-969e-4bf1-ab67-7cd5fe978d46/GitTutorialPull_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Tutorial: Pull]]></video:title>
+        <video:description><![CDATA[Learn how to work with code from your team using Git pull. For a full tutorial for working with Git and Visual Studio, see https://www.visualstudio.com/git/overview     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d46/c177af05-969e-4bf1-ab67-7cd5fe978d46/GitTutorialPull_high.mp4</video:content_loc>
+        <video:duration>107</video:duration>
+        <video:publication_date>2016-09-22T20:44:41.1204997+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

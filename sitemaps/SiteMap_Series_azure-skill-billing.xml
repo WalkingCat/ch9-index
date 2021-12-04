@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-billing</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-billing/save-cost</loc>
+      <lastmod>2016-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d042/31cb3a70-0281-420d-9387-32496a0ad042/save_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure ]]></video:title>
+        <video:description><![CDATA[本課程由微軟技術支援團隊 Lawrence Chiang 主講。 想知道如何使用 Azure 來幫你節省建置成本？首先就要先知道 Azure 提供哪些 免費 服務！ [ 00:52 ] 有哪些免費服務在 Azure上 [ 01:05 ] Azure Service：可以建立免費的 Web、行動、或 API 應用程式用於開發和測試應用程式，一天可以使用 60 CPU&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d042/31cb3a70-0281-420d-9387-32496a0ad042/save_mid.mp4</video:content_loc>
+        <video:duration>870</video:duration>
+        <video:publication_date>2016-01-07T06:06:12.6943969+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-skill-billing/service-charge</loc>
+      <lastmod>2020-02-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77bf/80a81d73-a06e-424d-99b3-e3f32ea777bf/CSSAzure02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[由微軟技術團隊 Stella 主講 如何避免未預期的費用產生？我們模擬企業與個人最常碰到的三種情境： 虛擬機器：為何 VM 關機了卻有費用儲存體：為何 VM 刪除了卻有費用App Service：為何 Web App&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77bf/80a81d73-a06e-424d-99b3-e3f32ea777bf/CSSAzure02_mid.mp4</video:content_loc>
+        <video:duration>437</video:duration>
+        <video:publication_date>2015-12-23T04:27:32.7554726+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

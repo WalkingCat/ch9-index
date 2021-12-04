@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/ImagineCup/Imagine-Cup-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ImagineCup/Imagine-Cup-2016/Anncio-Imagine-Cup-Brasil</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf2d/983491d5-0575-4110-b3ce-e197d27bbf2d/ic_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[An&#250;ncio Imagine Cup Brasil]]></video:title>
+        <video:description><![CDATA[Conhe&#231;a a equipe que ir&#225; representar o Brasil na final mundial da Imagine Cup, em Seattle. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf2d/983491d5-0575-4110-b3ce-e197d27bbf2d/ic_mid.mp4</video:content_loc>
+        <video:duration>942</video:duration>
+        <video:publication_date>2016-06-07T12:25:06.2203320+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

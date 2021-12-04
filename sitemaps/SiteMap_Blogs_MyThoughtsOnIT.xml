@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MyThoughtsOnIT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MyThoughtsOnIT/How-to-create-an-SMB3-File-Share-in-Azure-Storage</loc>
+      <lastmod>2020-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d332/d0c92b68-27eb-4917-b2b0-ddf71bb1d332/fileshareinazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to create an  SMB3 File Share in Azure Storage]]></video:title>
+        <video:description><![CDATA[In this quick video I walk you through the steps of setting up an SMB 3 file share in Azure Storage. There is no VM needed! This is a great way to share files and store backups. If you come up with a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d332/d0c92b68-27eb-4917-b2b0-ddf71bb1d332/fileshareinazure_mid.mp4</video:content_loc>
+        <video:duration>688</video:duration>
+        <video:publication_date>2016-04-29T01:24:41.0431324+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MyThoughtsOnIT/Hacker-call-Microsoft-employee-claiming-to-be-Microsoft</loc>
+      <lastmod>2020-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ffd3/4444ac03-e1a4-4fba-9d19-cecdcef0ffd3/Hacker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hacker calls Microsoft employee claiming to be Microsoft ]]></video:title>
+        <video:description><![CDATA[In this video you will witness hackers attempting a social engineering attack. They randomly call people and try and get them to allow remote control to a PC. They then try and show how the customers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ffd3/4444ac03-e1a4-4fba-9d19-cecdcef0ffd3/Hacker_mid.mp4</video:content_loc>
+        <video:duration>2123</video:duration>
+        <video:publication_date>2016-04-01T05:08:07.6755647+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MyThoughtsOnIT/How-to-build-the-Ultimate-Home-Network</loc>
+      <lastmod>2017-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f8a7/be15b883-ceed-44cd-9b73-2704957df8a7/UltimateHomeNetwork1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to build the &quot;Ultimate Home Network&quot;]]></video:title>
+        <video:description><![CDATA[This is the first video in a series of videos on &amp;quot;How to build the Ultimate Home Network&amp;quot;. In this first video Brian Lewis and David Giard discuss some of the problems with the traditional&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f8a7/be15b883-ceed-44cd-9b73-2704957df8a7/UltimateHomeNetwork1_mid.mp4</video:content_loc>
+        <video:duration>1307</video:duration>
+        <video:publication_date>2016-03-01T19:57:48.7219297+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MyThoughtsOnIT/Microsoft-Windows-Hello-Demo</loc>
+      <lastmod>2016-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5535/083dc1e5-7d84-4ca6-a6ea-cb9866515535/WindowsHelloDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Windows Hello and AAD Join Demo]]></video:title>
+        <video:description><![CDATA[In this video you will see a Windows 10 workstation that we first configure to use Windows Hello to unlock the workstation and then show how easily the machine unlocks with just sitting in front of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5535/083dc1e5-7d84-4ca6-a6ea-cb9866515535/WindowsHelloDemo_mid.mp4</video:content_loc>
+        <video:duration>199</video:duration>
+        <video:publication_date>2016-02-27T18:12:39.1775302+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MyThoughtsOnIT/Hyperv-Shared-Nothing-Live-Migration</loc>
+      <lastmod>2016-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1463/bb6a2a4a-deee-48f5-86ad-e2e8dcba1463/Hypervsharednothinglivemigration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hyperv Shared Nothing Live Migration]]></video:title>
+        <video:description><![CDATA[Have you seen how easy it is to move running Virtual Machines from one physical server host to another physical machine? In this quick video you will see how easy it is to move a running VM from one&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1463/bb6a2a4a-deee-48f5-86ad-e2e8dcba1463/Hypervsharednothinglivemigration_mid.mp4</video:content_loc>
+        <video:duration>112</video:duration>
+        <video:publication_date>2016-01-31T06:07:36.3247613+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

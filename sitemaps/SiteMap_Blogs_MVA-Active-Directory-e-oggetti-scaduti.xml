@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Active-Directory-e-oggetti-scaduti</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Active-Directory-e-oggetti-scaduti/Come-gestire-oggetti-vecchi-e-scaduti</loc>
+      <lastmod>2015-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e03f/bc981367-6064-4bfe-97d4-d4fddd8ae03f/video_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Come gestire oggetti vecchi e scaduti]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e03f/bc981367-6064-4bfe-97d4-d4fddd8ae03f/video_mid.mp4</video:content_loc>
+        <video:duration>823</video:duration>
+        <video:publication_date>2015-03-31T14:42:35.9862014+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

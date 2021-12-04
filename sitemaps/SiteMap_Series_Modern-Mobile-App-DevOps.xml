@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Modern-Mobile-App-DevOps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Modern-Mobile-App-DevOps/Build-Your-Mobile-Apps-by-Visual-Studio-Team-Services</loc>
+      <lastmod>2017-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dfe2/38763cbd-2cc4-46b3-bc61-b0efd3addfe2/BuildYourAppsByVisualStudioTeamServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio Team Services ]]></video:title>
+        <video:description><![CDATA[這部影片說明如何使用 Visual Studio Team Services 來做到持續整合（CI, Continuous Integration）的自動化操作。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dfe2/38763cbd-2cc4-46b3-bc61-b0efd3addfe2/BuildYourAppsByVisualStudioTeamServices_mid.mp4</video:content_loc>
+        <video:duration>631</video:duration>
+        <video:publication_date>2017-02-24T16:40:01.0907971+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Modern-Mobile-App-DevOps/Test-Your-App-by-Xamarin-Test-Cloud</loc>
+      <lastmod>2017-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/892e/4a4fd9f3-8327-4e6b-8cbb-62798a6d892e/TestYourAppByXamarinTestCloud_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Xamarin Test Cloud ]]></video:title>
+        <video:description><![CDATA[實機測試對於行動應用程式的開發人員來說一直是一件苦差事，Xamarin Test Cloud 可以幫助您或開發測試團隊大量地在實體機器上進行指定的測試，大幅減少團隊重複工作的時間，進而提升應用程式開發以及交付效率。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/892e/4a4fd9f3-8327-4e6b-8cbb-62798a6d892e/TestYourAppByXamarinTestCloud_mid.mp4</video:content_loc>
+        <video:duration>629</video:duration>
+        <video:publication_date>2017-02-18T08:57:32.4548808+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Modern-Mobile-App-DevOps/UI-Testing-with-Xamarin-Test-Recorder</loc>
+      <lastmod>2017-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91dd/b2b2b477-364d-44ed-8e7a-2edd3a9991dd/UITestingWithXamarinTestRecorder_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Xamarin Test Recorder  UI ]]></video:title>
+        <video:description><![CDATA[這部影片將會介紹如何使用 Xamarin Test Recorder 錄製行動應用程式的 UI 測試，並且產生測試碼，方便執行自動測試。 Xamarin Test Recorder 產品頁面。Xamarin Test Recorder 操作手冊。]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0d7e/8418f7e8-c3f7-4159-ba03-39d0af050d7e/UITestWithXamarinTestRecorderHD_mid.mp4</video:content_loc>
+        <video:duration>425</video:duration>
+        <video:publication_date>2017-02-10T17:58:17.2955888+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

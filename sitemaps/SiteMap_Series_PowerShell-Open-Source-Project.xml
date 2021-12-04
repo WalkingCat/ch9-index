@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Amazon-Web-Services-AWS-EC2-Run-Command-multiple-website-admin-scenario</loc>
+      <lastmod>2017-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f7f/6022f97d-1b1d-4467-84da-5521a2bf7f7f/PSEC2Run_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux - Amazon Web Services (AWS) EC2 Run Command multiple website admin scenario]]></video:title>
+        <video:description><![CDATA[PowerShell on Linux - Amazon Web Services (AWS) EC2 Run Command multiple website admin&#39;s scenario drill down demo by Steve Roberts from AWS and hosted by Microsoft Technical Fellow and PowerShell&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f7f/6022f97d-1b1d-4467-84da-5521a2bf7f7f/PSEC2Run_mid.mp4</video:content_loc>
+        <video:duration>336</video:duration>
+        <video:publication_date>2016-09-05T23:23:10.6461619+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-VMware-demo-using-PowerCLI-to-deploy-VMs</loc>
+      <lastmod>2018-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/408a/ff25a200-ab26-428f-b439-dc7a36a4408a/PSVMWPowerCLI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux - VMware demo using PowerCLI to deploy VMs]]></video:title>
+        <video:description><![CDATA[PowerShell on Linux - VMware drill down demo using PowerCLI to deploy VMs in a datacenter by Jeffery Snover, Inventor of PowerShell and Technical Fellow C&amp;#43;E at Microsoft and Alan Renouf, Product&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/408a/ff25a200-ab26-428f-b439-dc7a36a4408a/PSVMWPowerCLI_mid.mp4</video:content_loc>
+        <video:duration>512</video:duration>
+        <video:publication_date>2016-09-05T23:09:15.6246008+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Amazon-Web-Services-AWS-S3-Website-demo</loc>
+      <lastmod>2017-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0469/a3763724-152f-4e8f-a65e-ed8a2d640469/PSAWSS3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux - Amazon Web Services (AWS) S3 Website demo]]></video:title>
+        <video:description><![CDATA[PowerShell on Linux - Amazon Web Services (AWS) S3 website drill down demo by Steve Roberts from AWS hosted by Microsoft Technical Fellow and PowerShell inventor Jeffrey Snover. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0469/a3763724-152f-4e8f-a65e-ed8a2d640469/PSAWSS3_mid.mp4</video:content_loc>
+        <video:duration>318</video:duration>
+        <video:publication_date>2016-09-05T22:35:50.8296279+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-On-Linux-Python-demo</loc>
+      <lastmod>2018-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/22f9/3c4728eb-8a84-4552-88ba-cf1c167422f9/PythonDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell On Linux - Python demo]]></video:title>
+        <video:description><![CDATA[PowerShell On Linux - Python demo by Jeffrey Snover, Technical Fellow and Jason Shirk, Principal Software Engineer from PowerShell team ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22f9/3c4728eb-8a84-4552-88ba-cf1c167422f9/PythonDemo_mid.mp4</video:content_loc>
+        <video:duration>111</video:duration>
+        <video:publication_date>2016-08-25T15:10:55.7468264+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-VMware-partner-demo</loc>
+      <lastmod>2017-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/769d/07d62107-6d78-4df3-b48f-01b38b62769d/VMWPSDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux - VMware partner demo]]></video:title>
+        <video:description><![CDATA[PowerShell on Linux demo by Jeffery Snover, Inventor of PowerShell and Technical Fellow C&amp;#43;E at Microsoft and Alan Renouf,Product Line Manager for APIs, SDKs, CLIs and Automation Frameworks at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/769d/07d62107-6d78-4df3-b48f-01b38b62769d/VMWPSDemo_mid.mp4</video:content_loc>
+        <video:duration>191</video:duration>
+        <video:publication_date>2016-08-25T15:10:43.3040723+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Amazon-Web-Services-AWS-Partner-demo</loc>
+      <lastmod>2018-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d287/e6736872-460d-4123-8520-359ab224d287/AWSPSDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux - Amazon Web Services (AWS) Partner demo]]></video:title>
+        <video:description><![CDATA[PowerShell on Linux - Amazon Web Services (AWS) Partner demo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d287/e6736872-460d-4123-8520-359ab224d287/AWSPSDemo_mid.mp4</video:content_loc>
+        <video:duration>137</video:duration>
+        <video:publication_date>2016-08-25T15:10:25.4876418+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-and-Python-Interoperability</loc>
+      <lastmod>2018-07-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a640/cf989f4b-db5b-4fcb-b3fb-504a650aa640/PSPythonInterop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell and Python Interoperability]]></video:title>
+        <video:description><![CDATA[PowerShell and Python Interoperability demo by Jeffrey Snover, Technical Fellow and Bruce Payette, Principal Software Engineer  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a640/cf989f4b-db5b-4fcb-b3fb-504a650aa640/PSPythonInterop_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2016-08-25T15:10:07.6884051+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Azure-Demo</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e1ce/f88b070a-39d6-4d93-8929-6e9beac3e1ce/AzurePS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell on Linux - Azure Demo]]></video:title>
+        <video:description><![CDATA[PowerShell on Linux - Azure demo  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e1ce/f88b070a-39d6-4d93-8929-6e9beac3e1ce/AzurePS_mid.mp4</video:content_loc>
+        <video:duration>193</video:duration>
+        <video:publication_date>2016-08-25T15:09:33.8004610+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

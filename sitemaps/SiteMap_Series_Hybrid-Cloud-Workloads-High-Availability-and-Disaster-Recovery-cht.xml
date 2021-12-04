@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery-cht</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery-cht/05</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f47/789d9831-392b-4cea-a7e5-c7dd0e916f47/Mod5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(05) ]]></video:title>
+        <video:description><![CDATA[本單元將總結 Microsoft 虛擬機器的功能及如何解決現在 IT 常面臨的種種挑戰，像是對遠端監控服務的需求、恢復流程複雜性、保護應用程式的成本等。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f47/789d9831-392b-4cea-a7e5-c7dd0e916f47/Mod5_mid.mp4</video:content_loc>
+        <video:duration>4597</video:duration>
+        <video:publication_date>2015-03-30T06:38:31.6489283+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery-cht/04</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e5a7/0dc68a9d-3fcc-40ea-a4f4-eb0c1d8de5a7/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04) Hyper-V ]]></video:title>
+        <video:description><![CDATA[在本單元您將進一步了解 Hyper-V 叢集，以及故障轉移叢集如何為虛擬機器提供高可用性，使用 Windows Server 2012 / Windows Server 2012 R2 其故障移轉叢集都支持將虛擬機器放在共享文件中，並可透過網路使用 SMB 3.0 訪問，進而在部署基礎設施時為管理員提供更高的靈活性，實現更簡單的部署和管理體驗。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5a7/0dc68a9d-3fcc-40ea-a4f4-eb0c1d8de5a7/Mod4_mid.mp4</video:content_loc>
+        <video:duration>1347</video:duration>
+        <video:publication_date>2015-03-30T06:38:23.6966482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery-cht/03</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/902a/90b0b33e-f655-408a-97bc-dfb9959c902a/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03)  Hyper-V ]]></video:title>
+        <video:description><![CDATA[透過本單元您將學習到在 Windows Server 2012 R2 Hyper-V 中如何配置虛擬機器，以便將其儲存於 SMB 共享文件中。接著，您可以在運行中的 Hyper-V Non-Clustered 伺服器間，將執行中的虛擬機器做 Live Migration，在此同時該虛擬機器的 storage 仍保留在中央 SMB&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/902a/90b0b33e-f655-408a-97bc-dfb9959c902a/Mod3_mid.mp4</video:content_loc>
+        <video:duration>1002</video:duration>
+        <video:publication_date>2015-03-30T06:38:15.5688040+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery-cht/02</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03e5/a9207e01-b55c-4a7b-bd6c-a32a6f8403e5/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02)  Windows Server Backup  Hyper-V VM ]]></video:title>
+        <video:description><![CDATA[在本單元中您將學習到 Microsoft Azure Backup 這個以雲端為基礎的備份解決方案，透過雲端資料中心來進行資料的備份還原服務將可有效避免資料遺失或毀損。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03e5/a9207e01-b55c-4a7b-bd6c-a32a6f8403e5/Mod2_mid.mp4</video:content_loc>
+        <video:duration>1194</video:duration>
+        <video:publication_date>2015-03-30T06:38:07.8879408+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery-cht/01</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db7a/fbfc98c5-ee21-477a-afea-3428776ddb7a/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01)  Hyper-V Recovery Manager ]]></video:title>
+        <video:description><![CDATA[在本單元中您將學習到 Hyper-V Recovery Manager 是如何利用 Orchestrating Hyper-V Replica 在兩台 System Center 間保護您私有雲中的重要工作負載執行。透過 System Center Virtual Machine Manager (SCVMM)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db7a/fbfc98c5-ee21-477a-afea-3428776ddb7a/Mod1_mid.mp4</video:content_loc>
+        <video:duration>995</video:duration>
+        <video:publication_date>2015-03-30T06:37:54.5878565+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/entrylevel</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/entrylevel/02</loc>
+      <lastmod>2015-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/65e9/19844ce0-622c-4e4b-9d45-ccf9081a65e9/02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell  ()]]></video:title>
+        <video:description><![CDATA[本課程將介紹以下內容： [00:06] - 透過管線傳遞物件並完成工作[11:47] - PowerShell 輸出與輸入[12:16] - Provider 與 Drive[21:28] - Script 與函數[52:02] - PowerShell 設定檔[58:02] - Script 模組欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/65e9/19844ce0-622c-4e4b-9d45-ccf9081a65e9/02_mid.mp4</video:content_loc>
+        <video:duration>3882</video:duration>
+        <video:publication_date>2015-12-01T08:45:12.4515781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/entrylevel/01</loc>
+      <lastmod>2015-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e8e/bae0b1ff-3abc-4297-9723-ed9accf45e8e/01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell  ()]]></video:title>
+        <video:description><![CDATA[本課程將介紹以下內容： [05:13] - 為什麼用 Windows PowerShell[10:10] - Windows PowerShell 版本介紹[13:13] - 預設的兩個 Host 應用程式[27:33] - 開始執行 PowerShell[31:19] - PowerShell 語言、物件與指令[54:40] - PowerShell 常見語法規則與運算子欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e8e/bae0b1ff-3abc-4297-9723-ed9accf45e8e/01_mid.mp4</video:content_loc>
+        <video:duration>4698</video:duration>
+        <video:publication_date>2015-12-01T08:44:37.4204084+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

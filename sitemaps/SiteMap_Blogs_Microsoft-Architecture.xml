@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Data-Analitics</loc>
+      <lastmod>2017-09-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc0f/9a6cbdf0-4179-4d9b-a537-a0df6917bc0f/archblueprintsdataanalytics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Data Analytics]]></video:title>
+        <video:description><![CDATA[Log Analysis is an important part of any website or web server to gain more insights into usage behavior. The size, velocity, and variety of log files are akin to &#39;Big Data&#39; and are not suitable for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2370/6cdfd955-c798-4e06-a336-5b2458202370/archblueprintsdataanalytics_mid.mp4</video:content_loc>
+        <video:duration>174</video:duration>
+        <video:publication_date>2015-02-23T00:28:26.8135138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Nigel-Ellis-Strategic-Architect-Forum-2015-Insights-into-Data</loc>
+      <lastmod>2017-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c6cd/4d35eb97-ca70-4bde-ae6f-fab39c82c6cd/SAF2015NigelE_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nigel Ellis - Strategic Architect Forum 2015 - Insights into Data]]></video:title>
+        <video:description><![CDATA[Data can bring more value than ever to business apps. How should architects think about the best way to incorporate and build the various data technologies into their application strategy? The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c6cd/4d35eb97-ca70-4bde-ae6f-fab39c82c6cd/SAF2015NigelE_mid.mp4</video:content_loc>
+        <video:duration>1844</video:duration>
+        <video:publication_date>2015-02-18T01:27:47.2180274+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Mark-Russinovich-Strategic-Architect-Forum-2015-Building-Applications-for-Azure-Lessons-from-Scale</loc>
+      <lastmod>2018-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc21/8f34bb08-e9f9-4546-863d-ef424e10dc21/SAF2015MarkR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mark Russinovich - Strategic Architect Forum 2015 - Building Applications for Azure - Lessons from&amp;#8230;]]></video:title>
+        <video:description><![CDATA[As architects, you&#39;re thinking of ways to build &amp;quot;cloud-scale&amp;quot; into your applications. Mark will share insights gained on the high-scale battlefield from Microsoft Azure and large Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc21/8f34bb08-e9f9-4546-863d-ef424e10dc21/SAF2015MarkR_mid.mp4</video:content_loc>
+        <video:duration>4184</video:duration>
+        <video:publication_date>2015-02-18T01:27:34.1023420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Sam-Guckenheimer-Strategic-Architect-Forum-2015-DevOps-The-Second-Decade-of-Agile</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f643/13309dcd-67e0-412d-bdf2-89a05143f643/SamGuSAF2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sam Guckenheimer - Strategic Architect Forum 2015 - DevOps: The Second Decade of Agile]]></video:title>
+        <video:description><![CDATA[Agile businesses are embracing the practices of DevOps. They use multidisciplinary teams, in which development and operations collaborate, with agile schedules and a common product backlog. They&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f643/13309dcd-67e0-412d-bdf2-89a05143f643/SamGuSAF2015_mid.mp4</video:content_loc>
+        <video:duration>2450</video:duration>
+        <video:publication_date>2015-02-17T22:44:10.6706701+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Scott-Guthrie-Strategic-Architect-Forum-2015-Delivering-Enterprise-Innovation-with-Cloud-Architectur</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/19af/58d02c47-90b7-44fd-9405-2cc2993a19af/ScottGuSAF2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Scott Guthrie - Strategic Architect Forum 2015 - Delivering Enterprise Innovation with Cloud&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Modern business demands innovative approaches that help companies optimize for a world where solutions can be created anywhere and used everywhere. This session will explore how Microsoft&#39;s Cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19af/58d02c47-90b7-44fd-9405-2cc2993a19af/ScottGuSAF2015_mid.mp4</video:content_loc>
+        <video:duration>4650</video:duration>
+        <video:publication_date>2015-02-17T18:51:45.8253171+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Gaming-3-Zoo-Tycoon-Friends</loc>
+      <lastmod>2014-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c806/eb67c60e-bc6d-419c-b5db-0a63e60ec806/archblueprintszootycoon_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Gaming 3 - Zoo Tycoon Friends]]></video:title>
+        <video:description><![CDATA[Use the cloud infrastructure for more complex transactions such as validating user actions ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c806/eb67c60e-bc6d-419c-b5db-0a63e60ec806/archblueprintszootycoon_mid.mp4</video:content_loc>
+        <video:duration>197</video:duration>
+        <video:publication_date>2014-11-13T23:37:07.3408689+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Gaming-2-Wordament</loc>
+      <lastmod>2014-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2f3/174ad243-74fc-4a8b-9851-dd69a6b1e2f3/archblueprintswordament_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Gaming 2 - Wordament]]></video:title>
+        <video:description><![CDATA[Set up your gaming infrastructure. Add a leaderboard that&#39;s updated continually ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2f3/174ad243-74fc-4a8b-9851-dd69a6b1e2f3/archblueprintswordament_mid.mp4</video:content_loc>
+        <video:duration>189</video:duration>
+        <video:publication_date>2014-11-13T23:37:06.5566666+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Game-1-Palabra</loc>
+      <lastmod>2014-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ebe/62adc0b6-cffb-449a-8585-0982c67b9ebe/Archblueprintspalabra_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Game 1 - Palabra]]></video:title>
+        <video:description><![CDATA[Get started in the cloud with a simple turn-taking game ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ebe/62adc0b6-cffb-449a-8585-0982c67b9ebe/Archblueprintspalabra_mid.mp4</video:content_loc>
+        <video:duration>79</video:duration>
+        <video:publication_date>2014-11-13T23:36:50.9598196+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-E-commerce-website</loc>
+      <lastmod>2018-10-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab55/85b6f919-31c5-4626-be61-91685109ab55/Archblueprintsecommerceweb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - E-commerce website]]></video:title>
+        <video:description><![CDATA[Build highly scalable e-commerce websites with catalog, checkout, analysis and forecasting. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab55/85b6f919-31c5-4626-be61-91685109ab55/Archblueprintsecommerceweb_mid.mp4</video:content_loc>
+        <video:duration>166</video:duration>
+        <video:publication_date>2014-10-09T22:07:15.7545914+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Multichannel-marketing</loc>
+      <lastmod>2016-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c770/36fd45dd-3620-41a1-b055-7c92fdd6c770/ArchblueprintMultichannelmarketing_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Multichannel marketing]]></video:title>
+        <video:description><![CDATA[Apply rich cloud-scale multimedia marketing to a diverse set of devices ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c770/36fd45dd-3620-41a1-b055-7c92fdd6c770/ArchblueprintMultichannelmarketing_mid.mp4</video:content_loc>
+        <video:duration>194</video:duration>
+        <video:publication_date>2014-10-09T21:52:08.0081850+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Line-of-business-applications</loc>
+      <lastmod>2017-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4516/b53b17ac-2ff3-4a8d-8180-a576c20b4516/ArchblueprintLOBliftshift_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Line of business applications]]></video:title>
+        <video:description><![CDATA[Gain operational efficiencies by migrating existing on-premises applications to the cloud ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4516/b53b17ac-2ff3-4a8d-8180-a576c20b4516/ArchblueprintLOBliftshift_mid.mp4</video:content_loc>
+        <video:duration>192</video:duration>
+        <video:publication_date>2014-10-09T21:01:59.6323851+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-Hybrid-cloud-storage</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c7d/982db70d-219d-49ac-85aa-a137ba260c7d/Archblueprinthybridcloud_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - Hybrid cloud storage]]></video:title>
+        <video:description><![CDATA[Achieve scale, address compliance, and take advantage of resiliency using cloud storage ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c7d/982db70d-219d-49ac-85aa-a137ba260c7d/Archblueprinthybridcloud_mid.mp4</video:content_loc>
+        <video:duration>155</video:duration>
+        <video:publication_date>2014-10-09T18:43:23.3494105+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Architecture-blueprints-B2B-e-commerce</loc>
+      <lastmod>2014-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a46a/4e393aa6-fc89-4708-a7f2-b00bf98fa46a/ArchblueprintB2Becommerce_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture blueprints - B2B e-commerce]]></video:title>
+        <video:description><![CDATA[Seamlessly connect applications and trading partners for streamlined realtime business. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a46a/4e393aa6-fc89-4708-a7f2-b00bf98fa46a/ArchblueprintB2Becommerce_mid.mp4</video:content_loc>
+        <video:duration>87</video:duration>
+        <video:publication_date>2014-10-09T17:50:51.0423640+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Architecture/Microsoft-Architecture-Website</loc>
+      <lastmod>2017-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8400/40aa1704-1160-420e-b018-5e1447908400/MicrosoftArchitecture_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Architecture Website]]></video:title>
+        <video:description><![CDATA[The Microsoft Architecture website provides resources and a set of starting blocks to help you architect your future business innovation. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8400/40aa1704-1160-420e-b018-5e1447908400/MicrosoftArchitecture_mid.mp4</video:content_loc>
+        <video:duration>78</video:duration>
+        <video:publication_date>2014-10-08T19:11:31.0833566+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

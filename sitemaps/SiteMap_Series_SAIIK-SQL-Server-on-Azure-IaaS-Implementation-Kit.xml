@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-HowToSQLHAAzure</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9691/bea646e6-bc07-4b7e-8686-b1e8f8479691/SAIIK3HowToHASQL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAIIK: How To Implement High Availability with SQL Server in Azure]]></video:title>
+        <video:description><![CDATA[Hello, and welcome to the SAIIK!  That&#39;s short for &amp;quot;SQL Server on Azure IaaS Implementation Kit&amp;quot; Brian Hitney, Keith Mayer, Bart Czernicki, and Peter Laudati are Technical Architects with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9691/bea646e6-bc07-4b7e-8686-b1e8f8479691/SAIIK3HowToHASQL_mid.mp4</video:content_loc>
+        <video:duration>2465</video:duration>
+        <video:publication_date>2016-05-31T21:25:45.2625252+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-HASQL2014Azure</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdcb/8c35f5db-55e1-4ee8-87b8-5a857a2ccdcb/SAIIK2HASQLinAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAIIK: High Availability with SQL Server in Azure]]></video:title>
+        <video:description><![CDATA[Hello, and welcome to the SAIIK!  That&#39;s short for &amp;quot;SQL Server on Azure IaaS Implementation Kit&amp;quot; Brian Hitney, Keith Mayer, Bart Czernicki, and Peter Laudati are Technical Architects on the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdcb/8c35f5db-55e1-4ee8-87b8-5a857a2ccdcb/SAIIK2HASQLinAzure_mid.mp4</video:content_loc>
+        <video:duration>2585</video:duration>
+        <video:publication_date>2016-05-31T11:07:08.7878461+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-PaaS-vs-IaaS</loc>
+      <lastmod>2019-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e30/7c324fe0-7423-4bce-8979-08f48cb92e30/SAIIK1PaasVIaaS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAIIK: PaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL Server in a VM]]></video:title>
+        <video:description><![CDATA[Hello, and welcome to the SAIIK!  That&#39;s short for &amp;quot;SQL Server on Azure IaaS Implementation Kit&amp;quot; Brian Hitney, Keith Mayer, Bart Czernicki, and Peter Laudati are Technical Architects on the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e30/7c324fe0-7423-4bce-8979-08f48cb92e30/SAIIK1PaasVIaaS_mid.mp4</video:content_loc>
+        <video:duration>2698</video:duration>
+        <video:publication_date>2016-05-25T20:50:03.6278220+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC/06</loc>
+      <lastmod>2020-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cbd3/ef2f2276-51da-4292-8100-378e296bcbd3/583ImplementingEntityFrameworkMVCM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Entity Framework with MVC: (06) Integrating Extra Features and Looking Forward]]></video:title>
+        <video:description><![CDATA[Get a look backward and forward. See how to improve performance, implement eager loading, and see what Entity Framework 7 will offer in the future. [01:04] - Stored Procedures[16:32] - Increasing User&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cbd3/ef2f2276-51da-4292-8100-378e296bcbd3/583ImplementingEntityFrameworkMVCM06_mid.mp4</video:content_loc>
+        <video:duration>3394</video:duration>
+        <video:publication_date>2015-02-09T23:31:29.5112916+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC/05</loc>
+      <lastmod>2018-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0577/79fe3baa-7190-4e15-95c2-3ecf9c0e0577/583ImplementingEntityFrameworkMVCM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Entity Framework with MVC: (05) Managing Transactions]]></video:title>
+        <video:description><![CDATA[Dealing with multiple objects requires consistency in the database. Examine how to manage concurrency and transactions.​ [01:04] - Working in a web application[11:39] - Managing Concurrency[37:06] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0577/79fe3baa-7190-4e15-95c2-3ecf9c0e0577/583ImplementingEntityFrameworkMVCM05_mid.mp4</video:content_loc>
+        <video:duration>2508</video:duration>
+        <video:publication_date>2015-02-09T23:31:19.9260008+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC/04</loc>
+      <lastmod>2018-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de2d/e32e3280-020d-4892-94c3-61b5dc0bde2d/583ImplementingEntityFrameworkMVCM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Entity Framework with MVC: (04) Managing the Database]]></video:title>
+        <video:description><![CDATA[Although simple applications can be managed with conventions, they won’t necessarily scale. Find out how Entity Framework allows you complete control over the database. [04:29] - Fluent API[44:16] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de2d/e32e3280-020d-4892-94c3-61b5dc0bde2d/583ImplementingEntityFrameworkMVCM04_mid.mp4</video:content_loc>
+        <video:duration>3756</video:duration>
+        <video:publication_date>2015-02-09T23:31:06.4819873+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC/03</loc>
+      <lastmod>2018-03-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf98/b169147c-d62b-415e-b3f2-71a9065cbf98/583ImplementingEntityFrameworkMVCM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Entity Framework with MVC: (03) Managing Relationships]]></video:title>
+        <video:description><![CDATA[Classes are going to map to tables and need to have relationships. See how to configure and manage those relationships. And get a bonus section on inheritance. [01:35] - One-to-Many&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf98/b169147c-d62b-415e-b3f2-71a9065cbf98/583ImplementingEntityFrameworkMVCM03_mid.mp4</video:content_loc>
+        <video:duration>2573</video:duration>
+        <video:publication_date>2015-02-09T23:30:53.3348181+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC/02</loc>
+      <lastmod>2020-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/68cf/e5b6f029-b63c-4491-a5f5-9931de5a68cf/583ImplementingEntityFrameworkMVCM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Entity Framework with MVC: (02) Beginning Code First]]></video:title>
+        <video:description><![CDATA[After installing Entity Framework, it’s time to start doing development. Look at creating classes and data contexts, and find out how to configure the database. [01:22] - Simple Code First[03:31] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/68cf/e5b6f029-b63c-4491-a5f5-9931de5a68cf/583ImplementingEntityFrameworkMVCM02_mid.mp4</video:content_loc>
+        <video:duration>3197</video:duration>
+        <video:publication_date>2015-02-09T23:30:43.8483577+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Implementing-Entity-Framework-with-MVC/01</loc>
+      <lastmod>2020-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/25a7/52d4f778-cdbb-483d-8615-cfba1a0425a7/583ImplementingEntityFrameworkMVCM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Entity Framework with MVC: (01) Introduction to Entity Framework]]></video:title>
+        <video:description><![CDATA[Get rolling with an overview of Entity Framework, installation, and configuration. [07:27] - Architecture[20:10] - Intro to Code First[51:12] - Generating EF Classes]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/25a7/52d4f778-cdbb-483d-8615-cfba1a0425a7/583ImplementingEntityFrameworkMVCM01_mid.mp4</video:content_loc>
+        <video:duration>3352</video:duration>
+        <video:publication_date>2015-02-09T23:30:25.4757439+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

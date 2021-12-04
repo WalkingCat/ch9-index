@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Practices-Monitor--Learn</loc>
+      <lastmod>2017-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e63/1f9fad72-1392-45b4-b3a3-e2855b4e5e63/monitorlearn_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Practices: Monitor + Learn]]></video:title>
+        <video:description><![CDATA[En este video veremos c&#243;mo realizar una correcta monitorizaci&#243;n de nuestra aplicaci&#243;n y c&#243;mo podemos aprender de estos datos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e63/1f9fad72-1392-45b4-b3a3-e2855b4e5e63/monitorlearn_mid.mp4</video:content_loc>
+        <video:duration>582</video:duration>
+        <video:publication_date>2016-04-27T19:31:56.3212646+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Practices-Load-Testing-and-Auto-Scale</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/48bb/40880679-3df5-44d7-b849-e07c30b948bb/LoadTestingAutoScale_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Practices: Load Testing and Auto Scale]]></video:title>
+        <video:description><![CDATA[En este video veremos c&#243;mo realizar las pruebas de carga y realizar la configuraci&#243;n de escalaci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/48bb/40880679-3df5-44d7-b849-e07c30b948bb/LoadTestingAutoScale_mid.mp4</video:content_loc>
+        <video:duration>433</video:duration>
+        <video:publication_date>2016-04-20T08:41:29.7625157+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Practices-Infrastructure-as-Code</loc>
+      <lastmod>2018-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5403/94933a53-b919-4c0d-88d2-5b19df0f5403/InfrastructureAsCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Practices: Infrastructure as Code]]></video:title>
+        <video:description><![CDATA[En este video nos centraremos en c&#243;mo crear las infraestructuras necesarias para nuestra aplicaci&#243;n de la forma m&#225;s eficiente posible en Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5403/94933a53-b919-4c0d-88d2-5b19df0f5403/InfrastructureAsCode_mid.mp4</video:content_loc>
+        <video:duration>530</video:duration>
+        <video:publication_date>2016-04-20T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Practices-Release</loc>
+      <lastmod>2017-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2095/f581f9a2-9774-4585-9b4f-d7e8b3932095/Release_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Practices: Release]]></video:title>
+        <video:description><![CDATA[En este video veremos c&#243;mo llevar a cabo las tareas de despliegue en los diferentes entornos que podemos tener configurados para nuestra aplicaci&#243;n ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2095/f581f9a2-9774-4585-9b4f-d7e8b3932095/Release_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2016-04-19T12:10:20.0380790+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Practices-Develop--Test</loc>
+      <lastmod>2017-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af19/32ff4be0-6cd6-4d20-b40d-1bf77290af19/devopspracticesdeveloptest_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Practices: Develop + Test]]></video:title>
+        <video:description><![CDATA[En este video comenzaremos a ver c&#243;mo llevar a cabo el desarrollo y las pruebas a nuestra aplicaci&#243;n utilizando una herramienta de control de versiones. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af19/32ff4be0-6cd6-4d20-b40d-1bf77290af19/devopspracticesdeveloptest_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2016-03-17T23:56:51.0779657+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Practices-Plan</loc>
+      <lastmod>2017-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e6f/3aac6fad-a2d8-44d1-a02a-f670ce8c0e6f/Devops02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Practices: Plan]]></video:title>
+        <video:description><![CDATA[En este video comenzaremos a ver c&#243;mo llevar DevOps a la pr&#225;ctica, empezando por la planificaci&#243;n de las tareas y realizar un seguimiento de estas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e6f/3aac6fad-a2d8-44d1-a02a-f670ce8c0e6f/Devops02_mid.mp4</video:content_loc>
+        <video:duration>517</video:duration>
+        <video:publication_date>2016-03-16T16:32:47.4368709+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-beginners/DevOps-Overview</loc>
+      <lastmod>2016-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/07e9/c39a1998-ea63-4e6e-bb1f-9c7578d107e9/Devops01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Overview]]></video:title>
+        <video:description><![CDATA[Este video es una peque&#241;a introducci&#243;n a DevOps, una nueva forma de trabajo en la cual est&#225;n involucrados tanto las personas de desarrollo como las de operaciones. Es una metodolog&#237;a basada en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07e9/c39a1998-ea63-4e6e-bb1f-9c7578d107e9/Devops01_mid.mp4</video:content_loc>
+        <video:duration>314</video:duration>
+        <video:publication_date>2016-03-16T16:31:33.6109818+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

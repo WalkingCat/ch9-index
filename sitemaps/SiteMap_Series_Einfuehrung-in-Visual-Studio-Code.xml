@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code/05--Cordova-Apps-mit-Visual-Studio-Code</loc>
+      <lastmod>2021-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/13f4/78239131-b007-4156-939e-c2170d7613f4/05VSCodeCordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 | Cordova Apps mit Visual Studio Code ]]></video:title>
+        <video:description><![CDATA[In diesem Video stellt Markus Kocybik vor, wie man mit Visual Studio Code Cordova Apps debuggen kann. Dies wird mithilfe der Cordova Tools Erweiterung erm&#246;glicht, welche uns neben dem Debuggen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13f4/78239131-b007-4156-939e-c2170d7613f4/05VSCodeCordova_mid.mp4</video:content_loc>
+        <video:duration>1098</video:duration>
+        <video:publication_date>2016-05-09T07:27:15.0252198+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code/05-Tasks-und-Git-mit-Visual-Studio-Code</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a02/146011c0-27d9-4b52-ba04-3527c3805a02/05TasksGitVSCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Tasks und Git mit Visual Studio Code]]></video:title>
+        <video:description><![CDATA[In diesem Video wird gezeigt, wie uns Visual Studio Code bei der Verwendung von Tasks unterst&#252;tzt. Dabei werden sowohl eigenst&#228;ndig Tasks definiert als auch vorhandene Gulp-Tasks unter Visual Studio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a02/146011c0-27d9-4b52-ba04-3527c3805a02/05TasksGitVSCode_mid.mp4</video:content_loc>
+        <video:duration>1629</video:duration>
+        <video:publication_date>2016-02-25T09:01:37.9897305+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code/04-Debugging-in-Visual-Studio-Code</loc>
+      <lastmod>2017-11-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fafb/b43f8775-40d3-47e4-8764-de478083fafb/DebuggingInVisualStudioCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Debugging in Visual Studio Code]]></video:title>
+        <video:description><![CDATA[Dieses Video gibt eine allgemeine Einf&#252;hrung in das Debuggen mit Visual Studio Code. Dabei werden folgende Fragen beantwortet: Was kann man alles mit Visual Studio Code debuggen?Wie funktioniert das&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fafb/b43f8775-40d3-47e4-8764-de478083fafb/DebuggingInVisualStudioCode_mid.mp4</video:content_loc>
+        <video:duration>1831</video:duration>
+        <video:publication_date>2016-01-14T13:47:24.3114673+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code/03--Installation-und-Quick-Tour</loc>
+      <lastmod>2017-11-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ba9/d5c6e5c6-faca-480c-91d1-7481784b0ba9/03VisualStudioCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Installation und Quick Tour]]></video:title>
+        <video:description><![CDATA[In diesem Channel 9 Video werden die Neuerungen der Connect(); //2015 und die Installation von Visual Studio Code vorgestellt. Abschlie&#223;end wird der grundlegende Aufbau von Visual Studio Code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ba9/d5c6e5c6-faca-480c-91d1-7481784b0ba9/03VisualStudioCode_mid.mp4</video:content_loc>
+        <video:duration>902</video:duration>
+        <video:publication_date>2015-12-03T09:51:12.1709847+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code/02--Insides-und-Insiders</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b11/aeaaf326-0a9f-4bf1-911d-214ee34b5b11/02VSCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Insides und Insiders]]></video:title>
+        <video:description><![CDATA[In diesem Video werden folgende Inhalte bez&#252;glich Visual Studio Code beantwortet: Wo bekomme ich Hilfe?Wie bleibe ich auf dem Laufenden?Weiterf&#252;hrende Links:Kostenloser DownloadKostenloser Support&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b11/aeaaf326-0a9f-4bf1-911d-214ee34b5b11/02VSCode_mid.mp4</video:content_loc>
+        <video:duration>599</video:duration>
+        <video:publication_date>2015-11-11T17:35:24.3365494+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-Visual-Studio-Code/01--Was-ist-Visual-Studio-Code</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f745/61818aa5-f676-4ca4-9fea-a25fdf99f745/01VCCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Was ist Visual Studio Code?]]></video:title>
+        <video:description><![CDATA[In diesem Channel 9 Video werden folgende Fragen zu Visual Studio Code beantwortet: Was ist Visual Studio Code?Was kann Visual Studio Code?F&#252;r wen ist Visual Studio Code gedacht?Weiterf&#252;hrende&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f745/61818aa5-f676-4ca4-9fea-a25fdf99f745/01VCCode_mid.mp4</video:content_loc>
+        <video:duration>941</video:duration>
+        <video:publication_date>2015-11-11T17:28:40.5805974+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

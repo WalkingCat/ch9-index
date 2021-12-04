@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DXPortugal/Visual-Studio-2015-for-the-Enterprise--Portugal</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DXPortugal/Visual-Studio-2015-for-the-Enterprise--Portugal/Keynote</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/468c/c4b28c67-631f-4132-8fee-01b1e59c468c/VS2015ENTKEYNOTE_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote]]></video:title>
+        <video:description><![CDATA[Michael Koster, Product Marketing Manager do Visual Studio Enterprise na Microsoft Corporation, faz uma overview geral acerca das novidades do Visual Studio 2015. Obtenha os slides desta sess&#227;o aqui. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/468c/c4b28c67-631f-4132-8fee-01b1e59c468c/VS2015ENTKEYNOTE_mid.mp4</video:content_loc>
+        <video:duration>3413</video:duration>
+        <video:publication_date>2015-12-11T17:23:47.2724637+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DXPortugal/Visual-Studio-2015-for-the-Enterprise--Portugal/DevOps</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c2f4/cca635e0-7172-4bfa-8e27-c8e2951ac2f4/VS2015DEVOPS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps]]></video:title>
+        <video:description><![CDATA[Obtenha os slides desta sess&#227;o aqui. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c2f4/cca635e0-7172-4bfa-8e27-c8e2951ac2f4/VS2015DEVOPS_mid.mp4</video:content_loc>
+        <video:duration>3416</video:duration>
+        <video:publication_date>2015-12-11T17:23:20.9335656+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DXPortugal/Visual-Studio-2015-for-the-Enterprise--Portugal/Developer-Productivity-and-Application-Insights</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ffc/2ec4811d-e709-4d50-943b-551b820f1ffc/VS2015DEVPROD_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Productivity and Application Insights]]></video:title>
+        <video:description><![CDATA[Obtenha os slides desta sess&#227;o aqui. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ffc/2ec4811d-e709-4d50-943b-551b820f1ffc/VS2015DEVPROD_mid.mp4</video:content_loc>
+        <video:duration>3472</video:duration>
+        <video:publication_date>2015-12-11T17:22:51.0533404+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DXPortugal/Visual-Studio-2015-for-the-Enterprise--Portugal/Agility-in-Software-Development</loc>
+      <lastmod>2015-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bbe1/f1aeefd6-17cc-4121-a1fc-304363efbbe1/VS2015AGILE_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Agility in Software Development]]></video:title>
+        <video:description><![CDATA[Os slides desta sess&#227;o estar&#227;o brevemente dispon&#237;veis nesta p&#225;gina. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bbe1/f1aeefd6-17cc-4121-a1fc-304363efbbe1/VS2015AGILE_mid.mp4</video:content_loc>
+        <video:duration>1770</video:duration>
+        <video:publication_date>2015-12-11T16:56:18.7862595+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

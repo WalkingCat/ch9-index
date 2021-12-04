@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-das-Entity-Framework</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-das-Entity-Framework/03--Fortgeschrittene-Funktionen-im-Entity-Framework</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba03/3ebffede-e9f5-4116-b0e6-2169a947ba03/03FortgeschritteneFunktionenmitdemEntityFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Fortgeschrittene Funktionen im Entity Framework ]]></video:title>
+        <video:description><![CDATA[Dieses Modul behandelt Code-First Migrations und das Konfigurieren von Entities. Dazu werden die Fluent-API und DataAnnotations genauer betrachtet. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba03/3ebffede-e9f5-4116-b0e6-2169a947ba03/03FortgeschritteneFunktionenmitdemEntityFramework_mid.mp4</video:content_loc>
+        <video:duration>937</video:duration>
+        <video:publication_date>2015-03-20T11:49:49.3972125+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-das-Entity-Framework/02--Datenbankanwendungen-mit-dem-Entity-Framework-entwickeln</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c848/d080ba86-ab65-446b-bca9-9bec9031c848/02DatenbankanwendungenmitdemEntityFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Datenbankanwendungen mit dem Entity Framework entwickeln ]]></video:title>
+        <video:description><![CDATA[In diesem Modul wird anhand zweier Beispiele erl&#228;utert, wie man das Entity Framework in Datenbankanwendungen verwendet. Dabei handelt es sich um eine ASP.NET-Webseite und eine WPF-Anwendung ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c848/d080ba86-ab65-446b-bca9-9bec9031c848/02DatenbankanwendungenmitdemEntityFramework_mid.mp4</video:content_loc>
+        <video:duration>1074</video:duration>
+        <video:publication_date>2015-03-20T11:49:31.1380954+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfuehrung-in-das-Entity-Framework/01--bersicht-ber-das-Entity-Framework</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/394e/16226ed5-2640-413f-99b7-390e10b2394e/01UebersichtueberdasEntityFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | &#220;bersicht &#252;ber das Entity Framework ]]></video:title>
+        <video:description><![CDATA[Im ersten Modul wird der Aufbau des Entity Frameworks vorgestellt und eine &#220;bersicht &#252;ber die verschiedenen Workflows gegeben. Demos gibt es zu Code-First, Database-First und Model-First. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/394e/16226ed5-2640-413f-99b7-390e10b2394e/01UebersichtueberdasEntityFramework_mid.mp4</video:content_loc>
+        <video:duration>1400</video:duration>
+        <video:publication_date>2015-03-20T11:49:17.5657458+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

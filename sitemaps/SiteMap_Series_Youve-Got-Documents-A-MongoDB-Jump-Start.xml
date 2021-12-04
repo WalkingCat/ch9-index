@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start/06</loc>
+      <lastmod>2017-07-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a202/98fcf408-f2ed-4bbd-a3f5-06add016a202/370YouGotDocsMongoDBM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Got Documents! A MongoDB Jump Start: (06) Running MongoDB in the Cloud with Ubuntu]]></video:title>
+        <video:description><![CDATA[Learn how to set up your MongoDB database in the cloud in just a few minutes. [01:26] - Provisioning an Ubuntu VM to run MongoDB[16:30] - Installing MongoDB[18:15] - Accessing the MongoDB Server]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a202/98fcf408-f2ed-4bbd-a3f5-06add016a202/370YouGotDocsMongoDBM06_mid.mp4</video:content_loc>
+        <video:duration>2836</video:duration>
+        <video:publication_date>2014-12-16T18:08:55.2305086+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start/05</loc>
+      <lastmod>2017-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf5d/50ee866a-26e7-47c3-a2db-fde24d85bf5d/370YouGotDocsMongoDBM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Got Documents! A MongoDB Jump Start: (05) Advanced Data Processing]]></video:title>
+        <video:description><![CDATA[Understand the fundamentals of processing large amounts of data with MongoDB Map Reduce and Aggregations​. [01:35] - The Example Data Set[06:40] - Map Reduce Basics[28:34] - MongoDB Aggregations Basics]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf5d/50ee866a-26e7-47c3-a2db-fde24d85bf5d/370YouGotDocsMongoDBM05_mid.mp4</video:content_loc>
+        <video:duration>2737</video:duration>
+        <video:publication_date>2014-12-16T18:07:47.1011987+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start/04</loc>
+      <lastmod>2017-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c17c/f1bc9c38-d37f-40af-8f51-694b81c9c17c/370YouGotDocsMongoDBM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Got Documents! A MongoDB Jump Start: (04) MongoDB Node.JS and C# Language Drivers]]></video:title>
+        <video:description><![CDATA[Learn how to connect to your MongoDB and how to run queries with C# and Node.JS. [01:07] - Node.js: Getting Started[08:36] - Node.js: Create &amp;amp; Update Documents[21:19] - Node.js: Reading &amp;amp;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c17c/f1bc9c38-d37f-40af-8f51-694b81c9c17c/370YouGotDocsMongoDBM04_mid.mp4</video:content_loc>
+        <video:duration>3141</video:duration>
+        <video:publication_date>2014-12-16T18:07:45.7455911+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start/03</loc>
+      <lastmod>2017-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ebb1/cb59c476-5a8b-4e9b-b954-6bdfb982ebb1/370YouGotDocsMongoDBM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Got Documents! A MongoDB Jump Start: (03) MongoDB Queries Part 2]]></video:title>
+        <video:description><![CDATA[Get up to speed with fundamental MongoDB data organization, and find out how to do simple queries.​ [01:02] - $and &amp;amp; $or Logical Operators]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebb1/cb59c476-5a8b-4e9b-b954-6bdfb982ebb1/370YouGotDocsMongoDBM03_mid.mp4</video:content_loc>
+        <video:duration>2690</video:duration>
+        <video:publication_date>2014-12-16T18:07:24.2765690+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start/02</loc>
+      <lastmod>2017-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7ca/967aa398-07d8-44fa-9674-c2b82e8fc7ca/370YouGotDocsMongoDBM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Got Documents! A MongoDB Jump Start: (02) Getting Started with MongoDB and Queries, Part 1]]></video:title>
+        <video:description><![CDATA[Learn how to set up MongoDB, load data in bulk, and get up and running with the Mongo Interactive Shell.​ [04:30] - Running MongoDB on your local machine]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7ca/967aa398-07d8-44fa-9674-c2b82e8fc7ca/370YouGotDocsMongoDBM02_mid.mp4</video:content_loc>
+        <video:duration>2950</video:duration>
+        <video:publication_date>2014-12-16T18:06:21.1124287+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Documents-A-MongoDB-Jump-Start/01</loc>
+      <lastmod>2017-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7907/7c99de5f-11b5-4800-bdd7-30122f777907/370YouGotDocsMongoDBM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Got Documents! A MongoDB Jump Start: (01) Intro to NoSQL Document-Oriented Databases]]></video:title>
+        <video:description><![CDATA[Get a brief overview of document-oriented databases versus traditional SQL data stores. [09:28] - Tabular Data Stores[27:43] - Document Oriented Data Stores[35:33] - Other Document Oriented Data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7907/7c99de5f-11b5-4800-bdd7-30122f777907/370YouGotDocsMongoDBM01_mid.mp4</video:content_loc>
+        <video:duration>2690</video:duration>
+        <video:publication_date>2014-12-16T18:05:33.7836273+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-cloud</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-cloud/azureext</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7778/51420d07-ee0d-46e1-b0ca-d09350ac7778/MicrosoftAzurePowerShellExtensions20160508_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intellisense Extensions for Microsoft Azure PowerShell]]></video:title>
+        <video:description><![CDATA[Check out the cloud &amp;amp; automation training courses that are developed by Art of Shell, who sponsored this video! Are you working with the Microsoft Azure PowerShell project on a regular basis? Do&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7778/51420d07-ee0d-46e1-b0ca-d09350ac7778/MicrosoftAzurePowerShellExtensions20160508_mid.mp4</video:content_loc>
+        <video:duration>642</video:duration>
+        <video:publication_date>2016-05-08T23:06:54.1418395+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards</loc>
+      <lastmod>2019-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d63/5476033e-ab5f-40e7-a11c-6c1a47053d63/BuildCustomDashboardsAzurePortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Custom Dashboards in the Microsoft Azure Portal]]></video:title>
+        <video:description><![CDATA[Have you been wishing for the ability to create custom dashboards in the Microsoft Azure Portal? Well, today is your lucky day, because the Microsoft Azure Portal team has been working hard, over the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d63/5476033e-ab5f-40e7-a11c-6c1a47053d63/BuildCustomDashboardsAzurePortal_mid.mp4</video:content_loc>
+        <video:duration>423</video:duration>
+        <video:publication_date>2016-03-31T05:43:22.4047671+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

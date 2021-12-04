@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Houston-NET-User-Group</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Houston-NET-User-Group/X-Tags-Microsoft-Sponsored-Web-Components</loc>
+      <lastmod>2016-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0978/fee7274a-a164-43be-89d7-25c297ec0978/xtags_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[X-Tag: Microsoft-Sponsored Web Components]]></video:title>
+        <video:description><![CDATA[May HDNUG presentation from Curtis Schlak of Curtissimo. This session covers X:Tag Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group content, check out Bryan&#39;s Youtube&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0978/fee7274a-a164-43be-89d7-25c297ec0978/xtags_mid.mp4</video:content_loc>
+        <video:duration>468</video:duration>
+        <video:publication_date>2016-06-02T00:31:59.2839343+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Houston-NET-User-Group/Azure-Service-Fabric-Next-Gen-PaaS</loc>
+      <lastmod>2018-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c4d/0867b824-1b14-4464-87b9-71960c2e8c4d/AzureServiceFabricNextGenPaaS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Service Fabric - Next Gen PaaS]]></video:title>
+        <video:description><![CDATA[March HDNUG presentation from Jamy Ryals of P97 This session covers the Azure Service Fabric Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group content, check out&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c4d/0867b824-1b14-4464-87b9-71960c2e8c4d/AzureServiceFabricNextGenPaaS_mid.mp4</video:content_loc>
+        <video:duration>5057</video:duration>
+        <video:publication_date>2016-03-14T10:53:09.3886859+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Houston-NET-User-Group/C-60-New-Language-Features</loc>
+      <lastmod>2016-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a422/41a44fa7-4dd8-458f-b642-e9d276c1a422/C60NewLanguageFeatures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# 6.0 New Language Features]]></video:title>
+        <video:description><![CDATA[February HDNUG presentation from Joseph Reynolds of Infocraft This session covers the latest C# 6.0 Language Features Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a422/41a44fa7-4dd8-458f-b642-e9d276c1a422/C60NewLanguageFeatures_mid.mp4</video:content_loc>
+        <video:duration>5081</video:duration>
+        <video:publication_date>2016-02-29T19:33:01.0121199+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Houston-NET-User-Group/The-New-ASPNET-5-Runtime</loc>
+      <lastmod>2016-02-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/733d/c2f8208e-47a6-4bda-9f3e-6747c896733d/TheNewASPNET5Runtime_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The New ASP.NET 5 Runtime]]></video:title>
+        <video:description><![CDATA[January HDNUG presentation from Stephen Fulcher of Crocodile Digital This session covers the latest ASP.NET 5 Runtime Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/733d/c2f8208e-47a6-4bda-9f3e-6747c896733d/TheNewASPNET5Runtime_mid.mp4</video:content_loc>
+        <video:duration>5442</video:duration>
+        <video:publication_date>2016-02-29T19:31:45.6441324+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

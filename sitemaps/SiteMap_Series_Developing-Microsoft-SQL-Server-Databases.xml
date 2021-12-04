@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases/06</loc>
+      <lastmod>2018-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f16/b4aa1088-7b7f-470b-9776-9c1967967f16/463DevMSSQLDatabasesM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft SQL Server Databases: (06) Optimizing and Troubleshooting Queries]]></video:title>
+        <video:description><![CDATA[Learn how to tune poorly performing queries, and get tips on dealing with common performance issues and tools you can use to analyze and tune workloads. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f16/b4aa1088-7b7f-470b-9776-9c1967967f16/463DevMSSQLDatabasesM06_mid.mp4</video:content_loc>
+        <video:duration>2315</video:duration>
+        <video:publication_date>2015-02-03T18:20:28.0880066+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e804/4012fdd1-c500-4381-88d9-70491dc2e804/463DevMSSQLDatabasesM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft SQL Server Databases: (05) Implementing In-Memory Objects]]></video:title>
+        <video:description><![CDATA[Find out how to implement clustered and non-clustered columnstore indexes on disk-based tables. Learn how (and when) to implement in-memory tables and stored procedures, and explore considerations for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e804/4012fdd1-c500-4381-88d9-70491dc2e804/463DevMSSQLDatabasesM05_mid.mp4</video:content_loc>
+        <video:duration>3048</video:duration>
+        <video:publication_date>2015-02-03T18:20:16.9783233+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/efcd/57d55ad1-5dfa-42e1-8220-d2835ed6efcd/463DevMSSQLDatabasesM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft SQL Server Databases: (04) Managing Transactions]]></video:title>
+        <video:description><![CDATA[Get an introduction to transactions and isolation concepts, and look at how to implement transactions, catch and resolve errors, set isolation levels, and design database objects for concurrency.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efcd/57d55ad1-5dfa-42e1-8220-d2835ed6efcd/463DevMSSQLDatabasesM04_mid.mp4</video:content_loc>
+        <video:duration>2516</video:duration>
+        <video:publication_date>2015-02-03T18:19:50.4394728+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases/03</loc>
+      <lastmod>2019-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e48d/60842b72-87d5-492a-af02-ee59bdd9e48d/463DevMSSQLDatabasesM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft SQL Server Databases: (03) Implementing Stored Procedures and Functions]]></video:title>
+        <video:description><![CDATA[Explore implementing and executing stored procedures, including execution context, parameters, and return values. Learn about the different kinds of functions that you can create, along with how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e48d/60842b72-87d5-492a-af02-ee59bdd9e48d/463DevMSSQLDatabasesM03_mid.mp4</video:content_loc>
+        <video:duration>2064</video:duration>
+        <video:publication_date>2015-02-03T18:19:41.1204141+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5508/471618d5-3ca1-4d70-8d6e-c12ee1bb5508/463DevMSSQLDatabasesM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft SQL Server Databases: (02) Implementing Indexes]]></video:title>
+        <video:description><![CDATA[Learn the difference between heaps, clustered indexes, and non-clustered indexes. Hear how to design and implement clustered and non-clustered indexes, including considerations for filtered indexes,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5508/471618d5-3ca1-4d70-8d6e-c12ee1bb5508/463DevMSSQLDatabasesM02_mid.mp4</video:content_loc>
+        <video:duration>3399</video:duration>
+        <video:publication_date>2015-02-03T18:19:30.3410383+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-SQL-Server-Databases/01</loc>
+      <lastmod>2020-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f400/d5bf66e5-16f5-409d-84c8-afa5aea3f400/463DevMSSQLDatabasesM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft SQL Server Databases: (01) Implementing Tables and Views]]></video:title>
+        <video:description><![CDATA[Find out how to implement disk-based tables based on appropriate data types and constraints and how to implement table objects using variables, temporary tables, and common table expressions. Hear how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f400/d5bf66e5-16f5-409d-84c8-afa5aea3f400/463DevMSSQLDatabasesM01_mid.mp4</video:content_loc>
+        <video:duration>4956</video:duration>
+        <video:publication_date>2015-02-03T18:19:21.4403299+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

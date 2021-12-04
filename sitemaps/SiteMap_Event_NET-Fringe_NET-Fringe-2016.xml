@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/NET-Fringe/NET-Fringe-2016/NET-Fringe-2016</loc>
+      <lastmod>2021-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc06/019f2548-3992-4356-8ffe-733c57a6cc06/C9LInterviewWithGeorgeRichardson_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Fringe 2016, the OSS event you don&#39;t want to miss]]></video:title>
+        <video:description><![CDATA[In this video I had the privilege of talking to Glenn Block, Troy Howard and Adron Hall about the upcoming .NET Fringe event in Portland. They discussed the spirit of the event, why it is different,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc06/019f2548-3992-4356-8ffe-733c57a6cc06/C9LInterviewWithGeorgeRichardson_mid.mp4</video:content_loc>
+        <video:duration>638</video:duration>
+        <video:publication_date>2016-06-16T23:21:50.1253636+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

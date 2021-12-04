@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AdamsGarage</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AdamsGarage/4</loc>
+      <lastmod>2016-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/99a0/23d2e4c7-d349-4138-99d5-5597b4b599a0/adamsgarage04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build 2016 Code Labs - Introduction to Unity]]></video:title>
+        <video:description><![CDATA[  At //build 2016 this year we created some pretty cool labs for everyone to hack on, ranging from web dev to game dev with IoT in the middle. This video is a walk-through of our github repository for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99a0/23d2e4c7-d349-4138-99d5-5597b4b599a0/adamsgarage04.mp4</video:content_loc>
+        <video:duration>4385</video:duration>
+        <video:publication_date>2016-06-02T15:23:07.0841752+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AdamsGarage/Build-Announcements-Xamarin-Joins-Microsoft</loc>
+      <lastmod>2016-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4acf/1d06c797-80ee-4502-92a7-6fe508294acf/adamsgarage3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Announcements - Xamarin Joins Microsoft]]></video:title>
+        <video:description><![CDATA[Follow @JamesMontemagno and Follow @AdamTuliper In this episode, I interview James Montemagno from Xamarin. If you haven&#39;t heard the exciting news (some of the best news of the year!) Xamarin not only&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4acf/1d06c797-80ee-4502-92a7-6fe508294acf/adamsgarage3_mid.mp4</video:content_loc>
+        <video:duration>3282</video:duration>
+        <video:publication_date>2016-05-19T08:42:20.2955260+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AdamsGarage/Getting-Started-with-the-HoloLens</loc>
+      <lastmod>2019-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95f1/47d80d89-80eb-4648-8d22-8d2a975c95f1/adamsgarage02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the HoloLens]]></video:title>
+        <video:description><![CDATA[Get started now with HoloLens development! The HoloLens team has started shipping dev units to developers in multiple waves. Maybe you haven&#39;t ordered one yet or aren&#39;t even sure where to start. Tune&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95f1/47d80d89-80eb-4648-8d22-8d2a975c95f1/adamsgarage02_mid.mp4</video:content_loc>
+        <video:duration>917</video:duration>
+        <video:publication_date>2016-04-13T17:03:50.9743664+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/AdamsGarage/Bower</loc>
+      <lastmod>2017-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4f46/4a971243-ade3-4d39-8056-3356eeb84f46/bower_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Workflow Series - Quick Guide to Bower]]></video:title>
+        <video:description><![CDATA[Wanting to learn how Bower works to manage your front end web dependencies like jQuery, Angular, and more? Check out this video as a companion to Bower - Modern Tools for Web Development   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f46/4a971243-ade3-4d39-8056-3356eeb84f46/bower_mid.mp4</video:content_loc>
+        <video:duration>1872</video:duration>
+        <video:publication_date>2015-10-20T17:44:48.4072527+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-and-NET-Core-101</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-and-NET-Core-101/Publishing-your-Containerized-Web-App-3-of-3</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/12f3/7669f49f-3f04-4056-a932-ee639dc012f3/DockerPublishingYourContainerizedWebApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publishing your Containerized Web App [3 of 3]]]></video:title>
+        <video:description><![CDATA[Once you have an application in a container, where do we put it? Publishing your container is as simple as publishing any other application. See how in this video. Follow Shayne Boyer on Twitter.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fbd5/02ff1080-3ce8-4f5e-89d1-8c7eb4fbfbd5/DockerPublishingYourContainerizedWebApp_mid.mp4</video:content_loc>
+        <video:duration>146</video:duration>
+        <video:publication_date>2019-09-23T15:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-and-NET-Core-101/Docker-Tooling-in-Visual-Studio-2-of-3</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/84ed/ae071588-feb2-4b41-88e5-bfc58df784ed/DockerToolinginVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Docker Tooling in Visual Studio [2 of 3]]]></video:title>
+        <video:description><![CDATA[Visual Studio has always had a great set of tools to accomplish any task. See how the Docker tooling helps us containerize your apps fast with a few clicks. Follow Shayne Boyer on Twitter. Watch the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/db29/31d6c507-0bb8-44fb-8fe9-320b1e51db29/DockerToolinginVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>360</video:duration>
+        <video:publication_date>2019-09-23T15:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-and-NET-Core-101/What-is-Docker-Why-use-it-1-of-3</loc>
+      <lastmod>2021-08-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6540/21c51f98-534f-4edc-8b3a-30505a296540/DockerWhatIsDockerWhyUseIt_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Docker, Why use it? [1 of 3]]]></video:title>
+        <video:description><![CDATA[Why use containers? Docker is a way to package and distribute your applications with all its dependencies. It works on my machine, your machine and their machine.  Follow Shayne Boyer on Twitter.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/36c8/13cf61b6-dd48-4507-850f-4d37852e36c8/DockerWhatIsDockerWhyUseIt_mid.mp4</video:content_loc>
+        <video:duration>513</video:duration>
+        <video:publication_date>2019-09-23T15:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

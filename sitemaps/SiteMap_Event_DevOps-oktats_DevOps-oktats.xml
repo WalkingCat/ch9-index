@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-01-What-is-DevOps</loc>
+      <lastmod>2017-11-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/228c/b52d5685-7343-4dd0-88bb-15a040df228c/devopsoktatas01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - Mi az a DevOps?]]></video:title>
+        <video:description><![CDATA[A webin&#225;r sor&#225;n g&#243;rcső al&#225; vessz&#252;k a tradicion&#225;lis, illetve a DevOps IT &#233;s szoftverfejleszt&#233;s saj&#225;toss&#225;gait. Megvizsg&#225;ljuk, milyen előnyei vannak a DevOpsnak. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/228c/b52d5685-7343-4dd0-88bb-15a040df228c/devopsoktatas01_mid.mp4</video:content_loc>
+        <video:duration>653</video:duration>
+        <video:publication_date>2017-02-24T06:15:03.5975787+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-05-Why-do-we-need-version-control</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3660/71123f10-1461-4b40-bc6d-0fd2d4f33660/devopsoktatas05_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 - Mi&#233;rt van sz&#252;ks&#233;g forr&#225;sk&#243;d-verzi&#243;z&#225;sra?]]></video:title>
+        <video:description><![CDATA[Ebben az epiz&#243;dban bemutatjuk a forr&#225;sk&#243;d-verzi&#243;z&#225;st, &#233;s az is kider&#252;l, hogy ez milyen előny&#246;kkel j&#225;r. Emellett &#233;rintőlegesen megismerked&#252;nk a Gittel, &#233;s kapunk egy kis &#237;zel&#237;tőt az erej&#233;ből is. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3660/71123f10-1461-4b40-bc6d-0fd2d4f33660/devopsoktatas05_mid.mp4</video:content_loc>
+        <video:duration>1071</video:duration>
+        <video:publication_date>2017-02-23T15:00:26.0318063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-06-Testing-Concept-and-Theories-Part-1</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81ad/1781c054-bde9-4067-806f-0e46682981ad/devopsoktatas06_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 - Tesztel&#233;s - els r&#233;sz]]></video:title>
+        <video:description><![CDATA[Ez alkalommal megtudhatjuk, hogy mi&#233;rt is kell tesztelni, r&#225;ad&#225;sul automata tesztelni, &#233;s megismerhetj&#252;k a k&#252;l&#246;nf&#233;le specifik&#225;ci&#243;kat is. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81ad/1781c054-bde9-4067-806f-0e46682981ad/devopsoktatas06_mid.mp4</video:content_loc>
+        <video:duration>1115</video:duration>
+        <video:publication_date>2017-02-23T15:00:14.0246714+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-07-Testing-Concept-and-Theories-Part-2</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4b1/e7ff33f4-96d3-42e2-8d72-1c215519d4b1/devopsoktatas07_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 - Tesztel&#233;s - m&#225;sodik r&#233;sz]]></video:title>
+        <video:description><![CDATA[Ebben az epiz&#243;dban megismerked&#252;nk a tesztpiramissal, &#233;s annak k&#252;l&#246;nb&#246;ző szintjeivel, &#237;gy sz&#243;t ejt&#252;nk a unit, az integr&#225;ci&#243;s, &#233;s az end to end tesztekről is. Sőt! &#201;rtelmet nyer a &amp;quot;minden legyen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4b1/e7ff33f4-96d3-42e2-8d72-1c215519d4b1/devopsoktatas07_mid.mp4</video:content_loc>
+        <video:duration>1940</video:duration>
+        <video:publication_date>2017-02-23T15:00:02.9099055+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-08-Testing-Concept-and-Theories-Part-3</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ac4/787e234e-9c8d-420d-8fef-1fe647ee5ac4/devopsoktatas08_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 - Tesztel&#233;s - harmadik r&#233;sz]]></video:title>
+        <video:description><![CDATA[Ahhoz, hogy j&#243; DevOps-os legy&#233;l, tiszt&#225;ban kell lenned a fejleszt&#233;s alapjaival! Ebben az epiz&#243;dban a Clean Code alapokkal ismerked&#252;nk meg, &#237;gy megtudhatod, hogy mit is takarnak a SOLID, &#233;s egy&#233;b&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ac4/787e234e-9c8d-420d-8fef-1fe647ee5ac4/devopsoktatas08_mid.mp4</video:content_loc>
+        <video:duration>746</video:duration>
+        <video:publication_date>2017-02-23T14:59:52.2134838+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-10-How-it-works-in-real-life-Part-1</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/edc1/c4741e3e-3159-47d8-b02d-f1234a9eedc1/devopsoktatas10_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10 - Mk&#246;d&#233;s a gyakorlatban - els r&#233;sz]]></video:title>
+        <video:description><![CDATA[Ebben a r&#233;szben fel&#233;p&#237;t&#252;nk egy fejlesztői rendszert az Azure szolg&#225;ltat&#225;sban, ami a k&#246;vetkező komponenseket tartalmazza: Gitlab, Gitlab-CI, Kubernetes. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edc1/c4741e3e-3159-47d8-b02d-f1234a9eedc1/devopsoktatas10_mid.mp4</video:content_loc>
+        <video:duration>733</video:duration>
+        <video:publication_date>2017-02-23T14:59:41.8005871+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-11-How-it-works-in-real-life-Part-2</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1528/113638ca-d5f3-42c0-aafc-29ea4ff71528/devopsoktatas11_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[11 - Mk&#246;d&#233;s a gyakorlatban - m&#225;sodik r&#233;sz]]></video:title>
+        <video:description><![CDATA[Ebben a r&#233;szben fel&#233;p&#237;t&#252;nk egy fejlesztői rendszert Azure cloudban, ami a k&#246;vetkező komponenseket tartalmazza: Gitlab, Gitlab-CI, Kubernetes. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1528/113638ca-d5f3-42c0-aafc-29ea4ff71528/devopsoktatas11_mid.mp4</video:content_loc>
+        <video:duration>1204</video:duration>
+        <video:publication_date>2017-02-23T14:59:31.7863748+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-04-Docker-orchestration-systems</loc>
+      <lastmod>2017-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ef8c/1169555b-6e33-4b02-baa4-1c5a8e5def8c/devopsoktatas04_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 - Docker orchestration rendszerek]]></video:title>
+        <video:description><![CDATA[Megismerked&#252;nk az orchestration rendszerekkel, &#233;s egy p&#233;ld&#225;n szeml&#233;ltetve bemutatjuk, hogy hogyan tudunk l&#233;trehozni &#233;s elind&#237;tani egy Kubernetes clustert Azure cloud k&#246;rnyezetben. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef8c/1169555b-6e33-4b02-baa4-1c5a8e5def8c/devopsoktatas04_mid.mp4</video:content_loc>
+        <video:duration>1637</video:duration>
+        <video:publication_date>2017-02-23T14:59:09.7062455+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-03-Docker-for-Beginners</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/add8/76a92d12-d896-47c7-8704-8402d49fadd8/devopsoktatas03_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 - Docker kezdknek]]></video:title>
+        <video:description><![CDATA[Az előad&#225;s sor&#225;n megismerked&#252;nk a Dockerrel, &#233;s egy demo sor&#225;n megn&#233;zz&#252;k, hogyan tudunk l&#233;trehozni saj&#225;t Docker containert. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/add8/76a92d12-d896-47c7-8704-8402d49fadd8/devopsoktatas03_mid.mp4</video:content_loc>
+        <video:duration>1180</video:duration>
+        <video:publication_date>2017-02-23T14:58:46.3997435+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-02-What-is-CM</loc>
+      <lastmod>2017-11-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/414b/fea13960-e51a-4967-acb3-bff52f32414b/devopsoktatas02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - Mi az a CM?]]></video:title>
+        <video:description><![CDATA[Az előad&#225;s sor&#225;n &#225;tvessz&#252;k, hogy milyen helyzetekben &#233;rdemes CM-et haszn&#225;lni, illetve bemutatjuk, hogy hogyan tudunk az Ansible seg&#237;ts&#233;g&#233;vel gyorsan automatiz&#225;lni. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/414b/fea13960-e51a-4967-acb3-bff52f32414b/devopsoktatas02_mid.mp4</video:content_loc>
+        <video:duration>1354</video:duration>
+        <video:publication_date>2017-02-23T14:58:28.5745296+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevOps-oktats/DevOps-oktats/DevOps-09-Continuous-Integration--Delivery</loc>
+      <lastmod>2017-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a233/0d3de55f-7d01-4dd4-ada5-e3c7ae48a233/devopsoktatas09_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[09 - Continuous Integration &amp; Deployment]]></video:title>
+        <video:description><![CDATA[Ha elk&#233;sz&#252;lt szoftvered leg&#250;jabb verzi&#243;ja, azt el is kell juttatni a felhaszn&#225;l&#243;knak. Webin&#225;runk aktu&#225;lis r&#233;sz&#233;ből megtudhatod, hogy jelenleg mik a legjobb m&#243;dszerek &#233;s eszk&#246;z&#246;k erre a c&#233;lra. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a233/0d3de55f-7d01-4dd4-ada5-e3c7ae48a233/devopsoktatas09_mid.mp4</video:content_loc>
+        <video:duration>791</video:duration>
+        <video:publication_date>2017-02-23T14:58:06.0523665+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

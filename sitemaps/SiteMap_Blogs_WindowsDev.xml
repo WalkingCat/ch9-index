@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WindowsDev</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WindowsDev/Kevin-Gallo-gives-the-developer-perspective-on-todays-Windows-10-Event</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/ef0d293c-6137-4ab8-a8bc-bb9575bf9f82.png</video:thumbnail_loc>
+        <video:title><![CDATA[Kevin Gallo gives the developer perspective on today&#39;s Windows 10 Event]]></video:title>
+        <video:description><![CDATA[As a developer, our first question when we see new features or new hardware is &amp;quot;What can I do with that?&amp;quot;  We want to take advantage of the latest and coolest platform capabilities to make&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edbe/7b88aa2f-f1aa-4266-b7c4-6cde5976edbe/kevinGalloUwpDeviceDay_mid.mp4</video:content_loc>
+        <video:duration>1346</video:duration>
+        <video:publication_date>2016-10-26T22:01:17.0344076+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WindowsDev/Reach-more-customers-with-Windows-Store-for-Business</loc>
+      <lastmod>2016-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4b1e/6800dd11-87b7-4224-bec3-65d5d5e64b1e/ReachWindowsStoreBusiness_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reach more customers with Windows Store for Business]]></video:title>
+        <video:description><![CDATA[Windows Store for Business enables app developers to extend their reach to businesses and education institutions running Windows 10. Using a Windows Dev Center account, publish high value apps to the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4b1e/6800dd11-87b7-4224-bec3-65d5d5e64b1e/ReachWindowsStoreBusiness_mid.mp4</video:content_loc>
+        <video:duration>109</video:duration>
+        <video:publication_date>2016-09-28T22:11:35.1828385+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/WindowsDev/Desktop-Bridge-Update-with-Windows-Developer-CVP-Kevin-Gallo</loc>
+      <lastmod>2017-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0a71/f023f614-4b91-43f8-88e9-756b918e0a71/DesktopBridgeUpdatewithKevinGallo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Desktop Bridge Update with Windows Developer CVP, Kevin Gallo ]]></video:title>
+        <video:description><![CDATA[In this video Kevin Gallo discusses the latest improvements for the Desktop Bridge, including the first set of apps built using the Desktop App Converter becoming available in the Windows Store. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0a71/f023f614-4b91-43f8-88e9-756b918e0a71/DesktopBridgeUpdatewithKevinGallo_mid.mp4</video:content_loc>
+        <video:duration>696</video:duration>
+        <video:publication_date>2016-09-14T15:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

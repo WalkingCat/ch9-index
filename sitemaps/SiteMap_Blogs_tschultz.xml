@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tschultz</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tschultz/Commerce-Server-2009-Web-Cast-Using-Store-Locator-Web-Part</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/8/5/2/6/4/CS2009StoreLocator_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Commerce Server 2009 Web Cast - Using Store Locator Web Part]]></video:title>
+        <video:description><![CDATA[Join Web Solutions Architect, Tom Schultz from Microsoft Services for a recorded web cast on the Commerce Server 2009 Store Locator web part feature.  The Store Locator Web Part provides shoppers with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/8/5/2/6/4/CS2009StoreLocator_ch9.mp4</video:content_loc>
+        <video:duration>1411</video:duration>
+        <video:publication_date>2009-03-27T15:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

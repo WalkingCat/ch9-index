@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/zxue</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/zxue/Discussion-on-Application-Management-with-AVIcode-CTO</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/6/6/9/4/2/ApplicationManagementAVIcode_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Discussion on Application Management with AVIcode CTO]]></video:title>
+        <video:description><![CDATA[
+Zhiming Xue &amp;quot;Dr. Z&amp;quot; interviews Victor Mushkatin, CTO of AVIcode, a Microsoft partner that has developed an application management solution based on the .NET framework and Operations&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/6/6/9/4/2/ApplicationManagementAVIcode_ch9.mp4</video:content_loc>
+        <video:duration>937</video:duration>
+        <video:publication_date>2008-03-17T22:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

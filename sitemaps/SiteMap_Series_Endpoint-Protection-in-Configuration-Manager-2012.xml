@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Endpoint-Protection-in-Configuration-Manager-2012</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Endpoint-Protection-in-Configuration-Manager-2012/mod4</loc>
+      <lastmod>2017-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2d9/55820686-1a91-4ab8-826c-9998f95df2d9/Mod4OpsEndpointProtection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Operations &amp; Maintenance for Endpoint Protection]]></video:title>
+        <video:description><![CDATA[This module will close the course with information on how to Operate &amp;amp; Maintain the Endpoint Protection deployment. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2d9/55820686-1a91-4ab8-826c-9998f95df2d9/Mod4OpsEndpointProtection_mid.mp4</video:content_loc>
+        <video:duration>1428</video:duration>
+        <video:publication_date>2015-04-14T22:29:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Endpoint-Protection-in-Configuration-Manager-2012/mod3</loc>
+      <lastmod>2017-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0219/1334d1d6-ee9f-4c14-8871-7c8829a40219/Mod3ConfigEndpointProtection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Configuring Endpoint Protection]]></video:title>
+        <video:description><![CDATA[In this module, step through the configuration of Endpoint Protection, Alerts, Updates and Disk Imaging.This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0219/1334d1d6-ee9f-4c14-8871-7c8829a40219/Mod3ConfigEndpointProtection_mid.mp4</video:content_loc>
+        <video:duration>1583</video:duration>
+        <video:publication_date>2015-04-14T22:28:38.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Endpoint-Protection-in-Configuration-Manager-2012/Mod2</loc>
+      <lastmod>2017-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f1d0/4db075f8-013b-490d-84fa-af3ba258f1d0/Mod2PlanEndpointProtection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Planning for Endpoint Protection]]></video:title>
+        <video:description><![CDATA[Review the prerequisites and best practices for Endpoint Protection. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f1d0/4db075f8-013b-490d-84fa-af3ba258f1d0/Mod2PlanEndpointProtection_mid.mp4</video:content_loc>
+        <video:duration>541</video:duration>
+        <video:publication_date>2015-04-14T22:27:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Endpoint-Protection-in-Configuration-Manager-2012/Mod1</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f37c/6ddbc30a-d9c7-41e4-8c71-595ef229f37c/Mod1IntroEndpointProtection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Introduction to Endpoint Protection]]></video:title>
+        <video:description><![CDATA[This module will help you understand the benefits &amp;amp; capabilities of using Endpoint Protection with Configuration Manager. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f37c/6ddbc30a-d9c7-41e4-8c71-595ef229f37c/Mod1IntroEndpointProtection_mid.mp4</video:content_loc>
+        <video:duration>832</video:duration>
+        <video:publication_date>2015-04-14T22:26:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

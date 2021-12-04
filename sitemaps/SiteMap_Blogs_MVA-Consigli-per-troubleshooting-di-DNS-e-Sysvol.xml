@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Consigli-per-troubleshooting-di-DNS-e-Sysvol</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Consigli-per-troubleshooting-di-DNS-e-Sysvol/Consigli-per-troubleshooting-di-Sysvol-e-Active-Directory</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ee4/890cc2cd-de10-4dfd-b6de-102677133ee4/AD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Consigli per troubleshooting di Sysvol e Active Directory]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ee4/890cc2cd-de10-4dfd-b6de-102677133ee4/AD_mid.mp4</video:content_loc>
+        <video:duration>1269</video:duration>
+        <video:publication_date>2015-07-02T10:00:49.9477414+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Consigli-per-troubleshooting-di-DNS-e-Sysvol/Consigli-per-troubleshooting-del-DNS</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f10e/0115f1f8-ccab-4ebe-a4cc-f03bc6a3f10e/dns_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Consigli per troubleshooting del DNS]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f10e/0115f1f8-ccab-4ebe-a4cc-f03bc6a3f10e/dns_mid.mp4</video:content_loc>
+        <video:duration>1044</video:duration>
+        <video:publication_date>2015-07-02T10:00:32.5512601+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

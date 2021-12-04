@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/ECMAScript-6</loc>
+      <lastmod>2016-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d93/5f100e35-82c2-41bc-bc85-b19375b98d93/Ffoobar_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The No &quot;foobar&quot; Guide to New Features in ECMAScript 6]]></video:title>
+        <video:description><![CDATA[ES2015 brings a vast number improvements and features to our beloved JavaScript, we&#39;ll go over all the new additions through short and sweet real world examples and preview some of the evolving&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d93/5f100e35-82c2-41bc-bc85-b19375b98d93/Ffoobar_mid.mp4</video:content_loc>
+        <video:duration>2166</video:duration>
+        <video:publication_date>2015-12-21T21:41:58.4567416+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/Scripts-with-npm</loc>
+      <lastmod>2016-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ddf5/965f3210-c01a-40c8-9123-d5843e32ddf5/npmmmm_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating cross-platform front-end build scripts with npm]]></video:title>
+        <video:description><![CDATA[Since the recent release of npm 3.0.0, there&#39;s never been a better to leverage the npm script ecosystem for front end builds. I&#39;ll show you why the command line is such a powerful environment for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ddf5/965f3210-c01a-40c8-9123-d5843e32ddf5/npmmmm_mid.mp4</video:content_loc>
+        <video:duration>1355</video:duration>
+        <video:publication_date>2015-12-21T21:41:19.4838676+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/Navigating-through-JavaScript</loc>
+      <lastmod>2016-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7549/ffaafa0d-cb32-47b3-a605-baa4d2007549/Navig_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Navigating through JavaScript]]></video:title>
+        <video:description><![CDATA[As a recovering JavaScript hater, working as a web developer and teaching web development has taught me to embrace it a lot more over the years. This talk will include tips I&#39;ve learned along the way&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7549/ffaafa0d-cb32-47b3-a605-baa4d2007549/Navig_mid.mp4</video:content_loc>
+        <video:duration>1656</video:duration>
+        <video:publication_date>2015-12-21T21:40:41.4088116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/Functional-Programming</loc>
+      <lastmod>2018-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e749/89ccae4e-2618-4845-9aec-200d9f0ee749/FuncationalProg_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Shift Towards Functional Reactive Programming]]></video:title>
+        <video:description><![CDATA[Angular 2, React, and even Perl 6 are embracing functional reactive programming (FRP) with libraries like RxJS, Falcor, Bacon, Relay, and Redux.  This talk will review what are the fundamentals of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e749/89ccae4e-2618-4845-9aec-200d9f0ee749/FuncationalProg_mid.mp4</video:content_loc>
+        <video:duration>3157</video:duration>
+        <video:publication_date>2015-12-21T21:40:16.8635028+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/Node-SerialPort</loc>
+      <lastmod>2016-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/32c7/160f05d2-2f14-40ba-ad24-3c13f1cc32c7/pooirt_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Node-SerialPort, Part of a Balanced Breakfast]]></video:title>
+        <video:description><![CDATA[Jump start your day right with a helping of delicious JavaScript mixed with the physical world. Learn how to easily communicate with Arduino using NodeJS. Does your website follow the modern web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/32c7/160f05d2-2f14-40ba-ad24-3c13f1cc32c7/pooirt_mid.mp4</video:content_loc>
+        <video:duration>2123</video:duration>
+        <video:publication_date>2015-12-21T21:32:52.6642239+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/Here-Be-Dragons</loc>
+      <lastmod>2016-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a998/e854dfd7-5307-48fc-8a54-e8f0c9eca998/HereBeDragons_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Here Be Dragons - JavaScript Debugging]]></video:title>
+        <video:description><![CDATA[Have you ever cried yourself to sleep unable to find the cause of a horrendous bug in your node app? Cry no more, your tears will be reshaped as blinding swords as we explore uncharted territories&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a998/e854dfd7-5307-48fc-8a54-e8f0c9eca998/HereBeDragons_mid.mp4</video:content_loc>
+        <video:duration>2424</video:duration>
+        <video:publication_date>2015-12-21T21:32:02.8666435+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JS/JavaScript-Open-Day/Web-Accessibility</loc>
+      <lastmod>2016-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ed8/c303d126-638c-42df-a575-3f0749c73ed8/webacccc_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Accessibility: Making Websites Better For Everyone]]></video:title>
+        <video:description><![CDATA[Not everyone uses a keyboard, a monitor, and a mouse to access your sites on desktops. Not everyone uses a finger to interact with your sites on touch screens. When you consider these users while&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ed8/c303d126-638c-42df-a575-3f0749c73ed8/webacccc_mid.mp4</video:content_loc>
+        <video:duration>2446</video:duration>
+        <video:publication_date>2015-12-21T21:31:35.8403871+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

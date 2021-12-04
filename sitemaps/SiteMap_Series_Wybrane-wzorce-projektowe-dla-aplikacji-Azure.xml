@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wybrane-wzorce-projektowe-dla-aplikacji-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wybrane-wzorce-projektowe-dla-aplikacji-Azure/04-Dane</loc>
+      <lastmod>2015-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4561/50e0e92b-2333-4eec-9f68-167ff5694561/dane_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Dane]]></video:title>
+        <video:description><![CDATA[Obciążenie bazy danych w aplikacjach działających w chmurze jest często bardzo dużym wyzwaniem. W tym module przyjrzymy się nieco innym koncpecjom, związanym z pracą z danymi - zobaczymy m.in. na czym&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4561/50e0e92b-2333-4eec-9f68-167ff5694561/dane_mid.mp4</video:content_loc>
+        <video:duration>1279</video:duration>
+        <video:publication_date>2015-06-01T17:25:48.1212836+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wybrane-wzorce-projektowe-dla-aplikacji-Azure/03-Poczenia</loc>
+      <lastmod>2015-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3493/73757c8f-d7fc-428e-be36-60dad4cc3493/polaczenia_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Poczenia]]></video:title>
+        <video:description><![CDATA[W chmurze musimy liczyć się z tym, że mogą wystąpić czasowe problemy z dostępnością usług lub połączeniami między komponentami aplikacji. Zobaczymy jak sobie z nimi radzić, poprzez zastosowanie takich&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3493/73757c8f-d7fc-428e-be36-60dad4cc3493/polaczenia_mid.mp4</video:content_loc>
+        <video:duration>925</video:duration>
+        <video:publication_date>2015-06-01T17:20:14.1674392+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wybrane-wzorce-projektowe-dla-aplikacji-Azure/02-Kolejki-i-koordynacja</loc>
+      <lastmod>2015-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f91/ad083b59-beb0-471e-84ea-8c5d44e33f91/kolejki_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Kolejki i koordynacja]]></video:title>
+        <video:description><![CDATA[W tym module skupimy się na wzorcach wykorzystujących kolejki - m.in. Competing Consumers, Load Leveling, Pipes &amp;amp; Filters, Priority Queue i innych. Zobaczymy jak proste zabiegi architektoniczne&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f91/ad083b59-beb0-471e-84ea-8c5d44e33f91/kolejki_mid.mp4</video:content_loc>
+        <video:duration>1922</video:duration>
+        <video:publication_date>2015-06-01T17:19:14.1701277+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wybrane-wzorce-projektowe-dla-aplikacji-Azure/01-Dlaczego-specjalne-wzorce</loc>
+      <lastmod>2015-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cd8c/1d88b5bf-62fc-4f7a-9be2-117a8daccd8c/dlaczego_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Dlaczego specjalne wzorce?]]></video:title>
+        <video:description><![CDATA[Zaczniemy od om&#243;wienia specyfiki aplikacji działających w chmurze. Zobaczymy jakie wyzwania przed nimi stoją i dlaczego potrzebne jest stosowanie specjalnych wzorc&#243;w projektowych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cd8c/1d88b5bf-62fc-4f7a-9be2-117a8daccd8c/dlaczego_mid.mp4</video:content_loc>
+        <video:duration>316</video:duration>
+        <video:publication_date>2015-06-01T17:06:14.0009303+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

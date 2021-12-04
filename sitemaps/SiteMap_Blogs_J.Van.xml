@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/New-release-of-Rx-for-NET--JS-v1026170-available</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/new-drop-of-Rx-NET--JS-available</loc>
+      <lastmod>2017-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Samuel-McAravey-Using-Rx-in-the-Real-World</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/2/1/1/4/5/SamuelMcAraveyUsingRxInTheRealWorld_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Samuel McAravey: Using Rx in the Real World]]></video:title>
+        <video:description><![CDATA[Most C9ers will probably have watched a video or two of Erik and/or his team members talking about Rx. In these videos, we can see some great samples of how to use Rx. But how does Rx play out when&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/2/1/1/4/5/SamuelMcAraveyUsingRxInTheRealWorld_ch9.mp4</video:content_loc>
+        <video:duration>941</video:duration>
+        <video:publication_date>2010-04-06T15:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Your-RxNET-Prescription-Has-Been-Refilled</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/2/4/4/3/5/YourRxNetPrescriptionHasBeenRefilled_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Your Rx.NET Prescription Has Been Refilled]]></video:title>
+        <video:description><![CDATA[Today, we released a new version of Reactive Extensions for .NET. 
+
+This new version is a good reason to end the long video silence on C9. Here, Wes, Bart, and Jeff discuss the various changes in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/2/4/4/3/5/YourRxNetPrescriptionHasBeenRefilled_ch9.mp4</video:content_loc>
+        <video:duration>1369</video:duration>
+        <video:publication_date>2010-03-06T00:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Jafar-Husain-Silverlight-Toolkit-and-Rx-Part-2</loc>
+      <lastmod>2011-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/9/4/5/1/5/JafarHusainSilverlightToolkitAndRxPart2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jafar Husain: Silverlight Toolkit and Rx, Part 2]]></video:title>
+        <video:description><![CDATA[
+Jafar explains how the Silverlight Toolkit uses Reactive Extensions. Jafar was one of the early adopters of Rx, in fact the Silverlight Toolkit was the first product
+ to redistribute&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/9/4/5/1/5/JafarHusainSilverlightToolkitAndRxPart2_ch9.mp4</video:content_loc>
+        <video:duration>394</video:duration>
+        <video:publication_date>2009-12-23T17:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Jafar-Husain-Silverlight-Toolkit-and-Rx-Part-1</loc>
+      <lastmod>2011-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/0/4/4/1/5/JafarHusainSilverlighToolkitAndRxPart1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jafar Husain: Silverlight Toolkit and Rx, Part 1]]></video:title>
+        <video:description><![CDATA[Jafar explains how the 
+Silverlight Toolkit uses Reactive Extensions. Jafar was one of the early adopters of Rx, in fact the Silverlight Toolkit was the first product to redistribute Rx.
+
+In part&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/0/4/4/1/5/JafarHusainSilverlighToolkitAndRxPart1_ch9.mp4</video:content_loc>
+        <video:duration>553</video:duration>
+        <video:publication_date>2009-12-22T23:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Controlling-concurrency-in-Rx</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/6/6/3/1/5/ControllingConcurrencyInRx_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Wes Dyer: Controlling Concurrency in Rx]]></video:title>
+        <video:description><![CDATA[The Rx team has received a lot of questions about Rx and concurrency, thread-affinity, timers and performance. In this video, Wes explains the major changes in the latest release of Rx.
+
+These&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/6/6/3/1/5/ControllingConcurrencyInRx_ch9.mp4</video:content_loc>
+        <video:duration>1516</video:duration>
+        <video:publication_date>2009-12-18T21:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Retry</loc>
+      <lastmod>2017-08-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/3/5/1/1/5/RxInDepthRetry_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Retry]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Wes talks talks about the Retry operator.
+
+Visit the Reactive Extensions DevLabs page to download and learn more about Rx.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/3/5/1/1/5/RxInDepthRetry_ch9.mp4</video:content_loc>
+        <video:duration>123</video:duration>
+        <video:publication_date>2009-12-16T16:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Repeat</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/3/5/1/1/5/RxInDepthRepeat_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Repeat]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Jeff talks talks about the Repeat operator.
+
+Visit the Reactive Extensions DevLabs page to download and learn more about Rx.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/3/5/1/1/5/RxInDepthRepeat_ch9.mp4</video:content_loc>
+        <video:duration>130</video:duration>
+        <video:publication_date>2009-12-15T16:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Rx-API-in-depth-Hot-and-Cold-observables</loc>
+      <lastmod>2017-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/2/4/1/1/5/RxInDepthHotAndCold_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Rx API in depth: Hot and Cold observables]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Wes talks talks about hot and cold Observables.
+
+Visit the Reactive Extensions DevLabs page to download and learn more about Rx.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/2/4/1/1/5/RxInDepthHotAndCold_ch9.mp4</video:content_loc>
+        <video:duration>212</video:duration>
+        <video:publication_date>2009-12-14T15:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Rx-API-in-depth-Concat-Catch-and-OnErrorResumeNext</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/2/9/0/1/5/RxApiInDepthConcatCatchOnErrorResumeNext_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Rx API in depth: Concat, Catch and OnErrorResumeNext]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Jeff talks about three very simular binary operators: Concat, Catch and OnErrorResumeNext
+
+
+Visit the Reactive Extensions DevLabs page to download and learn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/2/9/0/1/5/RxApiInDepthConcatCatchOnErrorResumeNext_ch9.mp4</video:content_loc>
+        <video:duration>176</video:duration>
+        <video:publication_date>2009-12-11T16:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-CombineLatest</loc>
+      <lastmod>2010-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/1/9/0/1/5/RxApiInDepthCombineLatest_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: CombineLatest]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Wes talks about the CombineLatest operator and it&#39;s relation to the Zip operator
+
+
+Visit the Reactive Extensions DevLabs page to download and learn more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/1/9/0/1/5/RxApiInDepthCombineLatest_ch9.mp4</video:content_loc>
+        <video:duration>224</video:duration>
+        <video:publication_date>2009-12-10T16:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-even-more-Zip</loc>
+      <lastmod>2015-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/1/9/0/1/5/RxApiInDepthMoreZip_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: even more Zip ]]></video:title>
+        <video:description><![CDATA[In the previous episode this episode of the Rx API in depth, Jeff talked about the Zip operator in Rx.
+
+In this episode, Jeff dives even deeper in the semantics of Zip, and shows what happens in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/1/9/0/1/5/RxApiInDepthMoreZip_ch9.mp4</video:content_loc>
+        <video:duration>111</video:duration>
+        <video:publication_date>2009-12-09T17:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Zip</loc>
+      <lastmod>2016-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/1/9/0/1/5/RxApiInDepthZip_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Zip]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Jeff talks about the Zip operator in Rx.
+
+
+Visit the Reactive Extensions DevLabs page to download and learn more about Rx.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/1/9/0/1/5/RxApiInDepthZip_ch9.mp4</video:content_loc>
+        <video:duration>155</video:duration>
+        <video:publication_date>2009-12-08T16:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Merge</loc>
+      <lastmod>2015-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/1/9/0/1/5/RxApiInDepthMerge_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Merge]]></video:title>
+        <video:description><![CDATA[In this episode of the Rx API in depth, Wes talks about the Merge operator in Rx.
+
+
+Visit the Reactive Extensions DevLabs page to download and learn more about Rx.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/1/9/0/1/5/RxApiInDepthMerge_ch9.mp4</video:content_loc>
+        <video:duration>156</video:duration>
+        <video:publication_date>2009-12-07T16:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Contract</loc>
+      <lastmod>2016-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/6/8/7/0/5/RxApiContract_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Contract]]></video:title>
+        <video:description><![CDATA[Wes talks about the part of Rx&#39;s IObservable contract that is not expressed in the type. What order of messages is allowed, when are methods allowed to throw, on what thread callbacks happen, etc...
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/6/8/7/0/5/RxApiContract_ch9.mp4</video:content_loc>
+        <video:duration>280</video:duration>
+        <video:publication_date>2009-11-25T16:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Primitives</loc>
+      <lastmod>2018-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/5/8/7/0/5/RxApiInDepthPrimitives_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Primitives]]></video:title>
+        <video:description><![CDATA[Jeff describes the primitives of IObservable. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/5/8/7/0/5/RxApiInDepthPrimitives_ch9.mp4</video:content_loc>
+        <video:duration>108</video:duration>
+        <video:publication_date>2009-11-24T17:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Subscribing</loc>
+      <lastmod>2013-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/5/8/7/0/5/ReactiveApiInDepthSubscribing_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Subscribing]]></video:title>
+        <video:description><![CDATA[Wes dives deeper into the semantics of subscription. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/5/8/7/0/5/ReactiveApiInDepthSubscribing_ch9.mp4</video:content_loc>
+        <video:duration>210</video:duration>
+        <video:publication_date>2009-11-23T05:09:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-Until-and-WaitUntil</loc>
+      <lastmod>2015-01-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/7/9/6/0/5/RxInDepthUntilAndWaitUntil_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: Until and WaitUntil]]></video:title>
+        <video:description><![CDATA[Now that we have explained 
+&amp;quot;Marble Diagrams&amp;quot;, we use this representation to describe what Rx&#39;s Until and WaitUntil behavior is.
+
+
+You can watch all of the Rx tutorials 
+here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/7/9/6/0/5/RxInDepthUntilAndWaitUntil_ch9.mp4</video:content_loc>
+        <video:duration>329</video:duration>
+        <video:publication_date>2009-11-20T23:51:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Whats-different-about-the-3-versions-of-Rx-Part-3-NET-35-SP1</loc>
+      <lastmod>2014-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/6/9/6/0/5/RxDifferencesPart3Net35SP1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s different about the 3 versions of Rx? Part 3: .NET 3.5 SP1]]></video:title>
+        <video:description><![CDATA[Two days ago we released Reactive Extensions for .NET 3.5 SP1, Silverlight 3 and .NET 4 Beta 2. In this 3 part video, I&#39;ll go over the small differences in each of the three releases.
+
+Two days ago&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/6/9/6/0/5/RxDifferencesPart3Net35SP1_ch9.mp4</video:content_loc>
+        <video:duration>346</video:duration>
+        <video:publication_date>2009-11-19T15:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-SelectMany</loc>
+      <lastmod>2016-11-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/7/9/6/0/5/RxInDepthSelectMany_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: SelectMany]]></video:title>
+        <video:description><![CDATA[Now that we have explained 
+&amp;quot;Marble Diagrams&amp;quot;, we use this representation to describe what Rx&#39;s SelectMany behavior is.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/7/9/6/0/5/RxInDepthSelectMany_ch9.mp4</video:content_loc>
+        <video:duration>261</video:duration>
+        <video:publication_date>2009-11-19T15:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-marble-diagrams-select--where</loc>
+      <lastmod>2015-01-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/7/9/6/0/5/RxMarbleDiagramsSelectAndWhere_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: marble diagrams, select &amp; where]]></video:title>
+        <video:description><![CDATA[Wes Dyer, Erik Meijer and Jeffrey van Gogh explain a graphical method called &amp;quot;Marble Diagrams&amp;quot; that helps to reason about Rx API. 
+
+We use these &amp;quot;Marble Diagrams&amp;quot; to describe how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/7/9/6/0/5/RxMarbleDiagramsSelectAndWhere_ch9.mp4</video:content_loc>
+        <video:duration>289</video:duration>
+        <video:publication_date>2009-11-18T16:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Whats-different-about-the-3-versions-of-Rx-Part-2-NET-4</loc>
+      <lastmod>2018-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/5/9/6/0/5/RxDifferencesPart2Net4Beta2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s different about the 3 versions of Rx? Part 2: .NET 4]]></video:title>
+        <video:description><![CDATA[Yesterday we released Reactive Extensions for .NET 3.5 SP1, Silverlight 3 and .NET 4 Beta 2. In this 3 part video, I&#39;ll go over the small differences in each of the three releases.
+
+Yesterday I&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/5/9/6/0/5/RxDifferencesPart2Net4Beta2_ch9.mp4</video:content_loc>
+        <video:duration>191</video:duration>
+        <video:publication_date>2009-11-18T16:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Reactive-Extensions-API-in-depth-intro</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/7/6/6/0/5/ReactiveExtensionsAPIIntro_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Extensions API in depth: intro]]></video:title>
+        <video:description><![CDATA[Now that Reactive Extensions for .NET and silverlight have been 
+released, the Rx team thought it would be useful to have short videos about each API in Rx. This video kicks off the series with a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/7/6/6/0/5/ReactiveExtensionsAPIIntro_ch9.mp4</video:content_loc>
+        <video:duration>107</video:duration>
+        <video:publication_date>2009-11-18T02:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Whats-different-about-the-3-versions-of-Rx-Part-1-Silverlight-3</loc>
+      <lastmod>2016-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/3/9/6/0/5/RxDifferencesPart1Silverlight3_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s different about the 3 versions of Rx? Part 1: Silverlight 3]]></video:title>
+        <video:description><![CDATA[Today we released Reactive Extensions for .NET 3.5 SP1, Silverlight 3 and .NET 4 Beta 2. In this 3 part video, I&#39;ll go over the small differences in each of the three releases.
+
+This first video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/3/9/6/0/5/RxDifferencesPart1Silverlight3_ch9.mp4</video:content_loc>
+        <video:duration>237</video:duration>
+        <video:publication_date>2009-11-17T20:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/J.Van.Gogh/Writing-your-first-Rx-Application</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/2/9/6/0/5/WesDyerRxDragAndDrop_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Writing your first Rx Application]]></video:title>
+        <video:description><![CDATA[Today we released Reactive Extensions for .NET on 
+DevLabs.
+Rx is a .NET Library that allows programmers to write succinct declarative code to orchestrate and coordinate asynchronous and event-based&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/2/9/6/0/5/WesDyerRxDragAndDrop_ch9.mp4</video:content_loc>
+        <video:duration>385</video:duration>
+        <video:publication_date>2009-11-17T19:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

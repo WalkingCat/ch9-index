@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/GraphQL</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GraphQL/Creating-a-GraphQL-Server-Part-3-Publishing-a-GraphQL-Server-to-Azure-Functions</loc>
+      <lastmod>2019-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2b13/7f061484-6d45-45a9-acc4-da445e8c2b13/GraphQLServerPublishingToAzureFunctionsPt3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a GraphQL Server, Part 3:  Publishing a GraphQL Server to Azure Functions]]></video:title>
+        <video:description><![CDATA[GraphQL is an exciting new API architecture. Join us in this special series where you&#39;ll learn the basics of GraphQL, how to interact with an existing GraphQL endpoint, how to create your first&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2b13/7f061484-6d45-45a9-acc4-da445e8c2b13/GraphQLServerPublishingToAzureFunctionsPt3_mid.mp4</video:content_loc>
+        <video:duration>296</video:duration>
+        <video:publication_date>2019-09-13T16:34:59.5120509+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GraphQL/Creating-a-GraphQL-Server-Part-2-Publishing-a-GraphQL-Server-to-Azure-App-Service</loc>
+      <lastmod>2019-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ae10/6cc49a23-c0d8-4b82-a585-1226b295ae10/GraphQLServerPublishingToAzureAppServicePt2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a GraphQL Server, Part 2: Publishing a GraphQL Server to Azure App Service]]></video:title>
+        <video:description><![CDATA[GraphQL is an exciting new API architecture. Join us in this special series where you&#39;ll learn the basics of GraphQL, how to interact with an existing GraphQL endpoint, how to create your first&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f462/0e035ff7-b0df-4317-9099-ef26f2faf462/GraphQLServerPublishingToAzureAppServicePt2_mid.mp4</video:content_loc>
+        <video:duration>197</video:duration>
+        <video:publication_date>2019-09-13T16:34:23.7509881+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GraphQL/Creating-a-GraphQL-Server-Part-1-Building-a-GraphQL-Server-with-Apollo-GraphQL</loc>
+      <lastmod>2021-03-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2f94/9d00076d-42d3-444e-acd2-05f352bb2f94/GraphQLCreatingServerPt1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a GraphQL Server, Part 1: Building a GraphQL Server with Apollo GraphQL]]></video:title>
+        <video:description><![CDATA[GraphQL is an exciting new API architecture. Join us in this special series where you&#39;ll learn the basics of GraphQL, how to interact with an existing GraphQL endpoint, how to create your first&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2f94/9d00076d-42d3-444e-acd2-05f352bb2f94/GraphQLCreatingServerPt1_mid.mp4</video:content_loc>
+        <video:duration>242</video:duration>
+        <video:publication_date>2019-09-13T16:32:29.7374353+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GraphQL/Intro-to-GraphQL-Part-2</loc>
+      <lastmod>2019-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/365b/f63fd203-e98e-4f32-bfaa-40b7761f365b/IntrotoGraphQLPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to GraphQL, Part 2: Exploring a GraphQL Endpoint]]></video:title>
+        <video:description><![CDATA[GraphQL is an exciting new API architecture. Join us in this special series where you&#39;ll learn the basics of GraphQL, how to interact with an existing GraphQL endpoint, how to create your first&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/365b/f63fd203-e98e-4f32-bfaa-40b7761f365b/IntrotoGraphQLPart2_mid.mp4</video:content_loc>
+        <video:duration>432</video:duration>
+        <video:publication_date>2019-09-13T16:32:06.7425679+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GraphQL/Intro-to-GraphQL-Part-1</loc>
+      <lastmod>2020-02-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/167c/d62bfc00-95ae-42a1-ab23-af9b9602167c/IntrotoGraphQL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to GraphQL, Part 1: What is GraphQL]]></video:title>
+        <video:description><![CDATA[GraphQL is an exciting new API architecture. Join us in this special series where you&#39;ll learn the basics of GraphQL, how to interact with an existing GraphQL endpoint, how to create your first&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/167c/d62bfc00-95ae-42a1-ab23-af9b9602167c/IntrotoGraphQL_mid.mp4</video:content_loc>
+        <video:duration>204</video:duration>
+        <video:publication_date>2019-09-13T16:31:36.9641841+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students-Russia</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students-Russia/universal-apps-in-microsoft-azure</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/13fa/94cbb779-f218-4093-a5be-a8c113ec13fa/UniversalAppsInMicrosoftAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[      Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Студент-партнер Алексей Со&amp;#1084;&amp;#1084;ер познако&amp;#1084;ит зрителей с основны&amp;#1084;и аспекта&amp;#1084;и работы с Azure Mobile App Services. Прос&amp;#1084;отрев это короткое видео, вы научитесь: Создавать&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13fa/94cbb779-f218-4093-a5be-a8c113ec13fa/UniversalAppsInMicrosoftAzure_mid.mp4</video:content_loc>
+        <video:duration>1220</video:duration>
+        <video:publication_date>2016-05-16T08:46:02.7780664+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students-Russia/unity3d</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9444/c9b014b0-042e-40fb-b94d-ba3528fd9444/Unity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  leaderboard     Unity3D ]]></video:title>
+        <video:description><![CDATA[Разработка облачного leaderboard и использование его в Unity3D  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9444/c9b014b0-042e-40fb-b94d-ba3528fd9444/Unity_mid.mp4</video:content_loc>
+        <video:duration>871</video:duration>
+        <video:publication_date>2016-03-30T12:22:12.7582019+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students-Russia/Web-Matrix-Microsoft-Azure</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/04dd/3a689b6d-c6ee-4d08-af87-e325e5b404dd/WebMatrix_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   WebMatrix      Microsoft Azure ]]></video:title>
+        <video:description><![CDATA[Разработка сайта на WebMatrix и публикация его в облаке Microsoft Azure  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/04dd/3a689b6d-c6ee-4d08-af87-e325e5b404dd/WebMatrix_mid.mp4</video:content_loc>
+        <video:duration>602</video:duration>
+        <video:publication_date>2016-03-30T12:22:11.2425478+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students-Russia/WordPress-Microsoft-Azure</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a1a/51240813-bdb3-4af3-be11-a0788aab5a1a/Wordpress_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[    WordPress   Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Развертывание блога на платфор&amp;#1084;е WordPress в облаке Microsoft Azure ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a1a/51240813-bdb3-4af3-be11-a0788aab5a1a/Wordpress_mid.mp4</video:content_loc>
+        <video:duration>383</video:duration>
+        <video:publication_date>2016-03-30T12:22:10.7726240+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

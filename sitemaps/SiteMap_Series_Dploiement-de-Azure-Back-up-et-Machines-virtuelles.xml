@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Dploiement-de-Azure-Back-up-et-Machines-virtuelles</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Dploiement-de-Azure-Back-up-et-Machines-virtuelles/Comment-dployer-une-machine-virtuelle-dans-Azure</loc>
+      <lastmod>2018-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ffc/6a3910a1-2c02-43a9-aed1-cf1920fd0ffc/Machinevirtuelle_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comment d&#233;ployer une machine virtuelle dans Azure]]></video:title>
+        <video:description><![CDATA[Au travers de cette vid&#233;o, William Matyas, Sp&#233;cialiste Avant-Vente Partenaires TPE/PME explique comment d&#233;ployer une machine virtuelle Windows Server dans Azure.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ffc/6a3910a1-2c02-43a9-aed1-cf1920fd0ffc/Machinevirtuelle_mid.mp4</video:content_loc>
+        <video:duration>366</video:duration>
+        <video:publication_date>2016-10-18T17:30:52.1499210+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Dploiement-de-Azure-Back-up-et-Machines-virtuelles/Comment-dployer-Azure-Backup</loc>
+      <lastmod>2016-10-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7772/8accb9a3-6112-41e7-860d-8d8b0b957772/azurebackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comment d&#233;ployer Azure Backup ]]></video:title>
+        <video:description><![CDATA[Au travers de cette d&#233;monstration, William Matyas, Sp&#233;cialiste Avant-Vente Partenaires TPE/PME, vous expliquera comment d&#233;ployer et mettre en place facilement une solution de backup avec Azure Backup.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7772/8accb9a3-6112-41e7-860d-8d8b0b957772/azurebackup_mid.mp4</video:content_loc>
+        <video:duration>494</video:duration>
+        <video:publication_date>2016-10-18T17:30:27.9449008+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

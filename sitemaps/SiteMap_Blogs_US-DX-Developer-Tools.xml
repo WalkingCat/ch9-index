@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/US-DX-Developer-Tools</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/US-DX-Developer-Tools/Visual-Studio-2015-Overview</loc>
+      <lastmod>2017-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1bfa/e7d57d59-e8bb-46b4-ba1b-515bb3221bfa/Overview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2015 Overview]]></video:title>
+        <video:description><![CDATA[Your organization doesn&#39;t write software just to keep busy.  You know the advantage of responding to opportunities quickly by continuously delivering value.  However, the technology challenges you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1bfa/e7d57d59-e8bb-46b4-ba1b-515bb3221bfa/Overview_mid.mp4</video:content_loc>
+        <video:duration>909</video:duration>
+        <video:publication_date>2015-06-23T18:11:37.0169085+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

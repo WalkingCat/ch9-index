@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure/06-Konwersja-witryny-PHPMySQL</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd8a/74e8cb73-5ce3-4b92-8276-2e4f2128bd8a/6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 Konwersja witryny PHP/MySQL ]]></video:title>
+        <video:description><![CDATA[W module tym przeniesiemy działającą realnie witrynę opartą na Open Sourcowym CMSie Joomla (PHP/MySQL) z tradycyjnego hostingu do zupełnie bezpłatnej usługi WebApps.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd8a/74e8cb73-5ce3-4b92-8276-2e4f2128bd8a/6_mid.mp4</video:content_loc>
+        <video:duration>1289</video:duration>
+        <video:publication_date>2015-12-28T08:35:06.6146645+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure/05-Microsoft-Azure--WebApps</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7a4e/1ce64590-6268-44de-8c2d-e54c84e07a4e/5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Microsoft Azure  WebApps]]></video:title>
+        <video:description><![CDATA[WebApps – zaawansowana alternatywa dla tradycyjnego hostingu. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7a4e/1ce64590-6268-44de-8c2d-e54c84e07a4e/5_mid.mp4</video:content_loc>
+        <video:duration>313</video:duration>
+        <video:publication_date>2015-12-28T08:34:58.6825336+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure/04-Przeniesienie-maszyny-wirtualnej-lub-fizycznej-do-Microsoft-Azure</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3db2/e767ce89-6e02-47f6-9910-bac77c703db2/4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Przeniesienie maszyny wirtualnej lub fizycznej do Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Dzięki rozwiązaniu OpenSource – AzureZilla przeniesiemy maszynę fizyczną lub wirtualną do Microsoft Azure – bez znajomości co to BLOB, VHS na zasadzie starego dobrego GHOSTa. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3db2/e767ce89-6e02-47f6-9910-bac77c703db2/4_mid.mp4</video:content_loc>
+        <video:duration>1056</video:duration>
+        <video:publication_date>2015-12-28T08:34:49.1802825+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure/03-VM-Depot</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/40c5/65cce6b6-0c11-42d7-993c-281b0df540c5/3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 VM Depot]]></video:title>
+        <video:description><![CDATA[VM Depot - repozytorium gotowych rozwiązań Open Source dla Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/40c5/65cce6b6-0c11-42d7-993c-281b0df540c5/3_mid.mp4</video:content_loc>
+        <video:duration>439</video:duration>
+        <video:publication_date>2015-12-28T08:34:40.0572105+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure/02-Infrastructure-As-a-Service</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa11/9feb8070-9f81-468c-9b85-8c17ee5aaa11/2infrastructure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Infrastructure As a Service]]></video:title>
+        <video:description><![CDATA[Maszyny wirtualne w Microsoft Azure i oprogramowanie Open Source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa11/9feb8070-9f81-468c-9b85-8c17ee5aaa11/2infrastructure_mid.mp4</video:content_loc>
+        <video:duration>650</video:duration>
+        <video:publication_date>2015-12-28T08:34:29.5857501+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Oprogramowanie-Open-Source-w-Microsoft-Azure/01-Wprowadzenie</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/78e6/7a719f61-768b-4f00-b540-31f5878778e6/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wprowadzenie]]></video:title>
+        <video:description><![CDATA[Wsparcie Microsoft dla oprogramowania Open Source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78e6/7a719f61-768b-4f00-b540-31f5878778e6/1_mid.mp4</video:content_loc>
+        <video:duration>513</video:duration>
+        <video:publication_date>2015-12-28T08:34:16.4809378+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

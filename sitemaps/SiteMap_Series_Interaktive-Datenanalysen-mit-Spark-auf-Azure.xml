@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Datenanalysen-mit-Spark-auf-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Datenanalysen-mit-Spark-auf-Azure/03--SparkSQL--Visualisierung</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d77d/02a3c760-4a77-4a06-92eb-5c657a8ad77d/03SparkSQL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | SparkSQL &amp; Visualisierung]]></video:title>
+        <video:description><![CDATA[In dem finalen Modul gehen wir auf eines der Komponenten von Spark ein: SparkSQL, mit der man strukturierte Daten interaktiv analysieren kann. Hier werden wir ein Zeppelin Notebook erstellen, um&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d77d/02a3c760-4a77-4a06-92eb-5c657a8ad77d/03SparkSQL_mid.mp4</video:content_loc>
+        <video:duration>1706</video:duration>
+        <video:publication_date>2016-04-06T21:20:16.1572848+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Datenanalysen-mit-Spark-auf-Azure/02--Spark-Core</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05f8/93f4d321-4f2a-44b2-81a2-62f2176c05f8/SparkCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Spark Core]]></video:title>
+        <video:description><![CDATA[In dem zweiten Modul des MVA-Kurses gibt Sascha Dittmann eine Einf&#252;hrung in Spark Core, u.a. map(), reduce(), union(), etc. Dabei nutzt er die Python Interactive Shell.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05f8/93f4d321-4f2a-44b2-81a2-62f2176c05f8/SparkCore_mid.mp4</video:content_loc>
+        <video:duration>1342</video:duration>
+        <video:publication_date>2016-04-06T21:19:58.7903052+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Datenanalysen-mit-Spark-auf-Azure/01--Was-ist-Apache-Spark</loc>
+      <lastmod>2020-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/583f/64b61efc-0394-46e1-b40a-c7ca5cac583f/01ApacheSpark_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Was ist Apache Spark?]]></video:title>
+        <video:description><![CDATA[In dem ersten Modul des MVA-Kurses geben Olivia Klose und Sascha Dittmann eine Einf&#252;hrung in das Open Source Framework zur Datenverarbeitung: Apache Spark. Daraufhin gehen sie auf die Szenarien ein,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/583f/64b61efc-0394-46e1-b40a-c7ca5cac583f/01ApacheSpark_mid.mp4</video:content_loc>
+        <video:duration>2695</video:duration>
+        <video:publication_date>2016-04-06T21:19:09.8636998+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

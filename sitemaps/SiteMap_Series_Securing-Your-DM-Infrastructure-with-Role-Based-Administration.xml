@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod1</loc>
+      <lastmod>2016-01-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92d9/adb64fb3-6f4b-4250-bd28-d16cd6e892d9/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Introduction to Role-Based Administration]]></video:title>
+        <video:description><![CDATA[Get an introduction to Role-Based Administration concepts and how they are applied in a Microsoft device management environment. Role-Based Administration allows you to segment access to your device&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92d9/adb64fb3-6f4b-4250-bd28-d16cd6e892d9/Mod1_mid.mp4</video:content_loc>
+        <video:duration>1020</video:duration>
+        <video:publication_date>2014-12-17T20:50:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod5</loc>
+      <lastmod>2014-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7be5/cd8a7ff7-742d-478a-a1d8-8dda409c7be5/Mod5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 5) Deploying a Configuration Manager Secondary Site]]></video:title>
+        <video:description><![CDATA[Use reporting to prove that Role-Based Administration has been successfully implemented to groups of administrators. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7be5/cd8a7ff7-742d-478a-a1d8-8dda409c7be5/Mod5_mid.mp4</video:content_loc>
+        <video:duration>729</video:duration>
+        <video:publication_date>2014-09-25T17:35:23.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod4</loc>
+      <lastmod>2014-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c923/60990ac2-06c5-4cb5-abf4-0191e4f8c923/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Deploying a Configuration Manager Primary Site]]></video:title>
+        <video:description><![CDATA[See how to use Role-Based Administration in System Center 2012 to ensure that different groups of administrators only access the objects relevant to their roles. Use desktop and server admins, in this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c923/60990ac2-06c5-4cb5-abf4-0191e4f8c923/Mod4_mid.mp4</video:content_loc>
+        <video:duration>720</video:duration>
+        <video:publication_date>2014-09-25T17:34:28.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod3</loc>
+      <lastmod>2014-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/33a3/6adc875f-eaec-46e2-ad48-43c0d9ed33a3/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Installing a Configuration Manager Central Administration Site]]></video:title>
+        <video:description><![CDATA[Create new roles and scopes for the device management infrastructure, and then test initial access results with both server and desktop administrator accounts​. This video is part of the Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/33a3/6adc875f-eaec-46e2-ad48-43c0d9ed33a3/Mod3_mid.mp4</video:content_loc>
+        <video:duration>571</video:duration>
+        <video:publication_date>2014-09-25T17:33:48.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod2</loc>
+      <lastmod>2014-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3bd9/90a5fbb1-0c86-42ec-8904-528dcf603bd9/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Extending the AD Schema for Configuration Manager R2]]></video:title>
+        <video:description><![CDATA[Examine the default capabilities of Role-Based Administration in a Configuration Manager 2012 R2-based device management environment, and begin the process of delegating administration to desktop and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3bd9/90a5fbb1-0c86-42ec-8904-528dcf603bd9/Mod2_mid.mp4</video:content_loc>
+        <video:duration>973</video:duration>
+        <video:publication_date>2014-09-25T17:32:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

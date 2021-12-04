@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Para-Todos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Para-Todos/Trabajando-con-Portable-Class-Libraries</loc>
+      <lastmod>2016-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e54a/9b4e44d9-2a0f-47b7-a9a2-4b1330c6e54a/xamarinpcl_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Trabajando con Portable Class Libraries]]></video:title>
+        <video:description><![CDATA[En este Video Raul Guerra nos da una introducci&#243;n al uso de las Portable Class Libraries con Xamarin. Hablar&#225; de las ventajas que conlleva trabajar con ellas, as&#237; como las consideraciones que hay que&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e54a/9b4e44d9-2a0f-47b7-a9a2-4b1330c6e54a/xamarinpcl_mid.mp4</video:content_loc>
+        <video:duration>762</video:duration>
+        <video:publication_date>2016-07-06T21:06:59.7839768+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Para-Todos/Trabajando-con-WebServices-y-LocalData</loc>
+      <lastmod>2018-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f688/f0394c5b-e4fb-46e0-bdab-42774af5f688/webservicesylocalData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Trabajando con WebServices y LocalData]]></video:title>
+        <video:description><![CDATA[En este Video Keneth Murillo nos da una introducci&#243;n al uso de Servicios Web tipo REST y WCF desde una aplicaci&#243;n m&#243;vil, tambi&#233;n nos presenta como podemos habilitar el almacenamiento local a trav&#233;s de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f688/f0394c5b-e4fb-46e0-bdab-42774af5f688/webservicesylocalData_mid.mp4</video:content_loc>
+        <video:duration>1735</video:duration>
+        <video:publication_date>2016-07-06T20:53:02.4568317+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Para-Todos/Trabajando-con-Main-Controls-y-la-Interfaz-de-Usuario-UI</loc>
+      <lastmod>2016-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d71/0a513795-d1ae-46e1-b729-1b035ab89d71/maincontrolsui_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Trabajando con Main Controls y la Interfaz de Usuario (UI)]]></video:title>
+        <video:description><![CDATA[En este Video Raul Guerra ( @_raulguerra), technical evangelist de Guatemala, nos presentera como hacer uso de los Main Controls disponibles en Xamarin, asi como las consideraciones que Deben de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d71/0a513795-d1ae-46e1-b729-1b035ab89d71/maincontrolsui_mid.mp4</video:content_loc>
+        <video:duration>2115</video:duration>
+        <video:publication_date>2016-06-19T15:28:27.5546577+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Para-Todos/Introduccin-a-XamarinForms</loc>
+      <lastmod>2017-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/24e0/51037fd3-51a5-4cd1-980f-136b365924e0/video1IntroXamarinForms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[En este video Armando Nevares y Keneth Murillo Presentan una introducci&#243;n a Xamarin.Forms, este es el primer video nivel b&#225;sico de la serie Xamarin Para todos. En este primer video veremos las&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/24e0/51037fd3-51a5-4cd1-980f-136b365924e0/video1IntroXamarinForms_mid.mp4</video:content_loc>
+        <video:duration>1686</video:duration>
+        <video:publication_date>2016-06-15T23:11:20.4554644+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

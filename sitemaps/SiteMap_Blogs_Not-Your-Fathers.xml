@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Not-Your-Fathers</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Not-Your-Fathers/Not-your-father-s-hybridCloud</loc>
+      <lastmod>2014-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44e4/88bb250f-e0ec-4f9c-954c-ec18f23b44e4/notyourfathershybridcloud_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure&#39;s new Hybrid Connections - not your father&#39;s #hybridCloud]]></video:title>
+        <video:description><![CDATA[A one-off special that looks at the how Microsoft Azure&#39;s new Hybrid Connections feature, part of the Azure BizTalk Services suite, makes building hybrid applications easy. This is not your father&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44e4/88bb250f-e0ec-4f9c-954c-ec18f23b44e4/notyourfathershybridcloud_mid.mp4</video:content_loc>
+        <video:duration>831</video:duration>
+        <video:publication_date>2014-07-21T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

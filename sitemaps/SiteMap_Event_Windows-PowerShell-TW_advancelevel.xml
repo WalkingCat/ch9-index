@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/advancelevel</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/advancelevel/02</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a28a/9407a349-5a64-4c5b-b746-9eb8d472a28a/advanced02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell  ()]]></video:title>
+        <video:description><![CDATA[本課程將介紹以下內容： [00:07] - 遠端管理[19:30] - PowerShell 的 Sesson 連通能力[19:51] - 透過 PowerShell Web Access 存取[31:06] - WMI 與 CIM 介紹[35:58] - 使用 WMI/CIM 及 Demo 操作[53:15] - WMI 或 CMI?欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a28a/9407a349-5a64-4c5b-b746-9eb8d472a28a/advanced02_mid.mp4</video:content_loc>
+        <video:duration>3257</video:duration>
+        <video:publication_date>2015-12-10T03:49:47.5489951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/advancelevel/01</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5e0/3cda2dcd-9bdb-4d73-91db-e440bf67d5e0/advanced01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell  ()]]></video:title>
+        <video:description><![CDATA[本課程將介紹以下內容： [04:57] - PowerShell 背景工作[15:49] - PowerShell 排程工作[25:19] - PowerShell Workflow[48:03] - PowerShell Workflow 實作規範[55:00] - SecureString欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5e0/3cda2dcd-9bdb-4d73-91db-e440bf67d5e0/advanced01_mid.mp4</video:content_loc>
+        <video:duration>4531</video:duration>
+        <video:publication_date>2015-12-10T03:24:44.0990095+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

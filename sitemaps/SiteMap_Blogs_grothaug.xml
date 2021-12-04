@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/grothaug</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/grothaug/Nyheter-i-ASPNET-40</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/6/4/7/2/5/aspnet4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Nyheter i ASP.NET 4.0]]></video:title>
+        <video:description><![CDATA[Her er en video av Fredrik Kalseth som presenterer nyhetene i ASP.NET 4.0. En nyttig video &#229; f&#229; med seg for alle webutviklere som jobber med Microsofts webplattform.
+
+
+Fredrik jobber for Capgemini&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/6/4/7/2/5/aspnet4_ch9.mp4</video:content_loc>
+        <video:duration>3237</video:duration>
+        <video:publication_date>2010-02-11T20:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/grothaug/Anatomy-of-an-Agile-NET-project</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/4/1/7/2/5/AnatomyAgile_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Anatomy of an Agile .NET project]]></video:title>
+        <video:description><![CDATA[Fredrik Kalseth tar oss med inn i et smidig utviklingsprosjekt, og demonstrerer gevinstene som kan h&#248;stes av test-dreven utvikling, kontinuerlig integrasjon og andre viktige smidige&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/4/1/7/2/5/AnatomyAgile_ch9.mp4</video:content_loc>
+        <video:duration>3385</video:duration>
+        <video:publication_date>2010-02-10T20:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/UnityAndGaming</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/UnityAndGaming/Part1</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3558/90c1123a-2687-4285-b6eb-d44b10433558/UnityAndGamingP1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Part 1: Introduction to Code Kwondo/A Close Look at Unity for Windows 8 and Windows Phone]]></video:title>
+        <video:description><![CDATA[In part 1 of this developer dojo, Sensei Jonathan Rozenblit introduces Code Kwondo, the Developer Movement program launching November 2013. Code Sensei Mickey MacDonald then takes you on a close look&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3558/90c1123a-2687-4285-b6eb-d44b10433558/UnityAndGamingP1_mid.mp4</video:content_loc>
+        <video:duration>3005</video:duration>
+        <video:publication_date>2013-11-15T19:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/UnityAndGaming/Part2</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4db7/179124f1-2aa2-4a93-b193-16fa5c104db7/UnityAndGamingP2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Part 2: Unity to Visual Studio to Windows and Windows Phone Store]]></video:title>
+        <video:description><![CDATA[In part 2 of this developer dojo, Code Sensei Mickey MacDonald baffles Sensei Jonathan Rozenblit when he shows him and the viewers just how easy it is to go from Unity to Visual Studio to the Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4db7/179124f1-2aa2-4a93-b193-16fa5c104db7/UnityAndGamingP2_mid.mp4</video:content_loc>
+        <video:duration>1882</video:duration>
+        <video:publication_date>2013-11-15T19:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

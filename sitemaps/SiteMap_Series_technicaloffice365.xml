@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/technicaloffice365</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/technicaloffice365/Mdulo-5-Sincronizacin-de-Directorios-con-Active-Directory-Connect</loc>
+      <lastmod>2016-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e68b/a6d06cd7-b235-4a40-ad67-c31297e1e68b/aadconnect_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo 5: Sincronizaci&#243;n de Directorios con Active Directory Connect]]></video:title>
+        <video:description><![CDATA[Veremos r&#225;pidamente procedimientos para sincronizar del servicio de Azure AD Connect con nuestro active direcroty local. Y consideraciones a tener en cuenta. Para conocer mas revisar el siguiente&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e68b/a6d06cd7-b235-4a40-ad67-c31297e1e68b/aadconnect_mid.mp4</video:content_loc>
+        <video:duration>901</video:duration>
+        <video:publication_date>2016-10-14T19:52:54.6017177+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/technicaloffice365/Mdulo-2-Administracin-Office-365</loc>
+      <lastmod>2016-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3247/72aa35d5-87dd-4427-b435-350741873247/AdminOf_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo 2: Administraci&#243;n Office 365]]></video:title>
+        <video:description><![CDATA[En esta parte de introductoria, veremos  el panel de administraci&#243;n de Office 365 como podemos ubicar cada producto y personalizarlo. M&#243;dulo 1: Introducci&#243;n a Office 365M&#243;dulo 2: Administraci&#243;n Office&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3247/72aa35d5-87dd-4427-b435-350741873247/AdminOf_mid.mp4</video:content_loc>
+        <video:duration>318</video:duration>
+        <video:publication_date>2016-09-29T01:25:18.7418285+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/technicaloffice365/Introduccion-Office-365</loc>
+      <lastmod>2019-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d89/0759e3f6-c9ea-4bae-956c-75d6239d1d89/all_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo 1: Introducci&#243;n a Office 365]]></video:title>
+        <video:description><![CDATA[En esta parte introductoria, veremos que trata el servicio de Office 365 que productos nos ofrece, para tener en cuenta. M&#243;dulo 1: Introducci&#243;n a Office 365M&#243;dulo 2:  Administraci&#243;n Office 365M&#243;dulo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d89/0759e3f6-c9ea-4bae-956c-75d6239d1d89/all_mid.mp4</video:content_loc>
+        <video:duration>901</video:duration>
+        <video:publication_date>2016-09-29T01:20:38.6924963+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/technicaloffice365/Mdulo-3-Panel-de-Control-de-Exchange-Online</loc>
+      <lastmod>2016-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7068/af84956d-d22b-4008-8229-260747877068/PEX_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo 3: Panel de Control de Exchange Online]]></video:title>
+        <video:description><![CDATA[En esta parte de introductoria, veremos que servicios nos ofrece el Panel de Administrador de Exchange Online, para realizaci&#243;n de configuraci&#243;n de cada servicio paso a paso en el siguiente link ► EXO&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7068/af84956d-d22b-4008-8229-260747877068/PEX_mid.mp4</video:content_loc>
+        <video:duration>1418</video:duration>
+        <video:publication_date>2016-09-29T01:20:17.8193670+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

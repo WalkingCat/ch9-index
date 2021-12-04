@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/System-Center-Help-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/System-Center-Help-Videos/How-to-write-a-good-Curah-description</loc>
+      <lastmod>2014-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f21a/de0571b7-23ac-4619-a86b-c243cefdf21a/Curah04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to write a good Curah! description]]></video:title>
+        <video:description><![CDATA[The Curah! team reveals some helpful guidelines when writing the descriptions for your curations. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f21a/de0571b7-23ac-4619-a86b-c243cefdf21a/Curah04_mid.mp4</video:content_loc>
+        <video:duration>148</video:duration>
+        <video:publication_date>2014-05-13T23:28:30.4148850+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/System-Center-Help-Videos/How-to-write-a-good-Curah-title</loc>
+      <lastmod>2014-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95ae/2dcc9101-d102-4e59-91ab-3d4e9d0a95ae/Curah03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to write a good Curah! title]]></video:title>
+        <video:description><![CDATA[The Curah! team reveals some helpful guidelines when writing the titles for your curations. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95ae/2dcc9101-d102-4e59-91ab-3d4e9d0a95ae/Curah03_mid.mp4</video:content_loc>
+        <video:duration>124</video:duration>
+        <video:publication_date>2014-05-13T23:28:19.0095189+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/System-Center-Help-Videos/What-makes-a-good-curation-</loc>
+      <lastmod>2014-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ca0/a01f57ba-c624-42ca-a0b2-b937c79d5ca0/Curah02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What makes a good curation?]]></video:title>
+        <video:description><![CDATA[Here are a few tips from the Curah! team to help you create great curations. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ca0/a01f57ba-c624-42ca-a0b2-b937c79d5ca0/Curah02_mid.mp4</video:content_loc>
+        <video:duration>92</video:duration>
+        <video:publication_date>2014-05-01T19:46:54.8235643+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/System-Center-Help-Videos/Introduction-to-Curah-</loc>
+      <lastmod>2014-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a155/2ab23ebe-b566-4dfa-a3da-d935748ea155/Curah01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Curah!]]></video:title>
+        <video:description><![CDATA[Searching for great technical information is tough – as is finding the right place to contribute and show off great content. The new content service Curah! makes those tasks much easier. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a155/2ab23ebe-b566-4dfa-a3da-d935748ea155/Curah01_mid.mp4</video:content_loc>
+        <video:duration>77</video:duration>
+        <video:publication_date>2014-05-01T19:43:58.8637678+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/System-Center-Help-Videos/Quickly-create-multiple-Hyper-V-hosts-in-Virtual-Machine-Manager</loc>
+      <lastmod>2014-05-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f3d7/d1c3dcc9-c323-45fc-89a9-7aa8d20ef3d7/CreateMultipleHyperVHosts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quickly create multiple Hyper-V hosts in Virtual Machine Manager]]></video:title>
+        <video:description><![CDATA[Virtual Machine Manager lets you quickly create Hyper-V host by using physical computer profiles. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3d7/d1c3dcc9-c323-45fc-89a9-7aa8d20ef3d7/CreateMultipleHyperVHosts_mid.mp4</video:content_loc>
+        <video:duration>130</video:duration>
+        <video:publication_date>2014-02-06T20:58:35.1834435+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

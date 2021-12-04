@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/4-Evento-Power-BI-Users-Group</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/4-Evento-Power-BI-Users-Group/Power-BI-Parte-2</loc>
+      <lastmod>2018-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb78/7e918018-329e-4306-8aa3-f269e42ffb78/BI2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI - Parte 2]]></video:title>
+        <video:description><![CDATA[4 evento powe BI - Parte 2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb78/7e918018-329e-4306-8aa3-f269e42ffb78/BI2_mid.mp4</video:content_loc>
+        <video:duration>5417</video:duration>
+        <video:publication_date>2017-04-20T15:26:11.9297544+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/4-Evento-Power-BI-Users-Group/Power-BI-parte-1</loc>
+      <lastmod>2018-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d9a/7e858395-c916-4003-9e7e-1980bcc63d9a/BI1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI parte 1]]></video:title>
+        <video:description><![CDATA[4&#186; evento power BI ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d9a/7e858395-c916-4003-9e7e-1980bcc63d9a/BI1_mid.mp4</video:content_loc>
+        <video:duration>7696</video:duration>
+        <video:publication_date>2017-04-20T15:25:47.2390876+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

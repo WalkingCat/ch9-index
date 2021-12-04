@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers/04</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1974/b7812588-d855-4356-bf8e-b13cc3ec1974/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Tips &amp; tricks of building elastic Node.JS application in Azure and optimizing its performance]]></video:title>
+        <video:description><![CDATA[In the first part of this session we will talk about recommended Azure practices, as well as patterns of development of elastic and scalable applications using Node.JS. In the second part, we will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1974/b7812588-d855-4356-bf8e-b13cc3ec1974/04.mp4</video:content_loc>
+        <video:duration>2863</video:duration>
+        <video:publication_date>2015-12-28T16:28:07.9659080+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers/03</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8d3/46f3fff7-0b15-4a17-b144-b8789af4b8d3/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Deployment of Node.JS app on Azure]]></video:title>
+        <video:description><![CDATA[During this demo we&#39;ll deep dive into existing ways of how to deploy Node.Js application on Azure Web Apps. We will consider all available ways to publish it and discuss their advantages and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8d3/46f3fff7-0b15-4a17-b144-b8789af4b8d3/03_mid.mp4</video:content_loc>
+        <video:duration>3397</video:duration>
+        <video:publication_date>2015-12-28T16:28:05.3863614+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers/02</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4009/acf63bc1-80e1-4056-ac8c-5faaaa124009/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Storage and database options in Azure for Node.JS app]]></video:title>
+        <video:description><![CDATA[In this session we will talk about Azure services available for data storage. We will look into relational data services, unstructured binary data storage services (like images, audio, video, etc.),&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4009/acf63bc1-80e1-4056-ac8c-5faaaa124009/02_mid.mp4</video:content_loc>
+        <video:duration>3545</video:duration>
+        <video:publication_date>2015-12-28T16:28:04.7218320+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers/01</loc>
+      <lastmod>2017-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/257c/bb6e15a4-fcd0-475f-a8fc-5fe9b5c1257c/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Azure overview for Node.JS developers]]></video:title>
+        <video:description><![CDATA[During this module, we will look at Azure services that are interesting to Node.JS developers. We&#39;ll talk about different ways to deploy our application in the cloud, as well as what benefits they&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/257c/bb6e15a4-fcd0-475f-a8fc-5fe9b5c1257c/01_mid.mp4</video:content_loc>
+        <video:duration>3639</video:duration>
+        <video:publication_date>2015-12-28T16:28:02.2369456+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

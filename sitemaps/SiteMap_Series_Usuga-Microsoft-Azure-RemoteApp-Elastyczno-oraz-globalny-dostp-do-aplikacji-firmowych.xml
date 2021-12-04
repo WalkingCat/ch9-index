@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Usuga-Microsoft-Azure-RemoteApp-Elastyczno-oraz-globalny-dostp-do-aplikacji-firmowych</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Usuga-Microsoft-Azure-RemoteApp-Elastyczno-oraz-globalny-dostp-do-aplikacji-firmowych/04-Azure-RemoteApp-w-praktyce--zarzdzanie-kolekcjami-aplikacji</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb9e/1bfe8ccd-4781-4766-92e1-67b3ebc8cb9e/zarzadzanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Azure RemoteApp w praktyce  zarzdzanie kolekcjami aplikacji]]></video:title>
+        <video:description><![CDATA[AzureApp z perspektywy administratora rozwiązania, czyli jak konfigurować opcje dotyczące usług i na co należy zwr&#243;cić uwagę udostępniając aplikacje w modelu usług zdalnych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb9e/1bfe8ccd-4781-4766-92e1-67b3ebc8cb9e/zarzadzanie_mid.mp4</video:content_loc>
+        <video:duration>845</video:duration>
+        <video:publication_date>2015-04-16T07:00:10.6836439+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Usuga-Microsoft-Azure-RemoteApp-Elastyczno-oraz-globalny-dostp-do-aplikacji-firmowych/03-Azure-RemoteApp-w-praktyce--dostp-uytkownikw</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a9d/cadb70b8-efb3-4c21-a35e-b6d4b6398a9d/dostepuzytkownika_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Azure RemoteApp w praktyce  dostp uytkownik&#243;w]]></video:title>
+        <video:description><![CDATA[Azure RemoteApp okiem użytkownika, czyli jak użytkownicy korzystają z rozwiązania i co powinni wiedzieć o sposobie dostępu do usługi. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a9d/cadb70b8-efb3-4c21-a35e-b6d4b6398a9d/dostepuzytkownika_mid.mp4</video:content_loc>
+        <video:duration>549</video:duration>
+        <video:publication_date>2015-04-16T07:00:03.0556354+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Usuga-Microsoft-Azure-RemoteApp-Elastyczno-oraz-globalny-dostp-do-aplikacji-firmowych/02-Azure-RemoteApp-Licencjonowanie-i-koszty</loc>
+      <lastmod>2015-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b703/92d237b9-d1fe-41eb-9f86-ff7b2e2db703/licencjonowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Azure RemoteApp-Licencjonowanie i koszty]]></video:title>
+        <video:description><![CDATA[Moduł obejmuje om&#243;wienie modelu rozliczania usługi RemoteApp dla platformie Microsoft Azure oraz porusza gł&#243;wne aspekty związane z licencjonowaniem środowiska i udostępnianych aplikacji. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b703/92d237b9-d1fe-41eb-9f86-ff7b2e2db703/licencjonowanie_mid.mp4</video:content_loc>
+        <video:duration>789</video:duration>
+        <video:publication_date>2015-04-16T06:59:55.1570134+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Usuga-Microsoft-Azure-RemoteApp-Elastyczno-oraz-globalny-dostp-do-aplikacji-firmowych/01-Dostp-zdalny--dzisiejsze-wyzwania-i-potrzeby</loc>
+      <lastmod>2015-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d54c/b595b366-40ef-4aac-8638-339f4f63d54c/dostep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Dostp zdalny  dzisiejsze wyzwania i potrzeby]]></video:title>
+        <video:description><![CDATA[Moduł wprowadzający do zagadnień wirtualizacji aplikacji i udostępniania ich w modelu usług zdalnych. Moduł podzielony na 3 części oraz og&#243;lne demo rozwiązania: Lekcja 1: Rozwiązania dostępu zdalnego,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d54c/b595b366-40ef-4aac-8638-339f4f63d54c/dostep_mid.mp4</video:content_loc>
+        <video:duration>1625</video:duration>
+        <video:publication_date>2015-04-16T06:59:46.2979046+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Services-fr-Schler-und-Studenten</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Services-fr-Schler-und-Studenten/05-MySQL-Datenbanken</loc>
+      <lastmod>2015-08-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/122d/d7e9e1b3-b8b4-4fdf-8489-9aa9a1e3122d/MVAAzureForStudent05MySQL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 MySQL Datenbanken]]></video:title>
+        <video:description><![CDATA[Im letzten Modul schauen wir uns an, wie man eine MySQL Datenbank &#252;ber Microsoft Azure bereitstellt. Diese kostenfreie Datenbank k&#246;nnen wir f&#252;r die Datenhaltung in unseren Web- und Serveranwendungen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/122d/d7e9e1b3-b8b4-4fdf-8489-9aa9a1e3122d/MVAAzureForStudent05MySQL_mid.mp4</video:content_loc>
+        <video:duration>395</video:duration>
+        <video:publication_date>2015-08-19T15:24:35.0796185+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Services-fr-Schler-und-Studenten/04-Application-Insights</loc>
+      <lastmod>2015-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fbb2/21d6fbcc-6e1f-4f03-8ec2-d4945ba2fbb2/MVACloudForStudents04ApplicationInsights_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Application Insights]]></video:title>
+        <video:description><![CDATA[In diesem Modul schauen wir uns Application Insights an. Mit Application Insights k&#246;nnen wir unsere Web- und Mobile Apps &#252;berwachen und statistische Daten &#252;ber die Nutzung sowie &#252;ber konkrete Fehler&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbb2/21d6fbcc-6e1f-4f03-8ec2-d4945ba2fbb2/MVACloudForStudents04ApplicationInsights_mid.mp4</video:content_loc>
+        <video:duration>476</video:duration>
+        <video:publication_date>2015-08-19T15:24:24.1540587+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Services-fr-Schler-und-Studenten/03-Web-Apps</loc>
+      <lastmod>2015-08-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afe6/1cd011eb-cab2-48ab-b8fc-ddd9b3e6afe6/MVAAzureForStudent03WebApps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Web Apps]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die Azure Web Apps vorgestellt. Es wird eine Hostingumgebung angelegt und das im ersten Modul erstellt Projekt in der Cloud ver&#246;ffentlicht. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afe6/1cd011eb-cab2-48ab-b8fc-ddd9b3e6afe6/MVAAzureForStudent03WebApps_mid.mp4</video:content_loc>
+        <video:duration>1088</video:duration>
+        <video:publication_date>2015-08-19T15:24:13.5976848+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Services-fr-Schler-und-Studenten/02-Team-Projects</loc>
+      <lastmod>2015-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7df6/7989be0e-c777-43f6-8c96-0eb0dcf77df6/MVACloudForStudents02TeamProjects_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Team Projects]]></video:title>
+        <video:description><![CDATA[Im zweiten Modul werden die Team Projects im Rahmen von Visual Studio Online vorgestellt. Es wird ein neues Projekt in Visual Studio erstellt, der Quellcodeverwaltung hinzugef&#252;gt und erste Aufgaben&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7df6/7989be0e-c777-43f6-8c96-0eb0dcf77df6/MVACloudForStudents02TeamProjects_mid.mp4</video:content_loc>
+        <video:duration>850</video:duration>
+        <video:publication_date>2015-08-19T15:24:02.5038600+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Services-fr-Schler-und-Studenten/01-Einfhrung-und-Anmeldung</loc>
+      <lastmod>2015-08-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5012/bf50626b-30cd-446c-8bc9-a81839275012/MVAAzureForStudent01SignUp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Einf&#252;hrung und Anmeldung]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die Azure Leistungen in DreamSpark vorgestellt und die Aktivierung erl&#228;utert. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5012/bf50626b-30cd-446c-8bc9-a81839275012/MVAAzureForStudent01SignUp_mid.mp4</video:content_loc>
+        <video:duration>729</video:duration>
+        <video:publication_date>2015-08-19T15:23:45.6741838+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

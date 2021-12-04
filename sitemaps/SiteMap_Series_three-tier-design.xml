@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/three-tier-design</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/three-tier-design/jumpstart</loc>
+      <lastmod>2016-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/73fe/c5bd7227-8ffe-417b-8cf4-db210ecf73fe/Clark01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[本課程將分為四大區塊授課說明。 1. 三層式架構定義2. 三層式架構應用3. 三層式架構分析4. 三層式架構設計 欲下載投影片請點這裡。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/73fe/c5bd7227-8ffe-417b-8cf4-db210ecf73fe/Clark01_mid.mp4</video:content_loc>
+        <video:duration>3123</video:duration>
+        <video:publication_date>2016-06-23T06:39:56.6225291+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

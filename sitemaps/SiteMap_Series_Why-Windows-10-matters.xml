@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Why-Windows-10-matters</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Why-Windows-10-matters/Why-Windows-10-matters</loc>
+      <lastmod>2020-09-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e1b/221cba6b-4185-47d2-95ac-26e4086f5e1b/WhyWindows10Matters_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why Windows 10 matters]]></video:title>
+        <video:description><![CDATA[Brief outline of the new feature which make Windows 10 special – notably it&#39;s converged operating system and application platform. We also highlight it&#39;s new security features, new Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e1b/221cba6b-4185-47d2-95ac-26e4086f5e1b/WhyWindows10Matters_mid.mp4</video:content_loc>
+        <video:duration>775</video:duration>
+        <video:publication_date>2016-03-15T07:08:15.2040460+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

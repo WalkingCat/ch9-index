@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc016</loc>
+      <lastmod>2016-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7a7f/ec60d770-0b4b-46ff-8245-ea029d767a7f/gc016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[16: Cognitive Services - Speech to Text]]></video:title>
+        <video:description><![CDATA[Microsoft Cognitive Services is a set of APIs built on Machine Learning and exposed as REST Web Services. The Speech API offers a way to listen to speech and convert it into text.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7a7f/ec60d770-0b4b-46ff-8245-ea029d767a7f/gc016_mid.mp4</video:content_loc>
+        <video:duration>400</video:duration>
+        <video:publication_date>2016-04-03T23:58:22.4765225+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc015</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd7f/983dfdcd-20fb-40a2-8924-ace4a047dd7f/gc015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[15: Cognitive Services - Emotion API]]></video:title>
+        <video:description><![CDATA[Microsoft Cognitive Services is a set of APIs based on Machine Learning and exposed as REST web services. The Emotion API analyzes pictures of faces and determines the emotion shown in each face.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd7f/983dfdcd-20fb-40a2-8924-ace4a047dd7f/gc015_mid.mp4</video:content_loc>
+        <video:duration>920</video:duration>
+        <video:publication_date>2016-04-03T23:58:15.0063827+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc014</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2863/9914be7f-7c56-4495-b59f-8244152c2863/gc014_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[14: Cognitive Services - Thumbnail Generation]]></video:title>
+        <video:description><![CDATA[Cognitive Services exposes an API to intelligently generate thumbnail images while keeping the subject in frame, despite cropping.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2863/9914be7f-7c56-4495-b59f-8244152c2863/gc014_mid.mp4</video:content_loc>
+        <video:duration>610</video:duration>
+        <video:publication_date>2016-04-03T23:58:07.3184053+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc013</loc>
+      <lastmod>2016-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0476/1c67d5a1-ee71-4bb8-b207-77e272460476/gc013_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[13: Cognitive Services - Optical Character Recognition]]></video:title>
+        <video:description><![CDATA[Microsoft Cognitive Services uses Machine Learning to recognize text within pictures and exposes this functionality via a RESTful Web Service.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0476/1c67d5a1-ee71-4bb8-b207-77e272460476/gc013_mid.mp4</video:content_loc>
+        <video:duration>594</video:duration>
+        <video:publication_date>2016-04-03T23:57:57.8932221+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc012</loc>
+      <lastmod>2018-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8a1/68c4a33a-7790-4fe0-9882-61cdf8b8b8a1/gc012_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[12: Cognitive Services - Face API]]></video:title>
+        <video:description><![CDATA[Learn how to use the Microsoft Cognitive Services Face API to recognize faces and the properties of faces within image. This API is based on Machine Learning. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8a1/68c4a33a-7790-4fe0-9882-61cdf8b8b8a1/gc012_mid.mp4</video:content_loc>
+        <video:duration>847</video:duration>
+        <video:publication_date>2016-04-03T23:57:47.9896397+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc011</loc>
+      <lastmod>2017-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d3d/d55f2bbd-c449-4870-9715-4738fc3d9d3d/gc011_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[11: Microsoft Cognitive Services Overview]]></video:title>
+        <video:description><![CDATA[Microsoft Cognitive Services (formerly Project Oxford) provides a set of APIs for analyzing images, video, speech, and language. Learn how to get started and start developing against these APIs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d3d/d55f2bbd-c449-4870-9715-4738fc3d9d3d/gc011_mid.mp4</video:content_loc>
+        <video:duration>554</video:duration>
+        <video:publication_date>2016-04-03T23:57:37.0387628+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc010</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0041/f63352ce-9625-4d9e-bb34-bfc0c99c0041/gc010_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10: Creating an Azure Web App]]></video:title>
+        <video:description><![CDATA[In this screencast, you will learn 3 different ways to create an Azure Web App using the Azure Management Portal. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0041/f63352ce-9625-4d9e-bb34-bfc0c99c0041/gc010_mid.mp4</video:content_loc>
+        <video:duration>670</video:duration>
+        <video:publication_date>2015-10-16T17:22:32.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc009</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8631/7b5b5f42-d70e-43b0-a92d-fab89f738631/gc009_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[9: Creating an Azure Virtual Machine]]></video:title>
+        <video:description><![CDATA[In this screencast, we show how to create a new Virtual Machine in the Windows Azure portal. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8631/7b5b5f42-d70e-43b0-a92d-fab89f738631/gc009_mid.mp4</video:content_loc>
+        <video:duration>545</video:duration>
+        <video:publication_date>2015-10-15T16:54:54.1134742+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc008</loc>
+      <lastmod>2015-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b23/99385a87-066b-4f9a-8bbd-fc8d440e9b23/gc008_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[8: Creating an Azure Storage Account]]></video:title>
+        <video:description><![CDATA[This screencast will show you how to create a new Azure storage account and do basic management of that account, including creating new blobs, queues, and tables. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b23/99385a87-066b-4f9a-8bbd-fc8d440e9b23/gc008_mid.mp4</video:content_loc>
+        <video:duration>612</video:duration>
+        <video:publication_date>2015-09-10T15:12:47.9967686+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc007</loc>
+      <lastmod>2017-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a79/08ccde40-26df-4266-b763-5a60aae78a79/gc007_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[7: Azure Storage Replication]]></video:title>
+        <video:description><![CDATA[Azure storage includes built-in redundancy by default. In this screencast, I explain the Replication options that allow you to configure how many copies of your data are created, where they are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a79/08ccde40-26df-4266-b763-5a60aae78a79/gc007_mid.mp4</video:content_loc>
+        <video:duration>382</video:duration>
+        <video:publication_date>2015-09-10T12:56:12.8178225+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc006</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/862c/0712287a-9af2-41e4-a2eb-7d4cda7d862c/gc006_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[6: Deploying an Azure Web App from Git]]></video:title>
+        <video:description><![CDATA[Learn how to deploy to an Azure web app from a local Git repository. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/862c/0712287a-9af2-41e4-a2eb-7d4cda7d862c/gc006_mid.mp4</video:content_loc>
+        <video:duration>594</video:duration>
+        <video:publication_date>2015-08-16T13:13:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc005</loc>
+      <lastmod>2017-10-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/08c9/deeaa3de-1d0f-4505-a224-8a97dd4c08c9/gcast005_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5: Features of Microsoft Edge]]></video:title>
+        <video:description><![CDATA[Microsoft Edge is a brand new browser shipping with Windows 10. In this video, I walk through the important new features of interest to users of Edge.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/08c9/deeaa3de-1d0f-4505-a224-8a97dd4c08c9/gcast005_mid.mp4</video:content_loc>
+        <video:duration>506</video:duration>
+        <video:publication_date>2015-08-16T13:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc004</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be6f/08123264-80cd-4caa-bd60-ba693999be6f/gc004_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4: Azure Mobile Services, Part 4: Adding your own table to a service]]></video:title>
+        <video:description><![CDATA[In this screencast, you will learn how to create your own table linked to an Azure Mobile Service and manage the data in this table from a client Windows or Windows Phone application.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be6f/08123264-80cd-4caa-bd60-ba693999be6f/gc004_mid.mp4</video:content_loc>
+        <video:duration>535</video:duration>
+        <video:publication_date>2015-08-16T13:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc003</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b42/182ce6ec-0eac-4fa5-ac2e-b293eddd2b42/gc003_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3: Azure Mobile Services, Part 3: Implementing Single Sign-On]]></video:title>
+        <video:description><![CDATA[In this screencast, you will learn how to turn on authorization in an Azure Mobile Service and allow users to log in with their Twitter account.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b42/182ce6ec-0eac-4fa5-ac2e-b293eddd2b42/gc003_mid.mp4</video:content_loc>
+        <video:duration>1359</video:duration>
+        <video:publication_date>2015-08-16T13:09:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/gc002</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05e5/f396c84e-fee6-4b76-a400-3aa4a4d305e5/gc002_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2: Azure Mobile Services, Part 2: Creating the Sample Table and Client]]></video:title>
+        <video:description><![CDATA[In this video, you will see how to use the portal to quickly create a table linked to an Azure Mobile Service and a Windows Universal App client that connects to that mobile service.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05e5/f396c84e-fee6-4b76-a400-3aa4a4d305e5/gc002_mid.mp4</video:content_loc>
+        <video:duration>1359</video:duration>
+        <video:publication_date>2015-08-16T13:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/gcast/GC001</loc>
+      <lastmod>2017-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c3e/092cec69-52ba-449b-9a07-767c9cea8c3e/gc001_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1: Azure Mobile Services, Part 1: Creating a Mobile Service]]></video:title>
+        <video:description><![CDATA[This video describes the basics of Azure Mobile Services and walks you through creating a new Mobile Service with a JavaScript backend. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c3e/092cec69-52ba-449b-9a07-767c9cea8c3e/gc001_mid.mp4</video:content_loc>
+        <video:duration>619</video:duration>
+        <video:publication_date>2015-08-16T13:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

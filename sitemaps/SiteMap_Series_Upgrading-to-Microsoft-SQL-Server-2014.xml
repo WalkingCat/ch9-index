@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/07</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d73e/e057e851-4891-4eab-8dc1-2350cfc8d73e/587UpgradingToSQLServer2014M07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (07) Upgrading BI Tools and SQL Server Reporting Services]]></video:title>
+        <video:description><![CDATA[Learn what&#39;s new in the latest versions of the BI Tools and SQL Server Reporting Services. Look at upgrade versus migration strategies, special considerations for upgrading to 2014, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d73e/e057e851-4891-4eab-8dc1-2350cfc8d73e/587UpgradingToSQLServer2014M07_mid.mp4</video:content_loc>
+        <video:duration>2190</video:duration>
+        <video:publication_date>2015-03-02T21:57:28.2110392+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/06</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5cc/60f63794-729d-449b-a8a2-271e5180c5cc/587UpgradingToSQLServer2014M06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (06) Upgrading SSAS - Multidimensional and Tabular Models]]></video:title>
+        <video:description><![CDATA[Find out what&#39;s new in the latest versions of SQL Server Analysis Services, the benefits of upgrade versus migration strategies, and how to prepare for and upgrade both multidimensional and tabular&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5cc/60f63794-729d-449b-a8a2-271e5180c5cc/587UpgradingToSQLServer2014M06_mid.mp4</video:content_loc>
+        <video:duration>2492</video:duration>
+        <video:publication_date>2015-03-02T21:57:18.1228748+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/51af/fc5298a3-0647-412d-81ea-b6f6c64f51af/587UpgradingToSQLServer2014M05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (05) Upgrading SQL Server Integration Services (SSIS)]]></video:title>
+        <video:description><![CDATA[Explore what&#39;s new in the latest versions of SQL Server Integration Services (SSIS), various SSIS upgrade scenarios, and tools for upgrading SSIS projects and packages. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/51af/fc5298a3-0647-412d-81ea-b6f6c64f51af/587UpgradingToSQLServer2014M05_mid.mp4</video:content_loc>
+        <video:duration>2708</video:duration>
+        <video:publication_date>2015-03-02T21:56:44.8037882+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3014/6e686033-e788-40a8-97b9-5c689fe23014/587UpgradingToSQLServer2014M04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (04) Upgrading SQL Server High Availability (HA) Environments]]></video:title>
+        <video:description><![CDATA[Review high availability (HA) options in prior versions, including Log Shipping, Mirroring, Failover Clustering, and Replication. Examine upgrade versus migration strategies, and look at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3014/6e686033-e788-40a8-97b9-5c689fe23014/587UpgradingToSQLServer2014M04_mid.mp4</video:content_loc>
+        <video:duration>3091</video:duration>
+        <video:publication_date>2015-03-02T21:56:35.2461919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/03</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cff6/868137fa-3ceb-451e-977b-ebf8cf45cff6/587UpgradingToSQLServer2014M03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (03) Performing and Validating a SQL Server Upgrade]]></video:title>
+        <video:description><![CDATA[Learn about validating your upgraded SQL Server environment, including the options for side-by-side and in-place upgrades. Look at approaches such as mirroring, log shipping, backup and restore, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cff6/868137fa-3ceb-451e-977b-ebf8cf45cff6/587UpgradingToSQLServer2014M03_mid.mp4</video:content_loc>
+        <video:duration>2178</video:duration>
+        <video:publication_date>2014-11-15T18:08:34.5821155+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c7b/e91af932-28bd-450d-bafc-9a8245630c7b/587UpgradingToSQLServer2014M02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (02) Planning Your Upgraded SQL Server Environment]]></video:title>
+        <video:description><![CDATA[Find out what to look for and how to capture data on a pre-upgrade environment, and interpret the data to scale a new environment. Get details on address design for SQL Server on-premises and in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c7b/e91af932-28bd-450d-bafc-9a8245630c7b/587UpgradingToSQLServer2014M02_mid.mp4</video:content_loc>
+        <video:duration>3318</video:duration>
+        <video:publication_date>2014-11-15T18:07:57.0940530+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Upgrading-to-Microsoft-SQL-Server-2014/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b14c/de865e53-1a70-4eb7-8829-68d40ac7b14c/587UpgradingToSQLServer2014M01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upgrading to Microsoft SQL Server 2014: (01) SQL Server Upgrade Planning, Process, and Tools]]></video:title>
+        <video:description><![CDATA[Explore how business requirements help drive an upgrade approach. Learn about the free tooling that is available for SQL Server environment analysis, and take a look at the upgrade paths for different&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b14c/de865e53-1a70-4eb7-8829-68d40ac7b14c/587UpgradingToSQLServer2014M01_mid.mp4</video:content_loc>
+        <video:duration>2748</video:duration>
+        <video:publication_date>2014-11-15T18:07:33.7530128+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

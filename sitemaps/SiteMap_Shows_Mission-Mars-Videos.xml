@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Mission-Mars-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Mission-Mars-Videos/Azure-IoT-Hubs-Intro</loc>
+      <lastmod>2017-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a901/6e1d3b82-9875-4e9b-a8c0-3936f8eba901/MissionMarsAzureIoTHubsntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure IoT Hubs Intro]]></video:title>
+        <video:description><![CDATA[Mission Mars - Azure IoT Hub Intro ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a901/6e1d3b82-9875-4e9b-a8c0-3936f8eba901/MissionMarsAzureIoTHubsntro_mid.mp4</video:content_loc>
+        <video:duration>26</video:duration>
+        <video:publication_date>2017-06-15T15:33:13.0920951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Mission-Mars-Videos/Azure-Functions-Intro</loc>
+      <lastmod>2017-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c017/7032b992-fd23-4822-ace9-bbfd5612c017/MissionMarsAzureFunctionsIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Functions Intro]]></video:title>
+        <video:description><![CDATA[Mission Mars - Azure Functions Intro ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c017/7032b992-fd23-4822-ace9-bbfd5612c017/MissionMarsAzureFunctionsIntro_mid.mp4</video:content_loc>
+        <video:duration>24</video:duration>
+        <video:publication_date>2017-06-15T15:33:06.4409695+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Mission-Mars-Videos/Cognitive-Services-Intro</loc>
+      <lastmod>2018-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c73f/98f162fc-f3cf-4dee-9f3b-5e9df9f7c73f/MissionMarsCognitiveServicesIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cognitive Services Intro]]></video:title>
+        <video:description><![CDATA[Mission Mars - Cognitive Services Intro ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c73f/98f162fc-f3cf-4dee-9f3b-5e9df9f7c73f/MissionMarsCognitiveServicesIntro_mid.mp4</video:content_loc>
+        <video:duration>29</video:duration>
+        <video:publication_date>2017-06-15T15:32:35.3652781+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

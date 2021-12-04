@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/MICROSOFT-ONE-SECURITY-DAY</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/MICROSOFT-ONE-SECURITY-DAY/Parte-2</loc>
+      <lastmod>2019-11-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/17d2/e043649d-f389-42f0-b5e9-75182f1917d2/Parte2SecDay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parte 2]]></video:title>
+        <video:description><![CDATA[Prevent, detect and respond to threats on your Azure workload - Gilad Elyashar, Principal Program Manager, Azure Security CenterHybrid environments demand a new approach to infrastructure security  -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/17d2/e043649d-f389-42f0-b5e9-75182f1917d2/Parte2SecDay_mid.mp4</video:content_loc>
+        <video:duration>7121</video:duration>
+        <video:publication_date>2016-09-26T17:27:47.4433322+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/MICROSOFT-ONE-SECURITY-DAY/Parte-1</loc>
+      <lastmod>2016-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b75b/ec60a91e-93f2-421d-b6bd-59cebd00b75b/Parte1SecDay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parte 1]]></video:title>
+        <video:description><![CDATA[Welcome   - MS Spain hostMicrosoft Security Strategy  - Yoram Yaacovi, GM Engineering, Microsoft Cloud &amp;amp; Enterprise SecurityHow to protect your corporate from advanced attacks  - Benny Lakunishok,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b75b/ec60a91e-93f2-421d-b6bd-59cebd00b75b/Parte1SecDay_mid.mp4</video:content_loc>
+        <video:duration>5309</video:duration>
+        <video:publication_date>2016-09-26T17:27:44.0665442+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-1</loc>
+      <lastmod>2019-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d78/00dfb72d-652b-4061-bd17-5bc2d6a67d78/mod1azurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 1: Dan Plastina: Why RMS for Information Protection]]></video:title>
+        <video:description><![CDATA[Hear Simon&#39;s talk with Dan Plastina, who leads the Information Protection team at Microsoft. Simon asks him about the current and future state of Azure RMS and gets his advice to customers today. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d78/00dfb72d-652b-4061-bd17-5bc2d6a67d78/mod1azurerms_mid.mp4</video:content_loc>
+        <video:duration>1837</video:duration>
+        <video:publication_date>2015-08-28T21:43:12.3324463+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-2-Activating-Azure-RMS</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0f21/7bb35396-bc28-41ac-acef-c87cef3e0f21/mod2azurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 2: Activating Azure RMS]]></video:title>
+        <video:description><![CDATA[Walk with Simon and Carol through the basics of how RMS works, including the popular Bring Your Own Device (BYOD) option. See a demo on how to activate Azure RMS, and learn to enable RMS for apps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f21/7bb35396-bc28-41ac-acef-c87cef3e0f21/mod2azurerms_mid.mp4</video:content_loc>
+        <video:duration>1455</video:duration>
+        <video:publication_date>2015-08-28T21:42:51.7361630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-3</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/74a1/5c87ca31-83b2-4542-9c52-a15e1afa74a1/mod3azurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 3: Protecting the Files Your Users Share]]></video:title>
+        <video:description><![CDATA[Go deeper into what can be protected and how (native versus generic), and see example workflows and use cases. Learn how the growing ecosystem is embracing RMS and how to protect your enterprise data. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/74a1/5c87ca31-83b2-4542-9c52-a15e1afa74a1/mod3azurerms_mid.mp4</video:content_loc>
+        <video:duration>1406</video:duration>
+        <video:publication_date>2015-08-28T21:42:15.9756944+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-4</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2d9/3f3d9ff2-f18f-4cd2-8fa7-8ae20c78e2d9/mod4azurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 4: Tracking and Revoking Usage of Protected Files]]></video:title>
+        <video:description><![CDATA[​Focus on the new document tracking feature for end users, and see why knowledge of use licenses is essential to understanding revocation. Explore info for admins about logging and reporting.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2d9/3f3d9ff2-f18f-4cd2-8fa7-8ae20c78e2d9/mod4azurerms_mid.mp4</video:content_loc>
+        <video:duration>1316</video:duration>
+        <video:publication_date>2015-08-28T21:41:55.0412002+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-5</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfce/ce670353-54d9-4cae-a5f0-f9f3961dcfce/mod5azurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 5: Building and Managing Templates]]></video:title>
+        <video:description><![CDATA[Examine the Azure RMS templates that make administering RMS easier for both admins and end users. Take a look at default templates, and see tips and tricks for creating your own templates. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfce/ce670353-54d9-4cae-a5f0-f9f3961dcfce/mod5azurerms_mid.mp4</video:content_loc>
+        <video:duration>1396</video:duration>
+        <video:publication_date>2015-08-28T21:41:37.2435729+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-6</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6142/3c88dcb9-3486-42bb-8dd3-0650a97e6142/mod6modazurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Mod 6: Integrating with On-Premises Services]]></video:title>
+        <video:description><![CDATA[Take a look at the RMS connector, which lets on-premises servers benefit from Azure RMS. Explore architecture and deployment steps; see a demo on configuring File Classification Infrastructure (FCI). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6142/3c88dcb9-3486-42bb-8dd3-0650a97e6142/mod6modazurerms_mid.mp4</video:content_loc>
+        <video:duration>1602</video:duration>
+        <video:publication_date>2015-08-28T21:40:58.6089445+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

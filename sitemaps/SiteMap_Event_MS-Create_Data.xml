@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Hands-on-Workshop-Intro-to-Serverless-SQL</loc>
+      <lastmod>2021-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2aec/e14fa49c-ec59-4e3c-8918-1dc630f12aec/MSCreateDataWorkshop_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hands-on Workshop: Intro to Serverless SQL]]></video:title>
+        <video:description><![CDATA[In this workshop with Simon and Adi, you&#39;ll learn about Data Analytics, SQL, and Data Visualization - most importantly, you will gain hands-on experience with running interactive queries using Azure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2aec/e14fa49c-ec59-4e3c-8918-1dc630f12aec/MSCreateDataWorkshop_mid.mp4</video:content_loc>
+        <video:duration>2839</video:duration>
+        <video:publication_date>2020-12-07T17:00:07.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Closing-Keynote-The-Journey-to-Modern-Warehousing</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6564/cd8eec9c-0355-4ec7-bb79-709443036564/MSCreateDataJourneyToModernWarehousing_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Closing Keynote: The Journey to Modern Warehousing]]></video:title>
+        <video:description><![CDATA[Saveen has seen Microsoft go on a wild Big Data journey to get to the technology shift that is Azure Synapse Analytics. Join Simon and Saveen as they talk through the journey to modern analytics and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6564/cd8eec9c-0355-4ec7-bb79-709443036564/MSCreateDataJourneyToModernWarehousing_mid.mp4</video:content_loc>
+        <video:duration>1160</video:duration>
+        <video:publication_date>2020-12-07T17:00:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Panel-Data-for-Good</loc>
+      <lastmod>2020-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e6af/de29cd0a-1d57-445b-a052-2af15c62e6af/MSCreateDataDataForGood_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Panel: Data for Good]]></video:title>
+        <video:description><![CDATA[Join four inspiring and accomplished leaders in the data space for this Data For Good panel. They share their perspectives about what good data is and how it relates to actually doing good. Take away&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e6af/de29cd0a-1d57-445b-a052-2af15c62e6af/MSCreateDataDataForGood_mid.mp4</video:content_loc>
+        <video:duration>1630</video:duration>
+        <video:publication_date>2020-12-07T17:00:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Using-SQL-with-Delta-Lake</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2844/9453fe59-2250-4d22-b1e0-d10f6c802844/MSCreateDataSQLDataLake_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using SQL with Delta Lake]]></video:title>
+        <video:description><![CDATA[Delta Lake is an open-source storage management system (storage layer) that brings ACID transactions and time travel to Apache Spark and big data workloads. The latest and greatest of Delta Lake 0.7.0&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2844/9453fe59-2250-4d22-b1e0-d10f6c802844/MSCreateDataSQLDataLake_mid.mp4</video:content_loc>
+        <video:duration>1309</video:duration>
+        <video:publication_date>2020-12-07T17:00:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Picking-the-Right-Distributed-Database</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/17ec/a8102e8a-257f-4d3b-bcea-1537263c17ec/MSCreateDataPickingTheRightDatabase_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Picking the Right Distributed Database]]></video:title>
+        <video:description><![CDATA[Databases are a critical part of any business. But, how do you pick the right one given the multitude of options at your disposal and new ones coming up quite frequently. Should you stick to good-old&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/17ec/a8102e8a-257f-4d3b-bcea-1537263c17ec/MSCreateDataPickingTheRightDatabase_mid.mp4</video:content_loc>
+        <video:duration>1221</video:duration>
+        <video:publication_date>2020-12-07T17:00:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Apache-Spark-and-Open-Source-Insights</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/092a/b2080d75-e3cf-4e57-a6ff-5e3a5024092a/MSCreateDataApacheSparkOpenSource_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Apache Spark and Open Source Insights]]></video:title>
+        <video:description><![CDATA[Development and Open Source continue to educate us when it comes to data. How has the changes in Big Data and AI impacted technology, and how will we use it? Holden and Cheryl share in this session&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/092a/b2080d75-e3cf-4e57-a6ff-5e3a5024092a/MSCreateDataApacheSparkOpenSource_mid.mp4</video:content_loc>
+        <video:duration>1106</video:duration>
+        <video:publication_date>2020-12-07T17:00:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/MS-Create/Data/Keynote-Driving-a-Data-culture-in-a-world-of-Remote-Everything</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/68d6/694c6544-5298-4e11-9781-ba07c56868d6/MSCreateDataKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote: Driving a Data culture in a world of Remote Everything]]></video:title>
+        <video:description><![CDATA[Welcome and Keynote In order to build an organizational data culture, yet do this with a remote workforce, BI needs to be woven into the fabric of the organization. Individuals have had to adapt to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/68d6/694c6544-5298-4e11-9781-ba07c56868d6/MSCreateDataKeynote_mid.mp4</video:content_loc>
+        <video:duration>1663</video:duration>
+        <video:publication_date>2020-12-07T17:00:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

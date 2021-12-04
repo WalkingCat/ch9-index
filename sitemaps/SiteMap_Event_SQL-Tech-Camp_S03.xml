@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S03</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S03/03</loc>
+      <lastmod>2016-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/076e/635480a9-2e8b-4f56-8c24-f0c83512076e/03_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows   SQL   ]]></video:title>
+        <video:description><![CDATA[Windows 성능모니터를 이용한 SQL 성능 분석 / SQL Server MVP 강성욱 성능 베이스 라인의 필요성윈도우 성능 모니터 설정하기SQL Server 프로파일러와 교차분석 설정주요 성능 카운터  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/076e/635480a9-2e8b-4f56-8c24-f0c83512076e/03_mid.mp4</video:content_loc>
+        <video:duration>2882</video:duration>
+        <video:publication_date>2016-02-11T07:55:24.6441412+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S03/01</loc>
+      <lastmod>2016-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c874/ac5c6dd4-d4a3-4030-8a2e-083853e5c874/01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern DW       (1)]]></video:title>
+        <video:description><![CDATA[Modern DW를 위한 확장성 있는 데이터 분석 솔루션 (1) / 한국마이크로소프트 한석진 부장 DW Today and TomorrowRedefining Scalability]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c874/ac5c6dd4-d4a3-4030-8a2e-083853e5c874/01_mid.mp4</video:content_loc>
+        <video:duration>1564</video:duration>
+        <video:publication_date>2016-02-11T04:41:03.4011663+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S03/02</loc>
+      <lastmod>2016-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dcac/86a69d3e-713a-4364-8806-020dd8d6dcac/02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern DW       (2)]]></video:title>
+        <video:description><![CDATA[Modern DW를 위한 확장성 있는 데이터 분석 솔루션 (2) / 한국마이크로소프트 이준규 부장 Data Warehouse PlatformAdvanced Integration  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dcac/86a69d3e-713a-4364-8806-020dd8d6dcac/02_mid.mp4</video:content_loc>
+        <video:duration>3914</video:duration>
+        <video:publication_date>2016-02-11T04:22:59.7925959+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

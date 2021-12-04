@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-It-Takes-an-Ecosystem-to-Build-a-Production-Application</loc>
+      <lastmod>2018-07-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/28ee/36230afa-8bea-4d0d-9568-595a918128ee/DockerCon16Gardler_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: It Takes an Ecosystem to Build a Production Application]]></video:title>
+        <video:description><![CDATA[Docker has made containerizing applications easy. This ease of use has given birth to a vibrant ecosystem of innovation. As more workloads become containerized and more tooling emerges from this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28ee/36230afa-8bea-4d0d-9568-595a918128ee/DockerCon16Gardler_mid.mp4</video:content_loc>
+        <video:duration>2548</video:duration>
+        <video:publication_date>2016-07-18T17:26:21.1414247+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Workflows-for-Dev-Debugging-and-Deploying-Containerized-Apps-by-Microsoft</loc>
+      <lastmod>2016-07-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfc1/2234f6bd-7d04-4ad1-943d-6cbf5beccfc1/DockerCon16Lasker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Workflows for Dev, Debugging and Deploying Containerized Apps by Microsoft]]></video:title>
+        <video:description><![CDATA[Steve Lasker, Program Manager at Microsoft delivers an all-demo session covering the container workflow. From the developers inner loop, CI/CD, to deployment in a container orchestration solution.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfc1/2234f6bd-7d04-4ad1-943d-6cbf5beccfc1/DockerCon16Lasker_mid.mp4</video:content_loc>
+        <video:duration>2705</video:duration>
+        <video:publication_date>2016-07-18T17:25:55.7721670+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Windows-Server-Docker-The-Internals-Behind-Bringing-Docker-Containers-to-Windows</loc>
+      <lastmod>2018-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/520a/75540f8b-35e6-4d04-8b1b-4d768859520a/DockerCon16TaylorBrown_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Windows Server &amp; Docker - The Internals Behind Bringing Docker &amp; Containers to Windows&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Docker leverages capabilities in Linux like namespaces and cgroups to enable containers and then builds tooling on top to enable users to build distributed apps. A common question is &amp;quot;What about&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/520a/75540f8b-35e6-4d04-8b1b-4d768859520a/DockerCon16TaylorBrown_mid.mp4</video:content_loc>
+        <video:duration>2715</video:duration>
+        <video:publication_date>2016-07-08T23:40:49.6063926+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Embracing-Community-with-Director-of-Developer-Relations-Mano-Marks</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb82/9218d3dd-adb8-4dc8-8ec0-aa59f92ceb82/DockerConManoFinal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Embracing Community with Director of Developer Relations, Mano Marks]]></video:title>
+        <video:description><![CDATA[DockerCon is the community and industry event for makers and operators &amp;#3;of next generation distributed apps built with containers. The two-and-a-half-day conference provides talks by practitioners,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb82/9218d3dd-adb8-4dc8-8ec0-aa59f92ceb82/DockerConManoFinal_mid.mp4</video:content_loc>
+        <video:duration>740</video:duration>
+        <video:publication_date>2016-07-08T23:14:34.3064697+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Keynote-Recap-with-Member-of-the-Technical-Staff-Patrick-Chanezon</loc>
+      <lastmod>2016-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5cd/580fd26a-8f47-41da-bc66-7ec41823d5cd/DockerConPatrickFinal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Keynote Recap with Member of the Technical Staff, Patrick Chanezon]]></video:title>
+        <video:description><![CDATA[DockerCon is the community and industry event for makers and operators &amp;#3;of next generation distributed apps built with containers. The two-and-a-half-day conference provides talks by practitioners,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5cd/580fd26a-8f47-41da-bc66-7ec41823d5cd/DockerConPatrickFinal_mid.mp4</video:content_loc>
+        <video:duration>1046</video:duration>
+        <video:publication_date>2016-07-08T23:14:16.1957619+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Container-Orchestration-with-Docker-Core-Runtime-Product-Lead-Mike-Goelzer</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2a5/bd9335fe-525b-4515-97ce-6450bce3a2a5/DockerConMikeFinal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Container Orchestration with Docker Core Runtime Product Lead, Mike Goelzer]]></video:title>
+        <video:description><![CDATA[DockerCon is the community and industry event for makers and operators &amp;#3;of next generation distributed apps built with containers. The two-and-a-half-day conference provides talks by practitioners,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2a5/bd9335fe-525b-4515-97ce-6450bce3a2a5/DockerConMikeFinal_mid.mp4</video:content_loc>
+        <video:duration>705</video:duration>
+        <video:publication_date>2016-07-08T23:13:57.4538284+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Microsoft--Docker-Integration-with-Product-Manager-Michael-Friis</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/286d/43254038-1ea0-40bc-86df-fcef1f35286d/DockerConMichaelFriis_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Microsoft &amp; Docker Integration with Product Manager, Michael Friis]]></video:title>
+        <video:description><![CDATA[DockerCon is the community and industry event for makers and operators &amp;#3;of next generation distributed apps built with containers. The two-and-a-half-day conference provides talks by practitioners,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/286d/43254038-1ea0-40bc-86df-fcef1f35286d/DockerConMichaelFriis_mid.mp4</video:content_loc>
+        <video:duration>513</video:duration>
+        <video:publication_date>2016-07-08T23:13:32.3049929+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-Introducing-the-Docker-Store-with-EVP-of-Strategic-Development-Marianna-Tessel</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ca4/21acfa9a-992c-413d-9d15-8d7544352ca4/DockerConMariannaFinal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: Introducing the Docker Store with EVP of Strategic Development, Marianna Tessel]]></video:title>
+        <video:description><![CDATA[DockerCon is the community and industry event for makers and operators &amp;#3;of next generation distributed apps built with containers. The two-and-a-half-day conference provides talks by practitioners,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ca4/21acfa9a-992c-413d-9d15-8d7544352ca4/DockerConMariannaFinal_mid.mp4</video:content_loc>
+        <video:duration>514</video:duration>
+        <video:publication_date>2016-07-08T23:12:52.9542371+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/DockerCon-16-The-Container-Landscape-with-Docker-COO-Scott-Johnston</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f300/194a469f-8b6c-431b-bd94-08c859e1f300/DockerConScottJohnston_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DockerCon 16: The Container Landscape with Docker COO, Scott Johnston]]></video:title>
+        <video:description><![CDATA[DockerCon is the community and industry event for makers and operators &amp;#3;of next generation distributed apps built with containers. The two-and-a-half-day conference provides talks by practitioners,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f300/194a469f-8b6c-431b-bd94-08c859e1f300/DockerConScottJohnston_mid.mp4</video:content_loc>
+        <video:duration>940</video:duration>
+        <video:publication_date>2016-07-08T23:12:30.4377278+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/How-to-Add-a-Windows-Server-as-a-Swarm-Node-Part-3</loc>
+      <lastmod>2017-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db53/25e61a44-0eda-465f-9244-ae81e154db53/DockerSwarmPart3Final_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Add a Windows Server as a Swarm Node - Part 3]]></video:title>
+        <video:description><![CDATA[In the third part of the Docker Swarm series, Dongluo Chen demonstrates how to add a Windows Server as a Swarm Node of a cluster. Find a topic: [00:01] Demo - How to create Windows Server Swarm&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db53/25e61a44-0eda-465f-9244-ae81e154db53/DockerSwarmPart3Final_mid.mp4</video:content_loc>
+        <video:duration>194</video:duration>
+        <video:publication_date>2016-07-07T21:02:51.7100162+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Docker-Swarm-Part-2</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/181d/43a3bb92-9b63-4586-9bd4-f326e438181d/DockerSwarmPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Add Windows Containers behind Docker Swarm Cluster - Part 2]]></video:title>
+        <video:description><![CDATA[In the second part of the Docker Swarm series, Dongluo Chen continues his demonstration and shows us how to provision containers on both Windows and Linux using Swarm. Find a topic: [00:19] How to add&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/181d/43a3bb92-9b63-4586-9bd4-f326e438181d/DockerSwarmPart2_mid.mp4</video:content_loc>
+        <video:duration>421</video:duration>
+        <video:publication_date>2016-06-24T00:26:50.5294234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Docker-Swarm-Part-1</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4e1/3eb379ae-fd59-46ae-9bd3-31717001d4e1/Docker1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Running Docker Swarm on Microsoft Azure - Part 1]]></video:title>
+        <video:description><![CDATA[In this episode of the Containers Channel, David Tesar, Technical Evangelist, is joined by Docker Core Team Engineer, Dongluo Chen, to discuss Docker Swarm clusters. Swarm is Docker&#39;s native&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4e1/3eb379ae-fd59-46ae-9bd3-31717001d4e1/Docker1_mid.mp4</video:content_loc>
+        <video:duration>324</video:duration>
+        <video:publication_date>2016-06-08T17:50:07.1269052+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Hyper-V-Containers-in-Windows-10</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b28/842a1d91-15a1-40a6-bc9d-3d8079313b28/ContainersWindows10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hyper-V Containers in Windows 10]]></video:title>
+        <video:description><![CDATA[With the latest flights of Windows 10, we are bringing Hyper-V Containers natively into Windows 10. Developers can use Hyper-V Containers to build amazing cloud applications benefitting from native&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b28/842a1d91-15a1-40a6-bc9d-3d8079313b28/ContainersWindows10_mid.mp4</video:content_loc>
+        <video:duration>212</video:duration>
+        <video:publication_date>2016-05-26T22:25:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Windows-Container-Networking-NAT-and-Transparent-Networking-Modes</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91c6/074869ff-8bc4-456d-ad0a-90a2c16691c6/ContainerNetworking001_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Container Networking: NAT and Transparent Networking Modes]]></video:title>
+        <video:description><![CDATA[In Windows Server Technical Preview 5, we invested heavily in the container network stack to better align with the Docker management experience and brought our own networking expertise to add&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91c6/074869ff-8bc4-456d-ad0a-90a2c16691c6/ContainerNetworking001_mid.mp4</video:content_loc>
+        <video:duration>301</video:duration>
+        <video:publication_date>2016-05-18T18:45:13.2094869+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Introducing-Windows-Server--Hyper-V-Containers</loc>
+      <lastmod>2018-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f583/c3cac10b-8ce0-4380-883e-f5196197f583/IntroducingContainers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Windows Server and Hyper-V Containers]]></video:title>
+        <video:description><![CDATA[In this brief animation overview, you&#39;ll learn about the importance of applications in business innovation, and how containers provide a powerful solution to enable modern application development.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f583/c3cac10b-8ce0-4380-883e-f5196197f583/IntroducingContainers_mid.mp4</video:content_loc>
+        <video:duration>144</video:duration>
+        <video:publication_date>2016-04-26T21:04:14.8771394+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Setting-the-Stage-The-Application-Platform-in-Windows-Server-2016</loc>
+      <lastmod>2017-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/da99/af9029eb-bd07-4927-8c46-a88df941da99/B875_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Setting the Stage: The Application Platform in Windows Server 2016]]></video:title>
+        <video:description><![CDATA[Windows Server 2016 is a radical transformation of the server application platform and developer experience. The Windows Server 2016 SDK targets a super lightweight platform enabling applications to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da99/af9029eb-bd07-4927-8c46-a88df941da99/B875_mid.mp4</video:content_loc>
+        <video:duration>3638</video:duration>
+        <video:publication_date>2016-04-14T20:30:38.1390177+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Windows-Server--Hyper-V-Containers-at-the-TechNet-Virtual-Conference-2016</loc>
+      <lastmod>2017-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9628/4a92c795-b4bf-4dcf-8683-4da12b9d9628/TechnetVCDay03Containers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server &amp; Hyper-V Containers at the TechNet Virtual Conference 2016]]></video:title>
+        <video:description><![CDATA[At the recent TechNet Virtual Conference, Taylor Brown, Principal Lead Program Manager and friend of the show, delivered a great overview of our container technologies, and strategy, which, if you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9628/4a92c795-b4bf-4dcf-8683-4da12b9d9628/TechnetVCDay03Containers_mid.mp4</video:content_loc>
+        <video:duration>4414</video:duration>
+        <video:publication_date>2016-04-14T20:25:42.3276642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Container-Fundamentals--Part-5-Hyper-V-Containers</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f640/865c1ec5-c3ee-40c9-878b-53292526f640/ContainerFundamentalsEpisode5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Container Fundamentals | Part 5 - Hyper-V Containers]]></video:title>
+        <video:description><![CDATA[In this episode on the Containers Channel, we&#39;re continuing our series on Container Fundamentals.  Following on from part 4, Matt McSpirit, Technical Evangelist, and Neil Peterson, Senior Content&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f640/865c1ec5-c3ee-40c9-878b-53292526f640/ContainerFundamentalsEpisode5_mid.mp4</video:content_loc>
+        <video:duration>972</video:duration>
+        <video:publication_date>2016-02-02T01:25:55.4192813+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Container-Fundamentals--Part-4-Resource-Management</loc>
+      <lastmod>2018-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/555d/d400f24d-bf64-4a4f-ab72-2a892403555d/ContainerFundamentals004_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Container Fundamentals | Part 4 - Resource Management]]></video:title>
+        <video:description><![CDATA[In this episode on the Containers Channel, we&#39;re continuing our series on Container Fundamentals.  Following on from part 3, Matt McSpirit, Technical Evangelist, and Neil Peterson, Senior Content&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/555d/d400f24d-bf64-4a4f-ab72-2a892403555d/ContainerFundamentals004_mid.mp4</video:content_loc>
+        <video:duration>831</video:duration>
+        <video:publication_date>2016-01-20T17:25:25.1070511+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Container-Fundamentals--Part-3-Shared-Folders</loc>
+      <lastmod>2021-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea40/3b535825-28fd-4261-b487-6fa4cc25ea40/ContainerFundamentals003_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Container Fundamentals | Part 3 - Shared Folders]]></video:title>
+        <video:description><![CDATA[In this episode on the Containers Channel, we&#39;re continuing our series on Container Fundamentals.  Following on from part 2, Matt McSpirit, Technical Evangelist, and Neil Peterson, Senior Content&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea40/3b535825-28fd-4261-b487-6fa4cc25ea40/ContainerFundamentals003_mid.mp4</video:content_loc>
+        <video:duration>860</video:duration>
+        <video:publication_date>2016-01-15T22:33:49.0386596+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Container-Fundamentals--Part-2-Images-Networking--Portability</loc>
+      <lastmod>2017-11-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a9f/8c808177-d6e6-4c54-a4fc-e0f25b823a9f/ContainerFundamentalsEp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Container Fundamentals | Part 2 - Images, Networking &amp; Portability]]></video:title>
+        <video:description><![CDATA[In this episode on the Containers Channel, we&#39;re continuing our series on Container Fundamentals.  Following on from part 1, Matt McSpirit, Technical Evangelist, and Neil Peterson, Senior Content&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a9f/8c808177-d6e6-4c54-a4fc-e0f25b823a9f/ContainerFundamentalsEp2_mid.mp4</video:content_loc>
+        <video:duration>2126</video:duration>
+        <video:publication_date>2015-11-25T23:54:05.2771090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Introducing-Hyper-V-Containers</loc>
+      <lastmod>2017-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ffa/53eb3d54-7621-499a-a17c-f592e4643ffa/HyperVContainersTP4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Hyper-V Containers]]></video:title>
+        <video:description><![CDATA[In this episode of the Containers Channel, Matt McSpirit, Technical Evangelist, is joined by Principal Program Manager Lead, Taylor Brown, to discuss the new and cool features in Windows Server 2016&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ffa/53eb3d54-7621-499a-a17c-f592e4643ffa/HyperVContainersTP4_mid.mp4</video:content_loc>
+        <video:duration>1599</video:duration>
+        <video:publication_date>2015-11-19T15:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Container-Fundamentals--Part-1-Introduction</loc>
+      <lastmod>2019-05-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3768/a562298b-fdb8-4201-9872-cbad768d3768/ContainerFundamentalsPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Container Fundamentals | Part 1 - Introduction]]></video:title>
+        <video:description><![CDATA[In this episode on the Containers Channel, we&#39;re starting a new mini-series exploring some of the key Container Fundamentals, from Windows Server and Linux Containers, through to images, networking,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3768/a562298b-fdb8-4201-9872-cbad768d3768/ContainerFundamentalsPart1_mid.mp4</video:content_loc>
+        <video:duration>1807</video:duration>
+        <video:publication_date>2015-11-06T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Demo-Containers-on-Azure-with-Docker</loc>
+      <lastmod>2017-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b6c/21644a3f-cc27-460d-a1eb-ce2e34036b6c/AzureWithDocker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Containers on Azure with Docker]]></video:title>
+        <video:description><![CDATA[In this Containers Channel Episode, Mike Coleman from Docker, walks you through the initial configuration of Windows Server Containers, using Docker, running on Microsoft Azure. In the video, Mike&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b6c/21644a3f-cc27-460d-a1eb-ce2e34036b6c/AzureWithDocker_mid.mp4</video:content_loc>
+        <video:duration>124</video:duration>
+        <video:publication_date>2015-10-08T17:46:12.4708080+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/John-Howard-and-the-Docker-Daemon</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/28af/95d00c8e-4ec4-487f-b581-a6a48da228af/JohnHowardDockerDaemon_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[John Howard and the Docker Daemon...]]></video:title>
+        <video:description><![CDATA[In this episode on the Containers Channel, Matt McSpirit, Technical Evangelist, is joined by John Howard, former Hyper-V Principal Program Manager and now, Senior Software Engineer, working on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28af/95d00c8e-4ec4-487f-b581-a6a48da228af/JohnHowardDockerDaemon_mid.mp4</video:content_loc>
+        <video:duration>994</video:duration>
+        <video:publication_date>2015-09-18T20:04:41.4401901+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Documentation-and-Community-Overview</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a78c/15fdcbc0-b774-495c-ba92-e0eff28fa78c/ContainersDocumentation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Documentation and Community Overview]]></video:title>
+        <video:description><![CDATA[In this video, join Sarah Cooley, Program Manager in the Hyper-V team here at Microsoft, as she walks you through the Container documentation, and explores some of the other important resources&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a78c/15fdcbc0-b774-495c-ba92-e0eff28fa78c/ContainersDocumentation_mid.mp4</video:content_loc>
+        <video:duration>277</video:duration>
+        <video:publication_date>2015-08-27T20:17:04.0473835+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Quick-Start-Deploying-and-Managing-Windows-Server-Containers-with-PowerShell</loc>
+      <lastmod>2017-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4ece/612c2422-b67f-42f1-9c78-3b498f4f4ece/WSCwithPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quick Start #2: Deploying and Managing Windows Server Containers with PowerShell]]></video:title>
+        <video:description><![CDATA[In this video, join Andy Atkinson, Program Manager in the Hyper-V team here at Microsoft, as he walks you through the steps to deploy and manage Windows Server Containers, using PowerShell. If you&#39;re&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ece/612c2422-b67f-42f1-9c78-3b498f4f4ece/WSCwithPowerShell_mid.mp4</video:content_loc>
+        <video:duration>414</video:duration>
+        <video:publication_date>2015-08-19T20:24:15.0291818+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Quick-Start-Configure-Windows-Server-Containers-in-Microsoft-Azure</loc>
+      <lastmod>2017-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f483/2c41d319-e7be-4c6c-8c85-1495d230f483/WSCInAzureFinal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quick Start #1b: Configure Windows Server Containers in Microsoft Azure]]></video:title>
+        <video:description><![CDATA[In this video, join Jing Xu, Program Manager in the Azure team, here at Microsoft, as she walks you through the steps to configure Windows Server Containers, running on Microsoft Azure. If you&#39;re&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f483/2c41d319-e7be-4c6c-8c85-1495d230f483/WSCInAzureFinal_mid.mp4</video:content_loc>
+        <video:duration>176</video:duration>
+        <video:publication_date>2015-08-19T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Quick-Start-Provisioning-Containers-using-Visual-Studio</loc>
+      <lastmod>2017-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fce3/cb7a2819-342a-4270-8a8b-6abea317fce3/WSCwithVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quick Start #4: Provisioning Containers using Visual Studio]]></video:title>
+        <video:description><![CDATA[In this video, join Steve Lasker, Senior Program Manager in the Visual Studio Tools team here at Microsoft, as he walks you through using Visual Studio to deploy Windows Server Containers on Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fce3/cb7a2819-342a-4270-8a8b-6abea317fce3/WSCwithVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2015-08-19T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Quick-Start-Deploying-and-Managing-Windows-Server-Containers-with-Docker</loc>
+      <lastmod>2018-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/08d5/9f69efb9-40f2-4669-ae1e-fb44463b08d5/WSCwithDocker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quick Start #3: Deploying and Managing Windows Server Containers with Docker]]></video:title>
+        <video:description><![CDATA[In this video, join Lars Iwer, Program Manager in the Hyper-V team, here at Microsoft, as he walks you through deploying and managing Windows Server Containers with Docker. If you&#39;re interested in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/08d5/9f69efb9-40f2-4669-ae1e-fb44463b08d5/WSCwithDocker_mid.mp4</video:content_loc>
+        <video:duration>412</video:duration>
+        <video:publication_date>2015-08-19T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Quick-Start-Configure-Windows-Server-Containers-on-a-Local-System</loc>
+      <lastmod>2017-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c1c/c7d1659a-adeb-4c65-bcea-0bfd906a7c1c/ConfigureWSCLocally_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quick Start #1a: Configure Windows Server Containers on a Local System]]></video:title>
+        <video:description><![CDATA[In this video, join Lars Iwer, Program Manager in the Hyper-V team here at Microsoft, as he walks you through the steps to configure a Hyper-V virtual machine that&#39;s ready to run Windows Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c1c/c7d1659a-adeb-4c65-bcea-0bfd906a7c1c/ConfigureWSCLocally_mid.mp4</video:content_loc>
+        <video:duration>207</video:duration>
+        <video:publication_date>2015-08-19T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/containers/Containers-101-with-Microsoft-and-Docker</loc>
+      <lastmod>2018-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/860c/f2320745-3a87-4526-968a-83500ef3860c/Containers101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Containers 101 with Microsoft and Docker]]></video:title>
+        <video:description><![CDATA[Interested in Containers? Don&#39;t quite know where to start? Join Matt McSpirit and Taylor Brown from Microsoft, along with Chad Metcalf from Docker, as they introduce you to the world of Containers.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/860c/f2320745-3a87-4526-968a-83500ef3860c/Containers101_mid.mp4</video:content_loc>
+        <video:duration>1770</video:duration>
+        <video:publication_date>2015-08-19T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

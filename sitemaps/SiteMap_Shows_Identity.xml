@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Getting-Started-with-ACS-and-the-Windows-Azure-Toolkit-for-Windows-Phone-7</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e35f/cf395177-61f0-439f-acf4-9ee40037e35f/WAZWP7ACS1_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with ACS and the Windows Azure Toolkit for Windows Phone 7]]></video:title>
+        <video:description><![CDATA[ The latest release of Windows Azure Toolkit for Windows Phone 7 integrates with the Windows Azure AppFabric Access Control Service! In this screencast you will learn: How to use the project templates&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e35f/cf395177-61f0-439f-acf4-9ee40037e35f/WAZWP7ACS1_high_ch9.mp4</video:content_loc>
+        <video:duration>792</video:duration>
+        <video:publication_date>2011-05-16T03:53:26.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/The-Access-Control-Service-20-Ships</loc>
+      <lastmod>2017-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/223e/a74f574d-58bb-417b-b1d0-9ebd0127223e/acs2rtw_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Access Control Service 2.0 Ships!]]></video:title>
+        <video:description><![CDATA[ This is the news that so many have been waiting for: the new version of Access Control Service finally hit RTW stage! Stuart Kwan, Principal Group Program Manager on the Cloud Identity Platform team&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/223e/a74f574d-58bb-417b-b1d0-9ebd0127223e/acs2rtw_high_ch9.mp4</video:content_loc>
+        <video:duration>276</video:duration>
+        <video:publication_date>2011-04-12T16:35:25.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/ACS-and-AtlantisOnline</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2ae/da240df6-63aa-475c-a058-9ec10086f2ae/acsatlantis_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ACS and AtlantisOnline]]></video:title>
+        <video:description><![CDATA[ All work and no play makes your PaaS dull! In this lightning-fast screencast you&#39;ll see how ACS helped the guys at www.angrytoyfactory.com to handle their authentication needs, without compromising&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2ae/da240df6-63aa-475c-a058-9ec10086f2ae/acsatlantis_high_ch9.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2011-04-12T15:57:15.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/ACS-Extensions-for-Umbraco-3-ADFS2-Integration</loc>
+      <lastmod>2011-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7de/32ccfcc6-617d-413e-8dfb-9ebf014cb7de/ACSEXTADFS_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ACS Extensions for Umbraco - 3 ADFS2 Integration]]></video:title>
+        <video:description><![CDATA[ In this screencast you will learn how to use the ACS Extensions to grant access to users coming from business identity providers (like ADFS2) to your Umbraco web site. The Access Control Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7de/32ccfcc6-617d-413e-8dfb-9ebf014cb7de/ACSEXTADFS_high_ch9.mp4</video:content_loc>
+        <video:duration>737</video:duration>
+        <video:publication_date>2011-04-12T15:56:57.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/ACS-Extensions-for-Umbraco-2-SignIn-and-Authorization-for-Social-Members</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5246/a11bfdc4-f6c5-454b-ab88-9ebf014c5246/ACSEXTsocial2_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ACS Extensions for Umbraco - 2 SignIn and Authorization for Social Members]]></video:title>
+        <video:description><![CDATA[ In this screencast you will learn how to use the ACS Extensions to add sign in, sign up and authorization features to your web site. Furthermore, you wil learn how to invite users from Facebook,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5246/a11bfdc4-f6c5-454b-ab88-9ebf014c5246/ACSEXTsocial2_high_ch9.mp4</video:content_loc>
+        <video:duration>834</video:duration>
+        <video:publication_date>2011-04-12T15:56:41.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/ACS-Extensions-for-Umbraco-1-Setup</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac9b/9d4e21bf-f0fc-48fe-9a37-9ebf014bac9b/acsextsetup3_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ACS Extensions for Umbraco - 1 Setup]]></video:title>
+        <video:description><![CDATA[ This screencast shows you how to set up Umbraco 4.7 and install &amp;amp; configure the Access Control Service (ACS) Extensions for Umbraco. The Access Control Service (ACS) Extensions for Umbraco code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac9b/9d4e21bf-f0fc-48fe-9a37-9ebf014bac9b/acsextsetup3_high_ch9.mp4</video:content_loc>
+        <video:duration>622</video:duration>
+        <video:publication_date>2011-04-12T15:56:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Aaron-Smalser-on-the-ACS-20-Portal-and-HDR-Features</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8795/7e6f96df-e810-42a5-87fc-9ebd01278795/aaronacs2rtw_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Aaron Smalser on the ACS 2.0 Portal and HDR Features]]></video:title>
+        <video:description><![CDATA[ ACS may be a PaaS service, but the programmatic route is not the only way to is heart: there are many situations in which developers, administrators and users interact directly with it. The new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8795/7e6f96df-e810-42a5-87fc-9ebd01278795/aaronacs2rtw_high_ch9.mp4</video:content_loc>
+        <video:duration>1196</video:duration>
+        <video:publication_date>2011-04-12T15:56:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Caleb-Baker-on-Using-ACS-in-Windows-Phone-7-apps-and-ACS-Error-Management</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d65d/5d57fbe1-30b1-40e5-9a7e-9ebd0127d65d/calebacsrwt2_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Caleb Baker on Using ACS in Windows Phone 7 apps and ACS Error Management]]></video:title>
+        <video:description><![CDATA[ Have you ever tried to handle authentication for a mobile app, regardless of the platform? Every provider has its own protocol, which forces you to write and maintain a lot of different&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d65d/5d57fbe1-30b1-40e5-9a7e-9ebd0127d65d/calebacsrwt2_high_ch9.mp4</video:content_loc>
+        <video:duration>1262</video:duration>
+        <video:publication_date>2011-04-12T15:56:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Justin-Smith-on-the-Release-of-Access-Control-Service-20</loc>
+      <lastmod>2017-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2246/bd65e0d5-4b91-484f-8e78-9ebd01282246/JustinACS2RTW_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Justin Smith on the Release of Access Control Service 2.0]]></video:title>
+        <video:description><![CDATA[ If you want to understand what the Access Control Service is really about, look no further: this is the interview you want to watch. Justin Smith, Principal Program Manager Lead for the Windows Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2246/bd65e0d5-4b91-484f-8e78-9ebd01282246/JustinACS2RTW_high_ch9.mp4</video:content_loc>
+        <video:duration>1700</video:duration>
+        <video:publication_date>2011-04-12T15:55:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Introducing-the-New-Features-of-the-August-Labs-Release-of-the-Access-Control-Service</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3441/563441/ACS2labsannouncement_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing the New Features of the August Labs Release of the Access Control Service]]></video:title>
+        <video:description><![CDATA[
+Join Justin Smith, Program Manager on the Windows Azure AppFabric Access Control Service (ACS) team, on a whirlwind tour of the new features of today&#39;s Labs release of ACS. Just to whet your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3441/563441/ACS2labsannouncement_ch9.mp4</video:content_loc>
+        <video:duration>1221</video:duration>
+        <video:publication_date>2010-08-05T21:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-5-Lab-about-Web-Sites-and-STS</loc>
+      <lastmod>2010-09-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/2/6/5/5/5/WIFW5_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 5: Lab about Web Sites and STS]]></video:title>
+        <video:description><![CDATA[The second lab of the workshop explores some of the patterns discussed in the former section. One lab demonstrates how a generic web site can be enhanced with identity provider capabilities regardless&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/2/6/5/5/5/WIFW5_ch9.mp4</video:content_loc>
+        <video:duration>228</video:duration>
+        <video:publication_date>2010-06-23T13:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-6-WIF-ASPNET-Pipeline-and-Extensibility-Points</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/2/6/5/5/5/WIFW6_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 6: WIF ASP.NET Pipeline and Extensibility Points]]></video:title>
+        <video:description><![CDATA[This session explores in depth how WIF tackles the sign-in scenario.After a general intro to the WIF configuration element, the session describes how WS-Federation is used for driving the various&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/2/6/5/5/5/WIFW6_ch9.mp4</video:content_loc>
+        <video:duration>4477</video:duration>
+        <video:publication_date>2010-06-23T13:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-7-WIF-and-WCF</loc>
+      <lastmod>2011-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/3/6/5/5/5/WIFW7_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 7: WIF and WCF]]></video:title>
+        <video:description><![CDATA[This session describes in detail the difference between passive and active scenarios, specifically around the confirmation method for toekns (bearer vs. holder-of-key).The WIF object model and WCF&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/3/6/5/5/5/WIFW7_ch9.mp4</video:content_loc>
+        <video:duration>4832</video:duration>
+        <video:publication_date>2010-06-23T13:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-8-Lab-about-WIF-and-WCF</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/3/6/5/5/5/WIFW8_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 8: Lab about WIF and WCF]]></video:title>
+        <video:description><![CDATA[This lab explores the idea of delegated service call via ActAs tokens: the exercise from the Web sites lab shows how to do that from an ASP.NET to a WCF backend, while the one from the WCF lab focuses&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/3/6/5/5/5/WIFW8_ch9.mp4</video:content_loc>
+        <video:duration>323</video:duration>
+        <video:publication_date>2010-06-23T13:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-9-WIF-and-Windows-Azure</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/3/6/5/5/5/WIFW9_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 9: WIF and Windows Azure]]></video:title>
+        <video:description><![CDATA[The last session of the training covers the use of WIF in Windows Azure. After a quick introduction to Windows Azure and the infrastructural differences between web roles and on-premises deployment,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/3/6/5/5/5/WIFW9_ch9.mp4</video:content_loc>
+        <video:duration>4473</video:duration>
+        <video:publication_date>2010-06-23T13:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-10-Lab-about-WIF-and-Windows-Azure</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/3/6/5/5/5/WIFW10_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 10: Lab about WIF and Windows Azure]]></video:title>
+        <video:description><![CDATA[The last lab of the workshop covers the use of WIF on Windows Azure, demonstrating in practice how to cope with NLB sessions, volatile application URI, dynamic configuration, metadata generation,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/3/6/5/5/5/WIFW10_ch9.mp4</video:content_loc>
+        <video:duration>292</video:duration>
+        <video:publication_date>2010-06-23T13:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-1-Introduction-to-Claims-Based-Identity-and-WIF</loc>
+      <lastmod>2013-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/2/6/5/5/5/WIFW1_512_ch9_1.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 1: Introduction to Claims-Based Identity and WIF]]></video:title>
+        <video:description><![CDATA[This session provides a light introduction to claims-based identity: the problems it solves, the canonical authentication scenario, key concepts and terminology.The main Windows Identity Foundation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/2/6/5/5/5/WIFW1_ch9.mp4</video:content_loc>
+        <video:duration>3631</video:duration>
+        <video:publication_date>2010-06-23T13:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-2-Lab-on-Basic-Web-Sites</loc>
+      <lastmod>2020-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/2/6/5/5/5/WIFW2_512_ch9_1.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 2: Lab on Basic Web Sites]]></video:title>
+        <video:description><![CDATA[The first lab of the workshop offers an overview of what can be achieved when using WIF with Web sites: authentication externalization, integration with IsInRole and ASP.NET authorization,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/2/6/5/5/5/WIFW2_ch9.mp4</video:content_loc>
+        <video:duration>369</video:duration>
+        <video:publication_date>2010-06-23T13:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-3-Scenarios-and-Architecture-I</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/2/6/5/5/5/WIFW3_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 3: Scenarios and Architecture I]]></video:title>
+        <video:description><![CDATA[In this session you will learn about the difference between IP-STS and FP-STS and how to choose where to put STSes in your architecture. You will learn about federation, home realm discovery and how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/2/6/5/5/5/WIFW3_ch9.mp4</video:content_loc>
+        <video:duration>4442</video:duration>
+        <video:publication_date>2010-06-23T13:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/WIF-Workshop-4-Scenarios-and-Architecture-II</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/2/6/5/5/5/WIFW4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[WIF Workshop 4: Scenarios and Architecture II]]></video:title>
+        <video:description><![CDATA[This short session explores the architectural implications of using claims for authorization purposes
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/2/6/5/5/5/WIFW4_ch9.mp4</video:content_loc>
+        <video:duration>740</video:duration>
+        <video:publication_date>2010-06-23T13:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/ADFS-v2-Tales-from-the-Test-Team</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/7/0/7/4/5/ADFSv2RTMtolandramiro_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[ADFS v2: Tales from the Test Team]]></video:title>
+        <video:description><![CDATA[How do you test a world-class product like ADFS 2.0? Performance, stress testing, security, and the classic aspects of server testing need to be compounded with all supported topologies and platforms,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/7/0/7/4/5/ADFSv2RTMtolandramiro_ch9.mp4</video:content_loc>
+        <video:duration>2177</video:duration>
+        <video:publication_date>2010-05-05T16:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Active-Directory-Federation-Services-v2-Ships</loc>
+      <lastmod>2010-11-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/8/6/6/4/5/IdElementADFSv2RTMMain_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Active Directory Federation Services v2 Ships!]]></video:title>
+        <video:description><![CDATA[Today we are announcing the general availability of Active Directory Federation Services 2.0 (ADFS 2.0).
+In this lightning-fast video, Stuart Kwan, Group Program Manager for the Identity and Security&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/8/6/6/4/5/IdElementADFSv2RTMMain_ch9.mp4</video:content_loc>
+        <video:duration>297</video:duration>
+        <video:publication_date>2010-05-05T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/How-ADFS-v2-Helps-Microsoft-IT-to-Manage-Application-Access</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/2/7/6/4/5/IdElementADFSRTMBrianFemi_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How ADFS v2 Helps Microsoft IT to Manage Application Access]]></video:title>
+        <video:description><![CDATA[ADFS 2.0 is being released today, but there is a group that has been using it for almost two years: Microsoft&#39;s IT department, which dogfooded ADFS 2.0 from the very first pre-release.Brian Puhl,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/2/7/6/4/5/IdElementADFSRTMBrianFemi_ch9.mp4</video:content_loc>
+        <video:duration>2150</video:duration>
+        <video:publication_date>2010-05-05T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Deep-Dive-into-U-Prove-Cryptographic-Protocols</loc>
+      <lastmod>2011-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/5/3/1/3/5/IdElement21StefanCrypto_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Dive into U-Prove Cryptographic Protocols]]></video:title>
+        <video:description><![CDATA[In this third and last IdElement installment on the U-Prove CTP series, we once again feature Dr. Stefan Brands, who spends an hour describing the crypto behind U-Prove. Wrapping your head around all&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/5/3/1/3/5/IdElement21StefanCrypto_ch9.mp4</video:content_loc>
+        <video:duration>3561</video:duration>
+        <video:publication_date>2010-03-02T16:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Announcing-Microsofts-U-Prove-Community-Technical-Preview-CTP</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/7/2/1/3/5/UProveCTPAnnouncement_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Announcing Microsofts U-Prove Community Technical Preview (CTP)]]></video:title>
+        <video:description><![CDATA[In basic terms, minimal disclosure is a solution that discloses the least amount of identifying information while best limiting and constraining the use of identity-related information. In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/7/2/1/3/5/UProveCTPAnnouncement_ch9.mp4</video:content_loc>
+        <video:duration>624</video:duration>
+        <video:publication_date>2010-03-02T16:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/U-Prove-CTP-A-Developers-Perspective</loc>
+      <lastmod>2011-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/5/3/1/3/5/IdElement20GregChristian_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[U-Prove CTP: A Developers Perspective]]></video:title>
+        <video:description><![CDATA[In this second episode of the IdElement special on the U-Prove CTP, you get to know Christian Paquin and Greg Thompson, the team behind the U-Prove implementation since the Credentica times. Christian&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/5/3/1/3/5/IdElement20GregChristian_ch9.mp4</video:content_loc>
+        <video:duration>2323</video:duration>
+        <video:publication_date>2010-03-02T16:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/ADFS-20-RC-is-Here</loc>
+      <lastmod>2011-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/3/0/4/1/5/TheIdElement18Steele_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[ADFS 2.0 RC is Here!]]></video:title>
+        <video:description><![CDATA[Active Directory Federation Services (ADFS)
+2.0 finally reached the Release Candidate phase!
+This special episode of the Id Element is all about the new features introduced in the
+
+RC: Matt&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/3/0/4/1/5/TheIdElement18Steele_ch9.mp4</video:content_loc>
+        <video:duration>2110</video:duration>
+        <video:publication_date>2009-12-18T16:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Sharepoint-2010-and-Claims-Based-Identity</loc>
+      <lastmod>2011-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/6/8/4/0/5/IdElement17Venky_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Sharepoint 2010 and Claims-Based Identity]]></video:title>
+        <video:description><![CDATA[When it comes to identity management intensive applications, it&#39;s hard to top Sharepoint. Whether you are signing in a portal, accessing a document or using a webpart for reaching out to external web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/6/8/4/0/5/IdElement17Venky_ch9.mp4</video:content_loc>
+        <video:duration>2318</video:duration>
+        <video:publication_date>2009-11-24T22:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Windows-Identity-Foundation-Ships</loc>
+      <lastmod>2015-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/0/6/5/0/5/ConradWIFAnnounce_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Identity Foundation Ships!]]></video:title>
+        <video:description><![CDATA[The wait is over!Today at our Professional Developer Conference Microsoft announced the availability of Windows Identity Foundation (WIF), a new extension to the .NET Framework that makes it easier&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/0/6/5/0/5/ConradWIFAnnounce_ch9.mp4</video:content_loc>
+        <video:duration>216</video:duration>
+        <video:publication_date>2009-11-17T18:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Windows-Identity-Foundation-RC-is-here</loc>
+      <lastmod>2016-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/9/7/2/0/5/TheIdElement16_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Identity Foundation RC is here!]]></video:title>
+        <video:description><![CDATA[The release candidate of Windows Identity Foundation is here! Chock-full of improvements driven by YOUR feedback, WIF RC gives a very good idea of how the final release will look like.Vittorio went to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/9/7/2/0/5/TheIdElement16_ch9.mp4</video:content_loc>
+        <video:duration>2083</video:duration>
+        <video:publication_date>2009-11-06T18:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Jorgen-Thelin-on-the-Microsoft-Federation-Gateway</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/5/8/7/8/4/IdElementThelin4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jorgen Thelin on the Microsoft Federation Gateway]]></video:title>
+        <video:description><![CDATA[Jorgen Thelin, Senior Program Manager, looks after key identity services in Microsoft such as
+Windows Live ID and the Microsoft Federation Gateway (MFG).
+In today&#39;s interview 
+Jorgen describes the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/5/8/7/8/4/IdElementThelin4_ch9.mp4</video:content_loc>
+        <video:duration>1761</video:duration>
+        <video:publication_date>2009-08-28T20:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Alex-Weinert-on-Forefront-Identity-Manager-2010</loc>
+      <lastmod>2018-10-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/6/3/5/7/4/14IdElementAlexWeinertCAMTASIA_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Alex Weinert on Forefront Identity Manager 2010]]></video:title>
+        <video:description><![CDATA[In this episode Alex Weinert, Group Program Manager, provides an in-depth interview around Identity Management in the enterprise. He begins with an overview of the current identity synchronization&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/6/3/5/7/4/14IdElementAlexWeinertCAMTASIA_ch9.mp4</video:content_loc>
+        <video:duration>3450</video:duration>
+        <video:publication_date>2009-06-27T06:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Using-claims-for-driving-web-sites-without-writing-any-code</loc>
+      <lastmod>2017-03-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/6/7/4/7/4/TheIdElementClaimsWOCode_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Using claims for driving web sites... without writing any code]]></video:title>
+        <video:description><![CDATA[
+Claims-based identity allows you to externalize authentication and authorization code, moving it out of your applications, so that you can focus on the functionalities you want to implement rather&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/6/7/4/7/4/TheIdElementClaimsWOCode_ch9.mp4</video:content_loc>
+        <video:duration>921</video:duration>
+        <video:publication_date>2009-06-22T07:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Donovan-Follette-on-making-the-shift-from-ADFS-v1-to-Geneva-Server</loc>
+      <lastmod>2011-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/1/2/3/7/4/TheIdElementFollette2_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Donovan Follette on making the shift from ADFS v1 to Geneva Server]]></video:title>
+        <video:description><![CDATA[
+In this week’s episode of the ID Element 
+Vittorio interviews 
+Donovan Follette… as the guest! 
+Donovan is a senior technical evangelist and a host for this very show: he worked on identity since&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/1/2/3/7/4/TheIdElementFollette2_ch9.mp4</video:content_loc>
+        <video:duration>1932</video:duration>
+        <video:publication_date>2009-06-12T06:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Oren-Melzer-on-whats-new-in-Windows-CardSpace-Geneva-beta-2</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/3/7/1/7/4/TheIdElementMelzer2_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Oren Melzer on what&#39;s new in Windows CardSpace Geneva beta 2]]></video:title>
+        <video:description><![CDATA[
+Oren Melzer, SDE on the Federated Identity team, has been working with Windows CardSpace for the past three years. In this episode, Oren enumerates the key new features available in CardSpace Geneva&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/3/7/1/7/4/TheIdElementMelzer2_ch9.mp4</video:content_loc>
+        <video:duration>778</video:duration>
+        <video:publication_date>2009-06-03T16:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Caleb-Baker-on-Geneva-Server-and-SAML-20-Interoperability</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/0/8/0/7/4/TheIdElementBaker_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Caleb Baker on Geneva Server and SAML 2.0 Interoperability]]></video:title>
+        <video:description><![CDATA[
+In this episode Caleb Baker, Sr. SDET on the Federated Identity team, discusses Geneva Server beta 2 and SAML 2.0 interoperability. Caleb was instrumental in testing Geneva Server with Sun’s OpenSSO&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/0/8/0/7/4/TheIdElementBaker_ch9.mp4</video:content_loc>
+        <video:duration>1275</video:duration>
+        <video:publication_date>2009-05-28T10:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Geneva-Server-Windows-CardSpace-Geneva-Information-Cards-and-PHP-Interoperability</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/6/6/9/6/4/TheIdElementLWSDInterop_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Geneva Server, Windows CardSpace Geneva, Information Cards and PHP Interoperability]]></video:title>
+        <video:description><![CDATA[In this episode Donovan sits down with the 
+Intand President, Bryan Otis, and CIO, Scott Otis, along with Vijay Rajagopalan, Principal Architect, Microsoft Interoperability Strategy, to drill into&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/6/6/9/6/4/TheIdElementLWSDInterop_ch9.mp4</video:content_loc>
+        <video:duration>1581</video:duration>
+        <video:publication_date>2009-05-20T15:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Jan-Alexander-on-the-claims-transformation-language-in-Geneva-Server-beta-2</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/5/5/8/6/4/TheIdElementAlexander_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jan Alexander on the claims transformation language in Geneva Server beta 2]]></video:title>
+        <video:description><![CDATA[In this episode Jan Alexander, Sr. Program Manager, Federated Identity, takes a deep dive into the powerful, all new claims transformation language in
+Geneva Server beta 2. This language is used in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/5/5/8/6/4/TheIdElementAlexander_ch9.mp4</video:content_loc>
+        <video:duration>2244</video:duration>
+        <video:publication_date>2009-05-11T15:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Matt-Steele-on-whats-new-with-Geneva-Server-beta-2</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/5/5/8/6/4/TheIdElementSteele_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Matt Steele on what&#39;s new with Geneva Server beta 2]]></video:title>
+        <video:description><![CDATA[In this episode Matt Steele, Sr. Program Manager for the Geneva Server, calls out a number of great new features in the beta 2 release. These include managing  Geneva Server with Windows PowerShell,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/5/5/8/6/4/TheIdElementSteele_ch9.mp4</video:content_loc>
+        <video:duration>2199</video:duration>
+        <video:publication_date>2009-05-11T15:13:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Chuck-Reeves-deep-diving-into-the-structure-and-design-of-Geneva-Framework-beta-2</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/5/5/8/6/4/TheIdElementReeves_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Chuck Reeves deep diving into the structure and design of Geneva Framework beta 2]]></video:title>
+        <video:description><![CDATA[Chuck Reeves is the Principal Development Lead for Geneva Framework, and has been involved in the development of federated identity products from the very start. In this chat &amp;amp; whiteboarding&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/5/5/8/6/4/TheIdElementReeves_ch9.mp4</video:content_loc>
+        <video:duration>2390</video:duration>
+        <video:publication_date>2009-05-11T15:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Sesha-Mani-on-whats-new-with-Geneva-Framework-beta-2</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/4/5/8/6/4/TheIdElementMani_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Sesha Mani on what&#39;s new with Geneva Framework beta 2]]></video:title>
+        <video:description><![CDATA[
+In this episode Sesha Mani, Sr. Program Manager for the Geneva Framework, chats with
+Vittorio about what’s new for developers in the Beta 2 of Geneva. From the new Visual Studio identity-aware&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/4/5/8/6/4/TheIdElementMani_ch9.mp4</video:content_loc>
+        <video:duration>1428</video:duration>
+        <video:publication_date>2009-05-11T15:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Ruchi-Bhargava-on-Windows-CardSpace-Geneva</loc>
+      <lastmod>2021-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/4/2/8/6/4/TheIdElementBhargava_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Ruchi Bhargava on Windows CardSpace Geneva]]></video:title>
+        <video:description><![CDATA[Ruchi Bhargava, Sr. Development Lead on the Federated Identity team, has been working with Windows CardSpace from the beginning and has been involved in all aspects of the product&#39;s development. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/4/2/8/6/4/TheIdElementBhargava_ch9.mp4</video:content_loc>
+        <video:duration>1180</video:duration>
+        <video:publication_date>2009-05-06T14:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Vijay-Gajjala-on-the-Geneva-Server</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/7/1/7/6/4/TheIdElementGajjala_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Vijay Gajjala on the Geneva Server]]></video:title>
+        <video:description><![CDATA[In this episode Vijay Gajjala, Sr. Program Manager on the Federated Identity team, discusses some of the core challenges around building the
+Geneva Server and describes the key investments the team&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/7/1/7/6/4/TheIdElementGajjala_ch9.mp4</video:content_loc>
+        <video:duration>1517</video:duration>
+        <video:publication_date>2009-04-29T14:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Hervey-Wilson-on-the-Geneva-Framework</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/6/0/6/6/4/TheIdElementWilson_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Hervey Wilson on the Geneva Framework]]></video:title>
+        <video:description><![CDATA[If you have been working with web services for some time on the Microsoft platform, you are certainly familiar with the name “Hervey Wilson”. Hervey is one of the key people behind the
+Web Services&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/6/0/6/6/4/TheIdElementWilson_ch9.mp4</video:content_loc>
+        <video:duration>1920</video:duration>
+        <video:publication_date>2009-04-22T14:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Stuart-Kwan-On-Identity-and-Microsoft-code-name-Geneva</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/6/7/5/6/4/TheIdElementKwan_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Stuart Kwan  On Identity and Microsoft code name Geneva]]></video:title>
+        <video:description><![CDATA[
+In this episode Donovan pays a visit to Stuart Kwan, Group Program Manager for the Federated Identity Team. Stuart has been working in the Identity space for a number of years at Microsoft and in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/6/7/5/6/4/TheIdElementKwan_ch9.mp4</video:content_loc>
+        <video:duration>1203</video:duration>
+        <video:publication_date>2009-04-16T20:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Identity/Welcome-to-The-Id-Element-Show</loc>
+      <lastmod>2011-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/5/7/5/6/4/TheIdElementWelcome_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to The Id Element Show]]></video:title>
+        <video:description><![CDATA[Welcome to The Id Element! In this short inaugural video, Donovan and Vittorio talk about this new show and what to expect in the coming weeks. Here we&#39;ll feature interviews with product team members&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/5/7/5/6/4/TheIdElementWelcome_ch9.mp4</video:content_loc>
+        <video:duration>294</video:duration>
+        <video:publication_date>2009-04-16T20:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

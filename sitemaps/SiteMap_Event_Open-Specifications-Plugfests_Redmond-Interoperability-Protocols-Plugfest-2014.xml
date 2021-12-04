@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Securing-Authentication</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e9a/1b22a8f6-4bbf-4fc0-a3e9-e6a56b259e9a/securePF14_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Securing Authentication]]></video:title>
+        <video:description><![CDATA[Michiko Short, Senior Program Manager, delivered a presentation during the Redmond Protocols Plugfest 2014 event.    Topics including securing credentials, mitigating &amp;quot;pass the hash&amp;quot;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e9a/1b22a8f6-4bbf-4fc0-a3e9-e6a56b259e9a/securePF14_mid.mp4</video:content_loc>
+        <video:duration>2452</video:duration>
+        <video:publication_date>2015-06-03T18:26:45.9644368+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/HeartBleed-Bug-and-Private-Key-Extraction</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4a3/c01cd34d-062c-42ac-8dc9-60ea6d59b4a3/HeartREDPF2014_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[HeartBleed Bug and Private Key Extraction]]></video:title>
+        <video:description><![CDATA[Mikko Varpiola, Codenomicon Developer, provided a walk through of some of the learnings from the HeartBleed security bug as well as the Private Key Extraction operations and security vulnerability&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4a3/c01cd34d-062c-42ac-8dc9-60ea6d59b4a3/HeartREDPF2014_mid.mp4</video:content_loc>
+        <video:duration>2084</video:duration>
+        <video:publication_date>2015-02-11T00:10:21.6930339+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Protocol-Test-Suites</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/74a3/b22979ee-7e0f-4d97-a426-03d81c9f74a3/PTS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protocol Test Suites ]]></video:title>
+        <video:description><![CDATA[Yuqing Zhao, Protocol Test Suite Developer, delivered a talk on Protocol Test Suites to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/74a3/b22979ee-7e0f-4d97-a426-03d81c9f74a3/PTS_mid.mp4</video:content_loc>
+        <video:duration>1422</video:duration>
+        <video:publication_date>2015-01-09T01:41:40.2619936+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/SharePoint-WOPI-and-FSS-Test-Suites</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ed7/862e295b-1cb0-4777-ab4b-74fea6627ed7/SPWOPI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint, WOPI and FSS Test Suites]]></video:title>
+        <video:description><![CDATA[Jinghui Zhang, Software Design Engineer in Test, delivered a talk covering the SharePoint, WOPI and FSS test suites to the attendees of the Redmond Interoperability Protocols Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ed7/862e295b-1cb0-4777-ab4b-74fea6627ed7/SPWOPI_mid.mp4</video:content_loc>
+        <video:duration>1661</video:duration>
+        <video:publication_date>2014-09-24T00:20:23.6450659+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Private-Cloud-Simulation-Tests</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/daf0/071bc39d-3c83-447a-88e1-0bb6d8bedaf0/PCSRedPF2014_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Private Cloud Simulation Tests]]></video:title>
+        <video:description><![CDATA[Vipin Duleb, Software Engineer, presented a talk on Private Cloud Simulation Tests including HyperV storage operations using the SMB2&amp;amp;3 protocols to the attendees of the Redmond Interoperability&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/daf0/071bc39d-3c83-447a-88e1-0bb6d8bedaf0/PCSRedPF2014_mid.mp4</video:content_loc>
+        <video:duration>932</video:duration>
+        <video:publication_date>2014-08-15T20:44:17.0749599+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Introduction-to-Windows-Test-Suites</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a3ce/46e604ab-7025-4685-840b-aa9587bba3ce/IntroWinTestSuite_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Windows Test Suites]]></video:title>
+        <video:description><![CDATA[Guoqing Li, Senior Test Lead, presented an Introduction to the Windows Test Suites available to the attendees of the Redmond Interoperability Protocol Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3ce/46e604ab-7025-4685-840b-aa9587bba3ce/IntroWinTestSuite_mid.mp4</video:content_loc>
+        <video:duration>1773</video:duration>
+        <video:publication_date>2014-07-30T19:19:13.3442052+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Outlook-Automation</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fa9b/fcc27cd7-2434-46f7-923d-fcc4b142fa9b/OA_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Outlook Automation]]></video:title>
+        <video:description><![CDATA[Julien Kerihuel, the founder of the Open Change Project presented talk on Outlook Automation to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fa9b/fcc27cd7-2434-46f7-923d-fcc4b142fa9b/OA_mid.mp4</video:content_loc>
+        <video:duration>1666</video:duration>
+        <video:publication_date>2014-07-30T16:52:06.4168763+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Kerberos-Protocol-Test-Suite</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Open-Stack-CI-Test-Lab</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/84ce/6cbada7e-88be-4175-8528-7ef7783c84ce/OSCITL_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Stack CI Test Lab]]></video:title>
+        <video:description><![CDATA[Neil Martin, Principal Test Manager, delivered a talk on Open Stack CI Test Lab to the attendees of the Redmond Interoperability Protocols Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/84ce/6cbada7e-88be-4175-8528-7ef7783c84ce/OSCITL_mid.mp4</video:content_loc>
+        <video:duration>2221</video:duration>
+        <video:publication_date>2014-07-21T16:05:54.0448865+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Lync-Protocols</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b28a/35166c04-68f1-42c6-969a-5b507013b28a/LP_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lync Protocols]]></video:title>
+        <video:description><![CDATA[Jinlin Xu, Software Design Engineer in Test presented a talk on Lync Protocols to the attendees of the Redmond Interoperability Protocols Plugfest 2014.     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b28a/35166c04-68f1-42c6-969a-5b507013b28a/LP_mid.mp4</video:content_loc>
+        <video:duration>1341</video:duration>
+        <video:publication_date>2014-07-18T20:21:09.0126062+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Server-Based-File-Storage</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d15a/71664ef3-7765-4442-ac79-0f0339ffd15a/SBFS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Server Based File Storage]]></video:title>
+        <video:description><![CDATA[Jose Baretto, Principal PM Manager, delivered a talk on Server Based File Storage to the attendees of the Redmond Interoperability Protocols Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d15a/71664ef3-7765-4442-ac79-0f0339ffd15a/SBFS_mid.mp4</video:content_loc>
+        <video:duration>3265</video:duration>
+        <video:publication_date>2014-07-18T18:28:36.4553428+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Dynamic-Access-Control</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f29/37143b51-7af2-4d72-ae72-76d62ff77f29/DAC_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamic Access Control]]></video:title>
+        <video:description><![CDATA[Dave McPherson, Senior Program Manager, delivered a talk on Dynamic Access Control to the attendees of the Redmond Interoperability Protocols Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f29/37143b51-7af2-4d72-ae72-76d62ff77f29/DAC_mid.mp4</video:content_loc>
+        <video:duration>4640</video:duration>
+        <video:publication_date>2014-07-18T18:28:21.0660138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/EWS-MAPIHTTP-Demo</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05fb/44adf652-c195-4ecf-937e-41a5df2805fb/EWSMAPI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[EWS &amp; MAPIHTTP Demo]]></video:title>
+        <video:description><![CDATA[Matt Stehle, ISV Developer Consultant, presented a demo of EWS &amp;amp; MAPIHTTP to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05fb/44adf652-c195-4ecf-937e-41a5df2805fb/EWSMAPI_mid.mp4</video:content_loc>
+        <video:duration>1366</video:duration>
+        <video:publication_date>2014-07-18T18:28:05.2626304+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/AZOD-CBAC-Scenario</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7e9/d75784d5-0236-47e4-baf6-45aca932b7e9/AZOD_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AZOD CBAC Scenario]]></video:title>
+        <video:description><![CDATA[Vivian Tian Software Design Engineer in Test, presented a talk on the AZOD CBAC Scenario to the attendees of the Redmond Interoperability Protocols Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7e9/d75784d5-0236-47e4-baf6-45aca932b7e9/AZOD_mid.mp4</video:content_loc>
+        <video:duration>1231</video:duration>
+        <video:publication_date>2014-07-18T18:27:33.7383099+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Device-Enterprise-Client</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8bee/93065d0f-5f1c-4799-bc44-5ced2c818bee/DEC_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device Enterprise Client]]></video:title>
+        <video:description><![CDATA[Senior Program Manager Jane Yan delivered a talk on Device Enterprise Client to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8bee/93065d0f-5f1c-4799-bc44-5ced2c818bee/DEC_mid.mp4</video:content_loc>
+        <video:duration>3507</video:duration>
+        <video:publication_date>2014-07-18T18:26:58.8559636+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/SharePoint-Protocol-Overview</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ede/3ad853c1-6c7b-4db2-ae5f-6bbd35337ede/SPO_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Protocol Overview]]></video:title>
+        <video:description><![CDATA[Hector Sandino, Q/A Manager, presented an overview of the SharePoint protocol to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ede/3ad853c1-6c7b-4db2-ae5f-6bbd35337ede/SPO_mid.mp4</video:content_loc>
+        <video:duration>1807</video:duration>
+        <video:publication_date>2014-07-18T18:26:05.4621527+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Office-Interoperability-Case-Study</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/40aa/8ecfd3d9-7555-4f50-aa90-4940aa9240aa/CaseStudy_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Interoperability Case Study]]></video:title>
+        <video:description><![CDATA[Jinghui Zhang, Software Design Engineer in Test, presented an Office Interoperability Case Study to the attendees of the Redmond Interoperability Protocols Plugfest 2014. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/40aa/8ecfd3d9-7555-4f50-aa90-4940aa9240aa/CaseStudy_mid.mp4</video:content_loc>
+        <video:duration>1261</video:duration>
+        <video:publication_date>2014-07-17T00:09:57.3349740+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Protocol-Test-Framework-and-Architecture</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44f9/96f7e47e-4a84-41bd-acfd-b894d91444f9/PTFA_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protocol Test Framework and Architecture]]></video:title>
+        <video:description><![CDATA[Guoqing Li, Senior Test Lead, presented a talk on Protocol Test Framework and Architecture to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44f9/96f7e47e-4a84-41bd-acfd-b894d91444f9/PTFA_mid.mp4</video:content_loc>
+        <video:duration>1618</video:duration>
+        <video:publication_date>2014-07-17T00:09:09.8403849+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Exchange-Web-Services</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/438a/0c521d94-587e-4a64-82ca-c5e1ba78438a/EWS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exchange Web Services]]></video:title>
+        <video:description><![CDATA[Matt Stehle, ISV Developer Consultant, presented a talk on Exchange Web Services (EWS) to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/438a/0c521d94-587e-4a64-82ca-c5e1ba78438a/EWS_mid.mp4</video:content_loc>
+        <video:duration>2918</video:duration>
+        <video:publication_date>2014-07-16T17:26:55.4354090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Exchange-REST-APIs</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ba9/23cfb667-c8eb-4c54-b518-a56d92be1ba9/ExchangeRest_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exchange REST APIs]]></video:title>
+        <video:description><![CDATA[Rohit Nagarmal, Senior Program Manager, presented a talk on Exchange REST APIs to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ba9/23cfb667-c8eb-4c54-b518-a56d92be1ba9/ExchangeRest_mid.mp4</video:content_loc>
+        <video:duration>2217</video:duration>
+        <video:publication_date>2014-07-16T17:26:41.4334088+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/OAuth-Access-to-Exchange</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8eba/5beb9d7d-14fd-4883-9223-40bbb0828eba/OAuth_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OAuth Access to Exchange]]></video:title>
+        <video:description><![CDATA[Matthias Leibmann, Principal Program Manager, delivered a talk on OAuth Access to Exchange to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8eba/5beb9d7d-14fd-4883-9223-40bbb0828eba/OAuth_mid.mp4</video:content_loc>
+        <video:duration>3845</video:duration>
+        <video:publication_date>2014-07-16T17:26:30.6316731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/MS-OXNSPI</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f668/75c85a15-2ece-4c84-9b67-7e8a54eaf668/MS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS-OXNSPI]]></video:title>
+        <video:description><![CDATA[Jinlin Xu, Software Design Engineer in Test presented a talk on the MS-OXNSPI protocol to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f668/75c85a15-2ece-4c84-9b67-7e8a54eaf668/MS_mid.mp4</video:content_loc>
+        <video:duration>1142</video:duration>
+        <video:publication_date>2014-07-16T17:26:02.0283468+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/MS-OXCMAPIHTTP</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f2a/488b0242-8183-4667-8ca0-ed0383341f2a/MSOX_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS-OXCMAPIHTTP]]></video:title>
+        <video:description><![CDATA[Joe Warren, Principal Software Design Engineer, presented a talk on the MS-OXCMAPIHTTP protocol to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f2a/488b0242-8183-4667-8ca0-ed0383341f2a/MSOX_mid.mp4</video:content_loc>
+        <video:duration>2961</video:duration>
+        <video:publication_date>2014-07-16T17:25:44.9406993+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Multi-SystemLab-Evaluation-Tests-2014</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea02/5adf4754-8016-4aa8-923e-bdf8caa3ea02/SonVoba_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multi-SystemLab Evaluation Tests 2014]]></video:title>
+        <video:description><![CDATA[Son Voba, Senior Program Manager, presented a talk on Multi-SystemLab Evaluation Tests to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea02/5adf4754-8016-4aa8-923e-bdf8caa3ea02/SonVoba_mid.mp4</video:content_loc>
+        <video:duration>1717</video:duration>
+        <video:publication_date>2014-07-16T17:25:20.9310551+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Keynote-Day-2-Open-Systems-Interoperability</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f8fa/c031257c-efd3-4e84-9b65-856a707ff8fa/keyopensys2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote Day 2  Open Systems Interoperability ]]></video:title>
+        <video:description><![CDATA[Chris Phillips, Partner Director, Program Management delivered a talk on Open Systems Interoperability to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f8fa/c031257c-efd3-4e84-9b65-856a707ff8fa/keyopensys2_mid.mp4</video:content_loc>
+        <video:duration>2367</video:duration>
+        <video:publication_date>2014-07-16T17:24:49.5354321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/OData-Validator</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e1f/6a6224fe-2957-473f-adbf-804a14b03e1f/odatavalidator_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData Validator]]></video:title>
+        <video:description><![CDATA[Mike Pizzo, Principal Architect, delivered a talk on the OData Validator tool, including new support for validating OData V4 conformance, to the attendees of the Redmond Interoperability Protocols&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e1f/6a6224fe-2957-473f-adbf-804a14b03e1f/odatavalidator_mid.mp4</video:content_loc>
+        <video:duration>1246</video:duration>
+        <video:publication_date>2014-07-15T18:09:12.5853328+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/OData-Implementation</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5912/5d707478-34e7-4eb8-bc1a-5e28ac6e5912/ODI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData Implementation]]></video:title>
+        <video:description><![CDATA[Mike Pizzo, Principal Architect, delivered a talk about OData Implementation, including an overview of the new OData V4 support in Web API 2.2 to the attendees of the Redmond Interoperability&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5912/5d707478-34e7-4eb8-bc1a-5e28ac6e5912/ODI_mid.mp4</video:content_loc>
+        <video:duration>3469</video:duration>
+        <video:publication_date>2014-07-15T18:08:59.9764883+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/OData-Introduction</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1727/9fe4eb60-fc9a-4aeb-acc5-492a7c981727/ODataIntro_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData Introduction]]></video:title>
+        <video:description><![CDATA[Mike Pizzo, Principal Architect, presented an introduction to OData, an OASIS standard for open data access on the web, to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1727/9fe4eb60-fc9a-4aeb-acc5-492a7c981727/ODataIntro_mid.mp4</video:content_loc>
+        <video:duration>3320</video:duration>
+        <video:publication_date>2014-07-15T18:08:37.3986131+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Exchange-Test-Suites</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/71c2/ee6f87f3-02f0-4950-b722-ec7f2bd171c2/ETS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exchange Test Suites]]></video:title>
+        <video:description><![CDATA[Pui Leung, Software Design Engineer in Test, presented a talk on the Exchange Protocol Test Suites to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71c2/ee6f87f3-02f0-4950-b722-ec7f2bd171c2/ETS_mid.mp4</video:content_loc>
+        <video:duration>1421</video:duration>
+        <video:publication_date>2014-07-15T18:07:48.3052063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Remote-Shared-Virtual-Disk</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb15/f265d2c2-8723-44a1-8d4a-4f7579f2bb15/RSVD_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Remote Shared Virtual Disk]]></video:title>
+        <video:description><![CDATA[Matt Kurjanowicz, Senior Software Development Engineer presented a talk on Remote Shared Virtual Disk to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb15/f265d2c2-8723-44a1-8d4a-4f7579f2bb15/RSVD_mid.mp4</video:content_loc>
+        <video:duration>2473</video:duration>
+        <video:publication_date>2014-07-14T23:00:44.2881117+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Message-Analyzer-Redmond-Interoperability-Protocols-Plugfest-2014</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dacc/515c942e-602d-46da-a4e5-f94edd48dacc/MessageAnalyzer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Message Analyzer Redmond Interoperability Protocols Plugfest 2014]]></video:title>
+        <video:description><![CDATA[Paul Long, Senior Program Manager delivered a talk on Message Analyzer to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dacc/515c942e-602d-46da-a4e5-f94edd48dacc/MessageAnalyzer_mid.mp4</video:content_loc>
+        <video:duration>5619</video:duration>
+        <video:publication_date>2014-07-14T22:54:03.5337477+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Office-Network-Parsers-Redmond-Interoperability-Protocols-Plugfest-2014</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/02ca/9b14facd-6b9a-4a4d-9d6d-759d584b02ca/OfficeNetworkParsers_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Network Parsers Redmond Interoperability Protocols Plugfest 2014]]></video:title>
+        <video:description><![CDATA[Jingyu Shao, Software Design Engineer in Test, gave a talk on Office, SharePoint, and Exchange Network Parsers for Message Analyzer to the attendees of the Redmond Interoperability Protocols Plugfest&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/02ca/9b14facd-6b9a-4a4d-9d6d-759d584b02ca/OfficeNetworkParsers_mid.mp4</video:content_loc>
+        <video:duration>1684</video:duration>
+        <video:publication_date>2014-07-14T22:53:34.7396967+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Office-File-Formats</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b02/a52d6346-77f1-4a40-b85f-583d292c9b02/OfficeFileFormats_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office File Formats]]></video:title>
+        <video:description><![CDATA[Jim Thatcher, Principal Program Manager Lead, delivered a talk on Office File Formats to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b02/a52d6346-77f1-4a40-b85f-583d292c9b02/OfficeFileFormats_mid.mp4</video:content_loc>
+        <video:duration>2420</video:duration>
+        <video:publication_date>2014-07-14T22:51:39.9776461+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Security-Intelligence</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d81e/621ff779-798b-4e2b-bf3f-22fe9705d81e/SecurityIntelligence_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Security Intelligence ]]></video:title>
+        <video:description><![CDATA[David Cross, Partner Engineering Director presented a Microsoft Security Intelligence Report to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d81e/621ff779-798b-4e2b-bf3f-22fe9705d81e/SecurityIntelligence_mid.mp4</video:content_loc>
+        <video:duration>2753</video:duration>
+        <video:publication_date>2014-07-14T22:51:23.0219860+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Introduction-to-OAuth-Redmond-Interoperability-Protocols-Plugfest-2014</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1cf9/703ea50b-37c4-441e-9bd3-970122351cf9/IntrotoOAuth_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to OAuth Redmond Interoperability Protocols Plugfest 2014]]></video:title>
+        <video:description><![CDATA[Andrew Davidoff, Senior Software Design Engineer in Test presents an introduction to OAuth to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1cf9/703ea50b-37c4-441e-9bd3-970122351cf9/IntrotoOAuth_mid.mp4</video:content_loc>
+        <video:duration>1621</video:duration>
+        <video:publication_date>2014-07-14T22:51:04.8208035+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Redmond-Interoperability-Protocols-Plugfest-2014/Keynote-Day-1-Redmond-Interoperability-Protocols-Plugfest-2014</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd77/08792c74-b5c6-46b8-803f-db047fc7bd77/Keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote Day 1 Redmond Interoperability Protocols Plugfest 2014]]></video:title>
+        <video:description><![CDATA[Carl Tostevin, Microsoft Corporate Vice President delivered a talk on Microsoft&#39;s commitment to operability to the attendees of the Redmond Interoperability Protocols Plugfest 2014.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd77/08792c74-b5c6-46b8-803f-db047fc7bd77/Keynote_mid.mp4</video:content_loc>
+        <video:duration>994</video:duration>
+        <video:publication_date>2014-07-14T22:50:26.3901915+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

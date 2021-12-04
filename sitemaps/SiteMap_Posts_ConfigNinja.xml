@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/SC2012CMR2Upgrade</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f5bd/8d72fe6d-6d5e-4c6c-805a-0f7d7401f5bd/UpgradetoR2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[System Center 2012 R2 Configuration Manager Released, Its time to upgrade.]]></video:title>
+        <video:description><![CDATA[With this new release, it means a lot of things but one of the meanings is that we can take advantage of Windows Server 2012 R2 and Windows 8.1. But how about if you already have System Center 2012&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f5bd/8d72fe6d-6d5e-4c6c-805a-0f7d7401f5bd/UpgradetoR2_mid.mp4</video:content_loc>
+        <video:duration>962</video:duration>
+        <video:publication_date>2013-10-31T15:31:35.7805870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/CMPrimarySiteRecovery</loc>
+      <lastmod>2013-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/13e8/3b1d194d-0b97-45de-80cb-c582429b13e8/primarysite_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[I lost my primary site in my hierarchy, what I do now?]]></video:title>
+        <video:description><![CDATA[I few weeks ago this happened to one of you, I know the frustration that this may have caused when you initially saw it. Either the server files where corrupted or the vhd was lost on a power lost,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13e8/3b1d194d-0b97-45de-80cb-c582429b13e8/primarysite_mid.mp4</video:content_loc>
+        <video:duration>1483</video:duration>
+        <video:publication_date>2013-05-17T02:44:10.8316782+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-41-The-New-Microsoft-Graph-Explorer</loc>
+      <lastmod>2016-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5549/f00dce88-6369-4a26-9a76-9475324d5549/AllNewMicrosoftGraphExplorer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 41 - The New Microsoft Graph Explorer]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 41 - The New Microsoft Graph Explorer In this episode of the Office Dev Show, Yina Arenas is joined by Office Dev Interns Toby and Elizabeth to demonstrate the new Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5549/f00dce88-6369-4a26-9a76-9475324d5549/AllNewMicrosoftGraphExplorer_mid.mp4</video:content_loc>
+        <video:duration>477</video:duration>
+        <video:publication_date>2016-11-09T18:10:12.7346636+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-40-App-Only-Permissions-and-the-Microsoft-Graph</loc>
+      <lastmod>2017-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2c36/3a0bd4f2-7e25-4967-9a92-a8925c2c2c36/AppOnlyPermissionsMicrosoftGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 40 - App-Only Permissions and the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 40 - App-Only Permissions and the Microsoft Graph In this episode of the Office Dev Show, Richard shows you how to leverage application permissions with the Microsoft Graph.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c36/3a0bd4f2-7e25-4967-9a92-a8925c2c2c36/AppOnlyPermissionsMicrosoftGraph_mid.mp4</video:content_loc>
+        <video:duration>1712</video:duration>
+        <video:publication_date>2016-08-03T14:56:26.1369895+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-39-OneNote-APIs-in-the-Microsoft-Graph</loc>
+      <lastmod>2017-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6cd0/a7329a67-2a1f-4661-ade0-82b8f8e66cd0/OneNoteMicrosoftGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 39 - OneNote APIs in the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 39 - OneNote APIs in the Microsoft Graph I this episode of the Office Dev Show, Richard explores the OneNote APIs in the Microsoft Graph. They allow developers to manipulate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cd0/a7329a67-2a1f-4661-ade0-82b8f8e66cd0/OneNoteMicrosoftGraph_mid.mp4</video:content_loc>
+        <video:duration>1221</video:duration>
+        <video:publication_date>2016-07-27T15:00:57.9345605+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-38-OneDrive-APIs-in-the-Microsoft-Graph</loc>
+      <lastmod>2016-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1a9a/5a2e3f52-50ae-4436-8e6b-c6d149361a9a/OneDriveAPIinMSGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 38 - OneDrive APIs in the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 38 - OneDrive APIs in the Microsoft Graph In this episode of the Office Dev Show, Richard diZerega explores the OneDrive APIs in the Microsoft Graph. The APIs offer a single&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1a9a/5a2e3f52-50ae-4436-8e6b-c6d149361a9a/OneDriveAPIinMSGraph_mid.mp4</video:content_loc>
+        <video:duration>1094</video:duration>
+        <video:publication_date>2016-07-20T17:42:51.4866300+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-37-Building-Webhooks-with-the-Microsoft-Graph</loc>
+      <lastmod>2017-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/628d/bfe78166-4eeb-4526-8cb1-247b2d3a628d/WebhooksAndMicrosoftGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 37 - Building Webhooks with the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 37 - Building Webhooks with the Microsoft Graph In this episode of the Office Dev Show, Richard explores how to build webhooks against the Microsoft Graph. Webhooks are a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/628d/bfe78166-4eeb-4526-8cb1-247b2d3a628d/WebhooksAndMicrosoftGraph_mid.mp4</video:content_loc>
+        <video:duration>1511</video:duration>
+        <video:publication_date>2016-07-13T19:06:09.3531514+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-36-Microsoft-Graph-with-Ionic-2-and-Angular-2</loc>
+      <lastmod>2019-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/51ce/4f49645b-4692-44dd-a5e1-ce70dfcb51ce/Ionic2MicrosoftGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 36 - Microsoft Graph with Ionic 2 and Angular 2]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 36 - Microsoft Graph with Ionic 2 and Angular 2 In this episode of the Office Dev Show, Richard diZerega explores how to build a Cordova mobile application using Ionic 2,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/51ce/4f49645b-4692-44dd-a5e1-ce70dfcb51ce/Ionic2MicrosoftGraph_mid.mp4</video:content_loc>
+        <video:duration>1658</video:duration>
+        <video:publication_date>2016-07-06T17:24:58.0838628+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-35-Getting-Started-with-Angular-2-and-the-Microsoft-Graph</loc>
+      <lastmod>2018-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2eb/a4c37fdd-15b3-437d-bfaa-fc8d8704a2eb/Angular2MicrosoftGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 35 - Getting Started with Angular 2 and the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 35 - Getting Started with Angular 2 and the Microsoft Graph In this episode of the Office Dev Show, Richard diZerega explores how to connect to the Microsoft Graph from an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2eb/a4c37fdd-15b3-437d-bfaa-fc8d8704a2eb/Angular2MicrosoftGraph_mid.mp4</video:content_loc>
+        <video:duration>1469</video:duration>
+        <video:publication_date>2016-06-29T15:30:18.4733817+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-34-Getting-Started-with-Bots-and-the-Microsoft-Graph</loc>
+      <lastmod>2018-03-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ac0/02d327da-4a5b-4554-bb6b-5b4188637ac0/GettingStartedwithBotsMSGraph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 34 - Getting Started with Bots and the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 34 - Getting Started with Bots and the Microsoft Graph In this episode of the Office Dev Show, Richard diZerega demonstrates how to use the Microsoft Bot Framework and Mat&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ac0/02d327da-4a5b-4554-bb6b-5b4188637ac0/GettingStartedwithBotsMSGraph_mid.mp4</video:content_loc>
+        <video:duration>1522</video:duration>
+        <video:publication_date>2016-06-22T16:16:42.3061404+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-33-Add-in-Commands-and-new-Office-tooling-for-Visual-Studio</loc>
+      <lastmod>2017-12-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4f0d/9401edcf-e97e-43c9-ad5b-e29c1c314f0d/OfficeDevShowAddinCommands_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 33 - Add-in Commands and new Office tooling for Visual Studio]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 33 - Add-in Commands and new Office tooling for Visual Studio In this episode of the Office Dev Show, Richard diZerega is joined by Humberto Lezama Guadarrama to discuss&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f0d/9401edcf-e97e-43c9-ad5b-e29c1c314f0d/OfficeDevShowAddinCommands_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2016-06-15T17:22:10.7021950+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-32-Debugging-Office-Add-ins-with-VorlonJS</loc>
+      <lastmod>2016-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d72/c2fd645e-78a4-4847-a467-cdb4f9013d72/OfficeDevShowDebuggingAddInswithVorlonJS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 32 - Debugging Office Add-ins with VorlonJS]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 32 - Debugging Office Add-ins with VorlonJS In this episode of the Office Dev Show, Richard diZerega shows how to remotely debug Office add-ins using VorlonJS. VorlonJS makes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d72/c2fd645e-78a4-4847-a467-cdb4f9013d72/OfficeDevShowDebuggingAddInswithVorlonJS_mid.mp4</video:content_loc>
+        <video:duration>814</video:duration>
+        <video:publication_date>2016-06-02T18:41:40.3797442+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-31-Office-Online-WOPI-Integration</loc>
+      <lastmod>2020-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f838/832e8621-bf94-4ac6-8de0-7032e29af838/OfficeDevShowCloudStorage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 31 - Office Online WOPI Integration]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 31 - Office Online WOPI Integration In this episode of the Office Dev Show, Richard diZerega demonstrates how storage providers can integrate with Office Online using a WOPI&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f838/832e8621-bf94-4ac6-8de0-7032e29af838/OfficeDevShowCloudStorage_mid.mp4</video:content_loc>
+        <video:duration>858</video:duration>
+        <video:publication_date>2016-05-25T16:25:08.5852368+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-30-Getting-Started-with-Office-365-Connectors</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3806/3d12d98a-78b1-4441-b0ed-62fe5afd3806/OfficeDevShowBuildingOffice365Connectors_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 30 - Getting Started with Office 365 Connectors]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 30 - Getting Started with Office 365 Connectors In this episode of the Office Dev Show, Richard diZerega discusses how to get started developing Office 365 Connectors.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3806/3d12d98a-78b1-4441-b0ed-62fe5afd3806/OfficeDevShowBuildingOffice365Connectors_mid.mp4</video:content_loc>
+        <video:duration>992</video:duration>
+        <video:publication_date>2016-05-18T16:13:57.4670314+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-29-Getting-Started-with-the-Skype-Web-SDK</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/451a/3c9423b6-637e-4dab-8f9c-01aa920f451a/OfficeDevShowSkypeWebSDK_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 29 - Getting Started with the Skype Web SDK]]></video:title>
+        <video:description><![CDATA[In this episode of the Office Dev Show, Richard diZerega is joined by Srividhya Chandrasekaran from the Skype for Business extensibility team to discuss the new Skype Web SDK. You can use this Skype&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/451a/3c9423b6-637e-4dab-8f9c-01aa920f451a/OfficeDevShowSkypeWebSDK_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2016-05-11T15:22:32.7350356+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-28-Microsoft-Graph-and-Excel-APIs</loc>
+      <lastmod>2017-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0996/d7ab3690-59f9-4117-8de7-115eee5c0996/OfficeDevShowMicrosoftGraphExcelAPIs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 28 - Microsoft Graph and Excel APIs]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 28 - Microsoft Graph and Excel APIs In this episode of the Office Dev Show, Richard diZerega discusses the new Excel APIs in the Microsoft Graph. With these new APIs,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0996/d7ab3690-59f9-4117-8de7-115eee5c0996/OfficeDevShowMicrosoftGraphExcelAPIs_mid.mp4</video:content_loc>
+        <video:duration>1011</video:duration>
+        <video:publication_date>2016-05-04T18:53:00.1486419+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-27-Azure-AD-Converged-Authentication-and-the-Microsoft-Graph</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e371/23cd00c8-a658-499b-a988-c18d74b9e371/OfficeDevShowVittorioBertocci_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 27 - Azure AD Converged Authentication and the Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 27 - Azure AD Converged Authentication and the Microsoft Graph In this episode of the Office Dev Show, Richard diZerega talks with Mr. Cloud Identity, Vittorio Bertocci about&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e371/23cd00c8-a658-499b-a988-c18d74b9e371/OfficeDevShowVittorioBertocci_mid.mp4</video:content_loc>
+        <video:duration>2362</video:duration>
+        <video:publication_date>2016-04-27T14:53:28.6654778+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-26-Using-the-Dialog-API-in-Office-Add-ins</loc>
+      <lastmod>2021-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/483f/d387c1a5-0d31-452c-a8fe-a7bae0c8483f/OfficeDevShowDialogueAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 26 - Using the Dialog API in Office Add-ins]]></video:title>
+        <video:description><![CDATA[In this episode of the Office Dev Show, Richard diZerega and Tim McConnell demonstrates how to use the dialog API in Office add-in. The dialog API can be used for a number of scenarios including&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/483f/d387c1a5-0d31-452c-a8fe-a7bae0c8483f/OfficeDevShowDialogueAPI_mid.mp4</video:content_loc>
+        <video:duration>1223</video:duration>
+        <video:publication_date>2016-04-20T16:39:23.7456153+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-25-Angular-Directives-for-Office-UI-Fabric</loc>
+      <lastmod>2017-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/52df/8d45c2dd-7e64-41f8-a95b-8c58528252df/OfficeDevShowEpisode25AngularFabric_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 25 - Angular Directives for Office UI Fabric]]></video:title>
+        <video:description><![CDATA[In this episode of the Office Dev Show, Andrew Connell demonstrates that Angular directives that have been created to use Office UI Fabric. Find it here on GitHub.   Happy Coding! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/52df/8d45c2dd-7e64-41f8-a95b-8c58528252df/OfficeDevShowEpisode25AngularFabric_mid.mp4</video:content_loc>
+        <video:duration>1767</video:duration>
+        <video:publication_date>2016-04-06T16:22:50.7274964+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-24-DocuSign-SharePoint-App</loc>
+      <lastmod>2017-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eef1/e6d7e6c3-6cc8-4790-84d3-0ff822e1eef1/OfficeDevShowDocuSignSharePoint_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 24 - DocuSign SharePoint App]]></video:title>
+        <video:description><![CDATA[In this episode of the Office Dev Show, Ergin from DocuSign delves into the details of the DocuSign SharePoint add-in and how it was built.   Happy Coding! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eef1/e6d7e6c3-6cc8-4790-84d3-0ff822e1eef1/OfficeDevShowDocuSignSharePoint_mid.mp4</video:content_loc>
+        <video:duration>1039</video:duration>
+        <video:publication_date>2016-03-23T16:57:03.8552212+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-23-Getting-Started-with-a-Ruby-App</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e3e0/fd0e7673-d46c-48f4-81e9-6f1daa73e3e0/OfficeDevShowRubyApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 23 - Getting Started with a Ruby App]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 23 - Getting Started with a Ruby App In this episode of the Office Dev Show, Richard diZerega guides us through how to get started building a Ruby App that calls the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e3e0/fd0e7673-d46c-48f4-81e9-6f1daa73e3e0/OfficeDevShowRubyApp_mid.mp4</video:content_loc>
+        <video:duration>1622</video:duration>
+        <video:publication_date>2016-02-17T17:01:40.9821491+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-22-Add-ins-on-Word-for-Mac</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7cdc/008ff59c-d2c9-451e-8b72-c6d2ed627cdc/OfficeDevShowAddInsonMac_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 22 - Add-ins on Word for Mac]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 22 - Add-ins on Word for Mac In this episode, Sudheer Maremanda shows off the new add-ins capabilities in Word for Mac. This is now available in preview, and developers can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7cdc/008ff59c-d2c9-451e-8b72-c6d2ed627cdc/OfficeDevShowAddInsonMac_mid.mp4</video:content_loc>
+        <video:duration>585</video:duration>
+        <video:publication_date>2016-02-04T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-21-Getting-Started-with-Native-iOS-Development</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b64d/06b88f3a-2b92-4049-ac65-3afeee15b64d/OfficeDevShowNativeiOSDevelopment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 21 - Getting Started with Native iOS Development]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 21 - Getting Started with Native iOS Development In this episode of the Office Dev Show, Richard diZerega covers how to get started building Office extensibility solutions&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b64d/06b88f3a-2b92-4049-ac65-3afeee15b64d/OfficeDevShowNativeiOSDevelopment_mid.mp4</video:content_loc>
+        <video:duration>2313</video:duration>
+        <video:publication_date>2016-01-27T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-20-Hackathons</loc>
+      <lastmod>2016-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd05/3d5c6ea2-4849-43b3-9872-713b60eafd05/OfficeDevShowHackathonswithJeremyThake_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 20 - Hackathons]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 20 - Hackathons In this episode of the Office Dev Show, Sonya and Jeremy discuss the various hackathons that the Office Dev team has run this year, and the resources&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd05/3d5c6ea2-4849-43b3-9872-713b60eafd05/OfficeDevShowHackathonswithJeremyThake_mid.mp4</video:content_loc>
+        <video:duration>1667</video:duration>
+        <video:publication_date>2015-12-23T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-19-Formio</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa7f/d32cce29-dfe4-4927-80d8-8283f1f6aa7f/OfficeDevShowFormio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 19 - Form.io]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 19 - Form.io In this episode, Travis and Gary show off Form.io and how it hooks into Office 365 to create custom apps and APIs.   Happy Coding! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa7f/d32cce29-dfe4-4927-80d8-8283f1f6aa7f/OfficeDevShowFormio_mid.mp4</video:content_loc>
+        <video:duration>1675</video:duration>
+        <video:publication_date>2015-11-11T17:21:31.2524197+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/OfficeDevShow-Episode-18-Getting-Started-with-ASPNET</loc>
+      <lastmod>2017-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/99c4/cc0017e4-6f64-4612-ad0b-832c64f499c4/OfficeDevShowGettingStartedASPNET_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OfficeDevShow - Episode 18 - Getting Started with ASP.NET]]></video:title>
+        <video:description><![CDATA[OfficeDevShow - Episode 16 - Getting Started with ASP.NET In this episode of the Office Dev Show, Richard diZerega covers how to get started building Office extensibility solutions with ASP.NET.  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99c4/cc0017e4-6f64-4612-ad0b-832c64f499c4/OfficeDevShowGettingStartedASPNET_mid.mp4</video:content_loc>
+        <video:duration>1198</video:duration>
+        <video:publication_date>2015-11-04T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-17-Grace-Hopper-Celebration</loc>
+      <lastmod>2016-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0fcb/b54a02e8-b21e-4f2e-b099-a43716440fcb/OfficeDevShowGraceHopperCelebration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 17 - Grace Hopper Celebration]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 17 - Grace Hopper Celebration In this episode, Yina Arenas covers the Grace Hopper conference for Women in Technology, and her experience there. Yina also participated in a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0fcb/b54a02e8-b21e-4f2e-b099-a43716440fcb/OfficeDevShowGraceHopperCelebration_mid.mp4</video:content_loc>
+        <video:duration>757</video:duration>
+        <video:publication_date>2015-10-28T16:09:59.3418790+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/OfficeDevShow-Episode-15-Getting-Started-with-Android-Studio</loc>
+      <lastmod>2017-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2246/62987482-d1fa-4994-a797-78580aca2246/OfficeDevShowGettingStartedAndroidStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OfficeDevShow - Episode 16 - Getting Started with Android Studio]]></video:title>
+        <video:description><![CDATA[OfficeDevShow - Episode 15 - Getting Started with Android Studio In this episode of the Office Dev Show, Richard diZerega walks through how to build a native Android app connecting into the Office 365&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2246/62987482-d1fa-4994-a797-78580aca2246/OfficeDevShowGettingStartedAndroidStudio_mid.mp4</video:content_loc>
+        <video:duration>2056</video:duration>
+        <video:publication_date>2015-10-21T16:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-15-Getting-Started-with-Office-Add-ins</loc>
+      <lastmod>2016-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb86/cbdd0a40-72ca-4b95-abb0-a77beef8eb86/OfficeDevShowOfficeAddins_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 15 - Getting Started with Office Add-ins]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 15 - Getting Started with Office Add-ins In this episode of the Office Dev Show, Rich and Sonya go through the two getting started experiences of building Office Add-ins in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb86/cbdd0a40-72ca-4b95-abb0-a77beef8eb86/OfficeDevShowOfficeAddins_mid.mp4</video:content_loc>
+        <video:duration>1675</video:duration>
+        <video:publication_date>2015-10-14T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/OfficeDevShow-Episode-14-Getting-Started-Experience-on-Dev-Office</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9218/347fa844-aa2a-478d-a690-8503244c9218/OfficeDevShowGettingStarteExperienceondevofficeco_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OfficeDevShow - Episode 14 - Getting Started Experience on Dev Office]]></video:title>
+        <video:description><![CDATA[OfficeDevShow - Episode 14 - Getting Started Experience on Dev Office In this episode of the Office Dev Show, Keyur Patel takes us through the brand new Getting Started guided experience on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9218/347fa844-aa2a-478d-a690-8503244c9218/OfficeDevShowGettingStarteExperienceondevofficeco_mid.mp4</video:content_loc>
+        <video:duration>1117</video:duration>
+        <video:publication_date>2015-10-07T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-13-Getting-Started-with-NodeJS</loc>
+      <lastmod>2017-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a9fd/e6334e06-657d-4888-a5dd-1b447eb5a9fd/OfficeDevShowGettingStartedwithNodeJS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 13 - Getting Started with NodeJS]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 13 - Getting Started with NodeJS In this episode of the Office Dev Show, Richard diZerega walks through how to get started building a NodeJS app that connects into the Office&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a9fd/e6334e06-657d-4888-a5dd-1b447eb5a9fd/OfficeDevShowGettingStartedwithNodeJS_mid.mp4</video:content_loc>
+        <video:duration>1968</video:duration>
+        <video:publication_date>2015-09-30T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-12-Office-UI-Fabric</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e0e/e4f98b83-e8c8-4673-b521-0785892b4e0e/OfficeDevShowFabricUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 12 - Office UI Fabric]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 12 - Office UI Fabric In this episode of the Office Dev Show, Humberto Lezama Guadarrama, Eric Thompson, and Peter Jahn discuss and showcase the new Office UI Fabric, a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e0e/e4f98b83-e8c8-4673-b521-0785892b4e0e/OfficeDevShowFabricUI_mid.mp4</video:content_loc>
+        <video:duration>930</video:duration>
+        <video:publication_date>2015-09-23T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-11-Getting-Started-with-AngularJS</loc>
+      <lastmod>2017-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d929/c0514635-f024-4e1b-a27b-08249010d929/OfficeDevShowGettingStartedwithAngular_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 11 - Getting Started with AngularJS]]></video:title>
+        <video:description><![CDATA[Office Dev Show Episode 11 - Getting Started with AngularJS In this episode of the Office Dev Show, Richard diZerega walks us through how to use AngularJS to build an app connecting to Office 365&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d929/c0514635-f024-4e1b-a27b-08249010d929/OfficeDevShowGettingStartedwithAngular_mid.mp4</video:content_loc>
+        <video:duration>1649</video:duration>
+        <video:publication_date>2015-09-16T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-10-File-Handlers-and-Smartsheet</loc>
+      <lastmod>2015-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a9b/3ad89836-7e27-4183-a7fb-98c606858a9b/OfficeDevShowSmartsheetFileHandler_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 10 - File Handlers and Smartsheet]]></video:title>
+        <video:description><![CDATA[Office Dev Show File Handlers and Smartsheet - Episode 10 In this episode of the Office Dev Show Dorrene Brown and Ken Adamson, of Smartsheet, show us what File Handlers are, what contexts they are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a9b/3ad89836-7e27-4183-a7fb-98c606858a9b/OfficeDevShowSmartsheetFileHandler_mid.mp4</video:content_loc>
+        <video:duration>724</video:duration>
+        <video:publication_date>2015-09-09T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-9-Getting-Started-with-Cross-platform-Apps</loc>
+      <lastmod>2019-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fbfa/25672693-a736-43c1-aebe-355e292dfbfa/OfficeDevShowCordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 9 - Getting Started with Cross-platform Apps]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 8 - Getting Started with Cross-platform Apps In this episode of the Office Dev Show, Richard diZerega shows how to use Apache Cordova to build a simple mobile application&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbfa/25672693-a736-43c1-aebe-355e292dfbfa/OfficeDevShowCordova_mid.mp4</video:content_loc>
+        <video:duration>1545</video:duration>
+        <video:publication_date>2015-09-02T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-8-iPad-Extensibility</loc>
+      <lastmod>2015-10-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9dbd/6a145748-25e0-42f2-b7dc-2c1f929e9dbd/OfficeDevShowIPadExtensibility_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 8 - iPad Extensibility]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 8 - iPad Extensibility  In this episode, Sudheer Maremanda gives us insight into the Office extensibility options available to developers connecting their custom solutions&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9dbd/6a145748-25e0-42f2-b7dc-2c1f929e9dbd/OfficeDevShowIPadExtensibility_mid.mp4</video:content_loc>
+        <video:duration>1623</video:duration>
+        <video:publication_date>2015-08-26T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-7-Getting-Started-with-Python</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9005/51b9d233-5de4-48ff-8fba-ff6a90479005/OfficeDevShowGettingStartedPython_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 7 - Getting Started with Python]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 6 - Getting Started with Python In this episode, Rich diZerega shows us how to get started building a Python app that hooks into the Office 365 Contacts APIs. Rich also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9005/51b9d233-5de4-48ff-8fba-ff6a90479005/OfficeDevShowGettingStartedPython_mid.mp4</video:content_loc>
+        <video:duration>2092</video:duration>
+        <video:publication_date>2015-08-19T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-6-Hackathons</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09f1/7d6c63d6-41da-455c-92e2-942901f209f1/OfficeDevShowHackathons_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 6 - Hackathons]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 6 - Hackathons In this episode we sit down with Jeremy Thake to chat through the hackathons that he will be running in person at three developers conferences this fall.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09f1/7d6c63d6-41da-455c-92e2-942901f209f1/OfficeDevShowHackathons_mid.mp4</video:content_loc>
+        <video:duration>966</video:duration>
+        <video:publication_date>2015-08-12T16:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-5-Interactive-API-Tutorials</loc>
+      <lastmod>2016-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/752f/965942df-41fd-4d82-b1e4-2e673b4a752f/OfficeDevShowInteractiveAPITutorials_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 5 - Interactive API Tutorials]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 5 - Interactive API Tutorials In this episode we sit down with Amelia Bateman, summer intern on the Office Extensibility team, to find out about how her internship experience&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/752f/965942df-41fd-4d82-b1e4-2e673b4a752f/OfficeDevShowInteractiveAPITutorials_mid.mp4</video:content_loc>
+        <video:duration>435</video:duration>
+        <video:publication_date>2015-08-12T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-4-Getting-Started-PHP</loc>
+      <lastmod>2018-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/69c0/a7923afd-b08d-4326-87e1-a73a9a5569c0/OfficeDevShowGettingStartedPHP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 4 - Getting Started with PHP]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 4 - Getting Started with PHP This week&#39;s show features a detailed introduction to building on Office 365 with PHP. Richard diZerega goes through how to build a PHP app that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69c0/a7923afd-b08d-4326-87e1-a73a9a5569c0/OfficeDevShowGettingStartedPHP.mp4</video:content_loc>
+        <video:duration>1149</video:duration>
+        <video:publication_date>2015-08-05T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-3-Patterns-and-Practices</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1093/8ecf753f-1d3d-459b-a27e-e185a82e1093/OfficeDevShowPnP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 3 - Patterns and Practices]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 3 - Patterns and Practices In this show we take a look at the code and details behind the Patterns and Practices site provisioning and branding engine with Vesa Juvonen. Vesa&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1093/8ecf753f-1d3d-459b-a27e-e185a82e1093/OfficeDevShowPnP_mid.mp4</video:content_loc>
+        <video:duration>1526</video:duration>
+        <video:publication_date>2015-07-29T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-2-Getting-Started-Part-1</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/402f/a6ac15d4-e6fa-4465-a82e-690314b0402f/OfficeDevGettingStartedPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 2 - Getting Started Part 1]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 2 - Getting Started Part 1 In this show we kick off the Getting Started series with Richard diZerega for Office 365 development. We discuss the different pivots that Office&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/402f/a6ac15d4-e6fa-4465-a82e-690314b0402f/OfficeDevGettingStartedPart1_mid.mp4</video:content_loc>
+        <video:duration>964</video:duration>
+        <video:publication_date>2015-07-22T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Office-Dev-Show/Office-Dev-Show-Episode-1-Unified-API</loc>
+      <lastmod>2015-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f0f1/c195c631-ac30-412b-8759-4689cf06f0f1/OfficeDevShowUnifiedAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Dev Show - Episode 1 - Unified API]]></video:title>
+        <video:description><![CDATA[Office Dev Show - Episode 1 In this show we discuss the Office 365 unified API with Yina Arenas, and go through the various ways that developers can access all of the data and relationships across the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f0f1/c195c631-ac30-412b-8759-4689cf06f0f1/OfficeDevShowUnifiedAPI_mid.mp4</video:content_loc>
+        <video:duration>961</video:duration>
+        <video:publication_date>2015-07-17T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

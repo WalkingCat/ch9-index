@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureCraft/AzureCraft-Tech-Fest</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureCraft/AzureCraft-Tech-Fest/Tech-Talk-Build-a-ground-station-with-the-Raspberry-Pi</loc>
+      <lastmod>2016-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/938b/7fd2ae98-4736-4feb-9f48-a12bfc88938b/raspberrypi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tech Talk: Build a ground station with the Raspberry Pi]]></video:title>
+        <video:description><![CDATA[Learn to build an Internet of Things gateway device using Windows 10 IoT Core and Raspberry Pi. Basic concepts of data telemetry and how to connect to the Azure Cloud. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/938b/7fd2ae98-4736-4feb-9f48-a12bfc88938b/raspberrypi_mid.mp4</video:content_loc>
+        <video:duration>1309</video:duration>
+        <video:publication_date>2016-06-30T22:36:08.3018567+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureCraft/AzureCraft-Tech-Fest/Tech-Lab-Workshop-Build-a-Nano-Satellite-with-the-BBC-microbit</loc>
+      <lastmod>2016-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/57b6/37f7b3a0-010d-4006-a43a-90abfd6457b6/welcomekeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tech Lab Workshop: Build a Nano Satellite with the BBC micro:bit]]></video:title>
+        <video:description><![CDATA[Create a Nano Satellite and build a data experiment to capture data from sensors using TouchDevelop and micro:bit. http://buildubo.cc/azurecraft ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/57b6/37f7b3a0-010d-4006-a43a-90abfd6457b6/welcomekeynote_mid.mp4</video:content_loc>
+        <video:duration>553</video:duration>
+        <video:publication_date>2016-06-30T22:33:07.4473170+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureCraft/AzureCraft-Tech-Fest/Tech-Lab-Workshop-Build-a-Minecraft-Server-in-the-Cloud</loc>
+      <lastmod>2016-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d04/d3b8f824-a3ba-4c38-89e8-22e584f35d04/minecraftserver_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tech Lab Workshop: Build a Minecraft Server in the Cloud]]></video:title>
+        <video:description><![CDATA[Learn how to use Cloud servers to run and configure Minecraft. In this short session you&#39;ll have a server up and running and get your kids and others in their class to connect to it and start playing. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d04/d3b8f824-a3ba-4c38-89e8-22e584f35d04/minecraftserver_mid.mp4</video:content_loc>
+        <video:duration>2040</video:duration>
+        <video:publication_date>2016-06-30T22:27:26.3641977+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureCraft/AzureCraft-Tech-Fest/Welcome--Keynote-Exploring-New-Frontiers-in-Tech-and-Space</loc>
+      <lastmod>2016-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e779/9fa9fe10-9405-42ab-84c2-6b122883e779/welcomekeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome &amp; Keynote: Exploring New Frontiers in Tech and Space]]></video:title>
+        <video:description><![CDATA[Technology transforms our environments. How can we use the intelligent cloud and data services to explore new frontiers and create new, more personal computing experiences. We&#39;ll take you on a journey&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e779/9fa9fe10-9405-42ab-84c2-6b122883e779/welcomekeynote_mid.mp4</video:content_loc>
+        <video:duration>2364</video:duration>
+        <video:publication_date>2016-06-30T22:03:24.1423984+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

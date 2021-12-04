@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-ASPNET-Core</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-ASPNET-Core/03-ASPNET-Core-MVC</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f7f/dbd376f5-f9c7-4beb-bcb7-0c2a79ac6f7f/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| ASP.NET Core MVC]]></video:title>
+        <video:description><![CDATA[Dieses Video gibt eine Einf&#252;hrung in das neue ASP.NET Core MVC Framework. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f7f/dbd376f5-f9c7-4beb-bcb7-0c2a79ac6f7f/03_mid.mp4</video:content_loc>
+        <video:duration>1560</video:duration>
+        <video:publication_date>2016-06-15T10:13:21.4719675+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-ASPNET-Core/02-Middleware-und-Dependency-Injection</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1d7/12e47fda-e682-450c-baab-b9eb673eb1d7/02b_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Middleware und Dependency Injection]]></video:title>
+        <video:description><![CDATA[In diesem Video werden die grundlegenden Konzepte der Startup-Klasse erl&#228;utert. Dazu z&#228;hlt das Verwenden von Konfigurationsdateien, die HTTP-Pipeline und Dependency Injection. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1d7/12e47fda-e682-450c-baab-b9eb673eb1d7/02b_mid.mp4</video:content_loc>
+        <video:duration>1770</video:duration>
+        <video:publication_date>2016-06-15T10:12:55.9521963+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-ASPNET-Core/01-Was-ist-ASPNET-Core</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fcc8/c6cd186f-1de1-4669-a132-6cb345e2fcc8/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Was ist ASP.NET Core?]]></video:title>
+        <video:description><![CDATA[Dieses Video gibt eine Einf&#252;hrung in ASP.Net Core und stellt die grundlegende Projektstruktur vor. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fcc8/c6cd186f-1de1-4669-a132-6cb345e2fcc8/01_mid.mp4</video:content_loc>
+        <video:duration>1630</video:duration>
+        <video:publication_date>2016-06-15T10:12:17.4088159+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

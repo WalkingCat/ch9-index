@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Verschlsselung-von-VMs-in-Azure-mit-CloudLink</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Verschlsselung-von-VMs-in-Azure-mit-CloudLink/Teil-3-Schtzen-einer-VM-mit-CloudLink-SecureVM</loc>
+      <lastmod>2016-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e370/df69dd08-e743-4ff1-a5e3-d27df8d6e370/2016cloudlink3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 3: Sch&#252;tzen einer VM mit CloudLink SecureVM]]></video:title>
+        <video:description><![CDATA[CloudLink SecureVM unterst&#252;tzt die Verschl&#252;sselung von Datentr&#228;gern von VMs unter Windows mittels Bitlocker und unter Linux mittels dm-crypt und eCryptfs. In diesem dritten und letzten Teil&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e370/df69dd08-e743-4ff1-a5e3-d27df8d6e370/2016cloudlink3_mid.mp4</video:content_loc>
+        <video:duration>1240</video:duration>
+        <video:publication_date>2016-02-12T09:09:20.6251927+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Verschlsselung-von-VMs-in-Azure-mit-CloudLink/Teil-2-Erstellen-einer-VM-mit-CloudLink-Center</loc>
+      <lastmod>2016-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a56/ecec17a3-e453-4c10-a4f3-764e3ffd5a56/2016cloudlink2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 2: Erstellen einer VM mit CloudLink Center]]></video:title>
+        <video:description><![CDATA[Die Verschl&#252;sselung von Datentr&#228;gern ist mit Windows und Linux eine F&#228;higkeit, die au&#223;erhalb der Cloud bereits lange eingesetzt wird. Die daf&#252;r wichtigen Schl&#252;ssel werden meist durch Hardware (z.B.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a56/ecec17a3-e453-4c10-a4f3-764e3ffd5a56/2016cloudlink2_mid.mp4</video:content_loc>
+        <video:duration>1702</video:duration>
+        <video:publication_date>2016-02-12T09:01:40.1755244+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Verschlsselung-von-VMs-in-Azure-mit-CloudLink/Teil-1-Intro-Azure-Portal-Azure-Marketplace</loc>
+      <lastmod>2016-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b91d/86e0d092-ec88-4079-9f56-6943fa15b91d/2016cloudlink1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 1: Einf&#252;hrung in das Azure Portal &amp; Azure Marketplace]]></video:title>
+        <video:description><![CDATA[In Microsoft Azure gibt es eine enorme Auswahl an Diensten und vorkonfigurierten Systemen von Microsoft als auch von Drittanbietern, die im Azure Marketplace zu finden sind. Die vorgestellte L&#246;sung&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b91d/86e0d092-ec88-4079-9f56-6943fa15b91d/2016cloudlink1_mid.mp4</video:content_loc>
+        <video:duration>1391</video:duration>
+        <video:publication_date>2016-02-12T08:54:33.6698702+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

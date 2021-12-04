@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/Introduction-Arabic</loc>
+      <lastmod>2017-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b3c/c2304a90-37e1-4264-a882-bc0e61556b3c/IntroductionArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction (Arabic)]]></video:title>
+        <video:description><![CDATA[General introduction about Digital Transformation and the structure of Microsoft Data Platform ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b3c/c2304a90-37e1-4264-a882-bc0e61556b3c/IntroductionArabic_mid.mp4</video:content_loc>
+        <video:duration>779</video:duration>
+        <video:publication_date>2016-12-13T07:53:31.5712213+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/SQL-Server-2016-Everything-built-in-Arabic</loc>
+      <lastmod>2016-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5598/9354b27f-3c38-41f4-a6b9-5cebfcb75598/SQLServer2016Arabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016: Everything built-in (Arabic)]]></video:title>
+        <video:description><![CDATA[The new features of SQL Server 2016, a demo about the Mobile Report Publisher and a comparison between the different editions of SQL Server 2016 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5598/9354b27f-3c38-41f4-a6b9-5cebfcb75598/SQLServer2016Arabic_mid.mp4</video:content_loc>
+        <video:duration>1450</video:duration>
+        <video:publication_date>2016-12-13T07:53:28.6445934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/Power-BI-Arabic</loc>
+      <lastmod>2016-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f468/f5fd78fb-67c4-497e-b4a2-e779eb54f468/PowerBIAArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI (Arabic)]]></video:title>
+        <video:description><![CDATA[Description of the tool Power BI and a demo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f468/f5fd78fb-67c4-497e-b4a2-e779eb54f468/PowerBIAArabic_mid.mp4</video:content_loc>
+        <video:duration>1117</video:duration>
+        <video:publication_date>2016-12-13T07:53:25.4304475+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/Conclusion-Arabic</loc>
+      <lastmod>2016-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/546e/bb7e5518-db0c-4dd3-9f5b-12c94347546e/ConclusionArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conclusion (Arabic)]]></video:title>
+        <video:description><![CDATA[General conclusion on the course contents and the resources ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/546e/bb7e5518-db0c-4dd3-9f5b-12c94347546e/ConclusionArabic_mid.mp4</video:content_loc>
+        <video:duration>511</video:duration>
+        <video:publication_date>2016-12-13T07:53:22.6500807+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

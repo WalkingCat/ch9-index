@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying-Office-365-ProPlus</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying-Office-365-ProPlus/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b485/d8dae839-8bc4-4027-ae9a-d1c9e810b485/638DeployingOffice365ProPlusM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Office 365 ProPlus: (05) Troubleshooting Installations and Updates]]></video:title>
+        <video:description><![CDATA[See how to quickly troubleshoot problems with installation and updates. Go through the process of how to turn on verbose logging, parse logs, and look for proxy errors. [02:19] - Logging[18:41] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b485/d8dae839-8bc4-4027-ae9a-d1c9e810b485/638DeployingOffice365ProPlusM05_mid.mp4</video:content_loc>
+        <video:duration>1733</video:duration>
+        <video:publication_date>2015-03-19T15:14:57.2304403+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying-Office-365-ProPlus/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c04/c60c9e98-3da7-4b35-bb2b-f251be107c04/638DeployingOffice365ProPlusM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Office 365 ProPlus: (04) Managing Updates]]></video:title>
+        <video:description><![CDATA[If you don’t want your users to receive monthly automatic updates, find out the best ways to download, test, and deploy, using a staged update process. Learn how to turn off and to control when and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c04/c60c9e98-3da7-4b35-bb2b-f251be107c04/638DeployingOffice365ProPlusM04_mid.mp4</video:content_loc>
+        <video:duration>3094</video:duration>
+        <video:publication_date>2015-03-19T15:14:48.4593334+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying-Office-365-ProPlus/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6c58/cdfa9d62-f722-43f7-a6f4-c44ae4856c58/638DeployingOffice365ProPlusM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Office 365 ProPlus: (03) Planning &amp; Deployment - Part 2]]></video:title>
+        <video:description><![CDATA[Further explore deployment options, including how to leverage System Center Configuration Manager (SCCM) 2012, Microsoft Intune, and the Microsoft Deployment Toolkit (MDT). [01:31] - The Many Ways of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c58/cdfa9d62-f722-43f7-a6f4-c44ae4856c58/638DeployingOffice365ProPlusM03_mid.mp4</video:content_loc>
+        <video:duration>2340</video:duration>
+        <video:publication_date>2015-03-19T15:14:42.0749210+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying-Office-365-ProPlus/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/46cf/4dc45f3b-e359-4da8-ae1c-8ee6c2cf46cf/638DeployingOffice365ProPlusM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Office 365 ProPlus: (02) Planning &amp; Deployment - Part 1]]></video:title>
+        <video:description><![CDATA[Explore several deployment methodologies, including how to install on behalf of the user, like a normal Office deployment, fully automated and completely offline. Go over how to use the Office&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/46cf/4dc45f3b-e359-4da8-ae1c-8ee6c2cf46cf/638DeployingOffice365ProPlusM02_mid.mp4</video:content_loc>
+        <video:duration>2939</video:duration>
+        <video:publication_date>2015-03-19T15:14:35.5022525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying-Office-365-ProPlus/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6490/c626a089-e934-4baa-9b0a-13a73b4b6490/638DeployingOffice365ProPlusM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Office 365 ProPlus: (01) Introduction to Office 365 ProPlus]]></video:title>
+        <video:description><![CDATA[Learn about the features and benefits of Office 365 ProPlus and the click-to-run technology. See what it takes to get started with Office 365 ProPlus, and get a definition of the infrastructure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6490/c626a089-e934-4baa-9b0a-13a73b4b6490/638DeployingOffice365ProPlusM01_mid.mp4</video:content_loc>
+        <video:duration>3861</video:duration>
+        <video:publication_date>2015-03-19T15:13:05.7468670+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

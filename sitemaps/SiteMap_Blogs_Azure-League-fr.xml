@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-League-fr</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-League-fr/Faites-connaitre-votre-startup-sur-nos-rseaux-sociaux</loc>
+      <lastmod>2015-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/60f7/0c8d37b0-a5f6-40e6-8e35-e9789bf060f7/FaitesConnaitreVotreStartup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Faites connaitre votre startup sur nos r&#233;seaux sociaux]]></video:title>
+        <video:description><![CDATA[Dans le cadre du programme BizSpark, nous souhaiterions mettre en avant votre startup via une vid&#233;o pr&#233;sentation de 5 minutes de votre projet. Cette vid&#233;o sera diffus&#233;e sur diff&#233;rents r&#233;seaux sociaux&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/60f7/0c8d37b0-a5f6-40e6-8e35-e9789bf060f7/FaitesConnaitreVotreStartup_mid.mp4</video:content_loc>
+        <video:duration>590</video:duration>
+        <video:publication_date>2015-06-04T11:42:44.8423440+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-League-fr/Web-Db--Worker--Les-Cloud-de-Kokoroe</loc>
+      <lastmod>2015-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ce96/9be9cb26-0e86-4a55-903f-497f53e7ce96/Kokoroe_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[La plateforme Azure IaaS de Kokoroe]]></video:title>
+        <video:description><![CDATA[Kokoroe est la 1&#232;re plateforme de partage du savoirs et accueille tous les types de talents des plus classiques: histoire, langues, yoga, au plus originaux :hoola-hoop, Ukulele, Photoshop, origami.. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce96/9be9cb26-0e86-4a55-903f-497f53e7ce96/Kokoroe_mid.mp4</video:content_loc>
+        <video:duration>229</video:duration>
+        <video:publication_date>2015-05-05T08:20:26.1658201+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-League-fr/Votre-labo-collaboratif-sur-le-cloud-by-Zanadu</loc>
+      <lastmod>2015-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91c9/23b1934f-98f5-4691-8607-b583e00091c9/zanadu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Votre labo collaboratif sur le cloud by Zanadu]]></video:title>
+        <video:description><![CDATA[Zanadu est une plateforme collaborative sur Azure destin&#233;e &#224; l&#39;&#233;laboration, l&#39;&#233;dition puis la diffusion de documents ex&#233;cutables. Avec Zanadu, vous pouvez concevoir, mettre en forme puis distribuer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91c9/23b1934f-98f5-4691-8607-b583e00091c9/zanadu_mid.mp4</video:content_loc>
+        <video:duration>339</video:duration>
+        <video:publication_date>2015-03-31T08:11:50.0788511+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design/06</loc>
+      <lastmod>2018-07-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bbff/5060d951-99bc-4c27-b16b-8242bba9bbff/359WebAPIDesignM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web API Design: (06) Advanced Design]]></video:title>
+        <video:description><![CDATA[Learn about building parameters, using type converters, model-binding, methods to version the API, and wrapping the service in Azure API services​. [01:45] - Parameter Binding[09:08] - Type&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bbff/5060d951-99bc-4c27-b16b-8242bba9bbff/359WebAPIDesignM06_mid.mp4</video:content_loc>
+        <video:duration>2620</video:duration>
+        <video:publication_date>2015-02-06T17:09:29.4310621+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design/05</loc>
+      <lastmod>2018-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/58f4/98af1ec7-ac38-4454-bed7-1fa5b39058f4/359WebAPIDesignM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web API Design: (05) Security]]></video:title>
+        <video:description><![CDATA[Get details on authentication, token-based authentication, authorization filters, role-based authorization, and preventing cross-site request forgery​. [03:23] - Authentication in the Host[13:44] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58f4/98af1ec7-ac38-4454-bed7-1fa5b39058f4/359WebAPIDesignM05_mid.mp4</video:content_loc>
+        <video:duration>3157</video:duration>
+        <video:publication_date>2015-02-06T17:09:22.8285136+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design/04</loc>
+      <lastmod>2020-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afc5/8f4586a3-6c51-404a-a78a-f387d755afc5/359WebAPIDesignM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web API Design: (04) Validation and Error Handling]]></video:title>
+        <video:description><![CDATA[Discover standard ways to manage errors and status codes, using built-in model validation in ASP.NET, taking advantage of helpers, exception filters, and global exception handling. [06:37] - Status&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afc5/8f4586a3-6c51-404a-a78a-f387d755afc5/359WebAPIDesignM04_mid.mp4</video:content_loc>
+        <video:duration>3123</video:duration>
+        <video:publication_date>2015-02-06T17:09:14.9548161+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design/03</loc>
+      <lastmod>2018-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1384/589ded4a-9587-4f47-9cb1-27a55b401384/359WebAPIDesignM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web API Design: (03) Configuration]]></video:title>
+        <video:description><![CDATA[Learn about using media formatters for custom content type, changing the behavior of serializers, and working with routes and attributes. [08:11] - Media Formatters[15:29] - Camel Case and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1384/589ded4a-9587-4f47-9cb1-27a55b401384/359WebAPIDesignM03_mid.mp4</video:content_loc>
+        <video:duration>2816</video:duration>
+        <video:publication_date>2015-02-06T17:09:07.2729020+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design/02</loc>
+      <lastmod>2018-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c17/f03704ff-c184-44fb-8298-06849f608c17/359WebAPIDesignM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web API Design: (02) Basic Design]]></video:title>
+        <video:description><![CDATA[Gain a greater understanding of resources and HTTP verbs, content negotiation, and tools for testing services.​ [04:52] - Defining the Resource[12:20] - Verbs and Web API[38:46] - Content&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c17/f03704ff-c184-44fb-8298-06849f608c17/359WebAPIDesignM02_mid.mp4</video:content_loc>
+        <video:duration>3526</video:duration>
+        <video:publication_date>2015-02-06T17:08:59.5016874+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-API-Design/01</loc>
+      <lastmod>2021-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bace/74e8f715-cdfd-4dcf-809e-a933291ebace/359WebAPIDesignM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web API Design: (01) Introduction]]></video:title>
+        <video:description><![CDATA[Get an overview of Web API, RESTful services, and ASP.NET scaffolding. [06:56] - ASP.NET Web API[09:10] - Web API Design[10:20] - REST[13:58] - HATEOAS[26:10] - Scaffolding]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bace/74e8f715-cdfd-4dcf-809e-a933291ebace/359WebAPIDesignM01_mid.mp4</video:content_loc>
+        <video:duration>2193</video:duration>
+        <video:publication_date>2015-02-06T17:08:51.9109049+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/Scotland</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/Scotland/The-Code-Craftsmanship-Thing-for-the-Internet-Of-Things-Thing</loc>
+      <lastmod>2016-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ae1/846bc6cb-c543-484c-ac4e-842b00f80ae1/TheCodeCraftsmanshipThingfortheInternetOfThingsTh_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Code Craftsmanship Thing for the Internet Of Things Thing]]></video:title>
+        <video:description><![CDATA[It&#39;s estimated that the average household in a developed economy is home to around 4 general-purpose CPUs (laptops, desktops, tablets), but over 30 microcontrollers (MCUs). It&#39;s important that the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ae1/846bc6cb-c543-484c-ac4e-842b00f80ae1/TheCodeCraftsmanshipThingfortheInternetOfThingsTh_mid.mp4</video:content_loc>
+        <video:duration>3123</video:duration>
+        <video:publication_date>2016-05-17T12:54:20.3122296+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/Scotland/Having-your-Cake-and-eating-to-too</loc>
+      <lastmod>2016-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/Scotland/Brighter-to-the-Core-moving-an-OSS-project-to-Net-Core-10</loc>
+      <lastmod>2016-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/Scotland/Windows-brings-Docker-Goodness-What-does-it-mean-for-NET-developers</loc>
+      <lastmod>2016-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/276f/7ba9f8f6-a30a-44a0-9c08-7b19cddf276f/WindowsbringsDockerGoodnessWhatdoesitmeanforNETde_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows brings Docker Goodness - What does it mean for .NET developers?]]></video:title>
+        <video:description><![CDATA[You&#39;ve ignored them long enough now Microsoft is bringing containers to you in Windows Server 2016. Yes, that&#39;s right, you&#39;ll be able to run containers on Windows using Docker.In this talk we&#39;ll run&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/276f/7ba9f8f6-a30a-44a0-9c08-7b19cddf276f/WindowsbringsDockerGoodnessWhatdoesitmeanforNETde_mid.mp4</video:content_loc>
+        <video:duration>3552</video:duration>
+        <video:publication_date>2016-05-14T09:02:09.8047451+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/Scotland/ASPNET-Core-formerly-5-deep-dive</loc>
+      <lastmod>2016-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

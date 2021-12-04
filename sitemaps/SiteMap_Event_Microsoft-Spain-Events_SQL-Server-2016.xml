@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Server-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Server-2016/Rendimiento-In-memory-y-Seguridad-Avanzada-Critical-Mission</loc>
+      <lastmod>2016-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ad72/14f57621-18c7-48f6-9af4-7d797e59ad72/MissionCriticalSQLServer2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Rendimiento, In-memory y Seguridad Avanzada: Critical Mission]]></video:title>
+        <video:description><![CDATA[Transforme y dise&#241;e sus nuevas aplicaciones de negocio con SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ad72/14f57621-18c7-48f6-9af4-7d797e59ad72/MissionCriticalSQLServer2016_mid.mp4</video:content_loc>
+        <video:duration>2014</video:duration>
+        <video:publication_date>2016-06-07T10:19:23.7566887+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Server-2016/Microsoft-Azure-la-plataforma-de-datos-ms-verstil-y-avanzada</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/63b9/7683890a-9224-4000-b741-c80b125663b9/MicrosoftAzureSQL2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure: la plataforma de datos m&#225;s vers&#225;til y avanzada]]></video:title>
+        <video:description><![CDATA[&#191;Qu&#233; estrategia debo seguir para dar el salto a la nube? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63b9/7683890a-9224-4000-b741-c80b125663b9/MicrosoftAzureSQL2016_mid.mp4</video:content_loc>
+        <video:duration>3133</video:duration>
+        <video:publication_date>2016-06-07T10:18:52.6171762+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Server-2016/Business-Intelligence-Big-Data-y-Analtica-Avanzada</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec9f/c11bd711-e438-4df4-aecb-b3851547ec9f/BusinessIntelligenceSQLServer2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Business Intelligence, Big Data y Anal&#237;tica Avanzada.]]></video:title>
+        <video:description><![CDATA[ &#191;C&#243;mo lo hacemos posible en una &#250;nica plataforma de datos? ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec9f/c11bd711-e438-4df4-aecb-b3851547ec9f/BusinessIntelligenceSQLServer2016_mid.mp4</video:content_loc>
+        <video:duration>1756</video:duration>
+        <video:publication_date>2016-06-07T10:18:48.2255712+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Server-2016/Presentacin</loc>
+      <lastmod>2016-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a91/11908284-aee8-48c9-baff-be86682a8a91/PresentacionSQLServer2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Presentaci&#243;n]]></video:title>
+        <video:description><![CDATA[Descubre el poder de tus datos: SQL Server 2016   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a91/11908284-aee8-48c9-baff-be86682a8a91/PresentacionSQLServer2016_mid.mp4</video:content_loc>
+        <video:duration>808</video:duration>
+        <video:publication_date>2016-06-07T10:18:35.9616836+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

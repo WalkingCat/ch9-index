@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/Eyes-Status-Game-Control</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/33f5/93eb4970-f0ef-467a-8174-9a573b5633f5/tj16eye_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Final Presentation: Eyes Status Game Control]]></video:title>
+        <video:description><![CDATA[A simple drag and drop eye control logic builder to control games and more... GitHub: https://github.com/mvacosmos/eyes_status_game_control ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/33f5/93eb4970-f0ef-467a-8174-9a573b5633f5/tj16eye_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2016-06-01T21:47:00.6393765+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/Promo-Code-Generator</loc>
+      <lastmod>2016-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b102/ed950a71-4397-43df-849c-e0add68cb102/tj17promo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Final Presentation: Promo Code Generator]]></video:title>
+        <video:description><![CDATA[Promote code generator for game developers showing their games at conventions. GitHub: https://github.com/pujariamol/promo_code_generator ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b102/ed950a71-4397-43df-849c-e0add68cb102/tj17promo_mid.mp4</video:content_loc>
+        <video:duration>392</video:duration>
+        <video:publication_date>2016-06-01T21:46:55.8406368+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/Steam-Redirector</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62cd/1806924e-3242-4ef0-b2f8-91fcd92a62cd/tj16steam_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Final Presentation: Steam Redirector]]></video:title>
+        <video:description><![CDATA[A quick tool that allows you to create a landing page that will point users toward the Steam page of your game, with a link to directly launch the Steam Application. Github repo:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62cd/1806924e-3242-4ef0-b2f8-91fcd92a62cd/tj16steam_mid.mp4</video:content_loc>
+        <video:duration>154</video:duration>
+        <video:publication_date>2016-06-01T21:46:52.7867292+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/Landr</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb1d/4f0612f0-d865-4785-920f-c927c0d8eb1d/tj16landr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Final Presentation: Landr]]></video:title>
+        <video:description><![CDATA[A landing page generator for indie game developers. GitHub: https://github.com/BerniceChua/landr ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb1d/4f0612f0-d865-4785-920f-c927c0d8eb1d/tj16landr_mid.mp4</video:content_loc>
+        <video:duration>189</video:duration>
+        <video:publication_date>2016-06-01T21:46:49.3596080+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/HoloRated</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9c0d/74013abb-2bc1-4c57-965b-ea7e10779c0d/tj16holo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Final Presentation: HoloRated]]></video:title>
+        <video:description><![CDATA[An extensible and event-driven library within Unity designed to get user feedback in HoloLens applications and games. GitHub: https://github.com/JonECG/HoloRated ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9c0d/74013abb-2bc1-4c57-965b-ea7e10779c0d/tj16holo_mid.mp4</video:content_loc>
+        <video:duration>221</video:duration>
+        <video:publication_date>2016-06-01T21:46:47.1546967+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/VSCode</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/623e/9251fcf2-fdc9-476d-b644-3348bd6d623e/tj16vscode_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Final Presentation: VSCode Comment Snippets]]></video:title>
+        <video:description><![CDATA[A simple extension to add Comment Snippets for C, Objective-C and CPP and Java. Created by Tobiah Zarlez GitHub repo: https://github.com/TobiahZ/vscode-comment-snippets ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/623e/9251fcf2-fdc9-476d-b644-3348bd6d623e/tj16vscode_mid.mp4</video:content_loc>
+        <video:duration>162</video:duration>
+        <video:publication_date>2016-06-01T21:46:45.5903485+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/Opening-Keynote</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4848/012f1cb6-bc59-4c50-97eb-c02dc7a04848/keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Opening Keynote]]></video:title>
+        <video:description><![CDATA[Tobiah Zarlez, Game Evangelist from Microsoft, introduces Tool Jam. What is Tool Jam? [00:10]Why is Microsoft involved? [03:20]Why is Playcrafting involved? [04:18]Jam Rules/Schedule [07:42]What kind&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4848/012f1cb6-bc59-4c50-97eb-c02dc7a04848/keynote_mid.mp4</video:content_loc>
+        <video:duration>2040</video:duration>
+        <video:publication_date>2016-05-24T20:46:23.3867995+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ToolJam/2016/Conversation-with-Bryce-Johnson</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb6b/0e286c00-2474-490d-a6c2-dc202e91bb6b/BryceIntro_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conversation with Bryce Johnson]]></video:title>
+        <video:description><![CDATA[Jeremy Foster interviews Bryce Johnson about Game Accessibility ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb6b/0e286c00-2474-490d-a6c2-dc202e91bb6b/BryceIntro_mid.mp4</video:content_loc>
+        <video:duration>498</video:duration>
+        <video:publication_date>2016-05-13T00:32:39.8793135+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

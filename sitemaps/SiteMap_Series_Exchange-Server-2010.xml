@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2010</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2010/Recuperar-correosbuzonesBDs--Exchange-Server-2010</loc>
+      <lastmod>2019-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c337/d8310494-cbb3-44fd-8bc3-90387645c337/recuperacion2010_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Recuperar correos y bases de datos | Exchange Server 2010]]></video:title>
+        <video:description><![CDATA[En Este video les muestro como pueden realizar un recuperacion de correos/buzones/base de datos en Exchange Server 2010. La misma logica aplica para Exchange Server 2013Basicamente, el video consiste&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c337/d8310494-cbb3-44fd-8bc3-90387645c337/recuperacion2010_mid.mp4</video:content_loc>
+        <video:duration>2369</video:duration>
+        <video:publication_date>2015-08-08T22:41:13.6148377+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2010/Configurar-E-Mail-Address-Policies--Exchange-Server-2010</loc>
+      <lastmod>2016-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05c7/2d274d0a-1276-40d8-abc4-c56c13d605c7/addresspolicy2010_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configurar E-Mail Address Policies | Exchange Server 2010]]></video:title>
+        <video:description><![CDATA[Un video sencillo donde muestro como crear una politica de correo | email address policy o recipient policy (Es lo mismo)   Por Geovany Acevedo  MCPS MCDST MCTS MCITP MCSA MCSE MCT MVP ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05c7/2d274d0a-1276-40d8-abc4-c56c13d605c7/addresspolicy2010_mid.mp4</video:content_loc>
+        <video:duration>768</video:duration>
+        <video:publication_date>2015-08-05T05:24:27.4042835+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2010/Configurar-MailTips--Exchange-Server-2010</loc>
+      <lastmod>2016-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5396/cc31c64b-f16c-40ff-b828-2fb7b3ba5396/mailtips2010_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configurar MailTips | Exchange Server 2010]]></video:title>
+        <video:description><![CDATA[Un video simple donde muestro como pueden editar MailTips desde EMS y ECP en Exchange Server 2010 Saludos Geovany Acevedo MCPS MCDST MCTS MCITP MCSA MCSE MCT MVP ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5396/cc31c64b-f16c-40ff-b828-2fb7b3ba5396/mailtips2010_mid.mp4</video:content_loc>
+        <video:duration>565</video:duration>
+        <video:publication_date>2015-08-05T05:16:49.3596252+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Windows-PowerShell--A-Brief-Introduction-to-using-WPF-Containers-in-WPK</loc>
+      <lastmod>2019-07-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/2/8/0/1/5/WindowsPowerShellWPK_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : A Brief Introduction to using WPF Containers in WPK  ]]></video:title>
+        <video:description><![CDATA[
+Join James Brundage, Software Tester from the Windows PowerShell team as he introduces how you can use WPK (the WPF PowerShell Kit) to work with common UI containers in WPF.   WPK is available as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/2/8/0/1/5/WindowsPowerShellWPK_ch9.mp4</video:content_loc>
+        <video:duration>651</video:duration>
+        <video:publication_date>2009-12-04T17:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Speeding-up-ParallelFor-using-the-Range-Partitioner</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/7/7/5/0/5/ParallelForRangePartitioner2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Speeding up Parallel.For using the Range Partitioner]]></video:title>
+        <video:description><![CDATA[
+Join Danny Shih as he demonstrates using the range partitioner feature.  Parallel.For is great, but being a general solution, it does not perform optimally for certain specific scenarios, such as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/7/7/5/0/5/ParallelForRangePartitioner2_ch9.mp4</video:content_loc>
+        <video:duration>506</video:duration>
+        <video:publication_date>2009-11-12T18:29:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/TaskCompletionSourceTResult</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/7/7/5/0/5/TaskCompletionSource_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[TaskCompletionSource]]></video:title>
+        <video:description><![CDATA[Join Danny Shih as he introduces the TaskCompletionSource&amp;lt;TResult&amp;gt; type.  He’ll cover basic usage and walk through a full scenarioLearn more about the .NET Framework 4 and keep abreast of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/7/7/5/0/5/TaskCompletionSource_ch9.mp4</video:content_loc>
+        <video:duration>459</video:duration>
+        <video:publication_date>2009-11-12T17:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Task-and-TaskTResult-Waiting-and-Continuations</loc>
+      <lastmod>2016-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/7/7/5/0/5/TaskWaitingContinuations_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Task and Task&amp;#60TResult&amp;#62, Waiting and Continuations]]></video:title>
+        <video:description><![CDATA[
+Join Danny Shih as he introduces the heart of the Task Parallel Library (TPL).  He’ll talk about two core types (Task and Task&amp;lt;TResult&amp;gt;) and two functionalities that they support (waiting and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/7/7/5/0/5/TaskWaitingContinuations_ch9.mp4</video:content_loc>
+        <video:duration>439</video:duration>
+        <video:publication_date>2009-11-12T16:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Refactoring-for-Loops-to-Run-in-Parallel</loc>
+      <lastmod>2018-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/2/6/5/0/5/TPLForLoop_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Refactoring &quot;for&quot; Loops to Run in Parallel]]></video:title>
+        <video:description><![CDATA[Join Danny Shih as he demonstrates how to use the Task Parallel Library (TPL) to refactor sequential &amp;quot;for&amp;quot; loops so that they execute in parallel.  He’ll also cover breaking out of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/2/6/5/0/5/TPLForLoop_ch9.mp4</video:content_loc>
+        <video:duration>327</video:duration>
+        <video:publication_date>2009-11-12T16:13:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Concurrent-Programming-with-NET4-Collections</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/1/1/4/0/5/NET4Collections_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Concurrent Programming with .NET4 Collections]]></video:title>
+        <video:description><![CDATA[Join Josh and Steve as they demonstrate how to use various concurrency-safe Collections classes.Collections and related constructs are new with .NET4 and Visual Studio 2010.Learn more about the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/1/1/4/0/5/NET4Collections_ch9.mp4</video:content_loc>
+        <video:duration>649</video:duration>
+        <video:publication_date>2009-11-11T18:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-to-Cancel-Work-using-NET4-CancellationToken</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/0/1/4/0/5/NET4Cancellation_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How to Cancel Work using .NET4 CancellationToken]]></video:title>
+        <video:description><![CDATA[Join Josh and Steve as they demonstrate how to safely cancel tasks in a parallel task execution scenario.CancellationToken and related constructs are new with .NET4 and Visual Studio 2010.Learn more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/0/1/4/0/5/NET4Cancellation_ch9.mp4</video:content_loc>
+        <video:duration>572</video:duration>
+        <video:publication_date>2009-11-10T23:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Thread-Blocking-Analysis-in-the-VS2010-Profiler</loc>
+      <lastmod>2016-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/0/1/4/0/5/ThreadBlockingAnalysis_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Thread Blocking Analysis in the VS2010 Profiler]]></video:title>
+        <video:description><![CDATA[
+Join Bill Colburn once again as he demonstrates useful analysis techniques within the VS2010 Concurrency Visualizer.  In this screencast, he demonstrates thread synchronization reports, unblocking&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/0/1/4/0/5/ThreadBlockingAnalysis_ch9.mp4</video:content_loc>
+        <video:duration>531</video:duration>
+        <video:publication_date>2009-11-09T19:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/The-NET4-Countdown-Synchronization-Primitive</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/0/1/4/0/5/NET4CountdownSynch_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[The .NET4 Countdown Synchronization Primitive]]></video:title>
+        <video:description><![CDATA[Join Josh and Steve as they demonstrate how to use the new .NET4 Countdown event synchronization primitive in task coordination scenarios.Countdown and related constructs are new with .NET4 and Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/0/1/4/0/5/NET4CountdownSynch_ch9.mp4</video:content_loc>
+        <video:duration>374</video:duration>
+        <video:publication_date>2009-11-05T16:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/LazyltT-Optimized-Resource-Initialization</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/0/1/4/0/5/LazyTOptimizations_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Lazy&amp;#60T&amp;#62 Optimized Resource Initialization]]></video:title>
+        <video:description><![CDATA[Join Josh and Steve as they demonstrate how to use the new .NET4 Lazy&amp;lt;T&amp;gt; class in optimized object initialization scenarios.Lazy&amp;lt;T&amp;gt; is one of many new thread-safe data-structures available&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/0/1/4/0/5/LazyTOptimizations_ch9.mp4</video:content_loc>
+        <video:duration>194</video:duration>
+        <video:publication_date>2009-11-03T18:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Concurrent-Visualization-Techniques-in-the-VS2010-Profiler</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/1/8/3/0/5/ConcurrentVisualizationTechniques1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Concurrent Visualization Techniques in the VS2010 Profiler]]></video:title>
+        <video:description><![CDATA[Join Bill Colburn as he demonstrates useful features of the Concurrency Visualizer available in VS2010.   He discusses visualization of parallel-for loops, I/O reports, sorting the display of threads,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/1/8/3/0/5/ConcurrentVisualizationTechniques1_ch9.mp4</video:content_loc>
+        <video:duration>415</video:duration>
+        <video:publication_date>2009-11-03T02:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/BlockingCollectionT-Demonstration-in-Producer-Consumer-Scenarios</loc>
+      <lastmod>2016-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/5/0/3/0/5/BlockCollection_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[BlockingCollection&amp;#60T&amp;#62 Demonstration in Producer-Consumer Scenarios]]></video:title>
+        <video:description><![CDATA[Join Josh and Steve as they demonstrate how to use the new .NET4 BlockingCollection&amp;lt;T&amp;gt; class in class Producer/Consumer parallel computing scenarios.BlockingCollection&amp;lt;T&amp;gt; is one of many&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/5/0/3/0/5/BlockCollection_ch9.mp4</video:content_loc>
+        <video:duration>363</video:duration>
+        <video:publication_date>2009-10-29T21:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Thread-Visualization-in-the-VS2010-Profiler</loc>
+      <lastmod>2017-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/3/5/2/0/5/ThreadVisualizationPPA_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Thread Visualization in the VS2010 Profiler]]></video:title>
+        <video:description><![CDATA[
+Join James Rapp once again as he dives deeper into the new parallel performance analysis tools available in Visual Studio 2010.  In this video, he discusses ways of managing the quantity of data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/3/5/2/0/5/ThreadVisualizationPPA_ch9.mp4</video:content_loc>
+        <video:duration>425</video:duration>
+        <video:publication_date>2009-10-27T19:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-Parallel-Capabilities-of-the-Visual-Studio-2010-Profiler</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/4/8/0/0/5/PPAIntro2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[New Parallel Capabilities of the Visual Studio 2010 Profiler]]></video:title>
+        <video:description><![CDATA[Visual Studio 2010 (currently in beta) includes new Parallel Performance Analysis tools. The new Profiler is a must-have tool for Developers interested in designing new &amp;quot;many-core&amp;quot;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/4/8/0/0/5/PPAIntro2_ch9.mp4</video:content_loc>
+        <video:duration>527</video:duration>
+        <video:publication_date>2009-10-21T20:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/FASTCGI</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/451a01d3-0e35-49fa-bb8a-8b69a3a71d3d.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying IIS 7.5 + FASTCGI + PHP on Server Core]]></video:title>
+        <video:description><![CDATA[
+Windows Server 2008 R2 Server Core introduces support for subsets of the 2.0/3.0/3.5 .NET Framework in addition to a number of other new optional features and roles.   These additions extend the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/8/5/9/7/4/IISFastCGIdemo_ch9.mp4</video:content_loc>
+        <video:duration>508</video:duration>
+        <video:publication_date>2009-09-21T18:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell-How-To-Variables-Types-and-Operators</loc>
+      <lastmod>2012-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/2/8/6/8/4/PowerShellAficionadoPart1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : Variables, Types, and Operators]]></video:title>
+        <video:description><![CDATA[
+Join James Brundage, PowerShell Test Team SDE, as he introduces Variables, Types, and Operators.  
+
+
+Windows PowerShell is a Windows command-line shell designed for ease-of-use not only by system&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/2/8/6/8/4/PowerShellAficionadoPart1_ch9.mp4</video:content_loc>
+        <video:duration>667</video:duration>
+        <video:publication_date>2009-09-15T15:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell--Remote-Session-Configurations</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/5/4/0/9/4/PowerShellRemoteSessions3_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : Remote Session Custom Configuration]]></video:title>
+        <video:description><![CDATA[Join Krishna Vutukuri, Windows PowerShell SDE, as he demonstrates how to customize remote session behaviour using session configuration concepts.   Example usage scenarios include invocation of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/5/4/0/9/4/PowerShellRemoteSessions3_ch9.mp4</video:content_loc>
+        <video:duration>600</video:duration>
+        <video:publication_date>2009-09-08T21:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell--Advanced-Remote-Sessions</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/4/4/0/9/4/PowerShellRemoteSessions2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : Advanced Remote Sessions]]></video:title>
+        <video:description><![CDATA[Join Krishna Vutukuri, Windows PowerShell SDE, as he demonstrates advanced remoting concepts including command execution across a set of machines, session connection optimization, user-prompts within&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/4/4/0/9/4/PowerShellRemoteSessions2_ch9.mp4</video:content_loc>
+        <video:duration>1040</video:duration>
+        <video:publication_date>2009-09-08T20:20:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell--Remote-Sessions</loc>
+      <lastmod>2018-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/3/4/0/9/4/PowerShellRemoteSessions1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : Remote Sessions]]></video:title>
+        <video:description><![CDATA[Join Krishna Vutukuri, Windows PowerShell SDE, as he demonstrates how to create and use Romote Sessions.   Learn how to invoke remote commands, establish remote session persistence, and enter an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/3/4/0/9/4/PowerShellRemoteSessions1_ch9.mp4</video:content_loc>
+        <video:duration>520</video:duration>
+        <video:publication_date>2009-09-08T18:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell--Create-Object-CmdLets</loc>
+      <lastmod>2017-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/9/4/9/8/4/CreateObjectCmdLets_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : Create Object CmdLets]]></video:title>
+        <video:description><![CDATA[
+Join James Brundage, Windows PowerShell Test Team SDE, as he demonstrates how to create your own Object CmdLets.  
+
+
+Continue your video tour of Windows PowerShell V2 via 
+MSDN Channel9 and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/9/4/9/8/4/CreateObjectCmdLets_ch9.mp4</video:content_loc>
+        <video:duration>611</video:duration>
+        <video:publication_date>2009-09-03T21:09:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell--Object-Family-of-CmdLets-and-the-Object-Pipeline</loc>
+      <lastmod>2017-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/9/4/9/8/4/ObjectCmdLets_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : -Object Family of CmdLets and the Object Pipeline]]></video:title>
+        <video:description><![CDATA[
+Join James Brundage, Windows PowerShell Test Team SDE, as he introduces the -Object family of cmdlets.  
+
+
+Continue your video tour of Windows PowerShell V2 via 
+MSDN Channel9 and 
+TechNET&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/9/4/9/8/4/ObjectCmdLets_ch9.mp4</video:content_loc>
+        <video:duration>923</video:duration>
+        <video:publication_date>2009-09-03T21:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell-How-To--Arrays-Conditionals-Collections-and-Loops</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/3/8/6/8/4/PowerShellAficionadoPart2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell : Arrays, Conditionals, Collections, and Loops]]></video:title>
+        <video:description><![CDATA[
+Join James Brundage, Windows PowerShell Test Team SDE, as he introduces Arrays, Conditionals, Collections, and Loops.  
+
+
+Continue your video tour of Windows PowerShell V2 via 
+MSDN Channel9 and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/3/8/6/8/4/PowerShellAficionadoPart2_ch9.mp4</video:content_loc>
+        <video:duration>906</video:duration>
+        <video:publication_date>2009-08-25T22:59:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/FCI2</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/d7465a1f-16be-447a-910a-1b60e0dc1925.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New File Classification Infrastructure - Part 2, Compressing Stagnant Files ]]></video:title>
+        <video:description><![CDATA[
+The File Classification Infrastructure (FCI) is a new Windows Server technology included within the File Server Role.  FCI is available with Windows Server 2008 R2. 
+
+FCI is used to: 
+
+1. Define&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/7/5/9/7/4/FCIcompressingfiles_ch9.mp4</video:content_loc>
+        <video:duration>759</video:duration>
+        <video:publication_date>2009-07-23T03:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/FCI3</loc>
+      <lastmod>2011-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/57e09d7a-d802-43a4-bd6f-329aa28c20c8.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New File Classification Infrastructure - Part 3, Business Critical Files ]]></video:title>
+        <video:description><![CDATA[
+The File Classification Infrastructure (FCI) is a new Windows Server technology included within the File Server Role.  FCI is available with Windows Server 2008 R2. 
+
+FCI is used to: 
+
+1. Define&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/7/5/9/7/4/FCIbusinesscritical_ch9.mp4</video:content_loc>
+        <video:duration>918</video:duration>
+        <video:publication_date>2009-07-23T03:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/FCIapi</loc>
+      <lastmod>2011-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/86d971a7-40e6-47b9-8355-868a69f41c0a.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New File Classification Infrastructure - Part 4, The FCI API ]]></video:title>
+        <video:description><![CDATA[
+The File Classification Infrastructure (FCI) is a new Windows Server technology included within the File Server Role.  FCI is available with Windows Server 2008 R2. 
+
+FCI is used to: 
+
+1. Define&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/8/5/9/7/4/FCIapi_ch9.mp4</video:content_loc>
+        <video:duration>1348</video:duration>
+        <video:publication_date>2009-07-23T03:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/concrtppl</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/14ae19bd-1b3a-4277-a60c-989cea77a9e5.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The C++ Concurrency Runtime - Parallel Patterns Library]]></video:title>
+        <video:description><![CDATA[
+The C&amp;#43;&amp;#43; Concurrency Runtime is new with Visual Studio 2010 and currently in beta. The runtime encapsulates and extends many new operating system features including NUMA resource locality and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/6/5/9/7/4/ConcrtPPL_ch9.mp4</video:content_loc>
+        <video:duration>799</video:duration>
+        <video:publication_date>2009-07-23T03:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/The-C-Concurrency-Runtime-Asynchronous-Agents-Library</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/d3c49960-9ceb-4af0-ae84-82b2ddd0b4bb.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The C++ Concurrency Runtime - Asynchronous Agents Library]]></video:title>
+        <video:description><![CDATA[The 
+Asynchronous Agents Library (or just Agents Library) provides a programming model that enables you to increase the robustness of concurrency-enabled application development. The Agents Library&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/7/5/9/7/4/ConcrtAgents_ch9.mp4</video:content_loc>
+        <video:duration>629</video:duration>
+        <video:publication_date>2009-07-23T03:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/FCI1</loc>
+      <lastmod>2011-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/2d676a3a-79bc-4c67-be71-6a85469e790c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New File Classfication Infrastructure - Part 1, How to Manage Stale Data ]]></video:title>
+        <video:description><![CDATA[
+The File Classification Infrastructure (FCI) is a new Windows Server technology included within the File Server Role.  FCI is available with Windows Server 2008 R2. 
+
+FCI is used to: 
+
+1. Define&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/7/5/9/7/4/FCIstaledatademo_ch9.mp4</video:content_loc>
+        <video:duration>709</video:duration>
+        <video:publication_date>2009-07-23T03:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/WWSAPI-SERVICE</loc>
+      <lastmod>2010-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/28c130ef-71cd-4ea4-a80b-3d5ee8501866.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Native Web Services, Part 2 - Build a WWSAPI Web Service]]></video:title>
+        <video:description><![CDATA[
+With the Windows Web Services API (WWSAPI), you can connect your C/C&amp;#43;&amp;#43; client applications with web services. You can also create C/C&amp;#43;&amp;#43; server-side web service end-points. WWSAPI is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/0/5/7/7/4/WWSAPISERVICE_ch9.mp4</video:content_loc>
+        <video:duration>873</video:duration>
+        <video:publication_date>2009-07-23T02:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/WWSAPIclient</loc>
+      <lastmod>2011-10-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/0e261db8-3fc0-4599-98ee-7fe5965beeaa.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Native Web Services, Part 1 - Build a WWSAPI Client]]></video:title>
+        <video:description><![CDATA[
+With the Windows Web Services API (WWSAPI), you can connect your C/C&amp;#43;&amp;#43; client applications with web services. You can also create C/C&amp;#43;&amp;#43; server-side web service end-points. WWSAPI is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/0/5/7/7/4/WWSAPICLIENT_ch9.mp4</video:content_loc>
+        <video:duration>1347</video:duration>
+        <video:publication_date>2009-07-23T02:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/WebDAVandPHP</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/89964e3f-bc32-4fc9-a07a-966aecbf6531.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring WebDAV Extension and Deploying PHP Applications]]></video:title>
+        <video:description><![CDATA[The IIS WebDAV extension module incorporates new features that enable web authors to publish content easier than before, and offers web administrators more security and deployment options.
+
+Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/8/5/9/7/4/IISWebDAVandPHP_ch9.mp4</video:content_loc>
+        <video:duration>653</video:duration>
+        <video:publication_date>2009-07-22T01:33:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Trigger-Started-Services</loc>
+      <lastmod>2018-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/5d2d12e9-e2ca-496c-bf53-f3914e0ab781.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Trigger Started Services]]></video:title>
+        <video:description><![CDATA[
+The Windows operating system features built-in infrastructure services (Service Control Manager and Task Scheduler) that help manage background processes. Windows takes advantage of the built-in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/8/5/9/7/4/TriggerServices_ch9.mp4</video:content_loc>
+        <video:duration>848</video:duration>
+        <video:publication_date>2009-07-22T00:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-Power-Management-Features--Windows-Server-2008-R2</loc>
+      <lastmod>2010-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/70d202db-c31b-44ae-8b67-f35853426258.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New Power Management Features : Windows Server 2008 R2 ]]></video:title>
+        <video:description><![CDATA[
+Windows Server 2008 R2 (i.e. &amp;quot;Windows 7 Server&amp;quot;) introduces significant advancements in Server Power Management capabilities. You may never win a Nobel prize for building an application&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/6/9/9/6/4/WindowsPowerManagement_ch9.mp4</video:content_loc>
+        <video:duration>1267</video:duration>
+        <video:publication_date>2009-05-21T01:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/Parallel-Programming-with-NET-Parallel-Extensions</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-to-use-the-New-PowerShell-V2-IIS-Provider</loc>
+      <lastmod>2015-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/234f/3f29b042-331c-439d-91c7-db74220f234f/How-to-use-the-New-PowerShell-V2-IIS-Provider_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell V2 IIS Provider]]></video:title>
+        <video:description><![CDATA[This video demonstration provides and introduction to the new Windows PowerShell provider for IIS available new with Windows Server 2008 R2.
+
+See additional information via 
+MSDN Code Gallery.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/234f/3f29b042-331c-439d-91c7-db74220f234f/How-to-use-the-New-PowerShell-V2-IIS-Provider_mid.mp4</video:content_loc>
+        <video:duration>281</video:duration>
+        <video:publication_date>2009-05-05T20:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell-V2-Remote-Sessions</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0b01/6856df5d-1beb-4980-9a4e-dc124e940b01/PowerShell-V2-Remote-Sessions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell V2 Remote Sessions]]></video:title>
+        <video:description><![CDATA[This video demonstrates using Windows PowerShell V2 remote sessions.   This is a new feature with V2 and available natively within Windows 7 and Windows Server 2008 R2.
+
+See more info about Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b01/6856df5d-1beb-4980-9a4e-dc124e940b01/PowerShell-V2-Remote-Sessions_mid.mp4</video:content_loc>
+        <video:duration>383</video:duration>
+        <video:publication_date>2009-05-02T23:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell-V2-Modules</loc>
+      <lastmod>2021-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell-V2-Sessions-and-Debugging</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/PowerShell-V2-Functions</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b0c3/22b746bb-7aee-4010-bddb-a9f2fc3db0c3/PowerShell-V2-Functions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows PowerShell V2 Functions]]></video:title>
+        <video:description><![CDATA[
+Creating functions in Windows PowerShell is an easy way to extend the environment without resorting to code compilation and complicated deployment steps. 
+By using functions along with the right&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0c3/22b746bb-7aee-4010-bddb-a9f2fc3db0c3/PowerShell-V2-Functions_mid.mp4</video:content_loc>
+        <video:duration>384</video:duration>
+        <video:publication_date>2009-04-09T19:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-to-Deploy-ASPNET-Applications-on-Server-Core</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/3/3/0/6/4/DeployAspNETonServerCore_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How to Deploy ASP.NET Applications on Server Core]]></video:title>
+        <video:description><![CDATA[
+Leverage Windows Server 2008 R2 &amp;quot;Server Core&amp;quot; as an Application Server! 
+ASP.NET is now an optional feature on Server Core.  Learn how to configure IIS and deploy an ASP.NET application. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/3/3/0/6/4/DeployAspNETonServerCore_ch9.mp4</video:content_loc>
+        <video:duration>863</video:duration>
+        <video:publication_date>2009-03-10T02:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-To-Debug-ASPNET-Applications-on-Server-Core</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/4/3/0/6/4/DebugAspNETonServerCore_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How To Debug ASP.NET Applications on Server Core]]></video:title>
+        <video:description><![CDATA[
+Leverage Windows Server 2008 R2 &amp;quot;Server Core&amp;quot; as an Application Server! 
+ASP.NET is now an optional feature on Server Core.  Learn how to configure a remote debug session.  Watch this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/4/3/0/6/4/DebugAspNETonServerCore_ch9.mp4</video:content_loc>
+        <video:duration>659</video:duration>
+        <video:publication_date>2009-03-10T02:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-to-Debug-Native-Code-Server-Core-Applications</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-to-Debug-NET-Server-Core-Applications</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5316/f38882a3-a8f4-43b0-bed5-abe0cbc15316/How-to-Debug-NET-Server-Core-Applications_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Debug .NET Server Core Applications]]></video:title>
+        <video:description><![CDATA[
+Leverage Windows Server 2008 R2 &amp;quot;Server Core&amp;quot; as an Application Server! 
+Remote debugging is easy using Visual Studio. Watch this demo and read more detailed information at the following&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5316/f38882a3-a8f4-43b0-bed5-abe0cbc15316/How-to-Debug-NET-Server-Core-Applications_mid.mp4</video:content_loc>
+        <video:duration>540</video:duration>
+        <video:publication_date>2009-03-09T21:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-To-Develop-C-Applications-for-Windows-2008-R2-Server-Core</loc>
+      <lastmod>2015-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/61ed/9cc2daf5-7559-45ef-adac-7ee6568e61ed/How-To-Develop-C-Applications-for-Windows-2008-R2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How To Develop C++ Applications for Windows 2008 R2, Server Core]]></video:title>
+        <video:description><![CDATA[Leverage Windows Server 2008 R2 &amp;quot;Server Core&amp;quot; as an Application Server!
+
+There are several configuration options to consider when developing native-code applications to run on a Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/61ed/9cc2daf5-7559-45ef-adac-7ee6568e61ed/How-To-Develop-C-Applications-for-Windows-2008-R2_mid.mp4</video:content_loc>
+        <video:duration>733</video:duration>
+        <video:publication_date>2009-02-27T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/How-To-Develop-NET-Applications-for-Windows-Server-2008-R2-Server-Core</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-NUMA-Support-with-Windows-7-and-Windows-Server-2008-R2-PM-Talk</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-NUMA-Support-with-Windows-Server-2008-R2-and-Windows-7</loc>
+      <lastmod>2012-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-NUMA-Support-with-Windows-Server-2008-R2-and-Windows-7-Demo1</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-NUMA-Support-with-Windows-Server-2008-R2-and-Windows-7-Demo2</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/New-NUMA-Support-with-Windows-Server-2008-R2-and-Windows-7-Demo3</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/philpenn/The-Microsoft-OEM-Ready-Certification-Tool</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

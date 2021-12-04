@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/April-Architecting-an-Azure-Networking-Solution</loc>
+      <lastmod>2018-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7b1/11561841-de1d-47e7-aee0-81dfd043f7b1/aprilnetworkingdeepdive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[April - Architecting an Azure Networking Solution]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the team[04:24] Architecting an Azure Networking Solution]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7b1/11561841-de1d-47e7-aee0-81dfd043f7b1/aprilnetworkingdeepdive_mid.mp4</video:content_loc>
+        <video:duration>2544</video:duration>
+        <video:publication_date>2017-04-27T14:32:36.6552176+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/March-Implementing-ExpressRoute</loc>
+      <lastmod>2018-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9ed8/ddd62eb6-9a30-44ce-aefe-45dd00cd9ed8/azurenetworkingdeepdive30032017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[March - Implementing ExpressRoute]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the team[03:34] Fear of Implementing ExpressRoute[08:05] Deployment Options[13:00] Peerings &amp;amp; Requirements[19:43] Before&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ed8/ddd62eb6-9a30-44ce-aefe-45dd00cd9ed8/azurenetworkingdeepdive30032017_mid.mp4</video:content_loc>
+        <video:duration>3138</video:duration>
+        <video:publication_date>2017-04-21T09:16:23.3161416+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/February-Virtual-Datacenter-approach</loc>
+      <lastmod>2017-03-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/da0c/2dbcd571-63c2-4b27-8797-d446494bda0c/azurenetworkingdeepdive28022017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[February - Virtual Datacenter approach]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the teamVirtual Datacenter Approach[07:35] Customer Requirements[13:34] Silos Approach[17:15] Virtual Datacenter Architecture[24:24]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da0c/2dbcd571-63c2-4b27-8797-d446494bda0c/azurenetworkingdeepdive28022017_mid.mp4</video:content_loc>
+        <video:duration>3394</video:duration>
+        <video:publication_date>2017-03-01T14:27:48.6247461+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/January-Hybrid-Cloud-Connectivity-Options</loc>
+      <lastmod>2017-08-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3860/78a01fc1-293b-4f12-ad40-0fdcf01f3860/azurenetworkingdeepdive310117_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[January - Hybrid-Cloud Connectivity Options]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the teamHybrid-Cloud Connectivity Options[03:02] Overview[10:07] Site-to-Site[12:33] ExpressRoute]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3860/78a01fc1-293b-4f12-ad40-0fdcf01f3860/azurenetworkingdeepdive310117_mid.mp4</video:content_loc>
+        <video:duration>2716</video:duration>
+        <video:publication_date>2017-02-01T11:42:44.5679795+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/Azure-Networking-Deep-Dive-13122016</loc>
+      <lastmod>2017-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea27/890bd772-1df7-4b98-9eca-4220b57dea27/azurenetworkingdeepdive13122016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[December - Inter-Vnet Connectivity]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the team[04:45] Networking System IntegratorsInter-Vnet connectivity[09:00] VNet-2-Vnet Connection[20:24] Vnet Peering]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea27/890bd772-1df7-4b98-9eca-4220b57dea27/azurenetworkingdeepdive13122016_mid.mp4</video:content_loc>
+        <video:duration>2803</video:duration>
+        <video:publication_date>2016-12-15T16:02:42.2325594+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/Azure-Networking-Deep-Dive-21112016</loc>
+      <lastmod>2017-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be5d/69bf7122-33f3-4e45-b713-4f7c254ebe5d/azurenetworkigdeepdive21112016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[November - Securing your virtual networks]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the team[07:08] A real life networking storySecuring your virtual networks[15:00] Security Layers[25:22] Isolation[26:29] Network&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be5d/69bf7122-33f3-4e45-b713-4f7c254ebe5d/azurenetworkigdeepdive21112016_mid.mp4</video:content_loc>
+        <video:duration>3634</video:duration>
+        <video:publication_date>2016-11-22T18:46:30.3709419+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Deep-Dive-EMEA-TZ/Azure-Networking-Deep-Dive-25102016</loc>
+      <lastmod>2018-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e2a/c7ded40f-b2ef-4399-9de2-ae9848cd5e2a/Azurenetworkingdeepdive251016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[October - Overview of Azure Virtual Networks]]></video:title>
+        <video:description><![CDATA[Topics on this episode: [00:00] Introduction of the series &amp;amp; the team[04:20] Overview of the Networking EcosystemOverview of Azure Virtual Networks[17:30] Basics of Azure Virtual Networking[32:12]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e2a/c7ded40f-b2ef-4399-9de2-ae9848cd5e2a/Azurenetworkingdeepdive251016_mid.mp4</video:content_loc>
+        <video:duration>2767</video:duration>
+        <video:publication_date>2016-11-02T11:44:03.1532174+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

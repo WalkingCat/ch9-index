@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Windows-X-Menu</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/14d8/774c408f-d261-4ba9-a1fc-e4e5bbc614d8/WinXMenu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows-X Menu]]></video:title>
+        <video:description><![CDATA[The Windows-X menu provides a rich launch experience into the troubleshooting tools of Windows, including Power Options, Event Viewer, System (also Win-Pause), Device Manager, Network Connections,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/14d8/774c408f-d261-4ba9-a1fc-e4e5bbc614d8/WinXMenu_mid.mp4</video:content_loc>
+        <video:duration>400</video:duration>
+        <video:publication_date>2019-01-29T18:29:26.5754619+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/WinDbg-Default-Workspace</loc>
+      <lastmod>2019-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/068f/17e03734-e717-4548-be20-96ee649b068f/WinDbgDefaultWorkspace_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WinDbg Default Workspace]]></video:title>
+        <video:description><![CDATA[The defaults for WinDbg (font, window layout, etc.) can be set by running WinDbg without a dump file. You configure your preferred look-and-feel and then use File | Save Workspace. We go over our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/068f/17e03734-e717-4548-be20-96ee649b068f/WinDbgDefaultWorkspace_mid.mp4</video:content_loc>
+        <video:duration>258</video:duration>
+        <video:publication_date>2019-01-29T18:26:06.4170839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Event-Viewer</loc>
+      <lastmod>2019-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc2a/a7e148d6-5786-41a5-905f-9fb07d4cdc2a/EventViewer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Event Viewer]]></video:title>
+        <video:description><![CDATA[The (Windows) Event Viewer shows the event of the system. The &amp;quot;Windows Logs&amp;quot; section contains (of note) the Application, Security and System logs - which have existed since Windows NT 3.1.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc2a/a7e148d6-5786-41a5-905f-9fb07d4cdc2a/EventViewer_mid.mp4</video:content_loc>
+        <video:duration>261</video:duration>
+        <video:publication_date>2019-01-29T18:23:24.5049192+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Task-Manager</loc>
+      <lastmod>2019-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/12b9/f35746e9-1214-466a-b29c-ab86d52512b9/TaskManager_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Task Manager]]></video:title>
+        <video:description><![CDATA[The (Windows) Task Manager allows a user to view the performance of the system. It contains views that show the overall performance, and the performance per Package/Process. It also shows the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/12b9/f35746e9-1214-466a-b29c-ab86d52512b9/TaskManager_mid.mp4</video:content_loc>
+        <video:duration>315</video:duration>
+        <video:publication_date>2019-01-29T18:19:27.5181237+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Device-Manager</loc>
+      <lastmod>2019-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7818/41d52f07-e9c4-447f-a430-2bf107e87818/DeviceManager_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device Manager]]></video:title>
+        <video:description><![CDATA[The (Windows) Device Manager allows a user to view the hardware on the computer. You can use it to installed/update/remove the drivers for the device. The devices can be viewed by Type (e.g. Display&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7818/41d52f07-e9c4-447f-a430-2bf107e87818/DeviceManager_mid.mp4</video:content_loc>
+        <video:duration>359</video:duration>
+        <video:publication_date>2019-01-29T18:16:40.4644811+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/teb</loc>
+      <lastmod>2019-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0821/f6c864cc-1ef0-42dc-bba9-ef9144180821/teb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[!teb]]></video:title>
+        <video:description><![CDATA[The !teb extension displays a formatted view of the information in the thread environment block (TEB). The TEB contains information such as the Stack Memory Limits and Last Error/Status Codes. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0821/f6c864cc-1ef0-42dc-bba9-ef9144180821/teb_mid.mp4</video:content_loc>
+        <video:duration>311</video:duration>
+        <video:publication_date>2019-01-29T18:11:06.9340813+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/peb</loc>
+      <lastmod>2019-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/495c/fa0f1d8a-084b-451a-809c-3c75427b495c/peb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[!peb]]></video:title>
+        <video:description><![CDATA[The !peb extension displays a formatted view of the information in the process environment block (PEB). The PEB contains information such as Process Name, Module List, Environment Variables, Command&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/495c/fa0f1d8a-084b-451a-809c-3c75427b495c/peb_mid.mp4</video:content_loc>
+        <video:duration>318</video:duration>
+        <video:publication_date>2019-01-29T18:09:10.0839398+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Bugcheck-Secondary-Dump-Data</loc>
+      <lastmod>2019-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/de91/2e306402-aa46-4fbd-875d-e800c33ede91/BugCheckSecondaryData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bugcheck Secondary Dump Data]]></video:title>
+        <video:description><![CDATA[Commands to display Bugcheck Secondary Dump Data. Microsoft Docs: .enumtag (Enumerate Secondary Callback Data)!pde.tagsBugCheckSecondaryDumpDataCallback routine!ext.blackbox*!sysinfo smbios!sysinfo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de91/2e306402-aa46-4fbd-875d-e800c33ede91/BugCheckSecondaryData_mid.mp4</video:content_loc>
+        <video:duration>506</video:duration>
+        <video:publication_date>2019-01-29T17:29:32.6758614+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/HRESULT</loc>
+      <lastmod>2019-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/7a7d540e-651f-466d-8e4b-a8b8012f7fdb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[HRESULT Error Codes]]></video:title>
+        <video:description><![CDATA[The 32bits in an HRESULT error code have meanings, allowing the reader to gain additional insights into the error. Of note: The 32nd bit (the top bit) indicates if an error occurred or not. This is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f97/e0f5ce39-c486-413f-ac4a-68a436386f97/hresulterrorcodes_mid.mp4</video:content_loc>
+        <video:duration>426</video:duration>
+        <video:publication_date>2018-04-22T15:20:19.4302874+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Access-Violation-C0000005-Execute</loc>
+      <lastmod>2018-08-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c037/1734ea7c-ffbb-419c-991a-d309330ec037/AccessViolationExecute_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Access Violation C0000005 - Execute]]></video:title>
+        <video:description><![CDATA[An Execute Access Violation occurs when the application attempts to execute code from a memory address that is invalid. To be valid, the memory page must have a valid state, protection and type. The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c037/1734ea7c-ffbb-419c-991a-d309330ec037/AccessViolationExecute_mid.mp4</video:content_loc>
+        <video:duration>497</video:duration>
+        <video:publication_date>2018-01-29T14:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Access-Violation-C0000005-Read-or-Write</loc>
+      <lastmod>2020-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c38f/20853210-cbf6-41b9-941a-d4571aeac38f/ReadAndWriteAccessViolationV2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Access Violation C0000005 - Read or Write ]]></video:title>
+        <video:description><![CDATA[A Read or Write Access Violation occurs when the application attempts to read or write memory from a memory address that is invalid. To be valid, the memory page must have a valid state, protection&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c38f/20853210-cbf6-41b9-941a-d4571aeac38f/ReadAndWriteAccessViolationV2_mid.mp4</video:content_loc>
+        <video:duration>329</video:duration>
+        <video:publication_date>2018-01-29T14:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/C0000005</loc>
+      <lastmod>2019-06-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fbc8/a9ef52f2-b306-4ff7-9134-fc5097ecfbc8/AccessViolation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Access Violation C0000005]]></video:title>
+        <video:description><![CDATA[An Access Violation is a type of Exception caused when an application Reads, Writes or Executes an invalid Memory Address. The Exception Code is 0xC0000005 The first Exception Parameter (0) is the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbc8/a9ef52f2-b306-4ff7-9134-fc5097ecfbc8/AccessViolation_mid.mp4</video:content_loc>
+        <video:duration>511</video:duration>
+        <video:publication_date>2018-01-29T14:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/E0434352</loc>
+      <lastmod>2019-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/663a/8cd9aac9-9dd3-45b8-9324-e1d0f81a663a/CLRExceptione0434352_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CLR Exception E0434352]]></video:title>
+        <video:description><![CDATA[A CLR Exception is a type of Exception made by .NET applications. The exception is encapsulated in a class derived from the System.Exception class. The Exception Code is 0xE0434352 (a.k.a. Error&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/663a/8cd9aac9-9dd3-45b8-9324-e1d0f81a663a/CLRExceptione0434352_mid.mp4</video:content_loc>
+        <video:duration>525</video:duration>
+        <video:publication_date>2018-01-29T14:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/C0000409</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9eb6/e3128ce4-faa3-4020-8de5-f67e19bf9eb6/FastFailExceptionC0000409_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fail Fast Exception C0000409]]></video:title>
+        <video:description><![CDATA[A Fail Fast Exception is a type of Exception made by User Mode applications. The Exception Code is 0xC0000409 (a.k.a. STATUS_FAIL_FAST_EXCEPTION). The first Exception Parameter (0) defines the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9eb6/e3128ce4-faa3-4020-8de5-f67e19bf9eb6/FastFailExceptionC0000409_mid.mp4</video:content_loc>
+        <video:duration>380</video:duration>
+        <video:publication_date>2018-01-29T14:13:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/C000027C</loc>
+      <lastmod>2018-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/03b9/095e659f-7183-454f-a26c-f4e1473303b9/PointofFailureException_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Point-of-Failure Exception C000027C]]></video:title>
+        <video:description><![CDATA[A Point-of-Failure (POF) Exception is a type of Exception made by UWP applications. It was introduced in the Windows 10 Fall Creators Update (Sept. 2017). The Exception Code is 0xC000027C. The first&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03b9/095e659f-7183-454f-a26c-f4e1473303b9/PointofFailureException_mid.mp4</video:content_loc>
+        <video:duration>282</video:duration>
+        <video:publication_date>2018-01-29T14:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/C000027B</loc>
+      <lastmod>2020-02-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2ffb/cb080136-b2ef-4982-bb0d-cf2e53232ffb/StowedExceptions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stowed Exception C000027B]]></video:title>
+        <video:description><![CDATA[A Stowed Exception is a type of Exception made by UWP applications. It was introduced in Windows 8.0 as part of WinRT API (now known as UWP). The Exception Code is 0xC000027B. The first Exception&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ffb/cb080136-b2ef-4982-bb0d-cf2e53232ffb/StowedExceptions_mid.mp4</video:content_loc>
+        <video:duration>926</video:duration>
+        <video:publication_date>2018-01-29T14:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/0xD1</loc>
+      <lastmod>2018-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/99e2/a2c6bd75-e267-467b-b612-87f1a70099e2/BugcheckD1DriverIRQLNotLessOrEqual_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bugcheck 0xD1 DRIVER_IRQL_NOT_LESS_OR_EQUAL]]></video:title>
+        <video:description><![CDATA[The DRIVER_IRQL_NOT_LESS_OR_EQUAL bug check has a value of 0x000000D1. This indicates that a kernel-mode driver attempted to access pageable memory at a process IRQL that was too high. At the higher&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99e2/a2c6bd75-e267-467b-b612-87f1a70099e2/BugcheckD1DriverIRQLNotLessOrEqual_mid.mp4</video:content_loc>
+        <video:duration>358</video:duration>
+        <video:publication_date>2018-01-29T14:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/0x9F</loc>
+      <lastmod>2020-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c527/784cf46f-c68b-4d97-8587-297b0b3cc527/Bugcheck9FDriverPowerStateFailure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bugcheck 0x9F DRIVER_POWER_STATE_FAILURE]]></video:title>
+        <video:description><![CDATA[The DRIVER_POWER_STATE_FAILURE bug check has a value of 0x0000009F. This bug check indicates that the driver is in an inconsistent or invalid power state. Parameter 1 indicates the type of violation.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c527/784cf46f-c68b-4d97-8587-297b0b3cc527/Bugcheck9FDriverPowerStateFailure_mid.mp4</video:content_loc>
+        <video:duration>482</video:duration>
+        <video:publication_date>2018-01-29T14:09:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/0x1C8</loc>
+      <lastmod>2020-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c60b/8cce632b-ea84-49fe-8c37-e0c53e0ac60b/Bugcheck1C8ManuallyInitiatedButtonHold_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bugcheck 0x1C8 MANUALLY_INITIATED_POWER_BUTTON_HOLD]]></video:title>
+        <video:description><![CDATA[The MANUALLY_INITIATED_POWER_BUTTON_HOLD bug check has a value of 0x000001C8. The bug check occurs when the power button is held for 7 seconds, but released before the UEFI Reset occurs at 10 seconds.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c60b/8cce632b-ea84-49fe-8c37-e0c53e0ac60b/Bugcheck1C8ManuallyInitiatedButtonHold_mid.mp4</video:content_loc>
+        <video:duration>294</video:duration>
+        <video:publication_date>2018-01-29T14:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/0xE2</loc>
+      <lastmod>2019-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/db15/04f7267d-ed02-413f-a80c-7fecf6fcdb15/Bugcheck0xE2ManuallyInitiatedCrash_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bugcheck 0xE2 MANUALLY_INITIATED_CRASH]]></video:title>
+        <video:description><![CDATA[MANUALLY_INITIATED_CRASH bug check has a value of 0x000000E2. The bug check occurs when a keystroke combination is entered on a PS/2 and/or USB Keyboard. To support the Ctrl-Ctrl-Scroll Lock keystroke&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db15/04f7267d-ed02-413f-a80c-7fecf6fcdb15/Bugcheck0xE2ManuallyInitiatedCrash_mid.mp4</video:content_loc>
+        <video:duration>215</video:duration>
+        <video:publication_date>2018-01-29T14:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/trap</loc>
+      <lastmod>2018-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f917/2108833a-d422-4d53-913d-f5f5c5eaf917/trap_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.trap]]></video:title>
+        <video:description><![CDATA[The .trap command change to, and displays the trap frame register state of the context at the specified address. Trap Frames only exist in Kernel Mode. Trap Frames are used to store the registers of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f917/2108833a-d422-4d53-913d-f5f5c5eaf917/trap_mid.mp4</video:content_loc>
+        <video:duration>479</video:duration>
+        <video:publication_date>2018-01-29T14:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/cxr</loc>
+      <lastmod>2019-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f6f2/3d65f7e7-2d23-469c-849b-029246f3f6f2/cxr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.cxr]]></video:title>
+        <video:description><![CDATA[The .cxr command changes the debugger context. Using .cxr (without an address) resets the context to the default context. Using .cxr &amp;lt;address&amp;gt; sets the debugger context to the CONTEXT structure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6f2/3d65f7e7-2d23-469c-849b-029246f3f6f2/cxr_mid.mp4</video:content_loc>
+        <video:duration>349</video:duration>
+        <video:publication_date>2018-01-29T14:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/exr</loc>
+      <lastmod>2021-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/76d5/da996df9-17a2-42d0-a650-fd44d2a776d5/exr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.exr]]></video:title>
+        <video:description><![CDATA[The .exr command displays the contents of an exception record (a EXCEPTION_RECORD structure). The EXCEPTION_RECORD structure contains the Instruction Address (the function raising the exception), the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/76d5/da996df9-17a2-42d0-a650-fd44d2a776d5/exr_mid.mp4</video:content_loc>
+        <video:duration>376</video:duration>
+        <video:publication_date>2018-01-29T14:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/ecxr</loc>
+      <lastmod>2019-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6fd7/e31bf8da-88d8-4d32-82b7-954b6d756fd7/ecxr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.ecxr]]></video:title>
+        <video:description><![CDATA[The .ecxr command changes to the context that is associated with the dump&#39;s exception. It displays the registers at that context. Use .cxr to reset the context to the default context. In general,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6fd7/e31bf8da-88d8-4d32-82b7-954b6d756fd7/ecxr_mid.mp4</video:content_loc>
+        <video:duration>381</video:duration>
+        <video:publication_date>2018-01-29T14:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/lastevent</loc>
+      <lastmod>2021-07-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7c80/4b721f5c-10ad-4bfc-9140-81a1c5817c80/dotlastevent_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.lastevent]]></video:title>
+        <video:description><![CDATA[The .lastevent command displays the most recent exception or event that occurred. The default debugger context is automatically set to the TID specified. To change the context manually, use the TID as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c80/4b721f5c-10ad-4bfc-9140-81a1c5817c80/dotlastevent_mid.mp4</video:content_loc>
+        <video:duration>256</video:duration>
+        <video:publication_date>2018-01-29T14:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Windows-SDK</loc>
+      <lastmod>2018-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3ca2/dd3c510d-7ed4-485b-b943-db54ce0a3ca2/Windows10SDK_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows SDK]]></video:title>
+        <video:description><![CDATA[The Windows SDK provides code and tools to aid the development and troubleshooting of applications and systems. For troubleshooting, it includes the: Windows Performance ToolkitDebugging Tools for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ca2/dd3c510d-7ed4-485b-b943-db54ce0a3ca2/Windows10SDK_mid.mp4</video:content_loc>
+        <video:duration>181</video:duration>
+        <video:publication_date>2018-01-29T14:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Inside/Welcome</loc>
+      <lastmod>2018-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6721/f69cb6fc-4b57-41d1-885e-4256ba216721/Welcome_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to the Inside Show]]></video:title>
+        <video:description><![CDATA[Welcome to the Inside Show, the show that takes you inside Windows.In each ~5min episode, we review a Windows Feature, Windows Internal, Exception Code, Bugcheck Code or Debugger Command. The list of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6721/f69cb6fc-4b57-41d1-885e-4256ba216721/Welcome_mid.mp4</video:content_loc>
+        <video:duration>96</video:duration>
+        <video:publication_date>2018-01-29T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

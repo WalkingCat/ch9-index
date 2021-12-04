@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-2016-CTP-2-oczami-MVP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-2016-CTP-2-oczami-MVP/Polybase-oraz-JSON--obsuga-nierelacyjnych-danych-na-platformie-SQL-Server-2016</loc>
+      <lastmod>2016-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6242/4faff11c-dbb0-4fbe-99fc-6b467d866242/polybase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Polybase oraz JSON   obsuga nierelacyjnych danych na platformie SQL Server 2016]]></video:title>
+        <video:description><![CDATA[W świecie, w kt&#243;rym codziennie przybywają nowe źr&#243;dła danych, a r&#243;żnorodność format&#243;w danych wymusza stosowanie nowych metod dostępu do danych oraz ich eksploracji, dane relacyjne, coraz częściej&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6242/4faff11c-dbb0-4fbe-99fc-6b467d866242/polybase_mid.mp4</video:content_loc>
+        <video:duration>4052</video:duration>
+        <video:publication_date>2016-01-21T12:51:39.6095951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-2016-CTP-2-oczami-MVP/Wsparcie-dla-optymalizacji</loc>
+      <lastmod>2015-10-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b5fb/a4a85e38-e7b1-4954-a641-ce91c3d4b5fb/optymalizacja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wsparcie dla optymalizacji]]></video:title>
+        <video:description><![CDATA[SQL Server 2016 wprowadza szereg funkcjonalności związanych z wsparciem wydajności oraz optymalizacji zapytań. Na pierwszy plan widzimy dwie funkcjonalności - Live Query Statistics oraz Query Store.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b5fb/a4a85e38-e7b1-4954-a641-ce91c3d4b5fb/optymalizacja_mid.mp4</video:content_loc>
+        <video:duration>3267</video:duration>
+        <video:publication_date>2015-10-06T04:56:06.1078014+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-2016-CTP-2-oczami-MVP/Monitorowanie-zmian-w-danych</loc>
+      <lastmod>2015-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8599/8d811bda-012a-48ab-9e7c-851e098b8599/monitorowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monitorowanie zmian w danych]]></video:title>
+        <video:description><![CDATA[SQL Server 2016 wprowadza funkcjonalność wersjonowania tabel, tzw. temporal table. Funkcjonalnośc ta bazuje na standardzie ISO/ANSI SQL:2011. Tabele temporal przechowują historię wierszy, a więc&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8599/8d811bda-012a-48ab-9e7c-851e098b8599/monitorowanie_mid.mp4</video:content_loc>
+        <video:duration>4569</video:duration>
+        <video:publication_date>2015-08-26T07:14:12.9775112+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-2016-CTP-2-oczami-MVP/SQL-Server-w-scenariuszach-hybrydowych</loc>
+      <lastmod>2015-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5298/c4d74fa7-4b10-4a0d-8ef4-3bd6781c5298/sqlserver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server w scenariuszach hybrydowych ]]></video:title>
+        <video:description><![CDATA[Wśr&#243;d dw&#243;ch typ&#243;w system&#243;w – on-premises i chmurze coraz cześciej pojawia się trzeci rodzaj architektury – architektura hybrydowa. Rozwiązania hybrydowe dotyczą r&#243;wnież obszaru SQL Server. Najnowsza&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5298/c4d74fa7-4b10-4a0d-8ef4-3bd6781c5298/sqlserver_mid.mp4</video:content_loc>
+        <video:duration>4009</video:duration>
+        <video:publication_date>2015-07-15T10:35:23.5729429+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-2016-CTP-2-oczami-MVP/Nowosci-z-zakresu-bezpieczenstwa</loc>
+      <lastmod>2015-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/55f1/827b2fdd-f9df-4c10-b82c-7c72cb1255f1/nowosci_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nowoci z zakresu bezpieczestwa]]></video:title>
+        <video:description><![CDATA[SQL Server 2016 to wersja kt&#243;ra, opr&#243;cz innowacyjnych zmian w zakresie BI i wydajności, przynosi długo oczekiwane funkcje bezpieczeństwa: możliwość zarządzania uprawnieniami  na poziomie wierszy,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/55f1/827b2fdd-f9df-4c10-b82c-7c72cb1255f1/nowosci_mid.mp4</video:content_loc>
+        <video:duration>2743</video:duration>
+        <video:publication_date>2015-07-10T06:43:44.4499207+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

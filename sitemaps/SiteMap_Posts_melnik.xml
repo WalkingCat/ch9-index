@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Introducing-Semantic-Logging</loc>
+      <lastmod>2016-09-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ec7/90ffbf3c-f891-4e6b-8182-32ff718f1ec7/SemanticLoggingIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Semantic Logging]]></video:title>
+        <video:description><![CDATA[Meet the new application block from Microsoft patterns &amp;amp; practices team - the Semantic Logging Application Block. It is intended to help you move from the traditional, unstructured logging&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ec7/90ffbf3c-f891-4e6b-8182-32ff718f1ec7/SemanticLoggingIntro_mid.mp4</video:content_loc>
+        <video:duration>2563</video:duration>
+        <video:publication_date>2013-02-14T00:16:06.3967613+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Autoscaling-Windows-Azure-applications</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d063/e7c256e9-ecd1-4c75-a454-9f5c012ad063/AutoscalingWindowsAzureApps_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Autoscaling Windows Azure applications]]></video:title>
+        <video:description><![CDATA[ The ability to rapidly scale your application in response to changes in demand is one of the key benefits that Windows Azure delivers when you host your applications in the cloud.  If you rely on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d063/e7c256e9-ecd1-4c75-a454-9f5c012ad063/AutoscalingWindowsAzureApps_high_ch9.mp4</video:content_loc>
+        <video:duration>3416</video:duration>
+        <video:publication_date>2011-09-12T22:51:08.8356033+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Enterprise-Library-for-Silverlight-Exception-handling-demo</loc>
+      <lastmod>2011-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f65b/5722d88b-78a1-4b24-8913-9ee90132f65b/ELSLExceptionHandlingDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Library for Silverlight - Exception handling demo]]></video:title>
+        <video:description><![CDATA[ The Exception Handling Application Block (EHAB) helps developers create a consistent strategy for processing exceptions. Now it can be used in Silverlight applications. The centralized exception&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f65b/5722d88b-78a1-4b24-8913-9ee90132f65b/ELSLExceptionHandlingDemo_high_ch9.mp4</video:content_loc>
+        <video:duration>1247</video:duration>
+        <video:publication_date>2011-05-20T19:49:37.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Enterprise-Library-for-Silverlight-Data-Caching-demo</loc>
+      <lastmod>2011-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2d3/e8de53f2-44db-491a-80bb-9ecc018af2d3/ELSLCachingDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Library for Silverlight - Data Caching demo]]></video:title>
+        <video:description><![CDATA[ In this screencast Grigori and Erwin demo the Caching Application Block for Silverlight. We discuss proactive and reactive data caching strategies and demo implementations of the persistent cache (to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2d3/e8de53f2-44db-491a-80bb-9ecc018af2d3/ELSLCachingDemo_high_ch9.mp4</video:content_loc>
+        <video:duration>1887</video:duration>
+        <video:publication_date>2011-04-22T06:31:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Enterprise-Library-for-Silverlight-Logging-demo</loc>
+      <lastmod>2011-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b1c/f25b7814-8424-401e-b5dc-9eb700401b1c/ELSLLoggingDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Library for Silverlight - Logging demo]]></video:title>
+        <video:description><![CDATA[ First screencast on Silverlight logging with Enterprise Library. Pre-requisites: Silverlight SDKUnity for Silverlight 2.0 (included) Enterprise Library Silverlight Integration Pack - code drop 3 Take&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b1c/f25b7814-8424-401e-b5dc-9eb700401b1c/ELSLLoggingDemo_high_ch9.mp4</video:content_loc>
+        <video:duration>2091</video:duration>
+        <video:publication_date>2011-03-31T05:06:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Enterprise-Library-for-Silverlight-Interception-demo</loc>
+      <lastmod>2011-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e3ed/0b21f06c-a9e9-48bf-90eb-9eaa0189e3ed/ELSLUnityInterceptionDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Library for Silverlight - Interception demo]]></video:title>
+        <video:description><![CDATA[ Interception has been available as a Unity container extension for a while. However, it was not available on Silverlight. Until now. In this demo, we discuss interception as a code modularization&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e3ed/0b21f06c-a9e9-48bf-90eb-9eaa0189e3ed/ELSLUnityInterceptionDemo_high_ch9.mp4</video:content_loc>
+        <video:duration>2062</video:duration>
+        <video:publication_date>2011-03-22T00:51:50.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Enterprise-Library-for-Silverlight-Cross-tier-validation-demo</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/921b/c6b09f35-2000-4edb-ac90-9ea00018921b/ELSLCrossTierValidationDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Library for Silverlight - Cross-tier validation demo]]></video:title>
+        <video:description><![CDATA[ This is the second screencast in the series showcasing the Enterprise Library Silverlight Integration Pack. This time we are discussing cross-tier validation. Source code is posted here.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/921b/c6b09f35-2000-4edb-ac90-9ea00018921b/ELSLCrossTierValidationDemo_high_ch9.mp4</video:content_loc>
+        <video:duration>1912</video:duration>
+        <video:publication_date>2011-03-08T22:42:53.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Enterprise-Library-for-Silverlight-Validation-demo</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a95/2587201c-8e3a-468b-adf5-9ea000176a95/ELSLValidationDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Library for Silverlight - Validation demo]]></video:title>
+        <video:description><![CDATA[ This is a demo of the basic validation scenarios using Enterprise Library 5.0 Silverlight Integration Pack, including:   Validation using attributes Injecting validation rules based on configuration&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a95/2587201c-8e3a-468b-adf5-9ea000176a95/ELSLValidationDemo_high_ch9.mp4</video:content_loc>
+        <video:duration>914</video:duration>
+        <video:publication_date>2011-03-08T21:05:23.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

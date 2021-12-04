@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelercoaster</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelercoaster/MS-Virtual-Labs-Microsoft-Open-XML-and-LINQ-to-XML</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/1/5/7/6/4/vlab102_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[MS Virtual Labs: Microsoft Open XML and LINQ to XML]]></video:title>
+        <video:description><![CDATA[
+Office 2007 introduced a new XML-based file format for Office. With LINQ to XML, Microsoft offers the ability to use language-based query against XML documents. When you combine these two&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/1/5/7/6/4/vlab102_ch9.mp4</video:content_loc>
+        <video:duration>643</video:duration>
+        <video:publication_date>2009-05-04T22:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelercoaster/MS-Virtual-Labs-Connected-Applications-with-WCF-and-WF</loc>
+      <lastmod>2021-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/1/5/7/6/4/vlab101_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[MS Virtual Labs: Connected Applications with WCF and WF]]></video:title>
+        <video:description><![CDATA[
+Windows Communication Foundation (WCF) and Windows Workflow Foundation (WF) are relatively new technologies, having only been officially released with .NET 3.0 in November 2006. Despite this, each&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/1/5/7/6/4/vlab101_ch9.mp4</video:content_loc>
+        <video:duration>275</video:duration>
+        <video:publication_date>2009-05-04T22:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelercoaster/MS-Virtual-Labs-Multi-Targeting-in-Visual-Studio-2008</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/1/5/7/6/4/vlab103_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[MS Virtual Labs: Multi-Targeting in Visual Studio 2008]]></video:title>
+        <video:description><![CDATA[
+Multi-targeting is a new feature in Visual Studio 2008 that allows developers to choose which .NET Framework they want to target for a given project. Available choices are 2.0, 3.0 and 3.5, and you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/1/5/7/6/4/vlab103_ch9.mp4</video:content_loc>
+        <video:duration>316</video:duration>
+        <video:publication_date>2009-05-04T22:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelercoaster/MS-Virtual-Labs-The-New-WPF-Designer-And-WPF-WinForms-Interoperatbility</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/1/5/7/6/4/vlab04_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[MS Virtual Labs: The New WPF Designer And WPF WinForms Interoperatbility]]></video:title>
+        <video:description><![CDATA[
+The WPF designer in Visual Studio 2008 has been radically improved from the one that found its way into Visual Studio 2005 following the release of .NET 3.0. Capable and intuitive, the designer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/1/5/7/6/4/vlab04_ch9.mp4</video:content_loc>
+        <video:duration>409</video:duration>
+        <video:publication_date>2009-05-04T22:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelercoaster/Embedding-Multimedia-Rich-Content-onto-Office-Documents</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

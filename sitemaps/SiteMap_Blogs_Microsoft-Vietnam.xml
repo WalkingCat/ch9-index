@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Vietnam</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Vietnam/Extend-your-infrastructure-to-the-Cloud</loc>
+      <lastmod>2021-09-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9ac2/33d0dad0-f1bd-4090-89e4-abc29e609ac2/ExtendyourinfrastructuretotheCloudvideo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Extend your infrastructure to the Cloud]]></video:title>
+        <video:description><![CDATA[Đi&#234;̣n toán đám m&#226;y đã thay đ&#244;̉i v&#234;̀ bức tranh toàn cảnh cho chi&#234;́n lược x&#226;y dựng hạ t&#226;̀ng c&#244;ng ngh&#234;̣ th&#244;ng tin. Trong chủ đ&#234;̀ h&#244;m nay, chúng t&#244;i sẽ thảo lu&#226;̣n các thách thức đ&#244;́i với&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ac2/33d0dad0-f1bd-4090-89e4-abc29e609ac2/ExtendyourinfrastructuretotheCloudvideo_mid.mp4</video:content_loc>
+        <video:duration>2430</video:duration>
+        <video:publication_date>2017-03-23T02:59:25.5921985+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

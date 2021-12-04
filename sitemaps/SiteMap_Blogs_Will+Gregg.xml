@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Will+Gregg</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Will+Gregg/Certificate-Enrollment-Web-Services-Introduction</loc>
+      <lastmod>2020-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/8/3/7/6/4/CertificateEnrollmentWebServicesIntroduction_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Certificate Enrollment Web Services Introduction]]></video:title>
+        <video:description><![CDATA[Chris Macaulay, Program Manager, presented an introductory overview of Certificate Enrollment Web Services at the at the 2009 Certificate
+
+Windows Protocols Plugfest, including questions and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/8/3/7/6/4/CertificateEnrollmentWebServicesIntroduction_ch9.mp4</video:content_loc>
+        <video:duration>2252</video:duration>
+        <video:publication_date>2009-05-14T17:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Will+Gregg/Windows-Certificate-Protocols-Overview</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/7/3/7/6/4/WindowsCertificateProtocolsOverview_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Certificate Protocols Overview]]></video:title>
+        <video:description><![CDATA[
+Oded Shekel, Program Manager, presented an overview of the Certificate protocols and structures, including a question and answer session at the at the 2009 Certificate
+
+Windows Protocols Plugfest.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/7/3/7/6/4/WindowsCertificateProtocolsOverview_ch9.mp4</video:content_loc>
+        <video:duration>3196</video:duration>
+        <video:publication_date>2009-05-14T17:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Will+Gregg/Certification-Authority-System-Overview</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/8/3/7/6/4/CertificationAuthoritySystemOverview_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Certification Authority System Overview]]></video:title>
+        <video:description><![CDATA[Larry Talbot, Program Manager,  presented a discussion of MS-CASO, a system overview document at the at the 2009 Certificate
+
+Windows Protocols Plugfest. MS-CASO, to be delivered in an upcoming&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/8/3/7/6/4/CertificationAuthoritySystemOverview_ch9.mp4</video:content_loc>
+        <video:duration>3391</video:duration>
+        <video:publication_date>2009-05-14T17:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Will+Gregg/Troubleshooting-Issues-with-Windows</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/5/3/7/6/4/TroubleshootingIssuesWithWindows_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Certificate Plugfest Troubleshooting Issues with Windows]]></video:title>
+        <video:description><![CDATA[Richard Guthrie, Escalation Engineer, presented a session covering debugging tools that can be used for troubleshooting Windows at the 2009 Certificate
+
+Windows Protocols Plugfest.   Richard&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/5/3/7/6/4/TroubleshootingIssuesWithWindows_ch9.mp4</video:content_loc>
+        <video:duration>2188</video:duration>
+        <video:publication_date>2009-05-02T14:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Will+Gregg/Network-Monitor-Netmon-33-Overview</loc>
+      <lastmod>2010-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/4/3/7/6/4/NetworkMonitor33Overview_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Network Monitor (Netmon) 3.3 Overview]]></video:title>
+        <video:description><![CDATA[Paul Long, Technical Evangelist, presented an overview of Netmon 3.3 protocol analyzer (a Windows-based utility) including a tour of the tool as well as a question and answer session at the 2009&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/4/3/7/6/4/NetworkMonitor33Overview_ch9.mp4</video:content_loc>
+        <video:duration>4004</video:duration>
+        <video:publication_date>2009-05-02T14:20:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

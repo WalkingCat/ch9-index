@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Mustafa-Kasap</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Mustafa-Kasap/How-to-Setup-the-Azure-Usage--Billing-Portal</loc>
+      <lastmod>2017-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2221/b5b39249-acd2-4bad-98a0-a58bf0052221/UsageAndBilling_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Setup the Azure Usage &amp; Billing Portal]]></video:title>
+        <video:description><![CDATA[In this video we will be describing how to setup the Azure Usage &amp;amp; Billing Portal from scratch. We will use a brand new operating system installation and setup the AUBP system on it with step by&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2221/b5b39249-acd2-4bad-98a0-a58bf0052221/UsageAndBilling_mid.mp4</video:content_loc>
+        <video:duration>1209</video:duration>
+        <video:publication_date>2016-07-25T20:42:25.3518339+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

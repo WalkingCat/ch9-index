@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP/Part-I-Introduction-to-Distributed-Systems</loc>
+      <lastmod>2017-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP/Windows-Server-for-absolute-beginners</loc>
+      <lastmod>2015-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a1f5/1ce239d8-a48f-468b-8b8e-3c40e8d2a1f5/WSForAbsoluteBeginners_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server for absolute beginners]]></video:title>
+        <video:description><![CDATA[&#191;Te gustar&#237;a conocer el mundo del IT-Pro y no sabes por d&#243;nde empezar? Con este v&#237;deo tendr&#225;s una primera aproximaci&#243;n a conceptos b&#225;sicos del mundo de los sistemas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a1f5/1ce239d8-a48f-468b-8b8e-3c40e8d2a1f5/WSForAbsoluteBeginners_mid.mp4</video:content_loc>
+        <video:duration>3550</video:duration>
+        <video:publication_date>2015-05-13T10:16:35.3529305+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP/Windows-Server-What-Why-and-Which</loc>
+      <lastmod>2018-01-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP/Building-Universal-apps-using-WinJS-01-Intro-to-WinJS</loc>
+      <lastmod>2020-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP/Adding-Azure-Mobile-Services-to-a-JavaScript-app</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/85c6/fa8b84a0-2707-4235-8bd4-eb1e535b85c6/AzureJavaScriptTutorial_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding Azure Mobile Services to a JavaScript app]]></video:title>
+        <video:description><![CDATA[In this tutorial we show how to add Azure Mobile Services to a Javascript application. You will learn how to use Mobile Services to save data and retrieve from the cloud. The use case in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/85c6/fa8b84a0-2707-4235-8bd4-eb1e535b85c6/AzureJavaScriptTutorial_mid.mp4</video:content_loc>
+        <video:duration>333</video:duration>
+        <video:publication_date>2015-04-15T15:51:32.6975621+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSP/Unit-Testing-a-journey-in-Mock-Frameworks</loc>
+      <lastmod>2018-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

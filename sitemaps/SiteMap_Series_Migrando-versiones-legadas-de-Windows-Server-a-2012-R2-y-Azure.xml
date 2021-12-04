@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migrando-versiones-legadas-de-Windows-Server-a-2012-R2-y-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migrando-versiones-legadas-de-Windows-Server-a-2012-R2-y-Azure/Mdulo-I-Fin-del-soporte-a-Windows-Server-2003</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d3f0/7dec3cb1-cc2c-4a2c-888e-4a3eb661d3f0/MigrandoVersionesLegadasWindowsServerMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Fin del soporte a Windows Server 2003]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo profundiza en el significado del fin de soporte de Windows Server 2003. Tambi&#233;n en este m&#243;dulo los profesionales de tecnolog&#237;a podr&#225;n comprender las buenas pr&#225;cticas para realizar la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d3f0/7dec3cb1-cc2c-4a2c-888e-4a3eb661d3f0/MigrandoVersionesLegadasWindowsServerMod1_mid.mp4</video:content_loc>
+        <video:duration>3110</video:duration>
+        <video:publication_date>2015-02-20T15:27:42.0859401+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migrando-versiones-legadas-de-Windows-Server-a-2012-R2-y-Azure/Mdulo-IV-Migrando-VMs-de-Hyper-V-hacia-Azure</loc>
+      <lastmod>2015-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ab3/64baf865-376d-441d-af8b-814f66012ab3/MigrandoVersionesLegadasWindowsServerMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Migrando VMs de Hyper-V hacia Azure]]></video:title>
+        <video:description><![CDATA[Una vez migrados lo diferentes workloads a Windows Server 2012 R2, tenemos la posibilidad de moverlos a un ambiente Cloud. Migrar m&#225;quinas f&#237;sicas y virtuales a Microsoft Azure es posible, y de esta&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ab3/64baf865-376d-441d-af8b-814f66012ab3/MigrandoVersionesLegadasWindowsServerMod4_mid.mp4</video:content_loc>
+        <video:duration>1653</video:duration>
+        <video:publication_date>2015-02-20T15:22:46.2035003+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migrando-versiones-legadas-de-Windows-Server-a-2012-R2-y-Azure/Mdulo-III-Migrando-Clusters-a-Windows-Server-2012-R2</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44c5/42ca9a6c-c762-4c42-8420-6672665e44c5/MigrandoVersionesLegadasWindowsServerMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Migrando Clusters a Windows Server 2012 R2 ]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo nos permite comprender alternativas de migraci&#243;n de Cluster, roles soportados y mediante demostraciones entender el proceso, como tambi&#233;n las tecnolog&#237;as que quedan luego disponibles para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44c5/42ca9a6c-c762-4c42-8420-6672665e44c5/MigrandoVersionesLegadasWindowsServerMod3_mid.mp4</video:content_loc>
+        <video:duration>1845</video:duration>
+        <video:publication_date>2015-02-20T15:22:32.7936564+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migrando-versiones-legadas-de-Windows-Server-a-2012-R2-y-Azure/Mdulo-II-Migrando-Active-Directory</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ae3/fd35be81-b3e0-4f02-8a8a-f9033f845ae3/MigrandoVersionesLegadasWindowsServerMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Migrando Active Directory ]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo los profesionales de tecnolog&#237;a podr&#225;n comprender el proceso ejecutado durante la migraci&#243;n de AD 2003 hacia AD 2012 R2. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ae3/fd35be81-b3e0-4f02-8a8a-f9033f845ae3/MigrandoVersionesLegadasWindowsServerMod2_mid.mp4</video:content_loc>
+        <video:duration>1854</video:duration>
+        <video:publication_date>2015-02-20T15:17:58.1064165+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Enterprise</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Enterprise/Dcouvrez-les-bnfices-de-Visual-Studio-Enterprise</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e645/dc2edb9f-3b55-47e4-9a7c-a73c9092e645/VisualStudioEnterprise_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[D&#233;couvrez les b&#233;n&#233;fices de Visual Studio Enterprise]]></video:title>
+        <video:description><![CDATA[Suivez cette vid&#233;o de S&#233;bastien Cantini, ing&#233;nieur avant-vente pour les outils de d&#233;veloppement Microsoft, pour d&#233;couvrir l&#39;ensemble des b&#233;n&#233;fices de Visual Studio Enterprise. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e645/dc2edb9f-3b55-47e4-9a7c-a73c9092e645/VisualStudioEnterprise_mid.mp4</video:content_loc>
+        <video:duration>598</video:duration>
+        <video:publication_date>2016-01-05T10:34:51.0713003+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

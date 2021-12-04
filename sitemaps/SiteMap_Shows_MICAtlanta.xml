@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MICAtlanta</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MICAtlanta/Women-in-Technology</loc>
+      <lastmod>2016-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1fb0/370e102e-a0f8-4998-aca7-fed7a2ae1fb0/WomenInTechMICFlatironCity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Women in Technology at Microsoft Innovation Center Atlanta FlatironCity]]></video:title>
+        <video:description><![CDATA[Women in Technology at Microsoft Innovation Center Atlanta FlatironCity ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1fb0/370e102e-a0f8-4998-aca7-fed7a2ae1fb0/WomenInTechMICFlatironCity_mid.mp4</video:content_loc>
+        <video:duration>250</video:duration>
+        <video:publication_date>2016-08-22T17:40:17.7287539+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

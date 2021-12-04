@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Animations-and-Advanced-Game-AI</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Animations-and-Advanced-Game-AI/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d29d/cc87a70c-525b-40d5-9eec-7c781d58d29d/385DirectXGameDevAnimateAdvAIM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Animations and Advanced Game AI: (04) AI Expansion]]></video:title>
+        <video:description><![CDATA[Learn how to adapt your AI to take advantage of and respond to the new game play mechanics. Get a final wrap-up, and hear thoughts about the project. [01:33] - A review of the system[03:58] - The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d29d/cc87a70c-525b-40d5-9eec-7c781d58d29d/385DirectXGameDevAnimateAdvAIM04_mid.mp4</video:content_loc>
+        <video:duration>2909</video:duration>
+        <video:publication_date>2015-02-06T17:08:20.8190060+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Animations-and-Advanced-Game-AI/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4fc0/2fddcaff-bf2d-4c0e-9286-6a4a6c4e4fc0/385DirectXGameDevAnimateAdvAIM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Animations and Advanced Game AI: (03) Gameplay Expansion]]></video:title>
+        <video:description><![CDATA[Add new gameplay mechanics to the prototype to increase the diversity of challenges and tactics from fight to fight. [01:39] - More Power-Ups[14:25] - Power-Downs[24:15] - Let Enemies Get Power-Ups&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4fc0/2fddcaff-bf2d-4c0e-9286-6a4a6c4e4fc0/385DirectXGameDevAnimateAdvAIM03_mid.mp4</video:content_loc>
+        <video:duration>2217</video:duration>
+        <video:publication_date>2015-02-06T17:08:10.7564842+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Animations-and-Advanced-Game-AI/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d16c/caef95f6-3683-4196-a504-cbfb6156d16c/385DirectXGameDevAnimateAdvAIM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Animations and Advanced Game AI: (02) Simple Animations]]></video:title>
+        <video:description><![CDATA[Explore a starting point for animations in your game engine. These simple animations serve to “open doors” or other such simple motions, adding a new layer to your somewhat static game. [01:00] - What&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d16c/caef95f6-3683-4196-a504-cbfb6156d16c/385DirectXGameDevAnimateAdvAIM02_mid.mp4</video:content_loc>
+        <video:duration>2140</video:duration>
+        <video:publication_date>2015-02-06T17:08:04.2257665+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Animations-and-Advanced-Game-AI/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb8d/ec0bd8f4-fb87-4817-9bd6-ed26c054cb8d/385DirectXGameDevAnimateAdvAIM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Animations and Advanced Game AI: (01) Introduction / Getting Started]]></video:title>
+        <video:description><![CDATA[Get an introduction to the day and the topics to be covered, and take a quick look at the current state of the prototype. [05:29] - Goals for the Day[06:46] - Expanding The Game[09:24] - Picking The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb8d/ec0bd8f4-fb87-4817-9bd6-ed26c054cb8d/385DirectXGameDevAnimateAdvAIM01_mid.mp4</video:content_loc>
+        <video:duration>1263</video:duration>
+        <video:publication_date>2015-02-06T17:07:55.2522788+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

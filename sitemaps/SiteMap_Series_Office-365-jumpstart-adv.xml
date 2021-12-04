@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-jumpstart-adv</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Office-365-jumpstart-adv/Adv01</loc>
+      <lastmod>2015-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ba9/99ffe155-d9c6-43e5-bfc9-02f395fc3ba9/ADV01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 ]]></video:title>
+        <video:description><![CDATA[本單元將介紹 Office 365 信箱移轉策略，透過各種移轉方式的概述，讓您可以了解如何選擇信箱移轉的方式。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ba9/99ffe155-d9c6-43e5-bfc9-02f395fc3ba9/ADV01_mid.mp4</video:content_loc>
+        <video:duration>2814</video:duration>
+        <video:publication_date>2014-12-17T06:40:56.6393287+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/08-Podsumowanie</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1afe/f9ebc02b-bdd5-47cc-953e-cc0d5ceb1afe/podsumowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 Podsumowanie]]></video:title>
+        <video:description><![CDATA[Podsumowanie nagrania ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1afe/f9ebc02b-bdd5-47cc-953e-cc0d5ceb1afe/podsumowanie_mid.mp4</video:content_loc>
+        <video:duration>317</video:duration>
+        <video:publication_date>2015-08-26T08:16:48.5457636+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/07-UART-dziaajce-rozwizanie</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2aee/699a11a5-9d88-4bb7-8c2f-bdf341a22aee/uartdemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 UART - dziaajce rozwizanie]]></video:title>
+        <video:description><![CDATA[Jak działa gotowe rozwiązanie. 2 scenariusze: Windows IoT wysyłający polecenie (rozkaz) do .NET Gadgeteer.Windows IoT wysyłający polecenie do .NET Gadgeteer i oczekujący na otrzymanie wynik&#243;w pomiar&#243;w.]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2aee/699a11a5-9d88-4bb7-8c2f-bdf341a22aee/uartdemo_mid.mp4</video:content_loc>
+        <video:duration>660</video:duration>
+        <video:publication_date>2015-08-26T08:16:38.1836616+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/06-Obsuga-UART-teoria</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6479/fb98449d-276a-4e57-90e6-366ddb866479/obsluga_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 Obsuga UART - teoria]]></video:title>
+        <video:description><![CDATA[W jaki spos&#243;b obsługiwany jest port szeregowy (UART) po stronie .NET Gadgeteer i w Windows 10 IoT – teoria. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6479/fb98449d-276a-4e57-90e6-366ddb866479/obsluga_mid.mp4</video:content_loc>
+        <video:duration>309</video:duration>
+        <video:publication_date>2015-08-26T08:01:17.4814850+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/05-Jak-odczytywa-wartoci-sensorw-uywajc-NET-Gadgeteer</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a3b0/aa2a41e7-57b1-43b9-8d23-1e80a73aa3b0/jak_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Jak odczytywa wartoci sensor&#243;w uywajc .NET Gadgeteer.]]></video:title>
+        <video:description><![CDATA[Przegląd, w jaki spos&#243;b po stronie .NET Gadgeteer można odczytywać wartości sensor&#243;w – w tym natężenia światła, jak jest mierzona odległość itp. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3b0/aa2a41e7-57b1-43b9-8d23-1e80a73aa3b0/jak_mid.mp4</video:content_loc>
+        <video:duration>235</video:duration>
+        <video:publication_date>2015-08-26T08:01:09.7577339+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/04-Demo-poczenia</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4540/9a9b1783-b3f1-49c7-8ec1-27e221344540/demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Demo poczenia]]></video:title>
+        <video:description><![CDATA[Om&#243;wienie realnych połączeń na fizycznym urządzeniu (urządzeniach). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4540/9a9b1783-b3f1-49c7-8ec1-27e221344540/demo_mid.mp4</video:content_loc>
+        <video:duration>256</video:duration>
+        <video:publication_date>2015-08-26T07:39:07.2012044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/03-Minnowboard-MAX-i-NET-Gadgeteer</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4e2/ae0b2de0-eeec-4ecb-852b-9e730a77d4e2/minno_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Minnowboard MAX i .NET Gadgeteer      ]]></video:title>
+        <video:description><![CDATA[Połączenia w MinnowBoard Max. Om&#243;wienie .NET Gadgeteer - sockety i moduły. Połączenie UART (port szeregowy) pomiędzy dwoma płytami. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4e2/ae0b2de0-eeec-4ecb-852b-9e730a77d4e2/minno_mid.mp4</video:content_loc>
+        <video:duration>405</video:duration>
+        <video:publication_date>2015-08-26T07:38:52.2204773+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/02-Konfiguracja-Minnowboard-wraz-z-demo-konfiguracji-BIOS</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c81a/dcd373c6-9712-4d4c-9378-6b3b3a7ac81a/konfiguracja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Konfiguracja Minnowboard wraz z demo konfiguracji BIOS]]></video:title>
+        <video:description><![CDATA[Jak skonfigurować MinnowBoard MAX do pracy z Windows IoT – wgranie i konfiguracja BIOS-u, (kr&#243;tko) jak wgrać Windows IoT na kartę SD.            ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c81a/dcd373c6-9712-4d4c-9378-6b3b3a7ac81a/konfiguracja_mid.mp4</video:content_loc>
+        <video:duration>419</video:duration>
+        <video:publication_date>2015-08-26T07:38:23.9440296+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MinnowBoard-MAX-Windows-IoT-UART-port-szeregowy-i-NET-Gadgeteer/Wstep-polaczenia-i-ogolne-omowienie-budowanego-urzadzenia</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1784/1928abd9-4b00-4fce-aae7-6999ff191784/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wstp  poczenia i og&#243;lne om&#243;wienie budowanego urzdzenia]]></video:title>
+        <video:description><![CDATA[Wstęp w kt&#243;rym om&#243;wione jest co będziemy budować oraz jakie będą zależności pomiędzy poszczeg&#243;lnymi urządzeniami. Rola MinnowBoard MAX (MBM) i FEZ Spider (.NET Gadgeteer). Dołączone sensory. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1784/1928abd9-4b00-4fce-aae7-6999ff191784/wstep_mid.mp4</video:content_loc>
+        <video:duration>162</video:duration>
+        <video:publication_date>2015-08-26T07:38:16.0018171+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

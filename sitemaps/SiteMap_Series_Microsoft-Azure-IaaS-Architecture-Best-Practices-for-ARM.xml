@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Load-Balancers-and-Network-Security-Groups-in-the-Azure-Portal</loc>
+      <lastmod>2017-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cefc/fe893617-dee9-46fe-bfc9-65b65b0fcefc/IaaSARMBestPractices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Load Balancers and Network Security Groups in the Azure Portal]]></video:title>
+        <video:description><![CDATA[In this fifth and final video of the series, we create public and internal load balancers for our web tier virtual machines. Additionally, we create some network security groups to lock down the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cefc/fe893617-dee9-46fe-bfc9-65b65b0fcefc/IaaSARMBestPractices_mid.mp4</video:content_loc>
+        <video:duration>1474</video:duration>
+        <video:publication_date>2017-03-27T22:07:38.7268776+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Advanced-Virtual-Machines-in-the-Azure-Portal</loc>
+      <lastmod>2018-04-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/44a9/073dd510-562d-4aaf-b87a-d24b776c44a9/IaaSARMBestPractices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Advanced Virtual Machines in the Azure Portal]]></video:title>
+        <video:description><![CDATA[In this fourth video of the series, we add some additional virtual machines that utilize Premium Storage and multiple hard disks. The blog post for this series is located here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44a9/073dd510-562d-4aaf-b87a-d24b776c44a9/IaaSARMBestPractices_mid.mp4</video:content_loc>
+        <video:duration>964</video:duration>
+        <video:publication_date>2017-03-27T22:07:30.6544642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Basic-Virtual-Machines-in-the-Azure-Portal</loc>
+      <lastmod>2018-04-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/acfe/458c0819-e6ac-487d-b601-41313babacfe/IaaSARMBestPractices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Basic Virtual Machines in the Azure Portal]]></video:title>
+        <video:description><![CDATA[In this third video of the series, we create all our basic Virtual Machines using the Azure Portal and Resource Manager. This continues to build upon our best practices that we established in our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/acfe/458c0819-e6ac-487d-b601-41313babacfe/IaaSARMBestPractices_mid.mp4</video:content_loc>
+        <video:duration>1368</video:duration>
+        <video:publication_date>2017-03-27T22:07:23.4215792+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Virtual-Networks-and-VPN-Connections-in-ARM</loc>
+      <lastmod>2018-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5818/8b738e14-cc7f-4002-b095-0ba278b65818/IaaSARMBestPractices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Virtual Networks and VPN Connections in ARM]]></video:title>
+        <video:description><![CDATA[In this video, we continue the build-out of our scenario by creating two virtual networks (one in the WestUS and one in the EastUS), as well as connecting them to our on-premises location with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5818/8b738e14-cc7f-4002-b095-0ba278b65818/IaaSARMBestPractices_mid.mp4</video:content_loc>
+        <video:duration>1768</video:duration>
+        <video:publication_date>2017-03-27T22:07:12.5731011+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Using-Consistent-Naming-Conventions-to-Create-Resource-Groups-and-Storage-Accounts</loc>
+      <lastmod>2018-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8c84/6ad9cf54-0dc5-4df8-87b6-4e251d998c84/IaaSARMBestPractices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Consistent Naming Conventions to Create Resource Groups and Storage Accounts]]></video:title>
+        <video:description><![CDATA[This first video in the series describes the use of consistent naming conventions and best practices. It also walks you through the creation of Resource Groups and Storage Accounts using the Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c84/6ad9cf54-0dc5-4df8-87b6-4e251d998c84/IaaSARMBestPractices_mid.mp4</video:content_loc>
+        <video:duration>1229</video:duration>
+        <video:publication_date>2017-03-27T22:07:01.1605194+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

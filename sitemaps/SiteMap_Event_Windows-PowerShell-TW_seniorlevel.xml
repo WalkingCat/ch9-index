@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/seniorlevel</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/seniorlevel/02</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/07cb/161cc863-0ca3-4c98-b658-ceda53ea07cb/PowerShellAdvance02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell  ()]]></video:title>
+        <video:description><![CDATA[本課程將介紹以下內容： [13:45] - 監控 PowerShell 執行[17:13] - 測試存取伺服器的網路狀況[25:04] - 下載 ftps 檔案[37:53] - SQL Server PowerShell[46:12] - Analysis Services PowerShell[55:59] - 整合 SSIS欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07cb/161cc863-0ca3-4c98-b658-ceda53ea07cb/PowerShellAdvance02_mid.mp4</video:content_loc>
+        <video:duration>3863</video:duration>
+        <video:publication_date>2016-01-05T06:37:02.5144506+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-PowerShell-TW/seniorlevel/01</loc>
+      <lastmod>2016-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a53b/da083c51-87f8-49a1-ab54-5c34c5cda53b/PowerShellAdvance01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell  ()]]></video:title>
+        <video:description><![CDATA[本課程將介紹以下內容： [02:13] - Desired State Configuration[07:54] - 從命令式(imperative)轉成宣告式(declarative)[09:35] - Push 模型[17:16] - DSC 架構概觀[18:41] - Local Configuration Manager[19:28] - DSC 運行所需[22:40] - Local&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a53b/da083c51-87f8-49a1-ab54-5c34c5cda53b/PowerShellAdvance01_mid.mp4</video:content_loc>
+        <video:duration>4322</video:duration>
+        <video:publication_date>2016-01-05T06:22:20.1706446+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

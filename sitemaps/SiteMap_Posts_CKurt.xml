@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/OData-What-is-the-Open-Data-Protocol</loc>
+      <lastmod>2017-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1515/7c523c1b-60dd-48e8-9c1f-628aceb21515/ODataWhat_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData: What is the Open Data Protocol?]]></video:title>
+        <video:description><![CDATA[This short video gives you an overview of what the Open Data Protocol is. We go over the main building blocks, the mindset behind the design of the protocol, what libraries are available to interact&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1515/7c523c1b-60dd-48e8-9c1f-628aceb21515/ODataWhat_mid.mp4</video:content_loc>
+        <video:duration>153</video:duration>
+        <video:publication_date>2012-05-05T01:36:20.7952108+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/OData-Why-use-the-Open-Data-Protocol</loc>
+      <lastmod>2017-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cac9/18d18583-da0b-4b56-9571-ab06c4a1cac9/ODataWhy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData: Why use the Open Data Protocol?]]></video:title>
+        <video:description><![CDATA[If you know what this open data protocol is you might be wondering why you should use it to expose your data over the web. This video gives you an overview of the main benefits of using the open data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cac9/18d18583-da0b-4b56-9571-ab06c4a1cac9/ODataWhy_mid.mp4</video:content_loc>
+        <video:duration>200</video:duration>
+        <video:publication_date>2012-05-05T01:35:27.4483856+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

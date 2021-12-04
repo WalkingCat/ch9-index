@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley/Perspectives-of-Azure-from-Local-MVPs</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/118f/ed317615-4801-4d7c-9841-9fab0110118f/Azure6_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Perspectives of Azure from Local MVPs]]></video:title>
+        <video:description><![CDATA[During the last session of the day developers will understand how to transition from developing their app to production and beyond. The main topics include how to expose your application or data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/118f/ed317615-4801-4d7c-9841-9fab0110118f/Azure6_med_ch9.mp4</video:content_loc>
+        <video:duration>1728</video:duration>
+        <video:publication_date>2011-11-30T22:23:32.7557596+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley/Windows-Azure-Application-Scenarios</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9bd1/59baacde-9d87-4459-9999-9fab010e9bd1/Azure5_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Application Scenarios]]></video:title>
+        <video:description><![CDATA[During this session we will cover common application scenarios that showcase application scenarios including: Devices, Gaming, SharePoint, and HPC. By Nick Harris ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9bd1/59baacde-9d87-4459-9999-9fab010e9bd1/Azure5_med_ch9.mp4</video:content_loc>
+        <video:duration>4444</video:duration>
+        <video:publication_date>2011-11-30T22:23:21.4149136+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley/Securing-Connecting-and-Scaling</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ca5/4163f52f-0d62-4abb-ae45-9fab01045ca5/Azure4_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Securing, Connecting, and Scaling]]></video:title>
+        <video:description><![CDATA[This talk discusses the role of the Windows Azure AppFabric Access Control Service (ACS) in managing identity and access control for apps running on the Windows platform. ACS offers developers the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ca5/4163f52f-0d62-4abb-ae45-9fab01045ca5/Azure4_med_ch9.mp4</video:content_loc>
+        <video:duration>3864</video:duration>
+        <video:publication_date>2011-11-30T20:08:47.0077144+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley/Understanding-SQL-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f167/c422415c-8a7c-4946-a1e7-9faa0167f167/Azure3_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding SQL Azure]]></video:title>
+        <video:description><![CDATA[What if you could have all the rich SQL database functionality as a continuously available service on the Windows Azure Platform without having to worry about purchasing, installing and maintaining&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f167/c422415c-8a7c-4946-a1e7-9faa0167f167/Azure3_med_ch9.mp4</video:content_loc>
+        <video:duration>3944</video:duration>
+        <video:publication_date>2011-11-30T20:08:33.6629099+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley/Using-Windows-Azure-Storage</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8252/56a425ed-fd89-479b-97ef-9faa01678252/Azure2_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Windows Azure Storage]]></video:title>
+        <video:description><![CDATA[Modern apps don&#39;t just store data on local disks. Your users expect to have 24/7 access to their files and settings wherever they go. This session will show you how you can use Windows Azure Storage&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8252/56a425ed-fd89-479b-97ef-9faa01678252/Azure2_med_ch9.mp4</video:content_loc>
+        <video:duration>3428</video:duration>
+        <video:publication_date>2011-11-30T20:08:14.5808020+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Silicon-Valley/Getting-Started-with-Windows-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0b2d/b8bd5162-1cf7-445b-a57a-9faa00010b2d/Azure1_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Windows Azure]]></video:title>
+        <video:description><![CDATA[Windows Azure is constantly being updated to include new features and services. In this session, you will learn more about some of the latest enhancements to the Windows Azure Platform. By Bruno&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b2d/b8bd5162-1cf7-445b-a57a-9faa00010b2d/Azure1_med_ch9.mp4</video:content_loc>
+        <video:duration>4644</video:duration>
+        <video:publication_date>2011-11-30T18:44:40.5923077+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

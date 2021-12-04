@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Design-and-Develop-for-Surface-Dial</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Design-and-Develop-for-Surface-Dial/Creating-Custom-Dial-Menu</loc>
+      <lastmod>2020-08-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f19/cade3b12-307c-4c3b-9b75-4f7c92b28f19/CreateACustomDialMenu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Custom Dial Menu]]></video:title>
+        <video:description><![CDATA[Today&#39;s we focus on creating a custom Dial menu. Hands-on materials and samples can be found at the GitHub here: https://github.com/DXSurfaceDial/Surface-Dial-Design-and-Development. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f19/cade3b12-307c-4c3b-9b75-4f7c92b28f19/CreateACustomDialMenu_mid.mp4</video:content_loc>
+        <video:duration>905</video:duration>
+        <video:publication_date>2017-05-01T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Design-and-Develop-for-Surface-Dial/Add-Custom-Menu-Items</loc>
+      <lastmod>2017-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/31a2/ab0211f7-b709-4c95-ab97-a70fa5ed31a2/AddCustomMenuItem_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Add Custom Menu Items]]></video:title>
+        <video:description><![CDATA[Today we are going to add a custom menu item to the Dial. Hands-on materials and samples can be found at GitHub here: https://github.com/DXSurfaceDial/Surface-Dial-Design-and-Development. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/31a2/ab0211f7-b709-4c95-ab97-a70fa5ed31a2/AddCustomMenuItem_mid.mp4</video:content_loc>
+        <video:duration>854</video:duration>
+        <video:publication_date>2017-04-25T06:09:45.9524202+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Design-and-Develop-for-Surface-Dial/Introducing-Surface-Dial-with-Ink-Input</loc>
+      <lastmod>2017-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e725/a411bc1c-e20a-408c-8572-37eeceffe725/IntroducingSurfaceDialwithInkInput_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Surface Dial with Ink Input]]></video:title>
+        <video:description><![CDATA[In this video, we are going to introduce Surface Dial with Ink input. Hands-on materials and samples can be found at the GitHub here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e725/a411bc1c-e20a-408c-8572-37eeceffe725/IntroducingSurfaceDialwithInkInput_mid.mp4</video:content_loc>
+        <video:duration>936</video:duration>
+        <video:publication_date>2017-04-05T21:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

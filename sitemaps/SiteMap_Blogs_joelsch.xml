@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelsch</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelsch/DST-How-to-Address-Daylight-Saving-Time-in-Exchange-Server-by-Using-the-Exchange-Calendar-Update-To</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c05/1b582e9e-2575-4f9d-90a2-f801479d7c05/DST-How-to-Address-Daylight-Saving-Time-in-Exchan_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DST: How to Address Daylight Saving Time in Exchange Server by Using the Exchange Calendar Update To]]></video:title>
+        <video:description><![CDATA[&amp;#65279;Steve Justice, Escalation Engineer from our Microsoft Exchange Support Team provides a walkthrough of using the Exchange Calendar Update Tool to update misplaced items in a calendars in an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c05/1b582e9e-2575-4f9d-90a2-f801479d7c05/DST-How-to-Address-Daylight-Saving-Time-in-Exchan_mid.mp4</video:content_loc>
+        <video:duration>3039</video:duration>
+        <video:publication_date>2007-09-14T07:47:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelsch/DST-Using-the-Outlook-v20-Time-Zone-Data-Update-Tool</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joelsch/DST-Cumulative-Time-Zone-Update-for-Microsoft-Windows</loc>
+      <lastmod>2018-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b937/fbb8f148-9172-4c3b-aff5-9ae4d4fbb937/DST-Cumulative-Time-Zone-Update-for-Microsoft-Win_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DST: Cumulative Time Zone Update for Microsoft Windows]]></video:title>
+        <video:description><![CDATA[
+This video will describe the August 2007 Windows Cumulative Time Zone Update.  It will explain how to install the patch, validate the install, manually update non-mainstream Windows versions, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b937/fbb8f148-9172-4c3b-aff5-9ae4d4fbb937/DST-Cumulative-Time-Zone-Update-for-Microsoft-Win_mid.mp4</video:content_loc>
+        <video:duration>2928</video:duration>
+        <video:publication_date>2007-09-13T04:34:46.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

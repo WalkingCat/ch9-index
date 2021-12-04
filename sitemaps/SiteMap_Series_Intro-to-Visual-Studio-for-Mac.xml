@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio-for-Mac</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio-for-Mac/Visual-Studio-for-Mac-How-to-Get-Involved-4-of-4</loc>
+      <lastmod>2020-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d329/5914e9e7-c0a3-42f6-8b20-2dcfba2bd329/IntroVisualStudioforMacPart4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio for Mac - How to Get Involved [4 of 4]]]></video:title>
+        <video:description><![CDATA[.NET and Visual Studio for Mac have lively, open source communities. Ranging from in-person meetups to live streams to conferences. Get involved at: dotnet.microsoft.com/platform/community Download&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9f89/5d0cc42f-c039-497f-bac1-6ef4f79b9f89/IntroVisualStudioforMacPart4_mid.mp4</video:content_loc>
+        <video:duration>325</video:duration>
+        <video:publication_date>2020-02-24T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio-for-Mac/Visual-Studio-for-Mac-NET-productivity-3-of-4</loc>
+      <lastmod>2021-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3bd3/f9bcfa41-729f-49b0-b1cd-9eb4aa2e3bd3/IntroVisualStudioForMacPart3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio for Mac .NET productivity [3 of 4]]]></video:title>
+        <video:description><![CDATA[Visual Studio for Mac is packed with features to help developers be more productive. You can spend hours learning about different features on this channel, but first here is a whirlwind tour of .NET&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4836/39e52b84-bdcc-4366-bb49-3b1985d34836/IntroVisualStudioForMacPart3_mid.mp4</video:content_loc>
+        <video:duration>476</video:duration>
+        <video:publication_date>2020-02-24T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio-for-Mac/Install-Visual-Studio-for-Mac-and-run-C-Tutorial-2-of-4</loc>
+      <lastmod>2021-07-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/adc4/b2d8deeb-d2bd-49f3-84bb-7b7553b7adc4/IntroVisualStudioforMacPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Install Visual Studio for Mac and run C# Tutorial [2 of 4]]]></video:title>
+        <video:description><![CDATA[This tutorial takes you through installing a FREE copy of Visual Studio for Mac on your machine to create your first C# app, compile it, and debug it. Start downloading Visual Studio 2019 Community&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a165/10773069-ef46-4318-a3dd-a9371ec1a165/IntroVisualStudioforMacPart2_mid.mp4</video:content_loc>
+        <video:duration>334</video:duration>
+        <video:publication_date>2020-02-24T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio-for-Mac/What-is-Visual-Studio-for-Mac-1-of-4</loc>
+      <lastmod>2020-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0350/d6b7d2c4-1d8f-4cb3-b9b6-d077cfd20350/VisualStudioForMacPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Visual Studio for Mac? [1 of 4]]]></video:title>
+        <video:description><![CDATA[What is Visual Studio for Mac? A quick look at the best features Visual Studio for Mac has to offer. Developers are all about code navigation, debugging, testing, code completion, and collaboration.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ad78/6b08e7e4-ccb8-4b00-bda5-0ce3d0afad78/VisualStudioForMacPart1_mid.mp4</video:content_loc>
+        <video:duration>232</video:duration>
+        <video:publication_date>2020-02-24T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

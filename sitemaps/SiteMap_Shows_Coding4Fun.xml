@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Coding4Fun</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Coding4Fun/Slap-your-boss-away</loc>
+      <lastmod>2016-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5903/29119307-34c6-407e-bbfb-81965e585903/SlapYourBossAway_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Slap your boss away]]></video:title>
+        <video:description><![CDATA[El siguiente video muestra como podemos utilizar un Leap Motion y el SDK de Skype for Business para &amp;quot;declinar&amp;quot; de forma elegante una llamada de Skype. La idea es identificar las llamadas&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5903/29119307-34c6-407e-bbfb-81965e585903/SlapYourBossAway_mid.mp4</video:content_loc>
+        <video:duration>754</video:duration>
+        <video:publication_date>2016-05-24T03:33:15.9129121+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Coding4Fun/Cognitive-Services-Whats-there</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/921b/7e640fe4-ec1a-487a-ae5a-55b55cdd921b/20160418CognitiveServicesWhatsThere_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cognitive Services - What&#39;s there? (VisionAPI sample App)]]></video:title>
+        <video:description><![CDATA[El siguiente video muestra como crear una Windows Universal App que saque una foto y utilizando los servicios de an&#225;lisis de imagen de Cognitive Services, nos comente v&#237;a audio el detalle de lo que se&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/921b/7e640fe4-ec1a-487a-ae5a-55b55cdd921b/20160418CognitiveServicesWhatsThere_mid.mp4</video:content_loc>
+        <video:duration>944</video:duration>
+        <video:publication_date>2016-04-19T02:37:49.4919072+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Coding4Fun/USB-Hacking</loc>
+      <lastmod>2016-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c13f/9b35aa88-a185-4457-ab31-1cc83c4cc13f/UsbHacking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[USB Hacking]]></video:title>
+        <video:description><![CDATA[El siguiente video muestra como hackear dispositivos USB. En realidad, lo que veremos es una forma simple de utilizar las APIs de Windows para poder conectarnos a un dispositivo y luego enviar y&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c13f/9b35aa88-a185-4457-ab31-1cc83c4cc13f/UsbHacking_mid.mp4</video:content_loc>
+        <video:duration>727</video:duration>
+        <video:publication_date>2016-03-28T01:39:20.1935706+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Coding4Fun/Windows-Universal-Apps-y-Bluetooth-Low-Energy</loc>
+      <lastmod>2016-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3848/d8367f88-4dd7-4ec5-8404-8a57d7433848/WindowsUniversalAppsyBluetoothLowEnergy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Universal Apps y Bluetooth Low Energy]]></video:title>
+        <video:description><![CDATA[El siguiente video muestra como crear una Windows Universal App que se conecte con dispositivo Bluetooth Low Energy  y obtenga valores del mismo, por ejemplo la carga de bater&#237;a. El source code de las&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3848/d8367f88-4dd7-4ec5-8404-8a57d7433848/WindowsUniversalAppsyBluetoothLowEnergy_mid.mp4</video:content_loc>
+        <video:duration>1000</video:duration>
+        <video:publication_date>2016-03-14T00:12:43.4304202+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

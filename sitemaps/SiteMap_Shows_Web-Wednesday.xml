@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Web-Wednesday-Managing-international-dates-with-JavaScript-with-Tomomi-Imura</loc>
+      <lastmod>2021-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8db4/cda91db3-f4a8-4c73-ba73-44d19f998db4/InternationalDatesTomomi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Wednesday: Managing international dates with JavaScript with Tomomi Imura]]></video:title>
+        <video:description><![CDATA[You may be familiar with ECMAScript Language Specification, such as ES2021, which is defined by Ecma International to standardize JavaScript, and specifies language syntax and semantics of the core&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6194/49175e1a-0296-4e57-9e8e-7be188396194/InternationalDatesTomomi_mid.mp4</video:content_loc>
+        <video:duration>3475</video:duration>
+        <video:publication_date>2021-10-13T14:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Web-Wednesday-Mastering-VS-debugging-with-Leslie-Richardson</loc>
+      <lastmod>2021-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4612/971d3231-7410-4345-9728-edf11f2f4612/WebWednesdayMasteringVSdebuggingwithLeslieRichard_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Wednesday: Mastering VS debugging with Leslie Richardson]]></video:title>
+        <video:description><![CDATA[Say goodbye to print statements!  From breakpoints and async tools to time travel, join Leslie Richardson from the Visual Studio team to learn more tips and tricks about how to expedite, customize,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4612/971d3231-7410-4345-9728-edf11f2f4612/WebWednesdayMasteringVSdebuggingwithLeslieRichard_mid.mp4</video:content_loc>
+        <video:duration>3541</video:duration>
+        <video:publication_date>2021-10-04T19:12:42.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/ASPNET-Razor-tips-and-tricks-with-Jon-Galloway</loc>
+      <lastmod>2021-10-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5997/e8e9d681-604d-49f7-a61f-0101cd235997/razorfull_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET Razor tips and tricks with Jon Galloway]]></video:title>
+        <video:description><![CDATA[Razor is a server-side, page-centric programming model for building webpages with ASP.NET Core. Razor has continued to mature over time, and has expanded to include numerous&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3dd0/65de4024-ac81-44f1-88a5-050a8df63dd0/razorfull_mid.mp4</video:content_loc>
+        <video:duration>3553</video:duration>
+        <video:publication_date>2021-10-01T06:32:18.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Web-Wednesday-Getting-started-with-Svelte-with-John-Papa</loc>
+      <lastmod>2021-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a0ea/f0661721-f8ba-4b41-a775-399f6205a0ea/sveltefull_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Wednesday: Getting started with Svelte with John Papa]]></video:title>
+        <video:description><![CDATA[Svelte is a front-end JavaScript framework designed to feel like writing standard JavaScript, HTML and CSS. This allows you to quickly start creating components without the necessary boilerplate code&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a0ea/f0661721-f8ba-4b41-a775-399f6205a0ea/sveltefull_mid.mp4</video:content_loc>
+        <video:duration>3431</video:duration>
+        <video:publication_date>2021-09-30T18:23:25.3054258+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Web-Wednesday-A-QA-about-becoming-a-Professional-Developer-with-Chloe-Condon</loc>
+      <lastmod>2021-10-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b7ea/d1db7962-9abd-4ba4-ab82-6d241cfab7ea/WebWednesdayAQ&amp;AaboutbecomingaProfessionalDevelop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Wednesday: A Q&amp;A about becoming a Professional Developer with Chloe Condon]]></video:title>
+        <video:description><![CDATA[Becoming a developer can feel rather daunting. There are a lot of unknowns and you probably have numerous questions about how to get started. Fortunately, it doesn&#39;t have to be as intimidating as it&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b7ea/d1db7962-9abd-4ba4-ab82-6d241cfab7ea/WebWednesdayAQ&amp;AaboutbecomingaProfessionalDevelop_mid.mp4</video:content_loc>
+        <video:duration>3565</video:duration>
+        <video:publication_date>2021-09-28T05:57:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Add-vision-models-to-web-apps-with-Lobeai</loc>
+      <lastmod>2021-09-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d876/802a96a7-a8e4-4ef7-81b5-b1bc11efd876/AddVisionModelsToWebAppsWithLobeAI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Add vision models to web apps with Lobe.ai]]></video:title>
+        <video:description><![CDATA[Adding AI to a web application need not involve complexity, managing large datasets, or learning advanced math. With Lobe.ai, you can create an image recognition model by using a friendly UI, and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d876/802a96a7-a8e4-4ef7-81b5-b1bc11efd876/AddVisionModelsToWebAppsWithLobeAI_mid.mp4</video:content_loc>
+        <video:duration>3127</video:duration>
+        <video:publication_date>2021-08-25T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Web-Wednesday-Web-and-mobile-apps-using-React-Native-Web-with-Robin-Heinze</loc>
+      <lastmod>2021-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/74a6/c0bded02-3f21-40a5-8121-708d161074a6/WebWednesdayWebAndMobileAppsUsingReactNativeWebWi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Wednesday: Web and mobile apps using React Native Web with Robin Heinze]]></video:title>
+        <video:description><![CDATA[We tend to think about web apps as being completely separate from native iOS and Android apps. But often we end up writing very similar business logic and even visual content on each platform —&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/74a6/c0bded02-3f21-40a5-8121-708d161074a6/WebWednesdayWebAndMobileAppsUsingReactNativeWebWi_mid.mp4</video:content_loc>
+        <video:duration>3511</video:duration>
+        <video:publication_date>2021-08-06T02:05:30.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Exploring-AI-on-the-Web-with-TensorFlowjs-with-Gant-Laborde</loc>
+      <lastmod>2021-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cce6/94495331-50a8-434a-855d-552772fecce6/WebWednesdayExploringAIOnTheWebWithTensorFlowJSWi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exploring AI on the Web with TensorFlow.js with Gant Laborde]]></video:title>
+        <video:description><![CDATA[For a lot of web developers, the idea of AI and machine learning is something you see in movies and not your websites. But that&#39;s no longer the case. You can make websites do things no developer has&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/cce6/94495331-50a8-434a-855d-552772fecce6/WebWednesdayExploringAIOnTheWebWithTensorFlowJSWi_mid.mp4</video:content_loc>
+        <video:duration>3512</video:duration>
+        <video:publication_date>2021-07-29T04:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Explore-the-Microsoft-Graph-Toolkit-with-Beth-Pan</loc>
+      <lastmod>2021-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4996/f1ec2a0b-b884-4fa9-9c8c-50e036134996/ExploreTheMicrosoftGraphToolkitWithBethPanWebWedn_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Explore the Microsoft Graph Toolkit with Beth Pan]]></video:title>
+        <video:description><![CDATA[The Microsoft Graph Toolkit is a group of reusable, *framework-agnostic* components and authentication providers for working with Microsoft Graph. You can add components to existing applications, and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/540f/80a52d85-b720-4cd2-b767-859e6429540f/ExploreTheMicrosoftGraphToolkitWithBethPanWebWedn_mid.mp4</video:content_loc>
+        <video:duration>3544</video:duration>
+        <video:publication_date>2021-07-24T02:14:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Explore-Minimal-APIs-with-Maria-Naggaga</loc>
+      <lastmod>2021-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0d34/6894ea10-b484-4011-973f-4b8b7cc40d34/ExploreMinimalAPIsWithMariaNaggagaWebWednesday_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Explore Minimal APIs with Maria Naggaga]]></video:title>
+        <video:description><![CDATA[This week we&#39;re joined by Maria Naggaga to show off minimal apps with minimal code! Express, Django, and Lumen provide their developers with the options to build great apps with less code. In this&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f761/e821d8ed-ac5a-4870-8b55-903b5571f761/ExploreMinimalAPIsWithMariaNaggagaWebWednesday_mid.mp4</video:content_loc>
+        <video:duration>3138</video:duration>
+        <video:publication_date>2021-07-24T02:08:23.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-create-my-first-Progressive-Web-App</loc>
+      <lastmod>2021-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/17ab/96635aa4-1e53-4e0c-90ae-5961adfa17ab/createstarter_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I create my first Progressive Web App?]]></video:title>
+        <video:description><![CDATA[Progressive Web Apps (PWAs) allow users to &amp;quot;install&amp;quot; web applications much in the same way they install other apps. To create a PWA certain components are needed, such as a manifest and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/17ab/96635aa4-1e53-4e0c-90ae-5961adfa17ab/createstarter_mid.mp4</video:content_loc>
+        <video:duration>370</video:duration>
+        <video:publication_date>2021-07-06T20:57:09.2674323+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-access-local-resources-from-a-Progressive-Web-App</loc>
+      <lastmod>2021-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8db4/fd8cb5ce-f4b7-44c8-aa4b-0b6ae0a98db4/pwalocalresources_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I access local resources from a Progressive Web App?]]></video:title>
+        <video:description><![CDATA[When using a native application, it can use local resources on the device, such as GPS, the camera and local file system. Because a Progressive Web App (PWA) is a web application, access to these&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8db4/fd8cb5ce-f4b7-44c8-aa4b-0b6ae0a98db4/pwalocalresources_mid.mp4</video:content_loc>
+        <video:duration>282</video:duration>
+        <video:publication_date>2021-07-06T20:55:30.9145794+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-a-Progressive-Web-App</loc>
+      <lastmod>2021-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0826/ac7be0ce-3a17-4328-bf1a-7a754bea0826/pwa_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is a Progressive Web App?]]></video:title>
+        <video:description><![CDATA[Progressive Web Apps (PWA) have been increasingly popular in the last couple of years as developers look for ways to increase the reach of their applications. With a PWA, a user is able to install and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0826/ac7be0ce-3a17-4328-bf1a-7a754bea0826/pwa_mid.mp4</video:content_loc>
+        <video:duration>460</video:duration>
+        <video:publication_date>2021-07-06T20:54:53.0123148+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-you-add-a-database-to-a-GraphQL-Server</loc>
+      <lastmod>2021-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1d6d/aa107db5-78ec-4539-8e58-82b681501d6d/graphqldatabase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do you add a database to a GraphQL Server?]]></video:title>
+        <video:description><![CDATA[The key advantage to GraphQL is the ability for clients to interact with data. This, of course, means we typically want a database backend for our GraphQL services. Jeremy Likness walks us through&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1d6d/aa107db5-78ec-4539-8e58-82b681501d6d/graphqldatabase_mid.mp4</video:content_loc>
+        <video:duration>545</video:duration>
+        <video:publication_date>2021-07-06T20:46:48.3579450+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-you-create-and-interact-with-a-GraphQL-Server</loc>
+      <lastmod>2021-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8495/20501f62-b7bd-4ae3-a1d3-f18cc2408495/graphqlserver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do you create and interact with a GraphQL Server?]]></video:title>
+        <video:description><![CDATA[Creating a GraphQL server need not involve complex code. Jeremy Likness walks us through how to create a GraphQL server using a popular package called Hot Chocolate. He then shows how to start&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8495/20501f62-b7bd-4ae3-a1d3-f18cc2408495/graphqlserver_mid.mp4</video:content_loc>
+        <video:duration>432</video:duration>
+        <video:publication_date>2021-07-06T20:46:12.3374929+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-GraphQL</loc>
+      <lastmod>2021-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/91eb/8b69b3d3-28c1-47a5-85a4-c6bdadf191eb/graphql_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is GraphQL?]]></video:title>
+        <video:description><![CDATA[GraphQL has become one of the buzzwords which most developers have heard of, but don&#39;t always understand the technology. At its core, GraphQL allows a client to formulate a query, allowing for a more&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/91eb/8b69b3d3-28c1-47a5-85a4-c6bdadf191eb/graphql_mid.mp4</video:content_loc>
+        <video:duration>514</video:duration>
+        <video:publication_date>2021-07-06T20:45:34.9139836+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Blazor-Web-Apps-using-GraphQL-and-EF-Core-with-Jeremy-Likness</loc>
+      <lastmod>2021-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d780/fe2538b7-06ce-499a-b8e7-b18136bad780/WebWednesdayGraphQLLikness_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Blazor Web Apps using GraphQL and EF Core with Jeremy Likness]]></video:title>
+        <video:description><![CDATA[Got data? Got Blazor? The &amp;quot;glue&amp;quot; between the client and server is often the weakest link in building enterprise web apps. What if you could use your domain model as the source of truth,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d780/fe2538b7-06ce-499a-b8e7-b18136bad780/WebWednesdayGraphQLLikness_mid.mp4</video:content_loc>
+        <video:duration>3602</video:duration>
+        <video:publication_date>2021-07-06T20:45:01.3954320+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Build-Serverless-Apps-using-Go-with-Chris-Noring</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c6e7/e5af6c38-3a67-47c4-be50-082c9540c6e7/goserverless_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Serverless Apps using Go with Chris Noring]]></video:title>
+        <video:description><![CDATA[Serverless apps let you build and run your applications and services without having to worry about servers, scaling or infrastructure. You can create handlers to respond to events, and write your apps&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c6e7/e5af6c38-3a67-47c4-be50-082c9540c6e7/goserverless_mid.mp4</video:content_loc>
+        <video:duration>3586</video:duration>
+        <video:publication_date>2021-06-23T21:56:46.5727726+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-create-a-serverless-function-using-Go</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c1e9/55a74419-4628-4bc8-8fae-c05d9bd5c1e9/createserverless_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I create a serverless function using Go?]]></video:title>
+        <video:description><![CDATA[Go allows you to create performant code using a streamlined syntax. Combined with serverless, you can deploy applications which can scale to your needs, and provide on-demand compute to your&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c1e9/55a74419-4628-4bc8-8fae-c05d9bd5c1e9/createserverless_mid.mp4</video:content_loc>
+        <video:duration>682</video:duration>
+        <video:publication_date>2021-06-23T21:56:04.3700389+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Go-or-Golang</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/34c7/d7174bac-dc1b-45ca-b7ab-bee437cb34c7/whatisgo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Go or Golang?]]></video:title>
+        <video:description><![CDATA[In a relatively short period of time, Go (or Golang) has become one of the most popular programming languages in the world. Created by Google to help overcome some of the challenges with C&amp;#43;&amp;#43;,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/34c7/d7174bac-dc1b-45ca-b7ab-bee437cb34c7/whatisgo_mid.mp4</video:content_loc>
+        <video:duration>389</video:duration>
+        <video:publication_date>2021-06-23T21:55:28.3514579+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-serverless</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fa7b/822c67a0-ae48-46b1-9c51-50585abdfa7b/whatisserverless_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is serverless?]]></video:title>
+        <video:description><![CDATA[Serverless is one of the most common buzzwords in development. But does it really mean there is no server? And what types of scenarios should I look at for serverless? Chris Noring has the answers! He&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fa7b/822c67a0-ae48-46b1-9c51-50585abdfa7b/whatisserverless_mid.mp4</video:content_loc>
+        <video:duration>531</video:duration>
+        <video:publication_date>2021-06-23T21:54:24.1093510+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Getting-started-with-Django</loc>
+      <lastmod>2021-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dbc5/55bcad9d-d705-489e-a4aa-98425fb5dbc5/django_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with Django]]></video:title>
+        <video:description><![CDATA[Django is one of the most popular web frameworks. Built on Python, it&#39;s designed to streamline the process of creating data driven web applications. Anthony Shaw (@anthonypjshaw) joins us to talk&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dbc5/55bcad9d-d705-489e-a4aa-98425fb5dbc5/django_mid.mp4</video:content_loc>
+        <video:duration>3570</video:duration>
+        <video:publication_date>2021-05-26T16:49:20.7818521+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-setup-routing-in-Django</loc>
+      <lastmod>2021-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/02b0/425e0509-8d5d-4f84-8413-3285ec4402b0/djangorouting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I setup routing in Django?]]></video:title>
+        <video:description><![CDATA[Routing is a common web framework concept, where requests are &amp;quot;routed&amp;quot; to method or functions inside your application. Anthony Shaw (@anthonypjshaw) shows how to configure routing in Django,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/02b0/425e0509-8d5d-4f84-8413-3285ec4402b0/djangorouting_mid.mp4</video:content_loc>
+        <video:duration>392</video:duration>
+        <video:publication_date>2021-05-26T16:48:51.6344623+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-model-data-in-Django</loc>
+      <lastmod>2021-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/29ba/71d05079-0b02-48aa-893c-2868fa3529ba/djangodata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I model data in Django?]]></video:title>
+        <video:description><![CDATA[The real magic of Django comes with the data model and how it manages the structure for you. You can define how you want your data to look, and enforce validation without having to create additional&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/29ba/71d05079-0b02-48aa-893c-2868fa3529ba/djangodata_mid.mp4</video:content_loc>
+        <video:duration>631</video:duration>
+        <video:publication_date>2021-05-26T16:48:11.6714844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-create-a-Django-project</loc>
+      <lastmod>2021-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b53e/5a653056-48d4-4589-b2e8-b11b9031b53e/startdjango_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I create a Django project?]]></video:title>
+        <video:description><![CDATA[Django is a &amp;quot;batteries included&amp;quot; framework, meaning the tooling you need is built in. Anthony Shaw (@anthonypjshaw) talks us through the process for installing Django and creating your first&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b53e/5a653056-48d4-4589-b2e8-b11b9031b53e/startdjango_mid.mp4</video:content_loc>
+        <video:duration>168</video:duration>
+        <video:publication_date>2021-05-26T16:47:30.6366218+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Why-would-I-use-SignalR-over-calling-WebSockets-directly</loc>
+      <lastmod>2021-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0cb1/0cd406e4-6bda-41f8-b6a0-58529a480cb1/sockets_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why would I use SignalR over calling WebSockets directly?]]></video:title>
+        <video:description><![CDATA[WebSockets has become relatively standard across all servers and clients. As a web developer it might be unclear about why you would choose to use an abstraction such as SignalR when you could call&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0cb1/0cd406e4-6bda-41f8-b6a0-58529a480cb1/sockets_mid.mp4</video:content_loc>
+        <video:duration>465</video:duration>
+        <video:publication_date>2021-05-26T16:46:39.2635812+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Django-and-how-does-it-differ-from-Flask</loc>
+      <lastmod>2021-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e381/11bab278-993d-4357-98b7-c3fc4c03e381/django_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Django and how does it differ from Flask?]]></video:title>
+        <video:description><![CDATA[Django and Flask are two of the most popular web frameworks, and share an equal popularity level among Python developers. However, the frameworks differ in a few key ways. Anthony Shaw&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e381/11bab278-993d-4357-98b7-c3fc4c03e381/django_mid.mp4</video:content_loc>
+        <video:duration>204</video:duration>
+        <video:publication_date>2021-05-26T16:45:49.0975443+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-presentation-skills-can-help-advance-your-career</loc>
+      <lastmod>2021-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/097b/f8665298-ed24-497e-a74a-111f9322097b/presentations_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How presentation skills can help advance your career]]></video:title>
+        <video:description><![CDATA[Typically when someone thinks about giving a presentation they think about being on camera or at a conference or other meeting. In reality, you wind up giving presentations on a regular basis - during&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/097b/f8665298-ed24-497e-a74a-111f9322097b/presentations_mid.mp4</video:content_loc>
+        <video:duration>3157</video:duration>
+        <video:publication_date>2021-05-26T16:44:57.5764783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-you-manage-disconnects-in-SignalR</loc>
+      <lastmod>2021-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1ba9/100edb89-ac96-4b1e-9fd2-59e15bad1ba9/managedisconnects_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do you manage disconnects in SignalR?]]></video:title>
+        <video:description><![CDATA[SignalR is only as durable as the connection. In a mobile world, it&#39;s possible connections can be dropped at any moment, making it tricky to manage real-time communications. Brady Gaster&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1ba9/100edb89-ac96-4b1e-9fd2-59e15bad1ba9/managedisconnects_mid.mp4</video:content_loc>
+        <video:duration>399</video:duration>
+        <video:publication_date>2021-05-10T18:22:17.1876101+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-build-a-SignalR-app-with-ASPNET-Core</loc>
+      <lastmod>2021-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/eb51/bc20be7c-7493-4f0e-be93-79b3912deb51/aspnetsignalr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I build a SignalR app with ASP.NET Core?]]></video:title>
+        <video:description><![CDATA[If you are creating an ASP.NET Core application full support for SignalR is integrated. Brady Gaster (@bradygaster) walks us through the code required for a SignalR app in ASP.NET Core. Did you&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/eb51/bc20be7c-7493-4f0e-be93-79b3912deb51/aspnetsignalr_mid.mp4</video:content_loc>
+        <video:duration>311</video:duration>
+        <video:publication_date>2021-05-10T18:21:31.7786812+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-target-specific-recipients-for-messages-with-SignalR</loc>
+      <lastmod>2021-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/89ea/c2511f48-a06e-4eba-b8f7-c7e61ead89ea/targetrecipients_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I target specific recipients for messages with SignalR?]]></video:title>
+        <video:description><![CDATA[Many demos for SignalR focus on broadcasting messages to all clients. However, SignalR has full support to target specific users or groups you as the developer define for your application. Brady&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/89ea/c2511f48-a06e-4eba-b8f7-c7e61ead89ea/targetrecipients_mid.mp4</video:content_loc>
+        <video:duration>330</video:duration>
+        <video:publication_date>2021-05-10T18:19:51.1848522+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Using-SignalR-and-ASPNET-Core-for-realtime-communication</loc>
+      <lastmod>2021-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5a7c/4847b79d-d9f7-42cc-bc99-04c26f135a7c/signalr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using SignalR and ASP.NET Core for realtime communication]]></video:title>
+        <video:description><![CDATA[SignalR is the component of ASP.NET Core that enables real-time communications on the web. Brady Gaster (@bradygaster) joins us to walk us through how SignalR works, how it manages different forms of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5a7c/4847b79d-d9f7-42cc-bc99-04c26f135a7c/signalr_mid.mp4</video:content_loc>
+        <video:duration>3367</video:duration>
+        <video:publication_date>2021-05-10T18:17:12.7440940+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-can-I-see-variable-values-when-debugging</loc>
+      <lastmod>2021-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0545/c5242f1a-eb18-43f3-84b9-318e80c50545/variable-values-debugging_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How can I see variable values when debugging?]]></video:title>
+        <video:description><![CDATA[One of the primary tasks you&#39;ll want to perform when using the debugger is determining the value of different variables. Visual Studio has various windows which can reveal this information, and allow&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0545/c5242f1a-eb18-43f3-84b9-318e80c50545/variable-values-debugging_mid.mp4</video:content_loc>
+        <video:duration>522</video:duration>
+        <video:publication_date>2021-05-10T18:16:00.9630781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-does-the-debugger-look-like-in-Visual-Studio</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5d43/fc7dc354-03e4-4440-b30c-919c1a125d43/looks-like-debugger_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What does the debugger look like in Visual Studio?]]></video:title>
+        <video:description><![CDATA[If you haven&#39;t used the debugger in Visual Studio before, or maybe it&#39;s been a while, you might wonder what it looks like and some of the core functionality. Leslie Richardson (@lyrichardson01), PM on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5d43/fc7dc354-03e4-4440-b30c-919c1a125d43/looks-like-debugger_mid.mp4</video:content_loc>
+        <video:duration>392</video:duration>
+        <video:publication_date>2021-05-04T21:53:26.8967447+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Using-the-debugger-in-Visual-Studio-with-Leslie-Richardson</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d8dd/5ad503d8-1879-4509-8d19-bf7dfa16d8dd/visual-studio-debugger_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using the debugger in Visual Studio with Leslie Richardson]]></video:title>
+        <video:description><![CDATA[Do you want to know how to debug your code faster? Tired of seeing printf() statements clutter your code? Join Leslie Richardson from the Visual Studio team to learn some cool tips and tricks about&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d8dd/5ad503d8-1879-4509-8d19-bf7dfa16d8dd/visual-studio-debugger_mid.mp4</video:content_loc>
+        <video:duration>3447</video:duration>
+        <video:publication_date>2021-05-04T21:52:42.3479852+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-get-started-with-the-debugger-in-Visual-Studio</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a85a/b77443ea-e883-443e-bcbf-c6efb449a85a/debugger-get-started_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I get started with the debugger in Visual Studio?]]></video:title>
+        <video:description><![CDATA[If you haven&#39;t used the debugger you might not be familiar with the concepts of breakpoints or how to step through code. Fortunately Leslie Richardson (@lyrichardson01), PM on the Visual Studio team,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a85a/b77443ea-e883-443e-bcbf-c6efb449a85a/debugger-get-started_mid.mp4</video:content_loc>
+        <video:duration>328</video:duration>
+        <video:publication_date>2021-05-04T21:50:52.2470043+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Why-is-it-so-important-to-use-the-debugger</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/29c5/37a27fd7-8685-45d5-afaa-dbb37dc229c5/importance-of-debugger_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why is it so important to use the debugger?]]></video:title>
+        <video:description><![CDATA[All developers know we shouldn&#39;t use print or console.log statements, but most of us do. Leslie Richardson (@lyrichardson01), PM on the Visual Studio team, joins us to tell us why it&#39;s time to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/29c5/37a27fd7-8685-45d5-afaa-dbb37dc229c5/importance-of-debugger_mid.mp4</video:content_loc>
+        <video:duration>157</video:duration>
+        <video:publication_date>2021-05-04T21:49:55.5775923+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-you-create-a-React-app-with-TypeScript</loc>
+      <lastmod>2021-04-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6aab/7b4311e0-811d-4bdb-8139-327b96276aab/create-react-app-typescript_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do you create a React app with TypeScript?]]></video:title>
+        <video:description><![CDATA[React and TypeScript are a wonderful match. Using TypeScript&#39;s type system and checking, your editor is able to provide better insights about your code and help guide you along the way. Cloud Advocate&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6aab/7b4311e0-811d-4bdb-8139-327b96276aab/create-react-app-typescript_mid.mp4</video:content_loc>
+        <video:duration>823</video:duration>
+        <video:publication_date>2021-04-19T18:42:46.9858583+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-TypeScript</loc>
+      <lastmod>2021-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/35bf/0af4cde0-37fd-46bf-84da-d7fefd7435bf/what-is-typescript_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is TypeScript?]]></video:title>
+        <video:description><![CDATA[TypeScript is a superset of JavaScript, and is designed to help make writing JavaScript easier. But what is it really? And how does it work? Cloud Advocate Aaron Powell (@slace) helps explain a little&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/35bf/0af4cde0-37fd-46bf-84da-d7fefd7435bf/what-is-typescript_mid.mp4</video:content_loc>
+        <video:duration>283</video:duration>
+        <video:publication_date>2021-04-19T18:41:50.8034464+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-advances-are-being-made-in-the-size-and-types-of-devices</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2406/7294f041-0f8c-4373-a974-60bb76872406/mr-devices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What advances are being made in the size and types of devices?]]></video:title>
+        <video:description><![CDATA[When people think about mixed reality, they often think about bulky headsets. Senior Cloud Advocate Ayşeg&#252;l Yonet talks us through the various devices, including phones, where mixed reality can be&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2406/7294f041-0f8c-4373-a974-60bb76872406/mr-devices_mid.mp4</video:content_loc>
+        <video:duration>261</video:duration>
+        <video:publication_date>2021-04-12T17:11:18.0418234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-can-we-make-mixed-reality-experiences-accessible-to-all</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8c7d/41c32380-9f51-4549-9ca2-fe1ea5f98c7d/mr-accessibility_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How can we make mixed reality experiences accessible to all?]]></video:title>
+        <video:description><![CDATA[A web which is only accessible to some is accessible to none. If we begin working with mixed reality on the web how can we ensure it&#39;s accessible to everyone? Senior Cloud Advocate Ayşeg&#252;l Yonet&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8c7d/41c32380-9f51-4549-9ca2-fe1ea5f98c7d/mr-accessibility_mid.mp4</video:content_loc>
+        <video:duration>307</video:duration>
+        <video:publication_date>2021-04-12T17:11:11.9534470+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-tools-and-frameworks-can-I-use-to-create-mixed-reality-experiences</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c64d/dab623e7-6111-48fd-8dbc-594a8c80c64d/mr-tools_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What tools and frameworks can I use to create mixed reality experiences?]]></video:title>
+        <video:description><![CDATA[The first step to actually writing code is to determine what tools are available to you. Senior Cloud Advocate Ayşeg&#252;l Yonet talks through some of the tools you can use, including how you can leverage&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c64d/dab623e7-6111-48fd-8dbc-594a8c80c64d/mr-tools_mid.mp4</video:content_loc>
+        <video:duration>315</video:duration>
+        <video:publication_date>2021-04-12T17:10:56.0154149+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-MR-AR-VR-and-the-other-mixed-reality-terms</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/76ff/8ffa1bd6-4a2d-453e-be73-c1b07f9476ff/what-is-mr-vr-ar_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is MR, AR, VR and the other mixed reality terms?]]></video:title>
+        <video:description><![CDATA[When starting to explore a new technology one of the first hurdles is the terminology. Senior Cloud Advocate Ayşeg&#252;l Yonet breaks down what the various terms MR, VR and AR mean, and compares and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/76ff/8ffa1bd6-4a2d-453e-be73-c1b07f9476ff/what-is-mr-vr-ar_mid.mp4</video:content_loc>
+        <video:duration>218</video:duration>
+        <video:publication_date>2021-04-12T17:10:49.4348003+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-create-a-client-for-SignalR</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/576a/9040a6e3-85a6-4dae-abdc-0e26b8dd576a/signalr-client_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I create a client for SignalR?]]></video:title>
+        <video:description><![CDATA[With the server configured, the next question becomes how one setups a client. Fortunately, an SDK exists to allow you to quickly connect to a SignalR service to both receive and send messages.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/576a/9040a6e3-85a6-4dae-abdc-0e26b8dd576a/signalr-client_mid.mp4</video:content_loc>
+        <video:duration>562</video:duration>
+        <video:publication_date>2021-04-12T17:10:41.3849972+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-does-SignalR-chat-application-look-like</loc>
+      <lastmod>2021-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f6ac/e17cd842-65b6-4f82-b457-0209d73ff6ac/signalr-chat_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What does SignalR chat application look like?]]></video:title>
+        <video:description><![CDATA[Chat applications are the classic demo for real-time communication on the web. Anthony Chu (@nthonychu), Senior PM for Azure Functions, demonstrates a sample application using Vue.js, SignalR and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f6ac/e17cd842-65b6-4f82-b457-0209d73ff6ac/signalr-chat_mid.mp4</video:content_loc>
+        <video:duration>279</video:duration>
+        <video:publication_date>2021-04-05T18:34:56.2268899+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-can-I-configure-Azure-Functions-to-communicate-real-time-with-a-client</loc>
+      <lastmod>2021-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/935e/6e75b925-9218-4e39-ae16-1147070e935e/signalr-server_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How can I configure Azure Functions to communicate real-time with a client?]]></video:title>
+        <video:description><![CDATA[When people envision Azure Functions they typically think of an on-demand serverless application. With the SignalR Service, it&#39;s possible to allow Azure Functions to make Web Sockets and other&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/935e/6e75b925-9218-4e39-ae16-1147070e935e/signalr-server_mid.mp4</video:content_loc>
+        <video:duration>747</video:duration>
+        <video:publication_date>2021-04-05T18:30:25.7781355+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-the-SignalR-Service-on-Azure</loc>
+      <lastmod>2021-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ad92/0ebfdbf8-c054-4c2d-8e43-6f5d5f64ad92/what-is-signalr-service_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is the SignalR Service on Azure?]]></video:title>
+        <video:description><![CDATA[SignalR allows for real-time web communication. Typically you need to create a server-based application to host your Web Sockets (or other implementations) with Node.js, ASP.NET or another type of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ad92/0ebfdbf8-c054-4c2d-8e43-6f5d5f64ad92/what-is-signalr-service_mid.mp4</video:content_loc>
+        <video:duration>190</video:duration>
+        <video:publication_date>2021-04-05T18:25:47.3928582+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-SignalR-and-how-does-it-aid-with-real-time-communication-on-the-web</loc>
+      <lastmod>2021-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b534/bd2a3231-7a4d-42ae-8f15-d4ac8300b534/what-is-signalr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is SignalR and how does it aid with real-time communication on the web?]]></video:title>
+        <video:description><![CDATA[Real-time communication allows for two-way communication between a client (typically a browser) and server over the web. There are a few different methods for implementing this, including Web Sockets.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b534/bd2a3231-7a4d-42ae-8f15-d4ac8300b534/what-is-signalr_mid.mp4</video:content_loc>
+        <video:duration>633</video:duration>
+        <video:publication_date>2021-04-05T18:22:43.2147424+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-create-views-with-MobX-State-Tree</loc>
+      <lastmod>2021-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6cbe/5f48d482-fb50-4f60-90a6-403273656cbe/mst-create-views_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I create views with MobX-State-Tree?]]></video:title>
+        <video:description><![CDATA[You frequently need to filter or otherwise change the view of the data for your users in client-side applications. Jamon Holmgren (@JamonHolmgren), maintainer of MobX-State-Tree (MST), demonstrates&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6cbe/5f48d482-fb50-4f60-90a6-403273656cbe/mst-create-views_mid.mp4</video:content_loc>
+        <video:duration>128</video:duration>
+        <video:publication_date>2021-03-29T16:44:28.8339319+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-modify-state-values-in-React-with-MobX-State-Tree</loc>
+      <lastmod>2021-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/799f/5968bbf3-52fe-4641-ba02-1d2313f7799f/mst-modify-state_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I modify state values in React with MobX-State-Tree?]]></video:title>
+        <video:description><![CDATA[Updating state is required for any React application. Jamon Holmgren (@JamonHolmgren), maintainer of MobX-State-Tree (MST), demonstrates how to modify state through actions with MST. Did you know...&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/799f/5968bbf3-52fe-4641-ba02-1d2313f7799f/mst-modify-state_mid.mp4</video:content_loc>
+        <video:duration>421</video:duration>
+        <video:publication_date>2021-03-29T16:44:23.4774179+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-get-started-with-MobX-State-Tree-and-React</loc>
+      <lastmod>2021-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d6a2/75e56495-c316-4f81-8afb-7217c906d6a2/mst-get-started_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I get started with MobX-State-Tree and React?]]></video:title>
+        <video:description><![CDATA[Jamon Holmgren (@JamonHolmgren), maintainer of MobX-State-Tree (MST),walks us through the first steps in migrating a React application from using hooks to MST. Did you know... You can learn how to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d6a2/75e56495-c316-4f81-8afb-7217c906d6a2/mst-get-started_mid.mp4</video:content_loc>
+        <video:duration>744</video:duration>
+        <video:publication_date>2021-03-29T16:44:17.0032127+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-MobX-State-Tree-and-how-can-it-help-me-with-React</loc>
+      <lastmod>2021-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fc29/77287d01-c19f-438c-aae2-96b32b86fc29/what-is-mobx-state-tree_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is MobX-State-Tree and how can it help me with React?]]></video:title>
+        <video:description><![CDATA[There are numerous libraries available for managing state in React. Jamon Holmgren (@JamonHolmgren), maintainer of MobX-State-Tree (MST), explains what MST is, and how you can use the library to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fc29/77287d01-c19f-438c-aae2-96b32b86fc29/what-is-mobx-state-tree_mid.mp4</video:content_loc>
+        <video:duration>93</video:duration>
+        <video:publication_date>2021-03-29T16:44:05.3034561+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-work-with-state-in-React</loc>
+      <lastmod>2021-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c273/370b1c2c-0d82-47a2-85f4-b52e7be7c273/react-state_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I work with state in React?]]></video:title>
+        <video:description><![CDATA[State is a core component of any React application. It represents the data the user will interact with, and the current status of the application. Jamon Holmgren (@JamonHolmgren) offers his take on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c273/370b1c2c-0d82-47a2-85f4-b52e7be7c273/react-state_mid.mp4</video:content_loc>
+        <video:duration>698</video:duration>
+        <video:publication_date>2021-03-29T16:43:55.6820249+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-divide-my-application-up-into-microservices</loc>
+      <lastmod>2021-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/198c/9ac7fb9d-6949-42ae-a4de-d6e62ae7198c/how-do-i-divide-my-application_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do divide my application up into microservices?]]></video:title>
+        <video:description><![CDATA[If you&#39;ve decided to implement microservices you might be unsure how to divide up your application. Jon Galloway (@jongalloway) joins us to provide some advice on how to begin this process.Did you&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/198c/9ac7fb9d-6949-42ae-a4de-d6e62ae7198c/how-do-i-divide-my-application_mid.mp4</video:content_loc>
+        <video:duration>360</video:duration>
+        <video:publication_date>2021-03-26T23:00:44.6134585+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-are-microservices-and-why-should-I-care-about-them</loc>
+      <lastmod>2021-03-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1c41/9b622969-5eff-4b46-98f6-731666b61c41/what-is-microservices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What are microservices, and why should I care about them?]]></video:title>
+        <video:description><![CDATA[Microservices is one of the most common buzzwords, one used so frequently many people pretend to know what they are but aren&#39;t really sure. Jon Galloway (@jongalloway) joins us to answer the question&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1c41/9b622969-5eff-4b46-98f6-731666b61c41/what-is-microservices_mid.mp4</video:content_loc>
+        <video:duration>602</video:duration>
+        <video:publication_date>2021-03-26T23:00:35.8854602+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-manage-immutability-and-state-in-React</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9199/00f279d8-0115-4c86-8968-67443c689199/immutability-react_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I manage immutability and state in React?]]></video:title>
+        <video:description><![CDATA[React enforces immutability in state, meaning you cannot directly change stateful values. This can actually be freeing, and help eliminate an entire class of bugs. Aaron Powell (@slace) talks about&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9199/00f279d8-0115-4c86-8968-67443c689199/immutability-react_mid.mp4</video:content_loc>
+        <video:duration>165</video:duration>
+        <video:publication_date>2021-03-12T19:16:34.9922319+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-create-good-alt-text-for-media</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5607/5f7550e4-9507-4d14-a0e2-2dcb4ed25607/alt-text_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I create good alt text for media?]]></video:title>
+        <video:description><![CDATA[Most developers know the importance of adding alt text for media. But what makes good alt text? What should we put into the attribute? Sarah Higley (@codingchaos) highlights some best practices for&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5607/5f7550e4-9507-4d14-a0e2-2dcb4ed25607/alt-text_mid.mp4</video:content_loc>
+        <video:duration>236</video:duration>
+        <video:publication_date>2021-03-12T19:16:27.7303213+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-do-I-minimize-risk-when-starting-a-company</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4927/795678a1-55a3-44e3-b2c5-fb461a9b4927/minimize-risk_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How do I minimize risk when starting a company?]]></video:title>
+        <video:description><![CDATA[Many companies are launched on a small budget. When starting out, loss of capital can be devastating. How do you minimize risk while testing your product in the market? Serial entrepreneur Damola&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4927/795678a1-55a3-44e3-b2c5-fb461a9b4927/minimize-risk_mid.mp4</video:content_loc>
+        <video:duration>304</video:duration>
+        <video:publication_date>2021-03-12T19:15:57.0848575+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-can-I-communicate-my-idea-to-a-developer</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8a9e/c5dbaca5-a1f1-452f-963b-13449f408a9e/non-technical_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How can I communicate my idea to a developer?]]></video:title>
+        <video:description><![CDATA[When you&#39;re building a product for the public you need to be able to identify who the product is for, and who will be served by each feature. One successful strategy for talking through feature&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8a9e/c5dbaca5-a1f1-452f-963b-13449f408a9e/non-technical_mid.mp4</video:content_loc>
+        <video:duration>171</video:duration>
+        <video:publication_date>2021-03-12T19:15:57.0194619+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/How-can-personas-help-guide-a-product</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e77c/0bed0875-d1e7-45eb-b550-8cbaa9f5e77c/personas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How can personas help guide a product?]]></video:title>
+        <video:description><![CDATA[When you&#39;re building a product for the public you need to be able to identify who the product is for, and who will be served by each feature. One successful strategy for talking through feature&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e77c/0bed0875-d1e7-45eb-b550-8cbaa9f5e77c/personas_mid.mp4</video:content_loc>
+        <video:duration>190</video:duration>
+        <video:publication_date>2021-03-12T19:15:44.7757116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-should-I-focus-on-first-when-creating-a-startup</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fb81/e22a286d-678d-407f-b15c-cdc07220fb81/first-focus-starting-business_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What should I focus on first when creating a startup?]]></video:title>
+        <video:description><![CDATA[Oftentimes developers aren&#39;t familiar with the skills necessary to take a product to market. It can even be difficult to figure out what the first step is! Serial entrepreneur Damola Omotosho&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fb81/e22a286d-678d-407f-b15c-cdc07220fb81/first-focus-starting-business_mid.mp4</video:content_loc>
+        <video:duration>357</video:duration>
+        <video:publication_date>2021-03-12T19:15:41.4779430+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-are-React-function-components-and-how-do-I-manage-state-with-hooks</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3cb4/ed507ed2-bd1e-4e3a-ad3e-5c46dac53cb4/react-state-function-components_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What are React function components, and how do I manage state with hooks?]]></video:title>
+        <video:description><![CDATA[Components in React are building blocks you use to create your application. You can create them by using functions, which in the past were known as stateless components. Through the use of hooks you&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3cb4/ed507ed2-bd1e-4e3a-ad3e-5c46dac53cb4/react-state-function-components_mid.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2021-03-12T19:15:37.9856065+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-React</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/30aa/4e72f5bc-5b05-4f68-81fd-85dca67930aa/what-is-react_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is React?]]></video:title>
+        <video:description><![CDATA[React is one of the most popular front end libraries for web and app development. Aaron Powell (@slace) explains what the library is, and how it differs from other frameworks. Did you know... You can&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/30aa/4e72f5bc-5b05-4f68-81fd-85dca67930aa/what-is-react_mid.mp4</video:content_loc>
+        <video:duration>223</video:duration>
+        <video:publication_date>2021-03-12T19:15:31.8668331+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/Why-are-div-buttons-bad-and-why-is-semantic-HTML-important</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dbf5/cbd45a8b-fbc1-46d5-9760-e9b7ae79dbf5/problem-with-div-buttons_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why are div buttons bad, and why is semantic HTML important?]]></video:title>
+        <video:description><![CDATA[One of the strengths of HTML and JavaScript is the ability to completely control the user interface. However, some of the techniques we implement can make our application inaccessible. Sarah Higley&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dbf5/cbd45a8b-fbc1-46d5-9760-e9b7ae79dbf5/problem-with-div-buttons_mid.mp4</video:content_loc>
+        <video:duration>242</video:duration>
+        <video:publication_date>2021-03-12T19:15:26.9701839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-does-web-accessibility-mean</loc>
+      <lastmod>2021-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d542/dbc31661-3b9e-487e-b37b-45bfea0ed542/what-is-web-accessibility_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What does web accessibility mean?]]></video:title>
+        <video:description><![CDATA[Ensuring your applications are accessible to all is critical. There is nothing inherent to the web which makes it inaccessible; we make it inaccessible. Sarah Higley (@codingchaos) joins us to talk&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d542/dbc31661-3b9e-487e-b37b-45bfea0ed542/what-is-web-accessibility_mid.mp4</video:content_loc>
+        <video:duration>131</video:duration>
+        <video:publication_date>2021-03-12T19:15:05.2057155+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Microsoft-Graph-Toolkit</loc>
+      <lastmod>2021-02-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8e6c/d3f59583-6b0b-4893-b535-0e1c5b7c8e6c/what-is-microsoft-graph-toolkit_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Microsoft Graph Toolkit?]]></video:title>
+        <video:description><![CDATA[Microsoft Graph API offers a host of APIs to access user&#39;s data on their behalf, allowing you to create custom applications which incorporates with the tools and services they&#39;re already using.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8e6c/d3f59583-6b0b-4893-b535-0e1c5b7c8e6c/what-is-microsoft-graph-toolkit_mid.mp4</video:content_loc>
+        <video:duration>495</video:duration>
+        <video:publication_date>2021-02-08T20:43:15.1674891+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Microsoft-Graph</loc>
+      <lastmod>2021-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/da80/1d0cd114-46ff-47ce-88bd-1db24b1bda80/what-is-microsoft-graph_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Microsoft 365 is the primary location for the cloud-based data your users use and access on a daily basis. Through a set of APIs, you can create custom applications which allows your users to interact&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/da80/1d0cd114-46ff-47ce-88bd-1db24b1bda80/what-is-microsoft-graph_mid.mp4</video:content_loc>
+        <video:duration>247</video:duration>
+        <video:publication_date>2021-02-08T20:43:02.1559228+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Tailwind-CSS</loc>
+      <lastmod>2021-10-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/41ff/0e7cea43-33ff-4c1c-929d-fceb04cf41ff/what-is-tailwind-css_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is Tailwind CSS]]></video:title>
+        <video:description><![CDATA[Tailwind CSS is self-described as a utility first CSS framework. Rather than focusing on the functionality of the item being styled, Tailwind is centered around how it should be displayed. This makes&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/41ff/0e7cea43-33ff-4c1c-929d-fceb04cf41ff/what-is-tailwind-css_mid.mp4</video:content_loc>
+        <video:duration>375</video:duration>
+        <video:publication_date>2021-02-04T22:21:27.4806121+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

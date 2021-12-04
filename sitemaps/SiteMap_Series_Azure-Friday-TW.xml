@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Friday-TW</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Friday-TW/start-autoscale</loc>
+      <lastmod>2015-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/efa9/8ca2e26f-5d74-4260-b117-7e2aee6cefa9/AUTOSCALE_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure  PaaS  Autoscale ]]></video:title>
+        <video:description><![CDATA[由美麗主持人 Sharon 與宅神 Jack，用生動活潑的對談方式帶大家瞭解如何將現有網站移到 Azure 的 PaaS 服務並啟用 Autoscale ，周五夜晚讓我們一起 Azure Friday ！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efa9/8ca2e26f-5d74-4260-b117-7e2aee6cefa9/AUTOSCALE_mid.mp4</video:content_loc>
+        <video:duration>1182</video:duration>
+        <video:publication_date>2015-11-10T03:51:09.0561702+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Friday-TW/vm-azure-on-opensource</loc>
+      <lastmod>2015-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7cf/bb6361e9-d301-4d7e-96e7-0fc2ecbdb7cf/vmazureopensource_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure  Open Source ]]></video:title>
+        <video:description><![CDATA[由美麗主持人 Sharon 與宅神 Jack，用生動活潑的對談方式帶大家瞭解虛擬機器：快速瀏覽 Azure 上可用的 Open Source 種類，周五夜晚讓我們一起 Azure Friday ！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7cf/bb6361e9-d301-4d7e-96e7-0fc2ecbdb7cf/vmazureopensource_mid.mp4</video:content_loc>
+        <video:duration>888</video:duration>
+        <video:publication_date>2015-11-10T03:49:24.1598778+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

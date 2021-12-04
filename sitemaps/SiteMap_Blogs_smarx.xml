@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/What-is-Windows-Azure-a-hand-drawn-video</loc>
+      <lastmod>2017-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/The-CIA-Pickup-a-Windows-Azure-Sample</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/Windows-Azure-Tools-for-Visual-Studio</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/Windows-Azure-Table-Storage</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/Windows-Azure-Blob-Storage</loc>
+      <lastmod>2017-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/Windows-Azure-Hello-Cloud</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/MIX07-video-player-sample-with-all-the-new-stuff</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f2d/2fe52c9e-188d-4feb-adc4-4a83f44f1f2d/MIX07-video-player-sample-with-all-the-new-stuff_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MIX&#39;07 video player sample - with all the new stuff]]></video:title>
+        <video:description><![CDATA[I built my own MIX&#39;07 video player last night and recorded a 15 minute screencast to give you an idea of what&#39;s possible with all the new releases that came out last week.
+
+See the blog post at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f2d/2fe52c9e-188d-4feb-adc4-4a83f44f1f2d/MIX07-video-player-sample-with-all-the-new-stuff_mid.mp4</video:content_loc>
+        <video:duration>947</video:duration>
+        <video:publication_date>2007-08-01T16:10:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/smarx/smarxwear-ASPNET-AJAX-T-shirt-demo</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

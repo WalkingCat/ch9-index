@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Help</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Help/Troubleshoot-NSG-configuration-using-IP-Flow-Verify</loc>
+      <lastmod>2021-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/82c1/5c2cddd5-a454-4e9e-bf33-7fd5bbbd82c1/ipflowverify_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshoot NSG configuration using IP Flow Verify ]]></video:title>
+        <video:description><![CDATA[Learn to use IP flow verify to confirm if a rule in a Network Security Group is blocking traffic to or from a virtual machine.  Useful Documentation: Overview of Network Watcher IP Flow VerifyHow to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/82c1/5c2cddd5-a454-4e9e-bf33-7fd5bbbd82c1/ipflowverify_mid.mp4</video:content_loc>
+        <video:duration>365</video:duration>
+        <video:publication_date>2017-05-12T20:49:53.8110850+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

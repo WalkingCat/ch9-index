@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Stream-Analytics</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Stream-Analytics/Azure-Stream-Analytics-in-Real-Time-How-To</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6aec/629d71b8-23fe-4f31-8d0c-f27c872b6aec/azureStreamAnalytics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Stream Analytics in Real Time (How To) ]]></video:title>
+        <video:description><![CDATA[In this v&#237;deo Renato show how to create c# application to send data to the Power BI, and show data into charts and indicators. This Solution should be great sample to integrate to the IoT devices. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6aec/629d71b8-23fe-4f31-8d0c-f27c872b6aec/azureStreamAnalytics_mid.mp4</video:content_loc>
+        <video:duration>660</video:duration>
+        <video:publication_date>2016-09-15T17:43:01.7273040+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

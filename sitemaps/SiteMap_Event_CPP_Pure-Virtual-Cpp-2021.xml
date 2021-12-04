@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/CPP/Pure-Virtual-Cpp-2021</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/CPP/Pure-Virtual-Cpp-2021/Cpp-Modules-Year-2021</loc>
+      <lastmod>2021-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2442/ff08339c-3d48-4e05-86bd-0fbec30b2442/PureVirtualCppCppModulesYear2021_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ C++ Modules: Year 2021]]></video:title>
+        <video:description><![CDATA[Check out free documentation and modules on Microsoft Learn In the year 2021, with toolset support for C&amp;#43;&amp;#43; Modules ready for production use, what can we expect? This talk presents the lay of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0aca/3f983849-248f-4d31-9907-fbafe8620aca/PureVirtualCppCppModulesYear2021_mid.mp4</video:content_loc>
+        <video:duration>2175</video:duration>
+        <video:publication_date>2021-05-06T22:31:21.4055991+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/CPP/Pure-Virtual-Cpp-2021/Code-Analysis-Empowering-developers-to-write-performant-reliable-and-safe-Cpp</loc>
+      <lastmod>2021-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/511f/162c22ea-5cdb-4a9f-9aff-afe62c9e511f/PureVirtualCppCodeAnalysis_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Code Analysis: Empowering developers to write performant, reliable, and safe C++ ]]></video:title>
+        <video:description><![CDATA[Check out free documentation and modules on Microsoft Learn Although C&amp;#43;&amp;#43; is a high performing programming language, customers and security researchers have increasingly asked for stronger&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6a92/1f07cbb1-60a9-4dc5-bbd3-cdd55b186a92/PureVirtualCppCodeAnalysis_mid.mp4</video:content_loc>
+        <video:duration>2136</video:duration>
+        <video:publication_date>2021-05-06T22:30:24.0882915+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/CPP/Pure-Virtual-Cpp-2021/Manage-code-dependencies-at-work-with-new-vcpkg-features</loc>
+      <lastmod>2021-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/792d/b98fd8db-9402-43e2-95a4-2bda1356792d/PureVirtualCppManageCodeDependenciesvcpkg_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Manage code dependencies at work with new vcpkg features]]></video:title>
+        <video:description><![CDATA[vcpkg is an open source C/C&amp;#43;&amp;#43; dependency manager for Windows, Linux, and macOS. It is capable of building libraries from source, on demand, using build recipes. It comes with a curated, tested&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fcc4/eebbe943-2581-4497-8e73-ee0b3637fcc4/PureVirtualCppManageCodeDependenciesvcpkg_mid.mp4</video:content_loc>
+        <video:duration>2507</video:duration>
+        <video:publication_date>2021-05-06T22:29:35.2572870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/CPP/Pure-Virtual-Cpp-2021/An-Introduction-to-CMakePresetsjson</loc>
+      <lastmod>2021-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f112/a1c3c5a4-7339-40ea-b1d6-47fea62ff112/PureVirtualCppAnIntroToCMakePresetsJSON_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[An Introduction to CMakePresets.json]]></video:title>
+        <video:description><![CDATA[Check out free documentation and modules on Microsoft Learn CMakePresets.json was added to CMake in CMake 3.19/3.20 and allows users to share common configure, build, and test options with others.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7689/1a3e4b37-59bd-4d80-ac4f-d50bb85e7689/PureVirtualCppAnIntroToCMakePresetsJSON_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2021-05-06T22:28:40.2118156+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/CPP/Pure-Virtual-Cpp-2021/Visibility-Reachability-Linkage--The-Three-Secret-Spices-of-C-Modules</loc>
+      <lastmod>2021-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2fdc/836e54e9-3774-4cda-a386-06d8ed772fdc/PureCppThreeSecretSpices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visibility, Reachability, Linkage  The Three Secret Spices of C++ Modules]]></video:title>
+        <video:description><![CDATA[Check out free documentation and modules on Microsoft Learn Modules are probably the most impactful and most transformative major recent addition to the C&amp;#43;&amp;#43; language. From a user perspective,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bd80/39e9c3ba-8175-44b6-bdde-ff7c09a4bd80/PureCppThreeSecretSpices_mid.mp4</video:content_loc>
+        <video:duration>1898</video:duration>
+        <video:publication_date>2021-05-06T22:27:42.7932153+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/MLADS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/MLADS/MLADS-Day-1</loc>
+      <lastmod>2016-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95f2/13b8ffb0-06ca-4c00-bd2a-abc4830a95f2/JosephSiroskeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MLADS Day 1]]></video:title>
+        <video:description><![CDATA[The Microsoft Machine Learning &amp;amp; Data Sciences Conference is the place to discover how machine learning and artificial intelligence technologies are helping build an intelligent world. Scheduled&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95f2/13b8ffb0-06ca-4c00-bd2a-abc4830a95f2/JosephSiroskeynote_mid.mp4</video:content_loc>
+        <video:duration>4965</video:duration>
+        <video:publication_date>2016-09-23T09:27:41.1991058+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

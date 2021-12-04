@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/07</loc>
+      <lastmod>2021-03-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff74/07454c7d-7c56-4a63-a166-408e9beaff74/252WinServerAdminFundM07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (07) Popular Windows Network Services and Applications]]></video:title>
+        <video:description><![CDATA[Get an introduction to some of the enterprise (and some public-facing) technologies provided by Windows Server, such as Web Services (IIS), Remote Access (RRAS, Remote Desktop), and Virtualization&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff74/07454c7d-7c56-4a63-a166-408e9beaff74/252WinServerAdminFundM07_mid.mp4</video:content_loc>
+        <video:duration>2937</video:duration>
+        <video:publication_date>2014-12-15T18:53:24.4049036+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/06</loc>
+      <lastmod>2018-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be7c/fd59f0d6-1775-48d7-a5e8-2a4e2c5dbe7c/252WinServerAdminFundM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (06) File and Print Services]]></video:title>
+        <video:description><![CDATA[Learn how to provide File and Print services to your network, in this exploration of NTFS, Sharing, Permissions, Auditing, and Network Printers. [00:54] - NTFS Permissions[08:08] - Encryption[14:13] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be7c/fd59f0d6-1775-48d7-a5e8-2a4e2c5dbe7c/252WinServerAdminFundM06_mid.mp4</video:content_loc>
+        <video:duration>2723</video:duration>
+        <video:publication_date>2014-12-15T18:51:34.5847441+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/05</loc>
+      <lastmod>2018-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/573f/6f6dacd7-0d7e-4a04-b13a-b2ee19bd573f/252WinServerAdminFundM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (05) Essential Services]]></video:title>
+        <video:description><![CDATA[​Discover the first of many services that Windows Server is designed to provide to your network, including DHCP, DNS, and Active Directory. [01:40] - Name Resolutions[19:57] - DHCP[28:46] - Directory&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/573f/6f6dacd7-0d7e-4a04-b13a-b2ee19bd573f/252WinServerAdminFundM05_mid.mp4</video:content_loc>
+        <video:duration>4089</video:duration>
+        <video:publication_date>2014-12-15T18:51:03.5818495+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/04</loc>
+      <lastmod>2021-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f194/4f2798d2-4ac4-49ea-a333-e5c55ff9f194/252WinServerAdminFundM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (04) Monitoring and Troubleshooting Servers]]></video:title>
+        <video:description><![CDATA[Hear how to monitor and troubleshoot installation and configuration. See basic troubleshooting steps and potential starting points for dealing with server issues, and see demos of tools, including&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f194/4f2798d2-4ac4-49ea-a333-e5c55ff9f194/252WinServerAdminFundM04_mid.mp4</video:content_loc>
+        <video:duration>3924</video:duration>
+        <video:publication_date>2014-12-15T18:49:55.1693314+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/03</loc>
+      <lastmod>2018-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c70f/f3d93b34-2087-4d48-a34f-bdb2a63fc70f/252WinServerAdminFundM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (03) Managing Storage]]></video:title>
+        <video:description><![CDATA[​Explore the basics of storage in Windows Server, expanding on the basics of Windows storage with Server technologies, such as Network Attached Storage and Storage Area Networks. Look at different&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c70f/f3d93b34-2087-4d48-a34f-bdb2a63fc70f/252WinServerAdminFundM03_mid.mp4</video:content_loc>
+        <video:duration>2071</video:duration>
+        <video:publication_date>2014-12-15T18:49:39.9932959+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/02</loc>
+      <lastmod>2020-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b02e/99c979ae-4f1e-4791-b3b2-f7c95963b02e/252WinServerAdminFundM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (02) Managing Windows Server 2008 R2]]></video:title>
+        <video:description><![CDATA[Learn some of the basic tools for administering and configuring Windows Server, including the Control Panel, Initial Configuration Tasks (Windows Server 2008 R2), and Server Manager. Familiarize&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b02e/99c979ae-4f1e-4791-b3b2-f7c95963b02e/252WinServerAdminFundM02_mid.mp4</video:content_loc>
+        <video:duration>2084</video:duration>
+        <video:publication_date>2014-12-15T18:48:32.8580988+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-Administration-Fundamentals/01</loc>
+      <lastmod>2021-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ee7/6f88a8e2-f7b1-459a-8e87-17b6b3619ee7/252WinServerAdminFundM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Administration Fundamentals: (01) Server Overview]]></video:title>
+        <video:description><![CDATA[Get a general overview of Windows Server, and explore concepts, such as installing and physical versus virtual servers. And hear a high-level overview of some of the services that Windows Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ee7/6f88a8e2-f7b1-459a-8e87-17b6b3619ee7/252WinServerAdminFundM01_mid.mp4</video:content_loc>
+        <video:duration>4073</video:duration>
+        <video:publication_date>2014-12-15T18:47:56.6690559+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

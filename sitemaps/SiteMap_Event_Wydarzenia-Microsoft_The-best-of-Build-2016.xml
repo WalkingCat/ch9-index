@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Wydarzenia-Microsoft/The-best-of-Build-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Wydarzenia-Microsoft/The-best-of-Build-2016/The-best-of-Build</loc>
+      <lastmod>2016-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d22a/22ac4e1d-b0b3-40ab-8ed3-f4d07478d22a/01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The best of Build]]></video:title>
+        <video:description><![CDATA[Nagranie webinaru ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d22a/22ac4e1d-b0b3-40ab-8ed3-f4d07478d22a/01_mid.mp4</video:content_loc>
+        <video:duration>3385</video:duration>
+        <video:publication_date>2016-06-02T12:54:06.7981606+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

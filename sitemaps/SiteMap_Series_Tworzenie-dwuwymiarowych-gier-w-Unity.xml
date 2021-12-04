@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity/05--Build-gry-na-platform-Microsoft-Windows</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/97b9/b6193edc-61c6-466b-9c84-4a61e7c397b9/05BuildGetNaMicrosoftWindows_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Build gry na platform Microsoft Windows]]></video:title>
+        <video:description><![CDATA[W ostatnim już module tego kursu pokażemy jak należy zbudować grę tak aby można było uruchomić poza edytorem Unity. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/97b9/b6193edc-61c6-466b-9c84-4a61e7c397b9/05BuildGetNaMicrosoftWindows_mid.mp4</video:content_loc>
+        <video:duration>307</video:duration>
+        <video:publication_date>2015-11-09T13:17:40.8932238+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity/04--Nadawanie-grze-ostatecznego-blasku</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f9db/057d2b80-bd09-44c4-8499-a23d5c57f9db/04NadawanieGrzeOstatecznegoBlasku_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Nadawanie grze ostatecznego blasku.]]></video:title>
+        <video:description><![CDATA[Podczas oglądania tego modułu dowiesz się jak należy dodać do naszej gry ostatnie element, kt&#243;re sprawią, że będzie ona wyglądać bardziej profesjonalnie. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f9db/057d2b80-bd09-44c4-8499-a23d5c57f9db/04NadawanieGrzeOstatecznegoBlasku_mid.mp4</video:content_loc>
+        <video:duration>2794</video:duration>
+        <video:publication_date>2015-11-09T13:17:35.8464832+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity/03--Tworzenie-mechaniki-gry-dwuwymiarowej</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89c2/348a1926-6afa-4b71-83f3-da73f73b89c2/03TworzenieMechanikiGry2D_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Tworzenie mechaniki gry dwuwymiarowej ]]></video:title>
+        <video:description><![CDATA[W tym module zaimplementujemy podstawową mechanikę kt&#243;ra będzie wykorzystywana w naszej grze. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89c2/348a1926-6afa-4b71-83f3-da73f73b89c2/03TworzenieMechanikiGry2D_mid.mp4</video:content_loc>
+        <video:duration>3236</video:duration>
+        <video:publication_date>2015-11-09T13:17:28.7268623+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity/02--Importowanie-spritew</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30ac/0b8c13cf-3ee9-4d60-b3dd-58f582b330ac/02ImportowanieSpriteow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Importowanie sprite&#243;w]]></video:title>
+        <video:description><![CDATA[W tym module dowiemy się skąd brać assety do naszej gry oraz w jaki spos&#243;b zaimportować je do silnika korzystając z Asset Store. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30ac/0b8c13cf-3ee9-4d60-b3dd-58f582b330ac/02ImportowanieSpriteow_mid.mp4</video:content_loc>
+        <video:duration>1719</video:duration>
+        <video:publication_date>2015-11-09T13:17:23.6634707+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity/01--Wprowadzenie-do-Unity</loc>
+      <lastmod>2015-11-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e83/e0f5ff90-ca2c-487d-8af4-bc76414e9e83/01Przygotowanie2d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Wprowadzenie do Unity ]]></video:title>
+        <video:description><![CDATA[Moduł ten skupia się na podstawach środowiska. Wyjaśniony zostaje interfejs użytkownika oraz to jak należy poruszać się po silniku. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e83/e0f5ff90-ca2c-487d-8af4-bc76414e9e83/01Przygotowanie2d_mid.mp4</video:content_loc>
+        <video:duration>868</video:duration>
+        <video:publication_date>2015-11-09T13:17:17.3968910+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Tworzenie-dwuwymiarowych-gier-w-Unity/00--Intro-do-kursu</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e75/da3e9c9c-34ad-424a-b73e-da8f33b19e75/00Intro2d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[00 | Intro do kursu]]></video:title>
+        <video:description><![CDATA[Kurs skupia się na wyjaśnieniu podstaw silnika Unity. Można się z niego dowiedzieć w jaki spos&#243;b stworzyć dwuwymiarową grę w tym silniku. Wyjaśniony zostanie interfejs, pokazane w jaki spos&#243;b utworzyć&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e75/da3e9c9c-34ad-424a-b73e-da8f33b19e75/00Intro2d_mid.mp4</video:content_loc>
+        <video:duration>21</video:duration>
+        <video:publication_date>2015-11-09T13:17:11.3616072+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

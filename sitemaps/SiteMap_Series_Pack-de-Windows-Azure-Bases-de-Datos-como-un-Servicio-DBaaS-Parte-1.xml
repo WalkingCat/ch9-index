@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pack-de-Windows-Azure-Bases-de-Datos-como-un-Servicio-DBaaS-Parte-1</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pack-de-Windows-Azure-Bases-de-Datos-como-un-Servicio-DBaaS-Parte-1/Modulo-IV-Demostraciones</loc>
+      <lastmod>2015-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e4a2/d62f7152-9f59-4fc1-9916-da050147e4a2/Modulo4CursoCuatro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo IV - Grupos de Disponibilidad y asignaci&#243;n de recursos ]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se ver&#225; qu&#233; es SQL Server Always On y los grupos de disponibilidad, as&#237; como la asignaci&#243;n de recursos a trav&#233;s de Resource Governor. Por &#250;ltimo, algunos consejos y recomendaciones a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e4a2/d62f7152-9f59-4fc1-9916-da050147e4a2/Modulo4CursoCuatro_mid.mp4</video:content_loc>
+        <video:duration>2194</video:duration>
+        <video:publication_date>2015-12-30T01:44:35.1536623+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pack-de-Windows-Azure-Bases-de-Datos-como-un-Servicio-DBaaS-Parte-1/Mdulo-III-Experiencia-de-administracin-Configuracin-avanzada</loc>
+      <lastmod>2015-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc5d/1a9a78b3-4f97-40c7-acdb-17913fa9dc5d/ExperienciadeadministracionConfiguracionavanzada_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Experiencia de administraci&#243;n: Configuraci&#243;n avanzada]]></video:title>
+        <video:description><![CDATA[Aprenda sobre DBaaS para el consumo por los arrendatarios, incluyendo la configuraci&#243;n de una sola instancia de SQL Server, junto con las configuraciones de SQL Server de alta disponibilidad. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc5d/1a9a78b3-4f97-40c7-acdb-17913fa9dc5d/ExperienciadeadministracionConfiguracionavanzada_mid.mp4</video:content_loc>
+        <video:duration>2913</video:duration>
+        <video:publication_date>2015-12-30T01:41:43.1393854+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pack-de-Windows-Azure-Bases-de-Datos-como-un-Servicio-DBaaS-Parte-1/Mdulo-I-Experiencia-del-consumo-de-DBaaS</loc>
+      <lastmod>2015-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f85/a789ea5f-fab9-4fa1-a1ad-370472f12f85/ExperienciadelConsumodeDBaas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Experiencia del consumo de DBaaS]]></video:title>
+        <video:description><![CDATA[Aprenda m&#225;s acerca de c&#243;mo los arrendatarios consumen DBaaS desde dentro del paquete de Azure, tanto a trav&#233;s del portal y mediante programaci&#243;n a trav&#233;s de las APIs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f85/a789ea5f-fab9-4fa1-a1ad-370472f12f85/ExperienciadelConsumodeDBaas_mid.mp4</video:content_loc>
+        <video:duration>290</video:duration>
+        <video:publication_date>2015-12-30T01:41:41.9916512+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pack-de-Windows-Azure-Bases-de-Datos-como-un-Servicio-DBaaS-Parte-1/Mdulo-II-Experiencia-de-administracin-Entrega-de-DBaaS</loc>
+      <lastmod>2015-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b6a5/0113e0de-6a41-4e12-8e56-98cda75ab6a5/ExperienciadeadministracionEntregadeDBaas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Experiencia de administraci&#243;n: Entrega de DBaaS ]]></video:title>
+        <video:description><![CDATA[Obtenga los detalles sobre la experiencia administrativa de configurar DBaaS para el consumo por los arrendatarios. Ent&#233;rense de la configuraci&#243;n a una sola instancia de SQL Server, junto con las&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6a5/0113e0de-6a41-4e12-8e56-98cda75ab6a5/ExperienciadeadministracionEntregadeDBaas_mid.mp4</video:content_loc>
+        <video:duration>610</video:duration>
+        <video:publication_date>2015-12-30T01:41:39.8821571+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

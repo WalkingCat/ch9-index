@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015/06</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c354/e6b07fe0-c7de-4751-981b-099e2b33c354/06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ RDS  Windows Server vNext]]></video:title>
+        <video:description><![CDATA[В Windows Server Technical Preview реализованы значительные улучшения производительности и API технологии RemoteFX. Если вы заинтересованы в реализации или поддержке VDI-сценариев, в докладе вы&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c354/e6b07fe0-c7de-4751-981b-099e2b33c354/06_mid.mp4</video:content_loc>
+        <video:duration>2753</video:duration>
+        <video:publication_date>2015-06-22T07:26:09.6959328+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015/05</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4f6a/ad4867f8-50be-4f10-a2fd-df23b7574f6a/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[      ]]></video:title>
+        <video:description><![CDATA[В Windows Server 2012 R2 для построения Scale-Out File Server необходи&amp;#1084;о общее хранилище. В Windows Server Technical Preview появился новый вариант построения SOFS - с использование&amp;#1084;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f6a/ad4867f8-50be-4f10-a2fd-df23b7574f6a/05_mid.mp4</video:content_loc>
+        <video:duration>3492</video:duration>
+        <video:publication_date>2015-06-22T07:25:36.5990891+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015/04</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8771/29c087b9-5e62-4d4e-8507-682aa1618771/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Replica  Windows Server vNext]]></video:title>
+        <video:description><![CDATA[Непрерывность бизнеса предполагает не только высокодоступные, но и катастрофоустойчивые систе&amp;#1084;ы. Storage Replica - новая воз&amp;#1084;ожность Windows Server Technical Preview - призвана&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8771/29c087b9-5e62-4d4e-8507-682aa1618771/04_mid.mp4</video:content_loc>
+        <video:duration>2841</video:duration>
+        <video:publication_date>2015-06-22T07:24:23.3167920+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015/03</loc>
+      <lastmod>2017-07-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b686/1b61bee3-b4d6-4afb-836a-cfdaf2e1b686/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  Windows Server ]]></video:title>
+        <video:description><![CDATA[В докладе обсуждается технология контейнеров - что собой представляют контейнеры, как они работают в Windows Server Technical Preview, в каких сценариях их &amp;#1084;ожно использовать, как с ни&amp;#1084;и&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b686/1b61bee3-b4d6-4afb-836a-cfdaf2e1b686/03_mid.mp4</video:content_loc>
+        <video:duration>3259</video:duration>
+        <video:publication_date>2015-06-22T07:24:20.1713622+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015/02</loc>
+      <lastmod>2016-08-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/21fb/0de18dc3-b42c-4c32-b326-bff2ab5821fb/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nano Server:  Windows Server  ]]></video:title>
+        <video:description><![CDATA[В докладе расс&amp;#1084;атривается новый вариант установки Windows Server, называе&amp;#1084;ый Nano Server. Nano Server - результат глубокого переос&amp;#1084;ысления серверной архитектуры и как следствие: в 20&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/21fb/0de18dc3-b42c-4c32-b326-bff2ab5821fb/02_mid.mp4</video:content_loc>
+        <video:duration>3571</video:duration>
+        <video:publication_date>2015-06-22T07:24:16.6354781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-TechDay-2015/01</loc>
+      <lastmod>2015-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb5e/8bc5556a-2b44-417b-8827-aac0124fcb5e/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   Hyper-V  Windows Server vNext]]></video:title>
+        <video:description><![CDATA[Доклад представляет собой технический обзор новых воз&amp;#1084;ожностей Hyper-V в Windows 10 и Windows Server Technical Preview   Докладчик: Михаил Ко&amp;#1084;аров ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb5e/8bc5556a-2b44-417b-8827-aac0124fcb5e/01_mid.mp4</video:content_loc>
+        <video:duration>3623</video:duration>
+        <video:publication_date>2015-06-22T07:24:13.3371039+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

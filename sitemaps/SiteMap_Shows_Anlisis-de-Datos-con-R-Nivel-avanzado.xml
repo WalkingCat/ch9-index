@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-II-Predictive-Analytics</loc>
+      <lastmod>2017-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/837c/04a3e5cd-06e6-4146-8542-5a839522837c/RserveravanzadoMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Predictive Analytics]]></video:title>
+        <video:description><![CDATA[Estudiar algunas funciones y paquete en R para realizar el an&#225;lisis predictivo de datos utilizando las t&#233;cnicas de Machine Learning: Regresi&#243;n Lineal, Arboles de Decisi&#243;n Clustering K-means.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/837c/04a3e5cd-06e6-4146-8542-5a839522837c/RserveravanzadoMod2_mid.mp4</video:content_loc>
+        <video:duration>2407</video:duration>
+        <video:publication_date>2017-06-12T16:36:33.2840007+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-I-Machine-Learning</loc>
+      <lastmod>2017-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5686/146872d8-5b5f-47d1-b208-ac1e84975686/RserveravanzadoMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Machine Learning]]></video:title>
+        <video:description><![CDATA[Estudiar las definiciones de Machine Learning y su aplicaci&#243;n en el an&#225;lisis predictivo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5686/146872d8-5b5f-47d1-b208-ac1e84975686/RserveravanzadoMod1_mid.mp4</video:content_loc>
+        <video:duration>994</video:duration>
+        <video:publication_date>2017-06-12T16:36:19.7838608+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

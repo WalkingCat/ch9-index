@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Skype-for-Business-Architecture-and-Design-Considerations</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Skype-for-Business-Architecture-and-Design-Considerations/01</loc>
+      <lastmod>2018-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/35e3/e053c771-dfe5-4baf-b582-e632f0e435e3/761SkypeforBusinessArchDesignM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Skype for Business: Architecture and Design Considerations: (01) Skype for Business: Architecture&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Explore different combinations of complex designs, including Lync Online only with Office 365 multitenant, on-premises only, and hybrid with a single user forest. Review recommended practices for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/35e3/e053c771-dfe5-4baf-b582-e632f0e435e3/761SkypeforBusinessArchDesignM01_mid.mp4</video:content_loc>
+        <video:duration>5486</video:duration>
+        <video:publication_date>2015-03-25T17:17:23.3317383+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/datadriven16/httpschannel9msdncomEventsdatadriven16</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/datadriven16/httpschannel9msdncomEventsdatadriven16/Evnement-de-lancement-de-SQL-Server-2016</loc>
+      <lastmod>2016-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f927/0ae84dd1-2934-4cfc-808b-a5228660f927/ReplaySQLServer2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ev&#233;nement de lancement de SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Replay de l&#39;&#233;v&#233;nement. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f927/0ae84dd1-2934-4cfc-808b-a5228660f927/ReplaySQLServer2016.mp4</video:content_loc>
+        <video:duration>6420</video:duration>
+        <video:publication_date>2016-04-15T13:17:11.6283846+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

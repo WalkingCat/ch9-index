@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/EF</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/EF/Code-First-to-Existing-Database-EF6-1-Onwards-</loc>
+      <lastmod>2020-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c1e/88ddb3d5-f916-4626-92a8-2a9e55911c1e/CodeFirstToExistingDatabase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Code First to Existing Database (EF6.1 Onwards)]]></video:title>
+        <video:description><![CDATA[This is the companion screencast to our Code First to Existing Database documentation. In this Entity Framework screencast we&#39;ll look at using Entity Framework Tools for Visual Studio to reverse&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c1e/88ddb3d5-f916-4626-92a8-2a9e55911c1e/CodeFirstToExistingDatabase_mid.mp4</video:content_loc>
+        <video:duration>362</video:duration>
+        <video:publication_date>2014-03-17T15:27:12.7685612+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/EF/Migrations-Existing-Databases</loc>
+      <lastmod>2020-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e44/3e0e222d-7e8b-470f-8dba-90ca78837e44/MigrationsExistingDatabase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrations - Existing Databases]]></video:title>
+        <video:description><![CDATA[This is the companion screencast to our Code First Migrations with an existing database documentation. The Migrations - Under the Hood screencast is a pre-requisite to this screencast. In this Entity&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e44/3e0e222d-7e8b-470f-8dba-90ca78837e44/MigrationsExistingDatabase_mid.mp4</video:content_loc>
+        <video:duration>1270</video:duration>
+        <video:publication_date>2014-03-12T05:41:34.1096672+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/EF/Migrations-Team-Environments</loc>
+      <lastmod>2020-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/63a6/fec19160-ce0b-4eca-bca9-bf10536d63a6/MigrationsTeamEnvironments_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrations - Team Environments]]></video:title>
+        <video:description><![CDATA[This is the companion screencast to our Code First Migrations in Team Environments documentation. The Migrations - Under the Hood screencast is a pre-requisite to this screencast. In this Entity&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63a6/fec19160-ce0b-4eca-bca9-bf10536d63a6/MigrationsTeamEnvironments_mid.mp4</video:content_loc>
+        <video:duration>532</video:duration>
+        <video:publication_date>2014-03-11T23:42:24.4687286+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/EF/Migrations-Under-the-Hood</loc>
+      <lastmod>2021-07-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7ff/c9c0135c-1ede-4552-8640-0858672af7ff/MigrationsUnderTheHood_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrations - Under the Hood]]></video:title>
+        <video:description><![CDATA[In this Entity Framework screencast we&#39;ll take a look under the hood at how Code First Migrations works. These concepts are good to know whenever you&#39;re using migrations, but especially useful in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7ff/c9c0135c-1ede-4552-8640-0858672af7ff/MigrationsUnderTheHood_mid.mp4</video:content_loc>
+        <video:duration>283</video:duration>
+        <video:publication_date>2014-03-11T22:53:57.2722815+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

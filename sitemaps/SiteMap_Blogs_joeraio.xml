@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio/FishAngler-Azure-Functions</loc>
+      <lastmod>2019-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1aa2/33d2a857-8253-4f23-b09e-28462ac81aa2/FishangerAzureFunctionsV2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[FishAngler Azure Functions]]></video:title>
+        <video:description><![CDATA[In this video we walk you through how FishAngler used Azure Functions to replace cloud service worker roles and extend functionality of an existing mobile back end hosted in Microsoft Azure.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1aa2/33d2a857-8253-4f23-b09e-28462ac81aa2/FishangerAzureFunctionsV2_mid.mp4</video:content_loc>
+        <video:duration>419</video:duration>
+        <video:publication_date>2016-11-04T13:10:07.4344032+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio/Publishing-Your-First-Web-App-to-Microsoft-Azure-using-Git</loc>
+      <lastmod>2019-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91c5/2d4ce62d-bb21-4e36-a3b9-9de91c1891c5/PublishWebAppAzureGit_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publishing Your First Web App to Microsoft Azure using Git]]></video:title>
+        <video:description><![CDATA[This video will walk you through how to publish your first web app to Microsoft Azure using Git Version Control. Pre-requisites Githttp://www.git-scm.com/ Installing Git Version Control on your PC or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91c5/2d4ce62d-bb21-4e36-a3b9-9de91c1891c5/PublishWebAppAzureGit_mid.mp4</video:content_loc>
+        <video:duration>935</video:duration>
+        <video:publication_date>2015-08-25T02:18:52.4098287+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio/Deploying-VorlonJS-to-Azure-Web-App-for-Remote-Debugging</loc>
+      <lastmod>2015-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e407/df802c86-8979-4626-9685-44d58f52e407/DeployVorlonJStoAzureWebAppV2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying VorlonJS to Azure Web App for Remote Debugging]]></video:title>
+        <video:description><![CDATA[This video will walk you through how to deploy VorlonJS to an Azure Web App using Git version control. The pre-requisites for this video are that you have an active Microsoft Azure account and node.js&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e407/df802c86-8979-4626-9685-44d58f52e407/DeployVorlonJStoAzureWebAppV2_mid.mp4</video:content_loc>
+        <video:duration>1061</video:duration>
+        <video:publication_date>2015-08-23T19:41:24.2916867+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio/Installing-Git-Version-Control-on-your-PC-or-MAC</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/99b5/9f2135c5-c858-428d-9550-39e5628899b5/InstallingGitonPCorMac_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing Git Version Control on your PC or MAC]]></video:title>
+        <video:description><![CDATA[This video will walk you through how to install and configure Git on your PC or MAC. Git is a free and open source distributed version control system designed to handle everything from small to very&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99b5/9f2135c5-c858-428d-9550-39e5628899b5/InstallingGitonPCorMac_mid.mp4</video:content_loc>
+        <video:duration>438</video:duration>
+        <video:publication_date>2015-08-20T12:55:47.9613280+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass</loc>
+      <lastmod>2015-08-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/32e3/bbb72e85-b2f7-405b-bfd3-e8d335ad32e3/ActivatingAzurePass_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Activating Microsoft Azure Subscription Using Azure Pass]]></video:title>
+        <video:description><![CDATA[This video will walk you through how to activate your Microsoft Azure Subscription using a supplied Azure Pass. You may have received an Azure pass from an event such as a hackathon or Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/32e3/bbb72e85-b2f7-405b-bfd3-e8d335ad32e3/ActivatingAzurePass_mid.mp4</video:content_loc>
+        <video:duration>646</video:duration>
+        <video:publication_date>2015-08-19T19:38:44.9524834+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/joeraio/Installing-Visual-Studio-Code-on-PC-or-MAC</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e62a/a86de47c-41ef-4165-9b83-9cb4245ae62a/installingvscodeonpcandmac_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing Visual Studio Code on PC or MAC]]></video:title>
+        <video:description><![CDATA[This video will show you how to get coding in no time using Visual Studio Code. This cross platform code editor is extremely powerful and works on PC, Mac or Linux. This video will walk you through&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e62a/a86de47c-41ef-4165-9b83-9cb4245ae62a/installingvscodeonpcandmac_mid.mp4</video:content_loc>
+        <video:duration>295</video:duration>
+        <video:publication_date>2015-08-17T14:06:00.9642485+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

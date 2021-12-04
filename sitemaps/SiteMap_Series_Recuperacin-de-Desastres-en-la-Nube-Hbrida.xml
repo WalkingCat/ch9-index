@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Recuperacin-de-Desastres-en-la-Nube-Hbrida</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Recuperacin-de-Desastres-en-la-Nube-Hbrida/Mdulo-IV-Hyper-V-Clustering</loc>
+      <lastmod>2015-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ef3c/51696de5-72bc-4246-b2d0-3636d28cef3c/HybridCloudMod04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Hyper-V Clustering]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo de habla de c&#243;mo crear un cluster de Hyper-V para as&#237; tener alta disponibilidad de VMs ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef3c/51696de5-72bc-4246-b2d0-3636d28cef3c/HybridCloudMod04_mid.mp4</video:content_loc>
+        <video:duration>2982</video:duration>
+        <video:publication_date>2015-03-12T19:20:24.7395803+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Recuperacin-de-Desastres-en-la-Nube-Hbrida/Mdulo-III-Hyper-V-Live-Migration</loc>
+      <lastmod>2015-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/600c/12e017f6-2c37-47a2-806f-de1383cb600c/HybridCloudMod03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Hyper-V Live Migration]]></video:title>
+        <video:description><![CDATA[Explicaci&#243;n de c&#243;mo usar una funcionalidad muy especial que permite migrar VMs en vivo dando continuidad al negocio y sin afectar a los usuarios finales. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/600c/12e017f6-2c37-47a2-806f-de1383cb600c/HybridCloudMod03_mid.mp4</video:content_loc>
+        <video:duration>2295</video:duration>
+        <video:publication_date>2015-03-12T19:20:19.5447018+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Recuperacin-de-Desastres-en-la-Nube-Hbrida/Mdulo-II-Hyper-V-Backup-y-Hyper-V-Replica</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb1d/7dc8f614-367a-4bea-b360-8b19ca2bfb1d/HybridCloudMod02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Hyper-V Backup y Hyper-V Replica]]></video:title>
+        <video:description><![CDATA[C&#243;mo hacer respaldo de sus datos cr&#237;ticos usando Hyper-V Backup y c&#243;mo mantener r&#233;plica de sus M&#225;quinas Virtuales entre distintos sitios. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb1d/7dc8f614-367a-4bea-b360-8b19ca2bfb1d/HybridCloudMod02_mid.mp4</video:content_loc>
+        <video:duration>3560</video:duration>
+        <video:publication_date>2015-03-12T19:20:14.7848093+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Recuperacin-de-Desastres-en-la-Nube-Hbrida/Mdulo-I-Site-Recovery</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/34fb/d5063924-f79e-48a9-b300-41ba965834fb/HybridCloudMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Site Recovery]]></video:title>
+        <video:description><![CDATA[C&#243;mo usar Site Recovery para recuperar sus ambientes On-Premises o locales usando Azure manteniendo as&#237; la disponibilidad del servicio. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/34fb/d5063924-f79e-48a9-b300-41ba965834fb/HybridCloudMod1_mid.mp4</video:content_loc>
+        <video:duration>2374</video:duration>
+        <video:publication_date>2015-03-12T19:20:11.9921925+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

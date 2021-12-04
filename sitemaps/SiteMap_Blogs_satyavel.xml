@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel/Azure-Operational-Insights-Overview</loc>
+      <lastmod>2017-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1878/cefc16c2-e856-4d1c-8c6a-5434418f1878/OpInsightsOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Operational Insights - Overview]]></video:title>
+        <video:description><![CDATA[Azure Operational Insights - Overview Video ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1878/cefc16c2-e856-4d1c-8c6a-5434418f1878/OpInsightsOverview_mid.mp4</video:content_loc>
+        <video:duration>263</video:duration>
+        <video:publication_date>2014-11-04T22:15:29.9626777+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel/3-Ways-to-Onboard-to-OpInsights</loc>
+      <lastmod>2014-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/187f/1d9ddb03-e547-4a36-b02b-b3207879187f/3WaysToOnboard_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 Ways to Onboard to OpInsights]]></video:title>
+        <video:description><![CDATA[3 Ways to Onboard to OpInsights ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/187f/1d9ddb03-e547-4a36-b02b-b3207879187f/3WaysToOnboard_mid.mp4</video:content_loc>
+        <video:duration>37</video:duration>
+        <video:publication_date>2014-11-04T21:28:12.4338766+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel/Creating-Workspace-for-Non-Azure-Customers-OpInsights</loc>
+      <lastmod>2014-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a1f2/6a5a37df-f325-4996-bb7d-5c621ae0a1f2/CreatingAWorkspaceForNONAzureCustomers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Workspace for Non-Azure Customers - OpInsights]]></video:title>
+        <video:description><![CDATA[Creating_Workspace_for_Non-Azure_Customers ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a1f2/6a5a37df-f325-4996-bb7d-5c621ae0a1f2/CreatingAWorkspaceForNONAzureCustomers_mid.mp4</video:content_loc>
+        <video:duration>70</video:duration>
+        <video:publication_date>2014-11-04T21:28:01.6317833+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel/Creating-A-Workspace-for-Azure-Customers-OpInsights</loc>
+      <lastmod>2014-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb65/eaf26579-609e-415e-9277-3ef43402fb65/CreatingAWorkspaceForAzureCustomers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating A Workspace for Azure Customers - OpInsights]]></video:title>
+        <video:description><![CDATA[Creating A Workspace Azure Customers - OpInsights ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb65/eaf26579-609e-415e-9277-3ef43402fb65/CreatingAWorkspaceForAzureCustomers_mid.mp4</video:content_loc>
+        <video:duration>89</video:duration>
+        <video:publication_date>2014-11-04T21:27:47.6235320+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel/Add-Servers-Through-System-Center-Operations-Manager</loc>
+      <lastmod>2014-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/227a/7a9b079f-4f40-4f79-8bb6-ec5a7eb1227a/ConnectThroughSCOM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Add Servers Through System Center Operations Manager to OpInsights]]></video:title>
+        <video:description><![CDATA[Add Servers Through System Center Operations Manager - OpInsights ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/227a/7a9b079f-4f40-4f79-8bb6-ec5a7eb1227a/ConnectThroughSCOM_mid.mp4</video:content_loc>
+        <video:duration>90</video:duration>
+        <video:publication_date>2014-11-04T21:27:35.1597135+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/satyavel/Connect-Servers-Directly-to-OpInsights</loc>
+      <lastmod>2014-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5474/e39d526b-43b4-4151-86fe-e322908d5474/ConnectServersToOpInsights_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Connect Servers Directly to OpInsights]]></video:title>
+        <video:description><![CDATA[Add A Server Directly - OpInsights ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5474/e39d526b-43b4-4151-86fe-e322908d5474/ConnectServersToOpInsights_mid.mp4</video:content_loc>
+        <video:duration>127</video:duration>
+        <video:publication_date>2014-11-04T21:27:04.5244989+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

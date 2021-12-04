@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Machine-Learning</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Machine-Learning/iPython-Notebook-Intro</loc>
+      <lastmod>2016-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2885/d88dc71f-46cb-42b5-b33f-87b7d40f2885/iPythonIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[iPython Notebook - Intro]]></video:title>
+        <video:description><![CDATA[In diesem Video stelle ich euch die M&#246;glichkeit vor, IPython Notebooks direkt im Azure ML Studio zu erstellen und zu bearbeiten.  Das Azure ML Studio findet ihr unter http://studio.azureml.net/ &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2885/d88dc71f-46cb-42b5-b33f-87b7d40f2885/iPythonIntro_mid.mp4</video:content_loc>
+        <video:duration>536</video:duration>
+        <video:publication_date>2016-03-05T07:53:06.5144119+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

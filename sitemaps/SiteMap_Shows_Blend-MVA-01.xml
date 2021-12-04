@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Blend-MVA-01</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Blend-MVA-01/MVA-Blend-Part-3</loc>
+      <lastmod>2014-03-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1448/429e848e-fa9f-4783-98e4-a42cdc1c1448/mvaBlendPart3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA Blend Part 3]]></video:title>
+        <video:description><![CDATA[Mostrando o Blend para desenvolvimento de Apps XAML / HTML5   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1448/429e848e-fa9f-4783-98e4-a42cdc1c1448/mvaBlendPart3_mid.mp4</video:content_loc>
+        <video:duration>590</video:duration>
+        <video:publication_date>2014-03-10T17:30:03.9193279+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Blend-MVA-01/MVA-Blend-Part-4</loc>
+      <lastmod>2014-03-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9909/50acd7a4-6d92-429a-b40e-e84883569909/mvaBlendPart4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA Blend Part 4]]></video:title>
+        <video:description><![CDATA[Mostrado como usar o Blend para desenvolvimento de Apps XAML e HTML5   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9909/50acd7a4-6d92-429a-b40e-e84883569909/mvaBlendPart4_mid.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2014-03-10T17:29:44.7990683+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Blend-MVA-01/MVA-Blend-Part-02</loc>
+      <lastmod>2014-03-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de58/272d5162-f7e5-436a-a915-1250d8ccde58/mvaBlendPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA Blend Part 02]]></video:title>
+        <video:description><![CDATA[Mostrando o Blend para desenvolvimento de Apps em XAML e HTML5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de58/272d5162-f7e5-436a-a915-1250d8ccde58/mvaBlendPart2_mid.mp4</video:content_loc>
+        <video:duration>399</video:duration>
+        <video:publication_date>2014-03-10T17:28:56.9814142+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Blend-MVA-01/MVA-Blend-Part-1</loc>
+      <lastmod>2014-03-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e4d/930f89c2-6b48-4bdb-bdf2-75cbf0846e4d/mvablendpart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA Blend Part 1]]></video:title>
+        <video:description><![CDATA[Mostrando o Blend para desenvolvimento de Apps com XAML / HTML5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e4d/930f89c2-6b48-4bdb-bdf2-75cbf0846e4d/mvablendpart1_mid.mp4</video:content_loc>
+        <video:duration>248</video:duration>
+        <video:publication_date>2014-03-10T17:28:41.1503249+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

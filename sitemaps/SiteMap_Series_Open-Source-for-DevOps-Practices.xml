@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-for-DevOps-Practices</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-for-DevOps-Practices/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/782b/0380bb85-76dd-416b-bd56-1e2bd5d6782b/485DevOpsOpenSourceM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source for DevOps Practices: (04) Automated Testing; Whats Next?]]></video:title>
+        <video:description><![CDATA[Focus on automated testing, and check out a demo that explores some simple approaches to basic testing. Then, take a look at the development and test process from the other modules, along with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/782b/0380bb85-76dd-416b-bd56-1e2bd5d6782b/485DevOpsOpenSourceM04_mid.mp4</video:content_loc>
+        <video:duration>3245</video:duration>
+        <video:publication_date>2015-01-18T17:03:54.6673905+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-for-DevOps-Practices/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2192/580bb0fe-df35-4a81-9b61-2c21a45d2192/485DevOpsOpenSourceM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source for DevOps Practices: (03) Shareable Development, Test and Deployment Environments, &amp;&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Find out how, by ensuring that all team members are able to work in near-identical environments, regardless of their roles, you can streamline handoffs between them. See a demo of the creation and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2192/580bb0fe-df35-4a81-9b61-2c21a45d2192/485DevOpsOpenSourceM03_mid.mp4</video:content_loc>
+        <video:duration>2947</video:duration>
+        <video:publication_date>2014-12-18T17:30:14.9559276+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-for-DevOps-Practices/02</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e09e/d7b6ebdc-40fa-48e0-be6d-1633e4cae09e/485DevOpsOpenSourceM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source for DevOps Practices: (02) Version Control as a Communication Tool; Issue Trackers as a&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Learn how to leverage version control to improve team communication, since facilitating communication through a shared repository of resources is the first step to ensuring all members of a team are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e09e/d7b6ebdc-40fa-48e0-be6d-1633e4cae09e/485DevOpsOpenSourceM02_mid.mp4</video:content_loc>
+        <video:duration>3704</video:duration>
+        <video:publication_date>2014-12-18T17:29:56.8582609+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-for-DevOps-Practices/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62a0/2b6df6e4-30f1-4092-95b0-a858948162a0/485DevOpsOpenSourceM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source for DevOps Practices: (01) What DevOps Means Here; Common DevOps Practices and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Develop a working definition of the word DevOps (which can have many interpretations), and get the context for the other modules. Explore common DevOps practices, and get an overview of common tools&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62a0/2b6df6e4-30f1-4092-95b0-a858948162a0/485DevOpsOpenSourceM01_mid.mp4</video:content_loc>
+        <video:duration>2981</video:duration>
+        <video:publication_date>2014-12-18T17:29:45.0596858+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

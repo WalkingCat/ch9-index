@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp/GMC0</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/efe1/cea1924f-1092-4088-8e0a-e0e4b42defe1/GMC4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introductions/A Little About the Developer Movement]]></video:title>
+        <video:description><![CDATA[Learn a bit about the Developer Movement and about the content of the Game Camp. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efe1/cea1924f-1092-4088-8e0a-e0e4b42defe1/GMC4_mid.mp4</video:content_loc>
+        <video:duration>400</video:duration>
+        <video:publication_date>2013-03-07T22:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp/GMC5</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fa44/6e9efa73-ff29-4a65-9869-2302e205fa44/GMC5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Live Q&amp;A]]></video:title>
+        <video:description><![CDATA[Host Jonathan Rozenblit fields questions from the chat. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fa44/6e9efa73-ff29-4a65-9869-2302e205fa44/GMC5_mid.mp4</video:content_loc>
+        <video:duration>959</video:duration>
+        <video:publication_date>2013-03-05T21:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp/GMC4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/815b/04bedcad-d1a4-4039-a31c-85a0f4ba815b/GMC4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating an HTML5 Game to Windows 8: Extending the Game with Windows Store Features]]></video:title>
+        <video:description><![CDATA[Your HTML5 app has been migrated to a Windows Store app using the same HTML5 you are used to. But how do you take advantage of features such as accelerometers, user profile data, Ads and Live Tiles to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/815b/04bedcad-d1a4-4039-a31c-85a0f4ba815b/GMC4_mid.mp4</video:content_loc>
+        <video:duration>1728</video:duration>
+        <video:publication_date>2013-03-05T21:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp/GMC3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a84/df74ad7b-4faf-4de6-95e0-75146e1f6a84/GMC3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating an HTML5 Game to Windows 8: Game Object &amp; System Details]]></video:title>
+        <video:description><![CDATA[You have an HTML5 game but want to take advantage of all the greatness that the Windows 8 platform gives you (like possibly making a lot of scratch). This session will show you how you can take an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a84/df74ad7b-4faf-4de6-95e0-75146e1f6a84/GMC3_mid.mp4</video:content_loc>
+        <video:duration>670</video:duration>
+        <video:publication_date>2013-03-05T21:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp/GMC2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba25/44aeb039-1b54-405d-be94-6600097dba25/GMC2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating an HTML5 Game: Components]]></video:title>
+        <video:description><![CDATA[Learn how you can create a game about a loveable, but angry Yeti using HTML5 that works across all modern browsers. We will discuss game mechanics such as input, entities, sprites, animation,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba25/44aeb039-1b54-405d-be94-6600097dba25/GMC2_mid.mp4</video:content_loc>
+        <video:duration>1968</video:duration>
+        <video:publication_date>2013-03-05T21:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/gamecamp/GMC1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6573/3a91aa34-38ee-43ac-ad56-c5de58646573/GMC1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating an HTML5 Game: Overview]]></video:title>
+        <video:description><![CDATA[Learn about some of the great HTML5 games that are out there and how you can create your own by getting the fundamentals of how to build a game featuring a loveable, but angry Yeti using HTML 5&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6573/3a91aa34-38ee-43ac-ad56-c5de58646573/GMC1_mid.mp4</video:content_loc>
+        <video:duration>1529</video:duration>
+        <video:publication_date>2013-03-05T21:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

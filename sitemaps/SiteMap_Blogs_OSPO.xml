@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OSPO</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OSPO/Open-Source--Elastic</loc>
+      <lastmod>2017-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db89/8c765f1f-5556-4ff4-b32a-4dc4ac47db89/osselastic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source @ Elastic]]></video:title>
+        <video:description><![CDATA[Steve Mayzak of Elastic was a featured speaker at the Open Source Night event at Microsoft on 2/27/2017, where he gave a talk on how the Elasticsearch team approaches working with open source. It was&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db89/8c765f1f-5556-4ff4-b32a-4dc4ac47db89/osselastic_mid.mp4</video:content_loc>
+        <video:duration>946</video:duration>
+        <video:publication_date>2017-04-13T17:58:39.9117407+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OSPO/Open-Source--Facebook</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/848f/92efeadf-6ee4-48b1-ba98-860ce8fe848f/ossfacebook_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source @ Facebook]]></video:title>
+        <video:description><![CDATA[Paul O&#39;Shannessy and Shawn Wilsher of Facebook, were featured speakers at the Open Source Night event at Microsoft on 2/27/2017, where they gave a talk on how Facebook approaches working with open&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/848f/92efeadf-6ee4-48b1-ba98-860ce8fe848f/ossfacebook_mid.mp4</video:content_loc>
+        <video:duration>648</video:duration>
+        <video:publication_date>2017-04-13T17:58:26.9544306+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OSPO/Open-Source--GitHub</loc>
+      <lastmod>2017-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8dc/c1ddb0b4-6e82-4b36-849b-c39e3fc4e8dc/ossgithub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source @ GitHub]]></video:title>
+        <video:description><![CDATA[Phil Haack (@haacked) of GitHub was a featured speaker at the Open Source Night event at Microsoft on 2/27/2017, and he talked about his work at GitHub and how GitHub approaches working with open&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8dc/c1ddb0b4-6e82-4b36-849b-c39e3fc4e8dc/ossgithub_mid.mp4</video:content_loc>
+        <video:duration>660</video:duration>
+        <video:publication_date>2017-04-13T17:58:06.2221327+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

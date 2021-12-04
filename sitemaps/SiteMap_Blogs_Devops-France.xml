@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Devops-France</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Devops-France/Stratgie-de-dploiement-et-gestion-du-master-Windows-10-avec-Devops</loc>
+      <lastmod>2015-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/87a1/0da996b4-ccc1-40ab-94ea-830a8ff587a1/devopswindows10JTE_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Strat&#233;gie de d&#233;ploiement et gestion du master Windows 10 avec Devops]]></video:title>
+        <video:description><![CDATA[Vid&#233;o replay de la session consacr&#233;e &#224; devops et Windows 10 lors de la JTE (Journ&#233;e du Transfert d&#39;Expertise) du 13 octobre 2015, sur le campus d&#39;Issy les Moulineaux de Microsoft France. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/87a1/0da996b4-ccc1-40ab-94ea-830a8ff587a1/devopswindows10JTE_mid.mp4</video:content_loc>
+        <video:duration>1997</video:duration>
+        <video:publication_date>2015-11-03T09:27:09.6314413+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

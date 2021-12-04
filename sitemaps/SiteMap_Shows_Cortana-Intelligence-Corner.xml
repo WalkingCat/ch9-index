@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Twitter-Sentiment-Analysis-using-the-Cortana-Intelligence-Gallery</loc>
+      <lastmod>2018-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0f2b/98adabaa-5ea7-40ba-9539-196133c90f2b/CISGallery_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Twitter Sentiment Analysis using the Cortana Intelligence Gallery]]></video:title>
+        <video:description><![CDATA[After publishing the recent video blog on Twitter Sentiment Analysis using Streaming Analytics and Event hubs and received an email asking if there was a way to quickly deploy a Twitter sentiment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f2b/98adabaa-5ea7-40ba-9539-196133c90f2b/CISGallery_mid.mp4</video:content_loc>
+        <video:duration>690</video:duration>
+        <video:publication_date>2017-08-31T14:52:55.3482337+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Working-with-Azure-Data-Factory-Pipelines-and-Activities</loc>
+      <lastmod>2021-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/68c8/5041f87b-6663-431a-bb21-e3e94c4068c8/ADFPipelines_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Azure Data Factory Pipelines and Activities]]></video:title>
+        <video:description><![CDATA[A data factory can have one or more pipelines. A pipeline is a logical grouping of activities that together perform a task. The activities in a pipeline define actions to perform on your data. For&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/68c8/5041f87b-6663-431a-bb21-e3e94c4068c8/ADFPipelines_mid.mp4</video:content_loc>
+        <video:duration>878</video:duration>
+        <video:publication_date>2017-07-19T19:24:22.2450426+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Working-with-Linked-Services-and-Datasets</loc>
+      <lastmod>2017-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Lab-Twitter-Sentiment-Analysis-with-Streaming-Analytics-and-Event-Hubs</loc>
+      <lastmod>2018-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4008/9dcf68cb-f10a-42ca-9d4c-a85d79244008/TwitterSentimentAnalysis_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lab: Twitter Sentiment Analysis with Streaming Analytics and Event Hubs]]></video:title>
+        <video:description><![CDATA[ Why not try out the solution to this presentation yourself? Lab instructions are below, if you get stuck, watch the video for answers about the lab. This lab can also be found at:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4008/9dcf68cb-f10a-42ca-9d4c-a85d79244008/TwitterSentimentAnalysis_mid.mp4</video:content_loc>
+        <video:duration>3731</video:duration>
+        <video:publication_date>2017-07-07T22:10:38.2163170+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Loading-data-into-Azure-SQL-Datawarehouse</loc>
+      <lastmod>2017-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/47e0/0c9acd7a-053b-4229-b74a-df2d7f3247e0/LoadSQLDWDataPolybase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Loading data into Azure SQL Datawarehouse]]></video:title>
+        <video:description><![CDATA[There are a wide range of tools and technologies to ingest data into Azure SQL Data Warehouse, including BCP and SSIS. If performance is a critical metric to meet when loading a data warehouse, loads&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/47e0/0c9acd7a-053b-4229-b74a-df2d7f3247e0/LoadSQLDWDataPolybase_mid.mp4</video:content_loc>
+        <video:duration>875</video:duration>
+        <video:publication_date>2017-07-05T21:16:13.4826491+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Working-with-tables-in-SQL-Datawarehouse</loc>
+      <lastmod>2017-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/19af/43f8bfa9-04e3-4f01-b9d4-c5c62be019af/SQLDWTables_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with tables in SQL Datawarehouse]]></video:title>
+        <video:description><![CDATA[   Before we get into the implementation of tables, there are several concepts that need to be understood so that you can understand the ramifications of you design choice for tables. These concepts&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19af/43f8bfa9-04e3-4f01-b9d4-c5c62be019af/SQLDWTables_mid.mp4</video:content_loc>
+        <video:duration>216</video:duration>
+        <video:publication_date>2017-07-05T20:57:17.6120685+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Create-an-Azure-Data-Factory-Instance</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e442/e104c71f-ff75-40a5-b9a0-8fb246f4e442/CreateADFInstance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create an Azure Data Factory Instance]]></video:title>
+        <video:description><![CDATA[ There a variety of methods that can be used to create an instance of an Azure Data Factory, this blog explores how you can create an ADF instance using the Azure Portal, PowerShell and Azure Resource&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e442/e104c71f-ff75-40a5-b9a0-8fb246f4e442/CreateADFInstance_mid.mp4</video:content_loc>
+        <video:duration>191</video:duration>
+        <video:publication_date>2017-07-05T20:50:36.6072567+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Creating-Databases-in-Azure-SQL-Datawarehouse</loc>
+      <lastmod>2017-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37d7/35dedcfc-810e-48ea-8ded-d62c681037d7/CreateDBinSQLDW_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Databases in Azure SQL Datawarehouse]]></video:title>
+        <video:description><![CDATA[ Creating databases within Azure SQL Data Warehouse uses very familiar T-SQL language constructs to create them. However, there are subtle difference in the TSQL between creating an on premise SQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37d7/35dedcfc-810e-48ea-8ded-d62c681037d7/CreateDBinSQLDW_mid.mp4</video:content_loc>
+        <video:duration>432</video:duration>
+        <video:publication_date>2017-07-05T20:43:01.5862564+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/The-Scalability-of-Azure-SQL-Data-Warehouse</loc>
+      <lastmod>2018-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/80f8/b033ce42-0e69-4b89-9e2d-9fa05b4f80f8/ScalingAzureSQLDataWarehouse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Scalability of Azure SQL Data Warehouse]]></video:title>
+        <video:description><![CDATA[A quick one. In the first post of Azure SQL Data Warehouse, we introduced the key business benefits of the service. Namely the ability to scale on demand, and the pause and restart the service at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/80f8/b033ce42-0e69-4b89-9e2d-9fa05b4f80f8/ScalingAzureSQLDataWarehouse_mid.mp4</video:content_loc>
+        <video:duration>167</video:duration>
+        <video:publication_date>2017-07-05T20:35:03.3107958+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Creating-a-Data-Warehouse-in-the-Cloud</loc>
+      <lastmod>2017-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3284/c2df1328-37d4-405b-ab2b-f415ba713284/CreateAzureDataWarehouse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a Data Warehouse in the Cloud]]></video:title>
+        <video:description><![CDATA[For a few months now, we have had a SQL Server edition in the cloud known as Azure SQL Data Warehouse. This version enables you to provision a data warehouse instance in just 3 to 5 minutes. Its main&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3284/c2df1328-37d4-405b-ab2b-f415ba713284/CreateAzureDataWarehouse_mid.mp4</video:content_loc>
+        <video:duration>654</video:duration>
+        <video:publication_date>2017-07-05T09:35:55.9851938+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cortana-Intelligence-Corner/Cortana-and-PowerBI-Integration</loc>
+      <lastmod>2018-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f758/85d55c97-e797-4282-b865-8e5e36dcf758/COrtanaPowerBIInt_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cortana and PowerBI Integration]]></video:title>
+        <video:description><![CDATA[Thursday found me in Manchester, UK with the Power BI user group to discuss Cortana integration with Power BI and the Cortana Intelligence Suite. The group can be found here if you want to attend any&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f758/85d55c97-e797-4282-b865-8e5e36dcf758/COrtanaPowerBIInt_mid.mp4</video:content_loc>
+        <video:duration>531</video:duration>
+        <video:publication_date>2017-06-29T14:28:57.2025340+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

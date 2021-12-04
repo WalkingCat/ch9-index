@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-MonoGame-for-Windows-Phone-and-Windows-Store-Games</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-MonoGame-for-Windows-Phone-and-Windows-Store-Games/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ceb8/397c4b73-e950-49ea-b674-66baef63ceb8/395AdvMonoGameM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced MonoGame for Windows Phone and Windows Store Games: (03) Extending the Content Pipeline]]></video:title>
+        <video:description><![CDATA[Delve into the details of how the MonoGame content pipeline works and how to extend it to generate custom game content optimized to your target platforms. [00:50] - Pipeline Review[09:21] - Pipeline&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ceb8/397c4b73-e950-49ea-b674-66baef63ceb8/395AdvMonoGameM03_mid.mp4</video:content_loc>
+        <video:duration>3097</video:duration>
+        <video:publication_date>2015-03-31T15:34:21.8171222+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-MonoGame-for-Windows-Phone-and-Windows-Store-Games/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a3ca/34c28f52-db38-477c-b5c6-345dcb58a3ca/395AdvMonoGameM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced MonoGame for Windows Phone and Windows Store Games: (02) Optimization, Performance, and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Take a look at game debugging techniques, along with common pitfalls and solutions related to performance optimization for C# and MonoGame. [01:06] - Debugging[11:04] - Debugging After Release[21:21]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3ca/34c28f52-db38-477c-b5c6-345dcb58a3ca/395AdvMonoGameM02_mid.mp4</video:content_loc>
+        <video:duration>2999</video:duration>
+        <video:publication_date>2015-03-31T15:34:11.5031963+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Advanced-MonoGame-for-Windows-Phone-and-Windows-Store-Games/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6154/44eaf2b9-2caa-4a95-b043-dffc2e3a6154/395AdvMonoGameM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced MonoGame for Windows Phone and Windows Store Games: (01) Writing Custom Effects]]></video:title>
+        <video:description><![CDATA[Explore the concept of custom effects, and learn how they can be used to enhance the visuals of your MonoGame games. [03:19] - Effects[09:03] - Effects With Sprites[33:54] - Post Processing[40:21] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6154/44eaf2b9-2caa-4a95-b043-dffc2e3a6154/395AdvMonoGameM01_mid.mp4</video:content_loc>
+        <video:duration>3424</video:duration>
+        <video:publication_date>2015-03-31T15:34:02.7290696+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

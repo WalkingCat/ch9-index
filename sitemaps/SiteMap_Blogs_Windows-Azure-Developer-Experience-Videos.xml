@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos/New-Windows-Azure-Benefits-for-MSDN-Subscribers</loc>
+      <lastmod>2013-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/975f/2892ac52-e7a6-4297-9f07-fc663393975f/GuthrieMSDNWindowsAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New Windows Azure Benefits for MSDN Subscribers!]]></video:title>
+        <video:description><![CDATA[MSDN Subscriber?  You already have free Windows Azure credits as part of your subscription - up to $150/mo!  Use them to build development &amp;amp; test environments on demand with Virtual Machines, Web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/975f/2892ac52-e7a6-4297-9f07-fc663393975f/GuthrieMSDNWindowsAzure_mid.mp4</video:content_loc>
+        <video:duration>66</video:duration>
+        <video:publication_date>2013-07-25T19:26:53.8450591+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos/Nodejs-Windows-Azure-Introduction</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ef4c/0eb8aee4-97f7-430e-9877-9fb30164ef4c/NodejsWindowsAzureIntro_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Node.js Windows Azure Introduction]]></video:title>
+        <video:description><![CDATA[Learn how to build and deploy a simple application to Windows Azure using Node.js. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef4c/0eb8aee4-97f7-430e-9877-9fb30164ef4c/NodejsWindowsAzureIntro_med_ch9.mp4</video:content_loc>
+        <video:duration>297</video:duration>
+        <video:publication_date>2011-12-10T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos/Other-Windows-Azure-Introduction</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83b5/efde2c45-2ac4-4fa5-a157-9fb3016483b5/OtherWindowsAzureIntro_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&quot;Other&quot; Windows Azure Introduction]]></video:title>
+        <video:description><![CDATA[Learn how to build and deploy almost anything to Windows Azure. This video uses a Python web application as an example. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83b5/efde2c45-2ac4-4fa5-a157-9fb3016483b5/OtherWindowsAzureIntro_med_ch9.mp4</video:content_loc>
+        <video:duration>346</video:duration>
+        <video:publication_date>2011-12-10T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos/Java-Windows-Azure-Introduction</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/445b/51bc2530-e703-4604-be3b-9fb30164445b/JavaWindowsAzureIntro_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Java Windows Azure Introduction]]></video:title>
+        <video:description><![CDATA[Learn how to build and deploy a simple application to Windows Azure using Java. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/445b/51bc2530-e703-4604-be3b-9fb30164445b/JavaWindowsAzureIntro_med_ch9.mp4</video:content_loc>
+        <video:duration>335</video:duration>
+        <video:publication_date>2011-12-10T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos/PHP-Windows-Azure-Introduction</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1bd7/edca6d4e-1518-4d6b-a004-9fb301641bd7/PHPWindowsAzureIntro_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PHP Windows Azure Introduction]]></video:title>
+        <video:description><![CDATA[Learn how to build and deploy a simple application to Windows Azure using PHP. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1bd7/edca6d4e-1518-4d6b-a004-9fb301641bd7/PHPWindowsAzureIntro_med_ch9.mp4</video:content_loc>
+        <video:duration>288</video:duration>
+        <video:publication_date>2011-12-10T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Azure-Developer-Experience-Videos/NET-Windows-Azure-Introduction</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/411f/bf52c8b9-7343-48a2-a8ed-9fb30163411f/DotNetWindowsAzureIntro_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Windows Azure Introduction]]></video:title>
+        <video:description><![CDATA[Learn how to build and deploy a simple application to Windows Azure using .NET. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/411f/bf52c8b9-7343-48a2-a8ed-9fb30163411f/DotNetWindowsAzureIntro_med_ch9.mp4</video:content_loc>
+        <video:duration>272</video:duration>
+        <video:publication_date>2011-12-10T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MicrosoftR</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MicrosoftR/SQL-Server-2017-Gets-Python-Support-in-New-Machine-Learning-Services</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c94/26912a8c-4818-439d-9de5-ee9545e21c94/SQLServer2017MachineLearningServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2017 Gets Python Support in New Machine Learning Services]]></video:title>
+        <video:description><![CDATA[It&#39;s official!  SQL Server 2017 to support the Python language in addition to R.   Announced April 19, 2017, SQL Server 2017 Machine Learning Services expands beyond SQL 2016, which offered support&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c94/26912a8c-4818-439d-9de5-ee9545e21c94/SQLServer2017MachineLearningServices_mid.mp4</video:content_loc>
+        <video:duration>1555</video:duration>
+        <video:publication_date>2017-05-03T23:42:31.4210873+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MicrosoftR/Introducing-Microsoft-R-Server-Version-91-Part-2</loc>
+      <lastmod>2017-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c85d/312bb5ee-6ac0-4603-95b4-71ca65a7c85d/2O18NCarl_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Microsoft R Server Version 9.1 - Part 2]]></video:title>
+        <video:description><![CDATA[On April 19, 2917, Microsoft announced a new version of Microsoft R Server with significant new capabilities including new algorithms, new operationalization features and enhanced capabilities coming&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c85d/312bb5ee-6ac0-4603-95b4-71ca65a7c85d/2O18NCarl_mid.mp4</video:content_loc>
+        <video:duration>720</video:duration>
+        <video:publication_date>2017-05-03T23:41:46.9472999+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MicrosoftR/Introducing-Microsoft-R-Server-Version-91-Part-1</loc>
+      <lastmod>2017-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/da31/afcf4d7f-194e-4249-a61a-3ccfe045da31/MRSV91Spark_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Microsoft R Server Version 9.1 - Part 1]]></video:title>
+        <video:description><![CDATA[On April 19, 2917, Microsoft announced a new version of Microsoft R Server with significant new capabilities including new algorithms, new operationalization features and enhanced capabilities coming&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da31/afcf4d7f-194e-4249-a61a-3ccfe045da31/MRSV91Spark_mid.mp4</video:content_loc>
+        <video:duration>1256</video:duration>
+        <video:publication_date>2017-05-03T23:40:11.1242581+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MicrosoftR/Microsoft-Introduces-new-free-Microsoft-R-Client</loc>
+      <lastmod>2016-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e87/acb0560f-8efd-4ca7-a3ba-99252b8a0e87/IntroductingMicrosoftRClient_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Introduces new free Microsoft R Client]]></video:title>
+        <video:description><![CDATA[This week, Microsoft announced availability of the Microsoft R Client, creating a much more usable, freely available desktop client option for users of Microsoft R Server. Microsoft R Client is a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e87/acb0560f-8efd-4ca7-a3ba-99252b8a0e87/IntroductingMicrosoftRClient_mid.mp4</video:content_loc>
+        <video:duration>231</video:duration>
+        <video:publication_date>2016-06-29T16:53:28.5839577+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MicrosoftR/R-Server-on-Spark</loc>
+      <lastmod>2017-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b49d/32ddfd06-bdc5-48fc-a1e2-31b12588b49d/RServeronSparkIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft R Server Supports Apache Spark for Faster Big Data Analytics]]></video:title>
+        <video:description><![CDATA[Hello Channel9 Viewers:   Microsoft is hard at work bringing the fastest, most complete R Analytics environment to the millions of R users.   For enterprises with very large data assets, Apache Spark&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b49d/32ddfd06-bdc5-48fc-a1e2-31b12588b49d/RServeronSparkIntro_mid.mp4</video:content_loc>
+        <video:duration>1414</video:duration>
+        <video:publication_date>2016-06-16T18:47:44.2852036+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

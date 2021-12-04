@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Roslyn-Die-Microsoft-Net-Compiler-Plattform</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Roslyn-Die-Microsoft-Net-Compiler-Plattform/04-Implementieren-eines-Code-Fixes-fr-Visual-Studio</loc>
+      <lastmod>2016-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f42d/ddaa1026-8db0-42ed-9b27-730e1528f42d/4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04| Implementieren eines Code-Fixes f&#252;r Visual Studio]]></video:title>
+        <video:description><![CDATA[In diesem Modul wird ein Code-Fix einschlie&#223;lich eines Diagnostic-Analyzers aus einer leeren Klassenbibliothek entwickelt. Die Entwicklung geschieht dabei testgetrieben. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f42d/ddaa1026-8db0-42ed-9b27-730e1528f42d/4_mid.mp4</video:content_loc>
+        <video:duration>3002</video:duration>
+        <video:publication_date>2015-10-21T12:17:54.8941325+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Roslyn-Die-Microsoft-Net-Compiler-Plattform/03-APIs-von-Roslyn</loc>
+      <lastmod>2016-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5c91/b2809bb8-b21a-4f8f-8e6b-b34cc5d95c91/3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| APIs von Roslyn]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die wichtigsten APIs von Roslyn vorgestellt. Au&#223;erdem werden viele Codebeispiele besprochen, die den praktischen Einsatz der APIs demonstrieren. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5c91/b2809bb8-b21a-4f8f-8e6b-b34cc5d95c91/3_mid.mp4</video:content_loc>
+        <video:duration>1916</video:duration>
+        <video:publication_date>2015-10-21T12:17:16.1062014+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Roslyn-Die-Microsoft-Net-Compiler-Plattform/02-Funktionsweise-eines-Compilers</loc>
+      <lastmod>2016-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b9fe/a060a43e-5375-43c0-a2c4-845672f2b9fe/2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Funktionsweise eines Compilers]]></video:title>
+        <video:description><![CDATA[In diesem Modul geht es um die allgemeine Funktionsweise eines Compilers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b9fe/a060a43e-5375-43c0-a2c4-845672f2b9fe/2_mid.mp4</video:content_loc>
+        <video:duration>705</video:duration>
+        <video:publication_date>2015-10-21T12:16:37.7850090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Roslyn-Die-Microsoft-Net-Compiler-Plattform/01-Allgemeins-zu-Roslyn</loc>
+      <lastmod>2016-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca3a/760e8c09-d1c2-4463-bb9a-c3e22079ca3a/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Allgemeins zu Roslyn]]></video:title>
+        <video:description><![CDATA[Was ist Roslyn? Was kann man damit machen? Warum wurde es entwickelt? All diese Fragen werden in diesem Modul beantwortet. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca3a/760e8c09-d1c2-4463-bb9a-c3e22079ca3a/1_mid.mp4</video:content_loc>
+        <video:duration>458</video:duration>
+        <video:publication_date>2015-10-21T12:15:57.4705381+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

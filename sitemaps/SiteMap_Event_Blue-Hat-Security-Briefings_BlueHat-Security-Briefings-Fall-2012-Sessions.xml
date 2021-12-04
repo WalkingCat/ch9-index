@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1209</loc>
+      <lastmod>2015-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/59cb936c-dc06-4dbc-808f-5580016cd628.png</video:thumbnail_loc>
+        <video:title><![CDATA[Why Johnny Can&#39;t Patch: And What We Can Do About It]]></video:title>
+        <video:description><![CDATA[Malware typically targets vulnerabilities that were fixed a long time ago. This only works because users are not installing security updates. We set out to find out who these users are, how many of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2846/e174deff-4773-42a2-af02-bf9e28d72846/20121214WhyJohnnyCantPatch_mid.mp4</video:content_loc>
+        <video:duration>1790</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1208</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/425604cf-d6c1-4774-a23b-1288686caf93.png</video:thumbnail_loc>
+        <video:title><![CDATA[Pass the Hash and Other Credential Theft and Reuse: Preventing Lateral Movement and Privilege&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Pass the Hash and other credential theft and reuse has become one of the most popular attacks affecting our customers. In 2012, multiple of our high profile customers made their top priority to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ee86/95f87315-d620-4f53-8c2c-d86b1debee86/20121214PassTheHash_mid.mp4</video:content_loc>
+        <video:duration>2200</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1207</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/38246a26-65dc-4793-9db1-05fadcb03e5b.png</video:thumbnail_loc>
+        <video:title><![CDATA[Why UEFI?]]></video:title>
+        <video:description><![CDATA[After years of promises, 2012 finally saw the PC industry transition from the legacy BIOS interface to the slightly less legacy UEFI. UEFI gave us a firmware interface with modern functionality (High&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07f6/e80a4e2f-096c-4fca-a61a-92c584b207f6/20121214WhyUEFI_mid.mp4</video:content_loc>
+        <video:duration>2535</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1206</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/9a542353-77e2-455c-b492-f85044376841.png</video:thumbnail_loc>
+        <video:title><![CDATA[Building Trustworthy Windows Store Apps]]></video:title>
+        <video:description><![CDATA[The new Windows Store App environment was built to provide the user with confidence: nothing bad should happen to the typical user, no matter how many Windows Store Apps they try, buy, and uninstall.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6ba/d0f8401f-3f0d-4c39-9041-5f2fa821b6ba/20121214TrustworthyWindowsApps_mid.mp4</video:content_loc>
+        <video:duration>2594</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1205</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[Don&#39;t Stand So Close To Me: An Analysis of the NFC Attack Surface]]></video:title>
+        <video:description><![CDATA[&amp;quot;Near Field Communication (NFC) has been used in mobile devices in some countries for a while and is now emerging on devices in use near you. This technology allows NFC-enabled devices to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e29/866ac33f-5e75-4524-90ec-c2875e402e29/20121214DontStandSoClose_mid.mp4</video:content_loc>
+        <video:duration>2800</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/Stuff-My-Cloud-Evangelist-Says-Just-Not-My-CSO</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/739dbcaf-b9ce-47a1-ac02-3128d2cc60f3.png</video:thumbnail_loc>
+        <video:title><![CDATA[Stuff My Cloud Evangelist Says... Just Not My CSO]]></video:title>
+        <video:description><![CDATA[No description available. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6537/c58f2b05-2674-47de-bfbd-856289896537/20121213StuffMyCloudEvangelistSays_mid.mp4</video:content_loc>
+        <video:duration>2686</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1203</loc>
+      <lastmod>2021-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/79013803-20e0-4ee9-88d3-313d9f895505.png</video:thumbnail_loc>
+        <video:title><![CDATA[Scriptless Attacks: Stealing the Pie Without Touching the Sill]]></video:title>
+        <video:description><![CDATA[Due to their high practical impact, Cross-Site Scripting (XSS) attacks have attracted a lot of attention from the security community members. In the same way, a plethora of more or less effective&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36f4/15ae3f3e-9085-4496-8a43-3a4adfaf36f4/20121213ScriptlessAttacks_mid.mp4</video:content_loc>
+        <video:duration>2504</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1202</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/dc4ba18f-8ad8-41d4-8ac6-82dffc1ec5e3.png</video:thumbnail_loc>
+        <video:title><![CDATA[Social Authentication]]></video:title>
+        <video:description><![CDATA[Passwords suck. Security questions are a joke. Two-factor? Hah. Web authentication is frustratingly broken. Over the past year, Facebook engineers have been experimenting with various attempts to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4167/e86e442b-dbe1-4621-a0c1-161d7ce54167/20121213SocialAuthentication_mid.mp4</video:content_loc>
+        <video:duration>2485</video:duration>
+        <video:publication_date>2013-04-08T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Security-Briefings-Fall-2012-Sessions/BH1201</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/f5bd4cfc-b8dc-491d-92e1-f86a9f96cb65.png</video:thumbnail_loc>
+        <video:title><![CDATA[Fraud and Abuse, A Survey of Life on the Internet Today]]></video:title>
+        <video:description><![CDATA[As the world continues to move more and more online and toward the cloud, so have the people who target our customers with fraud and abuse. In this talk I will give insights into the types of issues&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/455c/dbf85ede-8542-46af-9e4b-0ea1066a455c/20121213FraudandAbuse_mid.mp4</video:content_loc>
+        <video:duration>1839</video:duration>
+        <video:publication_date>2013-04-08T20:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

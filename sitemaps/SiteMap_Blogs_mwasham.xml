@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwasham</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-Four-Creating-VMs-with-PowerShell</loc>
+      <lastmod>2012-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81e8/7b2f3aec-1f1e-4102-a253-a1fde73d81e8/IntroPowerShell2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure IaaS Series Part Four: Creating VMs with PowerShell]]></video:title>
+        <video:description><![CDATA[In part four of the series I show how to provision virtual machines using the Windows Azure PowerShell cmdlets. Other webcasts from the series:  Part One Part Two  Part Three   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81e8/7b2f3aec-1f1e-4102-a253-a1fde73d81e8/IntroPowerShell2_mid.mp4</video:content_loc>
+        <video:duration>710</video:duration>
+        <video:publication_date>2012-12-07T23:42:15.3370344+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-Three-Getting-Started-with-Windows-Azure-PowerShell</loc>
+      <lastmod>2012-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/644b/ebc16d36-f1a3-48a9-9388-de4690f2644b/IntroWAPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure IaaS Series - Part Three: Getting Started with Windows Azure PowerShell]]></video:title>
+        <video:description><![CDATA[In part three of the Windows Azure IaaS Series I show how to get started with the Windows Azure PowerShell Cmdlets to manage your subscriptions. Other webcasts from the series:  Part One Part Two  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/644b/ebc16d36-f1a3-48a9-9388-de4690f2644b/IntroWAPowerShell_mid.mp4</video:content_loc>
+        <video:duration>577</video:duration>
+        <video:publication_date>2012-12-07T23:32:45.1331250+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-Two-Virtual-Machine-Networking-Basics</loc>
+      <lastmod>2015-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/022e/402ce6e0-f337-4473-81ea-1a5480f4022e/IntroVMNetworking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure IaaS Series - Part Two: Virtual Machine Networking Basics]]></video:title>
+        <video:description><![CDATA[In part two of the Windows Azure IaaS Series I show how to connect multiple virtual machines in the same network and also walk through the basics of configuring the load balancer. Part One of the IaaS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/022e/402ce6e0-f337-4473-81ea-1a5480f4022e/IntroVMNetworking_mid.mp4</video:content_loc>
+        <video:duration>767</video:duration>
+        <video:publication_date>2012-12-06T18:50:10.4416875+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-One-Getting-Started-with-Virtual-Machines</loc>
+      <lastmod>2015-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3915/ffa1c131-39e6-4733-aa2c-844e46da3915/IntroWindowsAzureIaaS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure IaaS Series - Part One: Getting Started with Virtual Machines]]></video:title>
+        <video:description><![CDATA[Welcome to part one of my webcast series on Windows Azure Infrastructure as a Service. In this web cast I show you how to get started from the very beginning with provisioning virtual machines and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3915/ffa1c131-39e6-4733-aa2c-844e46da3915/IntroWindowsAzureIaaS_mid.mp4</video:content_loc>
+        <video:duration>732</video:duration>
+        <video:publication_date>2012-12-06T13:26:52.9153206+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwasham/Windows-Azure-Best-of-Build-2012</loc>
+      <lastmod>2013-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81bd/14d5c676-e7d5-4219-b1f6-4ae1aabf81bd/WindowsAzureBestOfBuild_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Best of Build 2012]]></video:title>
+        <video:description><![CDATA[     Windows Azure in the Day Two Keynote If you have not had a chance to watch anything from Build yet I would highly recommend starting with theday two keynote with Satya Nadella. These are some of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81bd/14d5c676-e7d5-4219-b1f6-4ae1aabf81bd/WindowsAzureBestOfBuild_mid.mp4</video:content_loc>
+        <video:duration>572</video:duration>
+        <video:publication_date>2012-11-16T00:08:24.2671299+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

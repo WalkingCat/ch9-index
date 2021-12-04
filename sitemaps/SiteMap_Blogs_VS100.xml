@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/007</loc>
+      <lastmod>2013-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa73/4be7d2bf-b350-4f6d-a667-7b504e5caa73/s1d007_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-007 ASP.NET Web API  RESTful HTTP  by  ]]></video:title>
+        <video:description><![CDATA[軽量な HTTP サービスを作るためのフレームワークとして ASP.NET に新たに加わったのが Web API です。MVC 4 とEntity FrameworkによるスキャフォールディングをベースにコードファーストでRESTfulなHTTPサービスを作るデモや、ODataのURIフィルタ規則を用いたデータのクエリーなどをご紹介します。 [参考情報]  ASP.NET Web API HTTP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa73/4be7d2bf-b350-4f6d-a667-7b504e5caa73/s1d007_mid.mp4</video:content_loc>
+        <video:duration>1017</video:duration>
+        <video:publication_date>2013-04-11T02:15:12.9648991+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/006</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c8b8/b5707b4d-a712-46ae-8d0e-bc018248c8b8/s1d006_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-006  Windows Azure WebSites  by  ]]></video:title>
+        <video:description><![CDATA[クラウドアプリケーション作成は「手間がかかる」とお思いではありませんか？Windows Azure の新しい機能である WebSites(Webサイト)　を利用すると、クラウドアプリケーションにおける Web サーバー設定とデータベース設定を瞬時に実施することが可能です。また、作成した Web サイトの情報を Visual Studio に取り込むと、Visual Studio で作成した Web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c8b8/b5707b4d-a712-46ae-8d0e-bc018248c8b8/s1d006_mid.mp4</video:content_loc>
+        <video:duration>767</video:duration>
+        <video:publication_date>2013-04-11T02:12:47.9282122+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/005</loc>
+      <lastmod>2013-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37d4/2c0bf099-af07-46eb-a399-9406140037d4/s1d005_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-005 VS2012  Windows Phone by  ]]></video:title>
+        <video:description><![CDATA[Windows Phone 8 SDKそして、エミュレーター、テンプレート、さまざまな要素が Visual Studio 2012に搭載され、より快適に買いあ初を進めることができます。さらに、標準装備となったExpression Blend for Visual Studio と組み合わせることで、高品質なアプリを手軽に作れます。まずはその流れを見て下さい。 [参考情報] Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37d4/2c0bf099-af07-46eb-a399-9406140037d4/s1d005_mid.mp4</video:content_loc>
+        <video:duration>624</video:duration>
+        <video:publication_date>2013-04-11T02:10:07.1849472+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/004</loc>
+      <lastmod>2013-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3da5/6357b244-3509-419d-b61e-faa97ef93da5/s1d004_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-004 VS2012  Windows Phone  by  ]]></video:title>
+        <video:description><![CDATA[新しい、Windows Phone 8 SDK はVisual Studio 2012がベースとなっています。これまで培われてきた高機能な開発環境がさらにVisual Studio 2012をベースに構築されることにより、さらに開発が進めやすくなりました。まずは、その開発スタイルをご覧ください。 [参考情報] Windows Phone デベロッパーセンター&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3da5/6357b244-3509-419d-b61e-faa97ef93da5/s1d004_mid.mp4</video:content_loc>
+        <video:duration>666</video:duration>
+        <video:publication_date>2013-04-11T02:08:59.6395110+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/003</loc>
+      <lastmod>2013-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7e3/dd988376-e22a-435e-b49a-ee326111e7e3/s1d003_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-003 Windows XAML/C#  by  ]]></video:title>
+        <video:description><![CDATA[ Windowsストアアプリの開発でよく使う「基本ページ」についてご紹介します。フル・フィル・スナップ・ポートレートと、画面状態の変更を必要とするアプリは「基本ページ」を使うと便利です。 関連URL: ページ コントロール項目テンプレートの追加 (C#/VB/C&amp;#43;&amp;#43; と XAML を使った Windows ストア アプリ) (Windows) [参考情報]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7e3/dd988376-e22a-435e-b49a-ee326111e7e3/s1d003_mid.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2013-04-11T02:06:46.5466060+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/002</loc>
+      <lastmod>2013-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5440/c6d12d9c-7ff5-4d7d-8f71-a2833f515440/s1d002_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-002 Windows  XAML/C#Hello World  by  ]]></video:title>
+        <video:description><![CDATA[Windows 8とWindows RT から　「Windowsランタイム」というアプリケーションプラットフォームを利用してWindows ストアアプリが作成できます。デスクトップアプリとは異なる新しいアプリモデルです。このビデオでは、C# と&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5440/c6d12d9c-7ff5-4d7d-8f71-a2833f515440/s1d002_mid.mp4</video:content_loc>
+        <video:duration>687</video:duration>
+        <video:publication_date>2013-04-11T02:04:51.7042708+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VS100/1</loc>
+      <lastmod>2013-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3cbe/acc43654-01c1-4747-8c95-e7cd83a73cbe/s1d001_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS100-001 ASP.NET Web  by ]]></video:title>
+        <video:description><![CDATA[VS魂100連発シリーズの記念すべき第1回目では、はじめに弊社エバンジェリストリードの長坂が開発者のみなさまへ熱いメッセージを語ります。その後、エバンジェリスト井上章より、ASP.NETの最新アップデート &amp;quot;ASP.NET and Web Tools 2012.2&amp;quot; と、新しく加わったプロジェクトテンプレート「シングルページアプリケーション」のデモを紹介します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3cbe/acc43654-01c1-4747-8c95-e7cd83a73cbe/s1d001_mid.mp4</video:content_loc>
+        <video:duration>1002</video:duration>
+        <video:publication_date>2013-04-11T02:03:15.6320750+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

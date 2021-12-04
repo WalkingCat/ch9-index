@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Intune</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Intune/Managed-Application-avec-Intune-SAAS</loc>
+      <lastmod>2016-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5157/54770d23-1e72-4a3b-8000-48ecf7815157/ManagedApplicationWithIntune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managed Application avec Intune SAAS]]></video:title>
+        <video:description><![CDATA[La vid&#233;o explique comment mettre cr&#233;er une politique de gestion des applications. Ceci afin de pouvoir g&#233;rer une application (office, Navigateur intune g&#233;r&#233;,...).   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5157/54770d23-1e72-4a3b-8000-48ecf7815157/ManagedApplicationWithIntune_mid.mp4</video:content_loc>
+        <video:duration>812</video:duration>
+        <video:publication_date>2015-09-11T09:52:59.3911842+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Intune/Prsentation-de-la-plateforme-Microsoft-Intune</loc>
+      <lastmod>2016-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/108d/450b492f-06bb-49f6-93e3-eb207e73108d/Intune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pr&#233;sentation de la plateforme Microsoft Intune]]></video:title>
+        <video:description><![CDATA[Pr&#233;sentation de microsoft Intune. Apr&#232;s une br&#232;ve pr&#233;sentation de la plateforme, des d&#233;mos sont effectu&#233;es. Ces derni&#232;res permettent de voir l&#39;ajout d&#39;un p&#233;riph&#233;rique Windows Phone 8.1 puis le&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/108d/450b492f-06bb-49f6-93e3-eb207e73108d/Intune_mid.mp4</video:content_loc>
+        <video:duration>1515</video:duration>
+        <video:publication_date>2015-07-02T11:18:40.7509971+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework/NET-Framework-ajoalustat-ja-evoluutio</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fcd4/25341fce-534a-4313-ac89-77a17dcefcd4/netframeworkajoalustatjaevoluutio_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Framework: ajoalustat ja evoluutio]]></video:title>
+        <video:description><![CDATA[T&#228;ss&#228; esityksess&#228; k&#228;yd&#228;&#228;n l&#228;pi kaikki, mit&#228; olet aina halunnut tiet&#228;&#228; .NET Frameworkista – tai frameworkeista! Miksi on Portable Class Libraryja? Millainen on NuGet-pakettien sielunel&#228;m&#228;? Miten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fcd4/25341fce-534a-4313-ac89-77a17dcefcd4/netframeworkajoalustatjaevoluutio_mid.mp4</video:content_loc>
+        <video:duration>2494</video:duration>
+        <video:publication_date>2016-04-18T10:00:46.1043777+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework/ASPNET-Core-Web-kehityksen-jlleensyntym</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/846b/c99358d6-caa1-4d66-bf24-c0e2c882846b/aspnetcorewebkehityksenjalleensyntyma_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET Core: Web-kehityksen j&#228;lleensyntym&#228;]]></video:title>
+        <video:description><![CDATA[Web-kehitys Microsoftin v&#228;lineill&#228; on mullistuksessa. .NET-kehityst&#228; tehd&#228;&#228;n Linuxilla ja Javascript valloittaa koko maailman. Tule kuulemaan mit&#228; kaikkea uutta ASP.NET Core tuo tullessaan, ja miten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/846b/c99358d6-caa1-4d66-bf24-c0e2c882846b/aspnetcorewebkehityksenjalleensyntyma_mid.mp4</video:content_loc>
+        <video:duration>3189</video:duration>
+        <video:publication_date>2016-04-18T10:00:21.9708930+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework/Fronttikehityksen-uudet-vlineet-Visual-Studio-2015ssa</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2cc4/f34e6c97-ab5e-4379-9117-58c6ee8a2cc4/fronttikehityksenuudetvalineet_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fronttikehityksen uudet v&#228;lineet Visual Studio 2015:ssa]]></video:title>
+        <video:description><![CDATA[Visual Studio 2015 ja ASP.NET Core tuo uusia ty&#246;nkulkuja ja ty&#246;kaluja sovellusten frontend-kehitykseen. Mik&#228; on Gulp? Grunt? NPM? Bower? Miten k&#228;sittelen TypeScript- tai LESS tiedostot uusien&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2cc4/f34e6c97-ab5e-4379-9117-58c6ee8a2cc4/fronttikehityksenuudetvalineet_mid.mp4</video:content_loc>
+        <video:duration>3008</video:duration>
+        <video:publication_date>2016-04-18T09:59:59.1335323+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework/Kymmenen-tietokantaa-alle-tunnissa</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a6a2/2a2595ec-87c8-4145-bb37-f6775463a6a2/kymmenentietokantaaalletunnissa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kymmenen tietokantaa alle tunnissa]]></video:title>
+        <video:description><![CDATA[Relaatiotietokannat ovat pitk&#228;&#228;n olleet j&#228;rjestelm&#228;kehityksen yleisty&#246;kalu. Viime vuosina tietokantakentt&#228; on kuitenkin sek&#228; laajentunut ett&#228; fokusoitunut. Voiko MongoDB toimia raportointikantana?&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6a2/2a2595ec-87c8-4145-bb37-f6775463a6a2/kymmenentietokantaaalletunnissa_mid.mp4</video:content_loc>
+        <video:duration>2980</video:duration>
+        <video:publication_date>2016-04-18T09:59:41.8289275+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework/HTTP2-web-devaajan-silmin</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a848/b7237e78-60de-4921-a499-1afc5ac4a848/http2webdebdevaajansilmin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[HTTP/2 web-devaajan silmin]]></video:title>
+        <video:description><![CDATA[HTTP:n uusi versio on saapunut melkein 20 vuotta edelt&#228;j&#228;ns&#228; j&#228;lkeen. Mik&#228; se on, miten sen saa k&#228;ytt&#246;&#246;n ja mit&#228; uusia mahdollisuuksia se tarjoaa web-sivujen suorituskyvyn parantamiseksi?   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a848/b7237e78-60de-4921-a499-1afc5ac4a848/http2webdebdevaajansilmin_mid.mp4</video:content_loc>
+        <video:duration>2923</video:duration>
+        <video:publication_date>2016-04-18T09:59:14.8798516+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Framework/Build-2016-tunnissa</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ce0/ddb610f7-d374-4462-921e-2631ff7f7ce0/Build2016tunnissa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build 2016 tunnissa]]></video:title>
+        <video:description><![CDATA[Build 2016 -konferenssi pidet&#228;&#228;n San Franciscossa DevTalksia edelt&#228;v&#228;ll&#228; viikolla. Kannattaa katsoa ennakkona Buildin  keynote Channel 9 -sivuilta, mutta DevTalksin esityksess&#228; menn&#228;&#228;n julkaisuhype&#228;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ce0/ddb610f7-d374-4462-921e-2631ff7f7ce0/Build2016tunnissa_mid.mp4</video:content_loc>
+        <video:duration>3014</video:duration>
+        <video:publication_date>2016-04-18T09:58:59.3969229+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

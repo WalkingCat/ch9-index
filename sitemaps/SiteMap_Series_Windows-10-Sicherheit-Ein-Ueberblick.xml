@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Sicherheit-Ein-Ueberblick</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Sicherheit-Ein-Ueberblick/03-Sichere-Anwendungsausfhrung-mit-Device-Guard</loc>
+      <lastmod>2017-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ca4/0bb50771-3d2a-48df-87c7-18376a3f0ca4/Windows10SicherheitModul3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Sichere Anwendungsausf&#252;hrung mit Device Guard]]></video:title>
+        <video:description><![CDATA[In diesem Modul erhalten Sie zun&#228;chst grundlegende Informationen zu Device Guard. Daraufhin wird Device Guard in der Praxis vorgestellt sowie die Funktionsweise und die Konfiguration vermittelt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ca4/0bb50771-3d2a-48df-87c7-18376a3f0ca4/Windows10SicherheitModul3_mid.mp4</video:content_loc>
+        <video:duration>2562</video:duration>
+        <video:publication_date>2016-02-08T15:53:49.9251873+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Sicherheit-Ein-Ueberblick/02-Authentifizierung-mit-Windows-Hello</loc>
+      <lastmod>2016-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5474/4cf359bc-12d8-46fc-a468-42b11ba45474/Windows10SicherheitModul2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Authentifizierung mit Windows Hello]]></video:title>
+        <video:description><![CDATA[In diesem Modul lernen sie Microsoft Passport sowie die biometrische Authentifizierung mit Windows Hello kennen. Dar&#252;ber erfahren Sie, wie Windows Hello in der Praxis funktioniert und was hinter&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5474/4cf359bc-12d8-46fc-a468-42b11ba45474/Windows10SicherheitModul2_mid.mp4</video:content_loc>
+        <video:duration>2142</video:duration>
+        <video:publication_date>2016-02-08T15:53:11.3365203+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Sicherheit-Ein-Ueberblick/01-Das-Fundament-IT-Sicherheit</loc>
+      <lastmod>2016-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d851/6cbfbb97-8ffa-4939-a7ff-27955f53d851/Windows10SicherheitModul1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Das Fundament: IT-Sicherheit]]></video:title>
+        <video:description><![CDATA[In diesem Modul erhalten Sie einen &#220;berblick &#252;ber IT-Sicherheit. Weiterhin lernen Sie die Unterschiede in den Sicherheitskonzepten zwischen Windows 7 und Windows 10 kennen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d851/6cbfbb97-8ffa-4939-a7ff-27955f53d851/Windows10SicherheitModul1_mid.mp4</video:content_loc>
+        <video:duration>1381</video:duration>
+        <video:publication_date>2016-02-08T15:52:36.7620422+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

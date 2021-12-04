@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017/TH17</loc>
+      <lastmod>2017-09-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/efb6/29c79a1d-85fe-4240-8a0a-f8a99c20efb6/TH17GettingStartedWithAurelia_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Aurelia]]></video:title>
+        <video:description><![CDATA[Aurelia is a Single Page Application framework getting a lot of traction as an alternative to Angular. It includes a rich data binding system, dependency injection and modules, an intuitive and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efb6/29c79a1d-85fe-4240-8a0a-f8a99c20efb6/TH17GettingStartedWithAurelia_mid.mp4</video:content_loc>
+        <video:duration>4615</video:duration>
+        <video:publication_date>2017-08-24T02:31:34.7452304+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017/TH12</loc>
+      <lastmod>2017-11-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e805/5e15f37c-a7bf-4655-865c-f0a012f0e805/TH12BotsAreTheNewApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bots are the New Apps: Building Bots with ASP.NET WebAPI &amp; Language Understanding]]></video:title>
+        <video:description><![CDATA[Bots (or conversation agents) are rapidly becoming an integral part of the digital experience. They&#39;re as vital a way for users to interact with a service or application as a web site or mobile&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e805/5e15f37c-a7bf-4655-865c-f0a012f0e805/TH12BotsAreTheNewApps_mid.mp4</video:content_loc>
+        <video:duration>4533</video:duration>
+        <video:publication_date>2017-08-24T02:31:16.6933921+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017/W19</loc>
+      <lastmod>2018-04-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bb3d/76f3ba6d-f9b3-49c4-9643-2f6aef39bb3d/VSLive17SolidThefiveCommandmentsofGoodSoftware_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SOLID  The Five Commandments of Good Software]]></video:title>
+        <video:description><![CDATA[The SOLID principles are the five commandments of the software world. They have been forgotten for years, as developers focused on JavaScript frameworks with stupid names and complicated patterns. The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb3d/76f3ba6d-f9b3-49c4-9643-2f6aef39bb3d/VSLive17SolidThefiveCommandmentsofGoodSoftware_mid.mp4</video:content_loc>
+        <video:duration>4917</video:duration>
+        <video:publication_date>2017-08-24T02:30:57.9346397+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017/W04</loc>
+      <lastmod>2017-10-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/22c7/27c97eb7-f853-4e13-a615-0397bcfc22c7/VSLive17DistributedArchitectureMicroservicesandMe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Distributed Architecture: Microservices and Messaging]]></video:title>
+        <video:description><![CDATA[Building distributed systems provides great benefits in terms of reliability, scalability, deployment flexibility, decoupling of disparate services and apps, and so on. Actually realizing these&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22c7/27c97eb7-f853-4e13-a615-0397bcfc22c7/VSLive17DistributedArchitectureMicroservicesandMe_mid.mp4</video:content_loc>
+        <video:duration>4433</video:duration>
+        <video:publication_date>2017-08-24T02:30:35.8798584+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017/Keynote</loc>
+      <lastmod>2017-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/eb9a/98373d50-9635-49f9-80a2-4168fb72eb9a/VSLive17MicrosoftsOpenSourceDevJourney_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsofts Open Source Developer Journey]]></video:title>
+        <video:description><![CDATA[Microsoft has been pushing the open source rock up the hill for almost 15 years now. Are they succeeding? How does open source .NET fit into the larger open source world? Join Scott Hanselman as he&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb9a/98373d50-9635-49f9-80a2-4168fb72eb9a/VSLive17MicrosoftsOpenSourceDevJourney_mid.mp4</video:content_loc>
+        <video:duration>3661</video:duration>
+        <video:publication_date>2017-08-24T02:30:15.4339439+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Live-2017/T09</loc>
+      <lastmod>2017-09-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1e8d/c3c9aade-ab92-4b7a-9bd9-cbc675051e8d/VSLive17GettingToTheCoreofNETCore_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting to the Core of .NET Core]]></video:title>
+        <video:description><![CDATA[The .NET Core is truly a new technology that is fast, efficient, cross platform, and open source. It also shares many similarities with the same .NET Framework you&#39;ve known and loved for years. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e8d/c3c9aade-ab92-4b7a-9bd9-cbc675051e8d/VSLive17GettingToTheCoreofNETCore_mid.mp4</video:content_loc>
+        <video:duration>4435</video:duration>
+        <video:publication_date>2017-08-24T02:29:54.1663693+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

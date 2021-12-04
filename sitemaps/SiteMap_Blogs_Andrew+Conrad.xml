@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Andrew+Conrad</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Alpha-preview-of-Project-Codename-Astoria-Offline-coming-very-soon</loc>
+      <lastmod>2013-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45d0/579118da-c77a-4ef6-b11f-03ce2de045d0/Astoria-Design-Walkthrough-Alpha-preview-of-Proje_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Astoria Design Walkthrough: Alpha preview of Project Codename &quot;Astoria Offline&quot; coming soon]]></video:title>
+        <video:description><![CDATA[
+Pablo and one of our hot shot developers Waseem Basheer sit down for a brief discussion about a new Project Astoria incubation project that we have spun up for adding sync and offline support to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45d0/579118da-c77a-4ef6-b11f-03ce2de045d0/Astoria-Design-Walkthrough-Alpha-preview-of-Proje_mid.mp4</video:content_loc>
+        <video:duration>163</video:duration>
+        <video:publication_date>2008-10-30T15:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Introducing-count-as-an-URI-query-option</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/9/6/4/3/4/AstoriaDesignCount1_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Astoria Design Walkthrough: Introducing $count as an URI query option]]></video:title>
+        <video:description><![CDATA[Mike Flasko, ADO.NET Data Services PM, discusses some design work we have been doing around providing support for our #1 customer ask, the ability to ask for the count via the ADO.NET Data Services&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/9/6/4/3/4/AstoriaDesignCount1_ch9.mp4</video:content_loc>
+        <video:duration>153</video:duration>
+        <video:publication_date>2008-10-24T20:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-No-design-just-plugging-our-PDC-talks</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/1/2/5/3/4/PDCTalkPlug_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Astoria Design Walkthrough:  No design... just plugging our PDC talks!]]></video:title>
+        <video:description><![CDATA[
+In our latest installment of the Astoria Design Walkthroughs there is no design, just plugs for the ADO.NET Data Services PDC talks. 
+  
+Both Mike and Pablo are excellent speakers, so if you are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/1/2/5/3/4/PDCTalkPlug_ch9.mp4</video:content_loc>
+        <video:duration>141</video:duration>
+        <video:publication_date>2008-10-24T18:51:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Thinking-of-a-future-with-sync--offline2</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/5/5/4/3/4/AstoriaDesignSyncOffline2_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Astoria Design Walkthrough: Thinking of a future with sync &amp; offline]]></video:title>
+        <video:description><![CDATA[
+In the latest of the Astoria Design walkthroughs, Pablo Castro, ADO.NET Data Service architect, discusses the vision of introducing sync &amp;amp; offline capabilities into ADO.NET Data Services.  For&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/5/5/4/3/4/AstoriaDesignSyncOffline2_ch9.mp4</video:content_loc>
+        <video:duration>687</video:duration>
+        <video:publication_date>2008-10-22T15:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Friendly-Feeds-Part-1</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/8/8/9/2/4/DesignFriendlyFeeds1_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Astoria Design Walkthrough:  Friendly Feeds Part 1]]></video:title>
+        <video:description><![CDATA[
+For V1 of ADO.NET Data Services (aka Project Astoria) we introduced a process we called
+
+Transparent Design.   The point of this was to make sure we got the design of our features out to users&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/8/8/9/2/4/DesignFriendlyFeeds1_ch9.mp4</video:content_loc>
+        <video:duration>298</video:duration>
+        <video:publication_date>2008-09-26T21:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

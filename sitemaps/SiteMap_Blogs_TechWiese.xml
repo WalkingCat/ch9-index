@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TechWiese</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TechWiese/Webinar-Aufzeichnung-Visual-Studio-2017</loc>
+      <lastmod>2018-09-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7157/e6c01e91-1aef-4fc5-963b-f4b965b17157/WebinarVisualStudio2017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Webinar: Visual Studio 2017]]></video:title>
+        <video:description><![CDATA[Seit dem 7. M&#228;rz steht Visual Studio 2017 als neueste Version der Entwicklungswerkzeuge von Microsoft zur Verf&#252;gung und wartet zum 20. Geburtstag mit allerlei Neuerungen auf. In diesem Webinar stellen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7157/e6c01e91-1aef-4fc5-963b-f4b965b17157/WebinarVisualStudio2017_mid.mp4</video:content_loc>
+        <video:duration>5504</video:duration>
+        <video:publication_date>2017-03-21T13:26:35.5941418+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TechWiese/BizSpark-Anmeldung-MSDN-und-Azure-Aktivierung</loc>
+      <lastmod>2020-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/72c6/419ad2c8-89ca-4c64-a928-bac7ebfa72c6/BizSparkBenefits_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BizSpark Anmeldung, MSDN &amp; Azure Aktivierung]]></video:title>
+        <video:description><![CDATA[Im diesem Video zeigen wir euch wie Ihr Euren MSDN und Azure Account aktiviert und wie Ihr an Eure Benefits &#252;ber BizSpark gelangt.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72c6/419ad2c8-89ca-4c64-a928-bac7ebfa72c6/BizSparkBenefits_mid.mp4</video:content_loc>
+        <video:duration>213</video:duration>
+        <video:publication_date>2016-11-24T09:43:25.3860124+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TechWiese/Anleitung-BizSpark-Registierung</loc>
+      <lastmod>2016-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d54/e5c11721-3a2b-4c2e-9667-ad8812ee6d54/AnleitungBizSparkRegistierung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Anleitung: BizSpark Registierung]]></video:title>
+        <video:description><![CDATA[Im folgenden Video wird gezeigt wie Ihr Euch bei BizSpark registriert, wie Ihr Euch anmeldet und wo Ihr zus&#228;tzliche Mitglieder hinzuf&#252;gen k&#246;nnt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d54/e5c11721-3a2b-4c2e-9667-ad8812ee6d54/AnleitungBizSparkRegistierung_mid.mp4</video:content_loc>
+        <video:duration>318</video:duration>
+        <video:publication_date>2016-11-24T09:43:17.8528556+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TechWiese/Erstelle-deinen-eigenen-Counterstrike-und-Teamspeak-Server-auf-Azure</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77f9/951a8b36-70ad-4886-baca-06460e2177f9/AzureTeamspeak_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Erstelle deinen eigenen Counterstrike und Teamspeak Server auf Azure]]></video:title>
+        <video:description><![CDATA[Malte und Robin-Manuel von Microsoft zeigen Euch wie man mit Microsoft Azure einen Counter-Strike und Teamspeak Server mit wenigen Schritten erstellen kann. In diesem 5 min&#252;tigem Video wird Euch alles&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77f9/951a8b36-70ad-4886-baca-06460e2177f9/AzureTeamspeak_mid.mp4</video:content_loc>
+        <video:duration>371</video:duration>
+        <video:publication_date>2016-04-28T13:12:51.9403710+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TechWiese/C-6-Neue-Language-Features</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e230/7a979efc-db11-454c-8e68-846dcff9e230/CSharp6neueLanguageFeatures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# 6 Neue Language Features]]></video:title>
+        <video:description><![CDATA[In diesem Channel 9 Video werden die folgenden C# 6 Features anschaulich vorgestellt: Using staticGetter-only Auto Property und InitializerExpression-Bodied Member for Method and PropertyString&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e230/7a979efc-db11-454c-8e68-846dcff9e230/CSharp6neueLanguageFeatures_mid.mp4</video:content_loc>
+        <video:duration>1085</video:duration>
+        <video:publication_date>2016-02-24T10:29:34.1627663+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

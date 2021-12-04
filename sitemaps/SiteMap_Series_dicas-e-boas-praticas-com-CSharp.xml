@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/dicas-e-boas-praticas-com-CSharp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dicas-e-boas-praticas-com-CSharp/Dicas-e-boas-praticas-com-CSharp-Collections</loc>
+      <lastmod>2017-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fb4/64614ded-53e9-44e3-b3fc-8cdc62e35fb4/collections_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dicas e boas pr&#225;ticas com C# - Collections]]></video:title>
+        <video:description><![CDATA[Neste terceiro epis&#243;dio, veremos algumas dicas e boas pr&#225;ticas para trabalharmos com Collections em C#.  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fb4/64614ded-53e9-44e3-b3fc-8cdc62e35fb4/collections_mid.mp4</video:content_loc>
+        <video:duration>666</video:duration>
+        <video:publication_date>2017-02-21T10:14:38.1443078+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dicas-e-boas-praticas-com-CSharp/Dicas-e-boas-prticas-com-CSharp-IO-e-TextFiles</loc>
+      <lastmod>2020-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/feda/3ecb1490-b48b-472e-b51c-9b72788efeda/CSharpIO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dicas e boas pr&#225;ticas com C# - IO e TextFiles]]></video:title>
+        <video:description><![CDATA[Neste segundo epis&#243;dio, veremos algumas dicas e boas pr&#225;ticas para trabalharmos com IO e TextFiles em C#.  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/feda/3ecb1490-b48b-472e-b51c-9b72788efeda/CSharpIO_mid.mp4</video:content_loc>
+        <video:duration>835</video:duration>
+        <video:publication_date>2016-10-24T00:10:56.6616427+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dicas-e-boas-praticas-com-CSharp/Dicas-e-boas-praticas-com-CSharp-Strings</loc>
+      <lastmod>2017-11-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/78ff/57c6eebc-d4a7-4ca7-8241-c522a9b078ff/CSharpStrings_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dicas e boas pr&#225;ticas com C# - Strings]]></video:title>
+        <video:description><![CDATA[Neste primeiro epis&#243;dio, veremos algumas dicas e boas pr&#225;ticas para trabalharmos com Strings em C#.  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78ff/57c6eebc-d4a7-4ca7-8241-c522a9b078ff/CSharpStrings_mid.mp4</video:content_loc>
+        <video:duration>657</video:duration>
+        <video:publication_date>2016-10-15T21:26:11.7034202+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

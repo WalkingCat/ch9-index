@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Namespaces-and-Working-with-the-DotNET-Class-Library</loc>
+      <lastmod>2021-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/88b0/2f77a3a8-029b-44ca-8a1a-9d8ac2b888b0/understanding-namespaces-and-working-with-the-net_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Namespaces and Working with the .NET Class Library]]></video:title>
+        <video:description><![CDATA[Learn about namespaces and how to find the classes for your applications by searching Bing and MSDN. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/88b0/2f77a3a8-029b-44ca-8a1a-9d8ac2b888b0/understanding-namespaces-and-working-with-the-net_mid.mp4</video:content_loc>
+        <video:duration>1072</video:duration>
+        <video:publication_date>2019-08-01T18:11:39.3852018+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Code-Files-Projects-and-Solutions</loc>
+      <lastmod>2021-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ed58/d5cb8a11-6e94-44ae-87e9-50f1c652ed58/working-with-code-files,-projects,-and-solutions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Code Files, Projects, and Solutions]]></video:title>
+        <video:description><![CDATA[Learn how to open and close individual files in a project, the relationship between projects and solutions, and more. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ed58/d5cb8a11-6e94-44ae-87e9-50f1c652ed58/working-with-code-files,-projects,-and-solutions_mid.mp4</video:content_loc>
+        <video:duration>695</video:duration>
+        <video:publication_date>2019-08-01T18:07:40.0144870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Operators-Expressions-and-Statements</loc>
+      <lastmod>2021-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9a19/f33ab836-79da-4fc6-93e3-0483d0db9a19/operators,-expressions,-and-statements_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Operators, Expressions, and Statements]]></video:title>
+        <video:description><![CDATA[Learn how to create a properly formed C# statement made up of expressions that include operators and operands. Hear about compilation errors that occur when the syntax rules of C# are ignored. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9a19/f33ab836-79da-4fc6-93e3-0483d0db9a19/operators,-expressions,-and-statements_mid.mp4</video:content_loc>
+        <video:duration>922</video:duration>
+        <video:publication_date>2019-08-01T17:17:33.5098999+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Where-to-Go-from-Here</loc>
+      <lastmod>2021-09-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4e92/bc7da897-aab0-4075-895c-0e23ca934e92/where-to-go-from-here_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Where to Go from Here]]></video:title>
+        <video:description><![CDATA[Hear approaches to solving common issues, where to go for help, how to search for answers, and become part of the .NET community. View a long-term path to learn more about developing applications. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/52e9/f118b917-683f-4984-8f32-d0ff264652e9/where-to-go-from-here_mid.mp4</video:content_loc>
+        <video:duration>1965</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9330000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Events-and-Event-Driven-Programming</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0a28/023ba302-835f-4a02-bf7c-fe7fdd3c0a28/understanding-events-and-event-driven-programming_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Events and Event-Driven Programming]]></video:title>
+        <video:description><![CDATA[Learn how events are utilized in the .NET Framework Class Library. Begin with the Timer class, and graduate to building a basic Hello world application. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0a28/023ba302-835f-4a02-bf7c-fe7fdd3c0a28/understanding-events-and-event-driven-programming_mid.mp4</video:content_loc>
+        <video:duration>1266</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9300000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Gracefully-Handling-Exceptions</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/07c5/60e9e27f-5bca-4c6e-85e5-50733df807c5/gracefully-handling-exceptions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gracefully Handling Exceptions]]></video:title>
+        <video:description><![CDATA[Learn how to use the try catch finally block to anticipate potential problems so as to shield the end user from those problems as much as possible. Explore best practices when checking for exceptions. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/07c5/60e9e27f-5bca-4c6e-85e5-50733df807c5/gracefully-handling-exceptions_mid.mp4</video:content_loc>
+        <video:duration>1273</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9300000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Enumerations-and-the-Switch-Decision-Statement</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6445/9ca02664-0880-4c55-a55d-5c346dda6445/enumerations-and-the-switch-decision-statement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enumerations and the Switch Decision Statement]]></video:title>
+        <video:description><![CDATA[See a demo on the use of Enumerations, create a custom enumeration, and then use it in a simple application that demonstrates a third Decision statement, the switch. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6445/9ca02664-0880-4c55-a55d-5c346dda6445/enumerations-and-the-switch-decision-statement_mid.mp4</video:content_loc>
+        <video:duration>798</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9270000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-LINQ</loc>
+      <lastmod>2021-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6cbc/43af794a-c98e-4b12-b539-30b272986cbc/working-with-linq_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with LINQ]]></video:title>
+        <video:description><![CDATA[Explore Structured Query Language and the LINQ syntax. See a demo projecting data onto existing types and new anonymous types. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6cbc/43af794a-c98e-4b12-b539-30b272986cbc/working-with-linq_mid.mp4</video:content_loc>
+        <video:duration>1474</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9270000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Collections</loc>
+      <lastmod>2021-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bd7a/1e8b16dd-65b6-48db-8982-f017d7ebbd7a/working-with-collections_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Collections]]></video:title>
+        <video:description><![CDATA[See an old style collection, along with several of the newer, strongly typed generic collections (List and Dictionary) utilizing the generics syntax. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bd7a/1e8b16dd-65b6-48db-8982-f017d7ebbd7a/working-with-collections_mid.mp4</video:content_loc>
+        <video:duration>1411</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9230000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-and-Adding-References-to-Assemblies</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/94de/222b45c3-f197-4e13-bb23-7c7f5f9094de/creating-and-adding-references-to-assemblies_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating and Adding References to Assemblies]]></video:title>
+        <video:description><![CDATA[Learn about .NET assemblies: code libraries and executables, debug and release versions of assemblies. Plus, see how to reference assemblies, utilize NuGet, and create references to custom libraries. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/94de/222b45c3-f197-4e13-bb23-7c7f5f9094de/creating-and-adding-references-to-assemblies_mid.mp4</video:content_loc>
+        <video:duration>1232</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9200000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/More-About-Classes-and-Methods</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8dff/6867dd31-0117-401d-aa65-5bed9bd78dff/more-about-classes-and-methods_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[More About Classes and Methods]]></video:title>
+        <video:description><![CDATA[Dig into more details about classes: create a new instance, add class references, pass the reference to a method. Plus, review overloaded methods, static versus instance methods, and constructors. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8dff/6867dd31-0117-401d-aa65-5bed9bd78dff/more-about-classes-and-methods_mid.mp4</video:content_loc>
+        <video:duration>2077</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9170000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Scope-and-Accessibility-Modifiers</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6076/0724773e-c5cc-4a5b-8aef-b7c272876076/understanding-scope-and-accessibility-modifiers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Scope and Accessibility Modifiers]]></video:title>
+        <video:description><![CDATA[Explore variable scope and how accessibility modifiers are used by the .NET Framework Class Library to expose or hide implementation of their given services to consumers of that given class. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6076/0724773e-c5cc-4a5b-8aef-b7c272876076/understanding-scope-and-accessibility-modifiers_mid.mp4</video:content_loc>
+        <video:duration>1014</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9170000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Classes</loc>
+      <lastmod>2021-08-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1be1/90eb7e36-8ecf-45a5-9413-d7b379de1be1/understanding-classes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Classes]]></video:title>
+        <video:description><![CDATA[Learn how classes are defined and new instances are created, how to define Properties, and how to both set values and get values for a given instance of the class. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1be1/90eb7e36-8ecf-45a5-9413-d7b379de1be1/understanding-classes_mid.mp4</video:content_loc>
+        <video:duration>1444</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9130000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Strings</loc>
+      <lastmod>2021-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8124/3fa70e3c-1e74-4759-8dcf-e67eb6878124/working-with-strings_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Strings]]></video:title>
+        <video:description><![CDATA[Look at built-in String methods to manipulate the content inside of a literal string and at the StringBuilder class for concatenating many strings together in a memory- and resource-friendly manner. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8124/3fa70e3c-1e74-4759-8dcf-e67eb6878124/working-with-strings_mid.mp4</video:content_loc>
+        <video:duration>1419</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9100000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Dates-and-Times</loc>
+      <lastmod>2021-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f12a/65248fc5-6114-4508-91ea-9a8dbc21f12a/working-with-dates-and-times_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Dates and Times]]></video:title>
+        <video:description><![CDATA[Find out how to work with Date and Time data, how to create new instances of DateTime, how to add time, and how to format the data for display. Take a look at the TimeSpan class. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f12a/65248fc5-6114-4508-91ea-9a8dbc21f12a/working-with-dates-and-times_mid.mp4</video:content_loc>
+        <video:duration>635</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9100000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/While-Iteration-Statement</loc>
+      <lastmod>2021-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/162e/08600ffc-c82f-4b20-b6e1-45a160b9162e/while-iteration-statement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[While Iteration Statement]]></video:title>
+        <video:description><![CDATA[Learn a new iteration statement that allows you to continue performing a block of code until a condition is no longer true. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/162e/08600ffc-c82f-4b20-b6e1-45a160b9162e/while-iteration-statement_mid.mp4</video:content_loc>
+        <video:duration>1092</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9070000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Defining-and-Calling-Methods</loc>
+      <lastmod>2021-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b065/e0c1eef4-5bb9-4a4a-b554-6c634520b065/defining-and-calling-methods_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Defining and Calling Methods]]></video:title>
+        <video:description><![CDATA[Create a helper method, create and call methods to retrieve a value, create and use input parameters, learn about string formatting, and create overloaded methods. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b065/e0c1eef4-5bb9-4a4a-b554-6c634520b065/defining-and-calling-methods_mid.mp4</video:content_loc>
+        <video:duration>1876</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9030000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Arrays</loc>
+      <lastmod>2021-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9391/0bead314-cfc7-4595-9d64-61c2ba179391/understanding-arrays_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Arrays]]></video:title>
+        <video:description><![CDATA[Learn about arrays, and see how to declare and utilize arrays. Watch demos on a couple of powerful built-in methods that give arrays added features. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9391/0bead314-cfc7-4595-9d64-61c2ba179391/understanding-arrays_mid.mp4</video:content_loc>
+        <video:duration>1069</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9030000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/for-Iteration-Statement</loc>
+      <lastmod>2021-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6999/33df0342-543e-43ab-9ffd-d43836cd6999/for-iteration-statement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[for Iteration Statement]]></video:title>
+        <video:description><![CDATA[Look at several different types of iteration statements, how to utilize code snippets to help remind you of the syntax for this complex statement, and debugging in action. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6999/33df0342-543e-43ab-9ffd-d43836cd6999/for-iteration-statement_mid.mp4</video:content_loc>
+        <video:duration>1117</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.9000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Data-Types-and-Variables</loc>
+      <lastmod>2021-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7c10/04a6c494-575e-401e-bf5b-2af8dbe77c10/understanding-data-types-and-variables_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Data Types and Variables]]></video:title>
+        <video:description><![CDATA[Add C# syntax to your vocabulary by exploring fundamental building blocks: data types and variables. In addition, learn about basic topics, such as naming conventions and data type conversions. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7c10/04a6c494-575e-401e-bf5b-2af8dbe77c10/understanding-data-types-and-variables_mid.mp4</video:content_loc>
+        <video:duration>1693</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.8970000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/The-if-Decision-Statement</loc>
+      <lastmod>2021-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/49d4/6f489ec5-7ef6-4fa7-bd15-5a040acd49d4/the-if-decision-statement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The if Decision Statement]]></video:title>
+        <video:description><![CDATA[Get an introduction to the if Decision statement, along with the conditional operator. Find out how to refactor code to make it more compact and less likely to produce errors. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f48b/87093cb4-1a33-4d6d-8eab-32182a7df48b/the-if-decision-statement_mid.mp4</video:content_loc>
+        <video:duration>1422</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.8970000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Your-First-C-Program</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/30d2/9829ef7b-7455-4fdc-b6d4-78f40f3a30d2/understanding-your-first-c-program_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Your First C# Program]]></video:title>
+        <video:description><![CDATA[To better understand the grammar of C# at a high level, return to the program we just built to break apart each of the key words and symbols. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/30d2/9829ef7b-7455-4fdc-b6d4-78f40f3a30d2/understanding-your-first-c-program_mid.mp4</video:content_loc>
+        <video:duration>1032</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.8900000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-Your-First-C-Program</loc>
+      <lastmod>2021-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/87ef/3608e847-0569-4651-acd6-af055f5687ef/creating-your-first-c-program_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Your First C# Program]]></video:title>
+        <video:description><![CDATA[Learn how to create a simple application, and get an explanation of common solutions to different problems you might encounter as you begin writing and compiling code. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/87ef/3608e847-0569-4651-acd6-af055f5687ef/creating-your-first-c-program_mid.mp4</video:content_loc>
+        <video:duration>1000</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.8900000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Installing-Visual-Studio</loc>
+      <lastmod>2021-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1042/76027be5-dd23-442e-bbd3-18bb9c001042/installing-visual-studio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing Visual Studio]]></video:title>
+        <video:description><![CDATA[Learn the basics of how to install Visual Studio. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1042/76027be5-dd23-442e-bbd3-18bb9c001042/installing-visual-studio_mid.mp4</video:content_loc>
+        <video:duration>354</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.8870000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Course-Introduction</loc>
+      <lastmod>2021-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/45c8/b9deb83b-e920-45d0-b346-6359886745c8/course-introduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Course Introduction]]></video:title>
+        <video:description><![CDATA[Hear an introduction to the topic, learn expectations for the series, and hear tips on how to get the most out of it. Plus, find out where to download the software you need. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1897/23f649eb-7f75-474a-8a44-799cba921897/course-introduction_mid.mp4</video:content_loc>
+        <video:duration>488</video:duration>
+        <video:publication_date>2019-06-10T21:58:39.8830000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

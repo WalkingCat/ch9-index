@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Uruchamianie-serwera-NGINX-na-maszynie-wirtualnej-Linux-w-chmurze-Azure</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bcb4/70c1a300-df0e-4e4e-bc20-a050cd50bcb4/nginx_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Uruchamianie serwera NGINX na maszynie wirtualnej Linux w chmurze Azure]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu nabędziesz podstawowych umiejętności i wiedzy na temat procesu uruchamiania serwera NGIX na maszynie wirtualnej z systemem Linux w chmurze Microsoft Azure. Dowiesz się o trybach&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bcb4/70c1a300-df0e-4e4e-bc20-a050cd50bcb4/nginx_mid.mp4</video:content_loc>
+        <video:duration>3358</video:duration>
+        <video:publication_date>2015-03-17T08:05:51.3996727+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Storage-dla-maszyn-wirtualnych-Linux-w-chmurze-Azure</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/123c/b1729bbb-9b37-46a5-b6ea-9163d358123c/storage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage dla maszyn wirtualnych Linux w chmurze Azure]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu nabędziesz podstawowych informacji na temat architektury warstwy przechowywania danych w chmurze Microsoft Azure, a także umiejętności zarządzania usługami związanymi z tą właśnie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/123c/b1729bbb-9b37-46a5-b6ea-9163d358123c/storage_mid.mp4</video:content_loc>
+        <video:duration>4032</video:duration>
+        <video:publication_date>2015-03-17T08:05:37.0992459+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Zewntrzne-oraz-dodatkowe-narzdzia-zarzdzania-Azure</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d28/2e0ff3a5-dab1-4368-ba4a-f8ed42c36d28/narzedziazarzadzania_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Zewntrzne oraz dodatkowe narzdzia zarzdzania Azure]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu nabędziesz podstawowych informacji na temat zarządzania usługami chmury Microsoft Azure - z naciskiem na maszyny wirtualne z systemem Linux - przy pomocy SDK dla popularnych&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d28/2e0ff3a5-dab1-4368-ba4a-f8ed42c36d28/narzedziazarzadzania_mid.mp4</video:content_loc>
+        <video:duration>841</video:duration>
+        <video:publication_date>2015-03-17T08:05:28.2770749+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Narzdzia-zarzdzania-Azure-Portal</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e47f/d6c7bfa2-11e4-49ab-8065-609c171ae47f/portal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Narzdzia zarzdzania Azure - Portal]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu nabędziesz podstawowych umiejętności obsługi portalu zarządzania Microsoft Azure, a także wiedzy na temat jego funkcji. Skupimy się na procesie tworzenia maszyn wirtualnych z&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e47f/d6c7bfa2-11e4-49ab-8065-609c171ae47f/portal_mid.mp4</video:content_loc>
+        <video:duration>2172</video:duration>
+        <video:publication_date>2015-03-17T08:05:17.6524967+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Narzdzia-zarzdzania-Azure-CLI</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a32/0518f23c-46f7-4283-9173-345613455a32/zarzadanieCLI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Narzdzia zarzdzania Azure - CLI]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu nabędziesz podstawowych informacji na temat narzędzia Azure CLI. Dowiesz się skąd je pobrać, jak zainstalować i skonfigurować oraz w jaki spos&#243;b zarządzać za jego pomocą maszynami&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a32/0518f23c-46f7-4283-9173-345613455a32/zarzadanieCLI_mid.mp4</video:content_loc>
+        <video:duration>1662</video:duration>
+        <video:publication_date>2015-03-17T08:05:09.4082734+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Networking-i-sieci-wirtualne-w-Azure</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81fc/d4300712-2e81-4ff9-8e7c-d32cea0781fc/networking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Networking i sieci wirtualne w Azure]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu zdobędziesz podstawową i szczeg&#243;łową wiedzę na temat networkingu i sieci wirtualnych w chmurze Microsoft Azure. Skupimy się gł&#243;wnie na infrastrukturze zbudowanej w oparciu o&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81fc/d4300712-2e81-4ff9-8e7c-d32cea0781fc/networking_mid.mp4</video:content_loc>
+        <video:duration>4764</video:duration>
+        <video:publication_date>2015-03-17T08:05:01.0355761+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Linux-w-chmurze-Microsoft-Azure/Uruchamianie-systemu-Linux-w-chmurze-Azure-wstp</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de45/c0f5fa5a-29ab-435d-8d79-300c9d40de45/uruchamianie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Uruchamianie systemu Linux w chmurze Azure (wstp)]]></video:title>
+        <video:description><![CDATA[W czasie tego kursu nabędziesz podstawowych informacji na temat usług w chmurze Microsoft Azure oraz weźmiesz udział w przeglądzie możliwości IaaS jako części tejże chmury. Wstęp zawiera zar&#243;wno&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de45/c0f5fa5a-29ab-435d-8d79-300c9d40de45/uruchamianie_mid.mp4</video:content_loc>
+        <video:duration>4788</video:duration>
+        <video:publication_date>2015-03-17T08:04:33.5209316+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Easy-Deploy-FreeBSD-from-VM-Depot</loc>
+      <lastmod>2016-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4530/898cd81e-95d9-44e1-8176-a28450414530/EasyDeployAndFreeBSD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Easy Deploy FreeBSD from VM Depot ]]></video:title>
+        <video:description><![CDATA[Use the Easy Deploy feature of VM Depot to create a FreeBSD virtual machine in just a few minutes. You will need an active Azure subscription, you can get a one month free trial to get you started. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4530/898cd81e-95d9-44e1-8176-a28450414530/EasyDeployAndFreeBSD_mid.mp4</video:content_loc>
+        <video:duration>329</video:duration>
+        <video:publication_date>2014-10-24T23:07:32.1093447+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/MS-Open-Tech-Cocos2D-Hackathon-Brief-Video-Clip</loc>
+      <lastmod>2014-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7014/4f2a7f52-3a89-41d2-805e-757f3d167014/MSOpenTechHackathon1min_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS Open Tech Cocos2D Hackathon Brief  Video Clip]]></video:title>
+        <video:description><![CDATA[Hackthon Brief Video Clip ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7014/4f2a7f52-3a89-41d2-805e-757f3d167014/MSOpenTechHackathon1min_mid.mp4</video:content_loc>
+        <video:duration>102</video:duration>
+        <video:publication_date>2014-07-31T23:37:51.1449647+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Code-Disection-of-Wiki-App-for-Office-365</loc>
+      <lastmod>2014-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f82e/ba00bb79-0d8f-47fa-af85-59019badf82e/CodeDissectionofWikiAppforOffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Code Dissection of Wiki App for Office 365]]></video:title>
+        <video:description><![CDATA[Wiki App for Office 365 is now officially published and open sourced.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f82e/ba00bb79-0d8f-47fa-af85-59019badf82e/CodeDissectionofWikiAppforOffice365_mid.mp4</video:content_loc>
+        <video:duration>501</video:duration>
+        <video:publication_date>2014-06-06T23:50:40.6777400+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/MS-Open-Tech-adds-new-features-inspired-by-Windows-to-the-Contacts-plugin-for-Apache-Cordova</loc>
+      <lastmod>2014-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d90/b94dd10a-fff8-4327-a51f-3dca4aa64d90/CordovaContactsPluginByMSOpenTech_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS Open Tech adds new features inspired by Windows to the Contacts plugin for Apache Cordova]]></video:title>
+        <video:description><![CDATA[MS Open Tech is contributing new features inspired by Windows in the popular Contacts plugin for Apache Cordova (a.k.a. PhoneGap). This video shows a short demo of how to use these new features to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d90/b94dd10a-fff8-4327-a51f-3dca4aa64d90/CordovaContactsPluginByMSOpenTech_mid.mp4</video:content_loc>
+        <video:duration>786</video:duration>
+        <video:publication_date>2014-05-05T16:49:00.0090132+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/New-Cross-Platform-Cordova-plugin-by-MS-Open-Tech-WebSQL</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4f9/e6bf5f07-14d4-4b0b-b85f-c3bdec10d4f9/WebSQLPluginForCordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New Cross Platform Cordova WebSQL plugin by MS Open Tech]]></video:title>
+        <video:description><![CDATA[Here is a new plugin by MS Open Tech for Apache Cordova (PhoneGap): WebSQL. This plugin brings the ability to have a persistent SQL Database in a Cordova app using the same code across iOS, Android,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4f9/e6bf5f07-14d4-4b0b-b85f-c3bdec10d4f9/WebSQLPluginForCordova_mid.mp4</video:content_loc>
+        <video:duration>789</video:duration>
+        <video:publication_date>2014-05-05T16:48:53.1759910+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Cocos2D-x-Windows-Store-apps</loc>
+      <lastmod>2014-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c905/8cca2943-3841-4519-8089-53db8a4dc905/Cocos2DxWindowsStoreApps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cocos2D-x Windows Store apps]]></video:title>
+        <video:description><![CDATA[Here is a short videos of some apps in the Windows Store that use Cocos2D-x. Cocos2D-X is an open source C&amp;#43;&amp;#43; game engine aiming at extending the reach of the popular Cocos2D game engine to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c905/8cca2943-3841-4519-8089-53db8a4dc905/Cocos2DxWindowsStoreApps_mid.mp4</video:content_loc>
+        <video:duration>161</video:duration>
+        <video:publication_date>2014-04-24T20:49:08.0830725+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Using-Virtual-Machine-Images-for-Community-Development-in-an-Open-Source-Project</loc>
+      <lastmod>2016-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/11c5/e764a04c-2c43-4050-b9ed-fd93634311c5/UsingVMsForCommunityDevelopment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Virtual Machine Images for Community Development in an Open Source Project]]></video:title>
+        <video:description><![CDATA[The first step in building a viable open source community around your codebase is to attract users who may later become contributors. In this video I look at what users want from trial environments&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/11c5/e764a04c-2c43-4050-b9ed-fd93634311c5/UsingVMsForCommunityDevelopment_mid.mp4</video:content_loc>
+        <video:duration>969</video:duration>
+        <video:publication_date>2014-04-23T15:35:24.3210842+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Editing-Puppet-Files-in-Visual-Studio</loc>
+      <lastmod>2016-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/39f0/c4b145db-aa8a-419b-9aa8-85804e4539f0/EditingPuppetFilesInVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Editing Puppet Files in Visual Studio]]></video:title>
+        <video:description><![CDATA[The Visual Studio Plugin for Puppet integrates Puppet Enterprise with Microsoft Azure and Visual Studio 2013 Professional and Ultimate, providing developers and IT operations teams a simple way to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/39f0/c4b145db-aa8a-419b-9aa8-85804e4539f0/EditingPuppetFilesInVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>80</video:duration>
+        <video:publication_date>2014-04-22T21:59:55.2818406+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Using-Vagrant-and-Puppet-to-manage-your-Development-Environment</loc>
+      <lastmod>2016-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a65/626b52b6-b23b-4b14-84b3-899f49038a65/VagrantAndPuppetOnHyperV_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Vagrant and Puppet to manage your Development Environment]]></video:title>
+        <video:description><![CDATA[Using tools such as Vagrant and Puppet it is possible to ensure that everyone in your team, from design to development, from testing to deployment are using the same environment for their work. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a65/626b52b6-b23b-4b14-84b3-899f49038a65/VagrantAndPuppetOnHyperV_mid.mp4</video:content_loc>
+        <video:duration>367</video:duration>
+        <video:publication_date>2014-04-21T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Using-Vagrant-and-Chef-to-manage-your-Development-Environment</loc>
+      <lastmod>2017-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92a9/45670ae9-27ea-431b-9332-35d8b1ae92a9/VagrantAndChef_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Vagrant and Chef to manage your Development Environment]]></video:title>
+        <video:description><![CDATA[Using tools such as Vagrant and Chef it is possible to ensure that everyone in your team, from design to development, from testing to deployment are using the same environment for their work. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92a9/45670ae9-27ea-431b-9332-35d8b1ae92a9/VagrantAndChef_mid.mp4</video:content_loc>
+        <video:duration>397</video:duration>
+        <video:publication_date>2014-04-21T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Pointer-Events-in-Firefox</loc>
+      <lastmod>2014-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/967a/6d7af226-a385-41bd-b2dc-547135dd967a/PointerEventsInFirefox_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pointer Events in Firefox]]></video:title>
+        <video:description><![CDATA[MS Open Tech is working closely with the Blink and Mozilla communities on the implementation of Pointer Events within Chrome and Firefox. Check-in&#39;s were recently accepted by the communities to add&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/967a/6d7af226-a385-41bd-b2dc-547135dd967a/PointerEventsInFirefox_mid.mp4</video:content_loc>
+        <video:duration>258</video:duration>
+        <video:publication_date>2014-01-30T17:21:02.8876071+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Apache-Cordova-CLI-for-Windows-devices</loc>
+      <lastmod>2016-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/29e3/073f9142-6702-4de0-a980-7032ee1629e3/ApacheCordovaCLIforWindowsDevices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Apache Cordova CLI for Windows devices]]></video:title>
+        <video:description><![CDATA[Apache Cordova, previously known as PhoneGap, is a platform to build cross-platform mobile apps with HTML5. Since v3.0 Apache Cordova offers advanced Command Line tools that allows to streamline the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29e3/073f9142-6702-4de0-a980-7032ee1629e3/ApacheCordovaCLIforWindowsDevices_mid.mp4</video:content_loc>
+        <video:duration>625</video:duration>
+        <video:publication_date>2013-12-02T17:17:45.4356525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Kinect-Common-Bridge-eases-Kinect-infusion-in-creative-development</loc>
+      <lastmod>2016-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1914/2daee25e-63f9-4cdc-b359-8818eaf91914/KinectCommonBridgeOFCinder_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kinect Common Bridge eases Kinect infusion in creative development]]></video:title>
+        <video:description><![CDATA[Today MS Open Tech announces the release of the open source Kinect Common Bridge, a wrapper that sits on top of the Kinect for Windows SDK and that makes it simple to bring the magic of Kinect to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1914/2daee25e-63f9-4cdc-b359-8818eaf91914/KinectCommonBridgeOFCinder_mid.mp4</video:content_loc>
+        <video:duration>342</video:duration>
+        <video:publication_date>2013-10-14T15:12:41.8627593+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Pointer-Events-plugin-for-Apache-Cordova--PhoneGap-apps</loc>
+      <lastmod>2013-09-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c03/f4fe2512-59e5-4a07-bded-124b06ac8c03/PointerEventsCordovaPlugin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pointer Events plugin for Apache Cordova / PhoneGap apps]]></video:title>
+        <video:description><![CDATA[MS Open Tech published a plugin for Apache Cordova (a.k.a. PhoneGap) that brings the Pointer Events model to your Cordova/PhoneGap app. Learn more reading MS Open Tech&#39;s blog post ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c03/f4fe2512-59e5-4a07-bded-124b06ac8c03/PointerEventsCordovaPlugin_mid.mp4</video:content_loc>
+        <video:duration>748</video:duration>
+        <video:publication_date>2013-09-16T16:47:45.6373533+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Cocos2D-X-running-on-WinRT</loc>
+      <lastmod>2013-09-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a486/9e0e8fcf-5c46-48ef-a623-62bb2faaa486/cocos2dxonwinrt_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cocos2D-X running on WinRT]]></video:title>
+        <video:description><![CDATA[Microsoft Open Technologies, Inc. has contributed a patch to the popular open source C&amp;#43;&amp;#43; game engine Cocos2D-X to enable it on WinRT. This allows game developers and publishers already using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a486/9e0e8fcf-5c46-48ef-a623-62bb2faaa486/cocos2dxonwinrt_mid.mp4</video:content_loc>
+        <video:duration>189</video:duration>
+        <video:publication_date>2013-09-05T22:04:12.8146437+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Redis-on-Windows-Getting-Started</loc>
+      <lastmod>2017-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7062/5b4f7066-ea35-4a87-982d-31b809507062/RedisOnWindows_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Redis on Windows: Getting Started]]></video:title>
+        <video:description><![CDATA[Redis is an open-source in-memory networked key/value store that has been very popular in the Linux community and is now available for Windows developers as well, via a Windows version from Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7062/5b4f7066-ea35-4a87-982d-31b809507062/RedisOnWindows_mid.mp4</video:content_loc>
+        <video:duration>2121</video:duration>
+        <video:publication_date>2013-07-23T00:48:04.8379638+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Use-weinre-WP8-and-IE10-to-debug-your-mobile-HTML5-page-remotely</loc>
+      <lastmod>2013-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6891/c0c661d1-85b4-4c6b-92b7-f6a813646891/weinreonIE10andWP8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Use weinre, WP8 and IE10 to debug your mobile HTML5 page remotely]]></video:title>
+        <video:description><![CDATA[News for HTML5 mobile developers: the remote DOM inspector tool weinre is no longer restricted to Webkit-based browsers and can be used with Internet Explorer 10 or Firefox, thanks to the community&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6891/c0c661d1-85b4-4c6b-92b7-f6a813646891/weinreonIE10andWP8_mid.mp4</video:content_loc>
+        <video:duration>338</video:duration>
+        <video:publication_date>2013-05-31T21:26:26.0196493+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Happy-15th-Birthday-XML</loc>
+      <lastmod>2013-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ffae/c348294d-e52c-490c-9cd8-cab1857effae/JeanPaoliXML15years_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Happy 15th Birthday, XML!]]></video:title>
+        <video:description><![CDATA[A birthday greeting from Jean Paoli, President of Microsoft Open Technologies, Inc., and Co-Creator of XML 1.0 @ W3C. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ffae/c348294d-e52c-490c-9cd8-cab1857effae/JeanPaoliXML15years_mid.mp4</video:content_loc>
+        <video:duration>81</video:duration>
+        <video:publication_date>2013-02-10T19:36:54.8350917+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Getting-started-with-Windows-Phone-8-and-Cordova</loc>
+      <lastmod>2015-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e14f/e239a53c-14a7-4d53-a82d-0382e921e14f/Getting-started-with-Windows-Phone-8-and-Cordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with Windows Phone 8 and Cordova]]></video:title>
+        <video:description><![CDATA[In this video tutorial, Ben Lobaugh of the Microsoft Open Technologies team demonstrates how to get started with Windows Phone 8 development using Apache Cordova, the free open source framework for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e14f/e239a53c-14a7-4d53-a82d-0382e921e14f/Getting-started-with-Windows-Phone-8-and-Cordova_mid.mp4</video:content_loc>
+        <video:duration>339</video:duration>
+        <video:publication_date>2012-12-19T18:52:31.4269111+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/OData-and-DB2-open-data-for-the-open-web</loc>
+      <lastmod>2012-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b029/819f68ab-afc4-4c74-b3ef-d8867785b029/ODataDB2demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData and DB2: open data for the open web]]></video:title>
+        <video:description><![CDATA[OData is a web protocol that unlocks data silos to facilitate data access from browsers, desktop applications, mobile apps, cloud services, and other scenarios. In this screencast, you&#39;ll see how easy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b029/819f68ab-afc4-4c74-b3ef-d8867785b029/ODataDB2demo_mid.mp4</video:content_loc>
+        <video:duration>1186</video:duration>
+        <video:publication_date>2012-11-08T17:12:47.4796204+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Demo-jQuery-Mobile-theme-for-Windows-Phone-8</loc>
+      <lastmod>2012-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e79/1a56214a-aa68-4a8b-9790-5061925e2e79/jQMThemeForWP8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo - jQuery Mobile theme for Windows Phone 8]]></video:title>
+        <video:description><![CDATA[Earlier in April, a new jQuery Mobile theme for Windows Phone 7 was made available to allow mobile web developer build apps for Windows Phone 7 that would integrate into the experience of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e79/1a56214a-aa68-4a8b-9790-5061925e2e79/jQMThemeForWP8_mid.mp4</video:content_loc>
+        <video:duration>404</video:duration>
+        <video:publication_date>2012-10-30T19:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Sencha-Touch-theme-for-Windows-Phone-8</loc>
+      <lastmod>2012-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fc0/a122d0c9-18d5-4315-9040-ad2c55325fc0/SenchaTouchOnWP8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sencha Touch theme for Windows Phone 8]]></video:title>
+        <video:description><![CDATA[Sencha just announced the support for Windows Phone 8 in Sencha Touch, a high performance HTML5 mobile application framework. In addition to the support for the platform, a new theme is available that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fc0/a122d0c9-18d5-4315-9040-ad2c55325fc0/SenchaTouchOnWP8_mid.mp4</video:content_loc>
+        <video:duration>230</video:duration>
+        <video:publication_date>2012-10-30T19:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Demo-Ogre3D-on-Windows-Phone-8</loc>
+      <lastmod>2013-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/28a9/f46ad579-20e8-41af-90cf-65883c0328a9/Ogre3DOnWP8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo - Ogre3D on Windows Phone 8]]></video:title>
+        <video:description><![CDATA[Ogre3D is an open source 3D graphics engine that powers many great games. Microsoft Open Technologies, Inc. helped the Ogre3D community porting the engine to Windows Phone 8. This video gives you a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28a9/f46ad579-20e8-41af-90cf-65883c0328a9/Ogre3DOnWP8_mid.mp4</video:content_loc>
+        <video:duration>121</video:duration>
+        <video:publication_date>2012-10-30T19:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Nodejs-and-MongoDB-on-Windows-Azure</loc>
+      <lastmod>2017-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ef7f/f97bd799-f07b-412b-ba36-9547490eef7f/NodeMongoAzureAaronHeckman_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Node.js and MongoDB on Windows Azure]]></video:title>
+        <video:description><![CDATA[We caught up with 10gen software engineer Aaron Heckman at the MongoDB Seattle conference last week, and in this video Doug Mahugh talks to him about the powerful combination of Node.js&amp;#43;MongoDB on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef7f/f97bd799-f07b-412b-ba36-9547490eef7f/NodeMongoAzureAaronHeckman_mid.mp4</video:content_loc>
+        <video:duration>851</video:duration>
+        <video:publication_date>2012-09-17T23:15:21.8694732+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/OData-Server-module-for-Drupal</loc>
+      <lastmod>2012-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4ecd/9f98baa6-9878-4396-958b-8f3d9eea4ecd/ODataServerDrupal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OData Server module for Drupal]]></video:title>
+        <video:description><![CDATA[The Open Data Protocol (OData) is a web protocol for querying and updating data that provides a way to unlock your data and free it from silos that exist in applications today.  OData provides a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ecd/9f98baa6-9878-4396-958b-8f3d9eea4ecd/ODataServerDrupal_mid.mp4</video:content_loc>
+        <video:duration>892</video:duration>
+        <video:publication_date>2012-09-12T22:14:53.2740318+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Demo-Prototype-implementation-of-the-W3C-Device-Orientation-API</loc>
+      <lastmod>2012-08-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/feda/38363049-9342-4225-b361-30562c39feda/DeviceOrientationPrototypeDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: Prototype implementation of the W3C Device Orientation API]]></video:title>
+        <video:description><![CDATA[The Internet Explorer and Microsoft Open Technologies Inc. teams released a prototype implementation of the W3C  DeviceOrientation Event Specification draft  on HTML5Labs.com. This specification&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/feda/38363049-9342-4225-b361-30562c39feda/DeviceOrientationPrototypeDemo_mid.mp4</video:content_loc>
+        <video:duration>147</video:duration>
+        <video:publication_date>2012-08-30T15:40:41.6546346+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Create-a-simple-CouchDB-application-for-Windows-8-with-JavaScript</loc>
+      <lastmod>2016-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d4e/c4a7a9f0-95d1-4cd2-8d2f-984ffaa15d4e/Win8CouchDBApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a simple CouchDB application for Windows 8 with JavaScript]]></video:title>
+        <video:description><![CDATA[CouchDB is a simple and practical NoSQL database engine. The CouchDB tools come with abundance of scripts and samples to create web applications leveraging CouchDB. This video demonstrates how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d4e/c4a7a9f0-95d1-4cd2-8d2f-984ffaa15d4e/Win8CouchDBApp_mid.mp4</video:content_loc>
+        <video:duration>437</video:duration>
+        <video:publication_date>2012-08-16T17:10:01.7995839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Java-Applications-in-Windows-Azure-Cloud-Services-using-Eclipse</loc>
+      <lastmod>2012-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/460a/ed915e66-3598-43e7-946a-41679a9f460a/JavaOnAzureJuly2012_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Java Applications in Windows Azure Cloud Services using Eclipse]]></video:title>
+        <video:description><![CDATA[Learn how to start running Java web applications in Windows Azure cloud services using Eclipse in this &amp;quot;Hello World&amp;quot; demo by Martin Sawicki. This is an introduction to the Windows Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/460a/ed915e66-3598-43e7-946a-41679a9f460a/JavaOnAzureJuly2012_mid.mp4</video:content_loc>
+        <video:duration>300</video:duration>
+        <video:publication_date>2012-07-17T22:07:36.1940673+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/HTML5-WP-with-Apache-Cordova-and-jQMobile</loc>
+      <lastmod>2015-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e8b/3be95fda-55fe-4812-8f57-a04601639e8b/jQMThemeForWPSimpleDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Simple HTML5 based Windows Phone application with Apache Cordova and jQuery Mobile]]></video:title>
+        <video:description><![CDATA[HTML5 can be used in Windows Phone application development. Leveraging HTML5 allows publishing a same application on several platforms reusing a maximum of code. Tools and frameworks such as Apache&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e8b/3be95fda-55fe-4812-8f57-a04601639e8b/jQMThemeForWPSimpleDemo_med_ch9.mp4</video:content_loc>
+        <video:duration>539</video:duration>
+        <video:publication_date>2012-06-04T17:15:13.2699492+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/MongoDB-Csharp-Driver</loc>
+      <lastmod>2012-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9943/a25d05c6-c6f4-49a7-9eb6-0b89f32c9943/MongoDBCsharpDriver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MongoDB C#/.NET Driver]]></video:title>
+        <video:description><![CDATA[The MongoDB C# driver gives .NET developers the ability to take full advantage of the features of MongoDB. In this video, 10gen software engineer Robert Stam, the author of the driver, shows how to do&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9943/a25d05c6-c6f4-49a7-9eb6-0b89f32c9943/MongoDBCsharpDriver_mid.mp4</video:content_loc>
+        <video:duration>1690</video:duration>
+        <video:publication_date>2012-05-26T14:05:21.3736386+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/MongoDB-Replica-Sets</loc>
+      <lastmod>2012-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d79/493780a3-28fc-4b9a-b4a7-472f011b1d79/MongoDBReplicaSets_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MongoDB Replica Sets]]></video:title>
+        <video:description><![CDATA[Replica sets are the secret to MongoDB&#39;s ability to scale out for high availability and great read performance. In this video, 10gen software engineer Sridhar Nanjundeswaran shows how easy it is to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d79/493780a3-28fc-4b9a-b4a7-472f011b1d79/MongoDBReplicaSets_mid.mp4</video:content_loc>
+        <video:duration>746</video:duration>
+        <video:publication_date>2012-05-26T14:05:01.8357535+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/MongoDB-Overview</loc>
+      <lastmod>2012-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e535/0a531195-c52f-4ab8-a90b-22732f94e535/MongoDBoverviewJaredRosoff_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MongoDB Overview]]></video:title>
+        <video:description><![CDATA[This video, the first in a series of interviews with the MongoDB experts at 10gen, provides an overview of the core concepts behind MongoDB, the popular noSQL document-oriented database. Jared Rosoff&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e535/0a531195-c52f-4ab8-a90b-22732f94e535/MongoDBoverviewJaredRosoff_mid.mp4</video:content_loc>
+        <video:duration>948</video:duration>
+        <video:publication_date>2012-05-10T13:58:55.3041940+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Metro-Style-Theme-for-jQuery-Mobile--Integration-and-Tips</loc>
+      <lastmod>2015-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1fdb/1b0d3bb3-c78f-475a-a4d3-a03f01111fdb/jQMobileThemeForWPTips_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[jQuery Mobile theme for Windows Phone (Metro style) Integration and Tips]]></video:title>
+        <video:description><![CDATA[This webcast presents a description of the process in integrating the jQuery Mobile theme for Windows Phone (Metro style) into an existing Apache Cordova application. Additional pointers are provided&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1fdb/1b0d3bb3-c78f-475a-a4d3-a03f01111fdb/jQMobileThemeForWPTips_med_ch9.mp4</video:content_loc>
+        <video:duration>548</video:duration>
+        <video:publication_date>2012-04-26T19:40:14.4331688+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Metro-Style-Theme-for-jQuery-Mobile--Introduction</loc>
+      <lastmod>2012-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9bb8/3970d6d2-8cd0-4454-b657-a03f01109bb8/metrothemeforjqmintro_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[jQuery Mobile theme for Windows Phone (Metro style) Introduction]]></video:title>
+        <video:description><![CDATA[This video is an introduction to the jQuery Mobile theme for Windows Phone (Metro style) that allows applying a Metro style user interface to HTML5-based Windows Phone application. HTML5 elements and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9bb8/3970d6d2-8cd0-4454-b657-a03f01109bb8/metrothemeforjqmintro_med_ch9.mp4</video:content_loc>
+        <video:duration>513</video:duration>
+        <video:publication_date>2012-04-26T19:39:49.6705553+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Apache-Cordova-Plugins-for-Windows-Phone</loc>
+      <lastmod>2015-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f1d/bd049dd0-7bfa-4069-a6a4-a03f01119f1d/ApacheCordovapluginsforWindowsPhone_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Apache Cordova Plugins for Windows Phone]]></video:title>
+        <video:description><![CDATA[This video demonstrates the Bing Maps, Live Tiles and Social Share Apache Cordova plugins for Windows Phone. You can learn more about these plugins and download them here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f1d/bd049dd0-7bfa-4069-a6a4-a03f01119f1d/ApacheCordovapluginsforWindowsPhone_med_ch9.mp4</video:content_loc>
+        <video:duration>691</video:duration>
+        <video:publication_date>2012-04-26T19:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/AWS-SDK-for-Windows-Phone-SimpleDB-sample-walkthrough</loc>
+      <lastmod>2012-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3256/d983a0a2-7d65-4249-9605-9fe501423256/AWSSDKForWindowsPhoneSimpleDBSample_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AWS SDK for Windows Phone - SimpleDB sample walkthrough]]></video:title>
+        <video:description><![CDATA[As part of the AWS SDK for Windows Phone (downloadable from GitHub), code sample is provided that shows how to connect and integrate a Windows Phone Application with Amazon SimpleDB Service. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3256/d983a0a2-7d65-4249-9605-9fe501423256/AWSSDKForWindowsPhoneSimpleDBSample_med_ch9.mp4</video:content_loc>
+        <video:duration>534</video:duration>
+        <video:publication_date>2012-01-30T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/AWS-SDK-for-Windows-Phone-SQS-sample-walkthrough</loc>
+      <lastmod>2012-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a205/7357e79f-7a8d-49eb-8151-9fe50065a205/AWSSDKForWindowsPhoneSQSSample_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AWS SDK for Windows Phone - SQS sample walkthrough]]></video:title>
+        <video:description><![CDATA[As part of the AWS SDK for Windows Phone (downloadable from GitHub), code sample is provided that shows how to connect and integrate a Windows Phone Application with Amazon Simple Queue Service. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a205/7357e79f-7a8d-49eb-8151-9fe50065a205/AWSSDKForWindowsPhoneSQSSample_med_ch9.mp4</video:content_loc>
+        <video:duration>452</video:duration>
+        <video:publication_date>2012-01-30T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/AWS-SDK-for-Windows-Phone-S3-sample-walkthrough</loc>
+      <lastmod>2012-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/50b4/54ca131e-3938-4762-8e4c-9fe5006350b4/AWSSDKForWindowsPhoneS3Sample_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AWS SDK for Windows Phone - S3 sample walkthrough]]></video:title>
+        <video:description><![CDATA[As part of the AWS SDK for Windows Phone (downloadable from GitHub), code sample is provided that shows how to connect and integrate a Windows Phone Application with Amazon Simple Storage Service.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/50b4/54ca131e-3938-4762-8e4c-9fe5006350b4/AWSSDKForWindowsPhoneS3Sample_med_ch9.mp4</video:content_loc>
+        <video:duration>560</video:duration>
+        <video:publication_date>2012-01-30T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Getting-Started-with-the-AWS-SDK-for-Windows-Phone</loc>
+      <lastmod>2012-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/730d/34b10634-2a98-4158-92e1-9fe5005a730d/AWSSDKforWindowsPhoneGettingStarted_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the AWS SDK for Windows Phone]]></video:title>
+        <video:description><![CDATA[The beta of the Amazon Web Services SDK for Windows Phone has recently been released. This SDK provides developers with a speed dial that lets you quickly connect and integrate Windows Phone&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/730d/34b10634-2a98-4158-92e1-9fe5005a730d/AWSSDKforWindowsPhoneGettingStarted_med_ch9.mp4</video:content_loc>
+        <video:duration>222</video:duration>
+        <video:publication_date>2012-01-30T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Simply-create-a-PhoneGap-application-for-Windows-Phone-75-in-Visual-Studio-2010</loc>
+      <lastmod>2016-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e584/ffe428f6-d73c-4c7a-831d-9fbd016ae584/PhoneGapForWPSimpleDemo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Simply create a PhoneGap application for Windows Phone 7.5 in Visual Studio 2010]]></video:title>
+        <video:description><![CDATA[PhoneGap is an HTML5 and JavaScript framework that allows to build cross-platform mobile applications very easily. Since version 1.3, PhoneGap fully supports Windows Phone and integrates into Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e584/ffe428f6-d73c-4c7a-831d-9fbd016ae584/PhoneGapForWPSimpleDemo_med_ch9.mp4</video:content_loc>
+        <video:duration>248</video:duration>
+        <video:publication_date>2011-12-19T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Neo4j-the-Open-Source-Java-graph-database-and-Windows-Azure</loc>
+      <lastmod>2015-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c970/a7f1497d-d722-4c5a-b0cb-9f130158c970/Neo4jWindowsAzure_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Neo4j, the Open Source Java graph database, and Windows Azure]]></video:title>
+        <video:description><![CDATA[ This segment we talk about Neo4j, the open source graph database, on Windows Azure. Jas Sandhu @jassand is joined by Neo Technology&#39;s Peter Neubauer, Diversify&#39;s Magnus Martensson, Micael Carlstedt&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c970/a7f1497d-d722-4c5a-b0cb-9f130158c970/Neo4jWindowsAzure_high_ch9.mp4</video:content_loc>
+        <video:duration>735</video:duration>
+        <video:publication_date>2011-07-22T22:11:28.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Chat-with-Arc-Technology-Group-Joomla-on-Windows--OurNewNeighborhoodorg</loc>
+      <lastmod>2011-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/55e0/c809e4cf-c74d-446f-b8a9-9efc016355e0/ArcTechnologyInterview_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Chat with Arc Technology Group: Joomla on Windows &amp; OurNewNeighborhood.org]]></video:title>
+        <video:description><![CDATA[ While I was out in Chicago for PHP Tek I had the opportunity take a short side trip out to Evanston, IL to sit down with Robert Jacobi and Christian Kern from Arc Techology Group to discuss their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/55e0/c809e4cf-c74d-446f-b8a9-9efc016355e0/ArcTechnologyInterview_high_ch9.mp4</video:content_loc>
+        <video:duration>470</video:duration>
+        <video:publication_date>2011-06-09T18:28:26.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Joomla-Community-and-Microsoft-Interview-with-Sudhi-Seshachala--J-and-Beyond-2011</loc>
+      <lastmod>2011-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/27bc/8dd28983-eb0d-4afd-988a-9ef0013527bc/JoomlaSuddi_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Joomla! Community and Microsoft, Interview with Sudhi Seshachala @ J and Beyond 2011]]></video:title>
+        <video:description><![CDATA[ Jas Sandhu @jassand chats with Sudhi Seshachala, Founder &amp;amp; CTO at Hooduku at the J and Beyond 2011 conference in Kerkrade, Netherlands. We talk about what Sudhi&#39;s involvement with the  Joomla!&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/27bc/8dd28983-eb0d-4afd-988a-9ef0013527bc/JoomlaSuddi_high_ch9.mp4</video:content_loc>
+        <video:duration>497</video:duration>
+        <video:publication_date>2011-05-31T17:59:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Joomla-Community-and-Microsoft-Interview-with-Ryan-Ozimek--J-and-Beyond-2011</loc>
+      <lastmod>2011-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3edf/416884ec-9ca1-43ed-990d-9ef001343edf/JoomlaRyan_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Joomla! Community and Microsoft, Interview with Ryan Ozimek @ J and Beyond 2011]]></video:title>
+        <video:description><![CDATA[ Jas Sandhu @jassand chats with Ryan Ozimek @cozimek, President of Open Source Matters (OSM),the non-profit organization that provides organizational, legal and financial support for the Joomla!&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3edf/416884ec-9ca1-43ed-990d-9ef001343edf/JoomlaRyan_high_ch9.mp4</video:content_loc>
+        <video:duration>569</video:duration>
+        <video:publication_date>2011-05-31T17:59:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Joomla-Community-and-Microsoft-Interview-with-Louis-Landry--J-and-Beyond-2011</loc>
+      <lastmod>2011-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c414/253c0c9d-5a45-4772-8216-9ef00135c414/JoomlaLandry_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Joomla! Community and Microsoft, Interview with Louis Landry @ J and Beyond 2011]]></video:title>
+        <video:description><![CDATA[ Jas Sandhu @jassand chats with Louis Landry @louislandry, a core developer and leadership team member for the Joomla! open-source project, at the J and Beyond 2011 conference in Kerkrade,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c414/253c0c9d-5a45-4772-8216-9ef00135c414/JoomlaLandry_high_ch9.mp4</video:content_loc>
+        <video:duration>1479</video:duration>
+        <video:publication_date>2011-05-31T17:57:36.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Wordpress-on-Windows-Azure-A-discussion-with-Morten-Rand-Hendriksen</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bad3/6477e420-1f90-4c0b-af3f-9ec6011abad3/WordPressOnAzureInterviewWithMor10_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WordPress on Windows Azure:  A discussion with Morten Rand-Hendriksen ]]></video:title>
+        <video:description><![CDATA[ I finally had the chance to sit down with Morten at MIX11 in Las Vegas last week to discuss the work he is doing on WordPress with Windows Azure to solve some common challenges with multi-site&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bad3/6477e420-1f90-4c0b-af3f-9ec6011abad3/WordPressOnAzureInterviewWithMor10_high_ch9.mp4</video:content_loc>
+        <video:duration>684</video:duration>
+        <video:publication_date>2011-04-19T21:26:40.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/New-plugin-for-Eclipse-to-take-Java-developers-off-the-ground-to-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03f0/3912da3d-5e85-42a6-8f3a-9ead014d03f0/AzurePluginForEclipse_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New plugin for Eclipse to take Java developers off the ground to Windows Azure]]></video:title>
+        <video:description><![CDATA[  As we said a few weeks ago we are hard at work Improving experiences for Java developers with Windows Azure. Today we’re announcing the availability of the first Community Technology Preview (CTP)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03f0/3912da3d-5e85-42a6-8f3a-9ead014d03f0/AzurePluginForEclipse_high_ch9.mp4</video:content_loc>
+        <video:duration>1070</video:duration>
+        <video:publication_date>2011-03-22T15:24:42.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/oData-Module-for-Drupal</loc>
+      <lastmod>2011-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/3e39/247a4dfc-369c-4b57-ac34-9e7600623e39/ITVDrupalODataModule_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[oData Module for Drupal]]></video:title>
+        <video:description><![CDATA[ This week MindTree released the new oData Support Module for Drupal - an open source project with funding provided by Microsoft.  It can be downloaded from https://github.com/mindtree/ODataDrupal. &amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/3e39/247a4dfc-369c-4b57-ac34-9e7600623e39/ITVDrupalODataModule_high_ch9.mp4</video:content_loc>
+        <video:duration>360</video:duration>
+        <video:publication_date>2011-01-24T16:07:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Windows-Live-ID-Module-for-Drupal</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/75cf/6a14f359-f5fb-4114-8ad6-9e76006275cf/ITVDrupalWindowsLiveIDModule_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Live ID Module for Drupal]]></video:title>
+        <video:description><![CDATA[ This week Schakra released the new Windows Live ID Module for Drupal - an open source project with funding provided by Microsoft.  It can be downloaded from&amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/75cf/6a14f359-f5fb-4114-8ad6-9e76006275cf/ITVDrupalWindowsLiveIDModule_high_ch9.mp4</video:content_loc>
+        <video:duration>444</video:duration>
+        <video:publication_date>2011-01-23T23:07:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Bing-Maps-Module-for-Drupal</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/5945/19b55ca1-d6a6-4b9d-8ea0-9e7600625945/ITVDrupalBingMapsModule_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bing Maps Module for Drupal]]></video:title>
+        <video:description><![CDATA[ This week MindTree released the new Bing Maps Module for Drupal - an open source project with funding provided by Microsoft.  It can be downloaded from https://github.com/mindtree/BingMapsDrupal. &amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/5945/19b55ca1-d6a6-4b9d-8ea0-9e7600625945/ITVDrupalBingMapsModule_high_ch9.mp4</video:content_loc>
+        <video:duration>371</video:duration>
+        <video:publication_date>2011-01-23T23:07:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Tutorial-Using-Worker-Roles-for-Simple-Background-Processing</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/8bbc/3818197c-e81e-4e99-9b24-9e7600628bbc/ITVPHPWorkerRole_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tutorial -  Using Worker Roles for Simple Background Processing in PHP Windows Azure Application]]></video:title>
+        <video:description><![CDATA[ For more information, step by step instructions and source code visit http://azurephp.interopbridges.com/1849]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/8bbc/3818197c-e81e-4e99-9b24-9e7600628bbc/ITVPHPWorkerRole_high_ch9.mp4</video:content_loc>
+        <video:duration>528</video:duration>
+        <video:publication_date>2011-01-15T18:40:39.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Apache-Stonehenge-new-release-how-to-wire-applications-with-Web-Services-standards</loc>
+      <lastmod>2011-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/1/3/1/6/5/StonehengeM2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Apache Stonehenge new release: how to wire applications with Web Services standards]]></video:title>
+        <video:description><![CDATA[ Launched in January 2009, Stonehenge is designed to provide a public forum to test the interoperability of WS-* protocols on different technical stacks and to build sample applications that could&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/1/3/1/6/5/StonehengeM2_ch9.mp4</video:content_loc>
+        <video:duration>555</video:duration>
+        <video:publication_date>2010-07-16T01:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Interoperability/Identity-Mash-up-Federation-Demo-using-Multiple-Protocols-OpenID-and-WS-Federation</loc>
+      <lastmod>2012-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/9/4/7/5/5/IdentityMashup_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Identity Mash-up Federation Demo using Multiple Protocols (OpenID and WS-Federation)]]></video:title>
+        <video:description><![CDATA[ Mike Jones, from the Federated Identity Team, and Kamaljit Bath, from the Interoperability Strategy Team, present an Identity “Mash-up” Federation Demo using Multiple Protocols (OpenID and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/9/4/7/5/5/IdentityMashup_ch9.mp4</video:content_loc>
+        <video:duration>875</video:duration>
+        <video:publication_date>2010-07-09T15:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/MeultaSerie</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/MeultaSerie/Introduction-to-Microsoft-Edge-extensions-and-security-on-the-web</loc>
+      <lastmod>2016-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b3f8/0e6f09a8-3fa8-49e9-b9d2-0b8054eab3f8/IntroductiontoMicrosoftEdge_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Microsoft Edge, extensions and security on the web]]></video:title>
+        <video:description><![CDATA[Learn about the latest advancements with Microsoft Edge browser, how it compares with other offerings in the marketplace, and new developments in extensibility, security, and standards. Includes an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b3f8/0e6f09a8-3fa8-49e9-b9d2-0b8054eab3f8/IntroductiontoMicrosoftEdge_mid.mp4</video:content_loc>
+        <video:duration>2752</video:duration>
+        <video:publication_date>2016-11-28T22:41:16.7828779+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/MeultaSerie/Introduction-to-Nodejs-development</loc>
+      <lastmod>2017-12-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f4f5/22fc4718-1a92-4a01-82c9-8690db00f4f5/IntroductionNodejsDev_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Node.js development]]></video:title>
+        <video:description><![CDATA[This session will introduce you to Node.js fundamentals, how to code and debug with VS Code, and how to use an advanced SDK in node.js using Bot Framework as an example. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f4f5/22fc4718-1a92-4a01-82c9-8690db00f4f5/IntroductionNodejsDev_mid.mp4</video:content_loc>
+        <video:duration>3709</video:duration>
+        <video:publication_date>2016-11-28T22:40:16.5318877+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

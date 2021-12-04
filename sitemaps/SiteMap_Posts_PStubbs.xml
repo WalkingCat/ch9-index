@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Securing-Service-Bus-with-ACS</loc>
+      <lastmod>2013-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6bba/6f953b72-48fa-4301-93de-9f5901316bba/SecuringServiceBusWithACS_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Securing Service Bus with ACS]]></video:title>
+        <video:description><![CDATA[ Windows Azure: Authorization for Service Bus using the Access Control Services This session is a followup to the Service Bus session that Clemens Vasters did at the build conference:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6bba/6f953b72-48fa-4301-93de-9f5901316bba/SecuringServiceBusWithACS_high_ch9.mp4</video:content_loc>
+        <video:duration>3009</video:duration>
+        <video:publication_date>2011-09-16T20:49:46.6619165+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/ServiceBusTopicsAndQueues</loc>
+      <lastmod>2017-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0686/262856ff-ab7b-46f5-b4fe-9f6001060686/ServiceBusTopicsAndQueues_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Topics And Queues]]></video:title>
+        <video:description><![CDATA[ Windows Azure Service Bus Topics and Queues - Patterns, Recipes, and Guidance This session is a followup to the Service Bus session that Clemens Vasters did at the build conference:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0686/262856ff-ab7b-46f5-b4fe-9f6001060686/ServiceBusTopicsAndQueues_high_ch9.mp4</video:content_loc>
+        <video:duration>3851</video:duration>
+        <video:publication_date>2011-09-16T20:41:41.4139068+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

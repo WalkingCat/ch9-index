@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ASPNET-5-com-Entity-Framework-7-no-NET-Execution-Environment-DNX</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ASPNET-5-com-Entity-Framework-7-no-NET-Execution-Environment-DNX/ASPNET-5-com-Entity-Framework-7-no-NET-Execution-Environment-DNX</loc>
+      <lastmod>2015-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b721/6b317bf6-7d67-423c-8211-2ebb5931b721/asp5EF7dnx_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET 5 com Entity Framework 7 no .NET Execution Environment (DNX)]]></video:title>
+        <video:description><![CDATA[Aprenda como criar uma aplica&#231;&#227;o ASP.NET 5 (Web Site), usar o Code First onde a partir de uma classe Produto.cs e do Code Generator (gen) do command prompt, sejam criadas as classes do DbContext com&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b721/6b317bf6-7d67-423c-8211-2ebb5931b721/asp5EF7dnx_mid.mp4</video:content_loc>
+        <video:duration>1281</video:duration>
+        <video:publication_date>2015-06-22T17:36:51.4349571+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht/06</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0168/19569577-1bd7-4054-82c0-b15861b10168/Mod6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(06) ]]></video:title>
+        <video:description><![CDATA[本單元將快速帶您了解如何管理混合雲中的資料庫。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0168/19569577-1bd7-4054-82c0-b15861b10168/Mod6_mid.mp4</video:content_loc>
+        <video:duration>1278</video:duration>
+        <video:publication_date>2015-03-30T08:58:25.2587934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht/05</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf60/c9d2114b-778e-40da-91de-03727156bf60/Mod5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(05)  System Center 2012 ]]></video:title>
+        <video:description><![CDATA[透過本單元您將學習到如何在 System Center 中管理資料中心，這有助於為本地、服務提供商或是 Microsoft Azure 環境提供自定義或標準化的基礎建設，除此之外您也將學習到自動化與自助服務、基礎建設的監控、應用程式性能監控和 IT 服務管理。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf60/c9d2114b-778e-40da-91de-03727156bf60/Mod5_mid.mp4</video:content_loc>
+        <video:duration>1418</video:duration>
+        <video:publication_date>2015-03-30T08:58:18.7120985+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht/04</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d66/17cd0d3f-4a5f-40c6-a290-b3ef87078d66/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04)  Azure Database]]></video:title>
+        <video:description><![CDATA[本單元將帶您了解如何透過 Web 控制台進行基本監控，像是死結、失敗的連接、成功的連接和防火牆。我們將會複習三大分類：資料庫相關、執行相關和事件相關。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d66/17cd0d3f-4a5f-40c6-a290-b3ef87078d66/Mod4_mid.mp4</video:content_loc>
+        <video:duration>862</video:duration>
+        <video:publication_date>2015-03-30T08:58:11.3696397+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht/03</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d6f/4744c049-1f8d-4a1c-a651-b088a2604d6f/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03)  Azure Pack For Windows Server ]]></video:title>
+        <video:description><![CDATA[本單元將帶您探索具高可用性、熟悉的部署與關聯資料模型的企業資料中心所擁有的彈性和功能，真正了解到如何使用 Azure Pack for Windows Server 為本地的 SQL 資料庫部署和管理，提供類&amp;#20284; Azure 的管理體驗。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d6f/4744c049-1f8d-4a1c-a651-b088a2604d6f/Mod3_mid.mp4</video:content_loc>
+        <video:duration>835</video:duration>
+        <video:publication_date>2015-03-30T08:58:00.9833920+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht/02</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2126/6c7f8603-010e-4d3f-b24d-c8a970612126/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02)  SQL Azure ]]></video:title>
+        <video:description><![CDATA[本單元將帶您透過 Azure Management Portal 來創建 Azure SQL Database，透過 SQL Server Management Studio 可將資料庫部署到 Azure SQL 並將資料庫標示為要遷移。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2126/6c7f8603-010e-4d3f-b24d-c8a970612126/Mod2_mid.mp4</video:content_loc>
+        <video:duration>542</video:duration>
+        <video:publication_date>2015-03-30T08:57:35.7334172+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/hybrid-cloud-workloads-sql-cht/01</loc>
+      <lastmod>2015-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f420/a1652132-9ae9-449a-b488-6c56e131f420/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01) Microsoft Azure SQL ]]></video:title>
+        <video:description><![CDATA[本課程將帶您了解 SQL Azure，它提供市場領先的資料庫、支援雲端資料管理和分析工具，這是一整套產品和技術，使用者可以充分利用雲端所具備的全部優勢。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f420/a1652132-9ae9-449a-b488-6c56e131f420/Mod1_mid.mp4</video:content_loc>
+        <video:duration>1004</video:duration>
+        <video:publication_date>2015-03-30T08:57:27.2744614+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

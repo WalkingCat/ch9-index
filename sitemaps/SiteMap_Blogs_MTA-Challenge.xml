@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MTA-Challenge</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MTA-Challenge/MTA-Student-Promo</loc>
+      <lastmod>2015-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3219/ad57ff41-2168-4123-990f-fa36d5d93219/MTAGT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MTA Student Promo]]></video:title>
+        <video:description><![CDATA[MTA CHALLENGE ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3219/ad57ff41-2168-4123-990f-fa36d5d93219/MTAGT_mid.mp4</video:content_loc>
+        <video:duration>51</video:duration>
+        <video:publication_date>2015-08-23T21:20:27.2334112+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

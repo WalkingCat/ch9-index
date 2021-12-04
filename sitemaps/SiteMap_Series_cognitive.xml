@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/cognitive</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cognitive/R</loc>
+      <lastmod>2017-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4611/765bc1e7-e9ee-4982-a9fe-a200bcfc4611/CognitiveR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CognitiveR]]></video:title>
+        <video:description><![CDATA[CognitiveR ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4611/765bc1e7-e9ee-4982-a9fe-a200bcfc4611/CognitiveR_mid.mp4</video:content_loc>
+        <video:duration>727</video:duration>
+        <video:publication_date>2017-02-09T08:52:35.3722956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cognitive/7mins-overview</loc>
+      <lastmod>2017-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/39a1/dbf3970b-6dec-4944-8988-48628c3039a1/CognitiveServices7mins_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Cognitive Services ]]></video:title>
+        <video:description><![CDATA[微軟希望讓每一名開發者都能夠構建聊天機器人應用，並在應用中運用上人工智能技術。通過微軟認知服務，你可以在你開發的應用中運用語音識別、語言識別、計算機視覺等多種類的人工智能技術，讓它具備豐富的機器學習能力。希望大家能夠感受到微軟認知服務的豐富多樣。未來的一切可能，取決於每一位開發者的想像。 在這短短的七分鐘影片裏面，運用簡單的舉例讓開發者瞭解未來的開發趨勢以及五大類的 API&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/39a1/dbf3970b-6dec-4944-8988-48628c3039a1/CognitiveServices7mins_mid.mp4</video:content_loc>
+        <video:duration>438</video:duration>
+        <video:publication_date>2017-01-25T17:12:12.8935456+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

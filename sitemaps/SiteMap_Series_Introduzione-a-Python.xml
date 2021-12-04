@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduzione-a-Python</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduzione-a-Python/Introduzione-a-Python-Video-4</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6b4/6f0f23f8-aadc-4268-bc1b-6bee71f1e6b4/Video4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduzione a Python - Video 4]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato nel corso MVA &amp;quot;Introduzione a Python&amp;quot; - Video 4 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6b4/6f0f23f8-aadc-4268-bc1b-6bee71f1e6b4/Video4_mid.mp4</video:content_loc>
+        <video:duration>3037</video:duration>
+        <video:publication_date>2015-02-19T15:27:19.1225542+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduzione-a-Python/Introduzione-a-Python-Video-3</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a16/f9d3a4bf-a8e1-43b0-a588-b37ba7e22a16/Video3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduzione a Python - Video 3]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato nel corso MVA &amp;quot;Introduzione a Python&amp;quot; - Video 3 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a16/f9d3a4bf-a8e1-43b0-a588-b37ba7e22a16/Video3_mid.mp4</video:content_loc>
+        <video:duration>2669</video:duration>
+        <video:publication_date>2015-02-19T15:27:15.1293235+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduzione-a-Python/Introduzione-a-Python-Video-2</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f73f/5458151a-b3d9-4d7a-b686-76cc03baf73f/Video2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduzione a Python - Video 2]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato nel corso MVA &amp;quot;Introduzione a Python&amp;quot; - Video 2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f73f/5458151a-b3d9-4d7a-b686-76cc03baf73f/Video2_mid.mp4</video:content_loc>
+        <video:duration>3969</video:duration>
+        <video:publication_date>2015-02-19T15:27:11.8022846+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduzione-a-Python/Introduzione-a-Python-Video-1</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c08/a707ded3-368e-44a2-b6ee-d39485fe0c08/Video1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduzione a Python - Video 1]]></video:title>
+        <video:description><![CDATA[Materiale utilizzato nel corso MVA &amp;quot;Introduzione a Python&amp;quot; - Video 1 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c08/a707ded3-368e-44a2-b6ee-d39485fe0c08/Video1_mid.mp4</video:content_loc>
+        <video:duration>2486</video:duration>
+        <video:publication_date>2015-02-19T15:27:08.0940593+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Understanding-MongoDB-with-Nuri-Halperin</loc>
+      <lastmod>2018-08-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7efb/687542c1-4d07-4bca-81f3-56ce56857efb/NuriMongoDB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding MongoDB with Nuri Halperin]]></video:title>
+        <video:description><![CDATA[MongoDB is a Document Oriented database that developers love. What is it about that makes it so useful? How does it differ from SQL or &amp;quot;traditional&amp;quot; databases? Use cases! Turns out it excels&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7efb/687542c1-4d07-4bca-81f3-56ce56857efb/NuriMongoDB_mid.mp4</video:content_loc>
+        <video:duration>1783</video:duration>
+        <video:publication_date>2017-09-12T20:48:43.6567926+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Why-Rust-is-Awesome-with-Carol-Nichols</loc>
+      <lastmod>2021-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aeb7/cd04e587-a366-4899-9b36-1af54879aeb7/CarolNicholsInterview_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why Rust is Awesome with Carol Nichols]]></video:title>
+        <video:description><![CDATA[Carol Nichols, a web developer, shares why her current language of choice is Rust. See why this new systems programming language that provides memory safety, static typing, no null pointers, a package&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aeb7/cd04e587-a366-4899-9b36-1af54879aeb7/CarolNicholsInterview_mid.mp4</video:content_loc>
+        <video:duration>1396</video:duration>
+        <video:publication_date>2017-03-06T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Catching-up-with-Jon-Skeet-at-CodeMash</loc>
+      <lastmod>2017-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/02f3/854d1f70-be5e-49e1-948c-e2733cb902f3/JonSkeetInterveiw_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Catching up with Jon Skeet at CodeMash]]></video:title>
+        <video:description><![CDATA[We caught up with Jon Skeet at CodeMash 2017, and talked about a wide variety of topics. Jon is obviously still active on Stack Overflow, and we discuss the aims of the site and what makes a great&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/02f3/854d1f70-be5e-49e1-948c-e2733cb902f3/JonSkeetInterveiw_mid.mp4</video:content_loc>
+        <video:duration>3553</video:duration>
+        <video:publication_date>2017-02-24T22:29:03.8095044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Build-a-JavaScript-Development-Environment-in-30-minutes</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc93/29bc6e71-e267-4e9f-b72a-eadfbfeacc93/JavaScriptDevelopment30minutes_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build a JavaScript Development Environment in 30 minutes]]></video:title>
+        <video:description><![CDATA[There’s a staggering number of decisions to make when setting up a JavaScript development environment. Let’s cut through the noise. In 30 minutes, we’ll run a single line of code to lint, bundle,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc93/29bc6e71-e267-4e9f-b72a-eadfbfeacc93/JavaScriptDevelopment30minutes_mid.mp4</video:content_loc>
+        <video:duration>2104</video:duration>
+        <video:publication_date>2017-02-21T19:15:09.8243734+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Understanding-Dates-Times-and-Time-Zones-with-Maggie-Pint-Matt-Johnson-and-Jon-Skeet-u</loc>
+      <lastmod>2017-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f0d9/571eec31-9654-41bd-b94b-68bee74ff0d9/DatesTimesandTimeZones_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Dates, Times, and Time Zones, with Maggie Pint, Matt Johnson, and Jon Skeet]]></video:title>
+        <video:description><![CDATA[Join Seth as he sits down at CodeMash with Maggie Pint, Matt Johnson, and Jon Skeet – three of the best time nerds you will ever meet!  This candid discussion covers several of the common mistakes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f0d9/571eec31-9654-41bd-b94b-68bee74ff0d9/DatesTimesandTimeZones_mid.mp4</video:content_loc>
+        <video:duration>2225</video:duration>
+        <video:publication_date>2017-02-21T19:15:01.1349502+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Why-Marten-Might-Be-Your-Next-Persistence-Tool</loc>
+      <lastmod>2017-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e43/ccb5ab26-8589-4399-949a-041996246e43/JeremyMillerInterview_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why Marten Might Be Your Next Persistence Tool]]></video:title>
+        <video:description><![CDATA[Marten” is a relatively new OSS project that enables .Net systems to treat the rock solid Postgresql database as a full fledged document database. Like NoSQL databases, but need then to be ACID&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e43/ccb5ab26-8589-4399-949a-041996246e43/JeremyMillerInterview_mid.mp4</video:content_loc>
+        <video:duration>999</video:duration>
+        <video:publication_date>2017-02-21T19:14:54.6674293+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Sara-Ford-Talks-about-GitHub</loc>
+      <lastmod>2017-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b60/6fe15e78-3a14-4275-b011-2085934f2b60/SaraFordInterview_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sara Ford Talks about GitHub]]></video:title>
+        <video:description><![CDATA[GitHub Tip of the Day series: https://saraford.net/ My CodeMash talk contents: 9 Things I learned about GitHub after becoming a GitHubber: https://github.com/saraford/9-things ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b60/6fe15e78-3a14-4275-b011-2085934f2b60/SaraFordInterview_mid.mp4</video:content_loc>
+        <video:duration>794</video:duration>
+        <video:publication_date>2017-02-21T19:14:42.4622654+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2017/Improving-software-responsiveness-and-scalability-with-Reactive-Programming-and-the-Actor-Model-usin</loc>
+      <lastmod>2017-03-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f30/43b03c9a-aa8a-4198-b54e-3f8d2fd45f30/TamirDresherInterview_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Improving software responsiveness and scalability with Reactive Programming and the Actor Model&amp;#8230;]]></video:title>
+        <video:description><![CDATA[While at CodeMash 2.0.1.7 we sat with Tamir Dresher who came all the way from Israel to speak at the conference about reactive programming and reactive systems. Tamir is the author of Rx.NET in Action&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f30/43b03c9a-aa8a-4198-b54e-3f8d2fd45f30/TamirDresherInterview_mid.mp4</video:content_loc>
+        <video:duration>1202</video:duration>
+        <video:publication_date>2017-02-21T19:14:35.4004853+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

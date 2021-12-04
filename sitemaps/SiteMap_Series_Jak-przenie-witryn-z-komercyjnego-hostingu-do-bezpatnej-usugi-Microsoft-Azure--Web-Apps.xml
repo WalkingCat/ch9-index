@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-przenie-witryn-z-komercyjnego-hostingu-do-bezpatnej-usugi-Microsoft-Azure--Web-Apps</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-przenie-witryn-z-komercyjnego-hostingu-do-bezpatnej-usugi-Microsoft-Azure--Web-Apps/01-Pobranie-zawartoci-aktualnej-witryny</loc>
+      <lastmod>2015-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c80/ac138fe3-faee-4635-b52f-614e80d48c80/pobranie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Pobranie zawartoci aktualnej witryny]]></video:title>
+        <video:description><![CDATA[W module pierwszym zostanie pokazane jak pobrać zawartość aktualnej witryny – pliki i bazy danych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c80/ac138fe3-faee-4635-b52f-614e80d48c80/pobranie_mid.mp4</video:content_loc>
+        <video:duration>890</video:duration>
+        <video:publication_date>2015-06-09T10:50:29.5891935+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-przenie-witryn-z-komercyjnego-hostingu-do-bezpatnej-usugi-Microsoft-Azure--Web-Apps/04-Wgranie-zawartoci-witryny-do-Azure-Web-Apps</loc>
+      <lastmod>2015-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a465/114935f5-8340-4ba1-b654-b9b1ca62a465/wgranie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Wgranie zawartoci witryny do Azure Web Apps]]></video:title>
+        <video:description><![CDATA[W module czwartym zostanie pokazane wgranie bazy danych do Azure WebApps, a także plik&#243;w witryny. Na koniec zostanie przeprowadzony test działania. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a465/114935f5-8340-4ba1-b654-b9b1ca62a465/wgranie_mid.mp4</video:content_loc>
+        <video:duration>380</video:duration>
+        <video:publication_date>2015-06-09T10:47:58.3319227+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-przenie-witryn-z-komercyjnego-hostingu-do-bezpatnej-usugi-Microsoft-Azure--Web-Apps/03-Konwersja-konfiguracji</loc>
+      <lastmod>2015-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83df/5fb56705-29cb-4fcf-9169-ae2d5d2683df/konwersja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Konwersja konfiguracji]]></video:title>
+        <video:description><![CDATA[W module trzecim zostanie pokazana konwersja konfiguracji. Przeniesienie na nowy serwer wiąże się ze zmianą adresu serwera bazy danych, użytkownika i ewentualnie domeny. Ten proces zostanie pokazany&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83df/5fb56705-29cb-4fcf-9169-ae2d5d2683df/konwersja_mid.mp4</video:content_loc>
+        <video:duration>651</video:duration>
+        <video:publication_date>2015-06-09T10:47:52.3085553+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-przenie-witryn-z-komercyjnego-hostingu-do-bezpatnej-usugi-Microsoft-Azure--Web-Apps/02-Uruchomienie-usugi-Web-Apps-w-Microsoft-Azure</loc>
+      <lastmod>2015-06-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db0f/ffcb2331-c549-4aef-b28c-34e175d9db0f/uruchomienie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Uruchomienie usugi Web Apps w Microsoft Azure]]></video:title>
+        <video:description><![CDATA[W module drugim zostanie zademonstrowane jak uruchomić usługę Web Apps w Microsoft Azure, od założenia konta po uruchomienie bazy danych oraz usług webowych w Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db0f/ffcb2331-c549-4aef-b28c-34e175d9db0f/uruchomienie_mid.mp4</video:content_loc>
+        <video:duration>1184</video:duration>
+        <video:publication_date>2015-06-09T10:47:40.6278028+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

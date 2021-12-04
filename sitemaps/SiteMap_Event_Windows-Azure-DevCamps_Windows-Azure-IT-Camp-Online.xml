@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Windows-Azure-IT-Camp-Online</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Windows-Azure-IT-Camp-Online/AzureCamps-2013-03</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e9e/21b2e613-cf2d-4411-886d-efbd5c475e9e/AzureCampPrt3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Virtual Networks &amp; Storage]]></video:title>
+        <video:description><![CDATA[ To create useful server environments, you need networks and storage. In this session, we&#39;ll cover the procedures required to create and manage both networks and storage in Windows Azure. Speakers:Dan&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e9e/21b2e613-cf2d-4411-886d-efbd5c475e9e/AzureCampPrt3_mid.mp4</video:content_loc>
+        <video:duration>2859</video:duration>
+        <video:publication_date>2013-11-16T02:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Windows-Azure-IT-Camp-Online/AzureCamp-2013-02</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89e3/b29e0d48-6204-4867-bd18-47d5ca9289e3/AzureCamp02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Virtual Machines]]></video:title>
+        <video:description><![CDATA[ Next up, we&#39;ll examine Microsoft&#39;s Virtual Machine offering in Windows Azure. We&#39;ll look at the supported operating systems and what it takes to provision those servers. Speaker: Brian Lewis, Sr.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89e3/b29e0d48-6204-4867-bd18-47d5ca9289e3/AzureCamp02_mid.mp4</video:content_loc>
+        <video:duration>2488</video:duration>
+        <video:publication_date>2013-11-16T02:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/Windows-Azure-IT-Camp-Online/AzureCamp-2013-01</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab00/8421f108-a25b-4ada-9a31-629f2018ab00/AzurePrt1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Windows Azure]]></video:title>
+        <video:description><![CDATA[We&#39;ll kick the day off with an overview of the Windows Azure cloud offering and discuss its benefits over traditional on-premise solutions. Speaker: Dan Stolts, Sr. Technical Evangelist, MicrosoftMore&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab00/8421f108-a25b-4ada-9a31-629f2018ab00/AzurePrt1_mid.mp4</video:content_loc>
+        <video:duration>3361</video:duration>
+        <video:publication_date>2013-11-16T02:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

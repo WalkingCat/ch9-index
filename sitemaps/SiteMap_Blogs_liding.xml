@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/liding</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/liding/498744</loc>
+      <lastmod>2011-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/4/7/8/9/4/ConsoleCHCPInCHS_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[在提示符窗口下, 大部分命令都是中文输出.  但是有时侯用户想看英文输出. 用户可以在提示符窗口下输入chcp 437, 然后回车, 再运行你的命令, 用户就可以看见输出是英文.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/4/7/8/9/4/ConsoleCHCPInCHS_ch9.mp4</video:content_loc>
+        <video:duration>91</video:duration>
+        <video:publication_date>2009-10-20T00:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/liding/498482</loc>
+      <lastmod>2011-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/220/498482_220x165.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ windows Vista / 7 ]]></video:title>
+        <video:description><![CDATA[输入中文需要用IME(Input Method Editors). 我在这里教你如何打开IME, 如何用IME输入中文. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/3/7/8/9/4/TESTabc_ch9.mp4</video:content_loc>
+        <video:publication_date>2009-10-14T01:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

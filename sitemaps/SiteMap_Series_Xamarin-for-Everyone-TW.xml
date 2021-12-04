@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-for-Everyone-TW</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-for-Everyone-TW/UIset</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0795/71649e15-7125-4204-be73-3278605b0795/XamarinForms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Xamarin.Forms  UI ]]></video:title>
+        <video:description><![CDATA[如果是一個對於 Mobile App 的開發是沒有任何平台客制化的顧慮時，希望對於各個平台的 UI 設計只要設計一次，就可以在各個平台上產出 Mobile App，並且又希望產出的 Mobile App 的執行效果可以順暢無礙，然後因為 Windows 10 的市佔率越來越高，所以最好寫出來的 App 同時也可以有 UWP App 的產出。那 Xamarin.Forms&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0795/71649e15-7125-4204-be73-3278605b0795/XamarinForms_mid.mp4</video:content_loc>
+        <video:duration>1822</video:duration>
+        <video:publication_date>2016-09-21T02:37:21.6890731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-for-Everyone-TW/VS-emulator-add-cht</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5eb4/88ed414a-1cc4-477c-a831-b2ee02f45eb4/cht_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio Emulator for Android  ]]></video:title>
+        <video:description><![CDATA[在前述一篇如何在 Visual Studio Emulator for Android 中使用 Google Play Services 並切換成中文語系環境的介紹當中，知道如何將Visual Studio Emulator for Android的環境切換成中文語系後，如果內建的輸入法不夠用時該怎麼辦?就按照本篇的文章來了解如何增加新的輸入法(以注音為例)。 &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5eb4/88ed414a-1cc4-477c-a831-b2ee02f45eb4/cht_mid.mp4</video:content_loc>
+        <video:duration>466</video:duration>
+        <video:publication_date>2016-06-14T09:21:35.5445943+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-for-Everyone-TW/VS-Emulator-cht</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ffa/4e900c39-2592-42d7-8526-99223c0c2ffa/changecht_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio Emulator for Android  Google Play Services ]]></video:title>
+        <video:description><![CDATA[之前介紹了如何安裝Microsoft Visual Studio Emulator for Android，但緊接而來的問題是，很多App要開發時都會用到Google Play Services，但在Microsoft Visual Studio Emulator for Android的模擬器預設是沒有辦法使用Google Play&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ffa/4e900c39-2592-42d7-8526-99223c0c2ffa/changecht_mid.mp4</video:content_loc>
+        <video:duration>578</video:duration>
+        <video:publication_date>2016-06-02T10:02:11.3580822+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-for-Everyone-TW/VS-settup</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/a15ef41b-9cc9-4956-a831-7c98119715e1.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio 2015 Update 2  Xamarin ]]></video:title>
+        <video:description><![CDATA[此系列課程由 MVP James 主講。 //Build/ 2016 當中微軟宣布 Xamarin 免費開放給所有 Visual Studio 開發者使用，Visual Studio 2015 當中，就已經有內建最新與最完整的 Xamarin 安裝，不論是 Mac 或是 Windows 開發人員都能藉由不同版本的 Visual Studio 得到跨平台行動開發最完整的體驗。 如果是一個對於&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/21cc/51f6ae51-2ca6-480d-a3b7-e852b1d221cc/02_mid.mp4</video:content_loc>
+        <video:duration>694</video:duration>
+        <video:publication_date>2016-05-16T03:08:42.7913725+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-for-Everyone-TW/-Microsoft-Visual-Studio-Emulator-for-Android</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/2ddb63f3-986e-41db-bb8b-5fcef324cfd7.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Microsoft Visual Studio Emulator for Android]]></video:title>
+        <video:description><![CDATA[此系列課程由 MVP James 主講。 對於開發 Android App 的開發人員來說，Visual Studio Emulator for Android 真的是一個不可多得的 Android 模擬器利器。身為一個 .NET 開發人員，想必常需要用到 Hyper-V 這個虛擬化技術做一些軟體與系統上的測試。為了跑 Android Emulator 就必須把 Hyper-V&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b1e/71daec0b-0a4e-4dd2-a712-785ce49f2b1e/01_mid.mp4</video:content_loc>
+        <video:duration>574</video:duration>
+        <video:publication_date>2016-05-13T08:43:33.9328277+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-a-ASPNET-5</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-a-ASPNET-5/01-ASPNET-5-la-rvolution</loc>
+      <lastmod>2015-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/019b/72aadb3c-9d22-4c54-b0fe-1133e130019b/ASPNET5LAREVOLUTION_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - ASP.NET 5, la r&#233;volution]]></video:title>
+        <video:description><![CDATA[Dans ce module, nous rappellerons l&#39;historique d&#39;ASP.NET qui va bient&#244;t avoir 15 ans ! Cet historique est important pour comprendre le contexte et les grands principes fondateurs d&#39;ASP.NET 5. Nous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/019b/72aadb3c-9d22-4c54-b0fe-1133e130019b/ASPNET5LAREVOLUTION_mid.mp4</video:content_loc>
+        <video:duration>2880</video:duration>
+        <video:publication_date>2015-07-15T13:08:14.4508713+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-a-ASPNET-5/02-Les-nouveauts-MVC-6</loc>
+      <lastmod>2015-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9056/b07b54d8-e36f-48ea-89b3-be0d39c99056/LesnouveautesMVC6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - Les nouveaut&#233;s MVC 6]]></video:title>
+        <video:description><![CDATA[Dans ASP.NET 5, le Framework MVC &#233;volue et propose des nouveaut&#233;s int&#233;ressantes comme des am&#233;liorations dans le syst&#232;me de routing, la consolidation avec le Framework Web API ou encore les Tag&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9056/b07b54d8-e36f-48ea-89b3-be0d39c99056/LesnouveautesMVC6_mid.mp4</video:content_loc>
+        <video:duration>2128</video:duration>
+        <video:publication_date>2015-07-15T13:08:07.6109613+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-a-ASPNET-5/03-DNX-le-nouvel-environnement-dexcution-de-NET</loc>
+      <lastmod>2015-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fd0/42a6d282-fd65-41a6-b087-c376330a5fd0/DNXlenouvelenvironnementdexecutiondeNET_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 - DNX, le nouvel environnement d&#39;ex&#233;cution de .NET]]></video:title>
+        <video:description><![CDATA[Pour qu&#39;ASP.NET 5 soit Cross-Platform, un nouvel environnement d&#39;ex&#233;cution ind&#233;pendant de Windows et d&#39;IIS a d&#251; &#234;tre cr&#233;&#233;. Apr&#232;s avoir pr&#233;sent&#233; la th&#233;orie derri&#232;re ce nouveau mode d&#39;ex&#233;cution, Rui&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fd0/42a6d282-fd65-41a6-b087-c376330a5fd0/DNXlenouvelenvironnementdexecutiondeNET_mid.mp4</video:content_loc>
+        <video:duration>2711</video:duration>
+        <video:publication_date>2015-07-15T13:07:59.3507730+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-a-ASPNET-5/04-Entity-Framework-7</loc>
+      <lastmod>2015-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/14b6/ee1474ec-c911-4c84-a31d-90034f7a14b6/Entityframework7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 - Entity Framework 7]]></video:title>
+        <video:description><![CDATA[En parall&#232;le d&#39;ASP.NET 5, c&#39;est une nouvelle version d&#39;Entity Framework qui nous est propos&#233;e. Cette nouvelle version fait table rase du pass&#233;, en gardant le meilleur des versions pr&#233;c&#233;dentes et en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/14b6/ee1474ec-c911-4c84-a31d-90034f7a14b6/Entityframework7_mid.mp4</video:content_loc>
+        <video:duration>2241</video:duration>
+        <video:publication_date>2015-07-15T13:07:45.9837690+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

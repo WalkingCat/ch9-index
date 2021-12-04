@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-CN</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-CN/Alaska-Airlines-with-VSTS-and-Xamarin</loc>
+      <lastmod>2017-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/31be/f5957c52-ea02-4260-8c2e-9b0d82de31be/AlaskaAirlineXamarinVSTS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Xamarin  VSTS  DevOps]]></video:title>
+        <video:description><![CDATA[身处在以&amp;quot;移动为先、云为先&amp;quot;为首要目标的道路上，阿拉斯加航空除了要带给客户移动体验之外，也同时注重实现内部员工移动方案。他们的开发团队都已迁移到 Visual Studio Team Services研发云，以实践持续集成以及持续部署。为了加速推进客户服务，阿拉斯加航空更采用 Xamarin 技术，让 C# 开发人员可以在&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/31be/f5957c52-ea02-4260-8c2e-9b0d82de31be/AlaskaAirlineXamarinVSTS_mid.mp4</video:content_loc>
+        <video:duration>121</video:duration>
+        <video:publication_date>2017-05-10T02:35:33.7013205+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-CN/British-Airline-visual-studio-2017</loc>
+      <lastmod>2017-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a34f/342e19e4-b5a1-4e54-b2f9-00fca11aa34f/bavs2017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio 2017 Xamarin  Azure  BA4You app]]></video:title>
+        <video:description><![CDATA[英国航空采用 Visual Studio 2017，搭配 Xamarin 与微软 Azure 云与数据服务，为全球员工所使用各式各样的移动装置，提供全新的 BA4You app。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a34f/342e19e4-b5a1-4e54-b2f9-00fca11aa34f/bavs2017_mid.mp4</video:content_loc>
+        <video:duration>118</video:duration>
+        <video:publication_date>2017-03-15T07:57:57.2625815+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-CN/Huawei-visual-studio-2017</loc>
+      <lastmod>2017-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/273a/d60286b3-6ece-46d1-bb91-7fc67068273a/huaweivs2017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio 2017 Linux ]]></video:title>
+        <video:description><![CDATA[华为运用 Visual Studio 2017，迅速提升他们在 Linux 平台上的开发生产力，帮助他们为全世界的人们提供更好的通信网络，连结彼此。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/273a/d60286b3-6ece-46d1-bb91-7fc67068273a/huaweivs2017_mid.mp4</video:content_loc>
+        <video:duration>131</video:duration>
+        <video:publication_date>2017-03-15T07:54:28.5463980+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-Xamarin</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e7c/27a933b8-a11b-4b2f-97d1-b6f361ef2e7c/PartnerSpotlightXamarin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: Xamarin]]></video:title>
+        <video:description><![CDATA[Xamarin&#39;s mission is to make it fast, easy and fun for developers to build amazing, native mobile apps using C#. Xamarin&#39;s cross-platform, mobile app development software allows developers to use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e7c/27a933b8-a11b-4b2f-97d1-b6f361ef2e7c/PartnerSpotlightXamarin_mid.mp4</video:content_loc>
+        <video:duration>328</video:duration>
+        <video:publication_date>2013-01-10T17:48:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-Tasktop</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/796f/39305e0f-223d-478a-b818-9d28bd47796f/PartnerSpotlightTaskTop_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: Tasktop]]></video:title>
+        <video:description><![CDATA[Tasktop Sync provides the only enterprise-scale ALM synchronization solution built on the industry-standard Eclipse Mylyn ALM integration framework. Unlike previous approaches to ALM synchronization,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/796f/39305e0f-223d-478a-b818-9d28bd47796f/PartnerSpotlightTaskTop_mid.mp4</video:content_loc>
+        <video:duration>152</video:duration>
+        <video:publication_date>2013-01-10T10:37:52.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-Sela-Software</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8099/c8d86852-b05e-4408-900f-3043e90d8099/PartnerSpotlightSelaSoftware_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: Sela Software]]></video:title>
+        <video:description><![CDATA[Sela&#39;s SCRAT tool automatically converts existing HP Quality Center items to Team Foundation Server 2012. The migration is a fully automated and customizable, and accurately converts all of the QC&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8099/c8d86852-b05e-4408-900f-3043e90d8099/PartnerSpotlightSelaSoftware_mid.mp4</video:content_loc>
+        <video:duration>133</video:duration>
+        <video:publication_date>2013-01-10T10:37:50.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-PreEmptive-Solutions</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/29e2/751762e5-0db8-4343-a252-c43258c229e2/PartnerSpotlightIPreEmptiveSolutions_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: PreEmptive Solutions]]></video:title>
+        <video:description><![CDATA[PreEmptive Solutions&#39; provides an integrated application monitoring, analytics and protection platform. Our products help development teams in two primary ways. Dotfuscator helps organizations secure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29e2/751762e5-0db8-4343-a252-c43258c229e2/PartnerSpotlightIPreEmptiveSolutions_mid.mp4</video:content_loc>
+        <video:duration>188</video:duration>
+        <video:publication_date>2013-01-10T10:37:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-OpsHub</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4cc2/6cb9940c-5ca1-4dfc-a481-bbdaeff64cc2/PartnerSpotlightIOpsHub_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: OpsHub]]></video:title>
+        <video:description><![CDATA[OpsHub, Inc. delivers application lifecycle management (ALM) migration, integration, collaboration, and analytical solutions for application development organizations that want to improve their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4cc2/6cb9940c-5ca1-4dfc-a481-bbdaeff64cc2/PartnerSpotlightIOpsHub_mid.mp4</video:content_loc>
+        <video:duration>197</video:duration>
+        <video:publication_date>2013-01-10T10:37:45.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-InCycle</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7530/77d7907e-c195-4a73-be82-bceddcc77530/PartnerSpotlightInCycle_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: InCycle]]></video:title>
+        <video:description><![CDATA[InCycle is the producer of InRelease (inreleasesoftware.com), a continuous deployment solution for .NET teams that makes release cycles repeatable, visible and more efficient. InRelease automates&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7530/77d7907e-c195-4a73-be82-bceddcc77530/PartnerSpotlightInCycle_mid.mp4</video:content_loc>
+        <video:duration>260</video:duration>
+        <video:publication_date>2013-01-10T10:37:41.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-LogiGear</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f3c/0218913c-9838-4132-b95e-a810ea0b5f3c/PartnerSpotlightLogiGear_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: LogiGear]]></video:title>
+        <video:description><![CDATA[LogiGear provides software testing and test automation to help software development organizations deliver better software. TestArchitect for Visual Studio is a modern module-based, keyword-driven&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f3c/0218913c-9838-4132-b95e-a810ea0b5f3c/PartnerSpotlightLogiGear_mid.mp4</video:content_loc>
+        <video:duration>173</video:duration>
+        <video:publication_date>2013-01-10T10:37:38.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-eDev</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0dfc/e730ac80-6fe6-404d-945f-71e76f870dfc/PartnerSpotlighteDev_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: eDev]]></video:title>
+        <video:description><![CDATA[eDev is the creator of inteGREAT, a modern Requirements Lifecycle platform that uses TFS 2012 as its application server; , in house or via TFS Services . Headquartered in Toronto Canada, and supported&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0dfc/e730ac80-6fe6-404d-945f-71e76f870dfc/PartnerSpotlighteDev_mid.mp4</video:content_loc>
+        <video:duration>223</video:duration>
+        <video:publication_date>2013-01-10T10:37:34.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-CloudShare</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/000c/b1105ff4-b736-4071-9693-6d358e29000c/PartnerSpotlightCloudShare_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: CloudShare]]></video:title>
+        <video:description><![CDATA[CloudShare is a cloud computing company that provides an amazingly flexible and easy to use cloud-computing platform for developing and testing IT applications, software and systems. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/000c/b1105ff4-b736-4071-9693-6d358e29000c/PartnerSpotlightCloudShare_mid.mp4</video:content_loc>
+        <video:duration>190</video:duration>
+        <video:publication_date>2013-01-10T10:37:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-Synergex</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6db/c7c28ae9-5014-4088-9a7b-1f47a83ee6db/PartnerSpotlightSynergex_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: Synergex]]></video:title>
+        <video:description><![CDATA[Synergex technologies are at the foundation of many of the business applications that drive commerce around the world. Every day, over a million users interact with systems in e-commerce, global&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6db/c7c28ae9-5014-4088-9a7b-1f47a83ee6db/PartnerSpotlightSynergex_mid.mp4</video:content_loc>
+        <video:duration>233</video:duration>
+        <video:publication_date>2013-01-10T10:36:17.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-Telerik</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d8b1/b0936a40-0324-4920-9054-d02d6ab1d8b1/PartnerSpotlightTelerik_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: Telerik]]></video:title>
+        <video:description><![CDATA[Telerik is a market-leading provider of end-to-end solutions for application development, automated testing, agile project management, reporting, and content management across all major Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d8b1/b0936a40-0324-4920-9054-d02d6ab1d8b1/PartnerSpotlightTelerik_mid.mp4</video:content_loc>
+        <video:duration>229</video:duration>
+        <video:publication_date>2013-01-10T10:36:13.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-ITR-Mobility</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5621/248169d3-6a61-4a56-b1f1-1e75339e5621/PartnerSpotlightITRMobility_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: ITR Mobility]]></video:title>
+        <video:description><![CDATA[ITR mobility&#39;s enterprise mobile development frameworks allow organizations to leverage existing IT investments and &amp;quot;future-proof&amp;quot; application development by standardizing on C#.NET and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5621/248169d3-6a61-4a56-b1f1-1e75339e5621/PartnerSpotlightITRMobility_mid.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2013-01-10T10:36:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-DevExpress</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8122/8f84fa84-693a-4848-ad2b-dda046aa8122/PartnerSpotlightDevExpress_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: DevExpress]]></video:title>
+        <video:description><![CDATA[Build Your Best - Without Limits or Compromise DevExpress engineers feature-complete Presentation Components, Reporting Systems, IDE, Productivity Tools and Buisiness Application Frameworks for Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8122/8f84fa84-693a-4848-ad2b-dda046aa8122/PartnerSpotlightDevExpress_mid.mp4</video:content_loc>
+        <video:duration>210</video:duration>
+        <video:publication_date>2013-01-10T10:35:59.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-ComponentOne</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/840a/8da301fe-48d5-48ab-be2f-3c9e5e02840a/PartnerSpotlightComponentOne_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: ComponentOne]]></video:title>
+        <video:description><![CDATA[ComponentOne, a division of GrapeCity, is a leader in the Microsoft Visual Studio component industry and is a premiere partner of Microsoft. At ComponentOne, we believe the key to successful&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/840a/8da301fe-48d5-48ab-be2f-3c9e5e02840a/PartnerSpotlightComponentOne_mid.mp4</video:content_loc>
+        <video:duration>237</video:duration>
+        <video:publication_date>2013-01-10T10:35:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Partner-Spotlight-AT-T</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8756/aaec1854-6368-4d3f-92cd-ea6058a08756/PartnerSpotlightATT_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Spotlight: AT&amp;T]]></video:title>
+        <video:description><![CDATA[The Microsoft Visual Studio extensions for AT&amp;amp;T API Platform allow developers to easily invoke the A&amp;amp;T APIs, including Speech and Messaging. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8756/aaec1854-6368-4d3f-92cd-ea6058a08756/PartnerSpotlightATT_mid.mp4</video:content_loc>
+        <video:duration>147</video:duration>
+        <video:publication_date>2013-01-10T10:35:51.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Tracking-software-quality-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cde7/99be3bba-d378-404c-8dc6-54517900cde7/KellerTrackSwQuality_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tracking software quality with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Visual Studio 2012 offers many ways for you to track the software quality of your project from idea to deployment. This video will review just a few of the ways that using Visual Studio 2012 and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cde7/99be3bba-d378-404c-8dc6-54517900cde7/KellerTrackSwQuality_mid.mp4</video:content_loc>
+        <video:duration>465</video:duration>
+        <video:publication_date>2013-01-10T10:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Automated-build-deploy-test-workflows-using-Lab-Management-in-Visual-Studio</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1117/fe3d6731-c27c-437e-a017-aa6b84901117/KellerLabMgmt_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Automated build-deploy-test workflows using Lab Management in Visual Studio]]></video:title>
+        <video:description><![CDATA[One of the biggest challenges to testing a modern software application is creating a working test environment, which simulates the production environment where the software will eventually be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1117/fe3d6731-c27c-437e-a017-aa6b84901117/KellerLabMgmt_mid.mp4</video:content_loc>
+        <video:duration>600</video:duration>
+        <video:publication_date>2013-01-10T10:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Automated-UI-testing-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f5e8/24653373-c939-4ab9-a42e-71b61e01f5e8/KellerAutoUITest_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Automated UI testing with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[As test cases and the underlying application being tested mature, you may want to convert manual tests into fully automated user interface tests. These tests can be run without manual intervention and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f5e8/24653373-c939-4ab9-a42e-71b61e01f5e8/KellerAutoUITest_mid.mp4</video:content_loc>
+        <video:duration>519</video:duration>
+        <video:publication_date>2013-01-10T10:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Formal-and-exploratory-testing-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/64d5/2610728a-5fc8-47f2-8ffa-b4e8d13864d5/KellerFormalExploratory_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Formal and exploratory testing with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Formal test case management enables testing teams to conduct their testing in a top-down manner by carefully documenting test cases, which map to the requirements being implemented by the development&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/64d5/2610728a-5fc8-47f2-8ffa-b4e8d13864d5/KellerFormalExploratory_mid.mp4</video:content_loc>
+        <video:duration>592</video:duration>
+        <video:publication_date>2013-01-10T10:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Introduction-to-software-testing-with-Visual-Studio-2012</loc>
+      <lastmod>2018-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/63de/f8edabaa-db4d-4c5d-acfd-efe340a263de/KellerTestingIntro_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to software testing with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Microsoft Test Manager, a member of the Visual Studio 2012 product family, is a tool, which was built from the ground up to support the unique needs of manual testers. It is a first-class tool for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63de/f8edabaa-db4d-4c5d-acfd-efe340a263de/KellerTestingIntro_mid.mp4</video:content_loc>
+        <video:duration>417</video:duration>
+        <video:publication_date>2013-01-10T10:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/DevOps-with-System-Center-and-Visual-Studio</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be77/0b2eeed3-7c3f-4ca2-ac00-ce34098abe77/GorbenkoUdezueDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps with System Center and Visual Studio]]></video:title>
+        <video:description><![CDATA[Developers and Operations engineers are increasingly working closer together to maintain always on services.  See how Visual Studio 2012 with System Center 2012 give developers and operations the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be77/0b2eeed3-7c3f-4ca2-ac00-ce34098abe77/GorbenkoUdezueDevOps_mid.mp4</video:content_loc>
+        <video:duration>833</video:duration>
+        <video:publication_date>2013-01-10T10:32:28.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Build-engaging-connected-Windows-8-Store-apps-in-minutes-with-Windows-Azure</loc>
+      <lastmod>2016-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e767/67247ee2-01b8-42df-affa-b0ad9692e767/TwistAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build engaging, connected Windows 8 Store apps in minutes with Windows Azure]]></video:title>
+        <video:description><![CDATA[The best apps need cloud services. Join this session to see how you can leverage Visual Studio 2012 and Windows Azure Mobile Services to add structured storage, integrated authentication, and even&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e767/67247ee2-01b8-42df-affa-b0ad9692e767/TwistAzure_mid.mp4</video:content_loc>
+        <video:duration>849</video:duration>
+        <video:publication_date>2013-01-10T10:32:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Taking-ALM-to-the-Cloud-A-lap-around-the-Team-Foundation-Service</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b844/41fd6ad9-c633-47cb-bc38-fbd28220b844/BjorkTFService_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking ALM to the Cloud - A lap around the Team Foundation Service]]></video:title>
+        <video:description><![CDATA[Take a quick tour of the new Team Foundation Service, a cloud-based ALM solution. Learn how you and your team can easily manage your code base, prioritize work, and seamlessly connect through Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b844/41fd6ad9-c633-47cb-bc38-fbd28220b844/BjorkTFService_mid.mp4</video:content_loc>
+        <video:duration>481</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Reducing-mean-time-to-repair-in-production-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d3bb/c22c0f92-5fe2-4bb4-96ad-3bfd3641d3bb/KellerMTTR_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reducing mean time to repair in production with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[As software developers, our job isn&#39;t done the moment we hand off a release to operations. When things go bump in the night, we should expect a phone call. But diagnosing issues in production is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d3bb/c22c0f92-5fe2-4bb4-96ad-3bfd3641d3bb/KellerMTTR_mid.mp4</video:content_loc>
+        <video:duration>469</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Developer-testing-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/faac/7c52f335-398c-4b69-8792-bc6ecd68faac/ProvostDevTesting_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer testing with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[From the ground up, the developer testing experience in Visual Studio 2012 was designed to allow developers to focus on their code and avoid unnecessary distractions. Test Explorer is now easily&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/faac/7c52f335-398c-4b69-8792-bc6ecd68faac/ProvostDevTesting_mid.mp4</video:content_loc>
+        <video:duration>533</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Agile-development-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f6f/ff22484a-4fc4-41c9-9166-fe9dafb49f6f/KellerAgileDev_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Agile development with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[We all want to &amp;quot;be more agile,&amp;quot; but this can introduce challenges to the way we collaborate as developers. Context switching is expensive; interruptions are distracting; it can be difficult&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f6f/ff22484a-4fc4-41c9-9166-fe9dafb49f6f/KellerAgileDev_mid.mp4</video:content_loc>
+        <video:duration>467</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Agile-planning-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1154/06867abc-f7d2-44d3-8f5c-b08dbc4d1154/BjorkAgilePlanning_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Agile planning with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[In this session, we can see how Visual Studio 2012 and Team Foundation Server 2012 support Agile practices, including storyboarding, backlog management, sprint planning, and actionable feedback. Find&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1154/06867abc-f7d2-44d3-8f5c-b08dbc4d1154/BjorkAgilePlanning_mid.mp4</video:content_loc>
+        <video:duration>481</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Creating-Windows-Store-apps-using-C-and-DirectX</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4da8/85fe5dbf-3d1f-485f-bc17-3432d3ff4da8/LeafCPPDirectX_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Store apps using C++ and DirectX]]></video:title>
+        <video:description><![CDATA[It is increasingly more common to see user interfaces for modern apps that are graphically intensive. Whether you are creating an interactive UI for a Windows Store app or a 3D game, having the right&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4da8/85fe5dbf-3d1f-485f-bc17-3432d3ff4da8/LeafCPPDirectX_mid.mp4</video:content_loc>
+        <video:duration>536</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Creating-Windows-Store-apps-using-C-and-XAML</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ef12/610dd73b-f2bd-4574-a200-5b7c9cd8ef12/ContentiSharmaCPPXAML_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Store apps using C++ and XAML]]></video:title>
+        <video:description><![CDATA[The new Windows Store apps that are built using C&amp;#43;&amp;#43; form a key pillar in the context of modern app development. This is especially important when you want to create the best quality and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef12/610dd73b-f2bd-4574-a200-5b7c9cd8ef12/ContentiSharmaCPPXAML_mid.mp4</video:content_loc>
+        <video:duration>565</video:duration>
+        <video:publication_date>2013-01-10T10:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Dev-tips-for-building-the-best-Windows-Store-app-with-JavaScript-using-Visual-Studio</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e40/6f153db7-dafe-4f5d-b9f3-15844ff79e40/FisherJavaScript_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dev tips for building the best Windows Store app with JavaScript using Visual Studio]]></video:title>
+        <video:description><![CDATA[This session takes you through the new tools available in Visual Studio 2012 for building Windows Store Apps with JavaScript and HTML. Whether you are an experienced web developer or new to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e40/6f153db7-dafe-4f5d-b9f3-15844ff79e40/FisherJavaScript_mid.mp4</video:content_loc>
+        <video:duration>465</video:duration>
+        <video:publication_date>2013-01-10T10:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Creating-HTML5-apps-with-Blend-for-Visual-Studio</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/71fb/31608b47-e215-4d30-8809-7a7c09e071fb/SaltwellHTML5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating HTML5 apps with Blend for Visual Studio]]></video:title>
+        <video:description><![CDATA[The new Windows Store apps that are built using HTML5/CSS3 UI form a key pillar in the context of modern app development. You can now leverage your HTML and web apps knowledge in order to create&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71fb/31608b47-e215-4d30-8809-7a7c09e071fb/SaltwellHTML5_mid.mp4</video:content_loc>
+        <video:duration>734</video:duration>
+        <video:publication_date>2013-01-10T10:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Using-Visual-Studio-2012-to-build-a-Windows-Store-app-using-HTML-and-JavaScript</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/391a/978f0df0-5f09-45e4-9a76-b288836e391a/MatthiesenHTMLJS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Visual Studio 2012 to build a Windows Store app using HTML and JavaScript]]></video:title>
+        <video:description><![CDATA[Customers want rich, new experiences for work, play, and entertainment. Visual Studio 2012 and Windows 8 have the answer. Take a tour through the tools you can use in Visual Studio to design, develop,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/391a/978f0df0-5f09-45e4-9a76-b288836e391a/MatthiesenHTMLJS_mid.mp4</video:content_loc>
+        <video:duration>740</video:duration>
+        <video:publication_date>2013-01-10T10:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Authoring-XAML-Windows-Store-apps-in-Visual-Studio-2012-and-Blend</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7acb/4f830457-167c-4c2e-86bc-c51640ed7acb/MasonXAML_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Authoring XAML Windows Store apps in Visual Studio 2012 and Blend]]></video:title>
+        <video:description><![CDATA[The new Windows Store apps built using the XAML UI form a key pillar in the context of modern app development. You can now leverage your XAML skills (based on experience with WPF &amp;amp; Silverlight) to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7acb/4f830457-167c-4c2e-86bc-c51640ed7acb/MasonXAML_mid.mp4</video:content_loc>
+        <video:duration>545</video:duration>
+        <video:publication_date>2013-01-10T10:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Getting-started-with-ASP-NET-Web-API-in-ASP-NET-MVC-4</loc>
+      <lastmod>2015-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4ec0/92fc3392-3049-423d-a66d-6adb7c344ec0/RothASPNET_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with ASP.NET Web API in ASP.NET MVC 4]]></video:title>
+        <video:description><![CDATA[The last few years have seen the rise of Web APIs - services exposed over plain HTTP rather than through a more formal service contract (like SOAP or WS*). ASP.NET Web API is the new framework that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ec0/92fc3392-3049-423d-a66d-6adb7c344ec0/RothASPNET_mid.mp4</video:content_loc>
+        <video:duration>614</video:duration>
+        <video:publication_date>2013-01-10T10:30:29.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Developing-XAML-apps-for-the-Windows-Store</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b322/077fdae4-8040-4385-9f8d-5ea25fe3b322/HeuerXAML_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing XAML apps for the Windows Store]]></video:title>
+        <video:description><![CDATA[Take a quick tour of how simple and familiar it is to use the XAML UI framework and Visual Studio to build apps for the Windows Store.  See the development experience of being able to visually design&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b322/077fdae4-8040-4385-9f8d-5ea25fe3b322/HeuerXAML_mid.mp4</video:content_loc>
+        <video:duration>542</video:duration>
+        <video:publication_date>2013-01-10T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Publishing-ASP-NET-applications-and-databases-to-the-Cloud-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d84/3ef91ad1-f94c-4c39-986a-a97afabb8d84/HashimiASPNET_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publishing ASP.NET applications and databases to the Cloud with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Taking your ASP.NET app to the cloud has gotten even easier. While, Visual Studio 2010 included the introduction of the web publish dialog, in Visual Studio 2012 this capability has been significantly&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d84/3ef91ad1-f94c-4c39-986a-a97afabb8d84/HashimiASPNET_mid.mp4</video:content_loc>
+        <video:duration>822</video:duration>
+        <video:publication_date>2013-01-10T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Developing-Windows-Azure-Cloud-Services-using-Visual-Studio-2012</loc>
+      <lastmod>2020-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d53/8c8654fe-83e1-4059-9749-272b23625d53/YuknewiczSrivastavaAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Windows Azure Cloud Services using Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Looking for the best way to evolve your app to take advantage of the cloud?  Visual Studio 2012 and the Windows Azure SDK for .NET provide the solution that you need to create Cloud Services while&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d53/8c8654fe-83e1-4059-9749-272b23625d53/YuknewiczSrivastavaAzure_mid.mp4</video:content_loc>
+        <video:duration>836</video:duration>
+        <video:publication_date>2013-01-10T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Edit-your-ASP-NET-code-on-the-fly-with-Page-Inspector</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c8a/aac547c8-cb11-47db-adad-270741a77c8a/GabuardiPageInspector_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Edit your ASP.NET code on the fly with Page Inspector]]></video:title>
+        <video:description><![CDATA[Debugging websites between a client and a server is difficult. Page Inspector is a new tool that brings browser diagnostics tools into Visual Studio and provides an integrated experience across the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c8a/aac547c8-cb11-47db-adad-270741a77c8a/GabuardiPageInspector_mid.mp4</video:content_loc>
+        <video:duration>467</video:duration>
+        <video:publication_date>2013-01-10T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Build-high-performing-HTML-5-applications-easily-with-ASP-NET-4-5</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8833/550c1c95-31a3-4465-b2c5-4470df908833/DierkingHTML5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build high-performing HTML 5 applications easily with ASP.NET 4.5]]></video:title>
+        <video:description><![CDATA[HTML 5 makes it easier than ever to write more expressive, compact markup. With ASP.NET 4.5 Web optimization, you can further improve the overall performance of your HTML site by taking advantage of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8833/550c1c95-31a3-4465-b2c5-4470df908833/DierkingHTML5_mid.mp4</video:content_loc>
+        <video:duration>608</video:duration>
+        <video:publication_date>2013-01-10T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/ASP-NET-and-the-Mobile-Web</loc>
+      <lastmod>2015-11-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4404/2b0ffef1-8f63-4476-9c5d-5312dd2b4404/HanselmanMobile_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET and the Mobile Web]]></video:title>
+        <video:description><![CDATA[Mobile traffic on the web is exploding. Are you ready? ASP.NET MVC 4 includes new mobile-friendly templates, a focus on responsive design, as well as dedicated mobile templates that leverage jQuery&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4404/2b0ffef1-8f63-4476-9c5d-5312dd2b4404/HanselmanMobile_mid.mp4</video:content_loc>
+        <video:duration>388</video:duration>
+        <video:publication_date>2013-01-10T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/What-s-new-in-ASP-NET-Web-Forms-4-5</loc>
+      <lastmod>2017-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d70a/94f456b6-5497-49ed-bd3a-ef2c1b8ed70a/EdwardsASPNET_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Whats new in ASP.NET Web Forms 4.5]]></video:title>
+        <video:description><![CDATA[ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model. See how new data-binding features make data-centric applications easier to write than ever while&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d70a/94f456b6-5497-49ed-bd3a-ef2c1b8ed70a/EdwardsASPNET_mid.mp4</video:content_loc>
+        <video:duration>522</video:duration>
+        <video:publication_date>2013-01-10T10:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/What-s-new-in-Visual-Studio-2012-for-web-developers</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ded/36375bf1-e2cd-40ab-9c31-ab581eb75ded/KristensenWebDev_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Whats new in Visual Studio 2012 for web developers]]></video:title>
+        <video:description><![CDATA[Take a journey through the features of the most significant Visual Studio release for web developers yet. Explore the HTML 5, CSS 3, and JavaScript editors, highlighting both the big and the small&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ded/36375bf1-e2cd-40ab-9c31-ab581eb75ded/KristensenWebDev_mid.mp4</video:content_loc>
+        <video:duration>338</video:duration>
+        <video:publication_date>2013-01-10T10:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Visual-Studio-2012-support-for-Windows-Embedded-Compact</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/85b1/a593e35c-c5fc-4a60-98d0-769dbff385b1/CampbellPardoeWinEmbedded_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2012 support for Windows Embedded Compact]]></video:title>
+        <video:description><![CDATA[Visual Studio 2012 will once again be supporting Windows Embedded Compact&#39;s device makers and developers by providing a seamless developer experience across Microsoft&#39;s platforms. Windows Embedded&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/85b1/a593e35c-c5fc-4a60-98d0-769dbff385b1/CampbellPardoeWinEmbedded_mid.mp4</video:content_loc>
+        <video:duration>356</video:duration>
+        <video:publication_date>2013-01-10T10:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/F-3-0-information-rich-programming</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00ea/173bee25-1b00-4df5-bab5-9deb294400ea/MalayeriFSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F# 3.0 information rich programming]]></video:title>
+        <video:description><![CDATA[F# 3.0 is part of Visual Studio 2012 and extends the succinct and expressive F# language to support information-rich programming. This technology, which is user extensible, allows you to program&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00ea/173bee25-1b00-4df5-bab5-9deb294400ea/MalayeriFSharp_mid.mp4</video:content_loc>
+        <video:duration>471</video:duration>
+        <video:publication_date>2013-01-10T10:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/SQL-Server-2012-for-developers</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/18b8/fed9bc16-cdf9-48e0-ab47-ae3c928f18b8/McDevittSQL_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2012 for developers]]></video:title>
+        <video:description><![CDATA[Modern app development requires a rich foundation as well as back-end services in which data sources and databases are critical. Visual Studio 2012 includes major improvements for database development&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/18b8/fed9bc16-cdf9-48e0-ab47-ae3c928f18b8/McDevittSQL_mid.mp4</video:content_loc>
+        <video:duration>485</video:duration>
+        <video:publication_date>2013-01-10T10:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/SharePoint-Development-in-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7290/5b2f7fc2-4925-4dee-a953-b0da22077290/GuoSharePoint_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Development in Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Modern app development is tightly related with end-users&#39; work and collaborative applications in which SharePoint collaborative applications are key. In this session, you will see how the new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7290/5b2f7fc2-4925-4dee-a953-b0da22077290/GuoSharePoint_mid.mp4</video:content_loc>
+        <video:duration>996</video:duration>
+        <video:publication_date>2013-01-10T10:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Building-your-first-app-for-Office-with-Microsoft-Napa-and-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1748/6ad05354-ea0e-42be-aaf7-14ac24f11748/BhatiaNapa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building your first app for Office with Microsoft &quot;Napa&quot; and Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Modern app development is tightly related to end-users&#39; work in which Office is &amp;quot;a must.&amp;quot; Office 2013 introduces a new app model that brings the best of web development to Office. Join us in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1748/6ad05354-ea0e-42be-aaf7-14ac24f11748/BhatiaNapa_mid.mp4</video:content_loc>
+        <video:duration>445</video:duration>
+        <video:publication_date>2013-01-10T10:26:24.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Building-Business-Applications-with-LightSwitch-in-Visual-Studio-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/826d/df1adbd1-e947-46b9-a2eb-d13039ac826d/BinderLightSwitch_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Business Applications with LightSwitch in Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[LightSwitch for Visual Studio 2012 is the easiest way to build business applications for the desktop and the cloud. We&#39;ll take a look at some of the biggest enhancements in LightSwitch, from producing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/826d/df1adbd1-e947-46b9-a2eb-d13039ac826d/BinderLightSwitch_mid.mp4</video:content_loc>
+        <video:duration>463</video:duration>
+        <video:publication_date>2013-01-10T10:26:22.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Making-your-code-run-faster-using-Visual-C-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/870a/4cf786db-be91-4697-80ef-3a749315870a/HoggCPPRunFaster_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Making your code run faster using Visual C++ 2012]]></video:title>
+        <video:description><![CDATA[Performance is critical in graphically intense modern apps and new user interfaces. Learn how Visual C&amp;#43;&amp;#43; 2012 makes your code run faster by using all of the hardware available in your PC&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/870a/4cf786db-be91-4697-80ef-3a749315870a/HoggCPPRunFaster_mid.mp4</video:content_loc>
+        <video:duration>594</video:duration>
+        <video:publication_date>2013-01-10T10:26:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/C-11-in-Visual-Studio-2012</loc>
+      <lastmod>2015-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89e8/feb8b26c-8c54-45ec-998a-4d5c602489e8/LavavejCPP11_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++11 in Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Microsoft is fully committed to language standards and modern app development also means being aligned with standards. Take a look at some of the Core Language and Standard Library features from the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89e8/feb8b26c-8c54-45ec-998a-4d5c602489e8/LavavejCPP11_mid.mp4</video:content_loc>
+        <video:duration>790</video:duration>
+        <video:publication_date>2013-01-10T10:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Entity-Framework-5</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c11/2e7bf869-9eaa-461a-8bc1-65fde4204c11/MillerEF5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Entity Framework 5]]></video:title>
+        <video:description><![CDATA[Modern app development requires a rich foundation as well as back-end services in which data access is critical. Entity Framework is the strategic data technology for Microsoft that helps to develop&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c11/2e7bf869-9eaa-461a-8bc1-65fde4204c11/MillerEF5_mid.mp4</video:content_loc>
+        <video:duration>605</video:duration>
+        <video:publication_date>2013-01-10T10:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Creating-Windows-Store-app-using-WCF-4-5-and-WebSockets</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/caca/4c921e2a-1cf5-43ec-9b5e-2f0e3613caca/JoshiWCF45_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Store app using WCF 4.5 and WebSockets]]></video:title>
+        <video:description><![CDATA[Many new Windows Store apps require connections to back-end services to show live and collaborative data coming from concurrent users and multiple services. One important element is the ability to get&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/caca/4c921e2a-1cf5-43ec-9b5e-2f0e3613caca/JoshiWCF45_mid.mp4</video:content_loc>
+        <video:duration>536</video:duration>
+        <video:publication_date>2013-01-10T10:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/A-look-at-WPF-4-5</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/194e/4fd1e589-9cdb-4720-8473-6a41ccf5194e/BrownWPF45_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A look at WPF 4.5]]></video:title>
+        <video:description><![CDATA[Windows Presentation Foundation (WPF) 4.5 powers the most complex desktop applications and is now adding a number of updates designed to help make your applications easier to develop and faster to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/194e/4fd1e589-9cdb-4720-8473-6a41ccf5194e/BrownWPF45_mid.mp4</video:content_loc>
+        <video:duration>401</video:duration>
+        <video:publication_date>2013-01-10T10:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/My-favorite-NET-4-5-performance-features</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8d6/ae48fdcc-618f-4023-b806-3a7318c6b8d6/TaylorFaveNetPerfFeatures_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[My favorite .NET 4.5 performance features]]></video:title>
+        <video:description><![CDATA[.NET just got faster. This session covers a few of the key performance features introduced in .NET 4.5, including background GC for server, Multi-core JIT, and the Managed Profile Guided Optimization&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8d6/ae48fdcc-618f-4023-b806-3a7318c6b8d6/TaylorFaveNetPerfFeatures_mid.mp4</video:content_loc>
+        <video:duration>566</video:duration>
+        <video:publication_date>2013-01-10T10:24:22.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/What-s-new-in-C-and-Visual-Basic-Async-made-simple</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec88/942cc1d1-184d-404a-ac4a-765b22c6ec88/TurnerWhatsNewVBandCS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s new in C# and Visual Basic: Async made simple]]></video:title>
+        <video:description><![CDATA[Explore the deep language innovation that Visual Studio 2012 brings to C# and Visual Basic. See how the Async language feature works together with new .NET Framework APIs to simplify asynchronous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec88/942cc1d1-184d-404a-ac4a-765b22c6ec88/TurnerWhatsNewVBandCS_mid.mp4</video:content_loc>
+        <video:duration>490</video:duration>
+        <video:publication_date>2013-01-10T10:24:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/What-is-new-in-WF4-5-</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b26/37002630-34e3-4cfa-9d94-d34779b78b26/WelickiWF45_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is new in WF4.5?]]></video:title>
+        <video:description><![CDATA[Modern app development requires rich foundation technologies, like Workflow, in order to implement high-quality applications. Windows Workflow Foundation (WF) provides many improvements based on key&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b26/37002630-34e3-4cfa-9d94-d34779b78b26/WelickiWF45_mid.mp4</video:content_loc>
+        <video:duration>791</video:duration>
+        <video:publication_date>2013-01-10T10:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Creating-cross-platform-apps-using-Portable-Class-Libraries</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e82/6f406681-4705-4abd-b67c-90d482019e82/PlaistedCrossPlat_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating cross platform apps using Portable Class Libraries]]></video:title>
+        <video:description><![CDATA[Learn how to create an app with versions for Windows Store and Windows Phone by using the new Portable Class Libraries supported in Visual Studio 2012 to share code between different versions of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e82/6f406681-4705-4abd-b67c-90d482019e82/PlaistedCrossPlat_mid.mp4</video:content_loc>
+        <video:duration>565</video:duration>
+        <video:publication_date>2013-01-10T10:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Developer-productivity-enhancements-in-Visual-Studio-2012-IDE</loc>
+      <lastmod>2017-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e5d/c44719b9-2d1d-45a1-967b-945d0d5e0e5d/KumarDevProductivity_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer productivity enhancements in Visual Studio 2012 IDE]]></video:title>
+        <video:description><![CDATA[This session provides an overview of new productivity features and capabilities of Visual Studio IDE that make it a very exciting release for developers. It also shows some of the C&amp;#43;&amp;#43; specific&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e5d/c44719b9-2d1d-45a1-967b-945d0d5e0e5d/KumarDevProductivity_mid.mp4</video:content_loc>
+        <video:duration>588</video:duration>
+        <video:publication_date>2013-01-10T10:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/The-New-Normal-Development-in-Today-s-Organizations-Panel-Discussion</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba0d/94ad8b6d-85b8-4063-95da-fd602bb5ba0d/PanelDiscussion_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The New Normal: Development in Todays Organizations]]></video:title>
+        <video:description><![CDATA[Jeffrey Hammond, Principal Analyst at Forrester Research, leads a discussion with a panel of experts on the trends impacting modern app development and how companies are rising to the challenge. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba0d/94ad8b6d-85b8-4063-95da-fd602bb5ba0d/PanelDiscussion_mid.mp4</video:content_loc>
+        <video:duration>3697</video:duration>
+        <video:publication_date>2013-01-10T10:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Taking-your-business-forward-with-modern-app-lifecycle-management</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/58ef/b8283e3c-238c-4cc3-abda-560636da58ef/NunnModernAppLifecycle_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking your business forward with modern app lifecycle management]]></video:title>
+        <video:description><![CDATA[With the rise of modern apps and the modern data center, the landscape for building applications is changing fast. The new world requires a modern lifecycle approach that responds to the necessity of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58ef/b8283e3c-238c-4cc3-abda-560636da58ef/NunnModernAppLifecycle_mid.mp4</video:content_loc>
+        <video:duration>1570</video:duration>
+        <video:publication_date>2013-01-10T10:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Taking-your-business-forward-with-modern-apps</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b14e/86ad051f-c85f-4c5e-b0c2-a7e94a14b14e/NunnModernApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking your business forward with modern apps]]></video:title>
+        <video:description><![CDATA[Join us to learn about the changing state of IT and application development and learn about the &amp;quot;New Normal&amp;quot; for our industry. Get a broad-picture of modern application development and how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b14e/86ad051f-c85f-4c5e-b0c2-a7e94a14b14e/NunnModernApps_mid.mp4</video:content_loc>
+        <video:duration>1149</video:duration>
+        <video:publication_date>2013-01-10T10:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Brian-Harry-Keynote-Managing-the-modern-app-lifecycle-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/713c/ecf4c869-123f-48e0-bc60-ea110e9a713c/BrianHarryKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing the Modern App Lifecycle with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Creating world class software requires more than just stellar developers. Yet, getting all stakeholders to collaborate effectively can be difficult and result in a lot of waste. Visual Studio 2012 has&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/713c/ecf4c869-123f-48e0-bc60-ea110e9a713c/BrianHarryKeynote_mid.mp4</video:content_loc>
+        <video:duration>1991</video:duration>
+        <video:publication_date>2013-01-10T10:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/Jason-Zander-Keynote-Building-Modern-Apps-with-Visual-Studio-2012</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1406/aa5618e6-3d68-4072-86ac-95386f2c1406/JasonZanderKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Modern Apps with Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Developers are now targeting a variety of platforms across the desktop, phone, and cloud while also focusing on satisfying users&#39; demand for great app experiences. With Visual Studio 2012 developers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1406/aa5618e6-3d68-4072-86ac-95386f2c1406/JasonZanderKeynote_mid.mp4</video:content_loc>
+        <video:duration>2230</video:duration>
+        <video:publication_date>2013-01-10T10:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2012-Virtual-Launch/S-Somasegar-Keynote-Visual-Studio-2012-Modern-App-Development</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2fa9/6a4fe89d-3a9a-416d-9ba1-94a362d72fa9/SSomasegarKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2012: Modern App Development]]></video:title>
+        <video:description><![CDATA[The world of software development has changed and so has Visual Studio. To build the next killer product or service, developers and development teams of any size need an integrated solution to turn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2fa9/6a4fe89d-3a9a-416d-9ba1-94a362d72fa9/SSomasegarKeynote_mid.mp4</video:content_loc>
+        <video:duration>2120</video:duration>
+        <video:publication_date>2013-01-10T10:20:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

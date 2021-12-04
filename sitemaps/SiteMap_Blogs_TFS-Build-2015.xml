@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TFS-Build-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TFS-Build-2015/tfsbuild05</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53c5/1bf68369-5d79-47ec-8244-16232ebd53c5/tfsbuild01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5: Azure Deployment with VSTS Build]]></video:title>
+        <video:description><![CDATA[This webcast will walk you through the setup and deployment of an ASP.Net Web application to Azure using VSTS Build and the Azure Deployment step. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53c5/1bf68369-5d79-47ec-8244-16232ebd53c5/tfsbuild01_mid.mp4</video:content_loc>
+        <video:duration>503</video:duration>
+        <video:publication_date>2016-05-12T03:37:37.7844304+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

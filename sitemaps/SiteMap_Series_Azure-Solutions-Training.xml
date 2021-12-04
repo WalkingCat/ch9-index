@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Solutions-Training</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Solutions-Training/EMS-Hybrid-Identity</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8053/a3ff793b-217a-4ee1-8ec8-6d2cf6228053/EMSHybridIdentity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[EMS - Hybrid Identity]]></video:title>
+        <video:description><![CDATA[Hybrid Identity: How to position Azure Capabilities in the Enterprise Identity Management Space based on Pitch Perfect. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8053/a3ff793b-217a-4ee1-8ec8-6d2cf6228053/EMSHybridIdentity_mid.mp4</video:content_loc>
+        <video:duration>2641</video:duration>
+        <video:publication_date>2015-03-17T11:17:37.5179699+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Solutions-Training/Mobile-Application</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45f7/d3b2a06a-2b49-4e7c-a354-d7e1541f45f7/MobileApplication_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mobile Application]]></video:title>
+        <video:description><![CDATA[How do you position Azure Capabilities in the Mobile Space based on Pitch Perfect. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45f7/d3b2a06a-2b49-4e7c-a354-d7e1541f45f7/MobileApplication_mid.mp4</video:content_loc>
+        <video:duration>2229</video:duration>
+        <video:publication_date>2015-03-17T11:17:22.4303136+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Solutions-Training/StorSimple</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41cb/5c96cf6d-e3d8-4146-b100-23d7cfc641cb/StroSimple_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[StorSimple]]></video:title>
+        <video:description><![CDATA[How to position Azure Capabilities in the Storage Space based on Pitch Perfect. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41cb/5c96cf6d-e3d8-4146-b100-23d7cfc641cb/StroSimple_mid.mp4</video:content_loc>
+        <video:duration>2522</video:duration>
+        <video:publication_date>2015-03-17T11:16:59.8791097+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Solutions-Training/Developing-and-Testing-Environments</loc>
+      <lastmod>2015-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/11b4/8facd18f-0868-44fb-bd70-7e97cda111b4/DevelopingandTestingEnvironments_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing and Testing Environments]]></video:title>
+        <video:description><![CDATA[How to position Azure Capabilities in Dev &amp;amp; Test using Pitch Perfect. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/11b4/8facd18f-0868-44fb-bd70-7e97cda111b4/DevelopingandTestingEnvironments_mid.mp4</video:content_loc>
+        <video:duration>3146</video:duration>
+        <video:publication_date>2015-03-17T11:16:45.8090907+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

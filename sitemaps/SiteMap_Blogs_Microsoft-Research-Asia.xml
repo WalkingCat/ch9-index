@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Hopcroft-Interview</loc>
+      <lastmod>2017-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3d17/76ce2baf-5db7-426d-abe2-177e375a3d17/HopcroftInterview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hopcroft Interview]]></video:title>
+        <video:description><![CDATA[Hopcroft Interview ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d17/76ce2baf-5db7-426d-abe2-177e375a3d17/HopcroftInterview_mid.mp4</video:content_loc>
+        <video:duration>112</video:duration>
+        <video:publication_date>2017-08-09T04:45:28.9490266+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Microsoft-Research-Asia-Research-Groups</loc>
+      <lastmod>2017-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/546c/827ac5d3-3594-4d5a-8c2f-b54737f5546c/MSRAResearchGroups_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Research Asia Research Groups]]></video:title>
+        <video:description><![CDATA[Microsoft Research Asia Research Groups ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/546c/827ac5d3-3594-4d5a-8c2f-b54737f5546c/MSRAResearchGroups_mid.mp4</video:content_loc>
+        <video:duration>51</video:duration>
+        <video:publication_date>2017-08-09T04:44:59.7635992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/likq</loc>
+      <lastmod>2017-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/509a/ba416f61-fa8c-4411-9119-41470fee509a/likq_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[LIKQ]]></video:title>
+        <video:description><![CDATA[LIKQ (Language-Integrated Knowledge Query) is a LINQ-like query language for retrieving paths and subgraphs from graph data.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/509a/ba416f61-fa8c-4411-9119-41470fee509a/likq.mp4</video:content_loc>
+        <video:duration>157</video:duration>
+        <video:publication_date>2017-02-09T07:15:49.6011489+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Artificial-Intelligence-Research-at-Microsoft-Research-Asia</loc>
+      <lastmod>2017-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0750/ee255d3e-bdc1-4dd5-b92b-79d037f20750/ArtificialIntelligenceResearchatMicrosoftResearch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Artificial Intelligence Research at Microsoft Research Asia]]></video:title>
+        <video:description><![CDATA[AI research at Microsoft Research Asia will be introduced, including machine learning, computer vision, natural language processing, knowledge mining and urban computing based on big data.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0750/ee255d3e-bdc1-4dd5-b92b-79d037f20750/ArtificialIntelligenceResearchatMicrosoftResearch_mid.mp4</video:content_loc>
+        <video:duration>3818</video:duration>
+        <video:publication_date>2017-01-03T10:41:56.0040759+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Future-Talent-2040</loc>
+      <lastmod>2016-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d7e/a4561a6d-cdc6-47c5-8b26-a0cc4b896d7e/FutureTalent2014_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Future Talent 2040]]></video:title>
+        <video:description><![CDATA[Future Talent 2040 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d7e/a4561a6d-cdc6-47c5-8b26-a0cc4b896d7e/FutureTalent2014_mid.mp4</video:content_loc>
+        <video:duration>3742</video:duration>
+        <video:publication_date>2016-12-14T10:08:35.1608182+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/MSR-AI-Engage--Learning-and-Intelligence</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed5c/2829c28b-e809-4162-bbf5-8d11f9d7ed5c/MSRAIEngageLearningandIntelligence_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MSR AI Engage  Learning and Intelligence]]></video:title>
+        <video:description><![CDATA[Given the investment and evidence of progress in Artificial Intelligence some suggest that it is merely a matter of time until AI can match, complement or surpass human intelligence. This session&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed5c/2829c28b-e809-4162-bbf5-8d11f9d7ed5c/MSRAIEngageLearningandIntelligence_mid.mp4</video:content_loc>
+        <video:duration>3127</video:duration>
+        <video:publication_date>2016-12-08T06:20:59.4957145+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Machine-Learning-Theory-Meets-Application</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d905/256f3891-ec11-45a7-84da-f3643163d905/MachineLearningTheoryMeetsApplication_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Machine Learning: Theory Meets Application ]]></video:title>
+        <video:description><![CDATA[In this session, we will discuss machine learning from two extremes, theory and application. The goal is to bring theory and application researchers together and inspire each other&#39;s work, so that the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d905/256f3891-ec11-45a7-84da-f3643163d905/MachineLearningTheoryMeetsApplication_mid.mp4</video:content_loc>
+        <video:duration>4631</video:duration>
+        <video:publication_date>2016-12-08T06:20:41.0559573+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Deep-Learning-and-Reinforcement-Learning</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1002/4427f932-71d3-4fc3-b1c1-82fe6ef41002/DeepLearningandReinforcementLearning_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Learning and Reinforcement Learning]]></video:title>
+        <video:description><![CDATA[In recent years, the growing research on deep learning and reinforcement learning has led to many exciting breakthroughs. However, on the other hand, there are still many open problems regarding deep&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1002/4427f932-71d3-4fc3-b1c1-82fe6ef41002/DeepLearningandReinforcementLearning_mid.mp4</video:content_loc>
+        <video:duration>4041</video:duration>
+        <video:publication_date>2016-12-08T06:20:10.6638004+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Social-Multimedia-and-Visual-QA</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c694/743660c0-5bc8-49c3-b3ce-b8dbc1fcc694/SocialMultimediaandVisualQA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Social Multimedia and Visual Q&amp;A]]></video:title>
+        <video:description><![CDATA[In recent years, the growing research on social multimedia and visual Q&amp;amp;A has led to many exciting breakthroughs. However, on the other hand, there are still many open problems regarding social&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c694/743660c0-5bc8-49c3-b3ce-b8dbc1fcc694/SocialMultimediaandVisualQA_mid.mp4</video:content_loc>
+        <video:duration>3471</video:duration>
+        <video:publication_date>2016-12-08T06:20:00.6910420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Learning-for-Vision-and-Multimedia</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a845/0316a397-ae88-4a9d-971c-ca4f22e0a845/LearningforVisionandMultimedia_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learning for Vision and Multimedia]]></video:title>
+        <video:description><![CDATA[In recent years, the growing research on deep learning has led to many exciting breakthroughs in vision and multimedia communities. However, on the other hand, there are still many open problems&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a845/0316a397-ae88-4a9d-971c-ca4f22e0a845/LearningforVisionandMultimedia_mid.mp4</video:content_loc>
+        <video:duration>3839</video:duration>
+        <video:publication_date>2016-12-08T06:19:25.8478953+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Machine-Learning-System-and-Infrastructure</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00ad/e423add0-1f76-4390-928d-15be5a6f00ad/MachineLearningSystemandInfrastructure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Machine Learning System and Infrastructure]]></video:title>
+        <video:description><![CDATA[It is evident that when machine learning meets big data, it is vital to have a powerful system/infrastructure to support the distributed training task. In recent years, people have used different&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00ad/e423add0-1f76-4390-928d-15be5a6f00ad/MachineLearningSystemandInfrastructure_mid.mp4</video:content_loc>
+        <video:duration>3734</video:duration>
+        <video:publication_date>2016-12-08T06:19:15.8896956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Urban-Big-Data-and-Urban-Computing</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1594/043f53a4-aea2-4c5f-9ee6-566f35121594/UrbanBigDataandUrbanComputing_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Urban Big Data and Urban Computing]]></video:title>
+        <video:description><![CDATA[Urban computing connects ubiquitous sensing technologies, advanced data management &amp;amp; machine learning models, and novel visualization methods to create win-win-win solutions that improve urban&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1594/043f53a4-aea2-4c5f-9ee6-566f35121594/UrbanBigDataandUrbanComputing_mid.mp4</video:content_loc>
+        <video:duration>4162</video:duration>
+        <video:publication_date>2016-12-08T02:44:02.4040027+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/3D-Real-World-Capturing-and-Reconstruction</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e597/770b1afd-b9c5-4159-beac-52d4d69de597/3DRealWorldCapturingandReconstruction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3D Real World Capturing and Reconstruction]]></video:title>
+        <video:description><![CDATA[Capturing and reconstruction 3D real world (scene, objects, and dynamic human characters) plays important role in VR/AR applications. However, real time high quality 3D capturing and reconstruction is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e597/770b1afd-b9c5-4159-beac-52d4d69de597/3DRealWorldCapturingandReconstruction_mid.mp4</video:content_loc>
+        <video:duration>3359</video:duration>
+        <video:publication_date>2016-12-08T02:43:51.9219853+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Robotics</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7006/a06a393a-650b-4118-aa2b-5b3544b77006/Robotics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Robotics]]></video:title>
+        <video:description><![CDATA[This session examines the future direction of robotics research. As a background movement, AI is sparking great interest and exploration. In order to realize AI in human society, it is necessary to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7006/a06a393a-650b-4118-aa2b-5b3544b77006/Robotics_mid.mp4</video:content_loc>
+        <video:duration>3540</video:duration>
+        <video:publication_date>2016-12-08T02:43:41.8567803+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Machine-Learning-Generative-vs-Discriminative</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ccd/ee4319fd-d917-4a16-9da0-cff02eaf3ccd/MachineLearningGenerativeDiscriminative_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Machine Learning: Generative vs. Discriminative]]></video:title>
+        <video:description><![CDATA[Generative learning and discriminative learning are two major approaches in machine learning. The fast development of deep learning demonstrates the power of discriminative learning. In recent years,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ccd/ee4319fd-d917-4a16-9da0-cff02eaf3ccd/MachineLearningGenerativeDiscriminative_mid.mp4</video:content_loc>
+        <video:duration>3614</video:duration>
+        <video:publication_date>2016-12-08T02:43:30.5571066+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/AI-and-Psychology</loc>
+      <lastmod>2016-12-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/26d0/b39e5421-e273-4b21-9b3c-9e478cee26d0/AIandPsychology_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AI and Psychology]]></video:title>
+        <video:description><![CDATA[Gaining an in-depth understanding of users is critical for building artificial intelligence systems. With the rapid development of positioning, sensing and social networking technologies, large&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/26d0/b39e5421-e273-4b21-9b3c-9e478cee26d0/AIandPsychology_mid.mp4</video:content_loc>
+        <video:duration>2917</video:duration>
+        <video:publication_date>2016-12-08T02:42:51.6460133+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/computational-thinking</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8129/ad5e4ce3-b0c6-4f11-9839-2881646c8129/computationalthinking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[微软计算思维 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8129/ad5e4ce3-b0c6-4f11-9839-2881646c8129/computationalthinking_mid.mp4</video:content_loc>
+        <video:duration>163</video:duration>
+        <video:publication_date>2016-12-02T08:35:03.0850856+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Learning-at-Scale-as-a-Driver-of-Innovation</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41b8/497e5842-b2b5-45e6-a091-e4ec852441b8/21CCC2016MartiAHearst_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learning at Scale as a Driver of Innovation]]></video:title>
+        <video:description><![CDATA[How can we educate the world&#39;s population in a scalable, affordable way?  This question is driving fascinating research at the intersection of human-computer interaction, social computing, natural&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41b8/497e5842-b2b5-45e6-a091-e4ec852441b8/21CCC2016MartiAHearst_mid.mp4</video:content_loc>
+        <video:duration>2765</video:duration>
+        <video:publication_date>2016-11-15T06:59:44.9659744+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Panel--Engaging-with-AI-How-Human-and-Machine-can-Work-Together-to-Shape-the-Future</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2f7/6a8f8689-d0d4-403d-a80d-7cf0b88df2f7/21CCC2016Panel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Panel  Engaging with AI: How Human and Machine can Work Together to Shape the Future]]></video:title>
+        <video:description><![CDATA[Panel – Engaging with AI: How Human and Machine can Work Together to Shape the Future ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2f7/6a8f8689-d0d4-403d-a80d-7cf0b88df2f7/21CCC2016Panel_mid.mp4</video:content_loc>
+        <video:duration>2646</video:duration>
+        <video:publication_date>2016-11-15T06:29:18.1940885+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Chasing-the-Next-Big-Thing-Why-Top-Companies-are-Betting-on-Research</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/71f3/fd08bf56-8a0d-4b10-8845-31e60ad871f3/21CCC2016PeterLee_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Chasing the Next Big Thing: Why Top Companies are Betting on Research]]></video:title>
+        <video:description><![CDATA[We are living in a world that is witnessing an incredible pace of innovation. Despite all the rapid advancements – or perhaps, because of them – top companies are working incredibly hard to find new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71f3/fd08bf56-8a0d-4b10-8845-31e60ad871f3/21CCC2016PeterLee_mid.mp4</video:content_loc>
+        <video:duration>2694</video:duration>
+        <video:publication_date>2016-11-15T06:28:33.7879557+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/A-Science-of-Cyber--Security</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2e6/82755fb4-a2bc-4dd7-bef6-03b59702f2e6/21CCC2016FredSchneider_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Science of Cyber  Security?]]></video:title>
+        <video:description><![CDATA[Cyber-security today is focused largely on defending against known attacks. We learn about the latest attack and find a patch to defend against it. Our defenses thus improve only after they have been&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2e6/82755fb4-a2bc-4dd7-bef6-03b59702f2e6/21CCC2016FredSchneider_mid.mp4</video:content_loc>
+        <video:duration>2623</video:duration>
+        <video:publication_date>2016-11-15T06:28:10.7003396+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Democratizing-Urban-Data-Analysis</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e5e/07976862-4a63-499d-aac4-198086de5e5e/21CCC2016JulianaFreire_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Democratizing Urban Data Analysis]]></video:title>
+        <video:description><![CDATA[Today, 50% of the world&#39;s population lives in cities and the number will grow to 70% by 2050. Cities are the loci of economic activity and the source of innovative solutions to 21st century&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e5e/07976862-4a63-499d-aac4-198086de5e5e/21CCC2016JulianaFreire_mid.mp4</video:content_loc>
+        <video:duration>2732</video:duration>
+        <video:publication_date>2016-11-15T06:27:57.1935605+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Co-Evolution-of-Artificial-Intelligence-and-Human-Intelligence</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc25/d782c652-2ec7-482b-a466-56e2804fcc25/21CCC2016Hon_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Co-Evolution of Artificial Intelligence and Human Intelligence]]></video:title>
+        <video:description><![CDATA[Throughout history, human beings have developed tools and technologies which help civilizations evolve and grow. Computers, and by extension, artificial intelligence, has played important roles in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc25/d782c652-2ec7-482b-a466-56e2804fcc25/21CCC2016Hon_mid.mp4</video:content_loc>
+        <video:duration>3622</video:duration>
+        <video:publication_date>2016-11-15T06:25:23.5817918+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/MSRA-Internship</loc>
+      <lastmod>2016-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a6c2/b3809322-1e5f-4d62-80ae-de43a22ea6c2/MSRAInternship_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MSRA Internship - This is Your Stage]]></video:title>
+        <video:description><![CDATA[MSRA Internship - This is Your Stage ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6c2/b3809322-1e5f-4d62-80ae-de43a22ea6c2/MSRAInternship_mid.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2016-08-26T06:44:38.1366007+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-Impact-of-Computer-Science-Research-on-Science-Technology-and-Society</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4aee/096398ff-debb-4ad9-bf05-54829a984aee/21CCC2013JeannetteWING_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Impact of Computer Science Research on Science, Technology, and Society]]></video:title>
+        <video:description><![CDATA[The field of computing is driven by scientific questions, technological innovation and societal demands. There is wonderful interplay—push and pull—among these three drivers. For example, accelerating&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4aee/096398ff-debb-4ad9-bf05-54829a984aee/21CCC2013JeannetteWING_mid.mp4</video:content_loc>
+        <video:duration>2318</video:duration>
+        <video:publication_date>2016-07-20T09:43:20.7341867+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Surprising-Discoveries-from-Affective-Computing</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9939/66575556-a0bb-439c-997c-9146f0049939/21CCC2013RosalindWPICARD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Surprising Discoveries from Affective Computing]]></video:title>
+        <video:description><![CDATA[Emotion is vital to physical and mental health - influencing the functioning of almost every organ in our body, including our brain and &amp;quot;how we feel.&amp;quot; I have been leading in creating new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9939/66575556-a0bb-439c-997c-9146f0049939/21CCC2013RosalindWPICARD_mid.mp4</video:content_loc>
+        <video:duration>2755</video:duration>
+        <video:publication_date>2016-07-20T09:42:44.9136623+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/From-QoS-to-QoE-Towards-Experience-Centric-Evaluations-of-Tele-Immersive-Environments</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3963/d3fd271a-af12-4536-940e-488b2ce93963/21CCC2013KlaraNAHRSTEDT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From QoS to QoE: Towards Experience-Centric Evaluations of Tele  Immersive Environments]]></video:title>
+        <video:description><![CDATA[We are seeing a rapid growth of tele-immersive environments over the last decade with applications ranging from health care, training to entertainment. Despite their intensity of user-involved&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3963/d3fd271a-af12-4536-940e-488b2ce93963/21CCC2013KlaraNAHRSTEDT_mid.mp4</video:content_loc>
+        <video:duration>2707</video:duration>
+        <video:publication_date>2016-07-20T09:42:27.3259473+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-Future-of-Internet-Search-Intent-Knowledge-and-Interaction</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae10/fa6bbba0-9b0f-4dad-8d14-032ccd02ae10/21CCC2013HarrySHUM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Future of Internet Search: Intent, Knowledge and Interaction]]></video:title>
+        <video:description><![CDATA[The decade-old Internet search result pages, manifested in the document-centric form of &amp;quot;ten blue links,&amp;quot; are no longer sufficient for Internet search users. Many studies have shown that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae10/fa6bbba0-9b0f-4dad-8d14-032ccd02ae10/21CCC2013HarrySHUM_mid.mp4</video:content_loc>
+        <video:duration>2626</video:duration>
+        <video:publication_date>2016-07-20T09:41:11.9787934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/From-Programs-to-Systems-Building-a-Smarter-World</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6818/ba9dfe4a-fdde-4bad-b94f-223866cb6818/21CCC2013JosephSIFAKIS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From Programs to Systems  Building a Smarter World]]></video:title>
+        <video:description><![CDATA[The focus of computing has been continuously shifting from programs to systems over the past decades. Programs can be represented as relations independent from the physical resources needed for their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6818/ba9dfe4a-fdde-4bad-b94f-223866cb6818/21CCC2013JosephSIFAKIS_mid.mp4</video:content_loc>
+        <video:duration>2808</video:duration>
+        <video:publication_date>2016-07-20T09:40:36.8808744+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-Role-of-Basic-Research-in-Innovation-A-look-back-and-a-look-forward</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b1c/c0e84c92-b75b-4cd5-bc12-6b848f097b1c/21CCC2013RickRASHID_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Role of Basic Research in Innovation  A look back and a look forward]]></video:title>
+        <video:description><![CDATA[Over the course of my 40&amp;#43; year research career I have been fortunate to be at or near the center of some of the great changes both in the way computing is done and in how computer science research&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b1c/c0e84c92-b75b-4cd5-bc12-6b848f097b1c/21CCC2013RickRASHID_mid.mp4</video:content_loc>
+        <video:duration>2768</video:duration>
+        <video:publication_date>2016-07-20T09:40:05.4164981+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Do-More-Know-More-and-Be-More-through-Computational-Living</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0278/390afc09-8c71-466e-b2bb-6a76c11e0278/21CCC2014HsiaoWuenHon_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Do More, Know More, and Be More through Computational Living]]></video:title>
+        <video:description><![CDATA[Computers have become pervasive throughout our daily lives. From the use of computing for communication, work, and entertainment to the use of computing in specific domains such as education and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0278/390afc09-8c71-466e-b2bb-6a76c11e0278/21CCC2014HsiaoWuenHon_mid.mp4</video:content_loc>
+        <video:duration>2817</video:duration>
+        <video:publication_date>2016-07-20T09:26:34.1568006+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Computing-the-Universe</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e69/fcee9b04-19eb-4226-9568-7e6aa5b40e69/21CCC2014ChristosHPapadimitriou_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Computing the Universe]]></video:title>
+        <video:description><![CDATA[Computer science has gone far beyond its traditional role of solving real world problems by computer. Over the last 80 years, computer scientists have developed a novel, algorithmic way of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e69/fcee9b04-19eb-4226-9568-7e6aa5b40e69/21CCC2014ChristosHPapadimitriou_mid.mp4</video:content_loc>
+        <video:duration>2649</video:duration>
+        <video:publication_date>2016-07-20T09:25:56.3730783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Biometrics-How-Do-I-Know-Who-You-Are</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af76/feeecb0c-1492-4584-b456-d01ac5e1af76/21CCC2014AnilKJain_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Biometrics - How Do I Know Who You Are]]></video:title>
+        <video:description><![CDATA[Many of the activities in our everyday life depend on an array of cards and passwords that we need to provide to confirm who we are. But lose a card, and your ATM will refuse to give you money. Forget&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af76/feeecb0c-1492-4584-b456-d01ac5e1af76/21CCC2014AnilKJain_mid.mp4</video:content_loc>
+        <video:duration>2724</video:duration>
+        <video:publication_date>2016-07-20T09:25:18.5738558+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Computing-and-Healthcare</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d199/9cb83588-f6aa-44e1-b416-71a6c50ed199/21CCC2014MichaelBrady_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Computing and Healthcare]]></video:title>
+        <video:description><![CDATA[Computing is already transforming healthcare; but the possibilities remain endless. Hospitals, entire communities are already networked, and Cloud will increasingly play a role, but there are major&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d199/9cb83588-f6aa-44e1-b416-71a6c50ed199/21CCC2014MichaelBrady_mid.mp4</video:content_loc>
+        <video:duration>2745</video:duration>
+        <video:publication_date>2016-07-20T09:24:41.4928693+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Personal-Control-of-Digital-Data</loc>
+      <lastmod>2016-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/46de/d727cbe9-d76f-48f0-81f1-25c9c82a46de/21CCC2014ButlerWLampson_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Personal Control of Digital Data]]></video:title>
+        <video:description><![CDATA[People around the world are concerned that more and more of their personal data is on the Internet, where it&#39;s easy to find, copy, and link up with other data. What people most often want is a sense&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/46de/d727cbe9-d76f-48f0-81f1-25c9c82a46de/21CCC2014ButlerWLampson_mid.mp4</video:content_loc>
+        <video:duration>2740</video:duration>
+        <video:publication_date>2016-07-20T09:24:16.8156321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-Pipeline-from-Computing-Research-to-Surprising-Inventions</loc>
+      <lastmod>2016-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c79/f381c4e8-8ca7-4233-89e2-24b7cde13c79/21CCC2014PeterLee_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Pipeline from Computing Research to Surprising Inventions]]></video:title>
+        <video:description><![CDATA[One of the most exciting aspects of computer science is that the results of basic research so often end up being applied in completely unexpected ways. At Microsoft Research, we actively seek out&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c79/f381c4e8-8ca7-4233-89e2-24b7cde13c79/21CCC2014PeterLee_mid.mp4</video:content_loc>
+        <video:duration>2526</video:duration>
+        <video:publication_date>2016-07-20T09:21:54.3266781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/eHuatuo-Teaching-Computer-to-Read-Medical-Records</loc>
+      <lastmod>2016-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ece8/15152b76-d0ee-4c49-99bc-e70ee964ece8/eHuatuo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[eHuatuo: Teaching Computer to Read Medical Records]]></video:title>
+        <video:description><![CDATA[eHuatuo: Teaching Computer to Read Medical Records]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ece8/15152b76-d0ee-4c49-99bc-e70ee964ece8/eHuatuo_mid.mp4</video:content_loc>
+        <video:duration>72</video:duration>
+        <video:publication_date>2016-07-15T07:51:03.1933645+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/What-Does-Big-Data-Mean-and-Who-Will-Win</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e60/56068f97-b1bc-4b0e-a1d7-a17de1da0e60/21CCC2015MichaelStonebraker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What Does &#39;Big Data&#39; Mean and Who Will Win?]]></video:title>
+        <video:description><![CDATA[&amp;quot;Big Data&amp;quot; means different things to different people. To me, it means one of four totally different problems: Big volumes of data, but &amp;quot;small&amp;quot; analytics, Big analytics on big&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e60/56068f97-b1bc-4b0e-a1d7-a17de1da0e60/21CCC2015MichaelStonebraker_mid.mp4</video:content_loc>
+        <video:duration>2863</video:duration>
+        <video:publication_date>2016-07-08T06:45:22.3314768+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-Pit-and-the-Pendulum</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f3b1/2acdfe15-9b61-41e7-a338-ee2469a7f3b1/21CCC2015LorenzoAlvisi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Pit and the Pendulum]]></video:title>
+        <video:description><![CDATA[Since the elegant foundations of transaction processing were established in the mid 70&#39;s with the notion of serializability and the codification of the ACID (Atomicity, Consistency, Isolation,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3b1/2acdfe15-9b61-41e7-a338-ee2469a7f3b1/21CCC2015LorenzoAlvisi_mid.mp4</video:content_loc>
+        <video:duration>2810</video:duration>
+        <video:publication_date>2016-07-08T06:45:10.6257810+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-New-Industrial-Revolution-Computing-in-Pole-Position</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6088/9a454905-6936-4ec6-944b-2df000c86088/21CCC2015PeterLee_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The New Industrial Revolution: Computing in Pole Position]]></video:title>
+        <video:description><![CDATA[We are living in a world that is witnessing an incredible pace of innovation, where computing research is playing the central role. Ambitions are not just high from a technical perspective, but also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6088/9a454905-6936-4ec6-944b-2df000c86088/21CCC2015PeterLee_mid.mp4</video:content_loc>
+        <video:duration>2632</video:duration>
+        <video:publication_date>2016-07-08T06:44:56.4001067+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Learning-from-Rational-Behavior</loc>
+      <lastmod>2016-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3763/00883282-34c7-4cf3-b8cf-b1e2d0d63763/21CCC2015ThorstenJoachims_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learning from Rational(*) Behavior]]></video:title>
+        <video:description><![CDATA[Machine Learning is increasingly becoming a technology that directly interacts with human users. In fact, much of the Big Data we collect today are the decisions that people make when they use the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3763/00883282-34c7-4cf3-b8cf-b1e2d0d63763/21CCC2015ThorstenJoachims_mid.mp4</video:content_loc>
+        <video:duration>2615</video:duration>
+        <video:publication_date>2016-07-08T06:44:38.0587447+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/A-Mathematical-View-of-Computer-Systems</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c3f4/195e074e-5479-400d-bad4-2cf420afc3f4/21CCC2015LeslieLamport_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Mathematical View of Computer Systems]]></video:title>
+        <video:description><![CDATA[Mathematics provides what I believe to be the simplest and most powerful way to describe computer systems. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c3f4/195e074e-5479-400d-bad4-2cf420afc3f4/21CCC2015LeslieLamport_mid.mp4</video:content_loc>
+        <video:duration>2500</video:duration>
+        <video:publication_date>2016-07-08T06:44:23.2722131+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/The-Computer-Simulation-of-People</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6065/c0b5c182-1361-4a73-b180-030cfa506065/TheComputerSimulationofPeople_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Computer Simulation of People]]></video:title>
+        <video:description><![CDATA[The computer simulation of people is a grand challenge problem with potentially profound impact across many disciplines. In the field of computer graphics, it is especially relevant to the animation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6065/c0b5c182-1361-4a73-b180-030cfa506065/TheComputerSimulationofPeople_mid.mp4</video:content_loc>
+        <video:duration>3114</video:duration>
+        <video:publication_date>2016-07-08T06:44:08.7708864+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/Age-of-AI-Artificial-Intelligence-Agglomerative-Intelligence-Adaptive-Intelligence-and-Ambient-I</loc>
+      <lastmod>2016-07-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/455d/c592389d-62b3-4471-9cce-b10e872d455d/21CCC2015HsiaoWuenHon_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Age of AI: Artificial Intelligence, Agglomerative Intelligence, Adaptive Intelligence, and Ambient I]]></video:title>
+        <video:description><![CDATA[The building of a computer that can intelligently carry out tasks that require &amp;quot;human level intelligence&amp;quot; has been a goal for computer scientists since the 1950&#39;s. Since that time, tasks&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/455d/c592389d-62b3-4471-9cce-b10e872d455d/21CCC2015HsiaoWuenHon_mid.mp4</video:content_loc>
+        <video:duration>3875</video:duration>
+        <video:publication_date>2016-07-08T06:43:38.0079050+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Research-Asia/speech-translation</loc>
+      <lastmod>2016-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/90b1/b831a493-57dc-4387-8745-48ccc14990b1/SpeechTranslation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Harry Shum presents speech translation by Microsoft Translator]]></video:title>
+        <video:description><![CDATA[In this excerpt from his presentation at //build/, Microsoft Executive Vice President Dr. Harry Shum, the head of Microsoft&#39;s Technology and Research, introduces Microsoft Translator&#39;s new speech&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90b1/b831a493-57dc-4387-8745-48ccc14990b1/SpeechTranslation_mid.mp4</video:content_loc>
+        <video:duration>765</video:duration>
+        <video:publication_date>2016-06-13T02:30:49.7238051+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

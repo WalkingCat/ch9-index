@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Azure/How-to-use-Azure-Storage</loc>
+      <lastmod>2017-08-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ffae/fcc37d29-bfc3-466a-ba35-f56dde82ffae/howtouseAzurestorage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to use Azure Storage]]></video:title>
+        <video:description><![CDATA[This video provides an introduction to Microsoft Azure Storage for developers, IT Pros, and business decision makers. It includes:  What Azure Storage is and how you can take advantage of it in your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ffae/fcc37d29-bfc3-466a-ba35-f56dde82ffae/howtouseAzurestorage_mid.mp4</video:content_loc>
+        <video:duration>471</video:duration>
+        <video:publication_date>2016-01-27T23:27:12.5937918+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Azure/How-to-connect-to-a-Virtual-Machine</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d8d/0b82094c-a45d-4d54-82ae-49d90e045d8d/howtoconnectoVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to connect to a Virtual Machine]]></video:title>
+        <video:description><![CDATA[Walk through connecting and logging onto a Virtual Machine using the Azure Preview Portal. Next Steps Learn: Azure Iaas to explore and build your foundational cloud skillssWatch: Azure videos on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d8d/0b82094c-a45d-4d54-82ae-49d90e045d8d/howtoconnectoVM_mid.mp4</video:content_loc>
+        <video:duration>59</video:duration>
+        <video:publication_date>2016-01-27T23:27:05.7501266+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Azure/How-to-setup-a-Linux-VM-in-Azure</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db3b/0fd7bcf7-6f30-4a0f-847c-4d971015db3b/howtocreatelinuxvm_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to setup a Linux VM in Azure]]></video:title>
+        <video:description><![CDATA[This video shows you how to use the Azure Preview portal to create a Linux Virtual Machine. Next Steps Learn: Azure Iaas to explore and build your foundational cloud skillssWatch: Azure videos on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db3b/0fd7bcf7-6f30-4a0f-847c-4d971015db3b/howtocreatelinuxvm_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2016-01-27T23:26:58.3701339+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Azure/How-to-setup-an-Azure-Account</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a6e/6bfe7bd3-8139-4c27-a550-313b91393a6e/howtosetupazureaccount_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to setup an Azure Account]]></video:title>
+        <video:description><![CDATA[This video will show you how to sign up for a 1 month free trial of Microsoft Azure. Next Steps Learn: Azure IaaS to explore and build your foundational cloud skillsWatch: Azure videos on Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a6e/6bfe7bd3-8139-4c27-a550-313b91393a6e/howtosetupazureaccount_mid.mp4</video:content_loc>
+        <video:duration>78</video:duration>
+        <video:publication_date>2016-01-27T23:26:50.1152233+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

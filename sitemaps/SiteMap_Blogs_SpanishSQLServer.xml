@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Tablas-Temporales-SQL-Server-2016</loc>
+      <lastmod>2019-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/663a/187a5f85-8415-426e-a194-add3c56a663a/TablasTemporales_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tablas Temporales SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Nuestros datos rara vez son est&#225;tico. A veces puede ser muy valioso ver c&#243;mo los datos han evolucionado con el tiempo, o para consultar datos a partir de un punto determinado en el tiempo. Mientras&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/663a/187a5f85-8415-426e-a194-add3c56a663a/TablasTemporales_mid.mp4</video:content_loc>
+        <video:duration>570</video:duration>
+        <video:publication_date>2016-07-20T04:42:34.6706157+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Always-Encrypted-SQL-Server-2016</loc>
+      <lastmod>2019-06-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb7f/467acd7e-0539-4885-a27c-176f04c8fb7f/AlwaysEncrypted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Always Encrypted SQL Server 2016]]></video:title>
+        <video:description><![CDATA[La caracter&#237;stica siempre cifrada de Microsoft SQL Server 2016 CTP3 permite a los usuarios encriptar los datos sensibles dentro de sus aplicaciones y nunca revelar las claves de cifrado a SQL Server.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb7f/467acd7e-0539-4885-a27c-176f04c8fb7f/AlwaysEncrypted_mid.mp4</video:content_loc>
+        <video:duration>795</video:duration>
+        <video:publication_date>2016-07-13T22:52:59.4624789+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Soporte-para-JSON-en-SQL-Server-2016</loc>
+      <lastmod>2017-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de67/09cfd1fc-5b7d-4645-83d0-60fdc4abde67/JSON2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Soporte para JSON en SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Primer v&#237;deo sobre las nuevas caracter&#237;sticas de SQL Server 2016, en este caso explicando el soporte para JSON. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de67/09cfd1fc-5b7d-4645-83d0-60fdc4abde67/JSON2016_mid.mp4</video:content_loc>
+        <video:duration>548</video:duration>
+        <video:publication_date>2016-07-12T01:58:45.4195509+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Instrucciones-Bsicas-de-SQL-en-SQL-Server-Sub-Consultas</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d127/bf4c9e8a-7cbc-42e9-82f1-2fe99564d127/SQLBasico4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instrucciones B&#225;sicas de SQL en SQL Server, Sub-Consultas]]></video:title>
+        <video:description><![CDATA[Qu&#233; son, para que sirven, las sub-consultas, aqu&#237; te explicamos las diferentes formas de implementar una consulta dentro de otra consulta en SQL Server. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d127/bf4c9e8a-7cbc-42e9-82f1-2fe99564d127/SQLBasico4_mid.mp4</video:content_loc>
+        <video:duration>732</video:duration>
+        <video:publication_date>2016-01-06T20:09:16.5219941+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/SqlBasico3</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/12cc/75dfba4b-0cc4-4210-a3bb-0bcccc8612cc/SQLBasico3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instrucciones B&#225;sicas de SQL en SQL Server, Inner Join, Outer Join, Cross Join]]></video:title>
+        <video:description><![CDATA[Serie de v&#237;deos con los conceptos e instrucciones b&#225;sicas para escribir consultas en SQL Server.  Tercer v&#237;deo donde se muestra el uso de la instrucci&#243;n JOIN para conectar tablas, se explica los tipos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/12cc/75dfba4b-0cc4-4210-a3bb-0bcccc8612cc/SQLBasico3_mid.mp4</video:content_loc>
+        <video:duration>790</video:duration>
+        <video:publication_date>2016-01-06T02:31:16.8366677+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/SQLBasico2</loc>
+      <lastmod>2016-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f7b/15a3ffaa-d685-4ede-8cd3-db7609471f7b/SQLBasico2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instrucciones B&#225;sicas de SQL en SQL Server, Group by y Compute by ]]></video:title>
+        <video:description><![CDATA[Serie de videos con los conceptos e instrucciones b&#225;sicas para escribir consultas en SQL Server.  Segundo video donde se muestra el uso de las instrucciones para agrupar GROUP BY y COMPUTE BY, esta&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f7b/15a3ffaa-d685-4ede-8cd3-db7609471f7b/SQLBasico2_mid.mp4</video:content_loc>
+        <video:duration>889</video:duration>
+        <video:publication_date>2016-01-05T03:47:30.7213487+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/SQLBasico1</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37e5/9b84c6c1-00ac-4dbb-aefc-b5d8f50d37e5/SQLBasico1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instrucciones B&#225;sicas de SQL en SQL Server (Select, Where, Like)]]></video:title>
+        <video:description><![CDATA[Primer video de la serie con los conceptos e instrucciones b&#225;sicas para escribir consultas en SQL Server.  En este primer video explicaci&#243;n de la Instruccion Select, uso del Where y la instrucci&#243;n&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37e5/9b84c6c1-00ac-4dbb-aefc-b5d8f50d37e5/SQLBasico1_mid.mp4</video:content_loc>
+        <video:duration>722</video:duration>
+        <video:publication_date>2016-01-05T03:36:11.2514129+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/PowerMap</loc>
+      <lastmod>2015-12-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6702/887bc4fe-2b60-427e-a036-2daa48ef6702/PowerMap_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerMap]]></video:title>
+        <video:description><![CDATA[Es un complemento de Excel que permite f&#225;cilmente visualizar informaci&#243;n georreferenciada en mapas 3D. Permite incluso mostrar la evoluci&#243;n temporal de dicha informaci&#243;n y acompa&#241;arla de notas al&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6702/887bc4fe-2b60-427e-a036-2daa48ef6702/PowerMap_mid.mp4</video:content_loc>
+        <video:duration>500</video:duration>
+        <video:publication_date>2015-12-04T20:14:31.2653036+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Cursores</loc>
+      <lastmod>2015-10-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e78/135b76fc-3808-45b8-90ff-e5c1fa822e78/Sesion3PowerPivot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Manejo de Cursores en SQL]]></video:title>
+        <video:description><![CDATA[En esta lecci&#243;n se aprende como crear y manejar cursores usando T-SQL, los cursores permiten cargar a memoria un conjunto de datos a partir de un query o consulta. Aqu&#237; te explicamos mas a detalle. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e78/135b76fc-3808-45b8-90ff-e5c1fa822e78/Sesion3PowerPivot_mid.mp4</video:content_loc>
+        <video:duration>1004</video:duration>
+        <video:publication_date>2015-10-15T23:24:58.4712632+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Power-Pivot-Desde-Cero-Sesion-3</loc>
+      <lastmod>2016-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f49/50d28a15-91b8-4c4b-a350-a6e393cc5f49/Sesion3PowerPivot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power Pivot Desde Cero Sesion 3]]></video:title>
+        <video:description><![CDATA[Explicaci&#243;n del funcionamiento de Power Pivot para Excel 2013, para personas que no conocen el manejo de bases de datos partiendo desde los principios b&#225;sicos del modelo relacional, hasta la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f49/50d28a15-91b8-4c4b-a350-a6e393cc5f49/Sesion3PowerPivot_mid.mp4</video:content_loc>
+        <video:duration>1486</video:duration>
+        <video:publication_date>2015-10-15T23:24:31.4008498+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/Power-Pivot-Desde-Cero-Sesion-2</loc>
+      <lastmod>2015-10-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05d9/91f26f03-d918-4b26-ab3c-99df315d05d9/Sesion2PowerPivot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power Pivot Desde Cero, Sesion 2]]></video:title>
+        <video:description><![CDATA[Explicaci&#243;n del funcionamiento de Power Pivot para Excel 2013, para personas que no conocen el manejo de bases de datos partiendo desde los principios b&#225;sicos del modelo relacional, hasta la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05d9/91f26f03-d918-4b26-ab3c-99df315d05d9/Sesion2PowerPivot_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2015-10-15T23:23:45.3779400+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/PowerPivotDesdeCero1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8698/10b9ff9a-8f01-4dad-96d4-84a38a6c8698/Sesion1PowerPivot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power Pivot Desde Cero, Sesion 1]]></video:title>
+        <video:description><![CDATA[Explicaci&#243;n del funcionamiento de Power Pivot para Excel 2013, para personas que no conocen el manejo de bases de datos partiendo desde los principios b&#225;sicos del modelo relacional, hasta la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8698/10b9ff9a-8f01-4dad-96d4-84a38a6c8698/Sesion1PowerPivot_mid.mp4</video:content_loc>
+        <video:duration>815</video:duration>
+        <video:publication_date>2015-10-15T23:22:51.3573705+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/PowerView</loc>
+      <lastmod>2015-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0cc5/503f3c1a-f9ba-42b7-9591-f5d2a54e0cc5/PowerView_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power View]]></video:title>
+        <video:description><![CDATA[Power View permite la visualizaci&#243;n r&#225;pida y f&#225;cil de sus datos y ahora se incluye en Excel 2013, agregando un potencial increible a la generaci&#243;n de reportes en ambientes que el usuario usa&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0cc5/503f3c1a-f9ba-42b7-9591-f5d2a54e0cc5/PowerView_mid.mp4</video:content_loc>
+        <video:duration>1073</video:duration>
+        <video:publication_date>2015-10-05T02:51:10.4274831+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/PowerPivot</loc>
+      <lastmod>2015-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92c1/6272511d-e318-4a36-b919-28d40df192c1/PowerView_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power Pivot]]></video:title>
+        <video:description><![CDATA[Power Pivot para Excel es un complemento que debe agregarse en Excel 2010 y ya viene incluido en Excel 2013. PowerPivot permite a los usuarios realizar poderosos analisis de inteligencia de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92c1/6272511d-e318-4a36-b919-28d40df192c1/PowerView_mid.mp4</video:content_loc>
+        <video:duration>1621</video:duration>
+        <video:publication_date>2015-10-05T02:49:23.9932896+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/CreacionBDSQLServer</loc>
+      <lastmod>2019-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c52f/e1ad00f7-2bd6-45a7-a173-a4147592c52f/CreacionBD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creaci&#243;n de una Base de Datos en SQL Server]]></video:title>
+        <video:description><![CDATA[En este video se describe c&#243;mo crear una base de datos en SQL Server  mediante Transact-SQL. y SQL Server Management Studio. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c52f/e1ad00f7-2bd6-45a7-a173-a4147592c52f/CreacionBD_mid.mp4</video:content_loc>
+        <video:duration>1321</video:duration>
+        <video:publication_date>2015-10-05T00:08:36.7733484+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/AutenticacionEsquemasSQL</loc>
+      <lastmod>2015-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6bf2/f3ce263d-f77a-42f2-9576-dfa09fc56bf2/AutenticacionYEsquemas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Autenticacion y Esquemas en SQL Server]]></video:title>
+        <video:description><![CDATA[Explicaci&#243;n del proceso de autenticaci&#243;n de SQL Server y creaci&#243;n de esquemas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6bf2/f3ce263d-f77a-42f2-9576-dfa09fc56bf2/AutenticacionYEsquemas_mid.mp4</video:content_loc>
+        <video:duration>1341</video:duration>
+        <video:publication_date>2015-10-05T00:08:07.9390061+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SpanishSQLServer/ReplicacionSQL</loc>
+      <lastmod>2018-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/02ae/c6d78def-f7a3-48bd-985e-f99a652f02ae/ConsultasSQLLeccion7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Replicaci&#243;n en SQL Server]]></video:title>
+        <video:description><![CDATA[En este video tutorial se muestra los conceptos y pasos para crear una replicaci&#243;n , paso a paso.  Existen tres tipos de replicaci&#243;n, la replicaci&#243;n de instantanea, replicaci&#243;n transaccional y la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/02ae/c6d78def-f7a3-48bd-985e-f99a652f02ae/ConsultasSQLLeccion7_mid.mp4</video:content_loc>
+        <video:duration>1701</video:duration>
+        <video:publication_date>2015-08-11T18:00:49.8901422+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

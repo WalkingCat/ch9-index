@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2/Migracja-roli-WSUS</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/629f/3e945040-eb50-4dde-9467-bdb514a6629f/wsus_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migracja roli WSUS]]></video:title>
+        <video:description><![CDATA[W module 6 dowiesz się jak zmodyfikować obecną strukturę serwer&#243;w WSUS, kt&#243;ra zapewni możliwość migracji do nowszej wersji systemu operacyjnego. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/629f/3e945040-eb50-4dde-9467-bdb514a6629f/wsus_mid.mp4</video:content_loc>
+        <video:duration>687</video:duration>
+        <video:publication_date>2015-03-19T22:21:51.6802049+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2/Migracja-roli-WDS-Server</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/31c2/96df6615-4851-4815-b28f-8b54e2be31c2/wds_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Migracja roli WDS Server]]></video:title>
+        <video:description><![CDATA[W module 5 zobaczysz w jaki spos&#243;b zmigrować obrazy wdrażania systemu Windows oraz obrazy startowe do nowszej wersji systemu Windows Server. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/31c2/96df6615-4851-4815-b28f-8b54e2be31c2/wds_mid.mp4</video:content_loc>
+        <video:duration>754</video:duration>
+        <video:publication_date>2015-03-19T22:21:43.8451816+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2/Migracja-Distributed-File-System</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/70dd/a1b63892-30ca-461d-aa77-ea7e072470dd/dfs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migracja Distributed File System]]></video:title>
+        <video:description><![CDATA[W module 4 zostanie zaprezentowany spos&#243;b migracji usługi DFS, polegający na rozbudowie obecnej konfiguracji o nową wersję sytemu serwerowego. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/70dd/a1b63892-30ca-461d-aa77-ea7e072470dd/dfs_mid.mp4</video:content_loc>
+        <video:duration>479</video:duration>
+        <video:publication_date>2015-03-19T22:21:34.9719129+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2/Migracja-Print-and-Document-Services</loc>
+      <lastmod>2015-03-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aad6/d685e21c-b3a1-4e9e-8f0d-127d25b2aad6/print_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migracja Print and Document Services]]></video:title>
+        <video:description><![CDATA[W module 3 przedstawiony zostanie spos&#243;b przeniesienia centralnego serwera wydruk&#243;w. Pomiędzy wersjami Windows Server 2008 R2 a Windows Server 2012 R2. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aad6/d685e21c-b3a1-4e9e-8f0d-127d25b2aad6/print_mid.mp4</video:content_loc>
+        <video:duration>739</video:duration>
+        <video:publication_date>2015-03-19T22:21:23.5114455+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2/Migracja-Active-Directory</loc>
+      <lastmod>2015-03-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d033/b395645c-8671-45f7-b4c1-463d12c7d033/ad_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migracja Active Directory]]></video:title>
+        <video:description><![CDATA[W module 2 zaprezentowany zostanie spos&#243;b migracji usługi katalogowej Acyive Directory. Wskazane zostaną gł&#243;wne aspekty, kt&#243;re należy wziąć pod uwagę podczas migracji tej usługi. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d033/b395645c-8671-45f7-b4c1-463d12c7d033/ad_mid.mp4</video:content_loc>
+        <video:duration>1093</video:duration>
+        <video:publication_date>2015-03-19T22:21:11.6450844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-usug-do-Windows-Server-2012-R2/Migracja-roli-DHCP-Server</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a9b/e0f1358b-0c17-45e3-b5b1-c96fd3cd8a9b/dhcp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migracja roli DHCP Server]]></video:title>
+        <video:description><![CDATA[W module 1 dowiesz się z czego składa się i jak działa usługą DHCP Server. Zobaczysz proponowany spos&#243;b migracji usługi pomiędzy r&#243;żnymi wersjami system&#243;w operacyjnych.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a9b/e0f1358b-0c17-45e3-b5b1-c96fd3cd8a9b/dhcp_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2015-03-19T22:20:58.4752546+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

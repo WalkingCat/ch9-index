@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Windows-Machine-Learning-Sessions-and-Bindings</loc>
+      <lastmod>2018-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/a15fe004-7cbf-4042-9333-a993013c4af9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Machine Learning: Sessions and Bindings]]></video:title>
+        <video:description><![CDATA[Killian and Paul (and ROS-powered Rufus!) are ready to show you how to evaluate a model with Windows ML, but not before they cover the importance of sessions and bindings to get there.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e10e/119e3093-19dc-4248-b0df-7731d057e10e/5_mid.mp4</video:content_loc>
+        <video:duration>541</video:duration>
+        <video:publication_date>2018-11-12T16:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Windows-Machine-Learning-Device-Selection</loc>
+      <lastmod>2019-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/b9fcb993-627f-4911-b39a-a993013b6304_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Machine Learning: Device Selection]]></video:title>
+        <video:description><![CDATA[Killian and Paul (and our robot friend Rufus!) go over how to select a device to run Windows ML model evaluation and uncover what the default option really means. https://aka.ms/OverviewOfWinML ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3510/6326b1e0-a88e-4130-9271-02f3ae753510/4_mid.mp4</video:content_loc>
+        <video:duration>375</video:duration>
+        <video:publication_date>2018-11-12T16:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Windows-Machine-Learning-Models-and-Features</loc>
+      <lastmod>2019-04-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/102d29ab-6f29-4071-8f9d-a9930138c53e_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Machine Learning: Models and Features ]]></video:title>
+        <video:description><![CDATA[Killian and Rosane (with guest star Rufus!) discuss loading models and understanding how to determine a given model&#39;s expected inputs and output features. https://aka.ms/OverviewOfWinML ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca23/b05bef6f-5c7f-4212-a79c-21b2622eca23/3_mid.mp4</video:content_loc>
+        <video:duration>485</video:duration>
+        <video:publication_date>2018-11-12T16:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Windows-Machine-Learning-Hello-World-MNIST-Edition</loc>
+      <lastmod>2019-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/8a985d40-4bca-43d9-be32-a9930136b65a_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Machine Learning: Hello World (MNIST Edition)]]></video:title>
+        <video:description><![CDATA[Let&#39;s jump to the code! Killian and Rosane work through the Windows ML MNIST tutorial and answer questions developers commonly ask along the way. https://aka.ms/OverviewOfWinML ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2bda/aea8ba66-e70c-4b17-ba3d-966131792bda/2_mid.mp4</video:content_loc>
+        <video:duration>445</video:duration>
+        <video:publication_date>2018-11-12T16:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Overview-of-Windows-Machine-Learning</loc>
+      <lastmod>2019-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/66b1abac-e6ce-49f8-ba16-a9930115d0e2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Overview of Windows Machine Learning]]></video:title>
+        <video:description><![CDATA[What is Windows Machine Learning and why should you care? Killian and Rosane walk through these questions and clarify the positioning and capabilities of this powerful AI inference engine.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b6a/cd7a5cf4-bd71-4573-a620-3dbcafa59b6a/1_mid.mp4</video:content_loc>
+        <video:duration>442</video:duration>
+        <video:publication_date>2018-11-12T16:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Application-Monetization-with-Vikram-Bodavula</loc>
+      <lastmod>2019-01-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/9295bc91-89c3-4661-bab5-a962010b4e4d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Monetization with Vikram Bodavula]]></video:title>
+        <video:description><![CDATA[Join Vikram for an overview of the Microsoft Ad Monetization platform that can help developers reach their business goals.   Learn more at aka.ms/ifdef-monetize ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea2d/432aba97-4224-4491-93b1-46bdb818ea2d/Episode02Storev2_mid.mp4</video:content_loc>
+        <video:duration>1537</video:duration>
+        <video:publication_date>2018-10-01T16:12:52.8687804+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/MIDL3-with-Larry-Osterman</loc>
+      <lastmod>2019-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/b424dae3-ba16-41af-9f4d-a9420130f889_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MIDL3 with Larry Osterman]]></video:title>
+        <video:description><![CDATA[Join Larry for a deep dive in the Microsoft Interface Definition Language (MIDL) 3.0 for declaring Windows Runtime types. How did MIDL start and how did it get to where it is today? MIDL 3 -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2d5/2015083e-7920-455c-9554-7aa02986b2d5/Episode01Larryv2_mid.mp4</video:content_loc>
+        <video:duration>3266</video:duration>
+        <video:publication_date>2018-08-27T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/Mixed-Reality--Azure</loc>
+      <lastmod>2018-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/c643a813-6c3e-454c-ad3a-a8f1010b35dc_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mixed Reality + Azure]]></video:title>
+        <video:description><![CDATA[What happens when you combine Windows Mixed Reality and Microsoft Azure? Dr. Neil talks about his creations and more. https://aka.ms/ifdef-mr-azure Questions, comments, suggestions - comment below or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ae2/a0617b28-f2db-42f4-9818-d37220bc1ae2/Mixed-Reality-and-Azure_mid.mp4</video:content_loc>
+        <video:duration>582</video:duration>
+        <video:publication_date>2018-05-31T20:08:27.2517686+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/A-new-revenue-share-for-Microsoft-Store-ifdef-WINDOWS</loc>
+      <lastmod>2019-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/525c9a34-9fc1-4552-890b-a8e9012cc99a_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A new revenue share for Microsoft Store - #ifdef WINDOWS]]></video:title>
+        <video:description><![CDATA[We got a hold of Steve Teixeira, General Manager for the Partner App Experience (PAX) team in Windows, to talk to us about the PAX team and the new revenue share coming to the Microsoft store.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be1f/cb3e3eff-83de-4ff9-b283-4d5d7892be1f/ifdef-new-rev-share_mid.mp4</video:content_loc>
+        <video:duration>1417</video:duration>
+        <video:publication_date>2018-05-23T18:26:39.8454037+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/UI-Automation-with-Windows-App-Driver</loc>
+      <lastmod>2018-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/7793f3ff-98be-4a0b-bf48-a8e3006bd0db_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UI Automation with WinAppDriver  Preview into 1.1]]></video:title>
+        <video:description><![CDATA[Hassan Uraizee stopped by to talk about what&#39;s new with WinAppDriver - a UI Test Automation framework for Windows apps - https://aka.ms/ifdef-winappdriver Questions, comments, suggestions - comment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/02f4/27cdcff3-7abb-4947-94e9-fbceccf402f4/ifdef-winappdriverv6_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2018-05-17T20:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-PRIVATE-AUDIENCE--in-the-Microsoft-Store</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/fb4ec27e-3f75-4617-8fd8-a8aa0121b523_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef PRIVATE AUDIENCE // in the Microsoft Store]]></video:title>
+        <video:description><![CDATA[Developers publishing to the Microsoft Store now have the ability to make an app visible to only few selected users. Jonathan Garrigues from the Dev Center team came by to demonstrate -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d32/c6a451f8-6114-4566-a734-5935ffdb5d32/ifdef-privateaudience_mid.mp4</video:content_loc>
+        <video:duration>742</video:duration>
+        <video:publication_date>2018-03-28T18:31:26.9475081+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-WINML</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/61188862-899f-4d39-91e2-a89e016472fd_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef WINML - Windows Machine Learning]]></video:title>
+        <video:description><![CDATA[We asked Lucas Brodzinksi from the Windows Machine Learning team to give us an overview of what is Windows ML, why it is important, and how to get started. https://aka.ms/ifdef-winml - Documentation-&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29b9/0babfeb3-fa0c-4c60-9e6f-fd6d7f8d29b9/winml_mid.mp4</video:content_loc>
+        <video:duration>975</video:duration>
+        <video:publication_date>2018-03-12T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-WEBGL--BABYLONJS</loc>
+      <lastmod>2018-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/c713513c-e314-4435-9678-a88d0117197d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef WEBGL &amp; BABYLONJS]]></video:title>
+        <video:description><![CDATA[David Rousset came by to play with WebVR and BabylonJS. He showed me how to enable WebVR in 2 lines of code. More details at David&#39;s blog Learn more about BabylonJSTry the Haunted Mansion in WebVRMake&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4179/13b73520-2443-480a-a6ac-d76385a24179/ifdef-babylon_mid.mp4</video:content_loc>
+        <video:duration>664</video:duration>
+        <video:publication_date>2018-02-21T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-SURFACEHUB-one-developers-guide</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/243f4240-7712-43a3-8f23-a885012adb75_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef SURFACE_HUB - one developer&#39;s guide]]></video:title>
+        <video:description><![CDATA[Gian Paolo Santopaolo, a Windows MVP and developer lead of CollaBoard, stopped by to talk about the Surface Hub and share tools and tips for other developers building big screen experiences. Get his&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef34/4f538011-4eb2-4b23-98a1-f74b9294ef34/ifdef-ibv1_mid.mp4</video:content_loc>
+        <video:duration>671</video:duration>
+        <video:publication_date>2018-02-14T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-PROGRESSIVEWEBAPPS</loc>
+      <lastmod>2018-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/21465e1b-4090-4981-9969-a87701393262_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef PROGRESSIVE_WEB_APPS]]></video:title>
+        <video:description><![CDATA[Jeff Burtoft from the web apps team shares some history about how Progressive Web Apps came to Windows and what it means to build great PWAs. PWA Builder Like, Share, Subscribe Questions, comments,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44f6/06f1dbfe-109b-4021-a1c0-e821013b44f6/ifdef-pwa_mid.mp4</video:content_loc>
+        <video:duration>954</video:duration>
+        <video:publication_date>2018-01-31T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-LottieUWP</loc>
+      <lastmod>2021-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/35d30efe-c930-4d6a-bc0d-a87001336a11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef LottieUWP]]></video:title>
+        <video:description><![CDATA[Lottie is a library that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on the client! Alexandre walked me through using LottieUWP for Windows apps. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec4d/219c25cc-04e4-45bc-9bb8-6b67a7d5ec4d/lottie_mid.mp4</video:content_loc>
+        <video:duration>966</video:duration>
+        <video:publication_date>2018-01-24T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-3DLAUNCHERS--glTFTOOLKIT</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/24562d11-77c6-4ccc-9f23-a86a0123eb73_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef 3D_LAUNCHERS | glTF_TOOLKIT]]></video:title>
+        <video:description><![CDATA[Roberto Sonnino and Tom Mignone from the Mixed Reality team discuss 3D launchers in Mixed Reality, glTF 3D assets and the glTF toolkit glTF toolkit Mixed Reality model sample app 3D launcher docs 3D&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf0d/fed00511-daf8-47ee-9155-a856673dcf0d/ifdef-gltf-toolki_mid.mp4</video:content_loc>
+        <video:duration>1129</video:duration>
+        <video:publication_date>2018-01-17T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-MIXED-REALITY</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/af210047-c8cb-4b9b-8962-a85d015c8983_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef MIXED REALITY]]></video:title>
+        <video:description><![CDATA[What is Mixed Reality and how do you get started? Mixed Reality Dev Center Page Mixed Reality Toolkit Follow Vlad on Twitter Windows Mixed Reality headsets Questions, comments, suggestions - comment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d389/161572d7-3b6b-4e57-80e5-e88ddb5bd389/ifdef-mixed-reality-new_mid.mp4</video:content_loc>
+        <video:duration>855</video:duration>
+        <video:publication_date>2018-01-10T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-DEVCENTERANALYTICS</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/45542b49-5aeb-4d48-a821-89cd1cca3d97.png</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef DEV_CENTER_ANALYTICS]]></video:title>
+        <video:description><![CDATA[Dev Center analytics enable developers to measure success and generate learnings about how users use their creations, and allow for targeted actions to increase reach and continuously improve the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9275/4214790f-79ed-4790-a401-9ee7db4f9275/ifdefdevcenternalytics_mid.mp4</video:content_loc>
+        <video:duration>715</video:duration>
+        <video:publication_date>2017-12-20T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-SIMPLYGON-Optimizing-3D-assets</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/5b3e4122-a08d-47d6-a558-6e12163e9e1e.png</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef SIMPLYGON - Optimizing 3D assets]]></video:title>
+        <video:description><![CDATA[Simplygon enables developers to automate 3D assets optimization in the cloud with Azure. All devices have variant graphic performance and all 3D data is different. Simplygon can adapt 3D assets to run&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ca0/bd9527fb-dc41-4ba4-b71a-1b9d4f6b2ca0/ifdefsimplygon_mid.mp4</video:content_loc>
+        <video:duration>582</video:duration>
+        <video:publication_date>2017-12-13T18:22:16.3719564+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-MODERNIZE</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/a384b66c-856e-42d5-b823-0c1296e3f9aa.png</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef MODERNIZE]]></video:title>
+        <video:description><![CDATA[Leverage existing WPF / WinForms investments to bring a modern user experience that reaches new audiences enabled by Windows 10 Fall Creators Update, .NET Standard 2.0 and Visual Studio tooling Demo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e4ce/0cd3fe4f-f175-43fd-bf65-d0971d96e4ce/ifdefmodernize_mid.mp4</video:content_loc>
+        <video:duration>645</video:duration>
+        <video:publication_date>2017-12-06T17:53:54.7837310+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-PROMO</loc>
+      <lastmod>2018-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4905/87f4d0cc-f4b7-4b72-a063-b91f2b6e4905/ifdefpromo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[#ifdef PROMO]]></video:title>
+        <video:description><![CDATA[Introducing a brand new Windows dev show. Subscribe to get notified when the first episode is released on Wednesday, December 6th, 2017. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4905/87f4d0cc-f4b7-4b72-a063-b91f2b6e4905/ifdefpromo_mid.mp4</video:content_loc>
+        <video:duration>43</video:duration>
+        <video:publication_date>2017-12-01T18:07:38.9130928+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

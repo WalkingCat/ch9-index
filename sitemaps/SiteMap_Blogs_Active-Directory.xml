@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Active-Directory</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Active-Directory/Syncrhonisation-dune-base-Active-Directory</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/923c/4c45f56b-b434-48d9-bae7-26be4be8923c/SynchroADEtAAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Synchronisation d&#39;une base Active Directory]]></video:title>
+        <video:description><![CDATA[La synchronisation d&#39;une base Active Directory permet aux utilisateurs d&#39;utiliser les fonctionnalit&#233;s de la plateforme Microsoft Intune avec leur identifiant Active Directory. Ainsi l&#39;utilisateur a la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/923c/4c45f56b-b434-48d9-bae7-26be4be8923c/SynchroADEtAAD_mid.mp4</video:content_loc>
+        <video:duration>461</video:duration>
+        <video:publication_date>2015-10-21T07:57:29.7274256+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Active-Directory/Stratgies-de-Groupes-Prfrences-et-stratgie-de-mot-de-passe</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0eb/d02e23a9-4326-4a61-baeb-99fdc84ed0eb/AdministrationAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Strat&#233;gies de Groupes: Pr&#233;f&#233;rences et strat&#233;gie de mot de passe ]]></video:title>
+        <video:description><![CDATA[Cette vid&#233;o permet de voir comment cr&#233;er une pr&#233;f&#233;rence de strat&#233;gies de groupe. De plus la strat&#233;gie de mot de passe affin&#233;e permet de mettre en place des strat&#233;gies de mot de passe et de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0eb/d02e23a9-4326-4a61-baeb-99fdc84ed0eb/AdministrationAD_mid.mp4</video:content_loc>
+        <video:duration>914</video:duration>
+        <video:publication_date>2015-10-07T10:10:57.2526848+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

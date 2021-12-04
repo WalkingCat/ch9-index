@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechNet-Friday</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechNet-Friday/TechNet-Friday-Extra-Azure-Backup</loc>
+      <lastmod>2015-10-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b04/29304f23-2d88-4073-9a72-3f9330f02b04/TNFE1015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[TechNet Friday Extra - Azure Backup]]></video:title>
+        <video:description><![CDATA[TechNet Friday Extra. Azure BackupAzure Backup is a multi-tenanted Azure service that enables you to back up your data present anywhere: on-premises or in Azure. It replaces your existing on-premises&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b04/29304f23-2d88-4073-9a72-3f9330f02b04/TNFE1015_mid.mp4</video:content_loc>
+        <video:duration>3406</video:duration>
+        <video:publication_date>2015-10-08T21:55:31.5141511+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechNet-Friday/TechNet-Friday-October-2015-Azure-Site-Recovery</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9c16/a77352b8-7daf-47ca-af07-93c4e8a79c16/TNF1015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[TechNet Friday - October 2015: Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[TechNet Friday. Azure Site RecoveryHigh availability and disaster recovery are key components of an Enterprise&#39;s IT environment. While more and more companies are adopting Hyper-V on Server 2012 R2&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9c16/a77352b8-7daf-47ca-af07-93c4e8a79c16/TNF1015_mid.mp4</video:content_loc>
+        <video:duration>3316</video:duration>
+        <video:publication_date>2015-10-08T21:26:55.7214116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechNet-Friday/TechNet-Friday-September-2015-Windows-10-Deployment</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b948/f90c51b2-9b1d-4979-a21a-da10eee2b948/TNFridaySept15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[TechNet Friday - September 2015: Windows 10 Deployment]]></video:title>
+        <video:description><![CDATA[Join us for 60 minutes online while Microsoft and community experts give deep dive demonstration about Microsoft technologies. With Windows 10 ready and deployment are top of mind for IT Admins, this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b948/f90c51b2-9b1d-4979-a21a-da10eee2b948/TNFridaySept15_mid.mp4</video:content_loc>
+        <video:duration>4007</video:duration>
+        <video:publication_date>2015-09-08T08:50:27.4913857+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

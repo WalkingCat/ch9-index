@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Windows-Server-2003-EoS-Migrazione-File-Server</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b0ec/99ae7f15-0e0e-495c-8881-f7c4513fb0ec/WS2003_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2003 EoS: Migrazione File Server]]></video:title>
+        <video:description><![CDATA[Esempio di migrazione di un File Server Windows Server 2003. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0ec/99ae7f15-0e0e-495c-8881-f7c4513fb0ec/WS2003_mid.mp4</video:content_loc>
+        <video:duration>1332</video:duration>
+        <video:publication_date>2015-07-15T06:15:13.2701107+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Windows-Server-vNext-Whats-New-in-File-Server</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/33fa/e3572aa7-23fe-4011-9ee9-eb69384c33fa/next3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server v.Next: Whats New in File Server]]></video:title>
+        <video:description><![CDATA[In questa sessione verranno analizzate le soluzioni Microsoft per la gestione del Software Defined Storage. In particolar modo sar&#224; dato rilievo alle novit&#224; introdotte in Windows Server vNetx:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/33fa/e3572aa7-23fe-4011-9ee9-eb69384c33fa/next3_mid.mp4</video:content_loc>
+        <video:duration>2702</video:duration>
+        <video:publication_date>2014-11-14T14:20:04.3476998+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Windows-Server-2012-R2-Deep-Dive-Clustering</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3391/16442d4f-4c65-400b-a662-dcd442a03391/vnext2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2012 R2: Deep Dive Clustering]]></video:title>
+        <video:description><![CDATA[Nelle moderne infrastrutture informatiche sia di piccole che di grandi dimensioni la virtualizzazione &#232; ormai molto diffusa, di conseguenza diventa importante fare in modo che la configurazione&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3391/16442d4f-4c65-400b-a662-dcd442a03391/vnext2_mid.mp4</video:content_loc>
+        <video:duration>4347</video:duration>
+        <video:publication_date>2014-11-14T10:37:13.8843176+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Windows-Server-2003-EoS-Migrazione-Domain-Controller</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8369/4e24c564-0237-4305-8361-44b705ed8369/ws2003_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2003 EoS: Migrazione Domain Controller]]></video:title>
+        <video:description><![CDATA[Dal 15 Luglio 2015 il ciclo di vita di Windows Server 2003 si concluder&#224;. Durante questo video si analizzer&#224; cosa significa questo e quali sono i task da eseguire per migrare i workload critici verso&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8369/4e24c564-0237-4305-8361-44b705ed8369/ws2003_mid.mp4</video:content_loc>
+        <video:duration>1712</video:duration>
+        <video:publication_date>2014-11-14T10:36:11.2849302+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Windows-Server-vNext-Whats-New-in-Hyper-V</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b939/2c45da12-988d-43e5-8630-5933e43ab939/vnext_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server v.Next: Whats New in Hyper-V]]></video:title>
+        <video:description><![CDATA[In questa sessione saranno trattale le varie novit&#224; presenti nella prossima versione di Windows Server ed in particolare quelle legate alla virtualizzazione e a Hyper-V.Poich&#233; attualmente esiste solo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b939/2c45da12-988d-43e5-8630-5933e43ab939/vnext_mid.mp4</video:content_loc>
+        <video:duration>2795</video:duration>
+        <video:publication_date>2014-11-14T10:35:02.8540286+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Windows-Server-vNext-Whats-New-in-Networking</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb17/35afeef9-da65-4cdd-8092-c54004edbb17/vnext3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server v.Next: Whats New in Networking]]></video:title>
+        <video:description><![CDATA[La sessione riguarder&#224; le novit&#224; nella vNext di Windows Server per i componenti di Networking, dal DHCP al DNS, dando uno sguardo alle nuove funzionalit&#224; fornite dal nuovo ruolo Network Controller e&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb17/35afeef9-da65-4cdd-8092-c54004edbb17/vnext3_mid.mp4</video:content_loc>
+        <video:duration>2011</video:duration>
+        <video:publication_date>2014-11-14T10:34:21.9919853+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Introduzione-a-Azure-RemoteApp</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d961/0ac6b9a5-9254-4930-8aca-08498f02d961/remoteapp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure RemoteApp]]></video:title>
+        <video:description><![CDATA[Quali sono le sfide che il personale IT deve affrontare per andare incontro alle esigenze di chi lavora in mobilit&#224;? Nel mondo enterprise, si possono gestire i periodi di lavori stagionali e/o&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d961/0ac6b9a5-9254-4930-8aca-08498f02d961/remoteapp_mid.mp4</video:content_loc>
+        <video:duration>2074</video:duration>
+        <video:publication_date>2014-11-14T10:31:22.9063739+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Server-Infrastructure-Days/Server-Infrastructure-Days-Online-2014/Microsoft-Azure-Site-Recovery</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f030/ddac67c1-e227-4716-aa84-a6366260f030/asr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[Panoramica completissima del nuovo servizio di Recovery di Microsoft Azure. Il video si divide tra la panoramica de servizio e demo esplicative. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f030/ddac67c1-e227-4716-aa84-a6366260f030/asr_mid.mp4</video:content_loc>
+        <video:duration>3721</video:duration>
+        <video:publication_date>2014-11-14T10:30:59.5820175+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

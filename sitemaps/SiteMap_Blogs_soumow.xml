@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/soumow</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/soumow/Le-metier-darchitecte-avec-Jon-Mikel-Inza</loc>
+      <lastmod>2015-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03d6/feb69dd3-a339-462e-a01a-bf31397203d6/InterviewJonMikelInza_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Le metier d&#39;architecte avec Jon Mikel Inza]]></video:title>
+        <video:description><![CDATA[Jon Mikel est un architecte et un ing&#233;nieur confirm&#233;. Il est passionn&#233; par l&#39;ALM, le cloud et l’ing&#233;nierie. Il &#233;tait de passage a Redmond alors j&#39;en ai profit&#233; pour avoir cette discussion avec lui. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03d6/feb69dd3-a339-462e-a01a-bf31397203d6/InterviewJonMikelInza_mid.mp4</video:content_loc>
+        <video:duration>687</video:duration>
+        <video:publication_date>2015-06-09T19:24:21.9968285+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/soumow/build-recap-arabic</loc>
+      <lastmod>2015-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2caf/da036158-6445-40a8-8b2e-527f44bb2caf/BuildArabicRecap_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  ]]></video:title>
+        <video:description><![CDATA[ملخص لأهم إعلانات مايكروسوفت في مؤتمر بيلد 2015 يمكن إيجاد كل التفاصيل على هذا الرابط   https://channel9.msdn.com/Events/Build/2015  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2caf/da036158-6445-40a8-8b2e-527f44bb2caf/BuildArabicRecap_mid.mp4</video:content_loc>
+        <video:duration>253</video:duration>
+        <video:publication_date>2015-05-01T07:14:40.8117220+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

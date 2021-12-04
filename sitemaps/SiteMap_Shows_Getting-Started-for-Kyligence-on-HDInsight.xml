@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Getting-Started-for-Kyligence-on-HDInsight</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Getting-Started-for-Kyligence-on-HDInsight/Getting-Started-to-Use-Kyligence-on-HDInsight</loc>
+      <lastmod>2021-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4636/6ad87e81-ac84-46e3-a890-8e038f0e4636/KyligenceGettingStarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started to Use Kyligence on HDInsight]]></video:title>
+        <video:description><![CDATA[In resource-intensive systems, even though SQL on Hadoop is being improved constantly, queries will compete for runtime resources and it takes hours to return when the work load is high. SQL on Hadoop&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f9d/ad78773e-7b12-475b-9351-00816e765f9d/KyligenceGettingStarted_mid.mp4</video:content_loc>
+        <video:duration>484</video:duration>
+        <video:publication_date>2017-08-01T17:29:52.5765703+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

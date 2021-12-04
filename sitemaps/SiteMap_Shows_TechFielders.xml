@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/azure-stack</loc>
+      <lastmod>2016-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/edcf/b7aecae5-a6fe-4a3a-b7a2-efb90c31edcf/AzureStack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Microsoft Azure Stack ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社エバンジェリスト高添 修 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edcf/b7aecae5-a6fe-4a3a-b7a2-efb90c31edcf/AzureStack_mid.mp4</video:content_loc>
+        <video:duration>747</video:duration>
+        <video:publication_date>2016-07-05T01:01:20.3039263+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/NestedHyper-V</loc>
+      <lastmod>2016-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d95/cb17ea6a-3483-495e-a09f-a6d3b4715d95/NestedHyperV_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nested Hyper-V ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト 株式会社テクニカルエバンジェリスト山本 美穂 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d95/cb17ea6a-3483-495e-a09f-a6d3b4715d95/NestedHyperV_mid.mp4</video:content_loc>
+        <video:duration>1079</video:duration>
+        <video:publication_date>2016-05-16T03:27:44.7785501+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/Nutanix-01</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc97/63def7c9-a3ce-4847-b855-ae3e9762bc97/Nutanix01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nutanix: ]]></video:title>
+        <video:description><![CDATA[講師:ニュータニックス・ジャパン合同会社Senior Systems Engineer阿部 祐亮 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc97/63def7c9-a3ce-4847-b855-ae3e9762bc97/Nutanix01_mid.mp4</video:content_loc>
+        <video:duration>1220</video:duration>
+        <video:publication_date>2016-01-06T05:23:09.8069982+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/Nutanix-02</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca7c/1ff1fa1c-d2ae-4416-b6bd-319a6ff8ca7c/Nutanix02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nutanix: Microsoft Private Cloud Fast Track   ]]></video:title>
+        <video:description><![CDATA[講師:ニュータニックス・ジャパン合同会社Senior Systems Engineer阿部 祐亮 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca7c/1ff1fa1c-d2ae-4416-b6bd-319a6ff8ca7c/Nutanix02_mid.mp4</video:content_loc>
+        <video:duration>1387</video:duration>
+        <video:publication_date>2016-01-06T05:22:43.0959469+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/NetApp-01</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1472/b3f38f24-e599-42db-9fa2-893316a61472/NetApp01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[NetApp:   ]]></video:title>
+        <video:description><![CDATA[講師:NetApp株式会社Systems EngineeringConsulting Systems Engineer池田 正一 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1472/b3f38f24-e599-42db-9fa2-893316a61472/NetApp01_mid.mp4</video:content_loc>
+        <video:duration>1372</video:duration>
+        <video:publication_date>2016-01-06T05:22:06.8694088+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/Cisco-01</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea3d/bdc3a32a-d92c-4e7c-9140-d8fd4561ea3d/Cisco01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cisco: Cisco UCS  Microsoft   System Center  PowerShell ]]></video:title>
+        <video:description><![CDATA[講師:シスコシステムズ合同会社コンサルティング システムズ エンジニア畝高 孝雄 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea3d/bdc3a32a-d92c-4e7c-9140-d8fd4561ea3d/Cisco01_mid.mp4</video:content_loc>
+        <video:duration>1026</video:duration>
+        <video:publication_date>2016-01-06T05:21:31.6451022+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/Cisco-02</loc>
+      <lastmod>2016-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f3f/60377c03-b343-4d78-bc8e-51337e5a8f3f/Cisco02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cisco: Cisco ACI  Microsoft   System Center  Windows Azure Pack ]]></video:title>
+        <video:description><![CDATA[講師:シスコシステムズ合同会社コンサルティング システムズ エンジニア畝高 孝雄 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f3f/60377c03-b343-4d78-bc8e-51337e5a8f3f/Cisco02_mid.mp4</video:content_loc>
+        <video:duration>1506</video:duration>
+        <video:publication_date>2016-01-06T05:21:01.0492990+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/F5-01</loc>
+      <lastmod>2017-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/648b/977c08fa-8389-45b1-ad68-404621ae648b/F501_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F5: !  Office 365  ]]></video:title>
+        <video:description><![CDATA[講師:F5ネットワークスジャパン合同会社セールスエンジニアリング本部牧田 延大 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/648b/977c08fa-8389-45b1-ad68-404621ae648b/F501_mid.mp4</video:content_loc>
+        <video:duration>1323</video:duration>
+        <video:publication_date>2016-01-06T05:19:33.2825157+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/F5-02</loc>
+      <lastmod>2017-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1205/67f3f0c6-e0a9-4264-9a99-391bcde01205/F502_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[F5: Azure  ]]></video:title>
+        <video:description><![CDATA[講師:F5ネットワークスジャパン合同会社セールスエンジニアリング本部牧田 延大 様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1205/67f3f0c6-e0a9-4264-9a99-391bcde01205/F502_mid.mp4</video:content_loc>
+        <video:duration>1481</video:duration>
+        <video:publication_date>2016-01-06T05:19:03.2187574+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/GMO-WMI--Container-Programming</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/957b/93275147-4929-4b37-b03e-f53aa249957b/03TFWSContainer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GMO WMI  Container Programming]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社 テクニカル エバンジェリスト 高添 修 GMO インターネット株式会社 樋口 勝一様   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/957b/93275147-4929-4b37-b03e-f53aa249957b/03TFWSContainer_mid.mp4</video:content_loc>
+        <video:duration>1061</video:duration>
+        <video:publication_date>2015-12-14T11:30:31.8948557+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/GMO-Windows-Server-Container-</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e518/8c7a79d0-eb91-452d-a102-bd865822e518/TFWSContainer02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GMO Windows Server Container ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社 テクニカルエバンジェリスト 高添 修 GMOインターネット株式会社 樋口 勝一様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e518/8c7a79d0-eb91-452d-a102-bd865822e518/TFWSContainer02_mid.mp4</video:content_loc>
+        <video:duration>947</video:duration>
+        <video:publication_date>2015-12-14T10:27:06.0704895+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/Windows-Server-Containers--Windows--</loc>
+      <lastmod>2015-12-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b22/b23ef6dd-42d2-4696-a5b5-7ef59ee68b22/TFWSContainer01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server Containers  - Windows  -]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社 テクニカル エバンジェリスト 高添 修 GMO インターネット株式会社 樋口 勝一様 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b22/b23ef6dd-42d2-4696-a5b5-7ef59ee68b22/TFWSContainer01_mid.mp4</video:content_loc>
+        <video:duration>903</video:duration>
+        <video:publication_date>2015-12-14T10:26:39.5842977+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/TechFielders/tnf-nestedhyper-v</loc>
+      <lastmod>2016-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a515/2b4db215-fc1d-478c-8641-a7c0698ea515/TNF11NestedHyperV_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[! Nested Hyper-V ]]></video:title>
+        <video:description><![CDATA[Nested Hyper-V ＝ Hyper-V 上で動く仮想マシンの中で Hyper-V を動かすことができるようになります。どんな風に動くのかが知りたい方は、こちらの動画をご覧ください。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a515/2b4db215-fc1d-478c-8641-a7c0698ea515/TNF11NestedHyperV_mid.mp4</video:content_loc>
+        <video:duration>1045</video:duration>
+        <video:publication_date>2015-11-17T03:12:35.3606082+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/app-service-history-lesson</loc>
+      <lastmod>2017-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5dc0/81dfd972-3727-4617-8434-22a386925dc0/AppServiceHistoryLesson_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[app-service-history-lesson]]></video:title>
+        <video:description><![CDATA[This is a short introduction to Azure App Service and the components that, once individual, were comprised together to make the larger, more comprehensive offering that makes it easier than ever for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5dc0/81dfd972-3727-4617-8434-22a386925dc0/AppServiceHistoryLesson_mid.mp4</video:content_loc>
+        <video:duration>228</video:duration>
+        <video:publication_date>2016-06-01T20:48:15.5059736+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Create-your-first-Azure-Function-simple</loc>
+      <lastmod>2017-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36d6/fdf64dc6-028c-4915-8093-548fbf2f36d6/CreateYourFirstAzureFunctionSimple_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create your first Azure Function]]></video:title>
+        <video:description><![CDATA[Create your first Azure Function with this simple example using a HTTP Trigger. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36d6/fdf64dc6-028c-4915-8093-548fbf2f36d6/CreateYourFirstAzureFunctionSimple_mid.mp4</video:content_loc>
+        <video:duration>187</video:duration>
+        <video:publication_date>2016-05-05T08:47:45.1636931+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Create-your-first-Azure-Function</loc>
+      <lastmod>2018-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7fb0/a3019576-b9a9-4ac1-aa45-befab6877fb0/CreateYourFirstAzureFunction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create your first Azure Function]]></video:title>
+        <video:description><![CDATA[In this video, you will see how easy it is to create an Azure Function with a simple HTTP Trigger. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7fb0/a3019576-b9a9-4ac1-aa45-befab6877fb0/CreateYourFirstAzureFunction_mid.mp4</video:content_loc>
+        <video:duration>364</video:duration>
+        <video:publication_date>2016-03-31T15:27:54.6966420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Create-a-Web-Hook-or-API-Azure-Function</loc>
+      <lastmod>2018-07-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c00/31b4fa5e-9d40-4564-92d6-5bee82553c00/CreateAWebhookOrAPIFunction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a webhook or API Azure Function]]></video:title>
+        <video:description><![CDATA[In this video, you will see how to create an Azure Function which consumes a GitHub webhook. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c00/31b4fa5e-9d40-4564-92d6-5bee82553c00/CreateAWebhookOrAPIFunction_mid.mp4</video:content_loc>
+        <video:duration>145</video:duration>
+        <video:publication_date>2016-03-31T15:27:37.9857480+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Create-an-event-processing-Azure-Function</loc>
+      <lastmod>2018-07-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc6b/79c40b3b-4ab0-4db7-afa1-9a3f3856dc6b/CreateAEventProcessingFunction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create an event processing Azure Function]]></video:title>
+        <video:description><![CDATA[In this Video, you will learn how to use a Azure Functions Timer Trigger to do some scheduled database cleanup. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc6b/79c40b3b-4ab0-4db7-afa1-9a3f3856dc6b/CreateAEventProcessingFunction_mid.mp4</video:content_loc>
+        <video:duration>190</video:duration>
+        <video:publication_date>2016-03-31T15:27:20.9931188+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Create-an-Azure-Function-which-binds-to-an-Azure-service</loc>
+      <lastmod>2017-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f10/f26b0909-ddc5-49d9-8d38-c5fe29c43f10/CreateAnAzureFunctionWhichBindsToAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create an Azure Function which binds to an Azure service]]></video:title>
+        <video:description><![CDATA[In this video, you will learn how to connect an Azure Function which reacts to other Azure Services. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f10/f26b0909-ddc5-49d9-8d38-c5fe29c43f10/CreateAnAzureFunctionWhichBindsToAzure_mid.mp4</video:content_loc>
+        <video:duration>1095</video:duration>
+        <video:publication_date>2016-03-31T15:27:02.3642360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Auto-Healing-an-Azure-App-Service</loc>
+      <lastmod>2017-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ddd9/388b6eca-d2dd-41a7-869b-4d793bdeddd9/SiteAutoHealing_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Auto-Healing an Azure App Service]]></video:title>
+        <video:description><![CDATA[In this video, Apurva Joshi outlines the Azure App Service feature auto-heal which will automatically restart your Web App when certain triggers are fired. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ddd9/388b6eca-d2dd-41a7-869b-4d793bdeddd9/SiteAutoHealing_mid.mp4</video:content_loc>
+        <video:duration>692</video:duration>
+        <video:publication_date>2015-04-17T23:03:50.7851042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Protecting-Site-Slots-with-Web-App-Authentication-and-Authorization</loc>
+      <lastmod>2017-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b39f/f7f3b3f2-8958-4529-9988-22ee37f1b39f/ProtectingSiteSlotsWithEasyAuth_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protecting Site Slots with Web App Authentication and Authorization]]></video:title>
+        <video:description><![CDATA[In this video, Byron Tardif outlines the Azure App Service feature Authentication &amp;amp; Authorization which configures an Application in AAD in order to protect your site slots. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b39f/f7f3b3f2-8958-4529-9988-22ee37f1b39f/ProtectingSiteSlotsWithEasyAuth_mid.mp4</video:content_loc>
+        <video:duration>714</video:duration>
+        <video:publication_date>2015-04-14T00:46:58.2616520+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Github-Continuous-Delivery-in-the-Preview-Portal</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b47f/a6ee49bd-40dc-4545-9344-4326bc6fb47f/PreviewPortalGitHubFlow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Github Continuous Delivery in the Preview Portal]]></video:title>
+        <video:description><![CDATA[In this video, Byron Tardif shows us how the new portal enables much more fine grain control over which GitHub repository you can deploy to you Web App. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b47f/a6ee49bd-40dc-4545-9344-4326bc6fb47f/PreviewPortalGitHubFlow_mid.mp4</video:content_loc>
+        <video:duration>520</video:duration>
+        <video:publication_date>2015-04-13T23:35:39.7869627+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/StaticDynamic-IP-Restrictions-DDOS-Protection</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0a41/51d4b05b-ed07-4172-9486-60ab05f10a41/IPFiltering_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Static/Dynamic IP Restrictions -- DDOS Protection]]></video:title>
+        <video:description><![CDATA[In this video, Nazim Lala demonstrates how to configure IP restriction for Azure Web Apps to help secure your web app and to help mitigate Denial of Service attacks against your application. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0a41/51d4b05b-ed07-4172-9486-60ab05f10a41/IPFiltering_mid.mp4</video:content_loc>
+        <video:duration>739</video:duration>
+        <video:publication_date>2015-04-13T22:55:49.2698946+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Authenticating-a-Windows-Azure-Web-Site-against-an-Office-365-Domain</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f11/da7d49ea-c2fc-4585-a5c0-6e1d95328f11/WindowsAzureWebSitesAndOffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Authenticating a Windows Azure Web Site against an Office 365 Domain]]></video:title>
+        <video:description><![CDATA[Using Visual Studio 2012&#39;s ASP.NET Tools for Windows Azure Active Directory you can easily set up your ASP.NET applications so that they can authenticate against your Office 365 domain. If you&#39;re an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f11/da7d49ea-c2fc-4585-a5c0-6e1d95328f11/WindowsAzureWebSitesAndOffice365_mid.mp4</video:content_loc>
+        <video:duration>232</video:duration>
+        <video:publication_date>2013-06-19T17:53:38.8485958+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Testing-an-Application-Package-for-the-Web-Application-Gallery-Part-1</loc>
+      <lastmod>2017-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff72/8665357e-3a50-4334-a26c-cba66363ff72/WebAppGalleryPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Testing an Application Package for the Web Application Gallery - Part 1]]></video:title>
+        <video:description><![CDATA[This tutorial shows up how to test your application package on Web Platform Installer before submitting to the Web Application Gallery. If you&#39;re a developer who has an application that would be a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff72/8665357e-3a50-4334-a26c-cba66363ff72/WebAppGalleryPart1_mid.mp4</video:content_loc>
+        <video:duration>310</video:duration>
+        <video:publication_date>2013-04-19T15:32:52.4571405+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Testing-Application-Packages-for-the-Web-Application-Gallery--Part-2</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b076/2f930ce6-c319-43c9-b66f-32fbda8cb076/WebAppGalleryPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Testing Application Packages for the Web Application Gallery  Part 2 ]]></video:title>
+        <video:description><![CDATA[This tutorial shows up how to test your application package on Web Matrix before submitting to the Web Application Gallery. If you have an application you&#39;d like to include in either the online Web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b076/2f930ce6-c319-43c9-b66f-32fbda8cb076/WebAppGalleryPart2_mid.mp4</video:content_loc>
+        <video:duration>426</video:duration>
+        <video:publication_date>2013-04-19T15:27:03.0857025+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Dropbox-Deployment-to-Windows-Azure-Web-Sites</loc>
+      <lastmod>2016-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4a86/f8ab46d6-2488-4e58-9d51-ded7ed094a86/DropBoxAndWindowsAzureWebSites_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dropbox Deployment to Windows Azure Web Sites]]></video:title>
+        <video:description><![CDATA[Windows Azure Web Sites provides a multitude of deployment options - FTP and Web Deploy publishing, as well as integrated publishing using GitHub.com, CodePlex.com, and BitBucket. The latest addition&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4a86/f8ab46d6-2488-4e58-9d51-ded7ed094a86/DropBoxAndWindowsAzureWebSites_mid.mp4</video:content_loc>
+        <video:duration>230</video:duration>
+        <video:publication_date>2013-03-25T16:46:47.5094990+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Migrate-a-Database-backed-Web-Site-and-database-to-Windows-Azure-Web-Sites</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c9f7/3ab00206-786a-412a-904a-da77488dc9f7/MigratingWebSitesAndDatabasesToWindowsAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrate a Database-backed Web Site (and database) to Windows Azure Web Sites]]></video:title>
+        <video:description><![CDATA[Many demonstrations and tutorials exist for creating a new web site hosted on Windows Azure Web Sites, but this video will walk you through the process of moving an existing site, and the site&#39;s SQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c9f7/3ab00206-786a-412a-904a-da77488dc9f7/MigratingWebSitesAndDatabasesToWindowsAzure_mid.mp4</video:content_loc>
+        <video:duration>371</video:duration>
+        <video:publication_date>2013-02-27T16:09:29.4295570+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Configuring-ASPNET-Application-using-the-Windows-Azure-Management-Portal</loc>
+      <lastmod>2017-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9973/661eb4c0-0322-4e21-81f4-d2aa2ec29973/ConfigAspNetWAPortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring ASP.NET Application using the Windows Azure Management Portal]]></video:title>
+        <video:description><![CDATA[Within the dashboard of any Windows Azure Web Sites is a powerful tab labeled &amp;quot;Configuration.&amp;quot; On this tab you can manage your application settings, connection strings, and a variety of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9973/661eb4c0-0322-4e21-81f4-d2aa2ec29973/ConfigAspNetWAPortal_mid.mp4</video:content_loc>
+        <video:duration>491</video:duration>
+        <video:publication_date>2013-02-05T00:03:18.3715951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Managing-Windows-Azure-Web-Sites-with-PowerShell</loc>
+      <lastmod>2017-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4bae/c2dbe677-aaa8-4847-a787-9aca5eca4bae/ManagingWAWSwithPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Windows Azure Web Sites with PowerShell]]></video:title>
+        <video:description><![CDATA[The Windows Azure Web Sites platform is manageable from within the Windows Azure portal, but did you know you can also manage your sites from the PowerShell command line? Using the Windows Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4bae/c2dbe677-aaa8-4847-a787-9aca5eca4bae/ManagingWAWSwithPowerShell_mid.mp4</video:content_loc>
+        <video:duration>670</video:duration>
+        <video:publication_date>2013-02-05T00:03:03.6544492+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Continuous-Deployment-to-Windows-Azure-Web-Sites-with-Team-Foundation-Services</loc>
+      <lastmod>2016-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a316/537aa1c2-a8e0-4eb3-b102-594fe1d9a316/CItoWAWSusingTFS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Deployment to Windows Azure Web Sites with Team Foundation Services ]]></video:title>
+        <video:description><![CDATA[In this video, Brady Gaster demonstrates how you can use Team Foundation Services to continuously deploy an ASP.NET web site on Windows Azure Web Sites. As quickly as you can check in code, you can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a316/537aa1c2-a8e0-4eb3-b102-594fe1d9a316/CItoWAWSusingTFS_mid.mp4</video:content_loc>
+        <video:duration>644</video:duration>
+        <video:publication_date>2013-02-05T00:02:49.4212791+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

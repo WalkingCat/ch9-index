@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/U-SQL-The-U-in-Big-Data</loc>
+      <lastmod>2018-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0785/1cd4a953-c491-4d6a-94dc-b06f8ca10785/DataExposedSession03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[U-SQL: The U in Big Data]]></video:title>
+        <video:description><![CDATA[Oliver Engels hosts the father of U-SQL, Microsoft Principal Program Manager Michael Rys and other panel members Kenneth Nielsen and Sascha Dittmann to talk about the new U-SQL language, its&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0785/1cd4a953-c491-4d6a-94dc-b06f8ca10785/DataExposedSession03_mid.mp4</video:content_loc>
+        <video:duration>1957</video:duration>
+        <video:publication_date>2016-06-09T08:00:58.4964601+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/Lets-Talk-SQL-Server-2016-Security</loc>
+      <lastmod>2018-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b23/9e99adce-5e6f-4926-8a09-b399382c3b23/DataExposedSession06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Let&#39;s Talk SQL Server 2016 Security]]></video:title>
+        <video:description><![CDATA[Microsoft Principal Program Manager Joachim Hammer talks SQL Server Security with his panel Andreas Wolter and Tobias Koprowski. Topics include new security features in SQL Server 2016 and how it is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b23/9e99adce-5e6f-4926-8a09-b399382c3b23/DataExposedSession06_mid.mp4</video:content_loc>
+        <video:duration>1988</video:duration>
+        <video:publication_date>2016-06-09T07:46:07.7931612+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/The-Future-of-SQL-PASS-in-the-Microsoft-Data-Platform</loc>
+      <lastmod>2020-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb50/b3ff8469-3d89-4db3-9c15-c9ef8c84cb50/DataExposedSQLKonferenz07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Future of SQL PASS in the Microsoft Data Platform]]></video:title>
+        <video:description><![CDATA[This session is all about community. With a panel of European community leaders Kostja Klein  discuss, how PASS, the global Microsoft data platform community will evolve, what are the challenges and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb50/b3ff8469-3d89-4db3-9c15-c9ef8c84cb50/DataExposedSQLKonferenz07_mid.mp4</video:content_loc>
+        <video:duration>2209</video:duration>
+        <video:publication_date>2016-04-25T20:48:57.4976307+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/The-box-is-back--The-future-of-SQL-Server-2016-on-premises</loc>
+      <lastmod>2020-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/819f/f0a1aa6a-754e-46a3-8742-22b76b73819f/SQLKonferenz9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The box is back   The future of SQL Server 2016 on premises]]></video:title>
+        <video:description><![CDATA[The box is back - Matt Mason Senior Program Manager Microsoft and a bunch of German Data Platform Experts talk about the big revival of the on premise product with the release of SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/819f/f0a1aa6a-754e-46a3-8742-22b76b73819f/SQLKonferenz9_mid.mp4</video:content_loc>
+        <video:duration>2579</video:duration>
+        <video:publication_date>2016-04-24T00:53:42.9261852+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/Microsoft-Data-Platform-Mobile-First-with-Power-BI</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a693/792e5f30-4c99-4dc4-a56d-8ce1bdb8a693/SQLKonferenz8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Data Platform - Mobile First with Power BI]]></video:title>
+        <video:description><![CDATA[Is Microsoft really Mobile First in the data platform? Learn from a panel of experts together with Yaniv Kravitz Senior Program Manager Power BI how you can drive mobility on the Microsoft Data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a693/792e5f30-4c99-4dc4-a56d-8ce1bdb8a693/SQLKonferenz8_mid.mp4</video:content_loc>
+        <video:duration>2022</video:duration>
+        <video:publication_date>2016-04-24T00:51:35.3708142+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/Keep-pace-in-learning-How-do-I-survive-the-innovation-speed</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e2b/09ea6f81-0ad3-456d-96df-df2e7abc7e2b/SQLKonferenz20167_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keep pace in learning: How do I survive the innovation speed?]]></video:title>
+        <video:description><![CDATA[This panel of Microsoft Certified Trainers talks with Dandy Weyn, Microsoft Worldwide Technical Lead about how you can you keep pace with the innovation speed of Microsoft. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e2b/09ea6f81-0ad3-456d-96df-df2e7abc7e2b/SQLKonferenz20167_mid.mp4</video:content_loc>
+        <video:duration>2219</video:duration>
+        <video:publication_date>2016-04-24T00:48:29.1314188+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/Azure-SQL-DB-The-future-of-SQL-Server-is-in-the-cloud</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/494c/3639b508-6d44-4d33-97ad-a7a918dc494c/SQLKonferenz20166_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure SQL DB - The future of SQL Server is in the cloud]]></video:title>
+        <video:description><![CDATA[Data Exposed Anchorman Scott Klein will talk in English with a panel of SQL Server Experts about the future of SQL Server in the cloud. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/494c/3639b508-6d44-4d33-97ad-a7a918dc494c/SQLKonferenz20166_mid.mp4</video:content_loc>
+        <video:duration>1702</video:duration>
+        <video:publication_date>2016-04-24T00:45:25.8326632+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/Data-Platform-In-Memory-SAP-HANA</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f0f/e63dde94-4f0d-4ec2-97a3-048b25772f0f/SQLKonferenz20162_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data Platform In Memory - SAP HANA]]></video:title>
+        <video:description><![CDATA[If you are interested how Microsoft competes and partners with SAP especially on the In Memory market, this session is for you. In German, Microsoft Lead for the Partnership with SAP J&#252;rgen Thomas&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f0f/e63dde94-4f0d-4ec2-97a3-048b25772f0f/SQLKonferenz20162_mid.mp4</video:content_loc>
+        <video:duration>2619</video:duration>
+        <video:publication_date>2016-04-24T00:41:23.5820069+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/MS-Data-Platform-in-Deutschland-Quo-Vadis</loc>
+      <lastmod>2020-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7802/23a8666f-7513-49f0-9ff6-d896dac97802/SQLKonferenz20161_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS Data Platform in Deutschland - Quo Vadis?]]></video:title>
+        <video:description><![CDATA[This session, in German, is about how the Microsoft Data Platform evolves in Germany. The panel of Microsoft customers and partners talks about the challenges and opportunities the German market has&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7802/23a8666f-7513-49f0-9ff6-d896dac97802/SQLKonferenz20161_mid.mp4</video:content_loc>
+        <video:duration>2865</video:duration>
+        <video:publication_date>2016-04-24T00:38:35.5492848+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/2-SQL-Server-Konferenz-2016-Welcomes-Data-Exposed</loc>
+      <lastmod>2020-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d210/1641fa61-004a-41fe-b5d5-a1fc8b8ed210/SQLKonferenz20160_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server Konferenz 2016 Welcomes Data Exposed]]></video:title>
+        <video:description><![CDATA[Tillmann Eitelberg, Oliver Engels, and Scott Klein kick off the Data Exposed Studio at SQL Server Konferenz 2016 in Darmstadt Germany! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d210/1641fa61-004a-41fe-b5d5-a1fc8b8ed210/SQLKonferenz20160_mid.mp4</video:content_loc>
+        <video:duration>338</video:duration>
+        <video:publication_date>2016-04-24T00:34:10.5248698+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Konferenz-2016/1-SQL-Server-Konferenz-Introduction</loc>
+      <lastmod>2020-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db54/02a9d536-375e-4a4c-9ae7-36c7018edb54/SQLKonferenz2016Intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server Konferenz Introduction]]></video:title>
+        <video:description><![CDATA[Tillman Eitelberg, Oliver Engels, and Kostja Klein introduce SQL Server Konferenz 2016 and what awaits all the attendees!   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db54/02a9d536-375e-4a4c-9ae7-36c7018edb54/SQLKonferenz2016Intro_mid.mp4</video:content_loc>
+        <video:duration>297</video:duration>
+        <video:publication_date>2016-04-24T00:24:37.2753872+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

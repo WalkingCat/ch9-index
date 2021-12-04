@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Business-Intelligence-and-SharePoint-Server-2010-with-Kevin-Goff</loc>
+      <lastmod>2019-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/c7ef/854b6fac-3f95-4e86-819e-9e86012ac7ef/geekSpeakBIwithKevinGoff_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Business Intelligence and SharePoint Server 2010 with Kevin Goff]]></video:title>
+        <video:description><![CDATA[ Microsoft SharePoint Server 2010 provides many opportunities to render data from business intelligence (BI) applications. In this episode of geekSpeak, Microsoft Most Valuable Professional (MVP)&amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/c7ef/854b6fac-3f95-4e86-819e-9e86012ac7ef/geekSpeakBIwithKevinGoff_high_ch9.mp4</video:content_loc>
+        <video:duration>3673</video:duration>
+        <video:publication_date>2011-02-11T21:53:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-The-Reactive-Framework-with-Jim-Wooley</loc>
+      <lastmod>2011-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/bc79/943a8a58-919f-4c4d-b14a-9e790180bc79/geekSpeakReactiveFramework_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - The Reactive Framework with Jim Wooley]]></video:title>
+        <video:description><![CDATA[ If you&#39;ve used Language-Integrated Query (LINQ), you&#39;ve seen the power and flexibility of the IEnumerable interface. Sadly, this &amp;quot;pull&amp;quot; approach breaks down in asynchronous and event-driven&amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/bc79/943a8a58-919f-4c4d-b14a-9e790180bc79/geekSpeakReactiveFramework_high_ch9.mp4</video:content_loc>
+        <video:duration>3622</video:duration>
+        <video:publication_date>2011-02-01T22:40:30.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Asynchronous-Programming-Now-and-in-the-Future</loc>
+      <lastmod>2019-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/8e13/99212897-e53d-43cd-9447-9e6d00468e13/geekSpeakAsynchronousProgramming_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Asynchronous Programming Now and in the Future]]></video:title>
+        <video:description><![CDATA[ In this geekSpeak, Jason Rainwater shows us the evolution of asynchronous programming and how techniques have changed as new features have been added to Microsoft .NET. Jason covers event-based&amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/8e13/99212897-e53d-43cd-9447-9e6d00468e13/geekSpeakAsynchronousProgramming_high_ch9.mp4</video:content_loc>
+        <video:duration>3499</video:duration>
+        <video:publication_date>2011-01-17T16:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-PowerShell-for-NET-Developers-with-Doug-Finke</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3483/573483/geekSpeakPowershell_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - PowerShell for .NET Developers with Doug Finke]]></video:title>
+        <video:description><![CDATA[
+In this episode of geekSpeak, Microsoft Most Valuable Professional (MVP) Doug Finke takes us on a deep dive into PowerShell from a developer&#39;s point of view. Doug shows techniques for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3483/573483/geekSpeakPowershell_ch9.mp4</video:content_loc>
+        <video:duration>3494</video:duration>
+        <video:publication_date>2010-09-15T16:35:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-WCF-Extensibility-with-Scott-Reed</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9244/569244/geekSpeakWCFExtensibility_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - WCF Extensibility with Scott Reed]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, DevelopMentor instructor Scott Reed talks in depth about Windows Communication Foundation (WCF) and its extensibility model. Scott provides an overview of what&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9244/569244/geekSpeakWCFExtensibility_ch9.mp4</video:content_loc>
+        <video:duration>3835</video:duration>
+        <video:publication_date>2010-08-25T22:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Business-Intelligence-for-the-NET-Framework-Developer-with-Andrew-Brust-dupe</loc>
+      <lastmod>2012-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4676/564676/geekSpeakBIwithAndrewBrust_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Business Intelligence for the .NET Framework Developer with Andrew Brust]]></video:title>
+        <video:description><![CDATA[
+In this episode of geekSpeak, Microsoft regional director Andrew Brust answers the question: &amp;quot;Why should developers care about business intelligence?&amp;quot; Andrew gives an overview of Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4676/564676/geekSpeakBIwithAndrewBrust_ch9.mp4</video:content_loc>
+        <video:duration>3525</video:duration>
+        <video:publication_date>2010-08-04T20:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Local-Messaging-and-Silverlight-with-Brian-Lagunas</loc>
+      <lastmod>2011-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/4/3/1/6/5/geekSpeakSilverlightwithBrianLagunas_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Local Messaging and Silverlight with Brian Lagunas]]></video:title>
+        <video:description><![CDATA[A powerful feature of Microsoft Silverlight is the ability for different Silverlight controls to communicate, even with instances running out of browser. In this geekSpeak, Silverlight guru Brian&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/4/3/1/6/5/geekSpeakSilverlightwithBrianLagunas_ch9.mp4</video:content_loc>
+        <video:duration>3452</video:duration>
+        <video:publication_date>2010-07-16T17:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Web-Application-Testing-with-Jeff-McWherter</loc>
+      <lastmod>2015-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/3/7/7/5/5/geekSpeakWebAppTestingMcWherter_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Web Application Testing with Jeff McWherter]]></video:title>
+        <video:description><![CDATA[
+As Web applications move beyond simple HTML forms and postbacks, developers must have an effecting testing strategy to address the new capabilities. In this episode of geekSpeak, author Jeff&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/3/7/7/5/5/geekSpeakWebAppTestingMcWherter_ch9.mp4</video:content_loc>
+        <video:duration>3603</video:duration>
+        <video:publication_date>2010-06-28T20:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Mastering-the-Dynamic-keyword-in-C-with-Bill-Wagner</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/1/1/5/5/5/geekSpeakDynamicKeyword_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Mastering the Dynamic keyword in C# with Bill Wagner ]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, author and expert Bill Wagner introduces us to one of the coolest language features of Microsoft Visual C# 4.0, dynamic keyword. Bill explains how to use the dynamic&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/1/1/5/5/5/geekSpeakDynamicKeyword_ch9.mp4</video:content_loc>
+        <video:duration>3596</video:duration>
+        <video:publication_date>2010-06-15T00:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Powershell-for-Data-Professionals</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/8/5/8/4/5/geekSpeakPowershell_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Powershell for Data Professionals ]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, Microsoft SQL Server guru Aaron Nelson shows you how to take control of your SQL Server with PowerShell. Aaron demonstrates how to perform everyday database administrator&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/8/5/8/4/5/geekSpeakPowershell_ch9.mp4</video:content_loc>
+        <video:duration>3572</video:duration>
+        <video:publication_date>2010-05-07T15:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Five-Key-Developer-Features-in-Expression-Blend-with-Corey-Schuman</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/4/5/6/4/5/geekSpeakExpressionBlend_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Five Key Developer Features in Expression Blend with Corey Schuman]]></video:title>
+        <video:description><![CDATA[Are you a Microsoft Silverlight or Windows Presentation Foundation (WPF) developer looking to get the most out of Microsoft Expression Blend? If so, tune in to this episode of geekSpeak where&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/4/5/6/4/5/geekSpeakExpressionBlend_ch9.mp4</video:content_loc>
+        <video:duration>3552</video:duration>
+        <video:publication_date>2010-04-26T22:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Windows-Azure-AppFabric</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/5/4/3/4/5/geekSpeakWinAzureAppFab_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Windows Azure AppFabric with Jon Flanders]]></video:title>
+        <video:description><![CDATA[
+In this geekSpeak webcast, industry guru and author Jon Flanders provides details on the caching feature in the recently released Windows Azure AppFabric. AppFabric is a set of integrated&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/5/4/3/4/5/geekSpeakWinAzureAppFab_ch9.mp4</video:content_loc>
+        <video:duration>3323</video:duration>
+        <video:publication_date>2010-04-12T22:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Inside-SQL-Server-Integration-Services-with-Andy-Leonard</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/6/4/9/3/5/geekSpeakInsideSQLServerAndyLeonard_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Inside SQL Server Integration Services with Andy Leonard]]></video:title>
+        <video:description><![CDATA[In this geekSpeak, Microsoft Most Valuable Professional (MVP) Andy Leonard discusses best practices for using Microsoft SQL Server Integration Services (SSIS) in the enterprise. Andy explains what&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/6/4/9/3/5/geekSpeakInsideSQLServerAndyLeonard_ch9.mp4</video:content_loc>
+        <video:duration>3493</video:duration>
+        <video:publication_date>2010-03-26T23:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Silverlight-Testing-with-Jeremy-Likness</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/4/4/2/3/5/geekSpeakSilverlightTesting_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Silverlight Testing with Jeremy Likness ]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, Jeremy Likness focuses on the Microsoft Silverlight Unit Testing Framework. Jeremy shows us how to design Silverlight applications to take advantage of unit testing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/4/4/2/3/5/geekSpeakSilverlightTesting_ch9.mp4</video:content_loc>
+        <video:duration>3534</video:duration>
+        <video:publication_date>2010-02-26T01:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Persistence-Ignorance-and-Entity-Framework-4-with-Dane-Morgridge</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/4/5/7/2/5/geekSpeakEntityFramework4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Persistence Ignorance and Entity Framework 4 with Dane Morgridge]]></video:title>
+        <video:description><![CDATA[Persistence ignorance is one of the biggest features missing in Entity Framework 1 and one of the most exciting features coming with Entity Framework 4. In this webcast, Dane Morgridge explains how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/4/5/7/2/5/geekSpeakEntityFramework4_ch9.mp4</video:content_loc>
+        <video:duration>3506</video:duration>
+        <video:publication_date>2010-02-11T23:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-SQL-Azure-Under-the-Hood-with-Chris-Rolon</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/5/9/3/2/5/geekSpeakSQLAzureRolon_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - SQL Azure Under the Hood with Chris Rolon]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, Chris Rolon gives us a look under the hood of Microsoft SQL Azure to see how was constructed. Chris discusses the issues involving high availability, failure detection,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/5/9/3/2/5/geekSpeakSQLAzureRolon_ch9.mp4</video:content_loc>
+        <video:duration>3644</video:duration>
+        <video:publication_date>2010-01-29T00:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Migrating-to-Team-Foundation-Server-from-Visual-SourceSafe</loc>
+      <lastmod>2011-02-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/4/9/3/2/5/geekSpeakMigratingtoTeam_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Migrating to Team Foundation Server from Visual SourceSafe]]></video:title>
+        <video:description><![CDATA[There hasn&#39;t been a better time to migrate to the newest Microsoft source control offering, Microsoft Visual Studio 2008 Team Foundation Server, because Microsoft Visual SourceSafe support is ending&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/4/9/3/2/5/geekSpeakMigratingtoTeam_ch9.mp4</video:content_loc>
+        <video:duration>3494</video:duration>
+        <video:publication_date>2010-01-28T22:38:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Rich-Internet-Applications-with-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Rich Internet Applications with Windows Azure]]></video:title>
+        <video:description><![CDATA[In this geekSpeak, Windows Azure guru David Pallmann discusses Rich Internet applications (RIAs) and why Windows Azure is a fantastic platform for RIAs. David provides several examples of RIAs, and he&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/6/1/9/1/5/geekSpeakRichInternetApps_ch9.mp4</video:content_loc>
+        <video:duration>3622</video:duration>
+        <video:publication_date>2010-01-09T01:33:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Refactoring-Tips-and-Tricks-with-Llewellyn-Falco</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Refactoring Tips and Tricks with Llewellyn Falco]]></video:title>
+        <video:description><![CDATA[
+Are you happy at work? Are you proud of the code you are working with? In this geekSpeak webcast, we focus on tips and techniques to help you turn your current code base into excellent code. Our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/6/1/9/1/5/geekSpeakRefactoringTips_ch9.mp4</video:content_loc>
+        <video:duration>3466</video:duration>
+        <video:publication_date>2010-01-09T01:25:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Windows-Workflow-Services-and-the-NET-Framework-4</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Windows Workflow Services and the .NET Framework 4]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, workflow guru Zoiner Tejada explains how using Windows Workflow Services with the Microsoft .NET Framework 4.0 can make your life as a services developer easier. We also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/5/1/9/1/5/geekSpeakWindowsWorkflow_ch9.mp4</video:content_loc>
+        <video:duration>3509</video:duration>
+        <video:publication_date>2010-01-09T01:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-The-Dynamic-Language-Runtime-in-NET-4</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - The Dynamic Language Runtime in .NET 4]]></video:title>
+        <video:description><![CDATA[In this geekSpeak, Microsoft Most Valuable Professional (MVP) Kevin Hazzard shows how new caching capabilities in the Microsoft .NET 4 Framework can make your Ruby and Python code fly when running on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/5/1/9/1/5/geekspeakDynamicLanguages_ch9.mp4</video:content_loc>
+        <video:publication_date>2010-01-09T01:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Generics-and-Collections</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Generics and Collections]]></video:title>
+        <video:description><![CDATA[
+What&#39;s the best way to get your arms around a collection of data? In this geekSpeak, Steve Bearman helps us explore the Microsoft .NET Generic Collections, which includes the List, LinkedList,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/5/1/9/1/5/geekSpeakGenericsCollections_ch9.mp4</video:content_loc>
+        <video:duration>3757</video:duration>
+        <video:publication_date>2010-01-09T01:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Composite-Application-Development-with-David-Kelley</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/220/489535_220x165.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Composite Application Development with David Kelley]]></video:title>
+        <video:description><![CDATA[In this geekSpeak, Microsoft Most Valuable Professional (MVP) David Kelley discusses composite application development in Microsoft Silverlight and Windows Presentation Foundation (WPF). He covers the&amp;#8230;]]></video:description>
+        <video:content_loc>http://msbmopod.vo.llnwd.net/d1/webcastaudio/1032422054.mp3</video:content_loc>
+        <video:duration>3727</video:duration>
+        <video:publication_date>2009-09-03T21:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-WCF-Deployment-Strategies-with-Keith-Elder</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/5/0/9/8/4/geekSpeakWCF_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - WCF Deployment Strategies with Keith Elder ]]></video:title>
+        <video:description><![CDATA[
+In this geekSpeak, Microsoft Most Valuable Professional (MVP) Keith Elder shares tips and techniques from his experience deploying Windows Communication Foundation (WCF) services with Internet&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/5/0/9/8/4/geekSpeakWCF_ch9.mp4</video:content_loc>
+        <video:duration>3596</video:duration>
+        <video:publication_date>2009-09-02T14:29:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Accessibility-and-WPF-with-Robert-Altland</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Touch-based-Computing-with-Brad-Cunningham</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-MVVM-Patterns-with-Christopher-Bennage-and-Rob-Eisenberg</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/9/4/5/7/4/MVVM_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - MVVM Patterns with Christopher Bennage and Rob Eisenberg]]></video:title>
+        <video:description><![CDATA[
+In this episode of geekSpeak, we explore UI architectural patterns, such as the Model-View-ViewModel (MVVM) pattern, with two Microsoft Most Valuable Professionals, Christopher Bennage and Rob&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/9/4/5/7/4/MVVM_ch9.mp4</video:content_loc>
+        <video:duration>4070</video:duration>
+        <video:publication_date>2009-06-26T02:20:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Parallel-Computing-APIs-in-NET-40-with-Mark-Michaelis</loc>
+      <lastmod>2016-09-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/7/3/9/6/4/geekSpeak05062009_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - Parallel Computing APIs in .NET 4.0 with Mark Michaelis]]></video:title>
+        <video:description><![CDATA[
+We are approaching an asymptote for processor speeds using current technology. To overcome this, computer power is increasing by scaling the number of processors used within
+ a system. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/7/3/9/6/4/geekSpeak05062009_ch9.mp4</video:content_loc>
+        <video:duration>3254</video:duration>
+        <video:publication_date>2009-05-18T20:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Whats-New-in-Silverlight-3-with-Shawn-Wildermuth</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/0/0/8/6/4/geekspeak04152009_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - What&#39;s New in Silverlight 3 with Shawn Wildermuth]]></video:title>
+        <video:description><![CDATA[
+
+In this episode of geekSpeak, we&#39;ll hear about some of the exciting new features of Microsoft Silverlight 3 from Microsoft MVP Shawn Wildermuth. Your hosts for this geekSpeak are
+Glen Gordon&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/0/0/8/6/4/geekspeak04152009_ch9.mp4</video:content_loc>
+        <video:duration>3760</video:duration>
+        <video:publication_date>2009-05-05T16:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-WPF-for-the-Business-Programmer-with-Paul-Sheriff</loc>
+      <lastmod>2014-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/8/4/7/6/4/geekSpeak04222009_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak Recording - WPF for the Business Programmer with Paul Sheriff]]></video:title>
+        <video:description><![CDATA[Windows Presentation Foundation, is it really for business applications? Why would you choose this over Windows Forms? In this geekSpeak, we&#39;ll chat with industry guru and Microsoft Regional Director&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/8/4/7/6/4/geekSpeak04222009_ch9.mp4</video:content_loc>
+        <video:duration>3621</video:duration>
+        <video:publication_date>2009-04-30T18:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-The-PowerThreading-Library-for-Silverlight-with-Jeffrey-Richter</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/1/9/7/5/4/geekSpeak20090128_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak recording - The PowerThreading Library for Silverlight with Jeffrey Richter]]></video:title>
+        <video:description><![CDATA[In this geekSpeak webcast, Jeffrey Richter talks about his AsyncEnumerator class that allows programmers to use a simple synchronous programming model to perform asynchronous operations, thereby&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/1/9/7/5/4/geekSpeak20090128_ch9.mp4</video:content_loc>
+        <video:duration>3605</video:duration>
+        <video:publication_date>2009-02-20T10:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-SQL-Data-Services-with-James-Johnson</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/5/7/7/5/4/geekSpeak20090114New_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak recording - SQL Data Services with James Johnson ]]></video:title>
+        <video:description><![CDATA[Microsoft SQL Data Services (SDS) offers highly scalable and Internet-facing distributed database services in the cloud for storing and processing relational queries. In this geekSpeak webcast, James&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/5/7/7/5/4/geekSpeak20090114New_ch9.mp4</video:content_loc>
+        <video:duration>3371</video:duration>
+        <video:publication_date>2009-02-20T10:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-What-You-May-Not-Know-About-the-Visual-Studio-Team-System-2008-with-Mike-Vincent</loc>
+      <lastmod>2010-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/5/9/7/5/4/geekSpeak20090204_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak recording - What You May Not Know About the Visual Studio Team System 2008 with Mike&amp;#8230;]]></video:title>
+        <video:description><![CDATA[In this episode of geekSpeak, Mike Vincent shares some perspectives about how the Microsoft Visual Studio Team System 2008 is a good investment in these tough economic times. Mike illustrates some of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/5/9/7/5/4/geekSpeak20090204_ch9.mp4</video:content_loc>
+        <video:duration>3548</video:duration>
+        <video:publication_date>2009-02-18T20:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Silverlight-and-ADONET-Data-Services-with-John-Papa</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/1/8/2/5/4/geekSpeak20090108_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak recording - Silverlight and ADO.NET Data Services with John Papa]]></video:title>
+        <video:description><![CDATA[In this geekSpeak, Microsoft Most Valuable Professional (MVP) John Papa explores how to consume ADO.NET Data Services from a Microsoft Silverlight 2 application. 
+
+John Papa is a Microsoft Visual C#&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/1/8/2/5/4/geekSpeak20090108_ch9.mp4</video:content_loc>
+        <video:duration>3764</video:duration>
+        <video:publication_date>2009-02-11T19:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-REST-and-the-Windows-Azure-Services-Platform-with-Adnan-Masood</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/3/2/2/5/4/geekSpeak20090107_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak recording - REST and the Windows Azure Services Platform with Adnan Masood]]></video:title>
+        <video:description><![CDATA[Windows Azure provides developers with on-demand compute and storage to host, scale, and manage Web applications on the Internet.
+
+
+In this geekSpeak webcast, Adnan Masood illustrates how to create&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/3/2/2/5/4/geekSpeak20090107_ch9.mp4</video:content_loc>
+        <video:duration>3511</video:duration>
+        <video:publication_date>2009-01-14T18:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Cloud-Services-101-with-Aaron-Skonnard</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/5/7/7/4/4/geekSpeak20081203_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[geekSpeak recording - Cloud Services 101 with Aaron Skonnard]]></video:title>
+        <video:description><![CDATA[A new platform is emerging—one that simplifies the process around deploying, hosting, and managing your applications, using low-cost shared infrastructure provided by a particular vendor. This type of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/5/7/7/4/4/geekSpeak20081203_ch9.mp4</video:content_loc>
+        <video:duration>3551</video:duration>
+        <video:publication_date>2009-01-08T02:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-SharePoint-Wikis-with-David-Mann</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-ASPNET-Dynamic-Data-with-Rachel-Appel</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Virtualization-for-Developers-with-Step</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Dynamic-Languages-and-the-DLR-with-Mike-Vincent</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-The-Mole-Visualizer-with-Karl-Shifflet</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Inside-LINQ-to-XML-with-Paul-Sheriff</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-All-About-Team-Build-2008-with-Steven-Borg</loc>
+      <lastmod>2012-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-LINQ-Migration-Strategies-with-Jim-Wooley</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Tame-Your-Software-Dependencies-with-James-Kovacs</loc>
+      <lastmod>2012-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Advanced-ASPNET-with-Michele-Leroux-Bustamante</loc>
+      <lastmod>2017-08-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Building-Animations-in-Silverlight-with-Cal-Schrotenboer</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Extending-SQL-Server-Integration-Services-with-Reza-Madani</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-MSDN-geekSpeak-Webcast-Problems-and-Solutions-When-Implementing-a-Windows-CardSpace-Iden</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Security-from-a-Public-Anonymous-Windows-SharePoint-Services-30-Site-with-Jim-Wilt</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-The-Web-Client-Software-Factory-with-Paulo-Morgado</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Kate-Gregory-talks-about-the-Vista-Bridge</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-about-CardSpace-with-Michele-Leroux-Bustamante</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-BizTalk-BAM-and-ESB-implementation-with-Brian-Loesgen</loc>
+      <lastmod>2017-08-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-About-DotNetNuke-with-Shaun-Walker</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-httpHandlers-and-httpModules-with-Chris-Love</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-WPF-with-Bil-Simser</loc>
+      <lastmod>2017-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/December-2007-geekSpeak-schedule</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-LINQ-to-SharePoint-with-Bart-De-Smet</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Programming-for-High-Performance-Computing-Environments-with-Dariusz-Parys-and</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/Custom-CRM-Development-with-Aaron-Elder</loc>
+      <lastmod>2017-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-SharePoint-Features-with-Paul-Stork</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-SQL-Server-Reporting-Service-with-Ted-Malone</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-WF-and-BizTalk-with-Mick-Badran</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Generics-and-more-in-VB-with-Jim-Duffy</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-for-November-2007</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-XNA-game-development-with-Nick-Landry</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Workflow-with-Mark-Dunn</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-schedule-for-October-2007</loc>
+      <lastmod>2012-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-Recording-Custom-Authentication-Providers-for-SharePoint-Server-2007-with-Ron-Rohlfs</loc>
+      <lastmod>2018-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-VSTS-with-Anton-Delsink</loc>
+      <lastmod>2012-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/MSDN-geekSpeak-Sept-5-Silverlight-wShawn-Wildermuth</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Real-World-SQL-Server-Integration-Services-with-Matthew-Roche</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Speech-Server-with-Michael-Dunn</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Web-Application-Security-with-Keith-Brown</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/August-2007-geekSpeak-schedule</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/July-2007-geekSpeak-schedule</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/geekSpeak/geekSpeak-recording-Business-Intelligence-with-Lynn-Langit</loc>
+      <lastmod>2010-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

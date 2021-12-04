@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-App-develop-beginner</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-App-develop-beginner/Windows-Phone-SDK-8-1-framework-intro</loc>
+      <lastmod>2014-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8313/fb9099b8-3bd7-4bbf-b145-d9447cff8313/WindowsPhoneSDK81ApplicationArchitecture_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Phone SDK 8.1 ]]></video:title>
+        <video:description><![CDATA[[Windows Phone SDK 8.1 應用程式架構介紹] - WP8.1 新應用程式模型 (Application Model) - Windows Runtime for WP  - Common XAML UI Framework  - Navigation Model for Windows XAML Application 講師：董大偉 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8313/fb9099b8-3bd7-4bbf-b145-d9447cff8313/WindowsPhoneSDK81ApplicationArchitecture_mid.mp4</video:content_loc>
+        <video:duration>3194</video:duration>
+        <video:publication_date>2014-09-19T07:33:42.4662882+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-App-develop-beginner/Windows-Phone81-advanced-application-develop</loc>
+      <lastmod>2014-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a1f/ea346c9f-fb89-4095-9905-851640073a1f/WindowsPhone81advancedapplicationdevelop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Phone 8.1 ]]></video:title>
+        <video:description><![CDATA[[Windows Phone 8.1 進階應用開發] - Live Tiles Enhancement, Mulitasking and Backgroupd Task.  - Data Storage, Roaming and Backup - What&#39;s new with Windows PHone sliverlight Apps. 講師：劉耀群   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a1f/ea346c9f-fb89-4095-9905-851640073a1f/WindowsPhone81advancedapplicationdevelop_mid.mp4</video:content_loc>
+        <video:duration>5565</video:duration>
+        <video:publication_date>2014-09-03T07:35:09.5474725+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

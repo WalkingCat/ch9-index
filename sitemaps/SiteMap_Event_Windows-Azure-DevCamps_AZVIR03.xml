@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03/AZVIR03-0</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0656/459bcab7-2eb5-4dc7-8d66-2636d7790656/AZVIR030_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workshop Introduction]]></video:title>
+        <video:description><![CDATA[In this workshop, you will explore approaches to migrating applications, walk through concerns and considerations to take into account while planning a migration, and learn how to implement a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0656/459bcab7-2eb5-4dc7-8d66-2636d7790656/AZVIR030_mid.mp4</video:content_loc>
+        <video:duration>99</video:duration>
+        <video:publication_date>2012-10-30T01:18:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03/AZVIR03-5</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8773/c51fa61c-d4cb-47c8-a6c8-e9a40de38773/AZVIR034_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Q&amp;A]]></video:title>
+        <video:description><![CDATA[Tyler Doerksen and Jonathan Rozenblit take questions from the virtual audience. Questions? If you have any questions for Richard, Tyler, and/or Jonathan or comments to share about this presentation,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8773/c51fa61c-d4cb-47c8-a6c8-e9a40de38773/AZVIR034_mid.mp4</video:content_loc>
+        <video:duration>915</video:duration>
+        <video:publication_date>2012-10-28T02:52:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03/AZVIR03-4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd53/4f837afd-da1f-491c-90ce-355c660efd53/AZVIR034_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Combining IaaS and PaaS]]></video:title>
+        <video:description><![CDATA[Though considered two different types of Cloud hosting options, many solutions can benefit from using both Infrastructure-as-a-Service and Platform-as-a-Service hosted components, especially when&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd53/4f837afd-da1f-491c-90ce-355c660efd53/AZVIR034_mid.mp4</video:content_loc>
+        <video:duration>2063</video:duration>
+        <video:publication_date>2012-10-28T02:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03/AZVIR03-3</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/608e/464d499e-5c18-476e-9767-6716f58b608e/AZVIR033_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating Applications to the Cloud with PaaS]]></video:title>
+        <video:description><![CDATA[Many of today&#39;s applications are not built to be able to support a Platform-as-a-Service architecture out of the box. However, migrating these applications to Cloud Services, the Windows Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/608e/464d499e-5c18-476e-9767-6716f58b608e/AZVIR033_mid.mp4</video:content_loc>
+        <video:duration>2584</video:duration>
+        <video:publication_date>2012-10-28T02:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03/AZVIR03-2</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f76/893a3f4a-8756-4ba0-8fea-0b09bc163f76/AZVIR032_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating Applications to the Cloud with IaaS]]></video:title>
+        <video:description><![CDATA[With Infrastructure-as-a-Service VMs being very close to on-premises VMs, one might think that migrating between the two is a copy and paste operation. There is more to it. In this session, you will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f76/893a3f4a-8756-4ba0-8fea-0b09bc163f76/AZVIR032_mid.mp4</video:content_loc>
+        <video:duration>2238</video:duration>
+        <video:publication_date>2012-10-28T02:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Azure-DevCamps/AZVIR03/AZVIR03-1</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/86e8/464dd608-5d80-4a49-b8a4-c79202a786e8/AZVIR031_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating Applications to the Cloud]]></video:title>
+        <video:description><![CDATA[Migrating applications to Windows Azure has the potential to help lower costs, reduce management overhead and dramatically improve scalability. This session will give you insights into choosing which&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/86e8/464dd608-5d80-4a49-b8a4-c79202a786e8/AZVIR031_mid.mp4</video:content_loc>
+        <video:duration>3540</video:duration>
+        <video:publication_date>2012-10-28T02:25:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

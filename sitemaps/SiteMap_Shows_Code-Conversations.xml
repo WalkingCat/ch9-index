@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Sayed-Hashimi-on-Open-Source-NET-Core-Project-Templates</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/934b/50f2a095-c4d4-454e-87f6-c978f266934b/codeconversationssayed1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sayed Hashimi on Open Source .NET Core Project Templates]]></video:title>
+        <video:description><![CDATA[Sayed I. Hashimi overviews the new templating system for .NET Core 2.0. For more info, see this video which explains how to create templates for Visual Studio 2017 and dotnet new. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/934b/50f2a095-c4d4-454e-87f6-c978f266934b/codeconversationssayed1_mid.mp4</video:content_loc>
+        <video:duration>843</video:duration>
+        <video:publication_date>2017-08-29T23:41:01.6280741+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Sebastien-Ros-on-ASPNET-Core-MVC-Resource-Management</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ef3d/820b47e5-b6ff-4d78-97ea-783c090eef3d/codeconversationssebastienresources_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sebastien Ros on ASP.NET Core MVC Resource Management]]></video:title>
+        <video:description><![CDATA[Shows how to manage resources like scripts and styles in ASP.NET Core MVC using the Orchard.ResourceManagement package (available for use independently as a NuGet package. This allows you to do some&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef3d/820b47e5-b6ff-4d78-97ea-783c090eef3d/codeconversationssebastienresources_mid.mp4</video:content_loc>
+        <video:duration>674</video:duration>
+        <video:publication_date>2017-08-22T22:44:21.0565590+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Sebastien-Ros-on-jint-a-Javascript-Interpreter-for-NET</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/94c0/303be9b9-6481-4fa9-9b00-c1e7d38e94c0/codeconversationssebastienjint_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sebastien Ros on jint: a Javascript Interpreter for .NET]]></video:title>
+        <video:description><![CDATA[Sebastien Ros show how to use Jint. Jint is a Javascript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform. Because it doesn&#39;t generate any .NET bytecode&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94c0/303be9b9-6481-4fa9-9b00-c1e7d38e94c0/codeconversationssebastienjint_mid.mp4</video:content_loc>
+        <video:duration>508</video:duration>
+        <video:publication_date>2017-08-22T22:44:12.2728665+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Building-Visual-Studio-Code-Extensions-with-Sean-McBreen</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9b8b/929b7be2-5a6f-4848-9f4b-05437c9f9b8b/VScodeExtensions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Visual Studio Code Extensions with Sean McBreen ]]></video:title>
+        <video:description><![CDATA[In this video, Sean McBreen gives us a quick tutorial on how to build Visual Studio Code extensions.  To learn more about Visual Studio Code check out the following links: Visual Studio Code Roadmap&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b8b/929b7be2-5a6f-4848-9f4b-05437c9f9b8b/VScodeExtensions_mid.mp4</video:content_loc>
+        <video:duration>651</video:duration>
+        <video:publication_date>2017-08-17T19:36:21.8097393+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/The-File-API-in-IIS-Administration-API-with-Jimmy-Campbell</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9e9b/a600cfde-e382-411f-a56b-2265369d9e9b/codeconversationsjimmy3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The File API in IIS Administration API with Jimmy Campbell]]></video:title>
+        <video:description><![CDATA[Jimmy Campbell shows how you can use the IIS Administration API to manipulate files on your servers running IIS, then digs into the code to show how they secured remote file administration in .NET&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e9b/a600cfde-e382-411f-a56b-2265369d9e9b/codeconversationsjimmy3_mid.mp4</video:content_loc>
+        <video:duration>545</video:duration>
+        <video:publication_date>2017-08-15T23:00:51.0533045+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Website-Resource-Implementation-in-IIS-Administration-API-with-Jimmy-Campbell</loc>
+      <lastmod>2019-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8702/e9f40f2c-c159-421b-aac8-cc3b3dfa8702/codeconversationsjimmy2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Website Resource Implementation in IIS Administration API with Jimmy Campbell]]></video:title>
+        <video:description><![CDATA[Jimmy Campbell digs into the resources exposed by the IIS Administration API, then shows how they implemented the website resource. Source code for this presentation:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8702/e9f40f2c-c159-421b-aac8-cc3b3dfa8702/codeconversationsjimmy2_mid.mp4</video:content_loc>
+        <video:duration>451</video:duration>
+        <video:publication_date>2017-08-15T22:02:47.6520553+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/NET-Core-Plugin-Architecture-in-the-IIS-Administration-API-with-Jimmy-Campbell</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/49e0/f9543056-3271-402d-a9f7-1c675a5049e0/codeconversationsjimmycampbell1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Plugin Architecture in the IIS Administration API with Jimmy Campbell]]></video:title>
+        <video:description><![CDATA[Jimmy Campbell gives a tour of the IIS Administration API then shows how they implemented a plugin architecture in .NET Core. Source code for this presentation:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49e0/f9543056-3271-402d-a9f7-1c675a5049e0/codeconversationsjimmycampbell1_mid.mp4</video:content_loc>
+        <video:duration>374</video:duration>
+        <video:publication_date>2017-08-15T22:02:27.5655895+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Getting-Started-with-NET-Standard-20-Part-2-with-Immo-Landwerth</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c398/ee748401-2570-4977-ba14-1b45c85dc398/NETStandard22_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with .NET Standard 2.0 Part 2  - with Immo Landwerth ]]></video:title>
+        <video:description><![CDATA[In this video Immo gives a quick introduction to .NET Standard 2.0. To learn more about this please check out: Videos GitHub ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c398/ee748401-2570-4977-ba14-1b45c85dc398/NETStandard22_mid.mp4</video:content_loc>
+        <video:duration>274</video:duration>
+        <video:publication_date>2017-08-10T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Getting-Started-with-NET-Standard-20-Part-1-with-Immo-Landwerth</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5abe/f9292410-c13d-45ff-af91-cec2d5e35abe/Immo11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with .NET Standard 2.0 Part 1 with Immo Landwerth ]]></video:title>
+        <video:description><![CDATA[In this video Immo gives a quick introduction to .NET Standard 2.0. To learn more about this please check out: Videos GitHub ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5abe/f9292410-c13d-45ff-af91-cec2d5e35abe/Immo11_mid.mp4</video:content_loc>
+        <video:duration>441</video:duration>
+        <video:publication_date>2017-08-10T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Multi-stage-build-in-Docker-with-Kendra-Havens</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/654f/379317f1-d982-414e-a300-1eb94004654f/multistagebuilddocker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multi-stage build in Docker with  Kendra Havens]]></video:title>
+        <video:description><![CDATA[In this video,  Kendra  Havens shows us the work her team has been doing on the multi-stage build in Docker. To learn more about this please check out  https://github.com/dotnet/dotnet-docker ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/654f/379317f1-d982-414e-a300-1eb94004654f/multistagebuilddocker_mid.mp4</video:content_loc>
+        <video:duration>529</video:duration>
+        <video:publication_date>2017-08-03T14:59:11.2942507+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-NET-Docker-Images-with-Kendra-Havens</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3bbf/5be0ee77-a563-4876-acdc-056f157f3bbf/IntrotodockerwithKendraHavens_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to .NET Docker Images with Kendra Havens]]></video:title>
+        <video:description><![CDATA[Kendra Havens gives us an inside look at the  .NET  Docker images. To get started on .NET on Docker check out the following links https://hub.docker.com/r/microsoft/dotnet/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3bbf/5be0ee77-a563-4876-acdc-056f157f3bbf/IntrotodockerwithKendraHavens_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2017-08-03T14:34:04.5876582+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Sharing-MSBuild-Tasks-as-NuGet-Packages-with-Nate-McMaster</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/85fc/91547c1c-ef21-456f-b511-273b53b085fc/codeconversationsnatemcmaster3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sharing MSBuild Tasks as NuGet Packages with Nate McMaster]]></video:title>
+        <video:description><![CDATA[Nate McMaster shows how to publish an MSBuild task as a NuGet package, allowing you to share it and reuse it in your own projects. The code for this episode is available here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/85fc/91547c1c-ef21-456f-b511-273b53b085fc/codeconversationsnatemcmaster3_mid.mp4</video:content_loc>
+        <video:duration>197</video:duration>
+        <video:publication_date>2017-07-18T22:22:43.6330633+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Advanced-MSBuild-Extensibility-with-Nate-McMaster</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ba2a/718cb5fb-0940-4fb3-8143-5ccc2a6eba2a/codeconversationsnatemcmaster2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced MSBuild Extensibility with Nate McMaster]]></video:title>
+        <video:description><![CDATA[Nate McMaster shows how to write your own MSBuild tasks in C#. Since you&#39;re developing your tasks in C#, you can use standard .NET libraries, debug your code, etc. The code for this episode is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba2a/718cb5fb-0940-4fb3-8143-5ccc2a6eba2a/codeconversationsnatemcmaster2_mid.mp4</video:content_loc>
+        <video:duration>229</video:duration>
+        <video:publication_date>2017-07-18T22:20:02.3196974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-MSBuild-in-NET-Core-with-Nate-McMaster</loc>
+      <lastmod>2018-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7911/88c5d2ea-ee23-4c5a-b2cc-704cc16a7911/codeconversationsnatemcmaster1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to MSBuild in .NET Core with Nate McMaster]]></video:title>
+        <video:description><![CDATA[Nate McMaster gives and introduction to using MSBuild in .NET Core project files. Watch as he runs through the basics in a new .NET Core application (using Visual Studio Code on a Mac), then shows off&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7911/88c5d2ea-ee23-4c5a-b2cc-704cc16a7911/codeconversationsnatemcmaster1_mid.mp4</video:content_loc>
+        <video:duration>308</video:duration>
+        <video:publication_date>2017-07-13T21:13:58.0345606+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/LibraryInstaller-with-Mads-Kristensen</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7abd/1324aac2-0072-4638-aca1-2b69ed1c7abd/codeconversationsmadsklibraryinstaller_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[LibraryInstaller with Mads Kristensen]]></video:title>
+        <video:description><![CDATA[Mads Kristensen show the code for a new Visual Studio feature that makes it easy to add client side libraries to your projects. Code for this episode is here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7abd/1324aac2-0072-4638-aca1-2b69ed1c7abd/codeconversationsmadsklibraryinstaller_mid.mp4</video:content_loc>
+        <video:duration>398</video:duration>
+        <video:publication_date>2017-07-06T20:07:18.7187713+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Compiling-LESS-in-Visual-Studio-with-Mads-Kristensen</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/722d/b895018f-62e5-4503-a1f8-684c595c722d/codeconversationsmadsklesscompiler_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Compiling LESS in Visual Studio with Mads Kristensen]]></video:title>
+        <video:description><![CDATA[Mads Kristensen shows off LessCompiler, an open source Visual Studio extension he built that makes it easy to compile LESS to CSS. He shows off some cool tips in the Visual Studio extension code that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/722d/b895018f-62e5-4503-a1f8-684c595c722d/codeconversationsmadsklesscompiler_mid.mp4</video:content_loc>
+        <video:duration>386</video:duration>
+        <video:publication_date>2017-07-06T19:59:03.3358215+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Build-a-chat-app-with-SignalR-Core-Mikael-Mengistu</loc>
+      <lastmod>2020-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c046/ab18321e-875a-4f91-bd8c-ec0a9783c046/SignalRChatApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build a chat app with SignalR Core - Mikael Mengistu]]></video:title>
+        <video:description><![CDATA[In this video Mikael Mengistu  shows us how to build a simple chat app with SignalR Core.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c046/ab18321e-875a-4f91-bd8c-ec0a9783c046/SignalRChatApp_mid.mp4</video:content_loc>
+        <video:duration>409</video:duration>
+        <video:publication_date>2017-06-29T16:47:46.7586287+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-SignalR-Core-with-Mikael-Mengistu</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/346e/0e61cd7b-0460-46d0-981e-abb30d9b346e/IntroductiontoSignalRCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to SignalR Core with Mikael Mengistu]]></video:title>
+        <video:description><![CDATA[Joins us as  Mikael Mengistu  gives us a quick overview of SignalR Core. To start exploring SignalR Core please checkout our repo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/346e/0e61cd7b-0460-46d0-981e-abb30d9b346e/IntroductiontoSignalRCore_mid.mp4</video:content_loc>
+        <video:duration>233</video:duration>
+        <video:publication_date>2017-06-29T16:46:06.4395391+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Creating-Custom-Tag-Helper-Components-with-Jass-Bagga</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/97c7/e45091a5-3efb-4d8a-b1c9-3100cd1597c7/CustomTagHelperComponents_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Custom Tag Helper Components with Jass Bagga]]></video:title>
+        <video:description><![CDATA[In this video Jass Bagga as she shows us how to Create Custom Tag Helper Components. To get started: download Visual Studio 2017 and .NET Core 2.0.0 preview1.Clone the repository and open the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/97c7/e45091a5-3efb-4d8a-b1c9-3100cd1597c7/CustomTagHelperComponents_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2017-06-20T15:37:53.1240121+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-Tag-Helper-Components-with-Jass-Bagga</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/36f1/57546358-42c7-43ad-885b-8cc7960736f1/TagHelpercomponents_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Tag Helper Components with Jass Bagga]]></video:title>
+        <video:description><![CDATA[Jass Bagga gives as quick introduction to Tag Helper Components. Joins us as Jass shows us how to modify the HeadTagHelper and the BodyTagHelper in ASP.NET Core MVC 2.0. To get started: download&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36f1/57546358-42c7-43ad-885b-8cc7960736f1/TagHelpercomponents_mid.mp4</video:content_loc>
+        <video:duration>537</video:duration>
+        <video:publication_date>2017-06-20T15:37:26.0409497+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Creating-your-own-Tag-Helpers</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/04fa/f8171931-bbe9-488d-80cc-8973ba4f04fa/CustomTagHelpers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating your own Tag Helpers]]></video:title>
+        <video:description><![CDATA[Taylor Mullen shows us how to create custom Tag Helpers. The TagHelper that was added in the show was the Markdown TagHelper. It enables you to write Markdown in your Views. Here&#39;s the repo for this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/04fa/f8171931-bbe9-488d-80cc-8973ba4f04fa/CustomTagHelpers_mid.mp4</video:content_loc>
+        <video:duration>674</video:duration>
+        <video:publication_date>2017-06-13T17:37:29.9772212+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-Tag-Helpers</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0c30/dc97e66a-d795-4801-b8a0-0ab160e30c30/TagHelpers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Tag Helpers with Taylor Mullen]]></video:title>
+        <video:description><![CDATA[Taylor Mullen gives us a quick introduction to Tag Helpers.  Here&#39;s the repo for this episode : Introduction to Tag Helpers ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c30/dc97e66a-d795-4801-b8a0-0ab160e30c30/TagHelpers_mid.mp4</video:content_loc>
+        <video:duration>605</video:duration>
+        <video:publication_date>2017-06-13T17:24:54.4741467+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/How-C-is-Developed-In-The-Open-with-Mads-Torgersen</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/75c4/03979b55-541d-465f-8f9d-82c785b475c4/codeconversationsmadstcsharpdesign_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How C# is Developed In The Open with Mads Torgersen]]></video:title>
+        <video:description><![CDATA[Mads Torgersen shows the C# Language is designed in the open. He shows how issues in the csharplang repository become proposals and shows a few language proposals. The proposals then go to language&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/75c4/03979b55-541d-465f-8f9d-82c785b475c4/codeconversationsmadstcsharpdesign.mp4</video:content_loc>
+        <video:duration>484</video:duration>
+        <video:publication_date>2017-06-08T22:47:32.8296084+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/C-7-Features-with-Mads-Torgersen</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/192c/c23f7396-b105-4294-8679-a2d515a6192c/codeconversationsmadstcsharp7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C# 7 Features with Mads Torgersen]]></video:title>
+        <video:description><![CDATA[Mads Torgersen takes us on a quick look at some C# 7 features by refactoring a fibonacci series generator. Here&#39;s the code: https://github.com/CodeConversations/csharp7-features-with-mads-torgersen ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/192c/c23f7396-b105-4294-8679-a2d515a6192c/codeconversationsmadstcsharp7_mid.mp4</video:content_loc>
+        <video:duration>843</video:duration>
+        <video:publication_date>2017-06-08T22:47:24.1286172+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Code-Conversations/Welcome-to-Code-Conversations</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/de3b/0a9d33e8-ee36-4629-a338-73db9aebde3b/codeconversationswelcome_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to Code Conversations!]]></video:title>
+        <video:description><![CDATA[Hi, welcome to Code Conversations! Jon and Maria introduce the show, where you&#39;ll see short, code focused interviews with .NET open source developers every Tuesday and Thursday. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de3b/0a9d33e8-ee36-4629-a338-73db9aebde3b/codeconversationswelcome_mid.mp4</video:content_loc>
+        <video:duration>38</video:duration>
+        <video:publication_date>2017-06-08T22:47:07.7600495+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

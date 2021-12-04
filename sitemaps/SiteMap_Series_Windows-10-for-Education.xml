@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-for-Education</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-for-Education/Windows-10--A-great-choice-for-schools</loc>
+      <lastmod>2017-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cedf/1b87e684-a8f5-466b-87aa-4d9de6dccedf/Windows10AgreatChoiceforSchools_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  A great choice for schools]]></video:title>
+        <video:description><![CDATA[Teachers and students can access most Office apps across devices and platforms, however there are still some advantages to using a Windows 10 device in the classroom. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cedf/1b87e684-a8f5-466b-87aa-4d9de6dccedf/Windows10AgreatChoiceforSchools_mid.mp4</video:content_loc>
+        <video:duration>2691</video:duration>
+        <video:publication_date>2017-02-09T10:17:48.9843553+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

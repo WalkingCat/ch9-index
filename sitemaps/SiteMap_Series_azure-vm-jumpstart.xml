@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/07</loc>
+      <lastmod>2015-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bcb8/415fd39c-382e-4caf-8d67-a090c205bcb8/AvailabilitySets_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 ]]></video:title>
+        <video:description><![CDATA[可用性設定組為「橫向擴展」與「容錯」設定，在 Cloud Service 是透過 Azure 自動管理，在 VM 下則是透過 IT 管理人員自管，而可用性設定組可提升 SLA 水準至 99.95% (沒設定時單一 VM SLA 為 99.9%)，本單元將實際 demo 如何建立及管理可用性設定組。   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bcb8/415fd39c-382e-4caf-8d67-a090c205bcb8/AvailabilitySets_mid.mp4</video:content_loc>
+        <video:duration>745</video:duration>
+        <video:publication_date>2015-02-09T08:59:00.9795232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/06</loc>
+      <lastmod>2019-08-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53bf/ee9bb508-a7c3-4df3-aaff-0511b47053bf/DiscManagement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 ]]></video:title>
+        <video:description><![CDATA[本單元將深入淺出帶您了解何謂虛擬磁碟，及其詳細規&amp;#26684;，另將 demo 以下功能： 1. 如何建立、卸離虛擬磁碟 2. 如何掛載其他虛擬磁碟 3. 如何上傳客製虛擬磁碟   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53bf/ee9bb508-a7c3-4df3-aaff-0511b47053bf/DiscManagement_mid.mp4</video:content_loc>
+        <video:duration>1317</video:duration>
+        <video:publication_date>2015-02-09T08:50:24.2316550+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/05</loc>
+      <lastmod>2015-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/356c/c74fc8fa-9bed-437c-bc7e-6205042c356c/LoadBalance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05  (Load Balance)]]></video:title>
+        <video:description><![CDATA[什麼是負載平衡？當流量變大時，你需要有不同的主機來分擔這個流量，即稱為負載平衡 (Load Balance)。Load Balance 在地端上有非常多種方式達成 (L3, L4 Load Balance / Microsoft NLB / Application Layer)，而 Azure VM 則是透過建立終端點來達成負載。   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/356c/c74fc8fa-9bed-437c-bc7e-6205042c356c/LoadBalance_mid.mp4</video:content_loc>
+        <video:duration>1987</video:duration>
+        <video:publication_date>2015-02-09T08:49:44.3184983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/04</loc>
+      <lastmod>2015-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ebc0/2fab8a20-230c-4389-a654-fe749d6eebc0/EndpointsSetup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04  (Endpoints)]]></video:title>
+        <video:description><![CDATA[什麼是網路終端點？終端點是虛擬機器與外部網路界接的端點。 本單元將詳細介紹終端點於資安上的考量，並實際 demo 如何設定 (含管理及限制存取 / 如何連結至 Windows 和 Linux VM)、修改、刪除網路終端點。   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebc0/2fab8a20-230c-4389-a654-fe749d6eebc0/EndpointsSetup_mid.mp4</video:content_loc>
+        <video:duration>1142</video:duration>
+        <video:publication_date>2015-02-09T08:49:36.9068897+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/03</loc>
+      <lastmod>2015-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6436/506451f3-762c-408f-8dc4-59135b3e6436/CreateLinuxVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03  Linux ]]></video:title>
+        <video:description><![CDATA[本單元將透過實際的 demo 帶您了解如何利用以下四種方式於 Azure 上建立 Linux VM： 1. 以 Azure Management Protal 快速建立 2. 以 Azure Management Protal 範本建立 3. 透過 Azure PowerShell 建立 4. 透過 Azure PowerShell 大量建立   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6436/506451f3-762c-408f-8dc4-59135b3e6436/CreateLinuxVM_mid.mp4</video:content_loc>
+        <video:duration>1105</video:duration>
+        <video:publication_date>2015-02-09T08:49:24.2357784+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/02</loc>
+      <lastmod>2015-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5970/30ace624-8b40-4a7d-a9bb-9729727c5970/CreateWindowsVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02  Windows ]]></video:title>
+        <video:description><![CDATA[本單元將透過實際的 demo 帶您了解如何利用以下四種方式於 Azure 上建立 Windows VM： 1. 以 Azure Management Protal 快速建立 2. 以 Azure Management Protal 範本建立 3. 透過 Azure PowerShell 建立 4. 透過 Azure PowerShell 大量建立   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5970/30ace624-8b40-4a7d-a9bb-9729727c5970/CreateWindowsVM_mid.mp4</video:content_loc>
+        <video:duration>1454</video:duration>
+        <video:publication_date>2015-02-09T08:49:13.8538505+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-vm-jumpstart/01</loc>
+      <lastmod>2015-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8317/659f7172-b275-46ad-a535-fa6ce28a8317/MicrosoftAzureVirtualMachineIntroduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Microsoft Azure ]]></video:title>
+        <video:description><![CDATA[Microsoft Azure 虛擬機器是 IaaS 的實踐，提供了最佳彈性及擴充性的基礎結構服務，透過 Azure VM 可以讓企業在投入雲的投資，得到最佳的回饋。開發者或 IT 專業人員也都可以在這個服務上建立 Windows Server, SQL Server, Linux Server。 Microsoft Azure 雲端服務提供最強的支援，讓開發者及 IT&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8317/659f7172-b275-46ad-a535-fa6ce28a8317/MicrosoftAzureVirtualMachineIntroduction_mid.mp4</video:content_loc>
+        <video:duration>559</video:duration>
+        <video:publication_date>2015-02-09T08:43:53.1995035+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/iot-seminars</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/iot-seminars/Session4</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7009/e715dba6-a313-44d9-8788-b272b0437009/IotSeminars04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft! Internet of Things -4/4]]></video:title>
+        <video:description><![CDATA[今後の取組ご紹介 ※2015年8月4日に開催されたセミナーの収録です。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7009/e715dba6-a313-44d9-8788-b272b0437009/IotSeminars04_mid.mp4</video:content_loc>
+        <video:duration>328</video:duration>
+        <video:publication_date>2015-08-25T10:15:58.5556129+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/iot-seminars/Session3</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a472/de549290-b8d7-4012-a1ec-7a415ff0a472/IotSeminars03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft! Internet of Things -3/4]]></video:title>
+        <video:description><![CDATA[モノから生まれたデータを分析・活用する ※ 2015年8月4日に開催されたセミナーの収録です。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a472/de549290-b8d7-4012-a1ec-7a415ff0a472/IotSeminars03_mid.mp4</video:content_loc>
+        <video:duration>2485</video:duration>
+        <video:publication_date>2015-08-25T09:56:57.1176338+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/iot-seminars/Session2</loc>
+      <lastmod>2017-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3342/7f1c77ca-0021-40b6-80c5-f33b3b9c3342/IotSeminars02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft! Internet of Things -2/4]]></video:title>
+        <video:description><![CDATA[モノとクラウドを連携させて Internet of Things を実現する ※2015年8月4日に開催されたセミナーの収録です。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3342/7f1c77ca-0021-40b6-80c5-f33b3b9c3342/IotSeminars02_mid.mp4</video:content_loc>
+        <video:duration>5315</video:duration>
+        <video:publication_date>2015-08-25T09:54:20.6310021+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/iot-seminars/Session1</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf4e/86393db6-c46c-4257-8435-3189965bbf4e/IotSeminars01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft! Internet of Things -1/4]]></video:title>
+        <video:description><![CDATA[Internet of Things の活用で創造するビジネス インパクト ※2015年8月4日に開催されたセミナーの収録です。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf4e/86393db6-c46c-4257-8435-3189965bbf4e/IotSeminars01_mid.mp4</video:content_loc>
+        <video:duration>2833</video:duration>
+        <video:publication_date>2015-08-25T09:43:47.4235853+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

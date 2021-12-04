@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Operations-Management-Suite-jump-start</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Operations-Management-Suite-jump-start/05</loc>
+      <lastmod>2018-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4f6a/b27db858-e31e-4164-b0a4-828c6e1e4f6a/AzureAutomation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 |   (Azure Automation)]]></video:title>
+        <video:description><![CDATA[Обзор Azure AutomationГибридная рабочая роль (Hybrid Runbook Worker)Де&amp;#1084;онстрацииВопросы и ответы]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f6a/b27db858-e31e-4164-b0a4-828c6e1e4f6a/AzureAutomation_mid.mp4</video:content_loc>
+        <video:duration>3463</video:duration>
+        <video:publication_date>2017-07-03T09:24:06.0667023+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Operations-Management-Suite-jump-start/04</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/026f/8a91db20-535d-4786-bb82-febd5e45026f/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 |     ]]></video:title>
+        <video:description><![CDATA[Панели &amp;#1084;ониторинга (Dashboards)Оповещения на основе запросовМобильное приложениеДе&amp;#1084;онстрацииВопросы и ответы]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/026f/8a91db20-535d-4786-bb82-febd5e45026f/04_mid.mp4</video:content_loc>
+        <video:duration>1901</video:duration>
+        <video:publication_date>2017-06-28T17:07:13.5524871+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Operations-Management-Suite-jump-start/03</loc>
+      <lastmod>2017-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/45c1/9979d5b4-b076-4bc4-abbc-a92b181b45c1/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |    (Log Analytics)]]></video:title>
+        <video:description><![CDATA[Обзор аналитики журналовИнстру&amp;#1084;енты аналитикиДе&amp;#1084;онстрация (базовая фильтрация с использование&amp;#1084; GUI)Вопросы и ответы]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45c1/9979d5b4-b076-4bc4-abbc-a92b181b45c1/03_mid.mp4</video:content_loc>
+        <video:duration>1846</video:duration>
+        <video:publication_date>2017-06-14T09:31:04.6089451+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Operations-Management-Suite-jump-start/02</loc>
+      <lastmod>2017-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec50/0b05f0d3-2953-44cf-906a-2274c7e8ec50/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |     ]]></video:title>
+        <video:description><![CDATA[Обзор и де&amp;#1084;онстрация галереи решенийКонцепция &#171;решения&#187; (management solution)При&amp;#1084;еры решенийДе&amp;#1084;онстрация (работа с решения&amp;#1084;и)Вопросы и ответы]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec50/0b05f0d3-2953-44cf-906a-2274c7e8ec50/02_mid.mp4</video:content_loc>
+        <video:duration>3492</video:duration>
+        <video:publication_date>2017-06-14T09:31:02.0247418+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Operations-Management-Suite-jump-start/01</loc>
+      <lastmod>2017-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdc8/72c66d9c-4545-4605-ac30-a307603fcdc8/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 |   Microsoft Operations Management Suite ]]></video:title>
+        <video:description><![CDATA[Что такое Microsoft Operations Management Suite (OMS)?Поче&amp;#1084;у OMS?Начало использования (создание рабочей области, включение &#171;решений&#187;, установка агентов)Вопросы и ответы]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdc8/72c66d9c-4545-4605-ac30-a307603fcdc8/01_mid.mp4</video:content_loc>
+        <video:duration>3735</video:duration>
+        <video:publication_date>2017-04-27T09:41:16.1044320+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

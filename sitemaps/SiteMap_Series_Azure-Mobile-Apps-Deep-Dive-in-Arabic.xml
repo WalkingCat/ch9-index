@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Introduction-to-Azure-Mobile-Apps-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c98a/bcf6f2fc-71ae-4c39-8869-e693d899c98a/IntroToAzureMobileAppsArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Azure Mobile Apps in Arabic]]></video:title>
+        <video:description><![CDATA[Kick-off your cloud-backed mobile apps journey and get started with Azure Mobile Apps as part of Azure App Service offerings. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c98a/bcf6f2fc-71ae-4c39-8869-e693d899c98a/IntroToAzureMobileAppsArabic_mid.mp4</video:content_loc>
+        <video:duration>796</video:duration>
+        <video:publication_date>2016-02-22T11:49:09.3133753+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Data--Offline-Sync-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/273c/30584dc7-4680-4378-a0b6-7a93b5cf273c/DataandOfflineSyncinArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data &amp; Offline Sync in Arabic]]></video:title>
+        <video:description><![CDATA[Learn how to structure your data on the cloud and access it from your mobile apps in addition to using offline data sync feature to make your apps functional without a network connection. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/273c/30584dc7-4680-4378-a0b6-7a93b5cf273c/DataandOfflineSyncinArabic_mid.mp4</video:content_loc>
+        <video:duration>1272</video:duration>
+        <video:publication_date>2016-02-22T11:49:05.7483609+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Data-Authentication-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ba1/edc2f679-d76e-4da8-84ec-758c21050ba1/AuthenticationInArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data Authentication in Arabic]]></video:title>
+        <video:description><![CDATA[This module shows you how to add cloud-based authentication to your mobile apps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ba1/edc2f679-d76e-4da8-84ec-758c21050ba1/AuthenticationInArabic_mid.mp4</video:content_loc>
+        <video:duration>2816</video:duration>
+        <video:publication_date>2016-02-22T11:49:02.7483944+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Push-Notifications-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a048/4cd89491-416f-488c-b76c-da229833a048/PushNotificationsInArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Push Notifications in Arabic]]></video:title>
+        <video:description><![CDATA[This module shows you how to send push notifications to your mobile apps by using Azure Mobile Apps and Azure Notification Hubs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a048/4cd89491-416f-488c-b76c-da229833a048/PushNotificationsInArabic_mid.mp4</video:content_loc>
+        <video:duration>455</video:duration>
+        <video:publication_date>2016-02-22T11:48:59.6791363+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

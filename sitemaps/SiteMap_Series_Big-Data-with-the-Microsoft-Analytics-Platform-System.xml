@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/06</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9438/3c99f70a-f035-4e10-b153-5cfb8b5f9438/308MicrosoftAnalyticsPlatformSystemM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data with the Microsoft Analytics Platform System: (06) BI Integration and End-to-End Demo]]></video:title>
+        <video:description><![CDATA[Learn to make the most of the power of Microsoft BI tools amplified by APS, learn best practices for accessing APS using these powerful products, and find out how to optimize SSAS Cube design when&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9438/3c99f70a-f035-4e10-b153-5cfb8b5f9438/308MicrosoftAnalyticsPlatformSystemM06_mid.mp4</video:content_loc>
+        <video:duration>3317</video:duration>
+        <video:publication_date>2014-12-20T22:13:16.8703522+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/967c/6f6c3b30-ca2b-4f9d-b074-01f7157a967c/308MicrosoftAnalyticsPlatformSystemM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data with the Microsoft Analytics Platform System: (05) HDI Region Software, Tools, &amp; Polybase]]></video:title>
+        <video:description><![CDATA[Explore the HDI (Hadoop) region in APS, what it is designed to do, and how it differs from standard Hadoop. And take a look at the various open-source projects (such as Hive) supported on APS and how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/967c/6f6c3b30-ca2b-4f9d-b074-01f7157a967c/308MicrosoftAnalyticsPlatformSystemM05_mid.mp4</video:content_loc>
+        <video:duration>2570</video:duration>
+        <video:publication_date>2014-12-20T22:13:16.5284544+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/794c/5df6ec51-b92d-4a2d-bf65-c7a8a263794c/308MicrosoftAnalyticsPlatformSystemM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data with the Microsoft Analytics Platform System: (04) APS Data Loading]]></video:title>
+        <video:description><![CDATA[Learn how APS uses the MPP to load data into APS at extremely high speeds yet protects the integrity of data, and discover the true meaning of near real-time data loads while running a mixed workload&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/794c/5df6ec51-b92d-4a2d-bf65-c7a8a263794c/308MicrosoftAnalyticsPlatformSystemM04_mid.mp4</video:content_loc>
+        <video:duration>2989</video:duration>
+        <video:publication_date>2014-12-20T22:12:33.5639003+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9782/b8ba991c-53d1-45e7-9610-6c8814ed9782/308MicrosoftAnalyticsPlatformSystemM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data with the Microsoft Analytics Platform System: (03) Distribution Theory &amp; Design]]></video:title>
+        <video:description><![CDATA[Gain a deep understating of the APS distributed database, such as how APS stores and distributes data using a sophisticated underlying physical database architecture with minimal performance tuning.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9782/b8ba991c-53d1-45e7-9610-6c8814ed9782/308MicrosoftAnalyticsPlatformSystemM03_mid.mp4</video:content_loc>
+        <video:duration>2154</video:duration>
+        <video:publication_date>2014-12-20T22:12:17.6950272+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f04f/87cd2a8d-cf52-4b80-bd97-b089e6b2f04f/308MicrosoftAnalyticsPlatformSystemM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data with the Microsoft Analytics Platform System: (02) Hardware/Software Architecture]]></video:title>
+        <video:description><![CDATA[Explore the differences between SMP and MPP architectures for data warehouse, including a deep dive on the hardware components of APS, the underlying architecture, and its high-availability features.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f04f/87cd2a8d-cf52-4b80-bd97-b089e6b2f04f/308MicrosoftAnalyticsPlatformSystemM02_mid.mp4</video:content_loc>
+        <video:duration>4008</video:duration>
+        <video:publication_date>2014-12-20T22:11:47.0289786+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9c45/37cea502-cf89-4ba3-90b8-cdab8ec09c45/308MicrosoftAnalyticsPlatformSystemM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data with the Microsoft Analytics Platform System: (01) Introduction to APS]]></video:title>
+        <video:description><![CDATA[Take a look at Modern Data Warehouse, and see how APS plays a key role. Get an introduction to the overall appliance hardware architecture, key features and differentiators, and see the award-winning&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9c45/37cea502-cf89-4ba3-90b8-cdab8ec09c45/308MicrosoftAnalyticsPlatformSystemM01_mid.mp4</video:content_loc>
+        <video:duration>3038</video:duration>
+        <video:publication_date>2014-12-20T22:11:37.9794815+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

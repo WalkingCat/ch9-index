@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/IntuneEnrollment</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IntuneEnrollment/Android-Enrollment</loc>
+      <lastmod>2021-03-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d003/f8f004cf-d0c5-407b-9c09-6477e1ded003/IntuneAndroid_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Android Enrollment]]></video:title>
+        <video:description><![CDATA[Learn how to enroll your Android device ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d003/f8f004cf-d0c5-407b-9c09-6477e1ded003/IntuneAndroid_high.mp4</video:content_loc>
+        <video:duration>158</video:duration>
+        <video:publication_date>2017-01-24T00:22:00.4704520+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IntuneEnrollment/iOS-Enrollment</loc>
+      <lastmod>2020-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a576/5d494e9e-6db2-44d5-899e-7014825ca576/IntuneiOSEnrollment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[iOS Enrollment]]></video:title>
+        <video:description><![CDATA[Learn how to enroll your iOS device ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a576/5d494e9e-6db2-44d5-899e-7014825ca576/IntuneiOSEnrollment_high.mp4</video:content_loc>
+        <video:duration>168</video:duration>
+        <video:publication_date>2017-01-24T00:19:43.3740087+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IntuneEnrollment/Windows-Enrollment</loc>
+      <lastmod>2021-09-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f6f1/aaac9569-4049-4710-89f3-c9039a2ff6f1/IntuneWindowsEnrollment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Enrollment]]></video:title>
+        <video:description><![CDATA[Learn how to enroll your Windows device ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6f1/aaac9569-4049-4710-89f3-c9039a2ff6f1/IntuneWindowsEnrollment_high.mp4</video:content_loc>
+        <video:duration>68</video:duration>
+        <video:publication_date>2017-01-24T00:19:18.9770573+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IntuneEnrollment/Windows-Enrollment-with-AAD</loc>
+      <lastmod>2018-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1fc3/58202a61-7fcc-41a3-a5bc-0ae2d3b01fc3/IntuneWindowsEnrollmentAAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Enrollment with AAD]]></video:title>
+        <video:description><![CDATA[Learn how to enroll your Windows device ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1fc3/58202a61-7fcc-41a3-a5bc-0ae2d3b01fc3/IntuneWindowsEnrollmentAAD_high.mp4</video:content_loc>
+        <video:duration>82</video:duration>
+        <video:publication_date>2017-01-24T00:18:56.6969052+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

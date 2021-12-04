@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Azure-i-nie-tylko-najwazniejsze-nowosci-po-konferencji-Build-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Azure-i-nie-tylko-najwazniejsze-nowosci-po-konferencji-Build-2015/Nowoci-w-Azure-i-nie-tylko</loc>
+      <lastmod>2015-05-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f83f/4f6201df-7b35-4a81-9522-ed64bfc3f83f/nowosci_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nowoci w Azure i nie tylko ]]></video:title>
+        <video:description><![CDATA[W tym module zobaczymy, czym jest i jakie nowości pojawiły się w usłudze Azure App Service. Rzucimy okiem na nadchodzącą wersję ASP.NET i nowy, bezpłatny edytor kodu – Visual Studio Code. Przyjrzymy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f83f/4f6201df-7b35-4a81-9522-ed64bfc3f83f/nowosci_mid.mp4</video:content_loc>
+        <video:duration>1944</video:duration>
+        <video:publication_date>2015-05-28T15:53:16.9639562+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Azure-i-nie-tylko-najwazniejsze-nowosci-po-konferencji-Build-2015/Nowoci-w-Windows-10-dla-programistw</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/12e6/4bdbe449-5d5b-4135-825a-2ca1674812e6/nowosci2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nowoci w Windows 10 dla programist&#243;w]]></video:title>
+        <video:description><![CDATA[Przyjrzymy się najważniejszym nowościom, jakie API Windows 10 oferuje programistom. Zobaczymy jak zmieniają się kontrolki wizualne i jakie inne usprawnienia pojawiły się w XAML. Om&#243;wimy jak zmieniły&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/12e6/4bdbe449-5d5b-4135-825a-2ca1674812e6/nowosci2_mid.mp4</video:content_loc>
+        <video:duration>2753</video:duration>
+        <video:publication_date>2015-05-26T17:11:21.9262065+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Azure-i-nie-tylko-najwazniejsze-nowosci-po-konferencji-Build-2015/Wstp</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8373/69cf8ca5-a011-4ea9-878b-6b59fd278373/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wstp]]></video:title>
+        <video:description><![CDATA[ W trakcie kr&#243;tkiego wstępu przedstawimy listę zagadnień, poruszanych w dalszej części kursu. Zobaczymy także gdzie poszukiwać materiał&#243;w i skąd pobrać system Windows 10. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8373/69cf8ca5-a011-4ea9-878b-6b59fd278373/wstep_mid.mp4</video:content_loc>
+        <video:duration>229</video:duration>
+        <video:publication_date>2015-05-26T16:49:12.4993213+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

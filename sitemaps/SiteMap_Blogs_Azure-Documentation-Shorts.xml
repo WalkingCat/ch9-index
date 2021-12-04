@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Infrastructure-as-code</loc>
+      <lastmod>2017-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a35c/e365e1f4-74bb-4745-a54b-a275a771a35c/infrastructureascode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Infrastructure as code]]></video:title>
+        <video:description><![CDATA[In this episode I look at an implementation of &amp;quot;infrastructure as code&amp;quot;. There is an open source code project where they forked the WordPress code so work with SQL server as the backend&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a35c/e365e1f4-74bb-4745-a54b-a275a771a35c/infrastructureascode_mid.mp4</video:content_loc>
+        <video:duration>618</video:duration>
+        <video:publication_date>2016-05-01T03:48:31.7285092+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/AzureP2SStep1of3</loc>
+      <lastmod>2017-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a85b/7d67538c-617c-4fde-a817-33429151a85b/yungchouAzureP2SStep1of3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configure a Point-to-Site VPN Connection to a Virtual Network: Step 1 of 3]]></video:title>
+        <video:description><![CDATA[In this video, Yung Chou walks through Step 1 and details the processes and operations described in the Azure documentation, Configure a Point-to-Site VPN Connection to a Virtual Network. Step 1,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a85b/7d67538c-617c-4fde-a817-33429151a85b/yungchouAzureP2SStep1of3_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2016-03-04T03:56:22.9041922+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Start-Stop-Restart-and-Delete-VMs-in-Microsoft-Azure-with-PowerShell</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/123e/78a2cdb5-f1d8-46d0-b6e5-d1ed1e2c123e/StartStopRestartandDeleteVMsinAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Start Stop Restart and Delete VMs in Microsoft Azure with PowerShell]]></video:title>
+        <video:description><![CDATA[Kevin walks us through starting, stopping, and deleting VMs in Microsoft Azure with PowerShell per the documentation found at:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/123e/78a2cdb5-f1d8-46d0-b6e5-d1ed1e2c123e/StartStopRestartandDeleteVMsinAzure_mid.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2015-08-31T20:25:26.4932219+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Displaying-Information-about-a-Virtual-Machine-in-Microsoft-Azure-with-PowerShell</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/84d5/e1030f0d-d107-45cf-977c-e1e75d2a84d5/DisplayInformationAboutAVirtualMachine_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Displaying Information about a Virtual Machine in Microsoft Azure with PowerShell]]></video:title>
+        <video:description><![CDATA[Kevin walks us through displaying information about a virtual machine in Microsoft Azure with PowerShell per the documentation found at:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/84d5/e1030f0d-d107-45cf-977c-e1e75d2a84d5/DisplayInformationAboutAVirtualMachine_mid.mp4</video:content_loc>
+        <video:duration>153</video:duration>
+        <video:publication_date>2015-08-31T20:23:54.4125280+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Removing-a-Resource-Group-in-Azure</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/38e1/effd4624-258b-40ef-bf98-4f0ba6a538e1/RemovingAResourceGroupinAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Removing a Resource Group in Azure]]></video:title>
+        <video:description><![CDATA[Kevin walks us through removing a resource group in Azure per the documentation found here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/38e1/effd4624-258b-40ef-bf98-4f0ba6a538e1/RemovingAResourceGroupinAzure_mid.mp4</video:content_loc>
+        <video:duration>202</video:duration>
+        <video:publication_date>2015-08-31T20:03:32.2739640+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Deploy-Multi-VM-App-with-a-Virtual-Network-and-Load-Balancer-in-Azure-Resource-Manager</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4533/ebb69130-2fe7-4a85-913d-e5472ad24533/DeployAMultiVMAppwVNetandExtloadBalancer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy Multi-VM App with a Virtual Network and Load Balancer in Azure Resource Manager]]></video:title>
+        <video:description><![CDATA[Kevin walks us through deploying a multi-VM application with a virtual network with a load balancer in Azure Resource Manager and PowerShell ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4533/ebb69130-2fe7-4a85-913d-e5472ad24533/DeployAMultiVMAppwVNetandExtloadBalancer_mid.mp4</video:content_loc>
+        <video:duration>468</video:duration>
+        <video:publication_date>2015-08-31T20:03:10.3680122+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Create-a-Custom-Virtual-Machine-Image-in-Azure-Resource-Manager-with-PowerShell</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4125/7c55888f-bf03-4393-8c7a-d7c5667f4125/CreatingaCustomVMImageinARMwPOSH_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a Custom Virtual Machine Image in Azure Resource Manager with PowerShell]]></video:title>
+        <video:description><![CDATA[Kevin walks us through creating a custom virtual machine image in Azure Resource Manager with PowerShell per the documentation found here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4125/7c55888f-bf03-4393-8c7a-d7c5667f4125/CreatingaCustomVMImageinARMwPOSH_mid.mp4</video:content_loc>
+        <video:duration>631</video:duration>
+        <video:publication_date>2015-08-31T20:02:53.2225453+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Deploy-a-Windows-Virtual-Machine-with-Azure-Resource-Manager-Templates-and-PowerShell</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1baf/12dbc7f9-8130-4a1e-8bd2-f3bb20be1baf/DeployaVirtualMachinewithAzureResourceManagerTemp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy a Windows Virtual Machine with Azure Resource Manager Templates and PowerShell]]></video:title>
+        <video:description><![CDATA[Kevin walks us through deploying a virtual machine with Azure Resouce Templates and PowerShell following the documentation found here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1baf/12dbc7f9-8130-4a1e-8bd2-f3bb20be1baf/DeployaVirtualMachinewithAzureResourceManagerTemp_mid.mp4</video:content_loc>
+        <video:duration>479</video:duration>
+        <video:publication_date>2015-08-31T20:02:42.8402340+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Logging-On-To-VM-Running-Windows-Server-on-Azure</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/383c/a1b617f0-f834-4d4c-ab09-6938dc79383c/LoggingOnToVMRunningWindows_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Logging On To VM Running Windows Server on Azure]]></video:title>
+        <video:description><![CDATA[Kevin walks us through logging into a Windows VM on Azure per the documentation found here: https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-log-on-windows-server/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/383c/a1b617f0-f834-4d4c-ab09-6938dc79383c/LoggingOnToVMRunningWindows_mid.mp4</video:content_loc>
+        <video:duration>227</video:duration>
+        <video:publication_date>2015-08-31T20:02:32.1579656+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Attaching-a-Data-Disk-to-a-Windows-VM</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/22f5/b7251b8a-db6d-4951-8212-c795a03d22f5/AddingDisktoWindowsVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Attaching a Data Disk to a Windows VM]]></video:title>
+        <video:description><![CDATA[Jennelle walks us through the steps for adding a disk to a Windows virtual machine per the documentation steps found here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22f5/b7251b8a-db6d-4951-8212-c795a03d22f5/AddingDisktoWindowsVM_mid.mp4</video:content_loc>
+        <video:duration>262</video:duration>
+        <video:publication_date>2015-08-26T18:28:10.7547632+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Create-A-Virtual-Machine-Running-Windows-In-The-Azure-Preview-Portal</loc>
+      <lastmod>2016-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0221/c2ece313-a7ef-4fc2-b657-19294bc00221/CreateWindowsVMinAzurePreviewPortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create A Virtual Machine Running Windows In The Azure Preview Portal]]></video:title>
+        <video:description><![CDATA[In this short video we will walk through the instructions outlined on the Azure Documentation site: Create A Virtual Machine Running Windows In The Azure Preview Portal   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0221/c2ece313-a7ef-4fc2-b657-19294bc00221/CreateWindowsVMinAzurePreviewPortal_mid.mp4</video:content_loc>
+        <video:duration>667</video:duration>
+        <video:publication_date>2015-08-26T03:51:48.0411736+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/SQL-Database-Enable-Geo-Replication-in-Azure-Portal</loc>
+      <lastmod>2015-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/717d/595e0fcb-ef75-4867-8c3b-3f102509717d/AZureSQLDataseGEOReplicaPortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Database Enable Geo Replication in Azure Portal]]></video:title>
+        <video:description><![CDATA[How to enable SQL Database Geo-Replication See Design for business continuity in the Azure documentation for more information.  Log in to the Azure PortalOn the left side of the screen select BROWSE&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/717d/595e0fcb-ef75-4867-8c3b-3f102509717d/AZureSQLDataseGEOReplicaPortal_mid.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2015-08-21T14:20:38.2746924+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/azurebackuprestoreserverandclient</loc>
+      <lastmod>2015-08-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c9c/dedd8ae3-4ce9-459f-a223-0a3ec9177c9c/RSBVrecovery_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup and restore from a Windows server or client machine]]></video:title>
+        <video:description><![CDATA[Short video from Blain Barton following the steps for backup and restore from a Windows server or Windows client machine via the Azure documentation found here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c9c/dedd8ae3-4ce9-459f-a223-0a3ec9177c9c/RSBVrecovery_mid.mp4</video:content_loc>
+        <video:duration>413</video:duration>
+        <video:publication_date>2015-08-17T21:32:15.4256570+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Download-install-and-register-the-Azure-Backup-agent</loc>
+      <lastmod>2015-08-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b6f1/71fe3de6-a7c5-404b-b844-5c748557b6f1/AzureBCVagent_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Download, install, and register the Azure Backup agent]]></video:title>
+        <video:description><![CDATA[Short video following the steps for downloading, installing and registering the Azure Backup agent on to Windows Server and Client machines as found in the Azure documentation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6f1/71fe3de6-a7c5-404b-b844-5c748557b6f1/AzureBCVagent_mid.mp4</video:content_loc>
+        <video:duration>266</video:duration>
+        <video:publication_date>2015-08-16T13:49:05.6512003+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Using-vault-credentials-to-authenticate-with-the-Azure-Backup-service</loc>
+      <lastmod>2017-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4853/2d307838-90e1-464d-877a-3b28e3f84853/AzureBCVcreds_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using vault credentials to authenticate with the Azure Backup service]]></video:title>
+        <video:description><![CDATA[Short video following the steps for using vault credentials to authenticate with the Azure Backup service found in the documentation on Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4853/2d307838-90e1-464d-877a-3b28e3f84853/AzureBCVcreds_mid.mp4</video:content_loc>
+        <video:duration>212</video:duration>
+        <video:publication_date>2015-08-16T13:47:56.0637909+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Get-Started-with-Azure-Automation</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf84/a0f3fd86-16d1-429f-bd63-b8ee89b8bf84/GettingStartedAzureAutomation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Automation]]></video:title>
+        <video:description><![CDATA[A simple step by step walk through for Azure Automation based on the tutorial at: https://azure.microsoft.com/en-us/documentation/articles/automation-create-runbook-from-samples/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf84/a0f3fd86-16d1-429f-bd63-b8ee89b8bf84/GettingStartedAzureAutomation_mid.mp4</video:content_loc>
+        <video:duration>346</video:duration>
+        <video:publication_date>2015-08-12T17:31:28.1549670+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Deploy-an-application-with-Azure-Resource-Manager-Template</loc>
+      <lastmod>2016-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/304a/a48aea4e-0dc4-459a-b5fb-7f41f330304a/DeployAppwithARMTemplate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy an Application with Azure Resource Manager Template]]></video:title>
+        <video:description><![CDATA[Join Kevin Remde as he walks us through the process of deploying an application with Azure Resource Manager Templates.  This video complements the documentation found at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/304a/a48aea4e-0dc4-459a-b5fb-7f41f330304a/DeployAppwithARMTemplate_mid.mp4</video:content_loc>
+        <video:duration>569</video:duration>
+        <video:publication_date>2015-08-11T22:00:08.0146426+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Building-a-Linux-Virtual-Machine-Tutorial</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0802/c21afe5b-0ca0-417b-a5bd-7aa50ea60802/BuildingAzureLinuxVMs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a Linux Virtual Machine Tutorial]]></video:title>
+        <video:description><![CDATA[Brian Lewis walks us through building a virtual machine with Linux on Azure.  This video compliments the documentation found at:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0802/c21afe5b-0ca0-417b-a5bd-7aa50ea60802/BuildingAzureLinuxVMs_mid.mp4</video:content_loc>
+        <video:duration>634</video:duration>
+        <video:publication_date>2015-08-04T19:19:39.7061243+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Navigating-and-Selecting-Azure-Virtual-Machine-images-with-PowerShell</loc>
+      <lastmod>2015-08-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0af3/0985ced4-29c9-4fd0-803d-ffe99d770af3/NavAzureVMwPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Navigating and Selecting Azure Virtual Machine images with PowerShell]]></video:title>
+        <video:description><![CDATA[Kevin Remde presents Navigating and Selecting Azure Virtual Machine images with PowerShell referencing the documentation on Azure.Microsoft.com ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0af3/0985ced4-29c9-4fd0-803d-ffe99d770af3/NavAzureVMwPowerShell_mid.mp4</video:content_loc>
+        <video:duration>320</video:duration>
+        <video:publication_date>2015-08-04T18:14:29.8499234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Navigating-and-Selecting-Azure-Virtual-Machine-images-with-the-Azure-CLI</loc>
+      <lastmod>2015-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/acdf/c3b44c28-93ae-4490-b58f-00ade568acdf/NavAzureVMwCLI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Navigating and Selecting Azure Virtual Machine images with the Azure CLI]]></video:title>
+        <video:description><![CDATA[Kevin Remde presents Navigating and Selecting Azure Virtual Machine images with the Azure CLI referencing the documentation on Azure.Microsoft.com ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/acdf/c3b44c28-93ae-4490-b58f-00ade568acdf/NavAzureVMwCLI_mid.mp4</video:content_loc>
+        <video:duration>617</video:duration>
+        <video:publication_date>2015-08-04T18:14:12.5905462+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Azure-Backup-Vault-Creation</loc>
+      <lastmod>2015-07-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b4a/b76a6975-6c39-4a2e-a537-5d0cdac06b4a/AzureBackupVaultCreation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Backup Vault Creation]]></video:title>
+        <video:description><![CDATA[Blain Barton walks us through the process of creating an Azure Backup Vault.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b4a/b76a6975-6c39-4a2e-a537-5d0cdac06b4a/AzureBackupVaultCreation_mid.mp4</video:content_loc>
+        <video:duration>233</video:duration>
+        <video:publication_date>2015-07-24T17:46:45.9389408+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Azure-Resource-Manager-Overview</loc>
+      <lastmod>2018-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fdff/81009ce6-77d1-428e-8980-419211b2fdff/ARMIntroduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Resource Manager Overview]]></video:title>
+        <video:description><![CDATA[Jennelle walks us through Azure Resource Manager in this short video highlighting the steps from the Azure.Microsoft.com intro page.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fdff/81009ce6-77d1-428e-8980-419211b2fdff/ARMIntroduction_mid.mp4</video:content_loc>
+        <video:duration>198</video:duration>
+        <video:publication_date>2015-07-24T17:12:20.2398517+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Creating-a-Windows-VM-on-Azure-Preview-Portal</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/277c/a89acab0-fc76-4239-a12e-ba63ee92277c/azureVMprevportal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a Windows VM on Microsoft Azure - Preview Portal]]></video:title>
+        <video:description><![CDATA[Short video on creating a Windows VM on Microsoft Azure in step with documentation on Azure.Microsoft.com.  Preview Portal. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/277c/a89acab0-fc76-4239-a12e-ba63ee92277c/azureVMprevportal_mid.mp4</video:content_loc>
+        <video:duration>223</video:duration>
+        <video:publication_date>2015-07-22T16:45:35.4460632+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Documentation-Shorts/Creating-a-Windows-VM-on-Microsoft-Azure-GA-Portal</loc>
+      <lastmod>2015-07-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4aaa/029e8fe1-2c2c-4e0f-9e17-79fed7b64aaa/windowsVMazureGA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a Windows VM on Microsoft Azure - GA Portal]]></video:title>
+        <video:description><![CDATA[Short video on creating a Windows VM on Microsoft Azure in step with documentation on Azure.Microsoft.com ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4aaa/029e8fe1-2c2c-4e0f-9e17-79fed7b64aaa/windowsVMazureGA_mid.mp4</video:content_loc>
+        <video:duration>186</video:duration>
+        <video:publication_date>2015-07-22T16:45:18.8823139+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

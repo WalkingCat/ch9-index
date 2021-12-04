@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-DevOps-Jump-Start</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-DevOps-Jump-Start/03--Release-Management</loc>
+      <lastmod>2016-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7683/12f71744-1a51-4983-9a5e-242dc98e7683/DevOps03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Release Management]]></video:title>
+        <video:description><![CDATA[Con questo ultimo modulo andremo a scoprire l&#39;universo DevOps declinato in chiave Microsoft, fornendo un&#39;overview di Release Management e Release VSTS.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7683/12f71744-1a51-4983-9a5e-242dc98e7683/DevOps03_mid.mp4</video:content_loc>
+        <video:duration>1830</video:duration>
+        <video:publication_date>2016-01-19T16:41:37.4780445+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-DevOps-Jump-Start/02--Agile-Deployment-Pipeline</loc>
+      <lastmod>2016-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb2e/5228efc0-2773-4ba2-8b26-608c3c3beb2e/DevOps02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Agile Deployment Pipeline]]></video:title>
+        <video:description><![CDATA[In questo secondo modulo ci si focalizzer&#224; sull&#39;Agile Deployment Pipeline, indicando per ogni fase l&#39;approccio e i tool pi&#249; efficaci al raggiungimento del risultato complessivo.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb2e/5228efc0-2773-4ba2-8b26-608c3c3beb2e/DevOps02_mid.mp4</video:content_loc>
+        <video:duration>2495</video:duration>
+        <video:publication_date>2016-01-19T16:41:33.7333710+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-DevOps-Jump-Start/01--DevOps-Fundamentals</loc>
+      <lastmod>2016-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/13c6/206a3b71-13e7-4ddb-89a0-1e3ccf4213c6/DevOps01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | DevOps Fundamentals]]></video:title>
+        <video:description><![CDATA[Questo primo modulo si focalizza sui concetti chiave di DevOps, andando a chiarire le diverse declinazioni esistenti in letteratura ed evidenziando il grande cambiamento Culturale annesso.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13c6/206a3b71-13e7-4ddb-89a0-1e3ccf4213c6/DevOps01_mid.mp4</video:content_loc>
+        <video:duration>2322</video:duration>
+        <video:publication_date>2016-01-19T16:41:22.2781369+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

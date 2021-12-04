@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Scott-Guthrie-March-24-2015-Announcement</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Scott-Guthrie-March-24-2015-Announcement/Azure-App-Service-announcement</loc>
+      <lastmod>2018-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/50f2/2f6cccb2-647c-44b9-88f1-3ce8db0c50f2/appserviceannounce_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure App Service announcement]]></video:title>
+        <video:description><![CDATA[Learn about the new Azure application service in this announcement from Scott Guthrie. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/50f2/2f6cccb2-647c-44b9-88f1-3ce8db0c50f2/appserviceannounce_mid.mp4</video:content_loc>
+        <video:duration>3052</video:duration>
+        <video:publication_date>2015-03-24T17:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

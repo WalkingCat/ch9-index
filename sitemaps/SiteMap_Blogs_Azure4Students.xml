@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure4Students</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure4Students/You-Make-IT-Smart</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2b4/cb7f984e-e5a2-4c33-b45a-a49bf36fb2b4/YMITS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You Make IT Smart]]></video:title>
+        <video:description><![CDATA[Discover the new Azure for student offer available at https://aka.ms/azureforstudents and the contest for Swiss student at http://ymits.azurewebsites.net/ which will make you discover Azure in a fun&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2b4/cb7f984e-e5a2-4c33-b45a-a49bf36fb2b4/YMITS_mid.mp4</video:content_loc>
+        <video:duration>965</video:duration>
+        <video:publication_date>2015-09-14T10:13:01.3572185+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

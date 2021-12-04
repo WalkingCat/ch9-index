@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-SQL-Server-2016-Supporto-Nativo-JSON</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-SQL-Server-2016-Supporto-Nativo-JSON/SQL-Server-2016-Supporto-Nativo-JSON-Considerazioni-Generali</loc>
+      <lastmod>2016-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d687/71186f08-c365-4684-9542-8d190f3ad687/MVASQLJSON03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016: Supporto Nativo JSON - Considerazioni Generali]]></video:title>
+        <video:description><![CDATA[Descrizione degli impieghi possibili della tecnologia e delle attuali limitazioni. Tecniche di indicizzazione e considerazioni sullo storage. Risorse disponibili online ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d687/71186f08-c365-4684-9542-8d190f3ad687/MVASQLJSON03_mid.mp4</video:content_loc>
+        <video:duration>895</video:duration>
+        <video:publication_date>2016-02-02T14:39:03.1772525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-SQL-Server-2016-Supporto-Nativo-JSON/SQL-Server-2016-Supporto-Nativo-JSON-JSON-dal-punto-di-vista-di-SQL-Server</loc>
+      <lastmod>2016-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a1e5/98f872d6-05e5-457b-be22-b1e553b5a1e5/MVASQLJSON02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016: Supporto Nativo JSON - JSON dal punto di vista di SQL Server]]></video:title>
+        <video:description><![CDATA[Come SQL Server ha integrato il supporto al formato JSON. Modifiche alla programmabilit&#224; e al query engine. Dimostrazione di alcune feature gi&#224; disponibili per esportare query in formato JSON. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a1e5/98f872d6-05e5-457b-be22-b1e553b5a1e5/MVASQLJSON02_mid.mp4</video:content_loc>
+        <video:duration>1446</video:duration>
+        <video:publication_date>2016-02-02T14:38:37.5270142+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-SQL-Server-2016-Supporto-Nativo-JSON/SQL-Server-2016-Supporto-Nativo-JSON-Introduzione-al-formato-JSON</loc>
+      <lastmod>2016-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d68e/5ae4c9f3-a303-499c-9935-43998904d68e/MVASQLJSON01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016: Supporto Nativo JSON - Introduzione al formato JSON]]></video:title>
+        <video:description><![CDATA[Che cos&#39;&#232; e perch&#232; si usa JSON. Comparazione con il formato/markup XML. Vantaggi e svantaggi nel suo utilizzo e panoramica sull&#39;utilizzo attuale del formato. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d68e/5ae4c9f3-a303-499c-9935-43998904d68e/MVASQLJSON01_mid.mp4</video:content_loc>
+        <video:duration>840</video:duration>
+        <video:publication_date>2016-02-02T14:38:19.1020646+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

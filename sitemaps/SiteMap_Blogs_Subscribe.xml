@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-66-Composite-Types-and-Messages</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ce9/bd5c13a2-884e-4fa5-bba7-d93a5bdf2ce9/20151005amqpintro6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The AMQP 1.0 Protocol - 6/6 - Composite Types and Messages]]></video:title>
+        <video:description><![CDATA[This is the final part of a 6 part series introducing the AMQP 1.0 protocol, covering composite types and messages, and the frame layout. The AMQP 1.0 protocol is used by Azure Service Bus, Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ce9/bd5c13a2-884e-4fa5-bba7-d93a5bdf2ce9/20151005amqpintro6_mid.mp4</video:content_loc>
+        <video:duration>1022</video:duration>
+        <video:publication_date>2015-10-05T21:28:07.5766461+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-56-Primitive-Type-Encoding</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e28/077beb04-bb31-479b-9ba5-a72186553e28/20151005amqpintro51_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The AMQP 1.0 Protocol - 5/6 - Primitive Type Encoding]]></video:title>
+        <video:description><![CDATA[This is part 5 of a 6 part series introducing the AMQP 1.0 protocol, explaining the type system basics and the encoding of primitive types. The AMQP 1.0 protocol is used by Azure Service Bus, Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e28/077beb04-bb31-479b-9ba5-a72186553e28/20151005amqpintro51_mid.mp4</video:content_loc>
+        <video:duration>899</video:duration>
+        <video:publication_date>2015-10-05T21:27:47.4429895+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-46-Flow-Control</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b722/23056af9-6455-47ac-945e-17c611e1b722/20151005amqpintro4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The AMQP 1.0 Protocol - 4/6 - Flow Control]]></video:title>
+        <video:description><![CDATA[This is part 4 of a 6 part series introducing the AMQP 1.0 protocol, describing the flow control models. The AMQP 1.0 protocol is used by Azure Service Bus, Service Bus for Windows Server, Azure Event&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b722/23056af9-6455-47ac-945e-17c611e1b722/20151005amqpintro4_mid.mp4</video:content_loc>
+        <video:duration>547</video:duration>
+        <video:publication_date>2015-10-05T20:02:38.1042529+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-36-Message-Transfers</loc>
+      <lastmod>2015-10-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0dd9/36a93e2c-6e2d-4f31-bde1-935c16030dd9/20151005amqpintro3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The AMQP 1.0 Protocol - 3/6 - Message Transfers]]></video:title>
+        <video:description><![CDATA[This is part 3 of a 6 part series introducing the AMQP 1.0 protocol, describing message transfers and disposition. The AMQP 1.0 protocol is used by Azure Service Bus, Service Bus for Windows Server,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0dd9/36a93e2c-6e2d-4f31-bde1-935c16030dd9/20151005amqpintro3_mid.mp4</video:content_loc>
+        <video:duration>460</video:duration>
+        <video:publication_date>2015-10-05T20:02:15.5808882+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-26-Core-Elements</loc>
+      <lastmod>2020-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe04/d2e462f9-9779-482a-9a01-d2679766fe04/20151005amqpintro2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The AMQP 1.0 Protocol - 2/6 - Core Elements]]></video:title>
+        <video:description><![CDATA[This is part 2 of a 6 part series introducing the AMQP 1.0 protocol, discussing the core protocol elements, Connections, Sessions, and Links. The AMQP 1.0 protocol is used by Azure Service Bus,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe04/d2e462f9-9779-482a-9a01-d2679766fe04/20151005amqpintro2_mid.mp4</video:content_loc>
+        <video:duration>771</video:duration>
+        <video:publication_date>2015-10-05T18:55:04.7652865+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-16-Overview</loc>
+      <lastmod>2020-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5eec/6ee25fc8-0ff3-40bd-b385-3de22df95eec/20151005amqpintro1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The AMQP 1.0 Protocol - 1/6 - Overview]]></video:title>
+        <video:description><![CDATA[This is part 1 of a 6 part series introducing the AMQP 1.0 protocol.  Part 1 - Part 2 - Part 3 - Part 4 - Part 5 - Part 6 The AMQP 1.0 protocol is used by Azure Service Bus, Service Bus for Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5eec/6ee25fc8-0ff3-40bd-b385-3de22df95eec/20151005amqpintro1_mid.mp4</video:content_loc>
+        <video:duration>878</video:duration>
+        <video:publication_date>2015-10-05T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Azure-IoT-and-Windows-IoT-at-IoT-Solutions-World-Congress</loc>
+      <lastmod>2017-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/87d3/ea79c8e4-a0d8-4bdf-86c0-a05aa80687d3/20150925iotswc_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure IoT and Windows IoT at IoT Solutions World Congress]]></video:title>
+        <video:description><![CDATA[IoT Solutions World Congress 2015 was held in Barcelona (Spain) last week. On a VERY NOISY showfloor, I spoke to Nicole Berdy (@nberdy) about the Azure IoT Suite, and to Colin Murphy about Windows 10&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/87d3/ea79c8e4-a0d8-4bdf-86c0-a05aa80687d3/20150925iotswc_mid.mp4</video:content_loc>
+        <video:duration>447</video:duration>
+        <video:publication_date>2015-09-25T12:51:08.1599933+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Azure-Service-Bus-Messaging-Overview</loc>
+      <lastmod>2021-02-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0432/3512394d-c141-46b8-835b-47f32cb20432/20150904sbmsgintrolong_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Service Bus Messaging Overview]]></video:title>
+        <video:description><![CDATA[With the advent of the public preview of Azure Service Bus Premium Messaging, it&#39;s time for a fresh Service Bus Messaging overview talk here on Subscribe. This episode covers some of the motivations&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0432/3512394d-c141-46b8-835b-47f32cb20432/20150904sbmsgintrolong_mid.mp4</video:content_loc>
+        <video:duration>2426</video:duration>
+        <video:publication_date>2015-09-04T14:03:25.9738086+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Introducing-Azure-Service-Bus-Premium-Messaging</loc>
+      <lastmod>2018-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc14/e64b48cf-aa11-4166-ba77-a9ed3918dc14/201560901premium3min_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Azure Service Bus Premium Messaging ]]></video:title>
+        <video:description><![CDATA[Azure Service Bus is the core messaging platform that sits at the heart of many sophisticated Azure-based solutions today. Azure Service Bus Premium Messaging is a new offering, now entering public&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc14/e64b48cf-aa11-4166-ba77-a9ed3918dc14/201560901premium3min_mid.mp4</video:content_loc>
+        <video:duration>193</video:duration>
+        <video:publication_date>2015-09-02T18:53:52.7895862+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Subscribe-is-Back-With-A-Trillion-Messages</loc>
+      <lastmod>2019-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5875/f416bb4b-2a35-4cd7-b0a7-24be1c585875/20150817Subscribe_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Subscribe is Back With A Trillion Messages]]></video:title>
+        <video:description><![CDATA[After a long hiatus, the Subscribe blog is back on here on Channel 9! In this &amp;quot;reboot&amp;quot; episode, Dan (@DanRosanova) and Clemens (@ClemensV) talk about what&#39;s next in Subscribe and in Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5875/f416bb4b-2a35-4cd7-b0a7-24be1c585875/20150817Subscribe_mid.mp4</video:content_loc>
+        <video:duration>581</video:duration>
+        <video:publication_date>2015-08-17T18:13:23.4083731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Smart-Products-and-Microsoft-Services</loc>
+      <lastmod>2015-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f4f/db0351c7-fedf-47c3-9e8b-4604541e8f4f/smartproducts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Smart Products and Microsoft Services (Internet of Things)]]></video:title>
+        <video:description><![CDATA[&amp;quot;Smart Products and Microsoft Services&amp;quot; (you could also say &amp;quot;Internet of Things with Microsoft Datacenter Services&amp;quot;) is the topic of this very long, 110 minute presentation. But&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f4f/db0351c7-fedf-47c3-9e8b-4604541e8f4f/smartproducts_mid.mp4</video:content_loc>
+        <video:duration>6605</video:duration>
+        <video:publication_date>2014-04-11T17:43:34.3036732+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Part-8-The-Pi-Code-OBDII-to-AMQP-to-Cloud</loc>
+      <lastmod>2019-12-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fdf/69282f75-4232-49a1-b62b-dcde75765fdf/dtcep8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Part 8: The Pi Code. OBDII to AMQP to Cloud.]]></video:title>
+        <video:description><![CDATA[This is the last (numbered) episode in this series and I&#39;m showing you the code that runs on the Pi in my car as well as the server side code that pumps the data into storage. Mind that the code is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fdf/69282f75-4232-49a1-b62b-dcde75765fdf/dtcep8_mid.mp4</video:content_loc>
+        <video:duration>2023</video:duration>
+        <video:publication_date>2013-12-13T14:56:30.3930539+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-7-The-Pi-in-the-Car</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d83/40d12461-8181-4536-b101-49b1e5cb9d83/subscribeiot7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 7: The Pi in the Car]]></video:title>
+        <video:description><![CDATA[In this episode I&#39;ll show you the Raspberry Pi that lives in my car and some other nice things that a latest-model vehicle (from Audi in this case) can do with built-in online data services, such as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d83/40d12461-8181-4536-b101-49b1e5cb9d83/subscribeiot7_mid.mp4</video:content_loc>
+        <video:duration>831</video:duration>
+        <video:publication_date>2013-10-30T22:03:47.0262923+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-for-Windows-Server-11-Release</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7db2/4f9049e8-00cf-4500-ab6a-642d519c7db2/zivserver11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus for Windows Server 1.1 Release]]></video:title>
+        <video:description><![CDATA[Today we&#39;re releasing Service Bus for Windows Server 1.1. Ziv Rafalovich gave me (and you) a tour through one of the most exciting additions we for the server version, the new Windows Azure Pack&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7db2/4f9049e8-00cf-4500-ab6a-642d519c7db2/zivserver11_mid.mp4</video:content_loc>
+        <video:duration>1082</video:duration>
+        <video:publication_date>2013-10-18T15:35:28.8441709+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-6-Why-End-To-End-Security-Matters</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8cc8/d818ef22-aa45-443d-813c-74e8ab8b8cc8/iotep6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 6: Why End-To-End Security Matters]]></video:title>
+        <video:description><![CDATA[In this 6th episode of my Device to Cloud series, which is another whiteboard talk, I&#39;m talking about why application-level security matters in typical M2M scenarios where, for instance, sensors pick&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8cc8/d818ef22-aa45-443d-813c-74e8ab8b8cc8/iotep6_mid.mp4</video:content_loc>
+        <video:duration>1250</video:duration>
+        <video:publication_date>2013-10-02T06:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/SaaS-CloudOn-Premises-Integration-with-Richard-Seroter</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a13/7305120d-9f84-4c13-87f6-00583e632a13/rseroterintegration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SaaS Cloud/On-Premises Integration with Richard Seroter]]></video:title>
+        <video:description><![CDATA[Last week I had the chance to speak with Tier3 Product Manager, Microsoft MVP, InfoQ editor, Pluralsight trainer, and conference speaker Richard Seroter (@rseroter) on Lync. Richard is using Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a13/7305120d-9f84-4c13-87f6-00583e632a13/rseroterintegration_mid.mp4</video:content_loc>
+        <video:duration>1392</video:duration>
+        <video:publication_date>2013-10-01T11:40:43.9364731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-5-Tunnel-in-Tunnel-in-Tunnel-and-Other-Security-Witchcraft</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db7d/78d38899-422a-4e2d-9db9-a036effedb7d/subscribeiot5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 5: Tunnel in Tunnel in Tunnel and Other Security Witchcraft. ]]></video:title>
+        <video:description><![CDATA[Before attending two recent M2M conferences in D&#252;sseldorf and Berlin, I probably wouldn&#39;t have recorded this episode. But as I see it, there&#39;s quite a bit of fear-driven &amp;quot;black magic&amp;quot;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db7d/78d38899-422a-4e2d-9db9-a036effedb7d/subscribeiot5_mid.mp4</video:content_loc>
+        <video:duration>1769</video:duration>
+        <video:publication_date>2013-09-26T06:25:28.4218912+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-4-Intermediated-Service-Assisted-Connectivity</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6baa/1fc5861f-e347-450c-97b7-a95f16756baa/iotep4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 4: Intermediated, Service-Assisted Connectivity]]></video:title>
+        <video:description><![CDATA[In this 4th episode of my &amp;quot;device to cloud&amp;quot; series I&#39;m introducing the notion of intermediated service-assisted connectivity for devices, whereby the gateway I introduced in the previous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6baa/1fc5861f-e347-450c-97b7-a95f16756baa/iotep4_mid.mp4</video:content_loc>
+        <video:duration>1239</video:duration>
+        <video:publication_date>2013-09-14T16:00:07.3594002+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-3-Safer-Commands-via-a-Cloud-Gateway</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db4f/d90ca86d-06a0-4132-9dd4-a9c0a3fedb4f/iotepisode3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 3: Safer Commands via a Cloud Gateway]]></video:title>
+        <video:description><![CDATA[In this third episode of my cloud-to-device series, I&#39;m talking in some more detail about why it is a questionable and sometime outright dangerous strategy to let small devices actively listen on a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db4f/d90ca86d-06a0-4132-9dd4-a9c0a3fedb4f/iotepisode3_mid.mp4</video:content_loc>
+        <video:duration>1545</video:duration>
+        <video:publication_date>2013-09-03T04:57:24.0196685+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-2-Pattern-Overview-and-Commands-with-HTTP</loc>
+      <lastmod>2014-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/73a2/f9963b89-f4c7-4fb1-9285-00b3649f73a2/iotepisode2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 2: Pattern Overview and Commands with HTTP]]></video:title>
+        <video:description><![CDATA[In this second episode of the (open-ended) device-to-cloud series, I&#39;m talking about the four basic patterns of device information exchange and then start investigating the trickiest of these&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/73a2/f9963b89-f4c7-4fb1-9285-00b3649f73a2/iotepisode2_mid.mp4</video:content_loc>
+        <video:duration>1093</video:duration>
+        <video:publication_date>2013-08-28T17:12:43.0974266+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Device-to-Cloud-Hands-On-Part-1-Prototyping-Platforms</loc>
+      <lastmod>2015-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5154/a815a0aa-3762-4204-b36f-60a1c3af5154/iot1episode1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Device to Cloud, Hands-On. Part 1: Prototyping Platforms]]></video:title>
+        <video:description><![CDATA[Subscribe! is back after a long mid-year (summer-) break and with a new series. Starting with this episode, I&#39;m going to explore a range of embedded systems prototyping platforms and, ultimately, how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5154/a815a0aa-3762-4204-b36f-60a1c3af5154/iot1episode1_mid.mp4</video:content_loc>
+        <video:duration>986</video:duration>
+        <video:publication_date>2013-08-27T07:02:08.1321367+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Things-M2M-IoT-Zweckgebundene-Gerte-in-und-durch-die-Cloud-verbinden-Deutsch</loc>
+      <lastmod>2014-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7b6/2e740a87-b6f2-4ce2-830f-61b66924b7b6/subscribeiotdeutsch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Things, M2M, IoT - Zweckgebundene Ger&#228;te in und durch die Cloud verbinden [Deutsch]]]></video:title>
+        <video:description><![CDATA[&amp;quot;Internet of Things&amp;quot; ist dieser Tage eines der vieldiskutierten Schlagworte in der Softwareindustrie. Bei &amp;quot;IoT&amp;quot; oder auch Maschine-zu-Maschine Kommunikation (M2M) dreht es sich&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7b6/2e740a87-b6f2-4ce2-830f-61b66924b7b6/subscribeiotdeutsch_mid.mp4</video:content_loc>
+        <video:duration>3926</video:duration>
+        <video:publication_date>2013-06-12T06:06:57.2962265+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Things-M2M-IoT-Connecting-Special-Purpose-Devices-to-and-through-the-Cloud</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eea4/647153a3-296c-44b5-a9c0-b3528103eea4/subscribeiotintro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Things. M2M. IoT - Connecting Special Purpose Devices to and through the Cloud]]></video:title>
+        <video:description><![CDATA[&amp;quot;Internet of Things&amp;quot; is one of the hot catchphrases of the industry these days. It&#39;s about connecting special-purpose devices (laundry machines, dishwashers, toasters, locomotives, trucks,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eea4/647153a3-296c-44b5-a9c0-b3528103eea4/subscribeiotintro_mid.mp4</video:content_loc>
+        <video:duration>3165</video:duration>
+        <video:publication_date>2013-06-07T07:32:21.5285764+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Glenn-Block-Explains-SocketIO-Scale-Out-on-Service-Bus</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c69f/9522852e-a917-47e3-95fb-10198e1ac69f/subscribeglennsockio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Glenn Block Explains Socket.IO Scale-Out on Service Bus]]></video:title>
+        <video:description><![CDATA[Glenn Block and crew have been working on making Node.js&#39; real-time eventing Socket.io library scale across nodes (machines) with the help of Service Bus. Talking to and hearing Glenn talk is always&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c69f/9522852e-a917-47e3-95fb-10198e1ac69f/subscribeglennsockio_mid.mp4</video:content_loc>
+        <video:duration>2400</video:duration>
+        <video:publication_date>2013-06-05T19:01:19.5991708+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Vittorio-Bertocci-explains-Windows-Azure-Active-Directory</loc>
+      <lastmod>2021-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/16c1/d5a687bc-9f36-4df6-8c1f-c1e80ad516c1/subscribevibronet_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Vittorio Bertocci explains Windows Azure Active Directory]]></video:title>
+        <video:description><![CDATA[In this episode, our identity wizard Vittorio Bertocci (you can identify true wizards by the long hair, even though most other wizards carry that hair under the chin) explains Windows Azure Active&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/16c1/d5a687bc-9f36-4df6-8c1f-c1e80ad516c1/subscribevibronet_mid.mp4</video:content_loc>
+        <video:duration>1686</video:duration>
+        <video:publication_date>2013-06-03T15:39:59.0191620+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Announcing-the-General-Availability-of-AMQP-10-in-Windows-Azure-Service-Bus</loc>
+      <lastmod>2015-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2210/187b6578-69a6-4634-8bd1-ec0857662210/subscribeamqp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Announcing the General Availability of AMQP 1.0 in Windows Azure Service Bus! ]]></video:title>
+        <video:description><![CDATA[As just announced by Scott Guthrie, we&#39;re releasing the AMQP 1.0 support for Windows Azure Service Bus today, with commercial support and full SLA. That&#39;s more than reason enough for me to sit down&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2210/187b6578-69a6-4634-8bd1-ec0857662210/subscribeamqp_mid.mp4</video:content_loc>
+        <video:duration>1913</video:duration>
+        <video:publication_date>2013-05-23T15:59:41.4329587+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Whats-new-in-the-Service-Bus-NET-SDK-20</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b765/4f61ceed-757a-4853-9269-e08046fbb765/subscribesdk20_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s new in the Service Bus .NET SDK 2.0]]></video:title>
+        <video:description><![CDATA[If you&#39;ll want to spend some 15 minutes of your time with me,. here&#39;s the gist of the new features in the Windows Azure Service Bus .NET SDK &amp;quot;2.0&amp;quot; that we&#39;re releasing today. You can get the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b765/4f61ceed-757a-4853-9269-e08046fbb765/subscribesdk20_mid.mp4</video:content_loc>
+        <video:duration>968</video:duration>
+        <video:publication_date>2013-04-30T17:54:08.8425450+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Namespace-Management-and-Analytics</loc>
+      <lastmod>2013-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fdc4/ea22774f-ad7a-4052-92c6-d05638fcfdc4/subscriberajat_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Namespace Management and Analytics]]></video:title>
+        <video:description><![CDATA[In this episode Rajat and I discuss about Service Bus Resource Provider REST apis which provide users programmatic way of creating service bus namespaces and managing a bunch of service bus artifacts.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fdc4/ea22774f-ad7a-4052-92c6-d05638fcfdc4/subscriberajat_mid.mp4</video:content_loc>
+        <video:duration>1491</video:duration>
+        <video:publication_date>2013-04-19T10:32:10.5786046+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-10-For-Windows-Server</loc>
+      <lastmod>2016-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1445/eea056b1-ff43-4b0a-b0b1-52150e2e1445/subscribeserver1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus 1.0 - For Windows Server ]]></video:title>
+        <video:description><![CDATA[In this episode, Ziv and myself discuss and Ziv shows us how to install Service Bus 1.0 for Windows Server, which is free (well, technical part of your Windows Server license) and can be downloaded&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1445/eea056b1-ff43-4b0a-b0b1-52150e2e1445/subscribeserver1_mid.mp4</video:content_loc>
+        <video:duration>1844</video:duration>
+        <video:publication_date>2013-04-17T14:59:07.2129870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/The-Service-Bus-Security-Model</loc>
+      <lastmod>2016-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1870/87d600fc-a494-40b1-bba7-f0aaf64b1870/subscribesantoshsec_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Service Bus Security Model]]></video:title>
+        <video:description><![CDATA[In this episode I&#39;m joined by our Service Bus Security and Relay PM Santosh Chandwani. We discuss the Service Bus security model including the security boundaries we have in the system and how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1870/87d600fc-a494-40b1-bba7-f0aaf64b1870/subscribesantoshsec_mid.mp4</video:content_loc>
+        <video:duration>2783</video:duration>
+        <video:publication_date>2013-04-12T17:51:45.2360783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Messaging-High-Availability-Options</loc>
+      <lastmod>2017-11-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e56/27155bbf-a07d-40a6-9d3c-b53624a20e56/subscriberuppha_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Messaging High Availability Options]]></video:title>
+        <video:description><![CDATA[In this episode, Ruppert Koch and I discuss high availability options along the lines of a few samples Ruppert has written for the MSDN Code Gallery: Geo-replication with Service Bus Brokered Messages&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e56/27155bbf-a07d-40a6-9d3c-b53624a20e56/subscriberuppha_mid.mp4</video:content_loc>
+        <video:duration>1286</video:duration>
+        <video:publication_date>2013-04-10T18:52:25.6564825+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/do-you-want-security-with-that</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b82/f1d06a15-d9a9-45cd-be8f-50c8726f3b82/subscribelookslikers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&quot;It looks like you&#39;re writing a service!&quot; - &quot;Do you want security with that?&quot; ]]></video:title>
+        <video:description><![CDATA[As he&#39;ll tell you in this interview, Barry Dorrans (aka @blowdart) had a bit of an epiphany preparing for this recording in that his job is somewhat like that of infamous &amp;quot;Clippy&amp;quot;. Whenever&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b82/f1d06a15-d9a9-45cd-be8f-50c8726f3b82/subscribelookslikers_mid.mp4</video:content_loc>
+        <video:duration>2200</video:duration>
+        <video:publication_date>2013-04-03T05:30:12.3267880+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Arbeiten-bei-Microsoft-In-Redmond-Warum-eigentlich-nicht</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5de4/a14d05b0-ad1e-4a55-8004-38bf8f855de4/workinginredmond_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Arbeiten bei Microsoft? In Redmond? Warum eigentlich nicht!? :)]]></video:title>
+        <video:description><![CDATA[[As an exception, this Subscribe! episode is all in German. For those of you who don&#39;t understand German - this is about working in Redmond, and Ruppert and I are specifically addressing the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5de4/a14d05b0-ad1e-4a55-8004-38bf8f855de4/workinginredmond_mid.mp4</video:content_loc>
+        <video:duration>1398</video:duration>
+        <video:publication_date>2013-03-29T11:21:51.2963992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Running-Supporting-and-Troubleshooting-the-Service-Bus-Cloud-Service</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f1b/91d76da6-4b5d-4358-98f2-9dec563c9f1b/subscribemohamed_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Running, Supporting, and Troubleshooting the Service Bus Cloud Service]]></video:title>
+        <video:description><![CDATA[One of the most fabulous aspects of running your apps on top of Platform-as-a-Service components is that someone else is running and watching these components for you. That doesn&#39;t let you off the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f1b/91d76da6-4b5d-4358-98f2-9dec563c9f1b/subscribemohamed_mid.mp4</video:content_loc>
+        <video:duration>2365</video:duration>
+        <video:publication_date>2013-03-27T12:09:42.4588044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Windows-Azure-Mobile-Services-for-Organizations-and-the-Enterprise</loc>
+      <lastmod>2015-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2251/64e4a313-3530-4ae2-a26f-891260322251/subscribejosh_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Mobile Services - for Organizations and the Enterprise]]></video:title>
+        <video:description><![CDATA[Last week in Redmond I had a chat with coworker Josh Twist from our joint Azure Mobile team (owning Service Bus and Mobile Services) about the relevance of Mobile Services for organizations and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2251/64e4a313-3530-4ae2-a26f-891260322251/subscribejosh_mid.mp4</video:content_loc>
+        <video:duration>1534</video:duration>
+        <video:publication_date>2013-03-25T13:53:37.1504190+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Wheres-the-ESB</loc>
+      <lastmod>2018-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8115/a4d3879d-1a50-49f4-a287-5c30f9128115/whereistheesb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Where&#39;s the ESB?]]></video:title>
+        <video:description><![CDATA[This talk, which I recorded this week here at Microsoft campus in Redmond, is a slightly shortened version of a talk I did a few weeks ago at a conference, and which is a follow up to a blog post I&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8115/a4d3879d-1a50-49f4-a287-5c30f9128115/whereistheesb_mid.mp4</video:content_loc>
+        <video:duration>2931</video:duration>
+        <video:publication_date>2013-03-16T22:52:25.1244313+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Messaging-Deep-Dive</loc>
+      <lastmod>2018-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d23e/2cdb1157-7d23-46c6-a6e3-368e4f58d23e/messagingdeepdive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Messaging Deep-Dive]]></video:title>
+        <video:description><![CDATA[This is a looooooong (112 minutes, feature film length, bring popcorn) comprehensive feature and pattern overview talk specifically about the Windows Azure Service Bus and Service Bus for Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ad6f/e3ae1262-6d4e-4c8e-a6c6-37cf3a4ead6f/messagingdeepdivefa_mid.mp4</video:content_loc>
+        <video:duration>6745</video:duration>
+        <video:publication_date>2013-02-24T10:48:02.7383365+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/DataContract-Coupling-in-Messaging</loc>
+      <lastmod>2018-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4544/4148c670-ca9f-4cf0-a505-e987e80a4544/subscribecoupling_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data/Contract Coupling in Messaging]]></video:title>
+        <video:description><![CDATA[This whiteboard talk was largely inspired by a series of Twitter conversations around whether and when it&#39;s a good idea to share types (i.e. .NET classes compiled into assemblies) as a way to express&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4544/4148c670-ca9f-4cf0-a505-e987e80a4544/subscribecoupling_mid.mp4</video:content_loc>
+        <video:duration>2776</video:duration>
+        <video:publication_date>2013-02-08T16:10:39.5517015+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Test-How-Cesar-makes-sure-I-get-to-sleep-when-Im-on-call-for-servicing</loc>
+      <lastmod>2013-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/24a8/d58ced61-e1e9-4d3f-b565-24b974c024a8/subscribecesar_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Test! How Cesar makes sure I get to sleep when I&#39;m on call for servicing.]]></video:title>
+        <video:description><![CDATA[I&#39;m not sure it&#39;s wise to spill the beans, but Cesar and his team are Service Bus&#39; best-kept secret. Until today, that is. Like most teams at Microsoft we have a dedicated test organization. Very&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/24a8/d58ced61-e1e9-4d3f-b565-24b974c024a8/subscribecesar_mid.mp4</video:content_loc>
+        <video:duration>1148</video:duration>
+        <video:publication_date>2013-01-31T18:55:56.4583777+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Notification-Hubs-Tags-and-Template-Concepts-Whiteboard</loc>
+      <lastmod>2016-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/933c/28e9d134-aaf9-4462-99e7-016fc62c933c/subscribetagstemplates_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Notification Hubs - Tags and Template Concepts (Whiteboard)]]></video:title>
+        <video:description><![CDATA[In today&#39;s episode I&#39;m explaining two key Notification Hub concepts on the whiteboard: Tag-based unicast and groupcast notifications Templates I&#39;m mostly covering the Windows 8 aspects like Tiles as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/933c/28e9d134-aaf9-4462-99e7-016fc62c933c/subscribetagstemplates_mid.mp4</video:content_loc>
+        <video:duration>2342</video:duration>
+        <video:publication_date>2013-01-28T21:57:18.9304288+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Talking-about-Developers-on-the-Service-Bus-Team-with-MK</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c60b/f857e8bd-7af4-417d-8dfd-8118fc85c60b/subscribemk_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Talking about Developers on the Service Bus Team with &quot;MK&quot;]]></video:title>
+        <video:description><![CDATA[Last week, while in Redmond, I spoke with Muralidhar Krishnaprasad (short: MK) who manages our development team. We talked about the things we ship, the cadence at which we ship, and about team&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c60b/f857e8bd-7af4-417d-8dfd-8118fc85c60b/subscribemk_mid.mp4</video:content_loc>
+        <video:duration>861</video:duration>
+        <video:publication_date>2013-01-25T18:09:22.5143864+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Notification-Hubs-Code-Walkthrough-iOS-Edition</loc>
+      <lastmod>2016-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77cc/cae058ab-452c-4f78-959c-5c2e96ea77cc/notificationhubsios_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Notification Hubs - Code Walkthrough - iOS Edition]]></video:title>
+        <video:description><![CDATA[[This is the iOS version of the previously posted Walkthrough. If you&#39;ve already watched the Windows 8 Edition, skip to 10 minutes 25 seconds where the actual code walkthrough starts] In this clip&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77cc/cae058ab-452c-4f78-959c-5c2e96ea77cc/notificationhubsios_mid.mp4</video:content_loc>
+        <video:duration>2551</video:duration>
+        <video:publication_date>2013-01-24T20:41:56.8275433+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Notification-Hubs-Code-Walkthrough-Windows-8-Edition</loc>
+      <lastmod>2016-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d298/65023c64-dcd6-4692-9856-38db46dad298/notificationhubswin8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Notification Hubs - Code Walkthrough - Windows 8 Edition]]></video:title>
+        <video:description><![CDATA[In this clip I&#39;ll walk you through the basic principles of the brand-new Windows Azure Service Bus Notification Hubs in a somewhat more formal and serious fashion than in my chat with Elio. Recapping&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d298/65023c64-dcd6-4692-9856-38db46dad298/notificationhubswin8_mid.mp4</video:content_loc>
+        <video:duration>1857</video:duration>
+        <video:publication_date>2013-01-22T21:17:26.1879964+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Service-Bus-Notification-Hubs-with-ElioDamaggio</loc>
+      <lastmod>2016-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4fb/2a743d3c-626a-4e0a-84ba-35676a68d4fb/notificationhubselio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Bus Notification Hubs with @ElioDamaggio]]></video:title>
+        <video:description><![CDATA[At the Build 2011 conference I teased a prototype at the very end of my talk. That prototype was called Iguazu and was an attempt at creating a push notification abstraction for Windows, Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4fb/2a743d3c-626a-4e0a-84ba-35676a68d4fb/notificationhubselio_mid.mp4</video:content_loc>
+        <video:duration>1937</video:duration>
+        <video:publication_date>2013-01-22T21:17:15.2100890+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/SignalR-10-RC2-with-Damian-Edwards</loc>
+      <lastmod>2013-02-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c402/bb7e7c5b-1434-4879-9f45-98da8029c402/subscribedamian_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SignalR 1.0 RC2 with Damian Edwards]]></video:title>
+        <video:description><![CDATA[I sat down with Damian Edwards yesterday to talk about SignalR 1.0 RC2 and he also shows off his pretty sweet Windows 8 quad monitor setup with a 27&amp;quot; 20-point multi-touch panel in the middle. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c402/bb7e7c5b-1434-4879-9f45-98da8029c402/subscribedamian_mid.mp4</video:content_loc>
+        <video:duration>463</video:duration>
+        <video:publication_date>2013-01-17T19:20:41.8366901+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/How-Halo-4-is-using-Windows-Azure-Service-Bus</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f309/fa25a07f-dea0-4296-975a-e3ad8adff309/subscribehalo42_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How Halo 4 is using Windows Azure Service Bus]]></video:title>
+        <video:description><![CDATA[On the way driving from my hotel to work this morning, I swung by 343 Industries&#39; super-secret hidden space command facility to meet Angus, Caitie, and Hoop from Section 3, the team that creates the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f309/fa25a07f-dea0-4296-975a-e3ad8adff309/subscribehalo42_mid.mp4</video:content_loc>
+        <video:duration>1519</video:duration>
+        <video:publication_date>2013-01-17T19:20:13.7957017+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Agile-Waterfalls-Backlogs-Cutlines-Shiproom-Talking-with-AbhishekRLal-about-how-we-build-Service-Bus</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d17/25ea14ea-9ca0-4f3c-ae73-f049130c9d17/subscribeabhishekrlal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Agile Waterfalls, Backlogs, Cutlines, Shiproom. Talking with @AbhishekRLal about how we build&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Yesterday I sat down with my teammate Abhishek and talked about how we build Service Bus - not how we code it, but how we run the process inside the team and how we get from features sitting on the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d17/25ea14ea-9ca0-4f3c-ae73-f049130c9d17/subscribeabhishekrlal_mid.mp4</video:content_loc>
+        <video:duration>1359</video:duration>
+        <video:publication_date>2013-01-10T22:37:49.7512531+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Negotiate-Promise-Do-Transactions</loc>
+      <lastmod>2013-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be23/87e6e07c-5d9e-4537-9596-b13e35d4be23/subscribetx_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Negotiate, Promise, Do. Transactions. ]]></video:title>
+        <video:description><![CDATA[Over the holidays, the topic of transactions flared up on Twitter amongst a number of distributed systems .NET luminaries and it turned out that there isn&#39;t always clear agreement even about the basic&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be23/87e6e07c-5d9e-4537-9596-b13e35d4be23/subscribetx_mid.mp4</video:content_loc>
+        <video:duration>1244</video:duration>
+        <video:publication_date>2013-01-09T23:41:25.7274161+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Getting-Started-with-Service-Bus-Final-Part-6-Relay</loc>
+      <lastmod>2017-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30b7/7e8a1b9c-8374-4506-b40a-000598d130b7/gettingstartedrelay_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Service Bus. (Final) Part 6: Relay]]></video:title>
+        <video:description><![CDATA[This is the final part of the six-part series &amp;quot;Getting Started with Service Bus&amp;quot; and this time I&#39;m covering how to build a Service Bus Relay-relayed NAT and Firewall traversing service for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30b7/7e8a1b9c-8374-4506-b40a-000598d130b7/gettingstartedrelay_mid.mp4</video:content_loc>
+        <video:duration>1372</video:duration>
+        <video:publication_date>2012-12-17T22:28:59.0572154+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Getting-Started-with-Service-Bus-Part-5-Topics</loc>
+      <lastmod>2018-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92cc/2557a874-e3d7-4c1c-a82f-e96a8cf392cc/gettingstartedtopics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Service Bus. Part 5: Topics]]></video:title>
+        <video:description><![CDATA[This penultimate episode of the &amp;quot;Getting Started with Service Bus&amp;quot; series introduces how to create Topics and Subscriptions, and how to use them, in the simplest way, with the Service Bus&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92cc/2557a874-e3d7-4c1c-a82f-e96a8cf392cc/gettingstartedtopics_mid.mp4</video:content_loc>
+        <video:duration>937</video:duration>
+        <video:publication_date>2012-12-14T20:30:43.4267983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Getting-Started-with-Service-Bus-Part-4-Queues</loc>
+      <lastmod>2017-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/04f9/b64392cc-5c93-4a40-8220-053c52b304f9/gettingstartedqueues_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Service Bus. Part 4: Queues]]></video:title>
+        <video:description><![CDATA[This is the 4th episode in the &amp;quot;Getting Started with Service Bus&amp;quot; series and today I&#39;m discussing the first steps with Queues, some of the key functionality, and how to send to and receive&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b08e/23a4876e-fa51-435e-9650-dc0d6069b08e/gettingstartedqueues2.mp4</video:content_loc>
+        <video:duration>1725</video:duration>
+        <video:publication_date>2012-12-14T20:30:09.4285431+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Identity-and-Access-Control</loc>
+      <lastmod>2018-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c43b/4342e22f-d6fd-4129-ab54-fddd3e98c43b/subscribeidentity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identity and Access Control ]]></video:title>
+        <video:description><![CDATA[Today I woke up thinking that talking about Identity and Access Control and how your strategy around that affects you (web-) app&#39;s architecture without going too deeply into the security lingo that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c43b/4342e22f-d6fd-4129-ab54-fddd3e98c43b/subscribeidentity_mid.mp4</video:content_loc>
+        <video:duration>2351</video:duration>
+        <video:publication_date>2012-12-10T23:46:12.0730772+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Getting-Started-with-Service-Bus-Part-3-Service-Bus-Explorer</loc>
+      <lastmod>2020-11-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9820/43763553-5078-4817-98f7-30e0e6889820/subscribegettingstartedsbexplorer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Service Bus. Part 3: Service Bus Explorer]]></video:title>
+        <video:description><![CDATA[In this 3rd episode of the &amp;quot;Getting Started with Service Bus&amp;quot; series, and for a while the last one that doesn&#39;t focus on the developer API, I&#39;m looking at Paolo Salvatori&#39;s Service Bus&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9820/43763553-5078-4817-98f7-30e0e6889820/subscribegettingstartedsbexplorer_mid.mp4</video:content_loc>
+        <video:duration>728</video:duration>
+        <video:publication_date>2012-12-07T19:28:17.0232482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Push-vs-Pull</loc>
+      <lastmod>2017-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/edd2/e8e9e84d-ceee-4729-9e0c-33a6fdd8edd2/subscribepullvspush_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Push vs. Pull]]></video:title>
+        <video:description><![CDATA[Today I&#39;m sharing an ad-hoc, single-take whiteboard discussion on &amp;quot;push&amp;quot; and &amp;quot;pull&amp;quot; communication patterns. There&#39;s a lot of talk in the industry on push (see push notifications)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edd2/e8e9e84d-ceee-4729-9e0c-33a6fdd8edd2/subscribepullvspush_mid.mp4</video:content_loc>
+        <video:duration>1602</video:duration>
+        <video:publication_date>2012-12-06T21:14:52.6863467+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Getting-Started-with-Service-Bus-Part-2-NET-SDK-and-Visual-Studio</loc>
+      <lastmod>2018-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7d3/4a01b0b9-0e72-446b-8eab-1cbe942ac7d3/subscribesbgettingstartedpart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Service Bus. Part 2: .NET SDK and Visual Studio]]></video:title>
+        <video:description><![CDATA[In this second part of the &amp;quot;Getting Started with Service Bus&amp;quot; series, I explain how to get at the SDK, give a brief tour of the Visual Studio tooling installed by the SDK, tell you how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7d3/4a01b0b9-0e72-446b-8eab-1cbe942ac7d3/subscribesbgettingstartedpart2_mid.mp4</video:content_loc>
+        <video:duration>1194</video:duration>
+        <video:publication_date>2012-12-05T12:32:17.5205218+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Getting-Started-with-Service-Bus-Part-1-The-Portal</loc>
+      <lastmod>2018-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6f6/400b7766-2ff8-4bcc-bfe1-9371f1a9d6f6/GettingStartedWithSBPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Service Bus. Part 1: The Portal]]></video:title>
+        <video:description><![CDATA[With this post (entry? segment?) I&#39;m going to start a series of screen casts for folks who are new to Service Bus or haven&#39;t yet had the time to use any or some of it features. In this first post I&#39;ll&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6f6/400b7766-2ff8-4bcc-bfe1-9371f1a9d6f6/GettingStartedWithSBPart1_mid.mp4</video:content_loc>
+        <video:duration>1280</video:duration>
+        <video:publication_date>2012-12-04T18:16:13.0677187+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Environments-and-Scale-Units</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83b6/38365936-418e-469f-a27a-1ac2ea7e83b6/SubscribeEnvSUs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Environments and Scale Units]]></video:title>
+        <video:description><![CDATA[In this video I&#39;m spilling the beans on some of the internal structures we set up for Service Bus for you to consider and potentially adapt as your building out your own global services on Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83b6/38365936-418e-469f-a27a-1ac2ea7e83b6/SubscribeEnvSUs_mid.mp4</video:content_loc>
+        <video:duration>2612</video:duration>
+        <video:publication_date>2012-11-30T22:36:40.8567230+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Subscribe/Hello-World</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de67/d7383763-6058-40bc-a14d-69529b3cde67/SubscribeIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hello World]]></video:title>
+        <video:description><![CDATA[Welcome to my new video blog here on Channel 9!  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de67/d7383763-6058-40bc-a14d-69529b3cde67/SubscribeIntro_mid.mp4</video:content_loc>
+        <video:duration>552</video:duration>
+        <video:publication_date>2012-11-30T16:40:12.3434653+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

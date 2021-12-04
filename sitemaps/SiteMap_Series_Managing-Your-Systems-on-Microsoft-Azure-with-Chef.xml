@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod4</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e3a/371a69cb-be46-4990-ad2d-ca5422910e3a/MVAMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Managing Azure Infrastructure with Chef ]]></video:title>
+        <video:description><![CDATA[Microsoft and Chef have worked together to integrate the Chef Agent on Azure Virtual Machines (VMs). Learn the tools used to automate the creation of Azure Virtual Machines, plus how to leverage the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e3a/371a69cb-be46-4990-ad2d-ca5422910e3a/MVAMod4_mid.mp4</video:content_loc>
+        <video:duration>1796</video:duration>
+        <video:publication_date>2015-02-28T01:35:52.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod3</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0450/70b55945-1916-43c2-9561-cc5ad2910450/MVAMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Building Policies with Chef ]]></video:title>
+        <video:description><![CDATA[Go a step further, and build policies to enforce a defined configuration. Get a detailed look at the concepts of recipes and cookbooks, learn to separate the data from the policies, and create and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0450/70b55945-1916-43c2-9561-cc5ad2910450/MVAMod3_mid.mp4</video:content_loc>
+        <video:duration>1892</video:duration>
+        <video:publication_date>2015-02-28T01:34:17.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod2</loc>
+      <lastmod>2017-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0716/a5a92557-4d43-4b3a-bae2-1b74d7fa0716/MVAMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Using Chef ]]></video:title>
+        <video:description><![CDATA[Find out what you need to start using Chef, including required resources and software. Learn how to create files and apply configurations to a system, including Windows and Linux technologies and the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0716/a5a92557-4d43-4b3a-bae2-1b74d7fa0716/MVAMod2_mid.mp4</video:content_loc>
+        <video:duration>2577</video:duration>
+        <video:publication_date>2015-02-28T01:33:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod1</loc>
+      <lastmod>2016-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/fa52b749-b4ce-4faa-aca2-4f3e8a0bfa30.png</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Overview of Chef]]></video:title>
+        <video:description><![CDATA[Explore the benefits of automation and why it becomes a necessity in the new IT world. Learn what infrastructure as code is, and look at the architecture of the Chef platform and the vocabulary used&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da8b/2c6ba007-5217-49d0-beab-810462fada8b/MVAMod1_mid.mp4</video:content_loc>
+        <video:duration>3418</video:duration>
+        <video:publication_date>2015-02-28T01:32:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Getting-Started-with-Chef</loc>
+      <lastmod>2017-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af73/57073511-3f0d-44b1-bdcb-3d8f5187af73/MVAGetStartedChef_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Chef]]></video:title>
+        <video:description><![CDATA[Meet your hosts! Steven Murawski from Chef and Damien Caro from Microsoft are IT Professionals who are passionate about scripting and cloud technologies.This video is part of the Microsoft Virtual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af73/57073511-3f0d-44b1-bdcb-3d8f5187af73/MVAGetStartedChef_mid.mp4</video:content_loc>
+        <video:duration>424</video:duration>
+        <video:publication_date>2015-02-28T01:31:45.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

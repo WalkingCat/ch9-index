@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Power-BI</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Power-BI/Power-BI-de-extremo-a-extremo</loc>
+      <lastmod>2017-06-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d1c/716e9502-29ea-47cd-baff-c090cbef5d1c/PowerBideExtremoaExtremo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Power BI de extremo a extremo]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se realiza un ejemplo de extremo a extremo utilizando Power BI para realizar una conexi&#243;n a un sitio web y analizar la informaci&#243;n mediante las herramientas disponibles ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d1c/716e9502-29ea-47cd-baff-c090cbef5d1c/PowerBideExtremoaExtremo_mid.mp4</video:content_loc>
+        <video:duration>892</video:duration>
+        <video:publication_date>2016-11-01T21:04:34.3152796+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Power-BI/Introduccin-a-Power-BI</loc>
+      <lastmod>2018-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/52c2/605ace81-4ae0-4edb-b2f7-fc2c8a3652c2/IntroduccionaPowerBi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Introducci&#243;n a Power BI]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan los principales conceptos de Power BI incluyendo el servicio de Power BI y la herramienta Power BI Desktop ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/52c2/605ace81-4ae0-4edb-b2f7-fc2c8a3652c2/IntroduccionaPowerBi_mid.mp4</video:content_loc>
+        <video:duration>1486</video:duration>
+        <video:publication_date>2016-11-01T21:04:28.3588949+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Power-BI/Evolucin-de-los-Power</loc>
+      <lastmod>2018-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c0e9/17c6a728-e0cb-4afe-b667-37aeb340c0e9/EvolucionDelosPower_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Evoluci&#243;n de los Power]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se visualiza la evoluci&#243;n de los Power en la tecnolog&#237;a Microsoft a lo largo del tiempo. En el m&#243;dulo se presentan las herramientas Power Pivot, Power View, Power Query y Power Map. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c0e9/17c6a728-e0cb-4afe-b667-37aeb340c0e9/EvolucionDelosPower_mid.mp4</video:content_loc>
+        <video:duration>1462</video:duration>
+        <video:publication_date>2016-11-01T21:04:21.4282651+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Power-BI/Anlisis-de-Informacin</loc>
+      <lastmod>2018-03-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d2a4/ca548604-ffc8-4338-a224-2acdf4d8d2a4/analisisDeInformacion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - An&#225;lisis de Informaci&#243;n]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan los escenarios de an&#225;lisis de informaci&#243;n y su relaci&#243;n con la Inteligencia de Negocios. Adicionalmente se comparan los escenarios de Inteligencia de Negocios tradicional&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d2a4/ca548604-ffc8-4338-a224-2acdf4d8d2a4/analisisDeInformacion_mid.mp4</video:content_loc>
+        <video:duration>842</video:duration>
+        <video:publication_date>2016-11-01T21:04:14.7163105+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-a-Universal-App-in-VB</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-a-Universal-App-in-VB/UWP-getting-started-with-win2d</loc>
+      <lastmod>2018-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d276/76709f9a-08f5-4c5f-8d83-fe5ac92cd276/GettingStartedWin2d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP - getting started with win2d]]></video:title>
+        <video:description><![CDATA[Fast accelerated graphics! with an clean easy API! That&#39;s the promise of Microsoft&#39;s Win2d library. In this video I walk through, from scratch, how to create a simple animated graphics application for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d276/76709f9a-08f5-4c5f-8d83-fe5ac92cd276/GettingStartedWin2d_mid.mp4</video:content_loc>
+        <video:duration>1109</video:duration>
+        <video:publication_date>2015-06-17T16:30:48.5363043+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-a-Universal-App-in-VB/UWP-port-from-phone81-to-phone81--Win10</loc>
+      <lastmod>2015-10-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e97f/51f29295-bd18-46da-a7e2-b4636b78e97f/PortWP81toWin10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP - port from phone8.1 to phone8.1 + Win10]]></video:title>
+        <video:description><![CDATA[This live video shows me porting a phone8.1 app to phone8.1 &amp;#43; Win10. It showcases Shared Projects (and how to set them up), adaptive UI, adaptive Code, debugging techniques to reduce application&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e97f/51f29295-bd18-46da-a7e2-b4636b78e97f/PortWP81toWin10_mid.mp4</video:content_loc>
+        <video:duration>3861</video:duration>
+        <video:publication_date>2015-06-13T08:24:20.1728023+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-a-Universal-App-in-VB/UWP-port-from-81-universal-app-to-Win10</loc>
+      <lastmod>2017-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b678/d374d111-cc6a-4138-8269-806fa8aab678/port81to10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP - port from 8.1 universal app to Win10]]></video:title>
+        <video:description><![CDATA[This live video shows me porting an 8.1 universal app to Win10. For more details, please read the accompanying blog:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b678/d374d111-cc6a-4138-8269-806fa8aab678/port81to10_mid.mp4</video:content_loc>
+        <video:duration>2224</video:duration>
+        <video:publication_date>2015-06-09T19:38:58.6431786+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

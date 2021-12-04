@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tomconte</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tomconte/Dployer-Tomcat-dans-Windows-Azure</loc>
+      <lastmod>2010-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/845e/149cd857-cdd9-4b72-8eb8-9dfa00a5845e/DeployerTomcatDansWindowsAzure_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[D&#233;ployer une application Java sous Tomcat dans Windows Azure]]></video:title>
+        <video:description><![CDATA[Dans ce Webcast je vais vous montrer rapidement comment pr&#233;parer et d&#233;ployer un serveur d&#39;application Tomcat dans Windows Azure, tout d&#39;abord dans l&#39;environnement de simulation local afin de pouvoir&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/845e/149cd857-cdd9-4b72-8eb8-9dfa00a5845e/DeployerTomcatDansWindowsAzure_ch9.mp4</video:content_loc>
+        <video:duration>515</video:duration>
+        <video:publication_date>2010-09-23T10:15:42.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tomconte/ArchiTech--13-septembre-2010-audio-et-vido</loc>
+      <lastmod>2010-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/c575/1d9c67aa-5606-4218-9600-9df9009ec575/architech20100913_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ArchiTech  13 septembre 2010 (audio et vid&#233;o)]]></video:title>
+        <video:description><![CDATA[
+Cet &#233;pisode est le premier de la nouvelle version d’ArchiTech, en compagnie de mon coll&#232;gue Thomas Cont&#233; et en vid&#233;o &#233;galement. 
+Ressources: 
+
+White Paper: http://bit.ly/AzureTimeSheets
+Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/c575/1d9c67aa-5606-4218-9600-9df9009ec575/architech20100913_ch9.mp4</video:content_loc>
+        <video:duration>1662</video:duration>
+        <video:publication_date>2010-09-22T10:15:07.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tomconte/Installer-le-plug-in-WordPress-pour-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/2/9/3/5/5/WindowsAzurePluginWordpress_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Installer le plug-in WordPress pour Windows Azure]]></video:title>
+        <video:description><![CDATA[Je montre dans ce webcast comment installer le plug-in WordPress pour Windows Azure, qui va vous permettre d&#39;ins&#233;rer facilement dans vos billets des images stock&#233;es dans Windows Azure.
+
+Le plug-in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/2/9/3/5/5/WindowsAzurePluginWordpress_ch9.mp4</video:content_loc>
+        <video:duration>468</video:duration>
+        <video:publication_date>2010-06-05T15:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

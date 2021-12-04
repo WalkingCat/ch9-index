@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/Metro-Style-Design</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e8e/60b70dc9-e39f-42b3-994a-cfdfb2318e8e/win8campsession2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Metro Style Design]]></video:title>
+        <video:description><![CDATA[Windows 8 bouwt voort op de principes van Metro design style. Door het gebruik van onder andere layout, typografie en animatie zijn Metro style apps een vernieuwende aanpak van user experience. Deze&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a49/4137f758-475c-4d2c-b4d9-27b1e93d5a49/win8campsession2_mid.mp4</video:content_loc>
+        <video:duration>3971</video:duration>
+        <video:publication_date>2012-04-25T20:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/Designing-Metro-Style-Apps-that-are-Touch-optimized</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0a7c/b49564eb-685f-49d2-8f80-d4f8a7f50a7c/win8campsession6_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Metro Style Apps that are Touch optimized]]></video:title>
+        <video:description><![CDATA[Windows 8 is primair gemaakt voor touch. Maar touch is niet zo maar een vervanging van de muis. Deze sessie laat zien wat er bij komt kijken om een app te maken met touch. Maar ook hoe ervoor gezorgd&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f4b1/9f910b90-3d3c-438a-ace7-80dd0706f4b1/win8campsession6_mid.mp4</video:content_loc>
+        <video:duration>4225</video:duration>
+        <video:publication_date>2012-04-25T20:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/using-Contracts</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1592/20f71ecd-edf6-487e-a353-693a03971592/win8campsession5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[using Contracts]]></video:title>
+        <video:description><![CDATA[Door het gebruik van contracten kan een Metro style app integreren met het besturingssysteem en andere Metro style apps. Zo kan een gebruiker bijvoorbeeld informatie uit de ene app delen via een&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd3b/5474e05d-b19a-4e0c-b424-e0cd68afdd3b/win8campsession5_mid.mp4</video:content_loc>
+        <video:duration>3893</video:duration>
+        <video:publication_date>2012-04-25T20:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/Tiles-en-Notifications</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cecb/3ed08347-6034-455b-8bf5-041d5bc6cecb/win8campsession4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tiles en Notifications]]></video:title>
+        <video:description><![CDATA[Gebruikers worden als het ware naar een app toegetrokken door het gebruik van actieve tiles op het start scherm. Notificaties die door de Windows Push Notification Service verstuurd kunnen worden,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e527/71899726-582c-48e6-8d73-dd27de2de527/win8campsession4_mid.mp4</video:content_loc>
+        <video:duration>3356</video:duration>
+        <video:publication_date>2012-04-25T20:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/How-to-Build-a-Metro-Style-App</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f18e/274d1d6f-7926-433f-9ee5-746447c4f18e/win8campsession3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Build a Metro Style App]]></video:title>
+        <video:description><![CDATA[Deze sessie laat zien hoe met XAML, C# en WinRT een Metro style applicatie voor Windows 8 gebouwd kan worden. Er wordt getoond wat de veranderingen en toevoegingen zijn in Windows 8. Denk hierbij aan&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d902/e587a2bb-545c-499b-be66-ec556a77d902/win8campsession3_mid.mp4</video:content_loc>
+        <video:duration>3964</video:duration>
+        <video:publication_date>2012-04-25T11:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/How-to-translate-a-website-to-a-Metro-Style-App</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6822/a2fbbf0d-f827-40d7-8ec4-d2ad03016822/win8campsession7_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to translate a website to a Metro Style App]]></video:title>
+        <video:description><![CDATA[Een logische stap is om van een website een app te maken. Deze sessie laat zien hoe op basis van de principes van Metro style design een app ontworpen kan worden. Er wordt een fictief voorbeeld&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a87/6e8744cc-fea4-4a08-bddc-ed0b47ee6a87/win8campsession7_mid.mp4</video:content_loc>
+        <video:duration>2432</video:duration>
+        <video:publication_date>2012-04-23T20:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/The-Netherlands-Windows-8-Dev-Camp/Platform-for-Metro-Style-Apps</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/268b/10cacebe-c4e3-472d-92b8-403d8d8c268b/win8campsession1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Platform for Metro Style Apps]]></video:title>
+        <video:description><![CDATA[Windows 8 is een total nieuwe Windows. In deze sessie wordt een overzicht gegeven van Windows 8 en hoe het nieuwe platform het mogelijk maakt om Metro style applicaties te maken. Er wordt een inzicht&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e39d/0cf6cc2b-1ab7-427f-bdb1-9987fb32e39d/win8campsession1_mid.mp4</video:content_loc>
+        <video:duration>3775</video:duration>
+        <video:publication_date>2012-04-23T20:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

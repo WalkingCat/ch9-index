@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DX-Sweden/DevOps-Hackathon</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DX-Sweden/DevOps-Hackathon/DevOps-Hackathon</loc>
+      <lastmod>2016-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b618/f965f0c6-94d2-407c-afb8-cd1dfaaab618/DevOpsHackathon_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Hackathon]]></video:title>
+        <video:description><![CDATA[Video from our DevOps hackathon day in Stockholm, Sweden May 2016Contains intro to DevOps practices (CI, CD, RM, IaC and etc.) and demos based on VSTS, VS, Azure and etc. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b618/f965f0c6-94d2-407c-afb8-cd1dfaaab618/DevOpsHackathon_mid.mp4</video:content_loc>
+        <video:duration>7239</video:duration>
+        <video:publication_date>2016-06-02T18:33:56.8911358+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

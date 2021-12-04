@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies/Costa-Farms</loc>
+      <lastmod>2018-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c868/2fbfea12-a859-4cad-9278-e2c5229dc868/CostaFarms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Costa Farms]]></video:title>
+        <video:description><![CDATA[The Azure loT system helps Costa Farms increase revenue and profitability in using modern technology in agriculture/farming. Recalling optimal pH levels is essential for nutrient uptake. Increased&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c868/2fbfea12-a859-4cad-9278-e2c5229dc868/CostaFarms_mid.mp4</video:content_loc>
+        <video:duration>139</video:duration>
+        <video:publication_date>2017-03-22T19:13:37.2520754+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies/Urban-Refuge</loc>
+      <lastmod>2018-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8c2/99828a3b-38e2-428c-a72a-63356d22e8c2/UrbanRefuge_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Urban Refuge]]></video:title>
+        <video:description><![CDATA[Microsoft teamed up with Urban Refuge to bring urban refugees in Amman, Jordan, access to local assistance opportunities via a Xamarin cross-platform mobile application. Urban refugees make up 78% of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8c2/99828a3b-38e2-428c-a72a-63356d22e8c2/UrbanRefuge_mid.mp4</video:content_loc>
+        <video:duration>140</video:duration>
+        <video:publication_date>2017-03-02T03:29:38.8634815+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies/SureSpot-Parking</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9388/8227a11a-d987-4980-8ca6-45e39f489388/SureSpotParking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SureSpot Parking]]></video:title>
+        <video:description><![CDATA[We set out to bring Power BI Embedded reports into SureSpot&#39;s online parking reservation service. SureSpot allows customers to employ automated reservation systems into existing parking lots using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9388/8227a11a-d987-4980-8ca6-45e39f489388/SureSpotParking_mid.mp4</video:content_loc>
+        <video:duration>140</video:duration>
+        <video:publication_date>2017-01-24T18:01:04.3687476+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Microsoft-Technical-Case-Studies/Brain-Project</loc>
+      <lastmod>2017-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb3d/77f22603-2ff9-4fb0-b895-da0357b3cb3d/BTT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Brain Project]]></video:title>
+        <video:description><![CDATA[Microsoft worked with BTT Corp to develop an IoT solution to help with brain thermal tunnel pattern recognition. This video is an overview of how the core project team came together and the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb3d/77f22603-2ff9-4fb0-b895-da0357b3cb3d/BTT_mid.mp4</video:content_loc>
+        <video:duration>209</video:duration>
+        <video:publication_date>2016-11-29T22:35:22.8716900+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

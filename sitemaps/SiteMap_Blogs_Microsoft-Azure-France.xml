@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-France</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-France/Azure-Camp-9-DEC-2014-DocumentDB-WebJobs-Media-Services</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f6ba/a857f86a-bfa1-4ad8-95ea-595899b1f6ba/AzureCamp9DEC14DocDBWebJobsMedia_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Camp 9 DEC 2014 - DocumentDB, WebJobs, Media Services]]></video:title>
+        <video:description><![CDATA[La vid&#233;o pr&#233;sent&#233;e ici est extraite de l&#39;Azure Camp du 9 DEC 2014 dont les pr&#233;sentations PowerPoint sont accessibles ici:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6ba/a857f86a-bfa1-4ad8-95ea-595899b1f6ba/AzureCamp9DEC14DocDBWebJobsMedia_mid.mp4</video:content_loc>
+        <video:duration>4140</video:duration>
+        <video:publication_date>2015-01-26T16:29:41.3030634+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-France/Azure-Camp-9-DEC-2014-Lambda-Architecture</loc>
+      <lastmod>2015-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c59c/2f795d2d-86a8-4265-a059-4f2746bdc59c/AzureCamp9DEC14Lambda_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Camp 9 DEC 2014 - Lambda Architecture]]></video:title>
+        <video:description><![CDATA[La vid&#233;o pr&#233;sent&#233;e ici est extraite de l&#39;Azure Camp du 9 DEC 2014 dont les pr&#233;sentations PowerPoint sont accessibles ici:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c59c/2f795d2d-86a8-4265-a059-4f2746bdc59c/AzureCamp9DEC14Lambda_mid.mp4</video:content_loc>
+        <video:duration>7797</video:duration>
+        <video:publication_date>2015-01-26T16:29:14.2220500+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

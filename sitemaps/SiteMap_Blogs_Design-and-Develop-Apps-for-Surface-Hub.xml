@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/How-to-access-documents-for-all-meeting-attendees</loc>
+      <lastmod>2019-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/384c/342ef642-53db-4e12-bee7-f83c5fe0384c/SurfaceHubHowTo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to access documents for all meeting attendees]]></video:title>
+        <video:description><![CDATA[A common request by Surface Hub customers is the ability, to easily, access the documents and files that each attendee of a meeting owns and maintains in their cloud store. In this video Dr. Neil&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/384c/342ef642-53db-4e12-bee7-f83c5fe0384c/SurfaceHubHowTo_mid.mp4</video:content_loc>
+        <video:duration>457</video:duration>
+        <video:publication_date>2017-08-11T00:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Surface-Hub-Design-and-Development-Overview</loc>
+      <lastmod>2017-08-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/64ef/89282857-56b7-45ac-be89-f25d609064ef/DesignDevelopSubmitAndDeploySurfaceHubApps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Surface Hub Design and Development Overview]]></video:title>
+        <video:description><![CDATA[Want to building large shared screen experience for your app? Come to join us with the Design, Develop and Deploy large screen interactive experiences overview! In this session, you will learn what&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/64ef/89282857-56b7-45ac-be89-f25d609064ef/DesignDevelopSubmitAndDeploySurfaceHubApps_mid.mp4</video:content_loc>
+        <video:duration>2780</video:duration>
+        <video:publication_date>2017-08-04T17:41:22.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Dr-Neil-and-Golnaz-show-YOU-how-to-use-the-Surface-Hub</loc>
+      <lastmod>2017-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cae0/31055598-792b-4386-88bb-14ca15e8cae0/DrNeilGolnazSurfaceHubDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dr. Neil and Golnaz show YOU how to use the Surface Hub]]></video:title>
+        <video:description><![CDATA[Dr. Neil and Golnaz show YOU how to use Microsoft&#39;s Surface Hub Learn how to: Switch on the Surface HubGet started using the Surface HubCapture the video out from a Surface HubUse the Surface Hub as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cae0/31055598-792b-4386-88bb-14ca15e8cae0/DrNeilGolnazSurfaceHubDemo_mid.mp4</video:content_loc>
+        <video:duration>196</video:duration>
+        <video:publication_date>2017-07-28T21:55:33.4056821+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Design-Deep-Dive</loc>
+      <lastmod>2018-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e95/1ade21c3-79b6-4192-aee6-5b23d0da4e95/SurfaceHubDesigningyourApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Design Deep Dive]]></video:title>
+        <video:description><![CDATA[Let&#39;s review the app we talked about in the previous tutorials and share some more design considerations. Download the Powerpoint deck and the samples at the GitHub:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e95/1ade21c3-79b6-4192-aee6-5b23d0da4e95/SurfaceHubDesigningyourApp_mid.mp4</video:content_loc>
+        <video:duration>924</video:duration>
+        <video:publication_date>2017-02-14T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/NFC</loc>
+      <lastmod>2017-06-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/07b4/27385d48-ee54-4053-8393-ee570c1607b4/NFC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[NFC]]></video:title>
+        <video:description><![CDATA[Every Surface Hub has a NFC reader. In this tutorial, we are going to show you how to add NFC support to your UWP application. Please download the Powerpoint deck and the samples at the GitHub:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07b4/27385d48-ee54-4053-8393-ee570c1607b4/NFC_mid.mp4</video:content_loc>
+        <video:duration>1623</video:duration>
+        <video:publication_date>2017-02-08T18:00:34.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/OneDrive</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a21f/094964d9-9295-421e-9d89-30f0cb8fa21f/OneDrive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OneDrive]]></video:title>
+        <video:description><![CDATA[The Surface Hub is a shared team device, it&#39;s not a personal computer, so you don&#39;t save files locally on the Surface Hub. In this video, we are going to talk about how to use OneDrive for cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a21f/094964d9-9295-421e-9d89-30f0cb8fa21f/OneDrive_mid.mp4</video:content_loc>
+        <video:duration>1951</video:duration>
+        <video:publication_date>2017-02-01T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Camera</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e754/a791d3f0-7c02-442a-8595-55555c46e754/Camera_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Camera]]></video:title>
+        <video:description><![CDATA[In this tutorial, we are going to use the Surface Hub cameras to capture preview of what the camera is seeing and use that to create a picture. Please download the Powerpoint slides and the sample&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e754/a791d3f0-7c02-442a-8595-55555c46e754/Camera_mid.mp4</video:content_loc>
+        <video:duration>2206</video:duration>
+        <video:publication_date>2017-01-24T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Modality</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/337c/fb1a0bd1-128d-4d50-a862-4373ff82337c/Modality_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modality]]></video:title>
+        <video:description><![CDATA[In this tutorial, we will look at ways to remove the modality from your UWP application. Presentation decks and samples can be found at the GitHub:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/337c/fb1a0bd1-128d-4d50-a862-4373ff82337c/Modality_mid.mp4</video:content_loc>
+        <video:duration>1969</video:duration>
+        <video:publication_date>2017-01-17T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Inking</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7536/ab4db59b-2897-412e-b1be-398efe3d7536/Inking_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inking]]></video:title>
+        <video:description><![CDATA[In this tutorial, we are going to talk about adding Ink support to your app. Presentation decks and samples can be found at the GitHub:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7536/ab4db59b-2897-412e-b1be-398efe3d7536/Inking_mid.mp4</video:content_loc>
+        <video:duration>2815</video:duration>
+        <video:publication_date>2017-01-11T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Drag-and-Drop</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7389/b5f8e5ce-b25d-478b-840d-f894a0387389/DragAndDrop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Drag and Drop]]></video:title>
+        <video:description><![CDATA[Learn how to drag &amp;amp; drop and direct manipulation to the UWP app. Presentation decks and samples can be found at the GitHub: https://github.com/dxsurfacehub/Surface-Hub-Design-and-Development ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7389/b5f8e5ce-b25d-478b-840d-f894a0387389/DragAndDrop_mid.mp4</video:content_loc>
+        <video:duration>2471</video:duration>
+        <video:publication_date>2017-01-03T23:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Explore-the-Existing-App</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94ae/f7b771eb-eb76-45ce-97d0-8f085e3894ae/ExploreTheExistingApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Explore the Existing App]]></video:title>
+        <video:description><![CDATA[Learn how to explore the existing UWP app to the Surface Hub device. Presentation decks and samples can be found at the GitHub: https://github.com/dxsurfacehub/Surface-Hub-Design-and-Development ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94ae/f7b771eb-eb76-45ce-97d0-8f085e3894ae/ExploreTheExistingApp_mid.mp4</video:content_loc>
+        <video:duration>784</video:duration>
+        <video:publication_date>2016-12-27T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Design-and-Develop-Apps-for-Surface-Hub/Design-for-Surface-Hub</loc>
+      <lastmod>2017-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/17f5/181721c8-fe3b-4129-97ca-af06b31b17f5/DesignForSurfaceHub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Design for Surface Hub]]></video:title>
+        <video:description><![CDATA[Designing for this large screen, interactive, multi-user, multi-touch and multi-pen experience is different. Come to join Dr. Neil Roodyn and Jackie Giusti for this design session. The Powerpoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/17f5/181721c8-fe3b-4129-97ca-af06b31b17f5/DesignForSurfaceHub_mid.mp4</video:content_loc>
+        <video:duration>1619</video:duration>
+        <video:publication_date>2016-12-20T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

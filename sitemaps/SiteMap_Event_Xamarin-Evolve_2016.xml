@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Understanding-Implications-of-Build-Options</loc>
+      <lastmod>2017-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f19/1d4497a1-b6e0-4099-bbd4-ec0b87902f19/XE16BuildOptions_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Implications of Build Options]]></video:title>
+        <video:description><![CDATA[When building mobile applications, there are several choices you can make that can have a big impact on the runtime performance, time to compile, and even the size of compiled files. iOS and Android&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f19/1d4497a1-b6e0-4099-bbd4-ec0b87902f19/XE16BuildOptions_mid.mp4</video:content_loc>
+        <video:duration>2892</video:duration>
+        <video:publication_date>2016-05-27T17:27:13.5975019+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Clicking-on-the-Real-World-with-iBeacon-and-Eddystone</loc>
+      <lastmod>2016-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36df/6a2cbd3e-3edd-4ef5-a265-6586f76236df/XE16iBeacon_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Clicking on the Real World with iBeacon and Eddystone]]></video:title>
+        <video:description><![CDATA[Contextual awareness is a fast-growing trend in mobile development. In this session, Jim will take you through a quick overview of beacon technology, including Apple&#39;s iBeacons and Google&#39;s Eddystone,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36df/6a2cbd3e-3edd-4ef5-a265-6586f76236df/XE16iBeacon_mid.mp4</video:content_loc>
+        <video:duration>2830</video:duration>
+        <video:publication_date>2016-05-27T16:30:06.1560589+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Why-Akavache-is-Fast-How-Not-to-Use-SQLite</loc>
+      <lastmod>2019-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/393e/c5970316-b62d-44a1-b72a-0937ee0f393e/XE16SQLLite_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why Akavache is Fast: How Not to Use SQLite]]></video:title>
+        <video:description><![CDATA[Akavache is a key-value store for Xamarin applications whose primary implementation is backed by SQLite. However, many people using SQLite find that they get massive performance benefits by switching&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/393e/c5970316-b62d-44a1-b72a-0937ee0f393e/XE16SQLLite_mid.mp4</video:content_loc>
+        <video:duration>2832</video:duration>
+        <video:publication_date>2016-05-27T00:57:45.3762694+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/From-Sketch-to-App-A-Design-to-Development-Workflow</loc>
+      <lastmod>2016-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89d4/8a2ff4f7-18cb-4811-9c08-637f7ad789d4/XE16SketchToApp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From Sketch to App: A Design to Development Workflow]]></video:title>
+        <video:description><![CDATA[A good design and development workflow for any application involves users early and often to help inform and validate decisions when they can still be cheaply improved. In this session we will walk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89d4/8a2ff4f7-18cb-4811-9c08-637f7ad789d4/XE16SketchToApp_mid.mp4</video:content_loc>
+        <video:duration>2758</video:duration>
+        <video:publication_date>2016-05-27T00:57:17.9579407+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Contextual-Communication-in-a-Connected-World</loc>
+      <lastmod>2016-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fbf5/80fbe2fd-88d9-41d1-944b-19191d45fbf5/XE16Contextual_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Contextual Communication in a Connected World]]></video:title>
+        <video:description><![CDATA[Communication is critical to the success of modern applications. With the rise of smart homes, smart cars, and even smart toasters, it&#39;s time for smart communication. In today&#39;s connected world we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbf5/80fbe2fd-88d9-41d1-944b-19191d45fbf5/XE16Contextual_mid.mp4</video:content_loc>
+        <video:duration>3307</video:duration>
+        <video:publication_date>2016-05-27T00:56:51.6782052+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Your-App-Needs-More-Google-Play-Services</loc>
+      <lastmod>2018-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c78c/cc9b9ec7-210c-4eb5-9617-7be5a838c78c/XE16GooglePlay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Your App Needs More Google Play Services]]></video:title>
+        <video:description><![CDATA[Google Play Services is full of many awesome features and is a must-have for Android developers. Take your app to the next level with Android Pay, App Invites, Nearby, Maps, Casting, and more! We&#39;ll&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c78c/cc9b9ec7-210c-4eb5-9617-7be5a838c78c/XE16GooglePlay_mid.mp4</video:content_loc>
+        <video:duration>1814</video:duration>
+        <video:publication_date>2016-05-26T20:46:31.1164208+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/As-Seen-On-TV--Bringing-C-to-the-Living-Room</loc>
+      <lastmod>2016-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a762/5b668c73-4c5e-41bc-bfbe-bd2cc0cfa762/XE16OnTV_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[As Seen On TV  Bringing C# to the Living Room]]></video:title>
+        <video:description><![CDATA[The new Apple TV has been released, and YOU can be one of the first developers to write apps for it. To make things even better, you can build these apps in C#! This session will introduce the basics&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a762/5b668c73-4c5e-41bc-bfbe-bd2cc0cfa762/XE16OnTV_mid.mp4</video:content_loc>
+        <video:duration>2301</video:duration>
+        <video:publication_date>2016-05-26T20:14:27.2261877+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Create-Stunning-Apps-with-the-Xamarin-Designer-for-iOS</loc>
+      <lastmod>2018-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afc0/53d3b795-1e32-4d5e-a210-8f40466fafc0/XE16XamarinDesigner_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create Stunning Apps with the Xamarin Designer for iOS]]></video:title>
+        <video:description><![CDATA[With the Xamarin 4 release, iOS developers have a powerful, well established tool for visualizing and designing native UIs: the Xamarin Designer for iOS. Deep dive into the Xamarin Designer for iOS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afc0/53d3b795-1e32-4d5e-a210-8f40466fafc0/XE16XamarinDesigner_mid.mp4</video:content_loc>
+        <video:duration>2521</video:duration>
+        <video:publication_date>2016-05-26T19:40:35.0022389+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Instrumenting-Your-Mobile-Monitoring-Strategy</loc>
+      <lastmod>2017-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc63/771def05-51f5-4406-b435-ddc0fa42bc63/XE16MonitoringStrategy_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instrumenting Your Mobile Monitoring Strategy]]></video:title>
+        <video:description><![CDATA[As developers, the burden of creating great experiences for our users falls squarely on us. Now that you&#39;ve released your app out to the world, do you know how it&#39;s performing in the hands of real&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc63/771def05-51f5-4406-b435-ddc0fa42bc63/XE16MonitoringStrategy_mid.mp4</video:content_loc>
+        <video:duration>2720</video:duration>
+        <video:publication_date>2016-05-26T18:20:48.2542488+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Cross-Platform-Media-in-Xamarin</loc>
+      <lastmod>2016-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e5c/240f399b-19eb-49b3-80e0-4d69b4578e5c/XE16CrossPlatMedia_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cross-Platform Media in Xamarin]]></video:title>
+        <video:description><![CDATA[Building an application that needs to consume media, such as audio or video? In this session, Martjin explains how you can play any media in a cross-platform manner and how to play media using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e5c/240f399b-19eb-49b3-80e0-4d69b4578e5c/XE16CrossPlatMedia_mid.mp4</video:content_loc>
+        <video:duration>2427</video:duration>
+        <video:publication_date>2016-05-26T03:55:41.2235373+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/An-In-Depth-Study-of-the-MVVM-Light-Databinding-System</loc>
+      <lastmod>2016-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e46b/01a11962-5883-4177-a11f-081ce1c4e46b/XE16InDepthMVVM_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[An In-Depth Study of the MVVM Light Databinding System]]></video:title>
+        <video:description><![CDATA[Living in the dark ages and still wiring up properties manually between your user interface and data source? Databinding is a technique to automatically synchronize a user interface with it&#39;s data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e46b/01a11962-5883-4177-a11f-081ce1c4e46b/XE16InDepthMVVM_mid.mp4</video:content_loc>
+        <video:duration>2817</video:duration>
+        <video:publication_date>2016-05-26T03:55:23.7762455+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Performance-Adventures</loc>
+      <lastmod>2016-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5c0c/9ab3c506-03c1-4b1d-881f-2d399f355c0c/XE16PerformanceAdventures_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Performance Adventures]]></video:title>
+        <video:description><![CDATA[The first rule of optimization is to measure. You&#39;ll see what we do at Xamarin to monitor Mono&#39;s performance, assess potential optimizations, and what kinds of crazy and fun ideas we try to make Mono&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5c0c/9ab3c506-03c1-4b1d-881f-2d399f355c0c/XE16PerformanceAdventures_mid.mp4</video:content_loc>
+        <video:duration>2126</video:duration>
+        <video:publication_date>2016-05-26T03:55:07.1222138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Google-Fit-Android-Wear-and-Xamarin</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6303/4e0cdb1a-bb77-4441-a4e8-c0fd72046303/XE16AndroidWear_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Google Fit, Android Wear, and Xamarin]]></video:title>
+        <video:description><![CDATA[With recent advances in wearable technology, it&#39;s now possible to create novel fitness experiences without building custom hardware. In this talk we take you through creating a fitness tracker in C#&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6303/4e0cdb1a-bb77-4441-a4e8-c0fd72046303/XE16AndroidWear_mid.mp4</video:content_loc>
+        <video:duration>2594</video:duration>
+        <video:publication_date>2016-05-25T21:05:43.5047558+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Think-Like-a-Hacker-Common-Techniques-Used-to-Exploit-Mobile-Apps-and-How-to-Mitigate-Them</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e640/058573d5-4aa9-4c9a-9ce0-0382885ee640/XE16ThinkLikeAHacker_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Think Like a Hacker! Common Techniques Used to Exploit Mobile Apps and How to Mitigate Them]]></video:title>
+        <video:description><![CDATA[The first step in learning how to protect your applications from hackers is to think like one. During this session, you&#39;ll learn how easy it is for hackers to leverage widely available tools to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e640/058573d5-4aa9-4c9a-9ce0-0382885ee640/XE16ThinkLikeAHacker_mid.mp4</video:content_loc>
+        <video:duration>2963</video:duration>
+        <video:publication_date>2016-05-25T21:05:30.7564291+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/World-Class-Identity-Management-with-Xamarin-and-Azure-AD</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ccc/031d0206-b156-45e1-aabf-b54c621e8ccc/XE16IdentityManagement_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[World Class Identity Management with Xamarin and Azure AD]]></video:title>
+        <video:description><![CDATA[Identity management as a service is a growing cloud market in which Microsoft is a leading player. This session will briefly explore the strategic future of Microsoft&#39;s identity services, including&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ccc/031d0206-b156-45e1-aabf-b54c621e8ccc/XE16IdentityManagement_mid.mp4</video:content_loc>
+        <video:duration>2690</video:duration>
+        <video:publication_date>2016-05-25T17:08:59.4008023+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Designing-for-Touch</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a5f5/27eeec99-c791-499c-89df-a0149258a5f5/XE16DesignForTouch_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing for Touch]]></video:title>
+        <video:description><![CDATA[Touchscreens are everywhere now, even the desktop, and this workshop with designer Josh Clark (author of &amp;quot;Designing for Touch&amp;quot;) tells you what you need to know to make the most of them.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a5f5/27eeec99-c791-499c-89df-a0149258a5f5/XE16DesignForTouch_mid.mp4</video:content_loc>
+        <video:duration>5632</video:duration>
+        <video:publication_date>2016-05-25T06:11:05.5121528+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Is-Your-App-Secure</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2d3/50ac536f-7b60-44e1-90e4-f28958a9a2d3/XE16IsYourAppSecure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Is Your App Secure?]]></video:title>
+        <video:description><![CDATA[Security is a major focus when building web applications. But what about app security? What do I have to look out for as a developer to write a secure app? How do I handle sensitive data, and what&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2d3/50ac536f-7b60-44e1-90e4-f28958a9a2d3/XE16IsYourAppSecure_mid.mp4</video:content_loc>
+        <video:duration>2689</video:duration>
+        <video:publication_date>2016-05-25T00:18:00.0273427+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Introduction-to-iOS-9</loc>
+      <lastmod>2016-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c041/224be972-6424-427a-8e04-cbba589bc041/XE16IOS9_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to iOS 9]]></video:title>
+        <video:description><![CDATA[Join Craig for an introduction to how Xamarin.iOS works and the steps to build an iOS app from scratch, with a few comparisons to Xamarin.Forms and some tips on adding iOS 9-specific features to your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c041/224be972-6424-427a-8e04-cbba589bc041/XE16IOS9_mid.mp4</video:content_loc>
+        <video:duration>2813</video:duration>
+        <video:publication_date>2016-05-25T00:17:42.7323854+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Addressing-the-OWASP-Mobile-Security-Threats-Using-Xamarin</loc>
+      <lastmod>2016-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af10/4e71e05d-a0b9-4197-a3ef-8dcfccffaf10/XE16OWASP_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Addressing the OWASP Mobile Security Threats Using Xamarin]]></video:title>
+        <video:description><![CDATA[You think your mobile app is secure—but is it really? In this session, Alec will give you the Top 10 mobile threats to be aware of and take an in-depth look at how to mitigate some of these threats&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af10/4e71e05d-a0b9-4197-a3ef-8dcfccffaf10/XE16OWASP_mid.mp4</video:content_loc>
+        <video:duration>2747</video:duration>
+        <video:publication_date>2016-05-24T19:42:35.4719415+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Async-and-Await-All-the-Things-Your-Mother-Never-Told-You</loc>
+      <lastmod>2017-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/22ed/ca13ed3b-07f3-4f89-95f3-50b71fd722ed/XE16AsyncAwait_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Async and Await, All the Things Your Mother Never Told You]]></video:title>
+        <video:description><![CDATA[During this session we will explore some common pitfalls with using Async/Await. We will also go over time tips and tricks to make your apps more responsive. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22ed/ca13ed3b-07f3-4f89-95f3-50b71fd722ed/XE16AsyncAwait_mid.mp4</video:content_loc>
+        <video:duration>2614</video:duration>
+        <video:publication_date>2016-05-24T19:04:28.1607052+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Why-You-Should-Be-Building-Better-Mobile-Apps-with-Reactive-Programming</loc>
+      <lastmod>2018-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/80ea/4af286a3-2526-4e1b-9d29-fafbbf7d80ea/XE16ReactiveProgramming_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why You Should Be Building Better Mobile Apps with Reactive Programming]]></video:title>
+        <video:description><![CDATA[Reactive programming is popping up everywhere lately and big companies like Netflix and GitHub are using it as the cornerstone of their development. Unfortunately, reactive programming can look scary&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/80ea/4af286a3-2526-4e1b-9d29-fafbbf7d80ea/XE16ReactiveProgramming_mid.mp4</video:content_loc>
+        <video:duration>2545</video:duration>
+        <video:publication_date>2016-05-24T18:51:10.0277569+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Cocos-in-XamarinForms</loc>
+      <lastmod>2017-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42e2/7c86da4c-cdb1-4dbb-9911-0fe3fed642e2/XE16Cocos_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cocos# in Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on many platforms, including iOS, Android, Mac OSX, Linux, Windows, and PlayStation 4. Most games also utilize native user&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42e2/7c86da4c-cdb1-4dbb-9911-0fe3fed642e2/XE16Cocos_mid.mp4</video:content_loc>
+        <video:duration>2811</video:duration>
+        <video:publication_date>2016-05-24T17:58:03.3473605+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Mobile-Search-Making-your-mobile-apps-stand-out</loc>
+      <lastmod>2016-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/71f3/e97b04d2-cfaf-4471-9e52-3363eaae71f3/XE16StandOutMobileSearch_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mobile Search: Making your mobile apps stand out]]></video:title>
+        <video:description><![CDATA[Did you know that only 26% of apps installed on a user&#39;s device are used daily? There are several innovative ways to engage with your users and keep them coming back for more after your app is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71f3/e97b04d2-cfaf-4471-9e52-3363eaae71f3/XE16StandOutMobileSearch_mid.mp4</video:content_loc>
+        <video:duration>2685</video:duration>
+        <video:publication_date>2016-05-24T05:26:24.1620266+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/MVVM-Made-Simple-with-XamarinForms-and-Prism</loc>
+      <lastmod>2017-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c1d/da7a7954-7a13-42ad-bbdd-3c366e461c1d/XE16MVVMMadeSimple_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVVM Made Simple with Xamarin.Forms and Prism]]></video:title>
+        <video:description><![CDATA[MVVM has become the standard for the majority of cross-platform mobile developers. Since it&#39;s introduction in 2005, there are a number of issues that have been realized due to the side effects of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c1d/da7a7954-7a13-42ad-bbdd-3c366e461c1d/XE16MVVMMadeSimple_mid.mp4</video:content_loc>
+        <video:duration>2798</video:duration>
+        <video:publication_date>2016-05-24T05:26:03.0547339+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Optimizing-App-Performance-with-XamarinForms</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c48/a67676b8-a20b-4953-a047-86718c664c48/XE16PerformanceXamarinForms_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Optimizing App Performance with Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[Don&#39;t let your app fall into potential performance traps! Learn how to build a blazing fast app using Xamarin.Forms with these performance tips and tricks. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c48/a67676b8-a20b-4953-a047-86718c664c48/XE16PerformanceXamarinForms_mid.mp4</video:content_loc>
+        <video:duration>2878</video:duration>
+        <video:publication_date>2016-05-24T01:07:32.7561293+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Test-Driven-Xamarin-Development</loc>
+      <lastmod>2016-06-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ad4/c344ec09-f191-4b69-a6ef-4820985f2ad4/XE16TestDriven_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Test Driven Xamarin Development]]></video:title>
+        <video:description><![CDATA[We all know testing is important, but how do you get started? This session helps you take your first steps into testing with an introduction to unit testing as well as using mobile&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ad4/c344ec09-f191-4b69-a6ef-4820985f2ad4/XE16TestDriven_mid.mp4</video:content_loc>
+        <video:duration>3235</video:duration>
+        <video:publication_date>2016-05-24T00:28:56.5455639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Becoming-a-XAML-Master</loc>
+      <lastmod>2017-04-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e5a8/8a400cf8-10ed-4670-883d-35642c75e5a8/XE16XAMLMasterPetzold_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Becoming a XAML Master]]></video:title>
+        <video:description><![CDATA[Many people have heard of XAML, but are you a XAML master? Don&#39;t miss this session with legendary technical author Charles Petzold, who will take you from a XAML newbie to pro in just 60 minutes. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5a8/8a400cf8-10ed-4670-883d-35642c75e5a8/XE16XAMLMasterPetzold_mid.mp4</video:content_loc>
+        <video:duration>2747</video:duration>
+        <video:publication_date>2016-05-23T23:33:12.2604113+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Build-Smart-into-Your-App-with-Microsoft-Cognitive-Services</loc>
+      <lastmod>2016-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ecb/c444782e-ee86-4815-83eb-f375d49c8ecb/XE16CognitiveSvcs_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Smart into Your App with Microsoft Cognitive Services]]></video:title>
+        <video:description><![CDATA[Join Allison Light, Microsoft program manager, to see how Microsoft&#39;s Cognitive Services combine intelligence and machine learning to power experiences used by millions of users, including the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ecb/c444782e-ee86-4815-83eb-f375d49c8ecb/XE16CognitiveSvcs_mid.mp4</video:content_loc>
+        <video:duration>2118</video:duration>
+        <video:publication_date>2016-05-23T22:23:38.7675236+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Enhancing-Your-Mobile-Application-with-Machine-Learning</loc>
+      <lastmod>2016-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac1b/e1e95c99-5177-414b-a363-929adc12ac1b/XE16MachineLearning_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enhancing Your Mobile Application with Machine Learning]]></video:title>
+        <video:description><![CDATA[Coupling Microsoft&#39;s recently announced Cognitive Services and Machine Learning capabilities to Xamarin&#39;s acclaimed development technologies opens a new world of possibilities for developers building&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac1b/e1e95c99-5177-414b-a363-929adc12ac1b/XE16MachineLearning_mid.mp4</video:content_loc>
+        <video:duration>2870</video:duration>
+        <video:publication_date>2016-05-23T16:39:32.6726755+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Introduction-to-Android-Marshmallow</loc>
+      <lastmod>2016-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/091c/7fb8eb12-712e-4642-929f-4d064835091c/XE16Marshmallow_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Android Marshmallow]]></video:title>
+        <video:description><![CDATA[Make your applications shine by taking advantage of everything Android Marshmallow has to offer. Join Nish as he gives you the lowdown on Android Fundamentals and the shiny new features of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/091c/7fb8eb12-712e-4642-929f-4d064835091c/XE16Marshmallow_mid.mp4</video:content_loc>
+        <video:duration>2332</video:duration>
+        <video:publication_date>2016-05-23T16:16:46.3481443+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/The-Power-of-Roslyn-Improving-Your-Productivity-with-Live-Code-Analyzers</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59fa/c6c87f26-273b-440b-9d48-7c640d7559fa/XE16Roslyn_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Power of Roslyn: Improving Your Productivity with Live Code Analyzers]]></video:title>
+        <video:description><![CDATA[Two years ago we open sourced the C# and Visual Basic compilers and exposed their functionality through APIs as the Roslyn project. The Roslyn analyzer API empowers the developer community to be more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59fa/c6c87f26-273b-440b-9d48-7c640d7559fa/XE16Roslyn_mid.mp4</video:content_loc>
+        <video:duration>2760</video:duration>
+        <video:publication_date>2016-05-23T15:45:35.2291917+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Youve-Built-an-App-Now-What</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/daf2/374054cf-9a51-41c5-9f2f-32d0d2b4daf2/XE16AppNowWhat_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You&#39;ve Built an App... Now What!?]]></video:title>
+        <video:description><![CDATA[When companies embark on building mobile apps, almost all of the focus is on what the app is and what it does. Developers, Designers, and Business Sponsors spend hours and hours pouring over&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/daf2/374054cf-9a51-41c5-9f2f-32d0d2b4daf2/XE16AppNowWhat_mid.mp4</video:content_loc>
+        <video:duration>2271</video:duration>
+        <video:publication_date>2016-05-23T15:44:26.6318577+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Extending-Views-and-Adding-Custom-Attributes-in-Your-XamarinAndroid-App</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00ae/03d63a11-c69c-406e-b863-48e4444d00ae/XE16ViewsAndCustomAttr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Extending Views and Adding Custom Attributes in Your Xamarin.Android App]]></video:title>
+        <video:description><![CDATA[Often during development, we encounter situations when the built-in controls do not provide all of the functionality needed by the application. Join Lori in this session covering everything you need&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00ae/03d63a11-c69c-406e-b863-48e4444d00ae/XE16ViewsAndCustomAttr_mid.mp4</video:content_loc>
+        <video:duration>1613</video:duration>
+        <video:publication_date>2016-05-20T21:37:41.2522636+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Enterprise-Mobility-Keep-It-Safe</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b11/e9cc4ed0-1221-4c7c-a0f9-a4f441b15b11/XE16EntMobility_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Mobility: Keep It Safe]]></video:title>
+        <video:description><![CDATA[Mobility has become key for productivity in the enterprise. As companies build and use more apps for business, security and data protection become ever more important. Through Microsoft Enterprise,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b11/e9cc4ed0-1221-4c7c-a0f9-a4f441b15b11/XE16EntMobility_mid.mp4</video:content_loc>
+        <video:duration>2701</video:duration>
+        <video:publication_date>2016-05-20T21:21:17.8928308+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/5-Soft-Skills-Every-Software-Developer-Should-Know</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3303/61db7fd6-af50-45c6-96b4-ca03c10c3303/XE165SoftSkills_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 Soft Skills Every Software Developer Should Know]]></video:title>
+        <video:description><![CDATA[Technical skills are great, but they can only take you so far in your career. Top earning software engineers know the importance of focusing on soft skills and personal development to achieve high&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3303/61db7fd6-af50-45c6-96b4-ca03c10c3303/XE165SoftSkills_mid.mp4</video:content_loc>
+        <video:duration>3595</video:duration>
+        <video:publication_date>2016-05-20T21:05:12.8917921+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Everyone-Can-Create-Beautiful-Apps-with-Material-Design</loc>
+      <lastmod>2016-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c72/8f1d1456-e9c5-4dc9-a1bb-12f6d2513c72/XE16MaterialDesign_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Everyone Can Create Beautiful Apps with Material Design]]></video:title>
+        <video:description><![CDATA[Building beautiful Android apps doesn&#39;t have to be hard. Since its original induction, Material Design (MD) has taken the Android world by storm, generating rapid adoption throughout the dev&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c72/8f1d1456-e9c5-4dc9-a1bb-12f6d2513c72/XE16MaterialDesign_mid.mp4</video:content_loc>
+        <video:duration>2795</video:duration>
+        <video:publication_date>2016-05-20T20:24:44.6391729+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Developing-Connected-Apps-Using-Azure-and-Xamarin</loc>
+      <lastmod>2016-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d33/ee514b78-c024-49bf-8341-87fd2a492d33/XE16AzureXamarin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Connected Apps Using Azure and Xamarin]]></video:title>
+        <video:description><![CDATA[Creating connected mobile applications often requires some form of backend infrastructure. In this session, you&#39;ll learn how to reuse your existing .NET skills to quickly build web services into your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d33/ee514b78-c024-49bf-8341-87fd2a492d33/XE16AzureXamarin_mid.mp4</video:content_loc>
+        <video:duration>3417</video:duration>
+        <video:publication_date>2016-05-20T18:55:45.3392473+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Using-XamarinForms-with-F</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd01/facf4437-44ac-4fe9-b3b7-ba737adabd01/XE16Fsharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Xamarin.Forms with F#]]></video:title>
+        <video:description><![CDATA[Did you know that it&#39;s entirely possible to write fully native, cross-platform mobile apps completely in F#? And that, with the release of Xamarin Studio 6.0, building Xamarin.Forms apps with F# has&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd01/facf4437-44ac-4fe9-b3b7-ba737adabd01/XE16Fsharp_mid.mp4</video:content_loc>
+        <video:duration>2790</video:duration>
+        <video:publication_date>2016-05-20T18:16:10.1158907+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Continuous-Delivery-for-Mobile-Apps-Yes-We-Can</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6a9/23c75b32-6a5a-4e5b-bea7-3e6fe133d6a9/XE16ContinuousDelivery_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Delivery for Mobile Apps: Yes We Can!]]></video:title>
+        <video:description><![CDATA[The way to higher quality and faster more predictable mobile release cycles is continuous delivery. In this talk, we show how to setup a simple continuous delivery pipeline for a small mobile app. We&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6a9/23c75b32-6a5a-4e5b-bea7-3e6fe133d6a9/XE16ContinuousDelivery_mid.mp4</video:content_loc>
+        <video:duration>2798</video:duration>
+        <video:publication_date>2016-05-20T17:47:21.3822229+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/A-Developers-Guide-to-Azure-IoT</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/401d/2e63a149-3a64-4511-9153-d9332def401d/XE16AzureIoT_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Developers Guide to Azure IoT]]></video:title>
+        <video:description><![CDATA[All you ever wanted to know about how to connect IoT devices to Azure and make the most out of all the data coming from sensors leveraging smart data analytics, machine learning and other Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/401d/2e63a149-3a64-4511-9153-d9332def401d/XE16AzureIoT_mid.mp4</video:content_loc>
+        <video:duration>2847</video:duration>
+        <video:publication_date>2016-05-20T16:38:39.4832333+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Visual-Studio-2015-and-Beyond</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ffb/c54322cc-d3bc-4d36-9c6e-9e924a496ffb/XE16VisualStudio2015andBeyond_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2015 and Beyond!]]></video:title>
+        <video:description><![CDATA[Learn how to get the most out of Visual Studio 2015 on your Xamarin applications demo-by-demo. We&#39;ll explore day-to-day development situations and the way to leverage Visual Studio (and C#/.NET)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ffb/c54322cc-d3bc-4d36-9c6e-9e924a496ffb/XE16VisualStudio2015andBeyond_mid.mp4</video:content_loc>
+        <video:duration>3148</video:duration>
+        <video:publication_date>2016-05-20T15:41:08.4863132+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Manage-Xamarin-apps-with-HockeyApp-and-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/17d8/313608e9-0676-40a1-b7ed-a0c7546e17d8/XamarinEvolve16HockeyAppandVSTS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Manage Xamarin apps with HockeyApp and Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Join us for a demo-packed session! Learn more about how HockeyApp and Visual Studio Team Services help Xamarin developers deliver high-quality, modern apps for Android, iOS, and Windows. Automate your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/17d8/313608e9-0676-40a1-b7ed-a0c7546e17d8/XamarinEvolve16HockeyAppandVSTS_mid.mp4</video:content_loc>
+        <video:duration>2553</video:duration>
+        <video:publication_date>2016-05-20T02:15:25.1462748+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Building-a-Universal-Windows-App-in-Visual-Studio</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7e3/c415a60f-46f7-4d71-a482-9e8d7df7f7e3/XamarinEvolve16UWPApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a Universal Windows App in Visual Studio]]></video:title>
+        <video:description><![CDATA[Visual Studio 2015 makes it easy to build Universal Windows applications that run on all Windows 10 devices, including PCs, Phones, Xbox, HoloLens, IoT, and more. Come to this session for a complete&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7e3/c415a60f-46f7-4d71-a482-9e8d7df7f7e3/XamarinEvolve16UWPApps_mid.mp4</video:content_loc>
+        <video:duration>2986</video:duration>
+        <video:publication_date>2016-05-20T02:15:05.1137138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Become-a-Xamarin-Studio-Expert</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b9d7/573342c1-62e3-4067-a14b-ed09a692b9d7/XamarinEvolve16BecomeAXamarinStudioExpert_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Become a Xamarin Studio Expert]]></video:title>
+        <video:description><![CDATA[Improve your productivity through the effective use of Xamarin Studio! Suitable for beginners and experienced users alike, come hang out with Mikayla Hutchinson as she divulges tips and tricks for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b9d7/573342c1-62e3-4067-a14b-ed09a692b9d7/XamarinEvolve16BecomeAXamarinStudioExpert_mid.mp4</video:content_loc>
+        <video:duration>2894</video:duration>
+        <video:publication_date>2016-05-19T23:07:29.6256106+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/Xamarin-Evolve-Keynote</loc>
+      <lastmod>2016-07-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/72a1/ba0aeb6b-b897-4d1c-8e51-cfc26ac172a1/XamarinEvolve16Keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Xamarin Evolve Keynote]]></video:title>
+        <video:description><![CDATA[Join Xamarin co-founders Nat Friedman and Miguel de Icaza to see what is coming next for mobile development and the future of apps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72a1/ba0aeb6b-b897-4d1c-8e51-cfc26ac172a1/XamarinEvolve16Keynote_mid.mp4</video:content_loc>
+        <video:duration>4379</video:duration>
+        <video:publication_date>2016-05-19T23:06:56.6320394+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin-Evolve/2016/The-Future-of-CSharp</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/489e/55f5a6a8-430c-4aad-b5e5-5a91bddb489e/XamarinEvolve16FutureCSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Future of C#]]></video:title>
+        <video:description><![CDATA[Since Roslyn shipped last year, we&#39;ve been hard at work building on it to improve tooling, add new language features, and enhance Roslyn itself. In this session Mads will play with fire, showing early&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/489e/55f5a6a8-430c-4aad-b5e5-5a91bddb489e/XamarinEvolve16FutureCSharp_mid.mp4</video:content_loc>
+        <video:duration>2813</video:duration>
+        <video:publication_date>2016-05-19T23:01:39.1598628+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

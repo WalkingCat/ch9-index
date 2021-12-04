@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Hybrid-Network</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Hybrid-Network/Azure-VNet-Peering</loc>
+      <lastmod>2018-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be36/f0464cb9-d073-41f2-8685-10f9fc62be36/VNETPeering_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure VNet Peering]]></video:title>
+        <video:description><![CDATA[This is part one of a three part series on what is VNet peering. We will cover features, requirements and configurations for VNet peering. Video 2 will be how to configure VNet peering with the Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be36/f0464cb9-d073-41f2-8685-10f9fc62be36/VNETPeering_mid.mp4</video:content_loc>
+        <video:duration>363</video:duration>
+        <video:publication_date>2016-09-02T04:09:57.8951881+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Hybrid-Network/Using-User-Defined-Routing-to-control-what-is-sent-over-ExpressRoute-tunnel</loc>
+      <lastmod>2020-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9309/577feabe-972a-4cc5-9dfc-0c9765c39309/UDRForExpressRouteDefaultRoute_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using User Defined Routing to control what is sent over ExpressRoute tunnel]]></video:title>
+        <video:description><![CDATA[Using UDR to prevent traffic destined for Azure public services from traversing the ExpressRoute circuit because of the default route assigned. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9309/577feabe-972a-4cc5-9dfc-0c9765c39309/UDRForExpressRouteDefaultRoute_mid.mp4</video:content_loc>
+        <video:duration>676</video:duration>
+        <video:publication_date>2016-08-04T14:43:57.9702012+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-3-Configure-BGP-on-Azure-VPN-Gateways-via-PowerShell</loc>
+      <lastmod>2020-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c8d1/ce3b3d85-096a-48fe-90f9-bc183a80c8d1/ConfiguringBGPonAzureVPNGWs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BGP for VPN Part 3 - Configure BGP on Azure VPN Gateways via PowerShell]]></video:title>
+        <video:description><![CDATA[This is the third video in the series. In this video Victor Arzate, a Program Manager in the ECG CAT team will show you how to configure BGP on Azure VPN Gateways via PowerShell. The configuration is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c8d1/ce3b3d85-096a-48fe-90f9-bc183a80c8d1/ConfiguringBGPonAzureVPNGWs_mid.mp4</video:content_loc>
+        <video:duration>576</video:duration>
+        <video:publication_date>2016-05-26T22:25:26.4218511+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-2-Demo</loc>
+      <lastmod>2017-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb0f/ea81c42d-9bd4-4765-90f6-c82df5fceb0f/BGPDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BGP for VPN Part 2 - Demo]]></video:title>
+        <video:description><![CDATA[This second video In this video Bala Natarajan, a Program Manager at Microsoft will demonstrate the use of BGP to support routing between two Azure VPN gateways connected to Azure vNets. The overview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb0f/ea81c42d-9bd4-4765-90f6-c82df5fceb0f/BGPDemo_mid.mp4</video:content_loc>
+        <video:duration>445</video:duration>
+        <video:publication_date>2016-05-26T22:25:12.3377408+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-1-BGP-Routing-for-Azure-VPN-Gateways</loc>
+      <lastmod>2018-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d5e/89add0a3-803e-4f93-8070-c6ac1bdb7d5e/IntroToBGPOverVPN_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BGP for VPN Part 1 - BGP Routing for Azure VPN Gateways]]></video:title>
+        <video:description><![CDATA[This is the first part of a three part video series describing Border Gateway Protocol (BGP) for Azure VPN gateway, The Second video performs a demonstration of operation and the third video shows how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d5e/89add0a3-803e-4f93-8070-c6ac1bdb7d5e/IntroToBGPOverVPN_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2016-05-26T22:24:56.8139045+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

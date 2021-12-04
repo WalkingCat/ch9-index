@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Active-Directory-Depannage-et-mecanismes-internes</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Active-Directory-Depannage-et-mecanismes-internes/AD-Depannage-05-Sante-des-controleurs-de-domaine</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2c3/4518e9a5-34d0-4908-9958-999ba634b2c3/ADDepannage05FR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AD Depannage 05 - Sant&#233; des controleurs de domaine]]></video:title>
+        <video:description><![CDATA[Avoir beaucoup de contr&#244;leurs de domaines, c&#39;est bien. En avoir peu, mais en bonne sant&#233;, c&#39;est encore mieux. Ce module permet de revoir un certain nombre de signes vitaux pour assurer un niveau de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2c3/4518e9a5-34d0-4908-9958-999ba634b2c3/ADDepannage05FR_mid.mp4</video:content_loc>
+        <video:duration>2083</video:duration>
+        <video:publication_date>2014-12-22T16:44:30.3676234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Active-Directory-Depannage-et-mecanismes-internes/AD-Depannage-04-Resolution-de-noms-pour-AD</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/15f8/be0c76d0-5af4-40bf-b1e8-a8faa10b15f8/ADDepannage04FR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AD Depannage 04 - R&#233;solution de noms pour AD]]></video:title>
+        <video:description><![CDATA[Une bonne r&#233;solution de noms est fondamentale pour un Active Directory en bonne sant&#233;. Dans ce module nous &#233;tudions comment les contr&#244;leurs de domaines utilise la r&#233;solution de noms pour effectuer la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/15f8/be0c76d0-5af4-40bf-b1e8-a8faa10b15f8/ADDepannage04FR_mid.mp4</video:content_loc>
+        <video:duration>2438</video:duration>
+        <video:publication_date>2014-12-22T16:44:23.2271749+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Active-Directory-Depannage-et-mecanismes-internes/AD-Depannage-03-Strategies-de-groupes</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/89f7/2b8643fb-c0f3-4a34-939e-c5670c0589f7/ADDepannage03FR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AD Depannage 03 - Strat&#233;gies de groupes]]></video:title>
+        <video:description><![CDATA[Comment est compos&#233;e une strat&#233;gie de groupe ? Quels sont les objets impliqu&#233;s dans le syst&#232;me ? Comment AD r&#233;plique les objets ? et comment optimiser mon SYSVOL ?. Voici quelques une des questions&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/89f7/2b8643fb-c0f3-4a34-939e-c5670c0589f7/ADDepannage03FR_mid.mp4</video:content_loc>
+        <video:duration>3450</video:duration>
+        <video:publication_date>2014-12-22T16:44:16.1399665+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Active-Directory-Depannage-et-mecanismes-internes/AD-Depannage-02-Replication-Active-Directory</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45eb/35a7202b-ab9f-413f-b0cd-bc9a960245eb/ADDepannage02FR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AD Depannage 02 - Replication Active Directory]]></video:title>
+        <video:description><![CDATA[L&#39;objectif de ce module est de revoir les bases du moteur de r&#233;plication Active Directory. Dans ce module nous &#233;tudions les bases de la r&#233;plication, les diff&#233;rences entre les divers objets impliqu&#233;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45eb/35a7202b-ab9f-413f-b0cd-bc9a960245eb/ADDepannage02FR_mid.mp4</video:content_loc>
+        <video:duration>3410</video:duration>
+        <video:publication_date>2014-12-22T16:44:11.3399068+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Active-Directory-Depannage-et-mecanismes-internes/AD-Depannage-01-Active-Directory-Depannage-et-mecanismes-internes</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91d5/4bc67c76-dfff-4af6-9c02-f7a2496791d5/ADDepannage01FR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AD Depannage 01 - Active Directory : D&#233;pannage et m&#233;canismes internes]]></video:title>
+        <video:description><![CDATA[Module d&#39;introdution pour faire une bonne introduction ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91d5/4bc67c76-dfff-4af6-9c02-f7a2496791d5/ADDepannage01FR_mid.mp4</video:content_loc>
+        <video:duration>296</video:duration>
+        <video:publication_date>2014-12-22T16:44:04.4739811+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

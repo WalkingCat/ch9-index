@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Products-and-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Products-and-Services/MyDriving-Xamarin--Azure-IoT-Reference-App</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b75a/c90d866f-d4ab-4c5c-954a-15ba8eecb75a/MyDrivingXamarinAzureIoTReferenceAppVideo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MyDriving Xamarin &amp; Azure IoT Reference App]]></video:title>
+        <video:description><![CDATA[At Build 2016, Microsoft showcased a scalable, performant, highly available, and cross-platform IoT service and application. MyDriving uses a wide range of Azure services to process and analyze car&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b75a/c90d866f-d4ab-4c5c-954a-15ba8eecb75a/MyDrivingXamarinAzureIoTReferenceAppVideo_mid.mp4</video:content_loc>
+        <video:duration>122</video:duration>
+        <video:publication_date>2016-04-19T17:57:46.0330239+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Products-and-Services/The-Microsoft-DevOps-Solution</loc>
+      <lastmod>2017-07-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/43fd/dc6a40e4-ae5d-4d9a-ac16-52f2907943fd/DevOpsSolution_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Microsoft DevOps Solution]]></video:title>
+        <video:description><![CDATA[The move to DevOps is about people, process and tools. It&#39;s a whole new philosophy that brings developers, IT, and the business itself together to build and deploy apps continuously, with much higher&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/43fd/dc6a40e4-ae5d-4d9a-ac16-52f2907943fd/DevOpsSolution_mid.mp4</video:content_loc>
+        <video:duration>75</video:duration>
+        <video:publication_date>2016-03-09T17:36:15.5604117+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Products-and-Services/The-Microsoft-DevTest-Solution</loc>
+      <lastmod>2016-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8aaf/69084354-b060-4b28-9dc9-97bc52198aaf/DevTestSolution_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Microsoft Dev/Test Solution]]></video:title>
+        <video:description><![CDATA[Every development team needs development and test infrastructure to design, develop, test, and deliver applications. Physical development and test environments are expensive and it takes a lot of time&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8aaf/69084354-b060-4b28-9dc9-97bc52198aaf/DevTestSolution_mid.mp4</video:content_loc>
+        <video:duration>81</video:duration>
+        <video:publication_date>2016-03-09T17:35:27.6820704+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-Products-and-Services/Visual-Studio-Enterprise-2015</loc>
+      <lastmod>2020-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1803/7e14d57f-d6d3-462d-9e44-b8704e871803/VisualStudioEnterprise2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Enterprise 2015 ]]></video:title>
+        <video:description><![CDATA[Visual Studio Enterprise with MSDN is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs that require comprehensive tools and services for defining,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1803/7e14d57f-d6d3-462d-9e44-b8704e871803/VisualStudioEnterprise2015_mid.mp4</video:content_loc>
+        <video:duration>125</video:duration>
+        <video:publication_date>2016-03-09T17:34:48.7667274+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

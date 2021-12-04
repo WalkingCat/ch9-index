@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/EIP-Speaker-Series</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/EIP-Speaker-Series/Intro-to-Responsive-Design-for-XAML</loc>
+      <lastmod>2019-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1975/994a739b-1e86-4e6d-be99-5b97d20c1975/respdesign_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to Responsive Design (for XAML)]]></video:title>
+        <video:description><![CDATA[In this Speaker Series, Nuno Silva presents on topic of adaptive UI, which is central to Windows 10 UWP apps. Most of the challenges faced with increased complexity on Windows 10 can be met by&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1975/994a739b-1e86-4e6d-be99-5b97d20c1975/respdesign_high.mp4</video:content_loc>
+        <video:duration>1489</video:duration>
+        <video:publication_date>2016-06-23T15:07:43.1350524+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/EIP-Speaker-Series/Deploying-Your-First-UWP-Xbox-Application</loc>
+      <lastmod>2018-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a57f/a0260b5d-66d8-429c-b335-89fc088ca57f/DeployingYourFirstUWPXboxApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Your First UWP Xbox Application]]></video:title>
+        <video:description><![CDATA[In this Speaker Series, Dale Linneman discusses the process of deploying your first UWP based app on Xbox One. The presentation begins with an overview of changes when going from ADK/XDK to UWP, such&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a57f/a0260b5d-66d8-429c-b335-89fc088ca57f/DeployingYourFirstUWPXboxApp_mid.mp4</video:content_loc>
+        <video:duration>1489</video:duration>
+        <video:publication_date>2016-05-27T21:36:42.6153216+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/EIP-Speaker-Series/Windows-SDK-for-Facebook</loc>
+      <lastmod>2015-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/822f/5939cea8-4919-49d1-ad29-1b173ead822f/WindowsSDKforFacebook_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows SDK for Facebook]]></video:title>
+        <video:description><![CDATA[We&#39;re pleased to announce a new open source library for integrating Facebook into your Windows apps. The Windows SDK for Facebook is geared towards app developers creating Universal Windows apps on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/822f/5939cea8-4919-49d1-ad29-1b173ead822f/WindowsSDKforFacebook_mid.mp4</video:content_loc>
+        <video:duration>1763</video:duration>
+        <video:publication_date>2015-10-05T22:40:47.5155066+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

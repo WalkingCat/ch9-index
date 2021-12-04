@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Server-Side</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Server-Side/Introducing-Windows-Azure-PowerShell-Cmdlets-20</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a40c/23d035e1-80c1-4c9b-8979-9f6b0130a40c/WindowsAzurePS_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Windows Azure PowerShell Cmdlets 2.0]]></video:title>
+        <video:description><![CDATA[ Webcast to introduce many of the new features in the Windows Azure PowerShell Cmdlets 2.0 Download the Cmdlets Here for more samples see my Windows Azure Blog. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a40c/23d035e1-80c1-4c9b-8979-9f6b0130a40c/WindowsAzurePS_ch9.mp3</video:content_loc>
+        <video:duration>1239</video:duration>
+        <video:publication_date>2011-09-27T19:31:17.4683666+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Server-Side/Understanding-Windows-Azure-AppFabric-Queues</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ee9b/668eea28-3a7c-4e56-96e1-9efe00feee9b/ServiceBusQueues_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Windows Azure AppFabric Queues]]></video:title>
+        <video:description><![CDATA[ Interview with Principal Technical Lead Clemens Vasters and Principal Development Manager Murali Krishnaprasad (MK) regarding the May 2011 CTP release of Windows Azure AppFabric. We discuss new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ee9b/668eea28-3a7c-4e56-96e1-9efe00feee9b/ServiceBusQueues_high_ch9.mp4</video:content_loc>
+        <video:duration>2416</video:duration>
+        <video:publication_date>2011-06-10T21:08:34.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-Bash-auf-Windows</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-Bash-auf-Windows/03--Bash-auf-Windows-Fortgeschritten</loc>
+      <lastmod>2016-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/761e/34be5b67-8e0b-45bc-a5b2-e39bac6c761e/03Bash_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Bash auf Windows -  Fortgeschritten]]></video:title>
+        <video:description><![CDATA[Zum Abschluss lernen wir ein paar fortgeschrittene Tools kennen, die gerade in der Web Entwicklung und Serverkonfiguration extrem wichtig sind. Diese sind:  1.      wget, um Dateien aus dem Internet&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/761e/34be5b67-8e0b-45bc-a5b2-e39bac6c761e/03Bash_mid.mp4</video:content_loc>
+        <video:duration>787</video:duration>
+        <video:publication_date>2016-05-09T12:21:44.0528440+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-Bash-auf-Windows/02-Bash-on-Windows-Tips-Tricks</loc>
+      <lastmod>2016-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9179/ffa795a8-66c4-4c31-acc2-93907ba99179/02Bash_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Bash auf Windows - Tipps und Tricks]]></video:title>
+        <video:description><![CDATA[Jetzt wo wir Bash installiert haben, werden wir lernen, wie wir rudiment&#228;re Dateisystemmanipulationen auf Bash ausf&#252;hren. Au&#223;erdem lernen wir Tipps und Tricks, wie man schneller und geschickter Bash&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9179/ffa795a8-66c4-4c31-acc2-93907ba99179/02Bash_mid.mp4</video:content_loc>
+        <video:duration>929</video:duration>
+        <video:publication_date>2016-05-09T12:17:15.4314102+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-Bash-auf-Windows/01-Bash-auf-Windows-Intro</loc>
+      <lastmod>2017-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0a15/947b492e-8a0c-4182-8736-a8108f650a15/01Bash_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Bash auf Windows - Intro]]></video:title>
+        <video:description><![CDATA[Was ist Bash und wie kann man das auf Windows 10 installieren? In dem ersten Video des dreiteiligen Tutorials schauen wir uns an, wie wir bash auf Windows 10 installieren und wieso es auf Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0a15/947b492e-8a0c-4182-8736-a8108f650a15/01Bash_mid.mp4</video:content_loc>
+        <video:duration>616</video:duration>
+        <video:publication_date>2016-05-09T12:12:28.8488048+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

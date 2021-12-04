@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/06</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c455/ffc77f10-04d4-496a-be1e-6dde3ac4c455/578IntroWebSitePythonFlaskM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Creating Web Sites using Python and Flask: (06) Cloud Deployment]]></video:title>
+        <video:description><![CDATA[Find out how to make your application available. Learn the steps required to take the application you’ve built and deploy it to Microsoft Azure. [02:05] - Azure accounts[06:07] - Redis and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c455/ffc77f10-04d4-496a-be1e-6dde3ac4c455/578IntroWebSitePythonFlaskM06_mid.mp4</video:content_loc>
+        <video:duration>1688</video:duration>
+        <video:publication_date>2014-12-21T20:08:38.1097333+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5368/cc9549cd-de43-4a2b-9fdb-b0e0e8025368/578IntroWebSitePythonFlaskM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Creating Web Sites using Python and Flask: (05) Creating and Retrieving Redis Data]]></video:title>
+        <video:description><![CDATA[Dig deeper into Redis, including how to work with Redis data, both reading and writing records.​ [02:09] - Redis keys and values[35:33] - Redis FAQ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5368/cc9549cd-de43-4a2b-9fdb-b0e0e8025368/578IntroWebSitePythonFlaskM05_mid.mp4</video:content_loc>
+        <video:duration>2574</video:duration>
+        <video:publication_date>2014-12-21T20:07:54.6784869+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/04</loc>
+      <lastmod>2019-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4061/44856eaa-0d12-4ff3-ac7d-2594d2464061/578IntroWebSitePythonFlaskM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Creating Web Sites using Python and Flask: (04) Data Storage Locations]]></video:title>
+        <video:description><![CDATA[Since nearly every website needs to store data, take a look at the different options available to you as a Developer. Plus, get an intro to Redis. [09:13] - Should I use an XML File?[18:00] - Should I&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4061/44856eaa-0d12-4ff3-ac7d-2594d2464061/578IntroWebSitePythonFlaskM04_mid.mp4</video:content_loc>
+        <video:duration>2725</video:duration>
+        <video:publication_date>2014-12-21T20:07:38.7934116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c91e/2ae66b4c-4ea0-4f0c-a6a0-4ee866f9c91e/578IntroWebSitePythonFlaskM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Creating Web Sites using Python and Flask: (03) Requesting User Input]]></video:title>
+        <video:description><![CDATA[Take the next step from sending basic text to the client to using templates. Learn about forms and how to request and read information from the user. [04:18] - Forms[18:54] - Jinja[26:40] - Building&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c91e/2ae66b4c-4ea0-4f0c-a6a0-4ee866f9c91e/578IntroWebSitePythonFlaskM03_mid.mp4</video:content_loc>
+        <video:duration>3032</video:duration>
+        <video:publication_date>2014-12-21T20:07:05.6522675+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f644/ec32e776-489c-4499-9767-42635885f644/578IntroWebSitePythonFlaskM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Creating Web Sites using Python and Flask: (02) Creating Webpages in Flask]]></video:title>
+        <video:description><![CDATA[Learn about Flask as a great platform from which to create your websites. Explore how URLs are translated to code behind the scenes and how information gets sent from the client to the server. [06:10]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f644/ec32e776-489c-4499-9767-42635885f644/578IntroWebSitePythonFlaskM02_mid.mp4</video:content_loc>
+        <video:duration>3098</video:duration>
+        <video:publication_date>2014-12-21T20:07:04.3566561+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/01</loc>
+      <lastmod>2018-07-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/24e4/4ee70f36-1723-4f53-8f82-5464fe5424e4/578IntroWebSitePythonFlaskM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Creating Web Sites using Python and Flask: (01) Introduction to Flask]]></video:title>
+        <video:description><![CDATA[Learn how to get started and why one would use Flask to create websites. Walk through the standard “Hello, world!” demonstration, and close with a primer on HTML. [00:19] - What is a web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/24e4/4ee70f36-1723-4f53-8f82-5464fe5424e4/578IntroWebSitePythonFlaskM01_mid.mp4</video:content_loc>
+        <video:duration>3495</video:duration>
+        <video:publication_date>2014-12-21T20:06:38.5074805+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

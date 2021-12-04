@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/dotnetFlix-ChatOps-Bot-for-VSTS-using-Microsoft-Bot-Framework</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/becd/559c0b06-8bef-49f2-b661-a1282476becd/dotnetflix61chatopsbotforvstsusingbotframework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[dotnetFlix - ChatOps Bot for VSTS using Microsoft Bot Framework]]></video:title>
+        <video:description><![CDATA[In this episode, ALM Ranger Jeffrey Opdam demonstrates a ChatOps bot he uses to manage a VSTS account from Skype. This bot is built using the Microsoft Bot framework. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/becd/559c0b06-8bef-49f2-b661-a1282476becd/dotnetflix61chatopsbotforvstsusingbotframework_mid.mp4</video:content_loc>
+        <video:duration>541</video:duration>
+        <video:publication_date>2017-10-02T05:08:53.8626360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/dotnetFlix-NET-Core-Series-Uitrollen-van-een-ASPNET-Core-app-naar-IIS</loc>
+      <lastmod>2020-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3d09/db7069a9-2172-45bc-90a6-f19633003d09/dotnetflixnetcoreseriestakingittoproduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[dotnetFlix - .NET Core Series - Uitrollen van een ASP.NET Core app naar IIS]]></video:title>
+        <video:description><![CDATA[In deze aflevering in de .NET Core serie vertelt Sander Wannet over zijn praktijkervaringen met het uitrollen van een ASP.NET Core applicatie naar IIS. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d09/db7069a9-2172-45bc-90a6-f19633003d09/dotnetflixnetcoreseriestakingittoproduction_mid.mp4</video:content_loc>
+        <video:duration>489</video:duration>
+        <video:publication_date>2017-06-07T02:22:17.4767904+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Build-2017-Azure-Functions-Tools-voor-VS-en-Runtime</loc>
+      <lastmod>2021-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/e9ae0261-3711-44af-8d63-ef3202a21a44.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build 2017 - Azure Functions Tools voor VS en Runtime]]></video:title>
+        <video:description><![CDATA[In deze aflevering vertelt Sander Molenkamp over de nieuwe Azure Functions tooling voor Visual Studio en de Azure Functions runtime die op de Microsoft Build conferentie zijn aangekondigd. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be06/fe4eeea7-1ba4-42ef-b4d5-72437c6abe06/dotnetflixbuild2017azurefunctionsvstoolsandruntim_mid.mp4</video:content_loc>
+        <video:duration>1080</video:duration>
+        <video:publication_date>2017-05-18T08:26:25.3290872+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Build-2017-Azure-Cosmos-DB</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/c7b4ffa9-55a9-4a8a-a0bb-2288f52489f9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build 2017 - Azure Cosmos DB]]></video:title>
+        <video:description><![CDATA[Tijdens de Microsoft Build conferentie is een nieuwe database op Azure ge&#239;ntroduceerd: Cosmos DB. In deze aflevering (opgenomen in Seattle tijdens de conferentie) geeft Edwin een introductie van deze&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b3dc/85822086-f6a3-40e3-87e6-4fac1206b3dc/dotnetflixbuild2017azurecosmosdb_mid.mp4</video:content_loc>
+        <video:duration>1261</video:duration>
+        <video:publication_date>2017-05-18T08:26:10.6040992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Series-Securing-ASPNET-Core-apps-with-Identity</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/89e882d2-0336-4b93-ac28-2158bd839ee4.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Series - Securing ASP.NET Core apps with Identity]]></video:title>
+        <video:description><![CDATA[In deze 10e aflevering in de .NET Core serie vertelt Willem Meints over de identity en security features voor het beveiligen van ASP.NET Core applicaties. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2e0/35ae5645-2e7d-4033-9d11-3ebc5a0fa2e0/dotnetflixnetcoreseries10securingaspnetcoreappsid_mid.mp4</video:content_loc>
+        <video:duration>1120</video:duration>
+        <video:publication_date>2017-05-09T13:53:35.9281266+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Series-SPA-met-ASPNET-Core-en-Javascript-Services</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/e26b0fc6-c9ed-4001-82f9-0c739657d35a.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Series - SPA met ASP.NET Core en Javascript Services]]></video:title>
+        <video:description><![CDATA[In deze 9e aflevering in de .NET Core serie vertelt Jonathan Mezach hoe je Single Page Applications (SPA) kunt bouwen met ASP.NET Core en Javascript Services. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7fed/0100095c-8177-4f42-b26e-646fde8c7fed/dotnetflix54netcoreseries9spajsservices_mid.mp4</video:content_loc>
+        <video:duration>1061</video:duration>
+        <video:publication_date>2017-05-09T13:53:26.2053197+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-ASPNET-Core-MVP-WebAPI-deel-2</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/a9403712-41ec-4302-ade3-84303443a0d0.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - ASP.NET Core MVC WebAPI - deel 2]]></video:title>
+        <video:description><![CDATA[In deze 8e aflevering in de .NET Core serie vertelt Willem Meints hoe je data validaties en foutafhandeling toevoegt aan je API met ASP.NET Core MVC WebAPI. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c8b/9e0b8384-d2e6-484a-bf82-b66438ab2c8b/dotnetflixnetcoreseriesaspnetcorewvcwebapideel2_mid.mp4</video:content_loc>
+        <video:duration>736</video:duration>
+        <video:publication_date>2017-05-09T13:53:18.2119345+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-ASPNET-Core-MVC-WebAPI-deel-1</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/b80c5516-6822-438e-b16d-0a2fd10870bc.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - ASP.NET Core MVC WebAPI - deel 1]]></video:title>
+        <video:description><![CDATA[In deze 7e aflevering in de .NET Core serie vertelt Willem Meints hoe je RESTFul Web API&#39;s bouwt met ASP.NET Core MVC WebAPI. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b48f/fa028146-b06a-44d4-b5df-c8517ccdb48f/dotnetflixnetcoreseriesaspnetcorewebapideel1_mid.mp4</video:content_loc>
+        <video:duration>1045</video:duration>
+        <video:publication_date>2017-05-09T13:53:04.1263157+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-ASPNET-Core-MVC-Tag-helpers</loc>
+      <lastmod>2018-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d9d26dfe-10ea-4d0e-a10f-7cd3a4ecb1b3.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - ASP.NET Core MVC Tag-helpers]]></video:title>
+        <video:description><![CDATA[In deze 6e aflevering in de .NET Core serie geeft Jonathan Mezach een introductie van ASP.NET Core MVC Tag-helpers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e3c/2743c5fd-52b2-4b7b-af72-87efebf95e3c/dotnetflix51netcoreseriesaspnetmvctaghelpers_mid.mp4</video:content_loc>
+        <video:duration>575</video:duration>
+        <video:publication_date>2017-04-11T04:58:45.5847699+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-ASPNET-Core-Introductie</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/b7dad9bd-cdae-42c0-a13a-12e70d012676.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - ASP.NET Core Introductie]]></video:title>
+        <video:description><![CDATA[In deze 5e aflevering in de .NET Core serie geeft Edwin van Wijk een introductie van ASP.NET Core. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bfb2/dba97477-8de7-47b1-b71a-d2787bdbbfb2/dotnetflixnetcoreseriesaspnetcoreintro2_mid.mp4</video:content_loc>
+        <video:duration>1024</video:duration>
+        <video:publication_date>2017-04-04T15:26:52.0400761+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-Developer-Experience-op-de-Mac</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/bcbb04b0-f347-439d-805e-9c5b947fc9a8.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - Developer Experience op de Mac]]></video:title>
+        <video:description><![CDATA[In dit tweede deel over &#39;Developer Experience&#39; in de .NET Core serie demonstreert Jonathan de verschillende manieren waarop je .NET Core applicaties op een Mac kunt bouwen en de tools die je daarbij&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22f8/0fc198a2-363b-41ee-896f-18a4eeea22f8/dotnetflixnetcoreseriesdevexperience2_mid.mp4</video:content_loc>
+        <video:duration>1101</video:duration>
+        <video:publication_date>2017-04-04T07:34:28.2335617+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-Developer-Experience-met-Visual-Studio-2017</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/55307b12-28a0-4eac-ad0f-c9ebfc556c0c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - Developer Experience met Visual Studio 2017]]></video:title>
+        <video:description><![CDATA[In deze 3e aflevering in de .NET Core serie vertelt Jonathan over de developer experience als je .NET Core applicaties bouwt m.b.v. Visual Studio 2017. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1be3/699abc15-f1ec-4c62-a44b-b378efd71be3/dotnetflixnetcoreseriedeveloperexperiencedeel1_mid.mp4</video:content_loc>
+        <video:duration>602</video:duration>
+        <video:publication_date>2017-03-28T09:04:44.3890016+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-NET-Standard</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/1fe554a2-b612-4827-9eac-34959333b929.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - .NET Standard]]></video:title>
+        <video:description><![CDATA[In deze 2e aflevering in de .NET Core serie vertelt Jonathan wat .NET Standard is en hoe deze specificatie helpt bij het delen van code middels libraries. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4eaa/36b96f8e-c938-42b2-8f84-8897e9174eaa/dotnetflixnetcoreserienetstandard_mid.mp4</video:content_loc>
+        <video:duration>1047</video:duration>
+        <video:publication_date>2017-03-14T13:34:38.2200796+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/NET-Core-Serie-NET-Core-introductie</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/bb9b25d5-bcaa-4706-89a2-9f7b0d5c8cea.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core Serie - .NET Core introductie]]></video:title>
+        <video:description><![CDATA[dotnetFlix komt met een serie afleveringen over .NET Core en ASP.NET Core - de nieuwe .NET en ASP.NET variant om cross-platform software mee te ontwikkelen. Er zal wekelijks een nieuwe aflevering&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0730/74bbbc1b-508d-441d-9014-756c0c690730/dotnetflixnetcoreserienetcoreintro_mid.mp4</video:content_loc>
+        <video:duration>1416</video:duration>
+        <video:publication_date>2017-03-07T12:33:54.1306360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Maintain-consistent-machine-configurations-using-PowerShell-DSC-and-Chocolatey</loc>
+      <lastmod>2017-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/89b75b29-607d-4871-ab6f-30bcac161e2a.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Maintain consistent machine configurations using PowerShell DSC and Chocolatey]]></video:title>
+        <video:description><![CDATA[Speaker:Prajeesh Prathap from Info Support In this episode Prajeesh shows how to use the combination of PowerShell DSC and Chocolatey to maintain a consistent software-configuration across multiple&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb70/605aab5f-326d-4e93-ab2f-e7c99898bb70/dotnetflix45prajeeshpowershelldscchocolatey_mid.mp4</video:content_loc>
+        <video:duration>1206</video:duration>
+        <video:publication_date>2017-01-26T02:58:07.1860369+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/On-demand-testomgeving-voor-Azure-Web-Apps</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/c8c248cf-7e84-4402-b3eb-1068ae8d845a.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On demand testomgeving voor Azure Web Apps]]></video:title>
+        <video:description><![CDATA[In deze aflevering laat Rob van Gils zien hoe je geautomatiseerd een on-demand testomgeving kan inrichten om een Azure Web App te kunnen testen. Hierbij gebruikt hij een continuous deployment pipeline&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cd8c/5cec1b5a-da7d-42ee-8143-eba4970ecd8c/dotnetflix44ondemandenvazurewebapps_mid.mp4</video:content_loc>
+        <video:duration>969</video:duration>
+        <video:publication_date>2016-11-21T12:25:36.0815661+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Scott-Guthrie-Dev-Intersection-Las-Vegas</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/330ba88b-edb2-44e5-a75c-6add447c0eb1.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Scott Guthrie at Dev Intersection - Las Vegas]]></video:title>
+        <video:description><![CDATA[At the Dev Intersection conference in Las Vegas, we spoke with Scott Guthrie about DevOps, application monitoring (with Azure Operations Management Suite (OMS)) and Open Source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41b3/0a8316b0-0c44-4019-a9af-5b3a6a5141b3/dotnetflix43interviewscottguthriedevintersection2_mid.mp4</video:content_loc>
+        <video:duration>1028</video:duration>
+        <video:publication_date>2016-11-01T19:28:50.7086731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Scott-Hanselman-Dev-Intersection-Las-Vegas</loc>
+      <lastmod>2017-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/2572dfe1-7de3-4151-9a98-9db6496fd0d4.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Scott Hanselman at Dev Intersection - Las Vegas]]></video:title>
+        <video:description><![CDATA[At the Dev Intersection conference in Las Vegas we spoke with Scott Hanselman about .NET Core and Open Source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d3f/eefc6768-6645-4789-9bdb-20ce10de1d3f/dotnetflix42interviewscotthanselmandevintersectio_mid.mp4</video:content_loc>
+        <video:duration>647</video:duration>
+        <video:publication_date>2016-11-01T19:28:38.0715092+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Interview-David-Chappell-TechDaysNL2016</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/50e5ab90-b9d3-4d31-9a14-c8c1f940c10c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with David Chappell at TechDays NL 2016]]></video:title>
+        <video:description><![CDATA[At the Microsoft TechDays 2016 event in Amsterdam, we talked to David Chappell (from Chappell &amp;amp; Associates in San Francisco - CA). He&#39;s well known within the Microsoft community as speaker, author&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6942/044ae6ff-e7fd-4c82-bc88-056501096942/dotnetflix201610interviewdavidchappelltechdaysnl2_mid.mp4</video:content_loc>
+        <video:duration>795</video:duration>
+        <video:publication_date>2016-11-01T19:28:28.6116300+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Interview-Corey-Sanders-TechDaysNL2016</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d380aaed-d618-4326-a839-2b420542c37b.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Corey Sanders at TechDays NL 2016]]></video:title>
+        <video:description><![CDATA[At the Microsoft TechDays 2016 event in Amsterdam, we talked to Corey Sanders. He&#39;s the Director of Program Management for Azure Compute and delivered the opening keynote for the event. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e46/5e2743b4-6f38-4262-8424-d1ff89cb8e46/dotnetflix201610interviewcoreysanderstechdaysnl20_mid.mp4</video:content_loc>
+        <video:duration>988</video:duration>
+        <video:publication_date>2016-11-01T19:28:14.0741800+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Application-Insights-harel-broitman-robi-czitron</loc>
+      <lastmod>2017-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/ed4286f8-9c70-407b-8950-021d195c0354.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Insights with Harel Broitman and Robi Czitron]]></video:title>
+        <video:description><![CDATA[During the Microsoft Cloud Roadshow (May 19 and 20 2016) in the World Forum in The Hague, Edwin talked to Harel Broitman and Robi Czitron. They are part of the Application Insights team at Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b58e/5d401476-0984-4276-b675-9670ab1ab58e/dotnetflix36applicationinsights_mid.mp4</video:content_loc>
+        <video:duration>996</video:duration>
+        <video:publication_date>2016-06-01T10:48:06.5599686+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Azure-Service-Fabric-with-Mark-Fussell</loc>
+      <lastmod>2017-10-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/851bc852-b37c-421e-b0ea-6f0506c6ae73.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Service Fabric with Mark Fussell]]></video:title>
+        <video:description><![CDATA[Op de Build 2016 conferentie in San Francisco is aangekondigd dat Azure Service Fabric publiek beschikbaar is. We hebben o.a. hierover gesproken met Mark Fussell, Program Manager in het core Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b69/c8eaa038-1a4a-4c59-8684-f75fd7bc1b69/dotnetflix35azureservicefabricwithmarkfussell_mid.mp4</video:content_loc>
+        <video:duration>1243</video:duration>
+        <video:publication_date>2016-05-06T06:38:53.8574859+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Language-Understanding-Intelligent-Service</loc>
+      <lastmod>2017-07-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/eba1dcfc-09cc-4484-8d5d-a5cdcab687d6.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Language Understanding Intelligent Service (LUIS)]]></video:title>
+        <video:description><![CDATA[Op de Build 2016 conferentie in San Francisco is een aantal Cognitive Services ge&#239;ntroduceerd. In deze aflevering laat Edwin van Wijk van Info Support zien hoe je complexe taken als bijvoorbeeld het&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5212/a83020e3-cec6-4793-92ef-9c4cac635212/dotnetflix34luis_mid.mp4</video:content_loc>
+        <video:duration>1001</video:duration>
+        <video:publication_date>2016-05-06T06:38:23.5969996+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Microsoft-Bot-Framework</loc>
+      <lastmod>2017-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d8376124-70c2-4967-b9fd-b354c6242dc0.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Bot Framework]]></video:title>
+        <video:description><![CDATA[Op de Build 2016 conferentie in San Francisco is het Microsoft Bot Framework ge&#239;ntroduceerd. In deze aflevering laat Sander Molenkamp van Info Support zien hoe eenvoudig het is om met dit framework&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2096/5945270c-2ad5-46ab-afbd-7cad45662096/dotnetflix33botframework_mid.mp4</video:content_loc>
+        <video:duration>850</video:duration>
+        <video:publication_date>2016-05-06T06:38:01.7701897+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/dotnetflix/Introduction-to-AkkaNET</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/a3f1d0d9-b224-4b27-b29a-c5219e61b844.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Akka.NET]]></video:title>
+        <video:description><![CDATA[Voor het bouwen van systemen die een hoge concurrent workload kunnen verwerken, kan het Actor Model paradigma ingezet worden. Een Java framework waarmee eenvoudig Actor Model systemen kunnen worden&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dfb6/3055ae79-d92a-4510-be4e-cf3cef29dfb6/dotnetflix27introtoakkadotnet_mid.mp4</video:content_loc>
+        <video:duration>1042</video:duration>
+        <video:publication_date>2016-05-06T06:27:51.9633968+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

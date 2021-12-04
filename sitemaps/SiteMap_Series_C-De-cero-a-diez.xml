@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/C-De-cero-a-diez</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/C-De-cero-a-diez/Captulo-3-Comandos-de-seleccin</loc>
+      <lastmod>2021-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/73d8/8b6f5888-3727-45ad-91ef-422e9c9d73d8/Cap3Csharp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cap&#237;tulo 3: Comandos de selecci&#243;n]]></video:title>
+        <video:description><![CDATA[En el tercer cap&#237;tulo pr&#225;ctico de la serie, Amin Espinoza te explicar&#225; como utilizar sentencias de selecci&#243;n para que tu aplicaci&#243;n pueda tomar decisiones en base a las posibilidades dadas a tu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/73d8/8b6f5888-3727-45ad-91ef-422e9c9d73d8/Cap3Csharp_mid.mp4</video:content_loc>
+        <video:duration>1187</video:duration>
+        <video:publication_date>2016-01-18T17:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/C-De-cero-a-diez/Captulo-2-Variables-y-tipos-de-datos</loc>
+      <lastmod>2019-10-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5c8/c5e9f7f0-8da8-4b3b-8649-8e10d817c5c8/Cap2Csharp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cap&#237;tulo 2: Variables y tipos de datos]]></video:title>
+        <video:description><![CDATA[En el segundo cap&#237;tulo pr&#225;ctico de la serie, Amin Espinoza te explicar&#225; como aprender a utilizar variables y los diferentes tipos de datos para aprender a utilizarlos en tus aplicaciones. Para mayores&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5c8/c5e9f7f0-8da8-4b3b-8649-8e10d817c5c8/Cap2Csharp_mid.mp4</video:content_loc>
+        <video:duration>692</video:duration>
+        <video:publication_date>2016-01-11T16:44:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/C-De-cero-a-diez/Operaciones-de-entrada-y-salida</loc>
+      <lastmod>2020-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a5c/89665e7b-4623-4756-9f26-7298f3ac2a5c/Cap1Csharp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cap&#237;tulo 1: Operaciones de entrada y salida]]></video:title>
+        <video:description><![CDATA[En el primer cap&#237;tulo pr&#225;ctico de la serie, Amin Espinoza te explicar&#225; los dos conceptos m&#225;s b&#225;sicos para aprender a crear programas con C#, las operaciones de entrada y salida y como son gestionadas&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a5c/89665e7b-4623-4756-9f26-7298f3ac2a5c/Cap1Csharp_mid.mp4</video:content_loc>
+        <video:duration>369</video:duration>
+        <video:publication_date>2016-01-05T19:27:22.3083627+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/C-De-cero-a-diez/Introduccin-a-C</loc>
+      <lastmod>2021-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ead4/fa9668b4-692c-44e7-8d5f-0ca75943ead4/IntroduccionC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a C#]]></video:title>
+        <video:description><![CDATA[El primer paso para aprender a programar en un lenguaje es conocer un poco m&#225;s que su sintaxis. En este video Ricardo Pons, Windows Client Platform MVP te guiar&#225; en lo que debes saber de C# para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ead4/fa9668b4-692c-44e7-8d5f-0ca75943ead4/IntroduccionC_mid.mp4</video:content_loc>
+        <video:duration>1118</video:duration>
+        <video:publication_date>2015-10-05T21:25:34.2987814+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

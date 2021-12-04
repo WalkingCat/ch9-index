@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client/Sovellukset-luuriin-feat-Ionic-AAD-ja-O365</loc>
+      <lastmod>2016-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd64/c3935be4-5bb7-4926-a362-25efedd3bd64/Sovelluksetluuriin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sovellukset luuriin feat. Ionic, AAD ja O365]]></video:title>
+        <video:description><![CDATA[Tule ja opi kuinka rakennat sovelluksen Ionic Frameworkilla (iOS, Android, Win10 Mobile), joka autentikoituu Azure AD:ss&#228; ja k&#228;pistelee O365:n tarjoamia rajapintoja. Ionic k&#228;ytt&#228;&#228; HTML5, CSS, JS,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd64/c3935be4-5bb7-4926-a362-25efedd3bd64/Sovelluksetluuriin_mid.mp4</video:content_loc>
+        <video:duration>2588</video:duration>
+        <video:publication_date>2016-04-14T07:24:12.0928656+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client/Windows-10-IoT-kehitys-alustat-ja-vaihtoehdot</loc>
+      <lastmod>2016-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/54ee/e8f9f2bc-c7ab-4217-803e-e142608c54ee/Windows10iotkehitys_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 IoT -kehitys: alustat ja vaihtoehdot]]></video:title>
+        <video:description><![CDATA[Internet of Things -ajattelu on vahvasti mukana Windows 10:ss&#228;. K&#228;ytt&#246;j&#228;rjestelm&#228;st&#228; on useita versiota pelk&#228;st&#228;&#228;n IoT-ymp&#228;rist&#246;ihin ja lis&#228;ksi tarjolla ovat Azure IoT -palvelut. T&#228;ss&#228; esityksess&#228;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/54ee/e8f9f2bc-c7ab-4217-803e-e142608c54ee/Windows10iotkehitys_mid.mp4</video:content_loc>
+        <video:duration>3168</video:duration>
+        <video:publication_date>2016-04-14T07:23:54.8624232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client/Windows-10-UWP-sovelluksen-mukauttaminen-laitekohtaisesti</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c21/266f4f94-bf89-435c-86d5-671671d83c21/Windows10uwpsovelluksenmukauttaminen_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 UWP-sovelluksen mukauttaminen laitekohtaisesti]]></video:title>
+        <video:description><![CDATA[Windows 10 -sovellukset toimivat useissa eri laitemuodoissa: n&#228;ytt&#246;jen koot vaihtelevat nelj&#228;st&#228; tuumasta 80 tuumaan ja ohjausmuodot kosketuksesta hiireen ja puheohjaukseen. T&#228;ss&#228; esityksess&#228; k&#228;yd&#228;&#228;n&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c21/266f4f94-bf89-435c-86d5-671671d83c21/Windows10uwpsovelluksenmukauttaminen_mid.mp4</video:content_loc>
+        <video:duration>2795</video:duration>
+        <video:publication_date>2016-04-13T11:18:57.6621866+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client/New-hardware-APIs-and-platforms-for-UWP</loc>
+      <lastmod>2016-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/abd5/2fc5bd4b-a665-4358-a40f-c13d4c46abd5/Newhardwareapisandplatformsforuwp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New hardware APIs and platforms for UWP]]></video:title>
+        <video:description><![CDATA[In this presentation, we would like to make short, but very illustrative overview of the few selected new hardware APIs and platforms available for Universal Windows Platform (UWP) developers. Here is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/abd5/2fc5bd4b-a665-4358-a40f-c13d4c46abd5/Newhardwareapisandplatformsforuwp_mid.mp4</video:content_loc>
+        <video:duration>3063</video:duration>
+        <video:publication_date>2016-04-13T10:37:29.8552962+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client/Windows-10-tiivistettyn</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e7b/c4c63ef4-f1bf-4be2-8fb2-98964cd89e7b/Windows10tiivistettyna_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 tiivistettyn&#228;]]></video:title>
+        <video:description><![CDATA[Mitk&#228; ovat vaihtoehtoni kympin suhteen kehitt&#228;j&#228;n&#228;? Mik&#228; on UWP ja mihin se k&#228;y ja mihin ei? Mitk&#228; ovat vaihtoehtoni kehitt&#228;&#228; Windows 10 ymp&#228;rist&#246;&#246;n? Ent&#228; mik&#228; on p&#228;ivityspolkuni nykyiselle koodille,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e7b/c4c63ef4-f1bf-4be2-8fb2-98964cd89e7b/Windows10tiivistettyna_mid.mp4</video:content_loc>
+        <video:duration>3204</video:duration>
+        <video:publication_date>2016-04-13T10:25:22.2177469+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Client/Komponenttipohjainen-kehitys-AngularJS-ja-ASPNET-Coren-kanssa</loc>
+      <lastmod>2016-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b8e/bee498ae-3e00-45fe-879e-8f117a741b8e/komponenttipohjainenkehitys_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Komponenttipohjainen kehitys AngularJS ja ASP.NET Coren kanssa]]></video:title>
+        <video:description><![CDATA[Ison tietoj&#228;rjestelm&#228;n rakentaminen on helppoa. Kuinka onnistua siin&#228; niin, ettei koko j&#228;rjestelm&#228;&#228; tarvitse tehd&#228; alusta alkaen uudestaan joka kolmas vuosi? Tuntuuko silt&#228;, ett&#228; yhden bugin&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b8e/bee498ae-3e00-45fe-879e-8f117a741b8e/komponenttipohjainenkehitys_mid.mp4</video:content_loc>
+        <video:duration>2929</video:duration>
+        <video:publication_date>2016-04-13T09:30:56.1211722+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

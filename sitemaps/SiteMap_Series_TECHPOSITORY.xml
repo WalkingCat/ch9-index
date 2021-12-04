@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/TECHPOSITORY</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/TECHPOSITORY/CICD-pipeline-to-deploy-multi-containers-application-on-Azure-Container-Service-with-Docker-Swarm</loc>
+      <lastmod>2017-08-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/93e9/f37c6323-b003-454d-9083-f6bd6bea93e9/PipelinetodeploymulticontainersapplicationonAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Full CI/CD pipeline to deploy multi-containers application on Azure Container Service with Docker&amp;#8230;]]></video:title>
+        <video:description><![CDATA[In this video Technical Evangelists Julien Corioland &amp;amp; Oguz Pastirmaci walk through a full CI/CD pipeline to deploy multi-containers application on Azure Container Service with Docker Swarm using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/93e9/f37c6323-b003-454d-9083-f6bd6bea93e9/PipelinetodeploymulticontainersapplicationonAzure_mid.mp4</video:content_loc>
+        <video:duration>946</video:duration>
+        <video:publication_date>2017-03-06T07:42:51.2204432+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/TECHPOSITORY/Modern-IT-Management-Featuring-Ed-Baker</loc>
+      <lastmod>2017-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e87c/6850aeb0-3749-4cd5-9c81-c3a323c0e87c/EdBaker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern IT Management Featuring Ed Baker]]></video:title>
+        <video:description><![CDATA[In this Techpository episode, Senior Technical Evangelist Ed Baker demonstrates the ease of managing multiple apps and devices using Microsoft Intune. Ed walks through a few Mobile Device Management&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e87c/6850aeb0-3749-4cd5-9c81-c3a323c0e87c/EdBaker_mid.mp4</video:content_loc>
+        <video:duration>1237</video:duration>
+        <video:publication_date>2016-05-26T19:15:44.0912456+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/TECHPOSITORY/How-to-Automate-Deployment-Using-Octopus-Deploy--VSTS</loc>
+      <lastmod>2017-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0adb/a7201cec-df54-4aea-ac8f-360b1af90adb/Octopus_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Automate Deployment Using Octopus Deploy &amp; VSTS]]></video:title>
+        <video:description><![CDATA[This is a deeper dive on how to practically and technically implement automated deployment best practices, as a follow up to the DevOps &amp;amp; Deployment Automation Best Practices DevOps Dimension&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0adb/a7201cec-df54-4aea-ac8f-360b1af90adb/Octopus_mid.mp4</video:content_loc>
+        <video:duration>1406</video:duration>
+        <video:publication_date>2016-05-12T19:55:26.6672690+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/TECHPOSITORY/Scaling-Jenkins-on-Azure</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c1b8/df09524e-7837-48db-987f-37984013c1b8/Jenkins_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Scaling Jenkins on Azure]]></video:title>
+        <video:description><![CDATA[In this session we will review the state of Continuous Delivery, discuss characteristics of achieving Continuous Delivery at scale and review implementation of Continuous Delivery using Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c1b8/df09524e-7837-48db-987f-37984013c1b8/Jenkins_mid.mp4</video:content_loc>
+        <video:duration>3084</video:duration>
+        <video:publication_date>2016-04-27T22:50:09.6485201+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/09LiveUnitTesting</loc>
+      <lastmod>2018-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e093/ab057c08-eaf5-4e65-b358-27b9c857e093/09LiveUnitTesting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ (Live Unit Testing)]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 的 Live Unit Testing (即時單元測試) 功能，大大的降低撰寫單元測試程式潛在的開發成本，當即時單元測試功能啟動後，所有的單元測試程式都會自動在背景不斷執行，即便程式碼尚未存檔，單元測試還是會自動驗證並即時回饋程式碼的測試執行結果，讓我們可以更流暢的實現 TDD 測試先行開發，提升開發效率與程式品質。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e093/ab057c08-eaf5-4e65-b358-27b9c857e093/09LiveUnitTesting_mid.mp4</video:content_loc>
+        <video:duration>355</video:duration>
+        <video:publication_date>2017-03-13T03:48:54.0542838+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/10LiveArchitectureDependencyValidation</loc>
+      <lastmod>2017-03-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7413/e49d0144-0df8-418e-944a-a2e5c6787413/10LiveArchitectureDependencyValidation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 的即時相依性檢測功能，可以幫助架構師在規劃專案架構時用直覺的圖表進行設計，並搭配 Visual Studio 2017 內建的即時程式碼分析功能 (Live Code Analysis)，在背景即時分析專案中每一段程式碼是否符合專案的架構設計，也能幫助開發團隊成員盡早得知他們所寫的程式碼已經發生了架構違規狀況，大大的降低團隊開發的生產力與軟體品質。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7413/e49d0144-0df8-418e-944a-a2e5c6787413/10LiveArchitectureDependencyValidation_mid.mp4</video:content_loc>
+        <video:duration>400</video:duration>
+        <video:publication_date>2017-03-13T03:48:53.6906444+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/08ExceptionHandling</loc>
+      <lastmod>2018-03-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8069/b374968c-ee6c-4529-a9af-ac88f18e8069/08ExceptionHandling_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - ]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 有了全新的例外狀況處理能力，讓我們在例外狀況發生時可以更清楚掌控問題發生的原因，減少設定監看式或查看物件狀態的時間，提升開發偵錯效率。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8069/b374968c-ee6c-4529-a9af-ac88f18e8069/08ExceptionHandling_mid.mp4</video:content_loc>
+        <video:duration>156</video:duration>
+        <video:publication_date>2017-03-13T03:48:53.1438193+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/07-Run-to-Click</loc>
+      <lastmod>2017-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b84/f8322dfc-4fd0-4b0a-b91e-2540e5557b84/07RunToClick_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - Run to Click]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 全新的偵錯功能 - Run to Click 不但能減少中斷點的設定次數，還可以幫助我們在對程式進行偵錯時，用更直觀的方式控制程式執行，讓我們偵錯更有效率。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b84/f8322dfc-4fd0-4b0a-b91e-2540e5557b84/07RunToClick_mid.mp4</video:content_loc>
+        <video:duration>167</video:duration>
+        <video:publication_date>2017-03-10T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/06IntelliSense</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cb17/05320efa-c94b-4619-a454-a866747ccb17/06IntelliSense_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ IntelliSense ]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 強大的 IntelliSense 與編輯器功能增強，可以幫助我們在撰寫 C# / VB.NET 與 JavaScript 的時候更有效率，本影片將實例展示各項程式編輯器能力。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cb17/05320efa-c94b-4619-a454-a866747ccb17/06IntelliSense_mid.mp4</video:content_loc>
+        <video:duration>423</video:duration>
+        <video:publication_date>2017-02-23T11:58:10.0610106+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/04RoamingExtensionManager</loc>
+      <lastmod>2017-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c14b/3008c7bf-293c-44d9-8392-2877bfb6c14b/04RoamingExtensionManager_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[漫遊擴充管理員可以讓你將常用的 Visual Studio 擴充套件加入「漫遊清單」，讓你在多台開發主機之間管理擴充套件。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c14b/3008c7bf-293c-44d9-8392-2877bfb6c14b/04RoamingExtensionManager_mid.mp4</video:content_loc>
+        <video:duration>177</video:duration>
+        <video:publication_date>2017-02-01T20:10:09.1961924+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/05EditorConfig</loc>
+      <lastmod>2017-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f979/653cbf38-c470-493e-b124-591c85a4f979/05EditorConfig_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ EditorConfig ]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 支援 EditorConfig 設定檔，可以幫助開發團隊共用一致的編輯器設定。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f979/653cbf38-c470-493e-b124-591c85a4f979/05EditorConfig_mid.mp4</video:content_loc>
+        <video:duration>482</video:duration>
+        <video:publication_date>2017-01-25T08:53:25.3991589+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/03OpenFolder</loc>
+      <lastmod>2017-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b3b/f40fea7e-765b-41b1-a22e-fdf2a3c16b3b/03OpenFolder_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 的開啟資料夾模式可以開啟任意專案，針對那些不需要方案檔或專案檔的專案類型，如 C&amp;#43;&amp;#43;, Python 或 Node.js 等專案，也可以利用 Visual Studio 2017 提供的 IntelliSense、偵錯、程式碼導覽等功能。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b3b/f40fea7e-765b-41b1-a22e-fdf2a3c16b3b/03OpenFolder_mid.mp4</video:content_loc>
+        <video:duration>299</video:duration>
+        <video:publication_date>2017-01-21T04:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/02CodeNavigation</loc>
+      <lastmod>2017-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f10a/0fe7178c-e1c1-4434-8b0f-d1988300f10a/02CodeNavigation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[程式碼導覽功能在 Visual Studio 2017 有許多亮點，本影片展示結構輔助線 (Structure Guide Lines)、上一個方法/下一個方法、全新的「移至」功能 ( Go To)、尋找所有參考 (Find All References) (Shift&amp;#43;F12) 等全新能力。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f10a/0fe7178c-e1c1-4434-8b0f-d1988300f10a/02CodeNavigation_mid.mp4</video:content_loc>
+        <video:duration>443</video:duration>
+        <video:publication_date>2017-01-14T06:46:46.6828955+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/five-minutes-VS-2017/install</loc>
+      <lastmod>2018-05-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5735/02e317fa-69e4-4583-891e-bd9090725735/install_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[全新的安裝體驗，最小安裝體積甚至不到 750 MB! 十分鐘內即可裝好 Web &amp;amp; Azure 開發基本配備，快來看保哥介紹吧！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5735/02e317fa-69e4-4583-891e-bd9090725735/install.mp4</video:content_loc>
+        <video:duration>284</video:duration>
+        <video:publication_date>2017-01-07T16:48:13.5513386+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

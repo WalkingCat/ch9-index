@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Mobility-in-Education</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Mobility-in-Education/Windows-10-for-Education-Student</loc>
+      <lastmod>2016-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a50e/e315bb8c-069e-446f-900c-d93aebfca50e/MSmobilityineduStudents_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 for Education - Student]]></video:title>
+        <video:description><![CDATA[Join this session to learn about the value proposition of Windows in Education. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a50e/e315bb8c-069e-446f-900c-d93aebfca50e/MSmobilityineduStudents_mid.mp4</video:content_loc>
+        <video:duration>1041</video:duration>
+        <video:publication_date>2016-01-19T10:26:37.4254640+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

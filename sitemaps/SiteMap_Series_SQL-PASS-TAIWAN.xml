@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-PASS-TAIWAN</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-PASS-TAIWAN/20150730</loc>
+      <lastmod>2015-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/73d5/e7d9c429-1005-4306-a198-d70886a073d5/SQL01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[SQL PASS 七月份聚會邀請到許致學老師為大家帶來用案例探討資料庫設計的重要性 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/73d5/e7d9c429-1005-4306-a198-d70886a073d5/SQL01_mid.mp4</video:content_loc>
+        <video:duration>6405</video:duration>
+        <video:publication_date>2015-10-02T08:38:51.2873484+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-PASS-TAIWAN/SQL-Server-realase-management</loc>
+      <lastmod>2016-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7875/45762a55-e344-4d95-880f-cd72b39b7875/SQLserver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server ]]></video:title>
+        <video:description><![CDATA[本篇課程主要講授基礎 GIT 版控教學及資料層應用程式 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7875/45762a55-e344-4d95-880f-cd72b39b7875/SQLserver_mid.mp4</video:content_loc>
+        <video:duration>7008</video:duration>
+        <video:publication_date>2015-07-02T08:46:23.0737095+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-PASS-TAIWAN/20150129</loc>
+      <lastmod>2016-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03e7/4a2f2aae-faac-4052-9ad6-f4b4fb1d03e7/SQLPASS0129_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - ]]></video:title>
+        <video:description><![CDATA[由 MVP James Fu 主講，將帶您快速上手關於資料庫的必備基本技能，希望對您的學習有所幫助！   欲下載簡報檔請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03e7/4a2f2aae-faac-4052-9ad6-f4b4fb1d03e7/SQLPASS0129_mid.mp4</video:content_loc>
+        <video:duration>5337</video:duration>
+        <video:publication_date>2015-02-06T03:34:28.7786352+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

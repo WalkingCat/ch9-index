@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Hybrid-Infra-ITPro</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Hybrid-Infra-ITPro/Bringing-the-cloud-to-your-Datacentre</loc>
+      <lastmod>2016-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bdd4/27e8107b-9ca7-44f0-b0cf-ecf289a0bdd4/Datacentre_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bringing the cloud to your Datacentre]]></video:title>
+        <video:description><![CDATA[In this session we will introduce the set of technologies that make up Microsoft Software defined datacentre solutions. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bdd4/27e8107b-9ca7-44f0-b0cf-ecf289a0bdd4/Datacentre_mid.mp4</video:content_loc>
+        <video:duration>3592</video:duration>
+        <video:publication_date>2016-05-05T01:41:58.1227805+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Hybrid-Infra-ITPro/Windows-Server-2016-Virtualization</loc>
+      <lastmod>2016-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab61/89d1d244-6811-455d-9e10-8b5bf7d1ab61/Virtulization_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2016 Virtualization]]></video:title>
+        <video:description><![CDATA[In this session we will discuss what&#39;s new in Virtualization in Windows Server 2016 including increases in security and flexibility and improvements in deployment and Hyper-V Containers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab61/89d1d244-6811-455d-9e10-8b5bf7d1ab61/Virtulization_mid.mp4</video:content_loc>
+        <video:duration>3552</video:duration>
+        <video:publication_date>2016-05-05T01:41:41.0688036+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Hybrid-Infra-ITPro/Software-Defined-Storage</loc>
+      <lastmod>2016-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc27/cdf8ce0b-980e-4b05-a8eb-b5e31eadfc27/Storage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Software Defined Storage]]></video:title>
+        <video:description><![CDATA[In this session we will discuss the new storage features in Windows Server 2016 including storage spaces and storage QoS. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc27/cdf8ce0b-980e-4b05-a8eb-b5e31eadfc27/Storage_mid.mp4</video:content_loc>
+        <video:duration>2318</video:duration>
+        <video:publication_date>2016-05-05T01:41:14.1505610+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

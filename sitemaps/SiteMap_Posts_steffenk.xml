@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Mit-Java-auf-SQL-Server-zugreifen</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.ch9.ms/ch9/dfc5/7d74922c-f6d8-4239-9d19-9e6e0117dfc5/MitJavaaufSQLServerZugreifen_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mit Java auf SQL Server zugreifen]]></video:title>
+        <video:description><![CDATA[ Dieser Webcast von Holger Sirtl gibt einen kurzen &#220;berblick &#252;ber die M&#246;glichkeiten mit Hilfe des JDBC-Treibers auf SQL Server und SQL Azure aus Java-Programmen heraus zuzugreifen. Erl&#228;utert werden&amp;#8230;]]></video:description>
+        <video:content_loc>http://files.ch9.ms/ch9/dfc5/7d74922c-f6d8-4239-9d19-9e6e0117dfc5/MitJavaaufSQLServerZugreifen_high_ch9.mp4</video:content_loc>
+        <video:duration>1408</video:duration>
+        <video:publication_date>2011-01-17T17:57:36.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Mit-PHP-auf-SQL-Server-und-SQL-Azure-zugreifen</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1184/c7da5f34-1c9d-41a4-9405-9e4e00a51184/PHPSQLServer_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mit PHP auf SQL Server und SQL Azure zugreifen]]></video:title>
+        <video:description><![CDATA[ In diesem Webcast zeige ich, wie einfach es ist mit PHP auf SQL Server zuzugreifen. Ich stelle den neuen PHP Treiber f&#252;r SQL Server 2.0 (incl. PDO Treiber) vor, zeige Spatial und Reporting Services&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1184/c7da5f34-1c9d-41a4-9405-9e4e00a51184/PHPSQLServer_high_ch9.mp4</video:content_loc>
+        <video:duration>2792</video:duration>
+        <video:publication_date>2010-12-16T21:33:22.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Access-Services-in-SharePoint-Server-2010</loc>
+      <lastmod>2010-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4748/0a4f822a-2d56-4da2-a988-9e4801074748/AccessServicesDeutsch_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Access Services in SharePoint Server 2010]]></video:title>
+        <video:description><![CDATA[ Microsoft Access ist ein sehr beliebtes Werkzeug f&#252;r die schnelle Erstellung von Anwendungen durch Fachbenutzer. Mit den Access Services in SharePoint Server 2010 k&#246;nnen Access-Anwendungen jetzt&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4748/0a4f822a-2d56-4da2-a988-9e4801074748/AccessServicesDeutsch_high_ch9.mp4</video:content_loc>
+        <video:duration>2153</video:duration>
+        <video:publication_date>2010-12-10T22:49:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/SharePoint-Foundation-2010-einrichten-mit-Authentifizierung-gegen-eine-SQL-Datenbank</loc>
+      <lastmod>2010-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5f90/cbe9679b-07c9-4458-9a8c-9e4800e45f90/DemoSharePointFoundationmitSQLAuth_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Foundation 2010 einrichten mit Authentifizierung gegen eine SQL Datenbank]]></video:title>
+        <video:description><![CDATA[ In diesem Webcast demonstrieren wir das komplette Aufsetzen von SharePoint Foundation 2010 mit formularbasierter Authentifizierung gegen eine SQL-Datenbank. Alle notwendigen Schritte vom leeren&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5f90/cbe9679b-07c9-4458-9a8c-9e4800e45f90/DemoSharePointFoundationmitSQLAuth_high_ch9.mp4</video:content_loc>
+        <video:duration>2881</video:duration>
+        <video:publication_date>2010-12-10T15:59:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/SQL-Server-Stored-Procedures-debuggen</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9268/d7b6b6f0-a621-43ec-ab26-9e2100bd9268/SQLServerStoredProceduresDebuggen_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server Stored Procedures debuggen]]></video:title>
+        <video:description><![CDATA[ In diesem Webcast zeigt Martin Vollmer, wie man Stored Procedures in SQL Server Management Studio und Visual Studio debuggen kann ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9268/d7b6b6f0-a621-43ec-ab26-9e2100bd9268/SQLServerStoredProceduresDebuggen_ch9.mp4</video:content_loc>
+        <video:duration>950</video:duration>
+        <video:publication_date>2010-11-01T11:40:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/SQL-Server-Stored-Procedures-erstellen</loc>
+      <lastmod>2013-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/307d/1703d2d6-58f8-408f-af11-adbe97c6307d/SQL-Server-Stored-Procedures-erstellen_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server Stored Procedures erstellen ]]></video:title>
+        <video:description><![CDATA[ In diesem Video erkl&#228;rt Martin Vollmer, wie man Stored Procedures in Microsoft SQL Server schreibt. Anhand von anschaulichen Beispielen bekommen Sie Antworten auf diese Fragen und somit einen guten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/307d/1703d2d6-58f8-408f-af11-adbe97c6307d/SQL-Server-Stored-Procedures-erstellen_mid.mp4</video:content_loc>
+        <video:duration>1277</video:duration>
+        <video:publication_date>2010-10-18T14:23:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Objekte-anlegen-in-SQL-Server-Management-Studio</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2271/d47d65f4-af81-4daf-a204-9e1000d82271/SQLServerObjekteErstellen_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Objekte anlegen in SQL Server Management Studio]]></video:title>
+        <video:description><![CDATA[ In dieser Demo erkl&#228;rt Martin Vollmer, wie man mithilfe des SQL Management Studio Datenbankobjekte anlegen und verwalten kann. Konkret wird dies an einem Beispiel zum Beispiel das Anlegen einer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2271/d47d65f4-af81-4daf-a204-9e1000d82271/SQLServerObjekteErstellen_ch9.mp4</video:content_loc>
+        <video:duration>1234</video:duration>
+        <video:publication_date>2010-10-16T06:43:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

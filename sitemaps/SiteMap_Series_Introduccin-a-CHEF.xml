@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-II-Uso-de-CHEF-en-Windows-DEMO</loc>
+      <lastmod>2015-10-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba86/c0e13968-92c5-4583-9558-07965cbdba86/Mod2CHEFWindowsDEMO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Uso de CHEF en Windows DEMO]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestra c&#243;mo utilizar CHEF en la plataforma Windows y se muestran varios ejemplos pr&#225;cticos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba86/c0e13968-92c5-4583-9558-07965cbdba86/Mod2CHEFWindowsDEMO_mid.mp4</video:content_loc>
+        <video:duration>3076</video:duration>
+        <video:publication_date>2015-09-30T20:53:10.3506086+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-III-Uso-de-CHEF-en-Linux-DEMO</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b34e/3b5b9fc5-28d0-4edf-abec-799e83fab34e/Mod3CHEFENLINUXDEMO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Uso de CHEF en Linux DEMO]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestra c&#243;mo utilizar CHEF en la plataforma Linux y se muestran varios ejemplos pr&#225;cticos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b34e/3b5b9fc5-28d0-4edf-abec-799e83fab34e/Mod3CHEFENLINUXDEMO_mid.mp4</video:content_loc>
+        <video:duration>2211</video:duration>
+        <video:publication_date>2015-09-30T20:36:51.8776396+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-IV-Uso-de-CHEF-con-Microsoft-Azure</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba9f/ae906864-28d8-49b4-b2e9-a0f22bddba9f/Mod4CHEFAzureINTRO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Uso de CHEF con Microsoft Azure]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestra c&#243;mo integrar CHEF con la plataforma de nube Microsoft Azure y c&#243;mo se pueden crear recetas para aprovisionar recursos en Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba9f/ae906864-28d8-49b4-b2e9-a0f22bddba9f/Mod4CHEFAzureINTRO_mid.mp4</video:content_loc>
+        <video:duration>192</video:duration>
+        <video:publication_date>2015-09-30T20:30:25.8033851+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-III-Uso-de-CHEF-en-Linux</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ad8d/bbca4373-6adc-428a-ad58-f2afadb4ad8d/Mod3CHEFLinuxINTRO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Uso de CHEF en Linux]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestra c&#243;mo utilizar CHEF en la plataforma Linux y se muestran varios ejemplos pr&#225;cticos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ad8d/bbca4373-6adc-428a-ad58-f2afadb4ad8d/Mod3CHEFLinuxINTRO_mid.mp4</video:content_loc>
+        <video:duration>149</video:duration>
+        <video:publication_date>2015-09-30T20:28:08.9044648+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-IV-Uso-de-CHEF-con-Microsoft-Azure-DEMO</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e47b/299b0abe-5a5a-4472-9826-54368fb5e47b/Mod4CHEFAZUREDEMO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Uso de CHEF con Microsoft Azure DEMO]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestra c&#243;mo integrar CHEF con la plataforma de nube Microsoft Azure y c&#243;mo se pueden crear recetas para aprovisionar recursos en Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e47b/299b0abe-5a5a-4472-9826-54368fb5e47b/Mod4CHEFAZUREDEMO_mid.mp4</video:content_loc>
+        <video:duration>3163</video:duration>
+        <video:publication_date>2015-09-30T20:17:43.0047535+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-II-Uso-de-CHEF-en-Windows</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af47/df8d0a4e-df07-4b4c-85d1-b6cc7cbdaf47/Mod2CHEFWindowsINTRO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Uso de CHEF en Windows]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se muestra c&#243;mo utilizar CHEF en la plataforma Windows y se muestran varios ejemplos pr&#225;cticos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af47/df8d0a4e-df07-4b4c-85d1-b6cc7cbdaf47/Mod2CHEFWindowsINTRO_mid.mp4</video:content_loc>
+        <video:duration>136</video:duration>
+        <video:publication_date>2015-09-30T20:15:40.9334988+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-CHEF/Mdulo-I-Introduccin-a-CHEF</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91c2/0cb135fd-5ab4-43ae-9a57-6f88af7291c2/Mod1IntroduccionCHEFINTRO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Introducci&#243;n a CHEF]]></video:title>
+        <video:description><![CDATA[Aprenda qu&#233; es CHEF y qu&#233; puede hacer con esta herramienta para tener una gesti&#243;n &#243;ptima de su infraestructura de IT. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91c2/0cb135fd-5ab4-43ae-9a57-6f88af7291c2/Mod1IntroduccionCHEFINTRO_mid.mp4</video:content_loc>
+        <video:duration>947</video:duration>
+        <video:publication_date>2015-09-30T20:15:21.4106665+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

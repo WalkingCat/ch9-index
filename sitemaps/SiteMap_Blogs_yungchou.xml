@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/yungchou</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/yungchou/TIY-P2S-Step-3</loc>
+      <lastmod>2018-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b49/1d30fe1b-ad9e-4d6e-af34-218218079b49/yungchouP2SStep3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Try It Yourself - P2S Step 3: Configure Your VPN Client]]></video:title>
+        <video:description><![CDATA[This video steps through the operations described in the step 3, Configure your VPN client, of the Azure documentation, Configure a Point-to-Site VPN connection to a Virtual Network. [00:42] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b49/1d30fe1b-ad9e-4d6e-af34-218218079b49/yungchouP2SStep3_mid.mp4</video:content_loc>
+        <video:duration>330</video:duration>
+        <video:publication_date>2015-08-03T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/yungchou/TIY-P2S-Step-2</loc>
+      <lastmod>2017-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9bfc/bf8f07a1-9b81-4be7-ba02-8840f63b9bfc/yungchouP2SStep2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Try It Yourself - P2S Step 2: Create a Root-Client Certificate Pair]]></video:title>
+        <video:description><![CDATA[This video steps through the operations described in the step 2, Create your certificates, of the Azure documentation, Configure a Point-to-Site VPN connection to a Virtual Network. [00:38] - How to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9bfc/bf8f07a1-9b81-4be7-ba02-8840f63b9bfc/yungchouP2SStep2_mid.mp4</video:content_loc>
+        <video:duration>372</video:duration>
+        <video:publication_date>2015-08-03T14:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/yungchou/TIY-P2S-Step-1</loc>
+      <lastmod>2015-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e151/a6cba4fc-32dc-4b95-9214-b91cda06e151/yungchouP2SStep1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Try It Yourself - P2S Step 1: Configure a Virtual Network with a Dynamic Routing Gateway]]></video:title>
+        <video:description><![CDATA[This video steps through the operations described in the step 1, Create a virtual network and a VPN gateway, of the Azure documentation, Configure a Point-to-Site VPN connection to a Virtual Network.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e151/a6cba4fc-32dc-4b95-9214-b91cda06e151/yungchouP2SStep1_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2015-08-03T14:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/yungchou/Try-It-Yourself-Configure-an-Azure-VNet-to-VNet-Connection</loc>
+      <lastmod>2015-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ed8/e056906b-f765-44b1-a72b-cc9d885a6ed8/yungchouVnet2Vnet_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Try It Yourself - Configure an Azure VNet to VNet Connection]]></video:title>
+        <video:description><![CDATA[Vet-to-vent is an interesting and realistic scenario when connecting resources of branch offices, organizations, partners, etc. The above recoriding includes the processes and operations to establish&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ed8/e056906b-f765-44b1-a72b-cc9d885a6ed8/yungchouVnet2Vnet_mid.mp4</video:content_loc>
+        <video:duration>603</video:duration>
+        <video:publication_date>2015-07-23T14:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

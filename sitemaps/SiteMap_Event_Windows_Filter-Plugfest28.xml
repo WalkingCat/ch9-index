@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows/Filter-Plugfest28</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows/Filter-Plugfest28/Project-Centennial-and-File-System-View</loc>
+      <lastmod>2016-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/038a/ce1f69b9-cb77-4dfc-b75e-cea0697e038a/Centennial_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Project Centennial and File System View]]></video:title>
+        <video:description><![CDATA[Enabling existing desktop applications (Win32, .NET, etc.) to become part of the Universal Windows Platform (UWP) ecosystem is a key part of the Windows 10 vision. This session will cover the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/038a/ce1f69b9-cb77-4dfc-b75e-cea0697e038a/Centennial.mp4</video:content_loc>
+        <video:duration>3289</video:duration>
+        <video:publication_date>2016-05-27T20:32:25.9575801+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows/Filter-Plugfest28/Driver-Certification-on-Windows-Client-and-Server</loc>
+      <lastmod>2018-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdbf/771b09cc-41bd-4f88-9b3a-ff0e8c54cdbf/DriverCertification_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Driver Certification on Windows Client and Server]]></video:title>
+        <video:description><![CDATA[Windows Client Driver CertificationAbstract: This session will cover updates to Windows 10 driver signing requirements and details on the HyperVisor Code Integrity Readiness Test Windows Server Driver&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdbf/771b09cc-41bd-4f88-9b3a-ff0e8c54cdbf/DriverCertification.mp4</video:content_loc>
+        <video:duration>4110</video:duration>
+        <video:publication_date>2016-05-27T20:26:40.6051298+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows/Filter-Plugfest28/Storage-Class-Memory-and-impact-of-file-system-filters</loc>
+      <lastmod>2016-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd2f/702ab461-07e1-49f1-8535-96b30bcafd2f/SCM_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage-Class-Memory-and-impact-of-file-system-filters]]></video:title>
+        <video:description><![CDATA[Storage Class Memory (SCM) has finally become a reality in the marketplace.  With the availability of flash backed DIMMs and the announcement of 3D XPoint as well other technologies; products are now&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd2f/702ab461-07e1-49f1-8535-96b30bcafd2f/SCM_mid.mp4</video:content_loc>
+        <video:duration>2049</video:duration>
+        <video:publication_date>2016-05-27T20:24:36.9711199+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

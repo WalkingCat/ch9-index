@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/05--Hosted-Web-App</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/07f6/499ed91f-d36d-4721-bc67-ef1c2e5f07f6/MVAA4D06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 // Hosted Web App]]></video:title>
+        <video:description><![CDATA[MVA - Azure4DreamSpark // Hosted Web App Con le Hosted Web App &#232; possibile, avendo a diposizione semplicemente la URL del sito interessato, creare un&#39;applicazione mobile. Vi mostriamo come. Per avere&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07f6/499ed91f-d36d-4721-bc67-ef1c2e5f07f6/MVAA4D06_mid.mp4</video:content_loc>
+        <video:duration>2364</video:duration>
+        <video:publication_date>2016-02-19T16:13:57.5849245+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/04--Creare-Web-App-con-il-template-di-Wordpress</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc40/98b153e4-5e62-4786-b878-1cdeaf39cc40/MVAA4D05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 // Creare Web App con il template di Wordpress]]></video:title>
+        <video:description><![CDATA[MVA - Azure4DreamSpark // Creare Web App con il template di Wordpress Vediamo come usare i template preconfigurati delle Web App Azure per creare siti web e come &#232; possibile personalizzarli&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc40/98b153e4-5e62-4786-b878-1cdeaf39cc40/MVAA4D05_mid.mp4</video:content_loc>
+        <video:duration>1067</video:duration>
+        <video:publication_date>2016-02-19T16:13:40.8098817+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/03--Creare-Web-App-con-PHP--MySQL-via-FTP</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc07/deb635a4-ada5-4f83-a4f4-51769456fc07/MVAA4D04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 // Creare Web App con PHP + MySQL via FTP]]></video:title>
+        <video:description><![CDATA[MVA - Creare Web App con PHP &amp;#43; MySQL via FTP In questo modulo utilizzeremo PHP per lo sviluppo del codice dell&#39;applicazione, un database MySQL e un client FTP per la distribuzione del codice nel&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc07/deb635a4-ada5-4f83-a4f4-51769456fc07/MVAA4D04_mid.mp4</video:content_loc>
+        <video:duration>663</video:duration>
+        <video:publication_date>2016-02-19T16:13:16.5080773+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/02--Creare-Web-App-con-ASPNET-MVC--MySQL-in-Visual-Studio</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a013/581086fe-6757-4e2a-8bc0-aaa7833ba013/MVAA4D03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 // Creare Web App con ASP.NET MVC + MySQL in Visual Studio]]></video:title>
+        <video:description><![CDATA[MVA - Creare Web App con ASP.NET MVC &amp;#43; MySQL in Visual Studio In questo modulo vediamo come scrivere il codice delle nostre applicazioni web, da distribuire su Azure utilizzando ASP.NET MVC e&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a013/581086fe-6757-4e2a-8bc0-aaa7833ba013/MVAA4D03_mid.mp4</video:content_loc>
+        <video:duration>1418</video:duration>
+        <video:publication_date>2016-02-19T16:12:50.1459152+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/01--Azure-Web-App</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5ea/559b528d-0b8c-4de3-aedb-e72209c2d5ea/MVAA4D02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 // Azure Web App]]></video:title>
+        <video:description><![CDATA[MVA - Azure4DreamSpark // Hosted Web App In questo modulo vi mostreremo come creare una Web App su Microsoft Azure, le informazioni da fornire in fase di configurazione e come questa pu&#242; essere&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5ea/559b528d-0b8c-4de3-aedb-e72209c2d5ea/MVAA4D02_mid.mp4</video:content_loc>
+        <video:duration>1320</video:duration>
+        <video:publication_date>2016-02-19T16:10:46.8598457+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/00--Introduzione-a-Azure4Dreamspark</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ca5/34ad0589-803b-40a5-bc31-25563f5a1ca5/MVAA4D01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[00 // Introduzione a Azure4Dreamspark]]></video:title>
+        <video:description><![CDATA[MVA - Azure4DreamSpark // Introduzione a Azure for DreamSpark Dopo un&#39;introduzione all&#39;offerta Azure per gli studenti messa a disposizione tramite DreamSpark ed un&#39;introduzione al cloud, vedremo come&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ca5/34ad0589-803b-40a5-bc31-25563f5a1ca5/MVAA4D01_mid.mp4</video:content_loc>
+        <video:duration>1930</video:duration>
+        <video:publication_date>2016-02-19T16:01:48.0342599+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Azure4Dreamspark/Attivare-DreamSpark</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/daca/fe931f11-6173-4aac-ba3d-6e4d06f5daca/MVAA4D00_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Attivare DreamSpark]]></video:title>
+        <video:description><![CDATA[MVA - Azure4DreamSpark // Attivare DreamSpark Tutorial per l&#39;attivazione dell&#39;offerta per studenti DreamSpark Per avere le tue risorse gratuite il link &#232; aka.ms/azure4dreamspark    Speakers: Jessica&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/daca/fe931f11-6173-4aac-ba3d-6e4d06f5daca/MVAA4D00_mid.mp4</video:content_loc>
+        <video:duration>538</video:duration>
+        <video:publication_date>2016-02-19T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MEA-DX-News</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MEA-DX-News/MEA-DX-Windows-10-Adaptive-UI</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/530a/86e012c7-5ce5-4e70-8851-09d6536b530a/MEADXWindows10AdaptiveUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEA DX - Windows 10 Adaptive UI]]></video:title>
+        <video:description><![CDATA[MEA DX - Windows 10 Adaptive UI   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/530a/86e012c7-5ce5-4e70-8851-09d6536b530a/MEADXWindows10AdaptiveUI_mid.mp4</video:content_loc>
+        <video:duration>3329</video:duration>
+        <video:publication_date>2016-01-12T11:59:32.2528907+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MEA-DX-News/MEA-DX-Windows-10-Universal-Windows-Platform</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f7c/fd90b77f-0b55-45c8-b591-6122dc908f7c/Windows10UniversalWindowsPlatform_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEA DX - Windows 10 Universal Windows Platform ]]></video:title>
+        <video:description><![CDATA[Windows 10 Universal Windows Platform ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f7c/fd90b77f-0b55-45c8-b591-6122dc908f7c/Windows10UniversalWindowsPlatform_mid.mp4</video:content_loc>
+        <video:duration>3484</video:duration>
+        <video:publication_date>2016-01-12T11:58:49.8068783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MEA-DX-News/MEA-Build-Update</loc>
+      <lastmod>2015-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ad49/9454e1e2-20f1-4cd2-a420-8934d5b2ad49/Build2015MEARecap_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEA Build Update]]></video:title>
+        <video:description><![CDATA[Build 2015 Recap for Middle East &amp;amp; Africa. Get the latest news regarding Build. Build is covering all Microsoft Platforms - expect rich new content and information on Windows, Azure, Office 365&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ad49/9454e1e2-20f1-4cd2-a420-8934d5b2ad49/Build2015MEARecap_mid.mp4</video:content_loc>
+        <video:duration>957</video:duration>
+        <video:publication_date>2015-05-01T18:57:51.7182256+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

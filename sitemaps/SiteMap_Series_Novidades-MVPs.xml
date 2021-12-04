@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Novidades-MVPs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Novidades-MVPs/Build-Tour-SP-2015</loc>
+      <lastmod>2017-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a922/64f8dc56-0e39-48b3-8dac-95148029a922/MVPBuild_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVPs da Microsoft comentam o MS Build Tour SP 2015]]></video:title>
+        <video:description><![CDATA[MVPs da Microsoft comentam as principais novidades do evento internacional da MS Build Tour SP, realizado no Allianz Arena em 21 de maio de 2015. O //build &#233; um evento importante para todos os&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a922/64f8dc56-0e39-48b3-8dac-95148029a922/MVPBuild.mp4</video:content_loc>
+        <video:duration>5179</video:duration>
+        <video:publication_date>2015-09-23T13:44:56.1515771+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

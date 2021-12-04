@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developer-Productivity-Whats-New-in-C-6</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developer-Productivity-Whats-New-in-C-6/05</loc>
+      <lastmod>2015-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3fd7/0f6756a2-d49c-408b-acd4-3e7f733b3fd7/726DevProdWhatsNewCsharp6M05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Productivity: What&#39;s New in C# 6: (05) Adopting C# 6]]></video:title>
+        <video:description><![CDATA[Find out how to put the features into practice, and see some of the idioms that make null conditionals amazingly useful. Explore how features interrelate with each other, and look at some improvements&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3fd7/0f6756a2-d49c-408b-acd4-3e7f733b3fd7/726DevProdWhatsNewCsharp6M05_mid.mp4</video:content_loc>
+        <video:duration>3089</video:duration>
+        <video:publication_date>2015-03-25T17:16:55.3817355+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developer-Productivity-Whats-New-in-C-6/04</loc>
+      <lastmod>2016-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c9e1/a6444384-99cc-4355-92e5-3fbb4463c9e1/726DevProdWhatsNewCsharp6M04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Productivity: What&#39;s New in C# 6: (04) Exceptions and Error Handling]]></video:title>
+        <video:description><![CDATA[Get the details on Exception Filters and on Await in Catch and Finally features, which give us more robust idioms when we encounter problems. [08:53] - Exception Filters[30:37] - Await in Catch and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c9e1/a6444384-99cc-4355-92e5-3fbb4463c9e1/726DevProdWhatsNewCsharp6M04_mid.mp4</video:content_loc>
+        <video:duration>2881</video:duration>
+        <video:publication_date>2015-03-25T17:16:44.1432586+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developer-Productivity-Whats-New-in-C-6/03</loc>
+      <lastmod>2016-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5bce/ff6a8e34-8cfb-4b26-be56-21599d505bce/726DevProdWhatsNewCsharp6M03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Productivity: What&#39;s New in C# 6: (03) String Handling]]></video:title>
+        <video:description><![CDATA[Learn about ​Nameof and String interpolation features, which make it easier to work with mixed symbols and strings in modern programs. [04:30] - NameOf[20:05] - String interpolation]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5bce/ff6a8e34-8cfb-4b26-be56-21599d505bce/726DevProdWhatsNewCsharp6M03_mid.mp4</video:content_loc>
+        <video:duration>3546</video:duration>
+        <video:publication_date>2015-03-25T17:16:33.3686318+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developer-Productivity-Whats-New-in-C-6/02</loc>
+      <lastmod>2016-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9c99/8d2c37c6-ebca-4934-8aaf-96728e289c99/726DevProdWhatsNewCsharp6M02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Productivity: What&#39;s New in C# 6: (02) Data Transfer Object Support]]></video:title>
+        <video:description><![CDATA[Learn about Readonly Properties and Dictionary Initializers, features in C# which make it easier to create Data Transfer Object types concisely and correctly, as we do so with the purpose of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9c99/8d2c37c6-ebca-4934-8aaf-96728e289c99/726DevProdWhatsNewCsharp6M02_mid.mp4</video:content_loc>
+        <video:duration>2654</video:duration>
+        <video:publication_date>2015-03-25T17:16:22.0743115+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developer-Productivity-Whats-New-in-C-6/01</loc>
+      <lastmod>2015-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0636/afc4f9fa-8910-4e78-a3d2-426aebc90636/726DevProdWhatsNewCsharp6M01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Productivity: What&#39;s New in C# 6: (01) C# Productivity, Conciseness]]></video:title>
+        <video:description><![CDATA[Focus on three C# features that can make your code more concise and easier to read and understand: Expression Bodied Members, Static Usings, and Null Condtionals. [18:34] - Expression Bodied Members]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0636/afc4f9fa-8910-4e78-a3d2-426aebc90636/726DevProdWhatsNewCsharp6M01_mid.mp4</video:content_loc>
+        <video:duration>2771</video:duration>
+        <video:publication_date>2015-03-25T17:16:10.9981963+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Milad-s-G33K-Corner</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Milad-s-G33K-Corner/MEA-Services-Webcast-Series</loc>
+      <lastmod>2014-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Milad-s-G33K-Corner/Microsoft-Summit-Deploying-and-Managing-Windows-81-in-the-Real-World</loc>
+      <lastmod>2014-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7da7/81083227-d29a-4286-bba6-505bb7857da7/Milad_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Summit: Deploying and Managing Windows 8.1 in the Real World]]></video:title>
+        <video:description><![CDATA[What does it take for organizations to deploy and manage Windows 8? Walk through the entire process during this session.Understand what has changed in Windows 8, how to prepare for a Windows 8&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7da7/81083227-d29a-4286-bba6-505bb7857da7/Milad_mid.mp4</video:content_loc>
+        <video:duration>2479</video:duration>
+        <video:publication_date>2013-12-16T07:39:14.3697036+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Milad-s-G33K-Corner/TechNet-Conference-How-many-coffee-can-you-drink-till-your-PC-starts</loc>
+      <lastmod>2013-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/SQL-Server-2005-End-of-Life-Migration-Tools</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/789b/ee231b02-2c43-41d1-ac7f-fb5f2f5a789b/sqlserver2005eolsarahb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2005 End of Life Migration Tools]]></video:title>
+        <video:description><![CDATA[SQL Server 2005 End of Service Guidance Document https://www.yammer.com/hostingproviderscommunity/#/files/57149532  (Note: You will need to sign up for Yammer and the Hosting Service Provider&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/789b/ee231b02-2c43-41d1-ac7f-fb5f2f5a789b/sqlserver2005eolsarahb_mid.mp4</video:content_loc>
+        <video:duration>596</video:duration>
+        <video:publication_date>2016-04-29T02:53:39.2132203+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/Edge-Cloud--United-Data-Technologies</loc>
+      <lastmod>2015-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/99ce/0f850c70-2eb7-4af5-a611-96602cec99ce/edgecloudWPC2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Edge Cloud / United Data Technologies]]></video:title>
+        <video:description><![CDATA[Edge Cloud / United Data Technologies case study video from WPC 2015 Contact edgecloud@Microsoft.com for more information how Managed Service Providers can provide Hybrid Cloud services to their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99ce/0f850c70-2eb7-4af5-a611-96602cec99ce/edgecloudWPC2015_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2015-07-14T15:28:36.7660566+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/ORK-Demonstration-version-2-5</loc>
+      <lastmod>2014-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/823d/e7d1ce6f-ccad-46c0-9c5c-acfa9d68823d/orkdemo25_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ORK Demonstration version 2.5]]></video:title>
+        <video:description><![CDATA[This is the latest demonstration video for the Service Provider Operational Readiness Kit version 2.5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/823d/e7d1ce6f-ccad-46c0-9c5c-acfa9d68823d/orkdemo25_mid.mp4</video:content_loc>
+        <video:duration>864</video:duration>
+        <video:publication_date>2014-08-17T19:48:50.0270948+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/orktool</loc>
+      <lastmod>2014-02-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ba5/45f7ecb4-84dd-47d6-97c1-df63ff967ba5/orktoolchannel9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ORK Tool: Create New Deployment]]></video:title>
+        <video:description><![CDATA[This video demonstrates how to create a new deployment using the Service Provider Operational Readiness Kit. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ba5/45f7ecb4-84dd-47d6-97c1-df63ff967ba5/orktoolchannel9_mid.mp4</video:content_loc>
+        <video:duration>758</video:duration>
+        <video:publication_date>2014-01-25T16:40:09.9262896+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

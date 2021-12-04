@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-special</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-special/sessionA</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/474f4337-3dec-49e4-82ed-b8a85de170fc.png</video:thumbnail_loc>
+        <video:title><![CDATA[ Visual Studio ]]></video:title>
+        <video:description><![CDATA[新しい無償製品やクロス プラットフォーム開発の強化によりアプリ開発が大きく広がる Visual Studio 2015 において、その開発の世界観と今後のアプリ開発の方向性をご説明します。 ]]></video:description>
+        <video:content_loc>http://download.microsoft.com/download/2/6/5/26594F57-8BC0-43D9-A6F0-BAB8716854AC/SessionA.mp4</video:content_loc>
+        <video:publication_date>2015-06-25T09:05:53.3144900+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-special/SessionB</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/84885d34-5818-4d9d-9b56-6b5d132c5fbb.png</video:thumbnail_loc>
+        <video:title><![CDATA[  Visual Studio 2015/.NET 2015 ]]></video:title>
+        <video:description><![CDATA[オープンソース化された新しい .NET Core 5 の登場と共に、クロスプラットフォームの統合開発環境として進化する Visual Studio 2015 のビジョンと特徴をデモを交えて解説します。 ]]></video:description>
+        <video:content_loc>http://download.microsoft.com/download/2/6/5/26594F57-8BC0-43D9-A6F0-BAB8716854AC/SessionB.mp4</video:content_loc>
+        <video:publication_date>2015-06-25T09:05:37.4790790+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-special/SessionC</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/b5288d94-43c1-49db-b2bc-bfe0e92a5e56.png</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2015 ]]></video:title>
+        <video:description><![CDATA[新しい Visual Studio 2015 および Team Foundation Server 2015 における開発、診断、テスト、配置、管理に関する新機能/強化された機能をデモを交えて解説します。 ]]></video:description>
+        <video:content_loc>http://download.microsoft.com/download/2/6/5/26594F57-8BC0-43D9-A6F0-BAB8716854AC/SessionC.mp4</video:content_loc>
+        <video:publication_date>2015-06-25T09:05:12.2273951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-special/sessionD</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/ae17643c-09ef-476a-96fd-fd4f5af35d64.png</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[本セミナーでご紹介する開発環境の関連情報やセルフ トレーニングの情報をお伝えするとともに、パートナー様向けの支援プログラムを紹介いたします。 ]]></video:description>
+        <video:content_loc>http://download.microsoft.com/download/2/6/5/26594F57-8BC0-43D9-A6F0-BAB8716854AC/SessionD.mp4</video:content_loc>
+        <video:publication_date>2015-06-25T09:04:46.2168616+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

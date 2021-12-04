@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique/Description-commune-des-besoins-mtiers</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9142/40af5aa9-8638-41df-8a68-a18283699142/descriptioncommune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Description commune des besoins m&#233;tiers]]></video:title>
+        <video:description><![CDATA[Dans ce module, nous abordons l&#39;importance de partager l&#39;information entre tous les acteurs du projet, et proposons de d&#233;couvrir en d&#233;monstration le syst&#232;me de gestion des t&#226;ches et le suivi de projet&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9142/40af5aa9-8638-41df-8a68-a18283699142/descriptioncommune_mid.mp4</video:content_loc>
+        <video:duration>1053</video:duration>
+        <video:publication_date>2016-06-24T10:56:04.3663156+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique/Introduction--DevOps</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/305f/f1c1214d-f713-47fb-a9a8-d5148c4f305f/introadevops_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction &#224; DevOps]]></video:title>
+        <video:description><![CDATA[Introduction au cours et &#224; DevOps, ses motivations, sa culture et ses processus. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/305f/f1c1214d-f713-47fb-a9a8-d5148c4f305f/introadevops_mid.mp4</video:content_loc>
+        <video:duration>1026</video:duration>
+        <video:publication_date>2016-06-24T10:55:47.4324457+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique/Environnements-de-travail</loc>
+      <lastmod>2018-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/72a0/1da6be38-dc2c-4f1f-bb01-ed15ba1372a0/environementdetravail_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Environnements de travail]]></video:title>
+        <video:description><![CDATA[Ce module permet de comprendre l&#39;&#233;volution du r&#244;le des &amp;quot;Ops&amp;quot;, de comprendre la notion d&#39;Infrastructure as Code et de d&#233;couvrir quelques outils disponibles dans l&#39;environnement Microsoft. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72a0/1da6be38-dc2c-4f1f-bb01-ed15ba1372a0/environementdetravail_mid.mp4</video:content_loc>
+        <video:duration>3419</video:duration>
+        <video:publication_date>2016-06-24T10:55:43.1343828+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique/Source-Control-Management</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5414/ba56d2c7-b39f-42ce-ba42-01117bba5414/sourcecontrol_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Source Control Management]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente le contr&#244;le de code source, son r&#244;le et son utilisation par les d&#233;veloppeurs et les &amp;quot;ops&amp;quot;, associ&#233; aux r&#233;f&#233;rentiels de code source. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5414/ba56d2c7-b39f-42ce-ba42-01117bba5414/sourcecontrol_mid.mp4</video:content_loc>
+        <video:duration>920</video:duration>
+        <video:publication_date>2016-06-24T10:55:40.5234381+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique/Build-et-intgration-continue</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4fe/d69eb7ef-8a98-40bc-82d8-864beb8ab4fe/buildetintegration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build et int&#233;gration continue]]></video:title>
+        <video:description><![CDATA[Ce module d&#233;crit l&#39;int&#233;gration continue (CI), son r&#244;le dans les projets de d&#233;veloppement et comment Visual Studio Team Services permet de mettre en place des sc&#233;narios d&#39;int&#233;gration continue. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4fe/d69eb7ef-8a98-40bc-82d8-864beb8ab4fe/buildetintegration_mid.mp4</video:content_loc>
+        <video:duration>1334</video:duration>
+        <video:publication_date>2016-06-24T10:55:37.1010025+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-en-pratique/Release-Management</loc>
+      <lastmod>2016-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9cf0/64830c8a-4732-4d87-926a-e9f221189cf0/releasemana_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Release Management]]></video:title>
+        <video:description><![CDATA[Ce module d&#233;crit le &amp;quot;release management&amp;quot; et comment il permet de d&#233;ployer des applications en continu, tout en assurant leur qualit&#233;. Le concept est illustr&#233; par sa mise en oeuvre dans Viual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9cf0/64830c8a-4732-4d87-926a-e9f221189cf0/releasemana_mid.mp4</video:content_loc>
+        <video:duration>1651</video:duration>
+        <video:publication_date>2016-06-24T10:53:50.2200372+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

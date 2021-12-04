@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/06</loc>
+      <lastmod>2018-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7289/a9a2202c-cafa-4545-a2ae-189238277289/462DeployManageSP2013PowerShellM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying &amp; Managing SharePoint 2013 with PowerShell: (06) Backups, Restores, and Other Resources]]></video:title>
+        <video:description><![CDATA[Find out how PowerShell can be used to ​create a backup of an entire SharePoint farm, in addition to specific components or farm configuration. Examine how to use PowerShell to manage the restore&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7289/a9a2202c-cafa-4545-a2ae-189238277289/462DeployManageSP2013PowerShellM06_mid.mp4</video:content_loc>
+        <video:duration>827</video:duration>
+        <video:publication_date>2014-12-12T22:17:09.1185420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/05</loc>
+      <lastmod>2017-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9b32/3cd53c2b-5a8d-4151-bba2-15c3ad469b32/462DeployManageSP2013PowerShellM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying &amp; Managing SharePoint 2013 with PowerShell: (05) Troubleshooting]]></video:title>
+        <video:description><![CDATA[Explore how PowerShell can be used to help troubleshoot issues that you may experience with SharePoint 2013, including retrieving the error associated with a correlation ID, viewing and filtering&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b32/3cd53c2b-5a8d-4151-bba2-15c3ad469b32/462DeployManageSP2013PowerShellM05_mid.mp4</video:content_loc>
+        <video:duration>781</video:duration>
+        <video:publication_date>2014-12-12T22:16:04.4683560+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/04</loc>
+      <lastmod>2017-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d71e/e119f846-ecfc-4a50-be88-77e3a760d71e/462DeployManageSP2013PowerShellM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying &amp; Managing SharePoint 2013 with PowerShell: (04) Content Mangement]]></video:title>
+        <video:description><![CDATA[Take a look at how to use PowerShell to manage SharePoint content, including adding a content database to a web app, moving a site collection to a different database, ​and adding a site collection to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d71e/e119f846-ecfc-4a50-be88-77e3a760d71e/462DeployManageSP2013PowerShellM04_mid.mp4</video:content_loc>
+        <video:duration>969</video:duration>
+        <video:publication_date>2014-12-12T22:15:28.7613506+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/03</loc>
+      <lastmod>2017-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ea5/ed66ed3a-9f68-4d51-a0bc-15e968de1ea5/462DeployManageSP2013PowerShellM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying &amp; Managing SharePoint 2013 with PowerShell: (03) Search]]></video:title>
+        <video:description><![CDATA[Examine how to create a search service application (SSA) in SharePoint 2013 using PowerShell, along with how to modify search topologies. Review best practices for organizing search result content.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ea5/ed66ed3a-9f68-4d51-a0bc-15e968de1ea5/462DeployManageSP2013PowerShellM03_mid.mp4</video:content_loc>
+        <video:duration>1559</video:duration>
+        <video:publication_date>2014-12-12T22:15:20.5085038+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/02</loc>
+      <lastmod>2017-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44e3/b1b10727-07a5-4a59-bb6f-b8dffb4a44e3/462DeployManageSP2013PowerShellM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying &amp; Managing SharePoint 2013 with PowerShell: (02) Creating Objects Using PowerShell]]></video:title>
+        <video:description><![CDATA[See how to use PowerShell to create the following SharePoint objects: Web App with parameters, Site Collection, State Service Application, Managed Metadata Service (MMS), and User Profile Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44e3/b1b10727-07a5-4a59-bb6f-b8dffb4a44e3/462DeployManageSP2013PowerShellM02_mid.mp4</video:content_loc>
+        <video:duration>3198</video:duration>
+        <video:publication_date>2014-12-12T22:13:55.7425514+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8376/758be6b3-94ee-47ed-9135-eab408558376/462DeployManageSP2013PowerShellM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying &amp; Managing SharePoint 2013 with PowerShell: (01) Introduction]]></video:title>
+        <video:description><![CDATA[Get an introduction to PowerShell and how it replaces the deprecated SharePoint tool, STSADM, in SharePoint 2013. Learn how SharePoint permissions can be maintained through PowerShell and how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8376/758be6b3-94ee-47ed-9135-eab408558376/462DeployManageSP2013PowerShellM01_mid.mp4</video:content_loc>
+        <video:duration>3096</video:duration>
+        <video:publication_date>2014-12-12T22:13:13.0680708+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

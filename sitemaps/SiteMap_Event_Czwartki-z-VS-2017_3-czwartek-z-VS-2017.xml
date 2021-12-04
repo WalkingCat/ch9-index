@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Czwartki-z-VS-2017/3-czwartek-z-VS-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Czwartki-z-VS-2017/3-czwartek-z-VS-2017/3-Czwartek-z-NET-Core</loc>
+      <lastmod>2017-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/369f/7a4dbb44-dcef-4731-945a-d8164774369f/3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3. Czwartek z .NET (Core)]]></video:title>
+        <video:description><![CDATA[Zapraszamy na 3. Czwartek z .NET! W tym tygodniu Tomasz Kopacz zaprosi do studia Łukasza Pyrzyka i Piotra Gankiewicza, żeby porozmawiać o #dotNET Core:1. Skąd się wziął i do czego służy2. Czym jest&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/369f/7a4dbb44-dcef-4731-945a-d8164774369f/3_mid.mp4</video:content_loc>
+        <video:duration>6583</video:duration>
+        <video:publication_date>2017-04-24T09:47:05.4568910+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Server-Technical-Preview</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Server-Technical-Preview/Hyper-V-minidem</loc>
+      <lastmod>2014-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8912/9fd27884-e61d-4323-b55f-a4a271b48912/WSTPHyperVminidemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hyper-V minidem&#243;]]></video:title>
+        <video:description><![CDATA[Hyper-V minidem&#243; ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8912/9fd27884-e61d-4323-b55f-a4a271b48912/WSTPHyperVminidemo_mid.mp4</video:content_loc>
+        <video:duration>207</video:duration>
+        <video:publication_date>2014-11-05T23:01:03.1596488+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

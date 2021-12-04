@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-Overview</loc>
+      <lastmod>2018-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0494/11698393-8d92-43ed-935a-c065b2b20494/SQLServer2016TKOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016 Overview]]></video:title>
+        <video:description><![CDATA[Scott Klein and Joey D&#39;Antoni provide an overview of the SQL Server 2016 features and enhancements, teasing up many of the features discussed in the other videos as well as covered in the training&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0494/11698393-8d92-43ed-935a-c065b2b20494/SQLServer2016TKOverview_mid.mp4</video:content_loc>
+        <video:duration>526</video:duration>
+        <video:publication_date>2016-06-22T02:05:29.0688023+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-AlwaysOn</loc>
+      <lastmod>2018-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7985/2c77d94b-a889-443e-902e-8968522c7985/SQLServer2016TKAlwaysOn_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Always On in SQL Server 2016 ]]></video:title>
+        <video:description><![CDATA[Scott Klein and Joey D&#39;Antoni discuss and demo the enhancements in Always On Availability Groups in SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7985/2c77d94b-a889-443e-902e-8968522c7985/SQLServer2016TKAlwaysOn_mid.mp4</video:content_loc>
+        <video:duration>424</video:duration>
+        <video:publication_date>2016-06-22T02:00:42.7778326+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-BI</loc>
+      <lastmod>2016-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f551/1e4b9142-77a7-4a0e-93b8-a8a45a5ff551/SQLServer2016TKBUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BI enhancements in SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Scott Klein and Joey D&#39;Antoni discuss and demo the enhancements in SSRS, SSIS, and SSAS in SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f551/1e4b9142-77a7-4a0e-93b8-a8a45a5ff551/SQLServer2016TKBUI_mid.mp4</video:content_loc>
+        <video:duration>376</video:duration>
+        <video:publication_date>2016-06-22T01:56:11.6258644+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-Developer-Enhancements</loc>
+      <lastmod>2018-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/50dc/e976731a-51cd-4867-ac57-8929f1d150dc/SQLServer2016TKDeveloper_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Enhancements in SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Scott Klein and Joey D&#39;Antoni discuss and demo the developer enhancements in SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/50dc/e976731a-51cd-4867-ac57-8929f1d150dc/SQLServer2016TKDeveloper_mid.mp4</video:content_loc>
+        <video:duration>517</video:duration>
+        <video:publication_date>2016-06-22T01:50:55.8671075+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-Security</loc>
+      <lastmod>2017-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b3fc/2b277d38-f03a-4e7e-ac4c-049a5284b3fc/SQLServer2016TKSecurity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Security in SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Scott Klein and Joey D&#39;Antoni discuss and demo the security features and enhancements in SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b3fc/2b277d38-f03a-4e7e-ac4c-049a5284b3fc/SQLServer2016TKSecurity_mid.mp4</video:content_loc>
+        <video:duration>450</video:duration>
+        <video:publication_date>2016-06-22T01:46:42.6539070+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-DBA-Enhancements</loc>
+      <lastmod>2018-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb9e/14fa43f6-7102-423c-bc47-ad6e73d4fb9e/SQLServer2016TKDBAEnhancements_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DBA Enhancements in SQL Server 2016 ]]></video:title>
+        <video:description><![CDATA[Scott Klein and Joey D&#39;Antoni discuss and demo the DBA enhancements in SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb9e/14fa43f6-7102-423c-bc47-ad6e73d4fb9e/SQLServer2016TKDBAEnhancements_mid.mp4</video:content_loc>
+        <video:duration>478</video:duration>
+        <video:publication_date>2016-06-22T01:40:14.2154531+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

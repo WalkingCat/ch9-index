@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Windows-Server-2003-Fine-del-Supporto</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Windows-Server-2003-Fine-del-Supporto/DEMO-Migrare-un-File-Server</loc>
+      <lastmod>2015-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/854f/50fef6db-bf59-4b8b-b699-25e67e09854f/fs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DEMO - Migrare un File Server]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/854f/50fef6db-bf59-4b8b-b699-25e67e09854f/fs_mid.mp4</video:content_loc>
+        <video:duration>819</video:duration>
+        <video:publication_date>2015-01-09T14:01:09.3384614+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Windows-Server-2003-Fine-del-Supporto/Demo-Migrare-un-Domain-Controller</loc>
+      <lastmod>2015-01-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/288f/d1c1b08b-5cc1-4854-8ab2-84be587a288f/dc_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo - Migrare un Domain Controller]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/288f/d1c1b08b-5cc1-4854-8ab2-84be587a288f/dc_mid.mp4</video:content_loc>
+        <video:duration>1156</video:duration>
+        <video:publication_date>2015-01-09T14:00:50.9269389+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Windows-Server-2003-Fine-del-Supporto/Come-affrontare-limminente-termine-del-supporto-di-Windows-Server-2003</loc>
+      <lastmod>2015-01-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f28/55538f99-8c7f-45f0-a42f-8bd5dbcf5f28/intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Come affrontare l&#39;imminente termine del supporto di Windows Server 2003]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f28/55538f99-8c7f-45f0-a42f-8bd5dbcf5f28/intro_mid.mp4</video:content_loc>
+        <video:duration>1804</video:duration>
+        <video:publication_date>2015-01-09T14:00:33.2366267+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

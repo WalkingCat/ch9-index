@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/StrefaMS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/StrefaMS/Zaproszenie-na-kurs-MVA-o-analizie-logow-w-OMS-Co-piszczy-w-Twojej-infrastrukturze</loc>
+      <lastmod>2016-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00db/24720b51-11ed-47fc-b209-be90761400db/PLMVAOMSLogAnalyticsIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Zaproszenie na kurs MVA o analizie log&#243;w w OMS - Co &quot;piszczy&quot; w Twojej infrastrukturze?]]></video:title>
+        <video:description><![CDATA[Zapraszam na szkolenie MVA o analizie log&#243;w za pomocą Azure Log Analytics w ramach pakietu Operations Management Suite. Kurs Co &amp;quot;piszczy&amp;quot; w Twojej infrastrukturze? - OMS prawdę Ci powie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00db/24720b51-11ed-47fc-b209-be90761400db/PLMVAOMSLogAnalyticsIntro_mid.mp4</video:content_loc>
+        <video:duration>64</video:duration>
+        <video:publication_date>2016-06-03T08:47:02.2816536+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/StrefaMS/Wdrazanie-Veeam-Direct-Restore-z-Azure-Marketplace</loc>
+      <lastmod>2018-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7038/de89beb7-b32a-4fb9-a577-bff5427d7038/WdrazanieVeeamDRAzureMarketplace_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wdraanie Veeam Direct Restore z Azure Marketplace]]></video:title>
+        <video:description><![CDATA[W tym nagraniu zobaczysz jak wdrożyć Veeam Direct Restore w kilka minut dzięki Azure Marketplace.Szczeg&#243;ły rozwiązania i procedurę krok po kroku znajdziesz na blogu Strefa.MS we wpisie Odzyskiwanie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7038/de89beb7-b32a-4fb9-a577-bff5427d7038/WdrazanieVeeamDRAzureMarketplace_mid.mp4</video:content_loc>
+        <video:duration>483</video:duration>
+        <video:publication_date>2016-05-03T05:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/StrefaMS/Wdrazanie-Veeam-Cloud-Connect-for-Enterprise-z-Azure-Marketplace</loc>
+      <lastmod>2016-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09ce/a4f979f2-6432-4400-a0bf-a31eff0709ce/WdrazanieVeeamCCEAzureMarketplace_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wdraanie Veeam Cloud Connect for Enterprise z Azure Marketplace]]></video:title>
+        <video:description><![CDATA[W tym nagraniu zobaczysz jak wdrożyć Veeam Cloud Connect for Enterprise w kilka minut dzięki Azure Marketplace.Szczeg&#243;ły rozwiązania i procedurę krok po kroku znajdziesz na blogu Strefa.MS we wpisie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09ce/a4f979f2-6432-4400-a0bf-a31eff0709ce/WdrazanieVeeamCCEAzureMarketplace_mid.mp4</video:content_loc>
+        <video:duration>381</video:duration>
+        <video:publication_date>2016-04-10T07:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-09-Synchronisation-des-annuaires</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/69e8/565de59d-5da3-4432-b83b-7a3733c669e8/AzureAD09_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 09 - Synchronisation des annuaires]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente les outils pour synchroniser un annuaire Windows Server Active Directory vers Azure Active Directory ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69e8/565de59d-5da3-4432-b83b-7a3733c669e8/AzureAD09_mid.mp4</video:content_loc>
+        <video:duration>1326</video:duration>
+        <video:publication_date>2014-12-22T14:28:42.0579183+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-08-Rapports-de-securite</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f28/8c93b048-ff1f-40b7-a947-c2394ed19f28/AzureAD08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 08 - Rapports de s&#233;curit&#233;]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente les diff&#233;rents types de rapports disponible dans Azure Active Directory Premium ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f28/8c93b048-ff1f-40b7-a947-c2394ed19f28/AzureAD08_mid.mp4</video:content_loc>
+        <video:duration>1046</video:duration>
+        <video:publication_date>2014-12-22T10:56:57.9316608+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-06-Gestion-des-groupes-en-libre-service</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c47/0b5f2df2-0e0d-4f19-a16e-d64afee50c47/AzureAD06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 06 - Gestion des groupes en libre service]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente la fonctionnalit&#233; de gestion des groupes de s&#233;curit&#233; en mode libre service : mise en oeuvre et utilisation ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c47/0b5f2df2-0e0d-4f19-a16e-d64afee50c47/AzureAD06_mid.mp4</video:content_loc>
+        <video:duration>745</video:duration>
+        <video:publication_date>2014-12-22T10:56:01.5249902+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-07-Gestion-des-acces-fondee-sur-les-groupes</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/67ae/327bbda9-8616-4840-b2d3-495c2cb667ae/AzureAD07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 07 - Gestion des acc&#232;s fond&#233;e sur les groupes]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente la gestion acc&#232;s aux applications bas&#233;e sur les groupes de s&#233;curit&#233; ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/67ae/327bbda9-8616-4840-b2d3-495c2cb667ae/AzureAD07_mid.mp4</video:content_loc>
+        <video:duration>655</video:duration>
+        <video:publication_date>2014-12-22T10:55:47.0163743+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-05-Outil-de-decouverte-des-applications-SaaS</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0cd6/39adc7da-a2b6-4fe2-819e-a080bfc50cd6/AzureAD05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 05 - Outil de d&#233;couverte des applications SaaS]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente l&#39;outil Cloud App Discovery qui permet d&#39;&#233;valuer l&#39;usage des applications SaaS dans une organisation ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0cd6/39adc7da-a2b6-4fe2-819e-a080bfc50cd6/AzureAD05_mid.mp4</video:content_loc>
+        <video:duration>1426</video:duration>
+        <video:publication_date>2014-12-22T10:55:43.5277785+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-04-Portail-des-applications-et-SSO</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f16/97bac41b-b95d-4c46-bd07-8e8d968b1f16/AzureAD04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 04 - Portail des applications et SSO]]></video:title>
+        <video:description><![CDATA[ce module pr&#233;sente le portail des applications pour les utilisateurs et les options de Single Sign On. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f16/97bac41b-b95d-4c46-bd07-8e8d968b1f16/AzureAD04_mid.mp4</video:content_loc>
+        <video:duration>2488</video:duration>
+        <video:publication_date>2014-12-22T10:55:41.7189579+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-03-Reinitialisation-des-mots-de-passe-en-mode-libre-service</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/57eb/984190ab-5660-48c0-a235-d670732c57eb/AzureAD03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 03 - R&#233;initialisation des mots de passe en mode libre service]]></video:title>
+        <video:description><![CDATA[ce module pr&#233;sente la fonctionnalit&#233; de r&#233;initialisation de mot de passe en mode libre service : sa mise en oeuvre et son utilisation. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/57eb/984190ab-5660-48c0-a235-d670732c57eb/AzureAD03_mid.mp4</video:content_loc>
+        <video:duration>1240</video:duration>
+        <video:publication_date>2014-12-22T10:55:39.7280473+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-02-Personnalisation-des-interfaces</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a09/ca12c90c-1bac-4275-a1ba-4254874a2a09/AzureAD02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 02 - Personnalisation des interfaces]]></video:title>
+        <video:description><![CDATA[ce module d&#233;taille les diff&#233;rentes options de personnalisation des interfaces utilisateurs d&#39;Azure Active Directory Basic et Premium ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a09/ca12c90c-1bac-4275-a1ba-4254874a2a09/AzureAD02_mid.mp4</video:content_loc>
+        <video:duration>1009</video:duration>
+        <video:publication_date>2014-12-22T10:55:37.7436738+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Decouverte-des-fonctionnalites-Basic-et-Premium/Azure-AD-01-Concepts-de-base</loc>
+      <lastmod>2014-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/32e6/e3ecfd47-b977-4d0b-b7e1-5095d78932e6/AzureAD01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure AD 01 - Concepts de base]]></video:title>
+        <video:description><![CDATA[ce module a pour objectif de pr&#233;senter l&#39;ensemble des nouveaut&#233;s disponibles dans les &#233;ditions Basic et Premium d&#39;Azure Active Directory ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/32e6/e3ecfd47-b977-4d0b-b7e1-5095d78932e6/AzureAD01_mid.mp4</video:content_loc>
+        <video:duration>1763</video:duration>
+        <video:publication_date>2014-12-22T10:55:34.8485804+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/vladcatrinescu</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/vladcatrinescu/Data-Loss-Prevention-in-SharePoint-2016</loc>
+      <lastmod>2018-03-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9692/1e4bcfd6-8d54-47ba-9e42-0f0496ba9692/SP2016DLPOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data Loss Prevention in SharePoint 2016]]></video:title>
+        <video:description><![CDATA[This is a recording of a webinar given on March 16th, 2016 to more than 250 attendees! Instead of keeping the webinar behind an email firewall, it&#39;s better here on Channel 9 where everyone can enjoy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9692/1e4bcfd6-8d54-47ba-9e42-0f0496ba9692/SP2016DLPOverview_mid.mp4</video:content_loc>
+        <video:duration>3298</video:duration>
+        <video:publication_date>2016-03-22T17:18:30.8717236+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/vladcatrinescu/Whats-new-in-SharePoint-2016-for-IT-Pros</loc>
+      <lastmod>2018-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7b5/2be7d20b-cbf0-4b3d-a68a-25efc3f7f7b5/SharePoint2016forITPros_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s new in SharePoint 2016 for IT Pros]]></video:title>
+        <video:description><![CDATA[This is a recording of a webinar given on January 21st, 2016 to more than 450 attendees! Instead of keeping the webinar behind an email firewall, it&#39;s better here on Channel 9 where everyone can enjoy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7b5/2be7d20b-cbf0-4b3d-a68a-25efc3f7f7b5/SharePoint2016forITPros_mid.mp4</video:content_loc>
+        <video:duration>4372</video:duration>
+        <video:publication_date>2016-02-03T19:27:15.8925183+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/wzack</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/wzack/Not-your-grandmothers-service-pack</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/3/3/1/2/4/VS2K8DotNet35SP1_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Not your grandmother&#39;s service pack!]]></video:title>
+        <video:description><![CDATA[Shanku Niyogi, Microsoft Product Unit Manager for the .NET Framework gave a presentation to the New York City .NET Developers Group on Visual Studio 2008/.NET Framework 3.5 Service Pack 1.  This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/3/3/1/2/4/VS2K8DotNet35SP1_ch9.mp4</video:content_loc>
+        <video:duration>3818</video:duration>
+        <video:publication_date>2008-08-15T20:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/wzack/David-Chappell-Interview-on-SoftwareServices-development</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/fd80009c-3272-4bd9-abb9-e36628bdb5cb.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[David Chappell Interview on Software+Services development]]></video:title>
+        <video:description><![CDATA[David Chappell, noted author and lecturer, gave a presentation on Software&amp;#43;Services to a group of architects recently in New York.  This is an interview with David where he expresses his views on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/6/8/4/1/4/zackChappellInterview_ch9.mp4</video:content_loc>
+        <video:duration>195</video:duration>
+        <video:publication_date>2008-07-11T14:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

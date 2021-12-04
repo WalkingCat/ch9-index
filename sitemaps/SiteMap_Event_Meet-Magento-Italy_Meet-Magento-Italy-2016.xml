@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Meet-Magento-Italy/Meet-Magento-Italy-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Meet-Magento-Italy/Meet-Magento-Italy-2016/How-to-deploy-and-run-Magento-Commerce-on-Azure</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2610/17328a1e-7fe1-46e9-9b9f-d719675c2610/MagentoCommerce_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to deploy and run Magento Commerce on Azure]]></video:title>
+        <video:description><![CDATA[We will explore the various possibilities to deploy, run and operate Magento on Azure with best practices for dev/test environments and production environments. We will also touch on setting up a CI&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2610/17328a1e-7fe1-46e9-9b9f-d719675c2610/MagentoCommerce_mid.mp4</video:content_loc>
+        <video:duration>1844</video:duration>
+        <video:publication_date>2016-04-29T13:41:55.0714329+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

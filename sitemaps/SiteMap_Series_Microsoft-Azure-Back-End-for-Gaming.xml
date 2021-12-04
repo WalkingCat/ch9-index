@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/08</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00af/ecf4580c-d9a8-41af-a790-e86f23b100af/419MSAzureBackEndGamingM08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (08) Photon Server]]></video:title>
+        <video:description><![CDATA[Photon is one of the most popular game servers available for multiplayer games because you don&#39;t have to make your own engine and you can use the power of their existing servers. Explore a Photon&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00af/ecf4580c-d9a8-41af-a790-e86f23b100af/419MSAzureBackEndGamingM08_mid.mp4</video:content_loc>
+        <video:duration>2120</video:duration>
+        <video:publication_date>2015-04-20T16:33:18.6120296+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/07</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8dfc/47479dde-4e24-456c-80c7-e4fd1bf88dfc/419MSAzureBackEndGamingM07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (07) Demo and Case Study: Blackjack and Age of Ascent]]></video:title>
+        <video:description><![CDATA[Watch a demo of a full game developed by students using Azure as their online server. Plus, take a look at an Azure demo on Age of Ascent and its architecture. [01:41] - Age of Ascent Overview[04:00]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8dfc/47479dde-4e24-456c-80c7-e4fd1bf88dfc/419MSAzureBackEndGamingM07_mid.mp4</video:content_loc>
+        <video:duration>1483</video:duration>
+        <video:publication_date>2015-04-20T16:33:01.0665393+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/06</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a53c/2f025ad3-756e-4722-9d81-a70491f7a53c/419MSAzureBackEndGamingM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (06) Using Construct 2 as a Client]]></video:title>
+        <video:description><![CDATA[Construct 2 is a system to develop HTML5/JavaScript games and applications. Explore ways to connect to the server using WebSockets from Construct 2. [00:54] - Construct 2 Overview[03:23] - Connecting&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a53c/2f025ad3-756e-4722-9d81-a70491f7a53c/419MSAzureBackEndGamingM06_mid.mp4</video:content_loc>
+        <video:duration>1656</video:duration>
+        <video:publication_date>2015-04-20T16:32:41.9953116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4aae/cca43f72-4f3d-4199-95db-97a64e0d4aae/419MSAzureBackEndGamingM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (05) Using Unity as a Client]]></video:title>
+        <video:description><![CDATA[Unity is one of the most used game development engines used today; it can be used for making multiplayer games and has its own built-in networking system. Find out how to connect to the demo server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4aae/cca43f72-4f3d-4199-95db-97a64e0d4aae/419MSAzureBackEndGamingM05_mid.mp4</video:content_loc>
+        <video:duration>1484</video:duration>
+        <video:publication_date>2015-04-20T16:32:30.0760643+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/04</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed3f/a02e949b-bace-4867-ab43-ea66d2e0ed3f/419MSAzureBackEndGamingM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (04) Authentication]]></video:title>
+        <video:description><![CDATA[Go over how to use Azure Active Directory and other services to authenticate your players, a requirement for online games. [01:18] - What is Authentication?[04:56] - Authentication Options in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed3f/a02e949b-bace-4867-ab43-ea66d2e0ed3f/419MSAzureBackEndGamingM04_mid.mp4</video:content_loc>
+        <video:duration>3684</video:duration>
+        <video:publication_date>2015-04-20T16:32:18.9609866+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1a2/2dcb2152-4568-4ef1-b241-4027b26eb1a2/419MSAzureBackEndGamingM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (03) Client Server Architecture Review]]></video:title>
+        <video:description><![CDATA[Get started making a client-server architecture that can use Virtual Machines for your game. See a demo of communications, with the development of a simple sample server and game client. [00:57] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1a2/2dcb2152-4568-4ef1-b241-4027b26eb1a2/419MSAzureBackEndGamingM03_mid.mp4</video:content_loc>
+        <video:duration>3036</video:duration>
+        <video:publication_date>2015-04-20T16:32:07.3968431+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/02</loc>
+      <lastmod>2017-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0033/6a8677f2-3132-4911-be6f-9983c7a60033/419MSAzureBackEndGamingM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (02) Cloud Basics for Online Games]]></video:title>
+        <video:description><![CDATA[Review the various parts of Azure that can be used for game development. Look at different parts of Azure, including Web Roles, Virtual Machines, Media Services, and more, that can be used in your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0033/6a8677f2-3132-4911-be6f-9983c7a60033/419MSAzureBackEndGamingM02_mid.mp4</video:content_loc>
+        <video:duration>3145</video:duration>
+        <video:publication_date>2015-04-20T16:31:55.1902797+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-Back-End-for-Gaming/01</loc>
+      <lastmod>2019-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c3d/a1ab45b6-379f-4875-81d4-15aa02363c3d/419MSAzureBackEndGamingM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Back End for Gaming: (01) Online Gaming Historically and Networking Basics]]></video:title>
+        <video:description><![CDATA[Get an introduction to online gaming from dialup to today. Plus, hear a quick review on networking basics. [07:38] - Networking Standards[10:24] - TCP vs UDP[16:13] - WebSockets]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c3d/a1ab45b6-379f-4875-81d4-15aa02363c3d/419MSAzureBackEndGamingM01_mid.mp4</video:content_loc>
+        <video:duration>1326</video:duration>
+        <video:publication_date>2015-04-20T16:31:42.7877031+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

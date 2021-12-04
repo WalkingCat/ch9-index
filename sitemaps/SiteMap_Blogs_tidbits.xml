@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/06</loc>
+      <lastmod>2018-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/27ca/0f63fc8c-a246-4c3c-9547-0982a66c27ca/tidbits06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 06: Custom Color Themes and Languages]]></video:title>
+        <video:description><![CDATA[In this episode we&#39;ll look quickly at creating custom color themes and languages for Visual Studio Code. We&#39;ll use Yeoman to generate the simple meta code that tells VS Code how to provide these&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/27ca/0f63fc8c-a246-4c3c-9547-0982a66c27ca/tidbits06_mid.mp4</video:content_loc>
+        <video:duration>480</video:duration>
+        <video:publication_date>2016-05-06T17:52:14.0481794+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/09</loc>
+      <lastmod>2016-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc18/b4a7084f-c262-4ab9-a6ff-75fe463cbc18/tidbits09_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 09: Debug Console]]></video:title>
+        <video:description><![CDATA[I learned a little something about debugging in Visual Studio Code that I wanted to share with you all really quick. It has to do with the availability of the console while debugging and it&#39;s not&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc18/b4a7084f-c262-4ab9-a6ff-75fe463cbc18/tidbits09_mid.mp4</video:content_loc>
+        <video:duration>94</video:duration>
+        <video:publication_date>2016-05-06T17:36:36.6453090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/08</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a559/733ced06-6d98-4ed2-a948-d4810de2a559/tidbits08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 08: Nodist]]></video:title>
+        <video:description><![CDATA[In this episode of Tidbits of Code and Node, I&#39;m going to introduce you to Nodist - a utility for Windows to get node and npm on your machine and give you a facility for quickly and easily switching&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a559/733ced06-6d98-4ed2-a948-d4810de2a559/tidbits08_mid.mp4</video:content_loc>
+        <video:duration>723</video:duration>
+        <video:publication_date>2016-05-06T17:36:30.3862832+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/07</loc>
+      <lastmod>2016-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c14/358fff0c-0915-4b57-a377-0de9abf61c14/tidbits07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 07: Code Goes Open!]]></video:title>
+        <video:description><![CDATA[In this snippet of information about Code, I actually cover the big announcement made at the Connect() 2015 event on Nov 18, 2015 - that Visual Studio Code is now open source! I also wrote a companion&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c14/358fff0c-0915-4b57-a377-0de9abf61c14/tidbits07_mid.mp4</video:content_loc>
+        <video:duration>476</video:duration>
+        <video:publication_date>2016-05-06T17:36:22.2871321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/05</loc>
+      <lastmod>2017-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2c3/50c26882-4dbb-4aa1-9b81-cb58ab56b2c3/tidbits05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 05: Power Emmet]]></video:title>
+        <video:description><![CDATA[In this episode of Tidbits of Code and Node, I&#39;ll do some uber fun stuff with Emmet (aka Zen Coding) in VS Coding. I&#39;ll show you where to find a big cheat sheet for some great snippets that Emmet&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2c3/50c26882-4dbb-4aa1-9b81-cb58ab56b2c3/tidbits05_mid.mp4</video:content_loc>
+        <video:duration>820</video:duration>
+        <video:publication_date>2016-05-06T17:35:56.9775920+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/04</loc>
+      <lastmod>2016-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/663b/68d0b2cb-cda6-4845-8474-cc610363663b/tidbits04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 04: Introduction to Version 0.9 Updates]]></video:title>
+        <video:description><![CDATA[In this little episode of the Tidbits of Code and Node mini-series, I&#39;ll show you what&#39;s new in the latest (as of this writing anyway) update to Visual Studio Code. One of my favorite features is the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/663b/68d0b2cb-cda6-4845-8474-cc610363663b/tidbits04_mid.mp4</video:content_loc>
+        <video:duration>486</video:duration>
+        <video:publication_date>2016-05-06T17:35:54.1172787+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/03</loc>
+      <lastmod>2017-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b1a/df7ca569-560b-46da-8511-f36260797b1a/tidbits03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 03: Running Tasks]]></video:title>
+        <video:description><![CDATA[In this third episode of Tidbits of Code and Node, we&#39;ll see how Code handles tasks. Regardless of whether you use Gulp or Grunt (I like Gulp), Code just abstracts tasks as &amp;quot;tasks&amp;quot; and gives&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b1a/df7ca569-560b-46da-8511-f36260797b1a/tidbits03_mid.mp4</video:content_loc>
+        <video:duration>335</video:duration>
+        <video:publication_date>2016-05-06T17:35:50.3410710+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/02</loc>
+      <lastmod>2016-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e62/b31548cb-a19f-4fac-a9d8-f06d14a88e62/tidbits02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 02: Using TSD to Install Typings and Get Intellisense]]></video:title>
+        <video:description><![CDATA[In this second episode we&#39;ll create a simple node app and then use the tsd npm package to install typings for node and some other popular node packages, and by doing so we&#39;ll get excellent&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e62/b31548cb-a19f-4fac-a9d8-f06d14a88e62/tidbits02_mid.mp4</video:content_loc>
+        <video:duration>473</video:duration>
+        <video:publication_date>2016-05-06T17:35:47.8219232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/tidbits/01</loc>
+      <lastmod>2016-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/857f/ed5ccdb6-94cc-4c88-ab4e-5e75058b857f/tidbits01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tidbits 01: Files and Folders]]></video:title>
+        <video:description><![CDATA[In this first episode, I&#39;ll mention how Code handles files and folders and how it doesn&#39;t care so much about explicit project files. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/857f/ed5ccdb6-94cc-4c88-ab4e-5e75058b857f/tidbits01_mid.mp4</video:content_loc>
+        <video:duration>429</video:duration>
+        <video:publication_date>2016-05-06T17:35:45.2654453+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

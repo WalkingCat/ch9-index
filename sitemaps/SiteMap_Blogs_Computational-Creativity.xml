@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Computational-Creativity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Computational-Creativity/Exploring-Magic-Media-and-Emerging-Technologies</loc>
+      <lastmod>2016-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/72c0/a5cc3cbe-f5d7-4485-be63-9b1323ee72c0/MagicMedia_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exploring Magic, Media and Emerging Technologies]]></video:title>
+        <video:description><![CDATA[Note: I gave this talk 5 years(!) ago at REMIX (remember that?!) - just before all these VR, AI, ambient computing, surveillance culture and drone stuff starting blowing up. So it&#39;s funny to look back&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72c0/a5cc3cbe-f5d7-4485-be63-9b1323ee72c0/MagicMedia_mid.mp4</video:content_loc>
+        <video:duration>2981</video:duration>
+        <video:publication_date>2016-04-20T19:19:03.7491523+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Computational-Creativity/AI-Mixed-Reality-and-the-New-Software-Landscape</loc>
+      <lastmod>2020-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45fd/1ad16fa4-e067-41ea-894e-f9e2e11645fd/VAMR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AI, Mixed Reality, and the New Software Landscape]]></video:title>
+        <video:description><![CDATA[An age of more personal computing is upon us, but is our intuition around technology and design up to the challenge? In this sweeping talk across More Personal Computing and the Mobile First / Cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45fd/1ad16fa4-e067-41ea-894e-f9e2e11645fd/VAMR_mid.mp4</video:content_loc>
+        <video:duration>2303</video:duration>
+        <video:publication_date>2016-04-20T17:44:18.2732842+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

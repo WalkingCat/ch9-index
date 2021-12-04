@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview/Integrating-data-with-Azure-Synapse</loc>
+      <lastmod>2021-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4186/80d3cbf2-d7e4-474b-acc9-65070b804186/20210216TheLaunchSpace06Reddy_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Integrating data with Azure Synapse]]></video:title>
+        <video:description><![CDATA[In this session we&#39;ll showcase the variety of data integration capabilities within Synapse. This includes Synapse Link for real-time operational insights from CosmosDB as well as code-free data tools&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4186/80d3cbf2-d7e4-474b-acc9-65070b804186/20210216TheLaunchSpace06Reddy_mid.mp4</video:content_loc>
+        <video:duration>1628</video:duration>
+        <video:publication_date>2021-02-06T01:18:18.1401814+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview/Advanced-analytics-with-Azure-Synapse</loc>
+      <lastmod>2021-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/026e/25a0bdae-15e3-4d0d-867f-250d8bac026e/20210216TheLaunchSpace05Garden_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced analytics with Azure Synapse]]></video:title>
+        <video:description><![CDATA[This session will demonstrate advanced analytics scenarios within Synapse using both code-first and low/no code development within Synapse Studio. We&#39;ll demonstrate how multiple languages and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/026e/25a0bdae-15e3-4d0d-867f-250d8bac026e/20210216TheLaunchSpace05Garden_mid.mp4</video:content_loc>
+        <video:duration>1797</video:duration>
+        <video:publication_date>2021-02-06T01:17:06.4748540+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview/Building-an-Enterprise-Data-Warehouse-in-Azure-Synapse</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5690/f5b8be76-6d1a-4053-9d89-f85b25755690/20210216TheLaunchSpace04Feddersen_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building an Enterprise Data Warehouse in Azure Synapse]]></video:title>
+        <video:description><![CDATA[This session will provide a demo rich, in-depth look at a number of critical data warehouse features of Synapse including the storage system and optimizing data architecture, data security, and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5690/f5b8be76-6d1a-4053-9d89-f85b25755690/20210216TheLaunchSpace04Feddersen_mid.mp4</video:content_loc>
+        <video:duration>1838</video:duration>
+        <video:publication_date>2021-02-06T01:02:41.3756501+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview/Govern-your-data-from-origin-to-consumption</loc>
+      <lastmod>2021-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/113d/0013274a-63d1-487e-860c-d346defd113d/TheLaunchSpace03Verma_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Govern your data from origin to consumption]]></video:title>
+        <video:description><![CDATA[In the modern paradigm, enterprise data is captured in operational systems, landed into cloud, enriched through actions of data engineers, data scientists &amp;amp; app developers and made accessible to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/113d/0013274a-63d1-487e-860c-d346defd113d/TheLaunchSpace03Verma_mid.mp4</video:content_loc>
+        <video:duration>1935</video:duration>
+        <video:publication_date>2021-02-06T01:01:19.1315799+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview/Bring-business-context-to-your-data-assets</loc>
+      <lastmod>2021-02-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8495/e57ec45f-4d1a-4a46-8400-255e80c48495/TheLaunchSpace02Venkitaraman_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bring business context to your data assets]]></video:title>
+        <video:description><![CDATA[Business users think about data in terms of customers, features, products, interactions and not just in terms of tables, columns and files. Subject matter experts, data curators and data governance&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8495/e57ec45f-4d1a-4a46-8400-255e80c48495/TheLaunchSpace02Venkitaraman_mid.mp4</video:content_loc>
+        <video:duration>1696</video:duration>
+        <video:publication_date>2021-02-06T01:00:00.2504750+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/The-latest-news-from-Microsoft-Synapse-and-Purview/Quick-and-easy-enterprise-data-discovery-for-all</loc>
+      <lastmod>2021-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/655a/1243ac77-f35f-41ea-9b6a-4a2a6c05655a/20210216TheLaunchSpace01Malhotra_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Quick and easy enterprise data discovery for all]]></video:title>
+        <video:description><![CDATA[Business analysts, data scientists, app developers and data engineers all need a simple and self-service way to find the data they need from plethora of systems in their organization. In this session,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/655a/1243ac77-f35f-41ea-9b6a-4a2a6c05655a/20210216TheLaunchSpace01Malhotra_mid.mp4</video:content_loc>
+        <video:duration>1708</video:duration>
+        <video:publication_date>2021-02-06T00:58:42.5942984+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

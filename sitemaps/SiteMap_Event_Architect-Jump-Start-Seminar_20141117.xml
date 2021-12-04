@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/20141117</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/20141117/Session1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30b1/b8d6f352-29a5-4adb-8608-da548c5630b1/Session1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社 板倉真由美   エンタープライズ向けのアプリケーション開発には、ビジネス ニーズに沿ったスピード、社内で利用するための品質が求められます。開発からリリース、品質向上の サイクルを一貫して管理する ALM の意義を再確認しながら、「Cloud First, Mobile First」の時代を迎えて柔軟に対応するアジャイル型開発の &amp;quot;今&amp;quot;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30b1/b8d6f352-29a5-4adb-8608-da548c5630b1/Session1_mid.mp4</video:content_loc>
+        <video:duration>2908</video:duration>
+        <video:publication_date>2014-12-01T08:26:37.7939872+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/20141117/Session2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c9b/59b008c7-826f-43f5-baff-78eec1093c9b/Session2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[TFS  Rapid Release !  Online Service Gate&#174;  ]]></video:title>
+        <video:description><![CDATA[ソフトバンクテクノロジー株式会社 古賀 慎一 様   ソフトバンクテクノロジー株式会社様では、スクラム開発により開発からリリースまでを短期間に行う Rapid Release を実現されています。実際に導入された経緯と改善されたプロセスを踏まえ、開発効率を向上する &amp;quot;エンタープライズ アジャイル&amp;quot; の実践をお話しいただきます。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c9b/59b008c7-826f-43f5-baff-78eec1093c9b/Session2_mid.mp4</video:content_loc>
+        <video:duration>3614</video:duration>
+        <video:publication_date>2014-12-01T08:26:21.4082927+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/20141117/Session3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bfed/07fcb60d-73aa-48b0-a9cf-3c730ccbbfed/Session3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ ]]></video:title>
+        <video:description><![CDATA[日本マイクロソフト株式会社 野村 一行   エンタープライズ開発者にとってもクラウドが重要な選択肢の 1 つになる今、開発基盤もクラウドへ広がってゆくのは必然と言えるでしょう。本セッションでは、サービスとしてのアプリケーション開発基盤である Visual Studio Online を中心にこれからのエンタープライズ開発者の開発スタイルについて概説します。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bfed/07fcb60d-73aa-48b0-a9cf-3c730ccbbfed/Session3_mid.mp4</video:content_loc>
+        <video:duration>3666</video:duration>
+        <video:publication_date>2014-12-01T08:26:06.3944252+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

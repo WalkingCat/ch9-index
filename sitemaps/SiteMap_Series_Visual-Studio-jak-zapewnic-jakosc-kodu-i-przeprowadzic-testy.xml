@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/10-Podsumowanie</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cebb/e303f16b-ee12-4e6a-8047-33de3d3dcebb/10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10 Podsumowanie]]></video:title>
+        <video:description><![CDATA[Podsumowanie ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cebb/e303f16b-ee12-4e6a-8047-33de3d3dcebb/10_mid.mp4</video:content_loc>
+        <video:duration>114</video:duration>
+        <video:publication_date>2016-02-26T12:30:44.7250318+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/09-Konfiguracja-Build-Server-w-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/efc6/3f17cb8d-c66b-4b7e-88bb-78b84a93efc6/9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[09 Konfiguracja Build Server w Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Mozliwości build server. Jak skonfigurować automatyczne uruchamianie test&#243;w jednostkowych Związki build – commit / workitem. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efc6/3f17cb8d-c66b-4b7e-88bb-78b84a93efc6/9_mid.mp4</video:content_loc>
+        <video:duration>986</video:duration>
+        <video:publication_date>2016-02-26T12:30:32.5115522+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/08-Automatyczne-generowanie-przypadkw-ktre-powinny-by-zbadane-testami-jednostkowymi</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/860e/c503c536-ae8b-408c-8ed4-aa522103860e/8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 Automatyczne generowanie przypadk&#243;w, kt&#243;re powinny by zbadane testami jednostkowymi]]></video:title>
+        <video:description><![CDATA[Automatyczna analiza skomplikowanych algorytm&#243;w. IntelliTest i uruchamianie test&#243;w oraz generowanie przypadk&#243;w testowych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/860e/c503c536-ae8b-408c-8ed4-aa522103860e/8_mid.mp4</video:content_loc>
+        <video:duration>452</video:duration>
+        <video:publication_date>2016-02-26T12:29:58.6450391+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/07-Testy-jednostkowe--gdy-metody-korzystaj-z-bazy-bibliotek-itp</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/900c/a7fa4a78-db64-4b1e-a456-a965fcb8900c/7testy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 Testy jednostkowe  gdy metody korzystaj z bazy, bibliotek itp.]]></video:title>
+        <video:description><![CDATA[Co zrobić, gdy chcemy napisać test jednostkowy dla metody, kt&#243;ra odwołuje się do bazy danych albo innych element&#243;w infrastrukturalnych i nie da się zastąpić jej implementacji (to mock). Fakes, Shim i&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/900c/a7fa4a78-db64-4b1e-a456-a965fcb8900c/7testy_mid.mp4</video:content_loc>
+        <video:duration>984</video:duration>
+        <video:publication_date>2016-02-26T12:29:32.7783898+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/06-Testy-jednostkowe-proste</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ef3/e5a9e8b0-578b-45e6-b9a3-1d1ab2e10ef3/testy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 Testy jednostkowe - proste]]></video:title>
+        <video:description><![CDATA[Podstawy test&#243;w jednostkowy (Arrange-Act-Assert). Atrybuty. Test Explorer. Automatyczne uruchamianie test&#243;w podczas kompilacji. &amp;quot;Data Driven unit test&amp;quot;.  Analiza pokrycia kodu testami (Code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ef3/e5a9e8b0-578b-45e6-b9a3-1d1ab2e10ef3/testy_mid.mp4</video:content_loc>
+        <video:duration>825</video:duration>
+        <video:publication_date>2016-02-26T11:48:22.7098743+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/05-Zrozumienie-niezrozumiaego-kodu</loc>
+      <lastmod>2016-02-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8637/c4205064-9311-4db5-b3a9-1f70d1e48637/zrozumienie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Zrozumienie niezrozumiaego kodu]]></video:title>
+        <video:description><![CDATA[W jaki spos&#243;b używając debuggera, Intellitrace, CodeMap, DGML, wyszukiwania referencji i wielu innych możliwości w IDE Visual Studio 2015 odkryć, jak realizowana jest dana funkcjonalność w kodzie. Na&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8637/c4205064-9311-4db5-b3a9-1f70d1e48637/zrozumienie_mid.mp4</video:content_loc>
+        <video:duration>1755</video:duration>
+        <video:publication_date>2016-02-26T11:48:07.9895975+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/04-Wykrywanie-programowania-w-stylu-copy-paste</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/52a8/f080ee91-ff13-41af-b65a-f314717c52a8/04wykrywanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Wykrywanie programowania w stylu copy-paste]]></video:title>
+        <video:description><![CDATA[Jak przeanalizować kod pod względem identycznych lub podobnych artefakt&#243;w, co wskazuje (zwykle) że programista skopiował duże bloki kodu pomiędzy r&#243;żnymi metodami czy klasami. Też – pokazuje gdzie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/52a8/f080ee91-ff13-41af-b65a-f314717c52a8/04wykrywanie_mid.mp4</video:content_loc>
+        <video:duration>365</video:duration>
+        <video:publication_date>2016-02-26T11:47:50.1368584+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/03-Automatyczne-analizatory-kodu-Roslyn</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d64/85d322df-7501-43e1-b06f-907b8ca01d64/3aytmatyczne_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Automatyczne analizatory kodu (Roslyn)]]></video:title>
+        <video:description><![CDATA[Narzędzia do automatycznej analizy (i poprawiania!) kodu na przykładzie SignalR ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d64/85d322df-7501-43e1-b06f-907b8ca01d64/3aytmatyczne_mid.mp4</video:content_loc>
+        <video:duration>423</video:duration>
+        <video:publication_date>2016-02-26T11:47:33.6456259+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/02-Metryki-kodu--teoria-i-demo</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f4b/1fa25f62-9686-48e8-8b36-8cec17278f4b/2metryki_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Metryki kodu  teoria i demo]]></video:title>
+        <video:description><![CDATA[Dowiedz się jak korzystać z metryk kodu na przykładzie analizy kodu źr&#243;dłowego SignalR. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f4b/1fa25f62-9686-48e8-8b36-8cec17278f4b/2metryki_mid.mp4</video:content_loc>
+        <video:duration>521</video:duration>
+        <video:publication_date>2016-02-26T11:47:05.4171945+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zapewnic-jakosc-kodu-i-przeprowadzic-testy/01-Wstp</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bef2/66ee693c-f8c1-4367-888d-d27f314bbef2/1wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wstp]]></video:title>
+        <video:description><![CDATA[Na czym polega trudność z utrzymaniem jakości kodu. Co robić gdy odziedziczyliśmy (po poprzednikach lub dostawcy) kod o miernej jakości. Narzędzia – przegląd i wstęp. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bef2/66ee693c-f8c1-4367-888d-d27f314bbef2/1wstep_mid.mp4</video:content_loc>
+        <video:duration>202</video:duration>
+        <video:publication_date>2016-02-26T11:46:31.2165526+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

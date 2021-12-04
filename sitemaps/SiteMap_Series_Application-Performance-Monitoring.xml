@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Application-Performance-Monitoring</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Application-Performance-Monitoring/Mod4</loc>
+      <lastmod>2017-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ec1/135b042d-9c8a-4b14-ba8d-caaae9c98ec1/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Closing]]></video:title>
+        <video:description><![CDATA[The closing module will review all the key points and components, both within Application Insights as well as System Center. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ec1/135b042d-9c8a-4b14-ba8d-caaae9c98ec1/Mod4_mid.mp4</video:content_loc>
+        <video:duration>429</video:duration>
+        <video:publication_date>2015-01-20T14:04:09.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Application-Performance-Monitoring/Mod3</loc>
+      <lastmod>2017-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e47f/562757b1-f7d7-4f2c-9f9e-2cf39fe2e47f/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) System Center 2012 Operations Manager ]]></video:title>
+        <video:description><![CDATA[Module three will introduce System Center 2012 Operations Manager and its role within application monitoring. We will understand the integration options available with Visual Studio, as well as the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e47f/562757b1-f7d7-4f2c-9f9e-2cf39fe2e47f/Mod3_mid.mp4</video:content_loc>
+        <video:duration>3197</video:duration>
+        <video:publication_date>2015-01-20T14:03:21.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Application-Performance-Monitoring/Mod2</loc>
+      <lastmod>2017-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5284/2ddecfa8-dd05-45f5-bfa2-db195c5d5284/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Application Insights]]></video:title>
+        <video:description><![CDATA[Module two will introduce Application Insights and step through from getting started with AI, to monitoring applications, as well as pulling data for true insight into your monitored applications.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5284/2ddecfa8-dd05-45f5-bfa2-db195c5d5284/Mod2_mid.mp4</video:content_loc>
+        <video:duration>3101</video:duration>
+        <video:publication_date>2015-01-20T14:02:44.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Application-Performance-Monitoring/Mod1</loc>
+      <lastmod>2019-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6040/8faf7c78-bbee-49cd-a94d-661c0b7e6040/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Overview of Application Performance Monitoring]]></video:title>
+        <video:description><![CDATA[Module one will give the overview of Application Performance Monitoring (APM) as well as position the strategy Microsoft has for a complete Hybrid Cloud application monitoring solution.This video is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6040/8faf7c78-bbee-49cd-a94d-661c0b7e6040/Mod1_mid.mp4</video:content_loc>
+        <video:duration>2601</video:duration>
+        <video:publication_date>2015-01-20T14:01:59.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

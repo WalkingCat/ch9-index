@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cmayo</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cmayo/Building-Office-Communications-Server-solutions-with-a-Software--Services-Model</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/9/6/8/1/5/OcsSoftwareServices_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Building Office Communications Server solutions with a Software + Services Model]]></video:title>
+        <video:description><![CDATA[
+From a platform perspective, Office Communications Server 2007 R2 allows you to build call control and call management services.  OCS 2007 R2 also provides a federation feature to allow you to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/9/6/8/1/5/OcsSoftwareServices_ch9.mp4</video:content_loc>
+        <video:duration>1126</video:duration>
+        <video:publication_date>2010-01-07T21:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cmayo/Exchange-2010-and-Exchange-Web-Services-Whats-New-Webcasts</loc>
+      <lastmod>2018-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/9/7/6/9/4/Ex2010EwsMa20091007_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Exchange 2010 and Exchange Web Services - Whats New Webcasts]]></video:title>
+        <video:description><![CDATA[
+Exchange Web Services gives you programmatic access to the information and business logic in Exchange 2010.  If you think about all the stuff you do in Outlook 2007 to manage your daily life (mail&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/9/7/6/9/4/Ex2010EwsMa20091007_ch9.mp4</video:content_loc>
+        <video:duration>1499</video:duration>
+        <video:publication_date>2009-10-07T23:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

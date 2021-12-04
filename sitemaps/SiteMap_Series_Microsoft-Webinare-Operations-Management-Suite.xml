@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-Operations-Management-Suite</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-Operations-Management-Suite/Operations-Management-Suite-als-Gesamtpaket-und-ihre-Vorteile</loc>
+      <lastmod>2016-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ebda/f07dc2af-53d9-4cd3-b5cc-e6d29282ebda/OMS4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Operations Management Suite als Gesamtpaket und ihre Vorteile]]></video:title>
+        <video:description><![CDATA[Der vierte und letzte Teil der OMS Webinar-Serie wird Ihnen nochmal eine &#220;bersicht &#252;ber die Kernfunktionen der einzelnen L&#246;sungen der Operations Management Suite geben. Au&#223;erdem lernen Sie die&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebda/f07dc2af-53d9-4cd3-b5cc-e6d29282ebda/OMS4_mid.mp4</video:content_loc>
+        <video:duration>3202</video:duration>
+        <video:publication_date>2016-07-26T08:21:03.4037752+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-Operations-Management-Suite/Schnelle--zuverlssige-Datenwiederherstellung-und-sicherung-mit-Azure-Site-Recovery--Azure-Backup</loc>
+      <lastmod>2016-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3fd9/df9181a6-0326-4340-af53-6e3fefd13fd9/AzureSiteRecovery_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Schnelle &amp; zuverl&#228;ssige Datenwiederherstellung und -sicherung mit Azure Site Recovery &amp; Azure Backup]]></video:title>
+        <video:description><![CDATA[Im dritten Teil der vierteiligen OMS Webinar-Serie werden Ihnen gleich zwei unserer Einzell&#246;sungen gezeigt: Azure Site Recovery (ASR) und Azure Backup. Mit ASR gew&#228;hrleisten Sie Datenintegrit&#228;t und&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3fd9/df9181a6-0326-4340-af53-6e3fefd13fd9/AzureSiteRecovery_mid.mp4</video:content_loc>
+        <video:duration>3223</video:duration>
+        <video:publication_date>2016-07-26T08:15:54.8970938+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-Operations-Management-Suite/Azure-Automation-Cloudverwaltung-dank-Prozessautomatisierung-vereinfachen</loc>
+      <lastmod>2016-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf51/935f2366-06f3-444b-85bb-401a5673bf51/AzureAutomation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Automation: Cloudverwaltung dank Prozessautomatisierung vereinfachen]]></video:title>
+        <video:description><![CDATA[Im zweiten Teil der vierteiligen OMS Webinar-Serie dreht sich alles um Automation. Hiermit orchestrieren Sie komplexe und sich wiederholende Abl&#228;ufe. Erfahren Sie in diesem Vortrag, wie die&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf51/935f2366-06f3-444b-85bb-401a5673bf51/AzureAutomation_mid.mp4</video:content_loc>
+        <video:duration>3149</video:duration>
+        <video:publication_date>2016-07-26T08:14:34.9857466+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-Operations-Management-Suite/Visualiserung-und-Verwaltung-von-Protokolldaten-durch-Logfile-Analyse</loc>
+      <lastmod>2016-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6da/d4a7e8af-c09d-4b27-b483-280e1908d6da/LogfileAnalyse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visualiserung und Verwaltung von Protokolldaten durch Logfile Analyse]]></video:title>
+        <video:description><![CDATA[Mit der Operations Management Suite (OMS) sind Sie in der Lage, eine moderne Infrastruktur, wie z. B. mit Cloud-Migrationen und Datenanalyse, zu verwalten und diese anschlie&#223;end zu analysieren. Die&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6da/d4a7e8af-c09d-4b27-b483-280e1908d6da/LogfileAnalyse_mid.mp4</video:content_loc>
+        <video:duration>3170</video:duration>
+        <video:publication_date>2016-07-26T08:11:25.0988572+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/modern-web</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/modern-web/HTML</loc>
+      <lastmod>2015-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9133/f824ffb7-338f-4517-924f-dfe73a349133/ModernHtml_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - ModernWeb HTML]]></video:title>
+        <video:description><![CDATA[此單元教您如何精進 HTML 讓網站更加現代化 欲下載 Sway 檔請點這裡 此系列相關課程： 何謂現代化網站現代化網站設計 - ModernWeb CSS現代化網站設計 - ModernWeb JavaScript現代化網站設計 - ModernWeb HTML]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9133/f824ffb7-338f-4517-924f-dfe73a349133/ModernHtml_mid.mp4</video:content_loc>
+        <video:duration>265</video:duration>
+        <video:publication_date>2015-10-04T16:58:08.1567244+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/modern-web/JavaScript</loc>
+      <lastmod>2015-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/913b/b2f5edde-8e59-4ca8-9805-090165d6913b/ModernJs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - ModernWeb JavaScript]]></video:title>
+        <video:description><![CDATA[此單元教您如何精進 JavaScript 讓網站更加現代化 欲下載 Sway 檔請點這裡 此系列相關課程： 何謂現代化網站現代化網站設計 - ModernWeb CSS現代化網站設計 - ModernWeb JavaScript現代化網站設計 - ModernWeb HTML]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/913b/b2f5edde-8e59-4ca8-9805-090165d6913b/ModernJs_mid.mp4</video:content_loc>
+        <video:duration>343</video:duration>
+        <video:publication_date>2015-10-04T16:57:02.4727004+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/modern-web/CSS</loc>
+      <lastmod>2015-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4528/372d555a-3813-4a40-9f8f-f7df13ee4528/ModernCss_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ - ModernWeb CSS]]></video:title>
+        <video:description><![CDATA[此單元教您如何精進 CSS 讓網站更加現代化 欲觀看 Sway 檔請點這裡 此系列相關課程： 何謂現代化網站現代化網站設計 - ModernWeb CSS現代化網站設計 - ModernWeb JavaScript現代化網站設計 - ModernWeb HTML]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4528/372d555a-3813-4a40-9f8f-f7df13ee4528/ModernCss_mid.mp4</video:content_loc>
+        <video:duration>344</video:duration>
+        <video:publication_date>2015-10-04T16:56:01.5659756+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/modern-web/01</loc>
+      <lastmod>2015-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a795/fccede16-2285-459a-9619-00081378a795/mordenweb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[舉出業界現代化網站案例，提供您實用小技巧，讓您的網站變身成為現代化網站！ 此系列相關課程 ： 何謂現代化網站現代化網站設計 - ModernWeb CSS現代化網站設計 - ModernWeb JavaScript現代化網站設計 - ModernWeb HTML]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a795/fccede16-2285-459a-9619-00081378a795/mordenweb_mid.mp4</video:content_loc>
+        <video:duration>748</video:duration>
+        <video:publication_date>2015-10-04T16:54:58.2410532+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

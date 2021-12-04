@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT/Session05</loc>
+      <lastmod>2021-01-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/19e2/ec5cbb76-7c77-4a5a-b148-788d2eb119e2/AllAroundAzureIoTSession05_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get to Solutioning: Strategy and Best Practices when Mapping Designs from Edge to Cloud]]></video:title>
+        <video:description><![CDATA[In this session we will explore strategies for secure IoT device connectivity in real-world edge environments, specifically how use of the Azure IoT Edge Gateway can accommodate offline, intermittent,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/19e2/ec5cbb76-7c77-4a5a-b148-788d2eb119e2/AllAroundAzureIoTSession05_mid.mp4</video:content_loc>
+        <video:duration>1230</video:duration>
+        <video:publication_date>2021-01-22T01:19:03.3308247+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT/Session04</loc>
+      <lastmod>2021-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e569/81e09207-4717-4378-a910-34e6c81be569/AllAroundAzureIoTSession04_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data 2.0 as your New Operational Data Source]]></video:title>
+        <video:description><![CDATA[A large part of value provided from IoT deployments comes from data. However, getting this data into the existing data landscape is often overlooked. In this session, we will start by introducing what&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e569/81e09207-4717-4378-a910-34e6c81be569/AllAroundAzureIoTSession04_mid.mp4</video:content_loc>
+        <video:duration>1174</video:duration>
+        <video:publication_date>2021-01-22T01:16:41.0011518+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT/Session03</loc>
+      <lastmod>2021-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/95be/a8e51145-b9ab-4d19-a293-f385431b95be/AllAroundAzureIoTSession03_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding Intelligence: Unlocking New Insights with AI and Machine Learning]]></video:title>
+        <video:description><![CDATA[For many scenarios, the cloud is used as a way to process data and apply business logic with nearly limitless scale. However, processing data in the cloud is not always the optimal way to run&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/95be/a8e51145-b9ab-4d19-a293-f385431b95be/AllAroundAzureIoTSession03_mid.mp4</video:content_loc>
+        <video:duration>936</video:duration>
+        <video:publication_date>2021-01-22T01:14:52.9751594+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT/Session02</loc>
+      <lastmod>2021-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b6c9/7b7f70db-855f-4945-a174-0038fd33b6c9/AllAroundAzureIoTSession02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deciphering Data: Optimizing Data Communication to Maximize your ROI]]></video:title>
+        <video:description><![CDATA[Data collection by itself does not provide business values. IoT solutions must ingest, process, make decisions, and take actions to create value. This module focuses on data acquisition, data&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b6c9/7b7f70db-855f-4945-a174-0038fd33b6c9/AllAroundAzureIoTSession02_mid.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2021-01-22T01:13:10.4329562+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT/Session01</loc>
+      <lastmod>2021-07-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2fb1/955aebf3-6cea-4e4f-94f8-6acbb2632fb1/AllAroundAzureIoTSession01_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Connecting Your Physical Environment to a Digital World: A Roadmap to IoT Solutioning]]></video:title>
+        <video:description><![CDATA[With 80% of the world&#39;s data collected in the last 2 years, it is estimated that there are currently 32 billion connected devices generating said data. Many organizations are looking to capitalize on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2fb1/955aebf3-6cea-4e4f-94f8-6acbb2632fb1/AllAroundAzureIoTSession01_mid.mp4</video:content_loc>
+        <video:duration>1378</video:duration>
+        <video:publication_date>2021-01-22T01:08:24.9087835+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/All-Around-Azure/A-Developers-Guide-to-IoT/Welcome-Keynote</loc>
+      <lastmod>2021-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6320/92aa040a-f193-4422-aeb9-5def0cf16320/AllAroundAzureIoTKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome and a keynote conversation with Sam George and Olivier Bloch]]></video:title>
+        <video:description><![CDATA[Welcome and a keynote conversation with Sam George and Olivier Bloch This event follows along the Internet of Things Event Learning Path. A learning path is a carefully curated set of technical&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6320/92aa040a-f193-4422-aeb9-5def0cf16320/AllAroundAzureIoTKeynote_mid.mp4</video:content_loc>
+        <video:duration>1083</video:duration>
+        <video:publication_date>2021-01-22T01:00:47.5978430+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

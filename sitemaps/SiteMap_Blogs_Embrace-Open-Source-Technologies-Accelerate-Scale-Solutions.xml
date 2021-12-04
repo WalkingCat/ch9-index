@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Embrace-Open-Source-Technologies-Accelerate-Scale-Solutions</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Embrace-Open-Source-Technologies-Accelerate-Scale-Solutions/01</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/83b7/2a48eaa6-af1d-47af-be51-2f6cd71583b7/Day3HowtoDeployLinuxMadhanArumugan_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01)  Linux/OSS  Azure]]></video:title>
+        <video:description><![CDATA[Azure 支援 Linux &amp;amp; OSS，本單元由淺入深教您從 Azure 整合現有環境，讓您無痛轉換既有的APP，也支援 PHP、Python、Ruby 等多種程式語言，讓您在 Azure 上開發沒煩惱 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83b7/2a48eaa6-af1d-47af-be51-2f6cd71583b7/Day3HowtoDeployLinuxMadhanArumugan_mid.mp4</video:content_loc>
+        <video:duration>3770</video:duration>
+        <video:publication_date>2015-07-25T01:10:12.6757303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Embrace-Open-Source-Technologies-Accelerate-Scale-Solutions/02</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/42b6/47a2c234-ef8f-4dda-822d-d702b84c42b6/Day3LeverageExistingChefPuppetKundanaPalagiri_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02)  Chef / Puppet ]]></video:title>
+        <video:description><![CDATA[這堂課程當中可以學習到在 Azure 中學習以 Chef / Puppet 整合工作流程，以針對 VM 進行客製化 Chef / Puppet 新功能？          簡介 Chef / Puppet 如何在 Azure 中自動化進行基礎架構及應用程式部署 原有的 Chef / Puppet 使用者？          學習在 Azure 中 Chef / Puppet 的擴充功能&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42b6/47a2c234-ef8f-4dda-822d-d702b84c42b6/Day3LeverageExistingChefPuppetKundanaPalagiri_mid.mp4</video:content_loc>
+        <video:duration>3348</video:duration>
+        <video:publication_date>2015-07-25T01:09:54.3053932+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Embrace-Open-Source-Technologies-Accelerate-Scale-Solutions/03</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/58b2/1b4bcd45-43d5-4aad-bceb-62db96c158b2/Day3HowtoImplementContainerizationwithDocker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03)  Container  Docker]]></video:title>
+        <video:description><![CDATA[本單元您將會看到近年來 IT 人員所面對的新興挑戰，以及如何使用 Docker Containers 為打造更多效益。 課程大綱： 企業 IT 系統所面臨的挑戰Docker Containers 的優勢範例展示欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58b2/1b4bcd45-43d5-4aad-bceb-62db96c158b2/Day3HowtoImplementContainerizationwithDocker_mid.mp4</video:content_loc>
+        <video:duration>3531</video:duration>
+        <video:publication_date>2015-07-25T01:09:25.7680379+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Embrace-Open-Source-Technologies-Accelerate-Scale-Solutions/04</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/15a9/11022d1c-d1d0-4041-a66a-339f8f2415a9/Day3CreatingLargeScaleLinux_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04)  Linux ]]></video:title>
+        <video:description><![CDATA[本單元將實際操作以 Azure CLI 部署 Linux VMs 以及 MySQL 與 Azure 負載平衡器 規劃大型部屬需要考量以下三個項目 運算- 需要多少顆運算核心？- 需要什麼等級的隔離機制？網路- 每台節點之間需要的網路頻寬- 每台節點之間的網路負載平衡儲存- 考量 IOPS- 考量磁碟空間大小  欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/15a9/11022d1c-d1d0-4041-a66a-339f8f2415a9/Day3CreatingLargeScaleLinux_mid.mp4</video:content_loc>
+        <video:duration>3057</video:duration>
+        <video:publication_date>2015-07-25T01:09:03.7894220+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

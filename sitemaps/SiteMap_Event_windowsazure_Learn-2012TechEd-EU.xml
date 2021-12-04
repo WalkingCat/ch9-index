@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/windowsazure/Learn-2012TechEd-EU</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/windowsazure/Learn-2012TechEd-EU/WebSites</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d029/1348d22f-ca70-4f4e-8f78-1eea703ad029/AZR209_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Web Sites]]></video:title>
+        <video:description><![CDATA[Windows Azure Web Sites is a simple and powerful hosting platform that allows developers to easily build and rapidly deploy web applications on Windows Azure using their favorite languages,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d029/1348d22f-ca70-4f4e-8f78-1eea703ad029/AZR209_mid.mp4</video:content_loc>
+        <video:duration>4559</video:duration>
+        <video:publication_date>2012-07-11T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/windowsazure/Learn-2012TechEd-EU/VirtualMachines</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ec6/00ad3609-aad3-495b-8c7b-302855a08ec6/AZR208_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Virtual Machines and Virtual Networks]]></video:title>
+        <video:description><![CDATA[Join Mark Russinovich for a tour of the features that make up the new Windows Azure Virtual Machines and Virtual Networks offerings.  Using demonstrations throughout, he explains the Virtual Machine&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ec6/00ad3609-aad3-495b-8c7b-302855a08ec6/AZR208_mid.mp4</video:content_loc>
+        <video:duration>4569</video:duration>
+        <video:publication_date>2012-07-09T16:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/windowsazure/Learn-2012TechEd-EU/DataServices</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/22e0/8fa2c7f9-0c85-4b39-9d6f-10edd28522e0/AZR210_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud-Ready Data Services]]></video:title>
+        <video:description><![CDATA[Windows Azure includes a complete set of enterprise-ready data services, including Windows Azure Storage and SQL Databases. In this demo-filled session developers will see how to can effectively use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22e0/8fa2c7f9-0c85-4b39-9d6f-10edd28522e0/AZR210_mid.mp4</video:content_loc>
+        <video:duration>4507</video:duration>
+        <video:publication_date>2012-07-05T16:35:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/windowsazure/Learn-2012TechEd-EU/MeetNewWindowsAzure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37b5/0a32bd49-04dc-42dd-b024-ce78501a37b5/FDN05_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Meet the New Windows Azure]]></video:title>
+        <video:description><![CDATA[Windows Azure is a flexible and open cloud platform for a wide variety of applications ranging from web sites to enterprise and mobile applications.  In this foundation session Scott Guthrie will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37b5/0a32bd49-04dc-42dd-b024-ce78501a37b5/FDN05_mid.mp4</video:content_loc>
+        <video:duration>3833</video:duration>
+        <video:publication_date>2012-07-05T16:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

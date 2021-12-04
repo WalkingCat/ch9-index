@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Media-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Media-Services/Getting-Started-with-Azure-Media-Services</loc>
+      <lastmod>2017-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6873/d827f878-da0b-4e7e-b1f0-3304986c6873/GettingStarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Azure Media Services]]></video:title>
+        <video:description><![CDATA[Take a look at this instructional video to learn more about getting started with Azure Media Services.  We will walk through how to set up a live streaming channel ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6873/d827f878-da0b-4e7e-b1f0-3304986c6873/GettingStarted_mid.mp4</video:content_loc>
+        <video:duration>1179</video:duration>
+        <video:publication_date>2015-02-02T19:18:17.6052233+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

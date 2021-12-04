@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Leaderboards-mit-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Leaderboards-mit-Azure/04--Weitere-Mobile-Services-Funktionen</loc>
+      <lastmod>2015-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a289/d13b6833-6cce-42c7-9930-d16b7b82a289/04ETC_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Weitere Mobile Services Funktionen]]></video:title>
+        <video:description><![CDATA[Zu guter Letzt zeige ich Euch in diesem Video, welche Funktionalit&#228;ten Azure Mobile Services noch zu bieten haben. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a289/d13b6833-6cce-42c7-9930-d16b7b82a289/04ETC_mid.mp4</video:content_loc>
+        <video:duration>597</video:duration>
+        <video:publication_date>2015-04-07T07:45:52.7945230+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Leaderboards-mit-Azure/03--Rangliste-auslesen</loc>
+      <lastmod>2015-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41c5/2963bac9-c4a4-49a5-ac01-b39fa51341c5/03ReadData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Rangliste auslesen]]></video:title>
+        <video:description><![CDATA[Kapitel 3 unseres kleinen Kurses zeigt euch, wie ihr die Highscore-Daten in eurem Spiel anzeigen k&#246;nnt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41c5/2963bac9-c4a4-49a5-ac01-b39fa51341c5/03ReadData_mid.mp4</video:content_loc>
+        <video:duration>850</video:duration>
+        <video:publication_date>2015-04-07T07:45:36.4006901+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Leaderboards-mit-Azure/02--Daten-anlegen-und-speichern</loc>
+      <lastmod>2015-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1460/c558132d-5c00-4848-8722-898334341460/02SaveData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Daten anlegen und speichern]]></video:title>
+        <video:description><![CDATA[Im zweiten Kapitel des Kurses zu Leaderboards mit Azure Mobile Services lernen wir, die Daten anzulegen und vom Spiel aus in die Cloud zu speichern. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1460/c558132d-5c00-4848-8722-898334341460/02SaveData_mid.mp4</video:content_loc>
+        <video:duration>1383</video:duration>
+        <video:publication_date>2015-04-07T07:45:22.5739519+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Leaderboards-mit-Azure/01--Darf-ich-vorstellen-Azure-Mobile-Services</loc>
+      <lastmod>2015-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d3ec/82b3b53f-3d6b-4945-b9d6-9eec3845d3ec/01IntroductionToAzureMobileServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Darf ich vorstellen - Azure Mobile Services]]></video:title>
+        <video:description><![CDATA[Die Azure Mobile Services sind besonders geeignet, um schnell mobile Apps unabh&#228;ngig von ihrer Plattform mit der Cloud zu verkn&#252;pfen. So k&#246;nnen leicht Daten ausgetauscht werden, wie wir hier anhand&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d3ec/82b3b53f-3d6b-4945-b9d6-9eec3845d3ec/01IntroductionToAzureMobileServices_mid.mp4</video:content_loc>
+        <video:duration>754</video:duration>
+        <video:publication_date>2015-04-01T11:33:32.8110953+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Cosmos-DB-for-everyone-using-Graphistry-no-code-and-low-code-GPU-visual-graph-analytics</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/eb84/6820e012-efd3-40ac-b380-5fe48035eb84/GPUVisualGraphAnalyticsWithLMeyerovich_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cosmos DB for everyone using Graphistry&#39; no-code and low-code GPU visual graph analytics]]></video:title>
+        <video:description><![CDATA[From security and fraud to sales and marketing, teams are adopting graph analytics to understand the relationships across their data. Cosmos DB solves how to execute Gremlin graph queries, which is&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/eb84/6820e012-efd3-40ac-b380-5fe48035eb84/GPUVisualGraphAnalyticsWithLMeyerovich_mid.mp4</video:content_loc>
+        <video:duration>1698</video:duration>
+        <video:publication_date>2021-04-20T16:00:18.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Optimizing-Request-Unit-Consumption</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ea2f/3824e975-58a6-493d-80d2-04855100ea2f/OptimizingRequestUnitWithWChaves_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Optimizing Request Unit Consumption]]></video:title>
+        <video:description><![CDATA[Cosmos DB is a &amp;quot;Database as a Service&amp;quot; product, where we don&#39;t have control of hardware configuration but instead use &amp;quot;request units&amp;quot; to specify the resources of our database.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ea2f/3824e975-58a6-493d-80d2-04855100ea2f/OptimizingRequestUnitWithWChaves_mid.mp4</video:content_loc>
+        <video:duration>2721</video:duration>
+        <video:publication_date>2021-04-20T16:00:17.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Visualizing-Cosmos-DB-Graph-Data-Over-Time-and-Space</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a713/ae8bc5a2-b913-4af9-8a11-5fc73c2fa713/CosmosDBGraphsOverTimeAndSpaceWithCLanum_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visualizing Cosmos DB Graph Data Over Time and Space]]></video:title>
+        <video:description><![CDATA[When building an application that takes advantage of graph data, selecting the data source and getting the data model right is seen as the entire solution but it is often only the first step. You then&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a713/ae8bc5a2-b913-4af9-8a11-5fc73c2fa713/CosmosDBGraphsOverTimeAndSpaceWithCLanum_mid.mp4</video:content_loc>
+        <video:duration>1566</video:duration>
+        <video:publication_date>2021-04-20T16:00:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Implementing-an-Event-Sourcing-strategy-on-Azure</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/997a/aa0a366d-dd1f-4175-b749-39b57339997a/ImplementingANEventSourcingStrategyWithEGrootenbo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing an Event Sourcing strategy on Azure]]></video:title>
+        <video:description><![CDATA[In recent years the Event Sourcing pattern has become increasingly popular. By storing a history of events it enables us to decouple the storage of data from the implementation of the logic around it.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/997a/aa0a366d-dd1f-4175-b749-39b57339997a/ImplementingANEventSourcingStrategyWithEGrootenbo_mid.mp4</video:content_loc>
+        <video:duration>1569</video:duration>
+        <video:publication_date>2021-04-20T16:00:15.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Real-Life-migration-from-PostgreSQL-to-Cosmos-DB</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1040/4cd95bb5-6690-422b-a1f6-b8561db51040/ReallifeMigrationPostgreSQLWithJMichel_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real Life migration from PostgreSQL to Cosmos DB]]></video:title>
+        <video:description><![CDATA[Follow us in the migration process of an existing customer application working on PostgreSQL to Cosmos DB. We will show you step by step the different iterations of the project, from the initial&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1040/4cd95bb5-6690-422b-a1f6-b8561db51040/ReallifeMigrationPostgreSQLWithJMichel_mid.mp4</video:content_loc>
+        <video:duration>1856</video:duration>
+        <video:publication_date>2021-04-20T16:00:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Architecting-Cloud-Native-Apps-with-AKS-and-Cosmos-DB</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3bbf/b1e4a12b-ba07-40f1-a01c-575779623bbf/ArchitectingCloudNativeAppsWithBGriffin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Cloud Native Apps with AKS and Cosmos DB]]></video:title>
+        <video:description><![CDATA[In this session will look at modern app development and how using Kubernetes (in this case AKS) presents a number of advantages, couple this with a native Azure service like Cosmos DB can be a winning&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3bbf/b1e4a12b-ba07-40f1-a01c-575779623bbf/ArchitectingCloudNativeAppsWithBGriffin_mid.mp4</video:content_loc>
+        <video:duration>1525</video:duration>
+        <video:publication_date>2021-04-20T16:00:13.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/How-does-Azure-Cosmos-DB-work-under-the-hood</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d198/6dcdd619-dc68-40bc-8ebd-4b730d43d198/ComosDBUnderTheHoodWithHSavran_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How does Azure Cosmos DB work under the hood?]]></video:title>
+        <video:description><![CDATA[To master any technology, you need to understand the foundation of how it works on the back-end first. In this session; We will explore Azure Cosmos DB&#39;s infrastructure. I will explain you how Azure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d198/6dcdd619-dc68-40bc-8ebd-4b730d43d198/ComosDBUnderTheHoodWithHSavran_mid.mp4</video:content_loc>
+        <video:duration>1431</video:duration>
+        <video:publication_date>2021-04-20T16:00:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Migrating-to-Cosmos-DBs-API-for-MongoDB</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ab13/e7099ee3-08d1-402a-9f1b-2e487ca6ab13/MigratingToComosDBsAPIWithSNayak_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating to Cosmos DB&#39;s API for MongoDB]]></video:title>
+        <video:description><![CDATA[Azure Cosmos DB&#39;s API for MongoDB is Microsoft&#39;s implementation of the wire protocol for MongoDB built on top of the foundational Azure Cosmos DB engine. This session will be focused on migration to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ab13/e7099ee3-08d1-402a-9f1b-2e487ca6ab13/MigratingToComosDBsAPIWithSNayak_mid.mp4</video:content_loc>
+        <video:duration>2334</video:duration>
+        <video:publication_date>2021-04-20T16:00:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Integrating-Cosmos-DB-with-Azure-Functions</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0193/c13960fe-a3e1-4baf-af6d-c40f35140193/IntegratingCosmosDBWithGMartinez_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Integrating Cosmos DB with Azure Functions]]></video:title>
+        <video:description><![CDATA[A session that explains how to use the input and output bindings and Cosmos DB Triggers within an Azure Function Application using C#. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0193/c13960fe-a3e1-4baf-af6d-c40f35140193/IntegratingCosmosDBWithGMartinez_mid.mp4</video:content_loc>
+        <video:duration>4707</video:duration>
+        <video:publication_date>2021-04-20T16:00:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Explore-Graph-Analytical-use-case-with-Azure-Cosmos-Gremlin-API-and-Azure-Synapse-Spark-graphframes</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d5ec/832aac66-caaa-4699-acf7-7682310dd5ec/GremlinAPIWithSSmyrnov_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Explore Graph Analytical use-case with Azure Cosmos Gremlin API and Azure Synapse Spark graphframes]]></video:title>
+        <video:description><![CDATA[In this session you will get introduced to Azure Cosmos Gremlin API, Azure Synapse Link, Spark and learn Cosmos Gremlin API best practices as well as how to use combination of these technologies to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d5ec/832aac66-caaa-4699-acf7-7682310dd5ec/GremlinAPIWithSSmyrnov_mid.mp4</video:content_loc>
+        <video:duration>1948</video:duration>
+        <video:publication_date>2021-04-20T16:00:09.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/From-the-trenches-Building-an-awesome-multitenant-SaaS-with-Cosmos-DB-and-Azure</loc>
+      <lastmod>2021-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c889/7a8e1081-327a-44d1-8e32-ffe9e031c889/BuildingMultitenantSaaSWithNStahl_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From the trenches: Building an awesome multitenant SaaS with Cosmos DB and Azure]]></video:title>
+        <video:description><![CDATA[A real-world case study of how Whally, a multitenant SaaS startup, built a modern platform from scratch on Cosmos DB and Azure. Noah shows the design and implementation decisions he made related to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c889/7a8e1081-327a-44d1-8e32-ffe9e031c889/BuildingMultitenantSaaSWithNStahl_mid.mp4</video:content_loc>
+        <video:duration>3505</video:duration>
+        <video:publication_date>2021-04-20T16:00:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/A-deep-dive-into-the-Cosmos-DB-repository-pattern-dotNET-SDK</loc>
+      <lastmod>2021-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6f6e/64f8873d-5c52-49cf-a47d-d45343916f6e/DeepDiveRepositoryPatternWithDPine_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A deep-dive into the Cosmos DB repository-pattern .NET SDK]]></video:title>
+        <video:description><![CDATA[A code-heavy presentation introducing the Cosmos DB repository-pattern .NET SDK from the author of the library. In this presentation, David Pine of Microsoft, will demonstrate the inner-workings of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6f6e/64f8873d-5c52-49cf-a47d-d45343916f6e/DeepDiveRepositoryPatternWithDPine_mid.mp4</video:content_loc>
+        <video:duration>2152</video:duration>
+        <video:publication_date>2021-04-20T16:00:07.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Real-World-NoSQL-design-patterns-with-Azure-Cosmos-DB</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/62a1/61fcc69d-d527-4892-a37c-d4477fed62a1/RealWorldNoSQLDesignPatternsWithSSmyrov_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real World NoSQL design patterns with Azure Cosmos DB]]></video:title>
+        <video:description><![CDATA[In this session we will go over several real world NoSQL design and solution patterns to illustrate how Cosmos DB is used to help customers to solve critical business challenges and focus on best&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/62a1/61fcc69d-d527-4892-a37c-d4477fed62a1/RealWorldNoSQLDesignPatternsWithSSmyrov_mid.mp4</video:content_loc>
+        <video:duration>2287</video:duration>
+        <video:publication_date>2021-04-20T16:00:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Access-Azure-Cosmos-DB-with-Entity-Framework-Core</loc>
+      <lastmod>2021-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/aa72/73fd3102-608d-4fbc-8085-592ccb61aa72/AccessAzureWithJLikness_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Access Azure Cosmos DB with Entity Framework Core]]></video:title>
+        <video:description><![CDATA[EF Core is the data access API of choice for .NET developers. Although considered by most to be an object relational mapper (ORM), the team recently added support for the Azure Cosmos DB SQL API.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/aa72/73fd3102-608d-4fbc-8085-592ccb61aa72/AccessAzureWithJLikness_mid.mp4</video:content_loc>
+        <video:duration>3071</video:duration>
+        <video:publication_date>2021-04-20T16:00:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Partitioning-Tips-for-Cosmos-DB-to-Increase-Performance-and-Save-Money</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ad87/07cc6a0a-859d-42a8-a065-53f6c01bad87/PartitioningTipsWithJCocchi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partitioning Tips for Cosmos DB to Increase Performance and Save Money]]></video:title>
+        <video:description><![CDATA[Choosing the right partition key in Cosmos DB is complicated, but the right key will help you both increase the performance of your application and reduce the number of RUs you need to provision.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ad87/07cc6a0a-859d-42a8-a065-53f6c01bad87/PartitioningTipsWithJCocchi_mid.mp4</video:content_loc>
+        <video:duration>1220</video:duration>
+        <video:publication_date>2021-04-20T16:00:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Experiences-from-7-years-of-Cosmos-DB</loc>
+      <lastmod>2021-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2c78/1025249d-69f0-431a-82e6-e0e616162c78/7YearsOfExperiencesWithSNahi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Experiences from 7 years of Cosmos DB]]></video:title>
+        <video:description><![CDATA[Cosmos DB is a powerful tool. It may look simple on the cover, since &amp;quot;it just works&amp;quot;, but the performance and cost optimizations are rarely simple. This presentation looks at Cosmos DB from&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2c78/1025249d-69f0-431a-82e6-e0e616162c78/7YearsOfExperiencesWithSNahi_mid.mp4</video:content_loc>
+        <video:duration>2761</video:duration>
+        <video:publication_date>2021-04-20T16:00:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Search-and-Explore-your-Cosmos-DB-data-with-Azure-Cognitive-Search</loc>
+      <lastmod>2021-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9cdb/8fb2e34c-df64-4919-b4cc-95e26a419cdb/SearchAndExploreWithLCavanagh_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Search and Explore your Cosmos DB data with Azure Cognitive Search]]></video:title>
+        <video:description><![CDATA[Organizations what to make full use of their data and often this means being able to gain more insights, explore and search this data. In this session, we will explain how Azure Cognitive Search, an&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9cdb/8fb2e34c-df64-4919-b4cc-95e26a419cdb/SearchAndExploreWithLCavanagh_mid.mp4</video:content_loc>
+        <video:duration>1352</video:duration>
+        <video:publication_date>2021-04-20T16:00:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Blowing-your-mind-with-FSharp</loc>
+      <lastmod>2021-05-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4e6b/1ddcaf84-e116-4806-b135-b653cc364e6b/BlowingYourMindWithFSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Blowing your mind with F#]]></video:title>
+        <video:description><![CDATA[F# is the lesser known of the .NET programming languages, but it can pack a punch when it comes to building applications. But what does that have to do with CosmosDB? What if I told you that you could&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4e6b/1ddcaf84-e116-4806-b135-b653cc364e6b/BlowingYourMindWithFSharp_mid.mp4</video:content_loc>
+        <video:duration>1967</video:duration>
+        <video:publication_date>2021-04-20T16:00:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Operational-Triumph-with-Cosmos-DB</loc>
+      <lastmod>2021-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5f2c/f0f13fe8-d85f-4f24-8fcc-2203eb155f2c/OperationalTriumphwithCosmosDB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Operational Triumph with Cosmos DB]]></video:title>
+        <video:description><![CDATA[Since its official release in 2017 ASOS has been using Cosmos DB to reimagine our Commerce platform. Let&#39;s take a look at how Cosmos DB has been vital to conquer our operational data needs while&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5f2c/f0f13fe8-d85f-4f24-8fcc-2203eb155f2c/OperationalTriumphwithCosmosDB_mid.mp4</video:content_loc>
+        <video:duration>2119</video:duration>
+        <video:publication_date>2021-04-20T01:37:04.7541844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Vercel-plus-CosmosDB-The-Journey</loc>
+      <lastmod>2021-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e9aa/d5967da6-0540-4d29-b0f0-99844bd6e9aa/VercelandCosmosDBTheJourney_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Vercel + CosmosDB: The Journey]]></video:title>
+        <video:description><![CDATA[In this session I&#39;d like to go through the most important challenges we had to solve at Vercel using CosmosDB. During an almost 4 years journey we had to face a variety of challenges that could be of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e9aa/d5967da6-0540-4d29-b0f0-99844bd6e9aa/VercelandCosmosDBTheJourney_mid.mp4</video:content_loc>
+        <video:duration>1909</video:duration>
+        <video:publication_date>2021-04-20T01:34:16.2661970+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Integrating-Azure-Cosmos-DB-in-your-Cloud-Solution</loc>
+      <lastmod>2021-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0d04/0988bd7c-4dd7-4e43-ba9c-cb7a8dc10d04/IntegratingAzureCosmosDBinyourCloudSolution_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Integrating Azure Cosmos DB in your Cloud Solution]]></video:title>
+        <video:description><![CDATA[When there is a NoSQL requirement in your cloud solution on the Azure Cloud Platform, there is a managed service available with Cosmos DB. Azure Cosmos DB is Microsoft&#39;s offering for a distributed&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0d04/0988bd7c-4dd7-4e43-ba9c-cb7a8dc10d04/IntegratingAzureCosmosDBinyourCloudSolution_mid.mp4</video:content_loc>
+        <video:duration>1288</video:duration>
+        <video:publication_date>2021-04-20T01:33:04.5789531+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Data-modeling-and-schema-design-for-Cosmos-DB</loc>
+      <lastmod>2021-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/913e/029ce923-a6d8-41dd-9eb3-e00e8e14913e/DatamodelingandschemadesignforCosmosDB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data modeling and schema design for Cosmos DB]]></video:title>
+        <video:description><![CDATA[Facilitate migration from RDBMS to Cosmos DB through denormalization to leverage the scalability, flexibility, and easy evolution of schemas for Cosmos DB. In this session, we will demonstrate how&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/913e/029ce923-a6d8-41dd-9eb3-e00e8e14913e/DatamodelingandschemadesignforCosmosDB_mid.mp4</video:content_loc>
+        <video:duration>1891</video:duration>
+        <video:publication_date>2021-04-20T01:31:10.5434378+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Cosmos-DB-plus-Azure-Functions-A-serverless-database-processing</loc>
+      <lastmod>2021-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1fdc/5970b119-0f2b-41bb-bfff-a30f77301fdc/CosmosDBAzureFunctionsAserverlessdatabaseprocessi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cosmos DB + Azure Functions: A serverless database processing]]></video:title>
+        <video:description><![CDATA[With the native integration between Cosmos DB and Azure Functions, you can create database triggers, input bindings, and output bindings directly from your account. Using Azure Functions and Cosmos&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1fdc/5970b119-0f2b-41bb-bfff-a30f77301fdc/CosmosDBAzureFunctionsAserverlessdatabaseprocessi_mid.mp4</video:content_loc>
+        <video:duration>1760</video:duration>
+        <video:publication_date>2021-04-20T01:29:55.3898545+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Modern-infrastructure-for-modern-apps-with-Cosmos-DB-AKS-and-Pulumi</loc>
+      <lastmod>2021-04-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a2df/3e3cf1df-e061-4bfd-ab9e-ab6b4ec4a2df/ModerninfrastructureformodernappswithCosmosDBAKSa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern infrastructure for modern apps with Cosmos DB, AKS and Pulumi]]></video:title>
+        <video:description><![CDATA[Building scalable applications begins with adopting scalable architecture patterns in Azure. Pulumi lets you define and deploy resources in Azure using .NET, Node.js, Python, and Go. The&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a2df/3e3cf1df-e061-4bfd-ab9e-ab6b4ec4a2df/ModerninfrastructureformodernappswithCosmosDBAKSa_mid.mp4</video:content_loc>
+        <video:duration>1851</video:duration>
+        <video:publication_date>2021-04-20T01:28:17.0778744+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Design-and-implementation-of-Cosmos-DB-Change-Feed-centric-architecture</loc>
+      <lastmod>2021-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dd1b/f7b8af1d-7c8f-4c98-8a1e-d52e2b28dd1b/DesignandimplementationofCosmosDBChangeFeedcentri_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Design and implementation of Cosmos DB Change Feed-centric architecture]]></video:title>
+        <video:description><![CDATA[This session will present actual development cases of design based on Lambda architecture using Cosmos DB Change Feed and implementation patterns using Azure Serverless technology. This session will&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dd1b/f7b8af1d-7c8f-4c98-8a1e-d52e2b28dd1b/DesignandimplementationofCosmosDBChangeFeedcentri_mid.mp4</video:content_loc>
+        <video:duration>2449</video:duration>
+        <video:publication_date>2021-04-20T01:26:58.7405458+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Real-Time-Scoring-to-Improve-Personalization-with-Adobe-Experience-Platform</loc>
+      <lastmod>2021-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4306/08d5ffcc-3ca3-4418-b213-238a731d4306/RealTimeScoringtoImprovePersonalizationwithAdobeE_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real-Time Scoring to Improve Personalization with Adobe Experience Platform]]></video:title>
+        <video:description><![CDATA[For an Insurance company, we generated real-time sales predictions for anonymous, unknown website visitors using Adobe Experience Platform. We discuss how we used Adobe Experience Platform and Data&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4306/08d5ffcc-3ca3-4418-b213-238a731d4306/RealTimeScoringtoImprovePersonalizationwithAdobeE_mid.mp4</video:content_loc>
+        <video:duration>1543</video:duration>
+        <video:publication_date>2021-04-20T01:22:18.3283584+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/GraphQL-over-CosmosDB-where-to-start</loc>
+      <lastmod>2021-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c681/8adc96b8-47ed-4099-9e1d-b9a42193c681/GraphQLoverCosmosDBwheretostart_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GraphQL over CosmosDB, where to start]]></video:title>
+        <video:description><![CDATA[The popularity of GraphQL can&#39;t be denied and it fits really nicely with a schemaless data model like we can achieve with GraphQL. But how do we get started with it? What options do we have when it&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c681/8adc96b8-47ed-4099-9e1d-b9a42193c681/GraphQLoverCosmosDBwheretostart_mid.mp4</video:content_loc>
+        <video:duration>1759</video:duration>
+        <video:publication_date>2021-04-20T01:21:09.2836160+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Cosmos-DB-for-the-SQL-Professional</loc>
+      <lastmod>2021-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/348c/29a62ea5-52ff-42ef-a6e7-dbec0ae4348c/CosmosDBfortheSQLProfessional_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cosmos DB for the SQL Professional]]></video:title>
+        <video:description><![CDATA[Knowing data is crucial when it comes to design - and SQL Professionals have this skill refined. But knowing implementation detail is also important. While there are similarities between these two&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/348c/29a62ea5-52ff-42ef-a6e7-dbec0ae4348c/CosmosDBfortheSQLProfessional_mid.mp4</video:content_loc>
+        <video:duration>1889</video:duration>
+        <video:publication_date>2021-04-20T01:19:47.3609275+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Developing-HTAP-Analytical-Solutions-with-Azure-Cosmos-DB-and-Azure-Synapse-Analytics</loc>
+      <lastmod>2021-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5ce2/bdb8fa7d-0f53-4b46-86cd-12be13c35ce2/DevelopingHTAPAnalyticalSolutionswithAzureCosmosD_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing HTAP Analytical Solutions with Azure Cosmos DB and Azure Synapse Analytics]]></video:title>
+        <video:description><![CDATA[Using Azure Synapse Link for Azure Cosmos DB, we can enable cloud-native hybrid transactional and analytical processing on our Cosmos DB data. This enables data engineers, analysts and data scientists&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5ce2/bdb8fa7d-0f53-4b46-86cd-12be13c35ce2/DevelopingHTAPAnalyticalSolutionswithAzureCosmosD_mid.mp4</video:content_loc>
+        <video:duration>1842</video:duration>
+        <video:publication_date>2021-04-20T01:17:36.0974901+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Data-Modeling-and-Partitioning-in-Azure-Cosmos-DB</loc>
+      <lastmod>2021-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4b01/57c6c706-fc47-491f-9ad0-9de8884c4b01/AzureCosmosDBConfLeonardLobelDataModeling_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data Modeling and Partitioning in Azure Cosmos DB]]></video:title>
+        <video:description><![CDATA[For many newcomers to Cosmos DB, the learning process starts with data modeling and partitioning. How should you structure your model? When should you combine multiple entity types in a single&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4b01/57c6c706-fc47-491f-9ad0-9de8884c4b01/AzureCosmosDBConfLeonardLobelDataModeling_mid.mp4</video:content_loc>
+        <video:duration>2095</video:duration>
+        <video:publication_date>2021-04-20T01:16:02.6651608+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Bridge-to-Azure-Streaming-data-into-Cosmos-DB-with-Confluent</loc>
+      <lastmod>2021-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e203/3a440363-4782-46fa-bc4a-144d7113e203/AzureCosmosDBConfAliciaMoniz_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bridge to Azure: Streaming data into Cosmos DB with Confluent]]></video:title>
+        <video:description><![CDATA[Confluent enables large scale, big data pipelines that automate real-time data movement across any systems, applications, and architectures at massive scale. Empowering organizations to aggregate,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e203/3a440363-4782-46fa-bc4a-144d7113e203/AzureCosmosDBConfAliciaMoniz_mid.mp4</video:content_loc>
+        <video:duration>1567</video:duration>
+        <video:publication_date>2021-04-20T01:14:18.6856012+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Data-and-Different-System-Architectures-to-Build-a-Truly-Unified-View</loc>
+      <lastmod>2021-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ef22/549729d8-dbdf-4fca-86f3-6a837cb7ef22/AzureCosmosDBConfProfileAndIDArchitectureForAdobe_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data and Different System Architectures to Build a Truly Unified View]]></video:title>
+        <video:description><![CDATA[Digital components enterprises need to develop a 360-degree view of their customers and the capabilities and limitations inherent in the technologies available to help them do that. In this session,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dec3/3a403dfb-8363-44e9-b975-ba8bb639dec3/AzureCosmosDBConfSandeepNawatheProfileAndIDArchit_mid.mp4</video:content_loc>
+        <video:duration>1818</video:duration>
+        <video:publication_date>2021-04-20T01:12:36.4851587+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Online-and-Real-Time-Database-Migration-to-Azure-Cosmos-DB-with-Striim</loc>
+      <lastmod>2021-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fae2/d8c00728-57ac-4d96-9bfa-ff2698acfae2/AzureCosmosDBConfLiuPareek_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Online and Real-Time Database Migration to Azure Cosmos DB with Striim]]></video:title>
+        <video:description><![CDATA[There is significant demand for moving and continuous data integration as workloads shift to the cloud. Modernizing databases by offloading workloads to cloud requires building real-time data&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a4db/2cda1a35-90e1-422a-93b3-0382378ca4db/AzureCosmosDBConfLiuPareekOnlineAndRealTimeDataba_mid.mp4</video:content_loc>
+        <video:duration>1799</video:duration>
+        <video:publication_date>2021-04-20T01:09:49.0592139+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Azure-Cosmos-DB/Azure-Cosmos-DB-Conf/Azure-Cosmos-DB-Conf-Keynote</loc>
+      <lastmod>2021-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b467/8b9de942-e0dd-46a8-b4d6-851d406ab467/AzureCosmosDBConfGavrylyuk_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Cosmos DB Conf - Keynote]]></video:title>
+        <video:description><![CDATA[Join Director of Product Management for Azure Cosmos DB, Kirill Gavrylyuk to kick off Azure Cosmos DB Conf. Kirill will highlight key Cosmos DB capabilities and recent announcements. Kirill will also&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f169/36c462eb-b9be-47f4-8467-3d158253f169/KirillGavrylyukKeynote_mid.mp4</video:content_loc>
+        <video:duration>3502</video:duration>
+        <video:publication_date>2021-04-20T01:08:19.7735253+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

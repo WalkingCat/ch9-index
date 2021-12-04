@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/atm/2014</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/atm/2014/xdev</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b0f/d290c1c8-394e-4175-aeb6-e2c581fb3b0f/LoriDavidonWindows_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Portable Class Libraries and Xamarin to Share Code Across Win8, Win Phones, iOS and Android]]></video:title>
+        <video:description><![CDATA[Mobile app development has really exploded over the past few years. And with that, so have the number of options available to developers.  Developers are looking for ways to maximize code reuse while&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b0f/d290c1c8-394e-4175-aeb6-e2c581fb3b0f/LoriDavidonWindows_mid.mp4</video:content_loc>
+        <video:duration>1104</video:duration>
+        <video:publication_date>2014-06-13T11:21:48.2215255+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/atm/2014/sharepoint</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c27b/6b866774-66d8-45fb-b363-9f54970ac27b/SharePoint_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint: Your Fastest, Out-of-the-box Application Development Platform]]></video:title>
+        <video:description><![CDATA[SharePoint 2013 is not just a collection of lists and libraries anymore. It is a big product with lots of built-in out of the box services. We as SharePoint developers used to build a lot on the top&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c27b/6b866774-66d8-45fb-b363-9f54970ac27b/SharePoint_mid.mp4</video:content_loc>
+        <video:duration>900</video:duration>
+        <video:publication_date>2014-06-09T14:16:36.6448730+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/atm/2014/VS2013</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8109/0f64fce8-c7e3-465a-992d-7e70f69d8109/ColinBowernOnVS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Something for Everyone in Visual Studio 2013]]></video:title>
+        <video:description><![CDATA[Visual Studio 2013 has been a small jump in version number from 2012, but don&#39;t be fooled – from your first time using it you discover it is the little things that make a big impact in your day-to-day&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8109/0f64fce8-c7e3-465a-992d-7e70f69d8109/ColinBowernOnVS_mid.mp4</video:content_loc>
+        <video:duration>1586</video:duration>
+        <video:publication_date>2014-04-14T16:43:16.6094096+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/atm/2014/TFS</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/61ab155c-87f0-4eb4-9fb0-9cbe408a5706.png</video:thumbnail_loc>
+        <video:title><![CDATA[From Requirements to Deployment: The Modern SW Developer using TFS]]></video:title>
+        <video:description><![CDATA[In case you haven&#39;t heard Team Foundation Server is Microsoft&#39;s Application  Lifecycle Management tool. From requirements gathering to deployment and everything in between. I&#39;ll show you a day in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1776/bc917b72-32e3-4086-8a27-bd6df48f1776/TFSDaveLLoyd_mid.mp4</video:content_loc>
+        <video:duration>1524</video:duration>
+        <video:publication_date>2014-04-11T19:27:59.6941014+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/atm/2014/azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

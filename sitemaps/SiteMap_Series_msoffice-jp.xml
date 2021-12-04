@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/msoffice-jp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/msoffice-jp/powerpoint</loc>
+      <lastmod>2016-01-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e0d/06090ef5-9406-4530-b068-985c55f80e0d/PowerPoint_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft PowerPoint ]]></video:title>
+        <video:description><![CDATA[プレゼン資料の効果的な作成方法から、知ってると便利な PowerPoint の機能をご紹介します。プレゼンのスキルアップをサポートする機能が満載です。ぜひご活用ください。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e0d/06090ef5-9406-4530-b068-985c55f80e0d/PowerPoint_mid.mp4</video:content_loc>
+        <video:duration>1142</video:duration>
+        <video:publication_date>2016-01-07T07:57:38.5819307+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/msoffice-jp/excel</loc>
+      <lastmod>2016-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42cc/a2735009-5edb-4ffc-90c5-569fd75d42cc/Excel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Excel ]]></video:title>
+        <video:description><![CDATA[表計算ソフトとしての特徴から、ビジネスで役立つピボットテーブルの使い方まで、Excel の基礎を解説します。Excel を使いこなして、ぜひビジネスにお役立てください。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42cc/a2735009-5edb-4ffc-90c5-569fd75d42cc/Excel_mid.mp4</video:content_loc>
+        <video:duration>1429</video:duration>
+        <video:publication_date>2016-01-07T07:57:15.5128236+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

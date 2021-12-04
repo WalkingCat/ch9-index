@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-IoT-y-Raspberry-Pi</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-IoT-y-Raspberry-Pi/Windows-10-IoT-y-Raspberry-Pi-2--Parte-2-Conectando-componentes-a-la-Raspberry-Pi-2</loc>
+      <lastmod>2019-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62b0/3869aa21-afa0-411c-a31a-87f10c2d62b0/MSFTInsiderWin10iotpart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 IoT y Raspberry Pi 2  Parte 2: Conectando componentes a la Raspberry Pi 2]]></video:title>
+        <video:description><![CDATA[En este video empezamos a conectar componentes y os ense&#241;aremos como hacerlo de manera segura. Empezaremos con un LED y luego probaremos un sensor de temperatura. Dos elementos b&#225;sicos que os&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62b0/3869aa21-afa0-411c-a31a-87f10c2d62b0/MSFTInsiderWin10iotpart2_mid.mp4</video:content_loc>
+        <video:duration>2700</video:duration>
+        <video:publication_date>2016-04-05T12:26:17.3478909+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-IoT-y-Raspberry-Pi/Windows-10-IoT-y-Raspberry-Pi-2-Parte-1-introduccion-Instalacion-Windows-10-IoT</loc>
+      <lastmod>2017-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/643b/88198cd8-766d-4870-a285-dded2190643b/MSINSIDERW10RaspPiParte1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 IoT y Raspberry Pi 2  Parte 1: introducci&#243;n, Instalaci&#243;n de Windows 10 IoT, Panel de&amp;#8230;]]></video:title>
+        <video:description><![CDATA[En este v&#237;deo descubriremos qu&#233; es una Raspberry Pi 2 y qu&#233; encontramos en ella, le instalaremos Windows 10 IoT en una microSD, y aprenderemos a conectarla a la red y a entrar al panel de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/643b/88198cd8-766d-4870-a285-dded2190643b/MSINSIDERW10RaspPiParte1_mid.mp4</video:content_loc>
+        <video:duration>1449</video:duration>
+        <video:publication_date>2016-03-10T16:59:07.6017539+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

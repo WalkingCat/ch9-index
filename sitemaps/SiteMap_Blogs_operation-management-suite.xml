@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/operation-management-suite</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/operation-management-suite/01</loc>
+      <lastmod>2016-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d017/c8e691f3-91e5-4e79-b6d3-df3e052cd017/OMSbasic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[OMS ]]></video:title>
+        <video:description><![CDATA[此課程將帶您探討混和雲目前所面臨的挑戰以及 OMS 可以為企業帶來哪些好處，影片中有詳細的 Demo 畫面讓您一步一步邁向成功管理！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d017/c8e691f3-91e5-4e79-b6d3-df3e052cd017/OMSbasic_mid.mp4</video:content_loc>
+        <video:duration>686</video:duration>
+        <video:publication_date>2015-08-04T07:45:55.7668841+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

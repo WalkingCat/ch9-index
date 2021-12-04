@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Merve-Gorunmez</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Merve-Gorunmez/SQL-Saturday-Istanbul-2014</loc>
+      <lastmod>2015-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/139c/5eccd776-a57b-48a1-b186-42f1c0cd139c/session22_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Saturday Istanbul 2014]]></video:title>
+        <video:description><![CDATA[SQL Saturday Istanbul 2014 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/139c/5eccd776-a57b-48a1-b186-42f1c0cd139c/session22_mid.mp4</video:content_loc>
+        <video:duration>4135</video:duration>
+        <video:publication_date>2015-01-21T12:29:01.2439890+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Databases</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Databases/Module-3-Basic-T-SQL-Concepts</loc>
+      <lastmod>2019-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d67/6e230b7a-d269-43a5-b7fe-9a01983b7d67/BasicTSQLConcepts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 3 - Basic T-SQL Concepts]]></video:title>
+        <video:description><![CDATA[This Module discuss about the fundamentals of Microsoft&#39;s version of the Structured Query Language known as Transact-SQL which is used in Microsoft&#39;s relational database management system (RDBMS)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d67/6e230b7a-d269-43a5-b7fe-9a01983b7d67/BasicTSQLConcepts_mid.mp4</video:content_loc>
+        <video:duration>3315</video:duration>
+        <video:publication_date>2015-07-08T02:50:32.6496092+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Databases/Module-2-SQL-Database-Management-Fundamentals</loc>
+      <lastmod>2018-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/13e1/7f47e196-6dea-47ca-9eb6-8784f1a613e1/SQLDBManagementFundamentals_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 2 - SQL Database Management Fundamentals]]></video:title>
+        <video:description><![CDATA[This Module discuss about the common basic database management matters that deals with how to manage databases. The course is a primer to get familiar with the roles and responsibilities of a DBA in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13e1/7f47e196-6dea-47ca-9eb6-8784f1a613e1/SQLDBManagementFundamentals_mid.mp4</video:content_loc>
+        <video:duration>2178</video:duration>
+        <video:publication_date>2015-07-08T02:50:05.5161162+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-Databases/Module-1-SQL-Database-in-the-Cloud</loc>
+      <lastmod>2019-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/06a6/7053a0cd-1b38-4773-a40c-5613fa4106a6/Module1DBintheCloud_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 1 - SQL Database in the Cloud]]></video:title>
+        <video:description><![CDATA[This Module discusses about Azure&#39;s SQL Database and Microsoft SQL Server Database running on Azure&#39;s virtual machines. It also highlights the difference between Azure, a dedicated cloud database and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/06a6/7053a0cd-1b38-4773-a40c-5613fa4106a6/Module1DBintheCloud_mid.mp4</video:content_loc>
+        <video:duration>1959</video:duration>
+        <video:publication_date>2015-07-08T02:49:40.6677319+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

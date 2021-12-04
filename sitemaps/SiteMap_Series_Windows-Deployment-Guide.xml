@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Deployment-Guide</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Deployment-Guide/Surface-deploy</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa60/62a14ae2-070c-4f60-ac46-be49536faa60/SurfacePro4Deployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Surface  Windows 10  - ]]></video:title>
+        <video:description><![CDATA[ 透過 Microsoft Deployment Toolkit 2013 Update 2 (MDT) 製作大量部署映像，協助您部署 Surface Pro 4   部落&amp;#26684;相關文章： 【最後倒數升級】Forrester 研究指出 Windows 10 可降低 IT、安全及生產力成本【為何要升級 Windows 10 ?】TechNet 精華寶典 ( 影音&amp;#43;文章&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa60/62a14ae2-070c-4f60-ac46-be49536faa60/SurfacePro4Deployment_mid.mp4</video:content_loc>
+        <video:duration>1948</video:duration>
+        <video:publication_date>2016-09-30T02:15:01.0117696+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

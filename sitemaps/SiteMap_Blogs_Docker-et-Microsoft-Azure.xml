@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Docker-et-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Docker-et-Microsoft-Azure/Docker-dans-Microsoft-Azure</loc>
+      <lastmod>2020-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8960/423f7b66-efa8-4807-97f4-ec1f258c8960/dockerdansazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Docker dans Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Dans la pratique, comment vous pouvez d&#233;ployer et g&#233;rer vos h&#244;tes et conteneurs dans Azure gr&#226;ce &#224; des mod&#232;les ARM pr&#234;ts &#224; l&#39;emploi.   Speakers: Stanislas Quastana &amp;amp; Pascal Sauliere ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8960/423f7b66-efa8-4807-97f4-ec1f258c8960/dockerdansazure_mid.mp4</video:content_loc>
+        <video:duration>3352</video:duration>
+        <video:publication_date>2016-04-15T16:25:29.9051224+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Docker-et-Microsoft-Azure/Docker-et-Microsoft</loc>
+      <lastmod>2016-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f909/bd1786a3-ebf4-45f5-aa33-081890edf909/dockeretmicrosoft_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Docker et Microsoft]]></video:title>
+        <video:description><![CDATA[Quelques mots sur le partenariat entre Microsoft et Docker.   Speakers: Stanislas Quastana &amp;amp; Pascal Sauliere ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f909/bd1786a3-ebf4-45f5-aa33-081890edf909/dockeretmicrosoft_mid.mp4</video:content_loc>
+        <video:duration>642</video:duration>
+        <video:publication_date>2016-04-15T13:11:29.1727903+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Docker-et-Microsoft-Azure/Rappels-sur-Docker</loc>
+      <lastmod>2016-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/919b/b3d32458-fece-4fe0-aca9-2f8e9200919b/rappelssurdocker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Rappels sur Docker]]></video:title>
+        <video:description><![CDATA[Rappels g&#233;n&#233;raux sur les conteneurs et Docker.   Speakers: Stanislas Quastana &amp;amp; Pascal Sauliere ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/919b/b3d32458-fece-4fe0-aca9-2f8e9200919b/rappelssurdocker_mid.mp4</video:content_loc>
+        <video:duration>1659</video:duration>
+        <video:publication_date>2016-04-15T13:04:50.2569160+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

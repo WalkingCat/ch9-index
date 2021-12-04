@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Service</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Mobile-Service/Azure-Mobile-Services</loc>
+      <lastmod>2018-12-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5070/29cb69fc-9c21-433d-919b-ec1918c95070/AzueMobileServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Mobile Services]]></video:title>
+        <video:description><![CDATA[Trong video n&#224;y, ch&#250;ng t&#244;i sẽ hướng dẫn c&#225;c bạn c&#225;c bước cơ bản để tạo mới một dịch vụ Azure Mobile Services v&#224; t&#237;ch hợp dịch vụ n&#224;y v&#224;o ứng dụng Universal Windows Platform hay c&#242;n được biết đến với&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5070/29cb69fc-9c21-433d-919b-ec1918c95070/AzueMobileServices_mid.mp4</video:content_loc>
+        <video:duration>4055</video:duration>
+        <video:publication_date>2015-11-18T05:32:35.1048345+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

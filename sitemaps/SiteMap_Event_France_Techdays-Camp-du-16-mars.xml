@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-dev-replay-office</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb65/81b89d28-81ad-40fc-bb38-1d7aae8beb65/deploiementoffice_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cr&#233;er des add&#39;ins pour Office 365 et Outlook.com, et int&#233;gration avec Dropbox]]></video:title>
+        <video:description><![CDATA[Office 365 et Outlook.com repr&#233;sentent plusieurs millions d&#39;utilisateurs potentiels. D&#233;velopper un add&#39;in pour Office 365 est aujourd&#39;hui une exp&#233;rience de d&#233;veloppement web, s&#39;appuyant sur HTML 5 et&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb65/81b89d28-81ad-40fc-bb38-1d7aae8beb65/deploiementoffice_mid.mp4</video:content_loc>
+        <video:duration>1133</video:duration>
+        <video:publication_date>2016-03-24T12:55:02.0130237+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-iti-replay-f5</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/684d/836c3201-5c5d-49b6-9a30-128f922c684d/azuremarketplaceavecF5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[S&#233;curiser des applications dans Azure avec F5 Networks]]></video:title>
+        <video:description><![CDATA[D&#233;couvrez comment am&#233;liorer la s&#233;curit&#233; de vos applications Web ex&#233;cut&#233;es dans Azure gr&#226;ce aux solutions F5 Networks.    ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/684d/836c3201-5c5d-49b6-9a30-128f922c684d/azuremarketplaceavecF5_mid.mp4</video:content_loc>
+        <video:duration>844</video:duration>
+        <video:publication_date>2016-03-23T15:58:52.7758154+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-dev-replay-xamarin</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aac7/ab7fe498-9876-486c-86cf-3611a4f0aac7/xamarindeveloppementstrategie_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Strat&#233;gies de d&#233;veloppement Cross-Platform et Xamarin]]></video:title>
+        <video:description><![CDATA[Le d&#233;veloppement des applications mobile est traditionnellement natif ; et chaque plateforme dispose d&#39;outils et de langage s&#233;par&#233;s : .net sur Windows, swift/objective-c sur Apple, et java sur&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aac7/ab7fe498-9876-486c-86cf-3611a4f0aac7/xamarindeveloppementstrategie_mid.mp4</video:content_loc>
+        <video:duration>1344</video:duration>
+        <video:publication_date>2016-03-23T15:58:21.5483676+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-dev-replay-nodejs</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8926/59c93566-bbc3-49ad-83fb-9cd1de668926/lewebmoderneetnodejs_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Le web moderne et le d&#233;bug node.js]]></video:title>
+        <video:description><![CDATA[Dans ce talk nous parlons du web moderne et des outils qui permettent d&#39;identifier les am&#233;liorations possible dans votre code. Nous abordons &#233;galement le debug de code Node.js, soit en local avec&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8926/59c93566-bbc3-49ad-83fb-9cd1de668926/lewebmoderneetnodejs_mid.mp4</video:content_loc>
+        <video:duration>651</video:duration>
+        <video:publication_date>2016-03-23T15:57:29.3033974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-dev-replay-alterway</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e26/8a7377dc-8ad6-4b95-90a6-974444ba1e26/LinuxAzureAlterway_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Linux dans Azure avec Alter Way]]></video:title>
+        <video:description><![CDATA[Linux dans Azure ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e26/8a7377dc-8ad6-4b95-90a6-974444ba1e26/LinuxAzureAlterway_mid.mp4</video:content_loc>
+        <video:duration>646</video:duration>
+        <video:publication_date>2016-03-23T15:53:21.9285117+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-dev-replay-cloud-github</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e3b/7aa84960-271b-4d6e-99c0-1a7cda4f7e3b/MicrosoftGitHub_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft avec GitHub]]></video:title>
+        <video:description><![CDATA[Dans ce talk, Alain H&#233;la&#239;li de chez Github pr&#233;sente les diff&#233;rentes interactions qui existent entre les &#233;quipe de Microsoft et Github. Il fait une d&#233;monstration de l&#39;int&#233;gration possible entre ces&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e3b/7aa84960-271b-4d6e-99c0-1a7cda4f7e3b/MicrosoftGitHub_mid.mp4</video:content_loc>
+        <video:duration>488</video:duration>
+        <video:publication_date>2016-03-23T15:52:10.7965434+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-dev-replay-cloud-github-intro</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5349/2745880e-a644-4c30-b858-46799bad5349/MSGitHubOpenSource_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft, Github et l&#39;open-source]]></video:title>
+        <video:description><![CDATA[Revivez l&#39;annonce du changement de nom des tech.days en Microsoft experiences. Dans ce talk, Alain H&#233;la&#239;li de chez Github pr&#233;sente les diff&#233;rentes interactions qui existent entre les &#233;quipe de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5349/2745880e-a644-4c30-b858-46799bad5349/MSGitHubOpenSource_mid.mp4</video:content_loc>
+        <video:duration>1023</video:duration>
+        <video:publication_date>2016-03-23T15:51:07.5227912+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-iti-replay-docker</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d245/17aa8b9d-dcba-457b-8835-7ddbedf8d245/introductionauxarchitecturesweb_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Applications Cloud : de la machine virtuelle aux architectures microservices avec Docker !]]></video:title>
+        <video:description><![CDATA[Dans cette vid&#233;o, vous d&#233;couvrirez les diff&#233;rentes solutions d&#39;h&#233;bergement d&#39;une application moderne dans le Cloud. Bien qu&#39;il soit tout &#224; fait possible d&#39;y migrer des applications existantes, en les&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d245/17aa8b9d-dcba-457b-8835-7ddbedf8d245/introductionauxarchitecturesweb_mid.mp4</video:content_loc>
+        <video:duration>1174</video:duration>
+        <video:publication_date>2016-03-23T13:40:25.9707793+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/France/Techdays-Camp-du-16-mars/tdo-inno-replay-dev-trendsUXUI</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/02ec/5cef1980-1580-4d57-a81e-f9c9757b02ec/TopTrendsUX_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Top 5 des trends UX de 2016]]></video:title>
+        <video:description><![CDATA[Venez d&#233;couvrir les 5 grandes tendances de l&#39;Experience Utilisateur en 2016 ! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/02ec/5cef1980-1580-4d57-a81e-f9c9757b02ec/TopTrendsUX_mid.mp4</video:content_loc>
+        <video:duration>408</video:duration>
+        <video:publication_date>2016-03-23T10:30:28.6510921+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

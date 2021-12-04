@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-au-design-dapplications</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-au-design-dapplications/01-Dfinition-du-design-dapplications</loc>
+      <lastmod>2018-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45b9/a58d6667-ec1b-4aa2-8c00-3a093c6045b9/Definitiondudesigndapplications_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - D&#233;finition du design d&#39;applications]]></video:title>
+        <video:description><![CDATA[Pour commencer, voyons ensemble ce qu&#39;est le design applicatif, sa mission, ses m&#233;tiers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45b9/a58d6667-ec1b-4aa2-8c00-3a093c6045b9/Definitiondudesigndapplications_mid.mp4</video:content_loc>
+        <video:duration>1661</video:duration>
+        <video:publication_date>2015-07-27T16:45:00.1628753+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-au-design-dapplications/02-Les-outils-du-designer</loc>
+      <lastmod>2015-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e54/b3787b46-1100-454e-8161-4bb27d4b5e54/Lesoutilsdudesigner_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - Les outils du designer]]></video:title>
+        <video:description><![CDATA[Prolongeons notre aventure dans le monde du design en parcourant les outils du designer applicatif. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e54/b3787b46-1100-454e-8161-4bb27d4b5e54/Lesoutilsdudesigner_mid.mp4</video:content_loc>
+        <video:duration>1958</video:duration>
+        <video:publication_date>2015-07-27T16:44:48.1183521+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Initiation-au-design-dapplications/03-Crer-votre-prototype-avec-Blend-pour-Visual-Studio-2015</loc>
+      <lastmod>2015-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/295e/077b1486-996b-43a5-a6af-d37a26c1295e/CreervotreprototypeavecBlendpourVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 - Cr&#233;er votre prototype avec Blend pour Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[Voyons comment int&#233;grer rapidement nos maquettes graphiques avec Blend pour Visual Studio 2015. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/295e/077b1486-996b-43a5-a6af-d37a26c1295e/CreervotreprototypeavecBlendpourVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>3698</video:duration>
+        <video:publication_date>2015-07-27T16:44:36.1525957+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

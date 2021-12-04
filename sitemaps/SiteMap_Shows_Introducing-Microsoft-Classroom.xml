@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introducing-Microsoft-Classroom</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Introducing-Microsoft-Classroom/Introducing-Microsoft-Classroom</loc>
+      <lastmod>2017-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/64ed/e812b2eb-4c47-4ede-a00e-94b7324664ed/IntroMSClassroom_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Microsoft Classroom]]></video:title>
+        <video:description><![CDATA[In this webinar we talk about how Saheti School has introduced Microsoft Classroom, how teachers can set up assignments using the tool and what students see when they log into Microsoft Classroom. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/64ed/e812b2eb-4c47-4ede-a00e-94b7324664ed/IntroMSClassroom_mid.mp4</video:content_loc>
+        <video:duration>2087</video:duration>
+        <video:publication_date>2017-04-24T09:37:05.7604372+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ANZMVP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ANZMVP/Updating-Octopus-Deploy-at-Accenture-with-Jim-Szubryt-and-Damian-Brady</loc>
+      <lastmod>2017-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/291a/765237de-6da2-4de5-a8f9-780bbf6b291a/octopusbradyszubrytMVP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Updating Octopus Deploy at Accenture with Jim Szubryt and Damian Brady]]></video:title>
+        <video:description><![CDATA[Microsoft MVPs Damian Brady from Octopus Deploy and Jim Szubryt from Accenture discuss upgrading Octopus in a large enterprise environment. Accenture has used Octopus since the very early versions,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/291a/765237de-6da2-4de5-a8f9-780bbf6b291a/octopusbradyszubrytMVP_mid.mp4</video:content_loc>
+        <video:duration>679</video:duration>
+        <video:publication_date>2017-01-17T14:12:33.5847180+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

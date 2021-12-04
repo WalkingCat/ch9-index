@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Resource-Manager</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Resource-Manager/Azure20151010A04</loc>
+      <lastmod>2015-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/885c/1dd21730-a71d-4eeb-9495-24ed9f41885c/Azure20151010A04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure]]></video:title>
+        <video:description><![CDATA[初步了解Azure活动目录，并如何通过在订阅内Azure活动目录验证后设置角色分配并最终实现对资源的细粒度访问。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/885c/1dd21730-a71d-4eeb-9495-24ed9f41885c/Azure20151010A04_mid.mp4</video:content_loc>
+        <video:duration>1648</video:duration>
+        <video:publication_date>2015-10-12T04:41:22.5106826+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Resource-Manager/Azure20151010A03</loc>
+      <lastmod>2015-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7369/f23a349e-142b-4abe-b601-7be3aa357369/Azure20151010A03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure]]></video:title>
+        <video:description><![CDATA[介绍如何通过Azure资源管理器的可编程接口与Azure资源管理器交互，如何通过创作或引入的资源模板完成资源的创建部署等相关操作。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7369/f23a349e-142b-4abe-b601-7be3aa357369/Azure20151010A03_mid.mp4</video:content_loc>
+        <video:duration>4128</video:duration>
+        <video:publication_date>2015-10-12T04:41:05.2504088+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Resource-Manager/Azure20151010A02</loc>
+      <lastmod>2015-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/560c/daad834e-6c83-4ff2-a230-627da319560c/Azure20151010A02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure]]></video:title>
+        <video:description><![CDATA[了解JSON语言&amp;#26684;式并如何通过它创作声明式的资源模板，如何通过资源模板的定义创作自己的资源部署模板。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/560c/daad834e-6c83-4ff2-a230-627da319560c/Azure20151010A02_mid.mp4</video:content_loc>
+        <video:duration>4048</video:duration>
+        <video:publication_date>2015-10-12T04:40:49.0250651+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Resource-Manager/Azure20151010A01</loc>
+      <lastmod>2015-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6901/f91e97e4-3a61-4e19-9e13-a807faab6901/Azure20151010A01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure]]></video:title>
+        <video:description><![CDATA[介绍Azure资源管理器的架构并引入资源组的概念，演示如何通过如何通过新的Azure的门户使用资源模板建立。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6901/f91e97e4-3a61-4e19-9e13-a807faab6901/Azure20151010A01_mid.mp4</video:content_loc>
+        <video:duration>3320</video:duration>
+        <video:publication_date>2015-10-12T04:40:30.6669946+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

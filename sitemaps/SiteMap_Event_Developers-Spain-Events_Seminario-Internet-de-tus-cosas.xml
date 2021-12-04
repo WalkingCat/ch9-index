@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developers-Spain-Events/Seminario-Internet-de-tus-cosas</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developers-Spain-Events/Seminario-Internet-de-tus-cosas/Introduccion-al-Seminario-IOT</loc>
+      <lastmod>2015-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af23/37f84d71-752e-4ba0-9b07-5c9be699af23/SeminarioIOTIntro_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduccion al Seminario IOT]]></video:title>
+        <video:description><![CDATA[Descubre las novedades sobre IOT ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af23/37f84d71-752e-4ba0-9b07-5c9be699af23/SeminarioIOTIntro_mid.mp4</video:content_loc>
+        <video:duration>4349</video:duration>
+        <video:publication_date>2015-07-30T11:41:34.7218249+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developers-Spain-Events/Seminario-Internet-de-tus-cosas/Seminario-IOT-Big-Data</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03e4/6c3df831-32ef-4c01-a8e1-a75d5c1203e4/SeminarioIOTBigData_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Seminario IOT Big Data]]></video:title>
+        <video:description><![CDATA[Descubre las novedades sobre IOT, Big data ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03e4/6c3df831-32ef-4c01-a8e1-a75d5c1203e4/SeminarioIOTBigData_mid.mp4</video:content_loc>
+        <video:duration>1762</video:duration>
+        <video:publication_date>2015-07-30T11:41:18.7363156+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developers-Spain-Events/Seminario-Internet-de-tus-cosas/Seminario-Internet-Of-Your-Things</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2aff/1f40cd0f-b0fb-4ab8-8c86-9315fec62aff/SeminarioIOyT_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Seminario Internet Of Your Things]]></video:title>
+        <video:description><![CDATA[Descubre las novedades sobre el Internet de tus cosas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2aff/1f40cd0f-b0fb-4ab8-8c86-9315fec62aff/SeminarioIOyT_mid.mp4</video:content_loc>
+        <video:duration>2685</video:duration>
+        <video:publication_date>2015-07-30T11:40:52.2196652+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developers-Spain-Events/Seminario-Internet-de-tus-cosas/Seminario-IOT-Machine-Learning</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1bc/2402370c-bce4-457e-a779-a068ef3cb1bc/SeminarioIOTMachineLearning_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Seminario IOT Machine Learning]]></video:title>
+        <video:description><![CDATA[Descubre las novedades sobre IOT, Machine Learning ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1bc/2402370c-bce4-457e-a779-a068ef3cb1bc/SeminarioIOTMachineLearning_mid.mp4</video:content_loc>
+        <video:duration>2905</video:duration>
+        <video:publication_date>2015-07-30T11:40:32.0507808+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

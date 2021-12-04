@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Keynote</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2177/b03dd21b-5101-412d-82c1-a5c43ebd2177/SQLDay2017Keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote]]></video:title>
+        <video:description><![CDATA[SQLDay 2017 keynote. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2177/b03dd21b-5101-412d-82c1-a5c43ebd2177/SQLDay2017Keynote_mid.mp4</video:content_loc>
+        <video:duration>3038</video:duration>
+        <video:publication_date>2017-08-07T13:45:56.3305036+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Czy-DBA-moze-odnalezc-sie-w-swiecie-DevOps</loc>
+      <lastmod>2018-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1174/b8245a3f-8b27-47d9-a24e-12f2f8491174/SQLDay2017CzyDBAMozeOdnalezSieWSwiecieDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Czy DBA moe odnale si w wiecie DevOps?]]></video:title>
+        <video:description><![CDATA[Obowiązki dzisiejszego DBA to zadania typowo operacyjne. Natomiast świat IT coraz bardziej zmierza w agilowe zarządzanie procesem wytw&#243;rczym i utrzymaniowym oprogramowania. Na końcu są jednak bazy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1174/b8245a3f-8b27-47d9-a24e-12f2f8491174/SQLDay2017CzyDBAMozeOdnalezSieWSwiecieDevOps_mid.mp4</video:content_loc>
+        <video:duration>3484</video:duration>
+        <video:publication_date>2017-08-07T13:45:51.6220151+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/The-Log-the-whole-Log-and-nothing-but-the-Log</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/358a/a0f5c4ea-b700-40cf-89ba-718cd00e358a/SQLDay2017TheLogTheWholeLog_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Log, the whole Log and nothing but the Log]]></video:title>
+        <video:description><![CDATA[This session focuses on the transaction log. It begins with a quick glance on what goes on in and around the log in the different recovery modes. You&#39;ll then get a deep dive into log sequence numbers,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/358a/a0f5c4ea-b700-40cf-89ba-718cd00e358a/SQLDay2017TheLogTheWholeLog_mid.mp4</video:content_loc>
+        <video:duration>3478</video:duration>
+        <video:publication_date>2017-08-07T13:45:25.6541382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Gems-to-help-you-troubleshoot-query-performance</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f4c/0d80f8ca-590b-4f4c-9b0b-1b728f158f4c/SQLDay2017GemsToHelpYouTroubleshoot_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gems to help you troubleshoot query performance]]></video:title>
+        <video:description><![CDATA[BPCheck came to be back in 2011, as a way to empower Microsoft support engineers onsite with customers to gain insight on best practices not being followed, and evolved to include performance based&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f4c/0d80f8ca-590b-4f4c-9b0b-1b728f158f4c/SQLDay2017GemsToHelpYouTroubleshoot_mid.mp4</video:content_loc>
+        <video:duration>3844</video:duration>
+        <video:publication_date>2017-08-07T13:45:22.6744024+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Investigate-TempDB-like-Sherlock-Holmes</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49bc/68adf7c1-0930-467b-aaf6-9770139e49bc/SQLDay2017InvestigateTempDB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Investigate TempDB like Sherlock Holmes]]></video:title>
+        <video:description><![CDATA[The system database TempDB has often been called a dumping ground, even the public toilet of SQL Server. (There has to be a joke about spills in there somewhere). In this session, you will learn to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49bc/68adf7c1-0930-467b-aaf6-9770139e49bc/SQLDay2017InvestigateTempDB_mid.mp4</video:content_loc>
+        <video:duration>3002</video:duration>
+        <video:publication_date>2017-08-07T13:45:19.1278014+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Replikacja-danych--kto-z-kim-dla-kogo-dlaczego-i-po-co</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c7f/7cfaf994-b73d-4407-95b9-69b8d1c53c7f/SQLDay2017ReplikacjaDanych_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Replikacja danych  kto z kim, dla kogo, dlaczego i po co?]]></video:title>
+        <video:description><![CDATA[Podczas sesji zrobimy przegląd wszystkich rodzaj&#243;w replikacji w SQL Server i dowiemy się jakie zasadnicze r&#243;żnice są pomiędzy nimi oraz kiedy kt&#243;rą replikację warto stosować. Opr&#243;cz przykład&#243;w&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c7f/7cfaf994-b73d-4407-95b9-69b8d1c53c7f/SQLDay2017ReplikacjaDanych_mid.mp4</video:content_loc>
+        <video:duration>3567</video:duration>
+        <video:publication_date>2017-08-07T13:45:16.1142578+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/SSISDB-i-SSIS-catalog-od-srodka</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d0f/eaf4630a-371a-4822-aceb-346289605d0f/SQLDay2017SSIDBiSSIS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SSISDB i SSIS catalog od rodka]]></video:title>
+        <video:description><![CDATA[Możliwość publikowania całych projekt&#243;w SSIS zamiast pojedynczych pakiet&#243;w jest ogromnym ułatwieniem dla projektant&#243;w proces&#243;w ETL w SQL Server Integration Services. Wiele os&#243;b zapomina jednak, ze&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d0f/eaf4630a-371a-4822-aceb-346289605d0f/SQLDay2017SSIDBiSSIS_mid.mp4</video:content_loc>
+        <video:duration>3582</video:duration>
+        <video:publication_date>2017-08-07T13:45:13.0660382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Kerberos-for-BI</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de4f/34edfe21-cd4a-4d5d-8f14-724b2df6de4f/SQLDay2017KerberosForBI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kerberos for BI]]></video:title>
+        <video:description><![CDATA[Have you ever seen this message &amp;quot;Login failed for user &#39;NT AUTHORITY\ANONYMOUS LOGON&amp;quot;? Have you ever witnessed Kerberos mentioned in a conversation – or in a forum – and seen developers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de4f/34edfe21-cd4a-4d5d-8f14-724b2df6de4f/SQLDay2017KerberosForBI_mid.mp4</video:content_loc>
+        <video:duration>3772</video:duration>
+        <video:publication_date>2017-08-07T13:45:10.3818919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Blocking-How-to-Find-and-Fight-LCK-Waits</loc>
+      <lastmod>2018-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ad2/82662e5a-f9ad-4c0d-8b35-6fdafd837ad2/SQLDay2017BlockingHowToFindAndFightLCKWaits_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Blocking: How to Find and Fight LCK* Waits]]></video:title>
+        <video:description><![CDATA[When you&#39;re facing lock waits and blocked queries, it&#39;s tempting to just slather NOLOCK all over the queries. Thing is, this won&#39;t necessarily fix it, and there are much better ways to track,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ad2/82662e5a-f9ad-4c0d-8b35-6fdafd837ad2/SQLDay2017BlockingHowToFindAndFightLCKWaits_mid.mp4</video:content_loc>
+        <video:duration>3508</video:duration>
+        <video:publication_date>2017-08-07T13:45:07.2810522+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Introduction-to-Azure-Analysis-Services</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37ea/e3108cbf-60f2-4afb-9ec7-8751a87837ea/SQLDay2017IntroductionToAzureAnalysisServices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Azure Analysis Services]]></video:title>
+        <video:description><![CDATA[With the release of Azure Analysis Services we have, at long last, got a crucial piece of the Microsoft BI stack available in the cloud. Azure Analysis Services is a SaaS version of Analysis Services,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37ea/e3108cbf-60f2-4afb-9ec7-8751a87837ea/SQLDay2017IntroductionToAzureAnalysisServices_mid.mp4</video:content_loc>
+        <video:duration>3295</video:duration>
+        <video:publication_date>2017-08-07T13:45:04.5734042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Enhancements-that-will-make-your-SQL-Server-roar</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1636/9e318202-e17a-43ab-bda4-a70f6cbb1636/SQLDay2017EnhancementsThatWillMakeYourSQLServerRo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enhancements that will make your SQL Server roar]]></video:title>
+        <video:description><![CDATA[Are you a: Production DBA that wants to know which new xEvents and DMVs/DMFs are available to get further insights into SQL Server operations?Production DBA that needs to troubleshoot a performance&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1636/9e318202-e17a-43ab-bda4-a70f6cbb1636/SQLDay2017EnhancementsThatWillMakeYourSQLServerRo_mid.mp4</video:content_loc>
+        <video:duration>3779</video:duration>
+        <video:publication_date>2017-08-07T13:45:02.0149739+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Watch-Brent-Tune-Queries</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/991c/1ec0232e-426e-469a-ab2b-3d8a6b68991c/SQLDay2017WatchBrentTuneQueries_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Watch Brent Tune Queries]]></video:title>
+        <video:description><![CDATA[Ever wonder how somebody else does it? Watch over the virtual shoulder of Microsoft Certified Master Brent Ozar as he walks you through the Stack Overflow public database export, shows you two&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/991c/1ec0232e-426e-469a-ab2b-3d8a6b68991c/SQLDay2017WatchBrentTuneQueries_mid.mp4</video:content_loc>
+        <video:duration>3518</video:duration>
+        <video:publication_date>2017-08-07T13:44:33.6934301+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/What-are-all-those-Azure-and-Power-services-and-why-do-I-want-them</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/745f/a0c26f6d-938a-4cc4-8ad1-4b965225745f/SQLDay2017WhatAreAllThoseAzureAndPowerServices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What are all those Azure* and Power* services and why do I want them?]]></video:title>
+        <video:description><![CDATA[Still think the cloud is about VMs? Don&#39;t know your Power Apps from your Power BI, Flow, etc.? Developers and DBAs don&#39;t understand what is available today. In this rapid-fire session, Greg will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/745f/a0c26f6d-938a-4cc4-8ad1-4b965225745f/SQLDay2017WhatAreAllThoseAzureAndPowerServices_mid.mp4</video:content_loc>
+        <video:duration>3643</video:duration>
+        <video:publication_date>2017-08-07T13:44:31.5166045+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/When-things-go-wrong--Error-Handling-in-SQL-Server</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a6ce/9047e155-cbb5-48df-9877-45c3ac8da6ce/SQLDay2017WhenThingsGoWrongErrorHandlingInSQL_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[When things go wrong  Error Handling in SQL Server]]></video:title>
+        <video:description><![CDATA[In an ideal world, we would not need any error handling, because there would be no errors. But in the real world we need to have error handling in our stored procedures. Error handling in SQL Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6ce/9047e155-cbb5-48df-9877-45c3ac8da6ce/SQLDay2017WhenThingsGoWrongErrorHandlingInSQL_mid.mp4</video:content_loc>
+        <video:duration>3564</video:duration>
+        <video:publication_date>2017-08-07T13:44:26.9182687+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Granting-Permissions-through-Stored-Procedures</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e0f/c20accac-1170-4a69-8b8b-77400ca62e0f/SQLDay2017GrantingPermissionsThroughStoredProcedu_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Granting Permissions through Stored Procedures]]></video:title>
+        <video:description><![CDATA[You probably know that with a stored procedure you can permit users to access or update data even if they have no direct permissions on the table. However, this does not work with dynamic SQL.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e0f/c20accac-1170-4a69-8b8b-77400ca62e0f/SQLDay2017GrantingPermissionsThroughStoredProcedu_mid.mp4</video:content_loc>
+        <video:duration>3574</video:duration>
+        <video:publication_date>2017-08-07T13:44:22.2425109+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Things-I-Wish-Developers-Knew-About-SQL-Server</loc>
+      <lastmod>2018-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/06f1/6f364803-1d78-4211-841b-5ef3723b06f1/SQLDay2017ThingsIWishDevelopersKnewAboutSQLServer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Things I Wish Developers Knew About SQL Server]]></video:title>
+        <video:description><![CDATA[SQL Server is a very forgiving product. It does an awesome job of dealing with what are often unreasonable demands placed on it by applications. In this session, Greg will describe the biggest issues&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/06f1/6f364803-1d78-4211-841b-5ef3723b06f1/SQLDay2017ThingsIWishDevelopersKnewAboutSQLServer_mid.mp4</video:content_loc>
+        <video:duration>3752</video:duration>
+        <video:publication_date>2017-08-07T13:44:15.9378424+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Arsenal-programisty-T-SQL-AD-2017</loc>
+      <lastmod>2018-06-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/edef/732a4a33-2de4-4a1b-85b1-0b75cfaeedef/SQLDay2017ArsenalProgramistyTSQLad2017_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Arsena programisty T-SQL A.D. 2017]]></video:title>
+        <video:description><![CDATA[W dobie SQL Server 2016 (i dodatku Service Pack 1 do tej wersji systemu) programista baz danych ma do swojej dyspozycji pokaźny arsenał składni języka T-SQL. Celem prezentacji będzie pokazanie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edef/732a4a33-2de4-4a1b-85b1-0b75cfaeedef/SQLDay2017ArsenalProgramistyTSQLad2017_mid.mp4</video:content_loc>
+        <video:duration>3755</video:duration>
+        <video:publication_date>2017-08-07T13:44:11.5883820+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Query-Execution-Expectation--Reality</loc>
+      <lastmod>2018-07-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b647/1f59de39-c151-4659-a4c3-9d77b3c0b647/SQLDay2017QueryExecutionExpectationReality_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Query Execution: Expectation  Reality]]></video:title>
+        <video:description><![CDATA[Yes, this is a very common problem: you expect something, but reality is a bit different. You expect that query will run 1 sec, but it runs (Oh, my God!) 1 hour. You expect that your query will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b647/1f59de39-c151-4659-a4c3-9d77b3c0b647/SQLDay2017QueryExecutionExpectationReality_mid.mp4</video:content_loc>
+        <video:duration>3421</video:duration>
+        <video:publication_date>2017-08-07T13:43:42.3789136+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Proaktywny-monitoring-SQL-Server</loc>
+      <lastmod>2018-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/55c9/c382480b-60a2-42f6-96cd-9608241a55c9/SQLDay2017ProaktywnyMonitoringSQLServer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Proaktywny monitoring SQL Server]]></video:title>
+        <video:description><![CDATA[Wszystkie usługi SQL Server generują mn&#243;stwo danych o swoim działaniu. Kiedy standardowe narzędzia typu DMV, ExecutionLog3 czy Extended Events to za mało, czas zaprząc do pracy nowe zabawki: PowerBI,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/55c9/c382480b-60a2-42f6-96cd-9608241a55c9/SQLDay2017ProaktywnyMonitoringSQLServer_mid.mp4</video:content_loc>
+        <video:duration>3327</video:duration>
+        <video:publication_date>2017-08-07T13:43:35.5162974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/SQL-Server-vNext-dla-systemu-Linux</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c3e4/306e344d-e7a5-421b-8690-50950dbdc3e4/SQLDay2017SQLServervNextDlaSystemuLinux_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server v.Next dla systemu Linux]]></video:title>
+        <video:description><![CDATA[Microsoft zaskoczył w zeszłym roku wielu ludzi ogłaszając, że SQL Server zostanie wydany na platformę Linux, No i stało się – pojawiają się kolejne wersje przedprodukcyjne, a wersja finalna jest coraz&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c3e4/306e344d-e7a5-421b-8690-50950dbdc3e4/SQLDay2017SQLServervNextDlaSystemuLinux_mid.mp4</video:content_loc>
+        <video:duration>3511</video:duration>
+        <video:publication_date>2017-08-07T13:43:30.6216916+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Od-danych-do-inteligentnych-programow-w-60-minut-z-Microsoft-R-Server</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e829/0a341ccc-a537-476b-a2da-9d0a3503e829/SQLDay2017OdDanychDoInteligentnychProgramowW60min_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Od danych do inteligentnych program&#243;w w 60 minut z Microsoft R Server]]></video:title>
+        <video:description><![CDATA[Zaawansowana analiza danych i język R to już synonimy. Siłą tego języka jest dziesięć tysięcy specjalistycznych, og&#243;lnodostępnych bibliotek i ogromna, zrzeszająca analityk&#243;w, naukowc&#243;w i ,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e829/0a341ccc-a537-476b-a2da-9d0a3503e829/SQLDay2017OdDanychDoInteligentnychProgramowW60min_mid.mp4</video:content_loc>
+        <video:duration>3538</video:duration>
+        <video:publication_date>2017-08-07T13:43:15.9038109+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Logical-Data-Warehousing-and-Data-Virtualization-in-Action</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d650/0fbc3b92-1c63-4bb0-baf3-d0dd489dd650/SQLDay2017LogicalDataWarehousingAndDataVirtualiza_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Logical Data Warehousing and Data Virtualization in Action]]></video:title>
+        <video:description><![CDATA[During the talk we will cover the following topics: Introduction to Logical Data Warehouse (LDW) and Data Virtualization (DV) concepts vs conventional data warehousing and ETLHow Data Virtualization&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d650/0fbc3b92-1c63-4bb0-baf3-d0dd489dd650/SQLDay2017LogicalDataWarehousingAndDataVirtualiza_mid.mp4</video:content_loc>
+        <video:duration>3536</video:duration>
+        <video:publication_date>2017-08-07T13:43:11.0980772+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Stretching-SQL-Server-Failover-Clustered-Instances--Availability-Groups-to-a-Disaster-Recovery-Site</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b7a/76872e44-0722-42de-844a-d03b66a08b7a/SQLDay2017StretchingSQLServerFailoverClusteredInf_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stretching SQL Server Failover Clustered Instances &amp; Availability Groups to a Disaster Recovery Site]]></video:title>
+        <video:description><![CDATA[Dealing with SQL Server Failover Clustered Instances and Availability Group for local high availability is already complicated with many external dependencies such as the network and the Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b7a/76872e44-0722-42de-844a-d03b66a08b7a/SQLDay2017StretchingSQLServerFailoverClusteredInf_mid.mp4</video:content_loc>
+        <video:duration>3841</video:duration>
+        <video:publication_date>2017-08-07T13:43:03.7442317+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQLDay/SQLDay-2017/Identifying-and-Fixing-Parameter-Sniffing</loc>
+      <lastmod>2018-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1cff/4cca6260-6d46-4f24-ac85-019ae52b1cff/SQLDay2017IdentifyingAndFixingParameterSniffing_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identifying and Fixing Parameter Sniffing]]></video:title>
+        <video:description><![CDATA[You swear nothing changed – but suddenly your SQL Server has ground to a halt. Queries are slow across the board. You restart the server, rebuild indexes, or update statistics, and magically the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1cff/4cca6260-6d46-4f24-ac85-019ae52b1cff/SQLDay2017IdentifyingAndFixingParameterSniffing_mid.mp4</video:content_loc>
+        <video:duration>3112</video:duration>
+        <video:publication_date>2017-08-07T13:42:58.3189979+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/GuruPowerShell</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GuruPowerShell/GUI-Form-Using-PowerShell-Add-Panel-Label-Edit-box-Combo-Box-List-Box-CheckBox-and-More</loc>
+      <lastmod>2018-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eea4/d3a01ded-8684-4d9b-bdb3-3326ab8eeea4/GUIWindowsFormsDialogBoxPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GUI Form Using PowerShell Add Panel, Label, Edit box, Combo Box, List Box, CheckBox and More!!!]]></video:title>
+        <video:description><![CDATA[Demonstrate how create and work with GUI Forms using PowerShell. Shows how to create Forms, add labels, text boxes, panels, combo boxes, Pick Lists, and more. Shows how to populate all fields&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eea4/d3a01ded-8684-4d9b-bdb3-3326ab8eeea4/GUIWindowsFormsDialogBoxPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1322</video:duration>
+        <video:publication_date>2016-01-25T18:31:35.1201938+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GuruPowerShell/Working-with-Files-and-Paths-Using-PowerShell</loc>
+      <lastmod>2018-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1396/1e50d0bf-882b-4ff8-a5fa-82e873f91396/FilePathPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Files and Paths Using PowerShell]]></video:title>
+        <video:description><![CDATA[Demonstrate Multiple Ways to Obtain and work with File path Information using PowerShell. Includes get-location, get-item, system.io.directory, system.io.file and more. Brought to you by ITProGuru Dan&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1396/1e50d0bf-882b-4ff8-a5fa-82e873f91396/FilePathPowerShell_mid.mp4</video:content_loc>
+        <video:duration>361</video:duration>
+        <video:publication_date>2015-09-03T17:13:53.8853419+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GuruPowerShell/LogIt-Function-with-PowerShell-to-Log-to-Screen-and-Log-file-Super-Simple-and-Elegant</loc>
+      <lastmod>2021-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f31/a24743a3-49ab-47d7-ab8a-9211feab2f31/LogITPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[LogIt Function with PowerShell to Log to Screen and Log file - Super Simple and Elegant]]></video:title>
+        <video:description><![CDATA[Demonstrate how create and work with Log files using PowerShell. Shows how to create log files and create function to log information to screen and text file.  Includes ability so set colors and other&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f31/a24743a3-49ab-47d7-ab8a-9211feab2f31/LogITPowerShell_mid.mp4</video:content_loc>
+        <video:duration>435</video:duration>
+        <video:publication_date>2015-08-28T20:07:16.1022118+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GuruPowerShell/Azure-Subscriptions-with-PowerShell</loc>
+      <lastmod>2015-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4794/7b4908cc-4a94-4892-b712-e0f210014794/AzureSubscriptionsWithPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Subscriptions with PowerShell]]></video:title>
+        <video:description><![CDATA[Demonstrate how Azure Subscriptions work and how to change default and current subscription.  Shows changing accounts and subscriptions with multiple subscriptions in an account as well as multiple&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4794/7b4908cc-4a94-4892-b712-e0f210014794/AzureSubscriptionsWithPowerShell_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2015-08-25T17:17:32.6603178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/GuruPowerShell/Azure-Accounts-with-PowerShell</loc>
+      <lastmod>2018-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f790/7b0a374f-dd24-44f6-9d81-f73057d2f790/AzureAccountsPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure-Accounts with PowerShell]]></video:title>
+        <video:description><![CDATA[Demonstrate how Azure Account Authentication works Logging into Azure from PowerShell using multiple methods Download Script Script Home: http://ITProGuru.com/Scripts   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f790/7b0a374f-dd24-44f6-9d81-f73057d2f790/AzureAccountsPowerShell_mid.mp4</video:content_loc>
+        <video:duration>205</video:duration>
+        <video:publication_date>2015-08-17T22:12:23.2875263+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Websites</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Websites/Mod5</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8355/111035f5-63ee-4227-8012-c2a919d58355/Mod5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 5) Brief Recap and Next Steps]]></video:title>
+        <video:description><![CDATA[Presenter&#39;s final thoughts on Microsoft Azure Hybrid Cloud Website and implementation options. It includes useful links, other related MVA content and next steps. This video is part of the Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8355/111035f5-63ee-4227-8012-c2a919d58355/Mod5_mid.mp4</video:content_loc>
+        <video:duration>521</video:duration>
+        <video:publication_date>2014-12-16T04:05:57.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Websites/Mod4</loc>
+      <lastmod>2016-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a71e/7dc131a8-adb2-43a1-84cc-cdff9f54a71e/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) From On-Premise and IaaS to Hybrid and Full PaaS with Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Presenters explain, describe and demonstrate how to start from full on premise, extend to hybrid and deploy app in to Azure PaaS. This module is focused on demo and practical part of implementation.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a71e/7dc131a8-adb2-43a1-84cc-cdff9f54a71e/Mod4_mid.mp4</video:content_loc>
+        <video:duration>1530</video:duration>
+        <video:publication_date>2014-12-16T04:04:52.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Websites/Mod3</loc>
+      <lastmod>2017-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d357/71cafc58-2640-47ea-84f5-24a24cf5d357/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) From On-Premise Towards Hybrid Data Center with Microsoft Azure IaaS]]></video:title>
+        <video:description><![CDATA[Presenters explain, describe and demonstrate how to start from full on premise, extend to hybrid and deploy app in to Azure IaaS. This module is focused on demo and practical part of implementation.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d357/71cafc58-2640-47ea-84f5-24a24cf5d357/Mod3_mid.mp4</video:content_loc>
+        <video:duration>2429</video:duration>
+        <video:publication_date>2014-12-16T04:03:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Websites/Mod2</loc>
+      <lastmod>2014-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7fbd/b844eebe-d85e-4958-8bcd-624ee6787fbd/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Microsoft Azure Building Blocks &amp; Journey to Web Sites  IaaS, PaaS and Other Goodies]]></video:title>
+        <video:description><![CDATA[Introduces attendees to building blocks and journey to Web Sites. Focus is given to components related to Azure Websites, IaaS and PaaS components. [16:17] Components preview – On-premise &amp;amp; Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7fbd/b844eebe-d85e-4958-8bcd-624ee6787fbd/Mod2_mid.mp4</video:content_loc>
+        <video:duration>2511</video:duration>
+        <video:publication_date>2014-12-16T04:02:28.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Hybrid-Cloud-Websites/Mod1</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5817/4386952e-8f27-42bc-962d-5567297d5817/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Hybrid Cloud Websites]]></video:title>
+        <video:description><![CDATA[Introductory module that takes attendees through the course agenda.This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5817/4386952e-8f27-42bc-962d-5567297d5817/Mod1_mid.mp4</video:content_loc>
+        <video:duration>527</video:duration>
+        <video:publication_date>2014-12-16T04:01:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

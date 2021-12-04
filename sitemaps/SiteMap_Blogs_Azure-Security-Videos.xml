@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Alert-Validation-in-Azure-Security-Center</loc>
+      <lastmod>2020-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6feb/3bc1d1b1-e51e-443e-acfe-e6dd04686feb/AlertValid_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Alert Validation in Azure Security Center]]></video:title>
+        <video:description><![CDATA[In this video, Yuri Diogenes discusses how to perform alert validation in Azure Security Center. This video will help you generate alerts to confirm that Azure Security Center is working for you. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6feb/3bc1d1b1-e51e-443e-acfe-e6dd04686feb/AlertValid_mid.mp4</video:content_loc>
+        <video:duration>320</video:duration>
+        <video:publication_date>2017-08-14T18:32:24.4740119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Azure-Log-Integration-Videos-Azure-AD-Integration</loc>
+      <lastmod>2017-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7b3f/76cd89b6-9461-4b4a-a602-dc6095547b3f/azazadad_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Log Integration Videos - Azure AD Integration]]></video:title>
+        <video:description><![CDATA[This video provides information on how to integrate Azure AD into Azure Log Integration - based on the article Integrate Azure Active Directory Audit logs ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b3f/76cd89b6-9461-4b4a-a602-dc6095547b3f/azazadad_mid.mp4</video:content_loc>
+        <video:duration>100</video:duration>
+        <video:publication_date>2017-05-10T20:31:59.6127096+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Azure-Log-Integration-Videos-Install-Azure-Log-Integration</loc>
+      <lastmod>2017-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec91/a3d7a981-6386-45d1-b878-aab5bdadec91/installazlog_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Log Integration Videos - Install Azure Log Integration]]></video:title>
+        <video:description><![CDATA[This video refers to the create a new virtual machine portion of the article Azure Log Integration with Azure Diagnostics Logging and Windows Event Forwarding ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec91/a3d7a981-6386-45d1-b878-aab5bdadec91/installazlog_mid.mp4</video:content_loc>
+        <video:duration>93</video:duration>
+        <video:publication_date>2017-05-10T17:25:57.4465790+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Azure-Log-Integration-Videos-Enable-Diagnostics-and-Storage</loc>
+      <lastmod>2017-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/582a/2b5dee54-33a9-4089-a609-3afb5f84582a/azlogenabledxstorage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Log Integration Videos - Enable Diagnostics and Storage]]></video:title>
+        <video:description><![CDATA[This video refers to the create a new virtual machine portion of the article Azure Log Integration with Azure Diagnostics Logging and Windows Event Forwarding ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/582a/2b5dee54-33a9-4089-a609-3afb5f84582a/azlogenabledxstorage_mid.mp4</video:content_loc>
+        <video:duration>153</video:duration>
+        <video:publication_date>2017-05-10T17:07:46.2914923+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Azure-Log-Integration-Videos-Create-a-Virtual-Machine</loc>
+      <lastmod>2017-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4437/f486c469-20e2-4fb9-aa82-d49e7f414437/azlogcreatevm_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Log Integration Videos - Create a Virtual Machine]]></video:title>
+        <video:description><![CDATA[This video refers to the create a new virtual machine portion of the article Azure Log Integration with Azure Diagnostics Logging and Windows Event Forwarding ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4437/f486c469-20e2-4fb9-aa82-d49e7f414437/azlogcreatevm_mid.mp4</video:content_loc>
+        <video:duration>90</video:duration>
+        <video:publication_date>2017-05-10T16:30:45.3729005+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Updated-Azure-Security-Center-Dashboard</loc>
+      <lastmod>2019-08-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb99/6db5ab2c-2a34-4daf-bd83-ad5816dcfb99/SecurityCenterUpdate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Updated Azure Security Center Dashboard]]></video:title>
+        <video:description><![CDATA[We&#39;ve updated the Azure Security Center Dashboard! Security is important, but sometimes it&#39;s more difficult than it should be. Azure Security Center makes security easier than ever - making it&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb99/6db5ab2c-2a34-4daf-bd83-ad5816dcfb99/SecurityCenterUpdate_mid.mp4</video:content_loc>
+        <video:duration>285</video:duration>
+        <video:publication_date>2017-05-09T17:10:46.4794213+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Mitigating-Security-Issues-using-Azure-Security-Center</loc>
+      <lastmod>2018-05-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4cb/f909917c-a1f4-42a9-a05f-6005e7b6d4cb/ASCMitigation2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mitigating Security Issues using Azure Security Center]]></video:title>
+        <video:description><![CDATA[In this video, Yuri Diogenes demonstrates how you can use Azure Security Center to mitigate security issues discovered in your Azure deployments. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4cb/f909917c-a1f4-42a9-a05f-6005e7b6d4cb/ASCMitigation2_mid.mp4</video:content_loc>
+        <video:duration>568</video:duration>
+        <video:publication_date>2017-02-24T20:32:17.7531642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Azure-Security-Center-in-Incident-Response</loc>
+      <lastmod>2018-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77fb/a6557895-aaeb-457b-b1d4-eef646e877fb/ASCINCIDENT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Security Center in Incident Response]]></video:title>
+        <video:description><![CDATA[This video describes how Azure Security Center can be a very useful tool in your incident response process. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77fb/a6557895-aaeb-457b-b1d4-eef646e877fb/ASCINCIDENT_mid.mp4</video:content_loc>
+        <video:duration>521</video:duration>
+        <video:publication_date>2017-02-16T20:56:16.7592990+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Security-Videos/Azure-Security-Center-VA-Solutions</loc>
+      <lastmod>2018-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd91/b44f3c25-84f9-4b51-8eb5-d8ee9a4ffd91/AzureSecurityCenterVASolutions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Security Center VA Solutions]]></video:title>
+        <video:description><![CDATA[This video shows you how to configure Vulnerability Assessment solutions in Azure Security Center. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd91/b44f3c25-84f9-4b51-8eb5-d8ee9a4ffd91/AzureSecurityCenterVASolutions_mid.mp4</video:content_loc>
+        <video:duration>272</video:duration>
+        <video:publication_date>2016-11-21T20:02:30.3619596+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

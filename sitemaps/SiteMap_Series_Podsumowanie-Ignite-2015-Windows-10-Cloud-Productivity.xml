@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Podsumowanie-Ignite-2015-Windows-10-Cloud-Productivity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Podsumowanie-Ignite-2015-Windows-10-Cloud-Productivity/03-Ignite-2015-Cloud-i-Productivity</loc>
+      <lastmod>2015-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/014d/8e990bba-d851-4f9c-97d0-3866668c014d/ignite3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03  Ignite 2015: Cloud i Productivity]]></video:title>
+        <video:description><![CDATA[W ostatnim module prezentujemy nowości ogłoszone podczas Ignite 2015 z zakrsu rozwiązań Cloud I Productivity. Dowiesz się więcej o Windows Server 2016 I Office 2016 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/014d/8e990bba-d851-4f9c-97d0-3866668c014d/ignite3_mid.mp4</video:content_loc>
+        <video:duration>819</video:duration>
+        <video:publication_date>2015-05-18T08:29:16.5156706+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Podsumowanie-Ignite-2015-Windows-10-Cloud-Productivity/02-Ignite-2015-Windows-10</loc>
+      <lastmod>2015-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d145/7ab22c84-bdfd-49fb-a154-ddfc84ecd145/ignite2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Ignite 2015: Windows 10]]></video:title>
+        <video:description><![CDATA[W tym module przedstawiamy nowe funkcjonalności i zmiany w Windows 10 zaprezentowane podczas Ignite 2015 – m.in ulepszony interfejs, nowa przeglądarka Microsoft Edge. Przedstawiamy funkcje podnoszące&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d145/7ab22c84-bdfd-49fb-a154-ddfc84ecd145/ignite2015_mid.mp4</video:content_loc>
+        <video:duration>3528</video:duration>
+        <video:publication_date>2015-05-18T08:29:05.1117007+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Podsumowanie-Ignite-2015-Windows-10-Cloud-Productivity/01-Windows-10-przed-Ignite-2015</loc>
+      <lastmod>2015-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59e7/ddf60883-ef04-4eed-8978-84e7875359e7/windows10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ 01  Windows 10 przed Ignite 2015]]></video:title>
+        <video:description><![CDATA[W tym module przedstawiamy, co o Windows 10 było już wiadomo przed konferencją Microsoft Ignite 2015 – podsumowanie najważniejszych funkcji i zmian. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59e7/ddf60883-ef04-4eed-8978-84e7875359e7/windows10_mid.mp4</video:content_loc>
+        <video:duration>723</video:duration>
+        <video:publication_date>2015-05-17T17:05:07.6307255+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

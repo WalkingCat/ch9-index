@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharp-ML-MVP-Summit-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharp-ML-MVP-Summit-2015/Crunching-through-big-data-with-MBrace-Azure-and-F</loc>
+      <lastmod>2017-10-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d354/78dc89a5-baae-49df-8e8c-45834c70d354/CrunchingBigDatawithMBrace_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Crunching through big data with MBrace, Azure and F#]]></video:title>
+        <video:description><![CDATA[For data exploration and rapid prototyping, the productivity of an interactive scripting environment is hard to beat: simply grab data, run code, and iterate based on immediate feedback. However, that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d354/78dc89a5-baae-49df-8e8c-45834c70d354/CrunchingBigDatawithMBrace_mid.mp4</video:content_loc>
+        <video:duration>4110</video:duration>
+        <video:publication_date>2015-11-14T01:25:36.7827856+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/FSharp-Events/fsharp-ML-MVP-Summit-2015/WelcomeIntroduction-and-Doing-Data-Science-with-FsLab</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/292c/8cb1445d-cbe4-4f30-b4bc-7feb09c8292c/FSharpTomasPetricek_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome/Introduction and Doing Data Science with FsLab]]></video:title>
+        <video:description><![CDATA[In the brief introduction, you&#39;ll learn about the F# ecosystem. How does the F# Software Foundation, the F# team at Microsoft and the open-source community around the F# language work? What&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/292c/8cb1445d-cbe4-4f30-b4bc-7feb09c8292c/FSharpTomasPetricek_mid.mp4</video:content_loc>
+        <video:duration>4105</video:duration>
+        <video:publication_date>2015-11-14T01:11:49.7654817+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

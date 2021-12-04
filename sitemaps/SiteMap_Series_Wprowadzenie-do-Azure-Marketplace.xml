@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Azure-Marketplace</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Azure-Marketplace/02-Azure-Certified</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1fc3/2a3e8814-39d0-409a-bde7-4f71f6031fc3/2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Azure Certified]]></video:title>
+        <video:description><![CDATA[W drugim module kursu pokazana zostanie rola programu Azure Certified oraz om&#243;wiony szczeg&#243;łowo proces umieszczania rozwiązania w Azure Marketplace. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1fc3/2a3e8814-39d0-409a-bde7-4f71f6031fc3/2_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2016-01-05T10:44:33.8258600+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Azure-Marketplace/01-Wprowadzenie-do-Azure-Marketplace</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/863d/559a47ba-cac0-44a5-9733-75729f99863d/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wprowadzenie do Azure Marketplace]]></video:title>
+        <video:description><![CDATA[W pierwszy module kursu dowiesz się czym jest Azure Marketplace i jak z niego skorzystać. Zobaczysz jakie rozwiązania można w taki spos&#243;b umieszczać. Om&#243;wione zostaną także zalety bycia dostawcą&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/863d/559a47ba-cac0-44a5-9733-75729f99863d/1_mid.mp4</video:content_loc>
+        <video:duration>1013</video:duration>
+        <video:publication_date>2016-01-05T10:44:26.4937058+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

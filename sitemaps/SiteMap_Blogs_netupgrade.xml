@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/netupgrade</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/netupgrade/Xamarin3</loc>
+      <lastmod>2014-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb47/0d974685-572e-4a72-802c-c4cd1822bb47/VisualStudioAndXamarin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ App  - Visual Studio + Xamarin 3.0 ]]></video:title>
+        <video:description><![CDATA[講師: 昕力資訊  陸浩翔 Ben  透過 Xamarin 開發套件，可以用 Visual Studio 及 C# 開發各行動平台 (Windows/iOS/Android) 的原生 App，而且執行效能一樣好。深入探討 Xamarin 3.0 帶來的改變，包括 Designer 用拖拉點選的方式設計 App 的 UI、透過 Xamarin.Form&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb47/0d974685-572e-4a72-802c-c4cd1822bb47/VisualStudioAndXamarin_mid.mp4</video:content_loc>
+        <video:duration>3194</video:duration>
+        <video:publication_date>2014-12-19T08:03:48.9790567+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/netupgrade/Team-Foundation-Server-Visual-Studio-Online</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/96bf/db7ae71d-4dac-4c60-8a95-bc3be18d96bf/TeamFoundationServerAndVisualStudioOnline_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ -  Team Foundation Server  Visual Studio Online ]]></video:title>
+        <video:description><![CDATA[(適合研發主管、資深開發者及還在使用 Visual SourceSafe 者) 講師：王寧疆 程式碼版本管控是團隊開發的基本功夫，內容包括版本管控最基本的作法，包括分支、合併、以及分散式版本管控 Git 整合到 Team Foundation Server，讓企業中不同的開發團隊都可以依需求來決定要用集中式或是分散式版控，讓你掌握版本管控的基本功！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/96bf/db7ae71d-4dac-4c60-8a95-bc3be18d96bf/TeamFoundationServerAndVisualStudioOnline_mid.mp4</video:content_loc>
+        <video:duration>4800</video:duration>
+        <video:publication_date>2014-12-16T10:03:55.6453320+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/netupgrade/ASPNET-Visual-Studio-2013</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6c3/f81e0dd9-5e37-45ff-992e-ad4f27cee6c3/UseASPNETUpgradeToModernWebsite_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET    Visual Studio 2013 ]]></video:title>
+        <video:description><![CDATA[(適合原 Web Form 開發者、MVC 開發者也可了解) 講師：王寧疆 既有 ASP.NET Web Form網站，如何用最省力的方式，將這些網站升級，並享受現代化網頁 Modern Web技術的好處呢? 將從以下內容一一解惑。 行動化及 Responsive 響應式設計。ASP.NET Identity 身份驗證及社交登入 (例如 AD 驗證/facebook 登入)IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6c3/f81e0dd9-5e37-45ff-992e-ad4f27cee6c3/UseASPNETUpgradeToModernWebsite_mid.mp4</video:content_loc>
+        <video:duration>5263</video:duration>
+        <video:publication_date>2014-12-16T09:28:18.7659071+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/netupgrade/MSDN-description</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8539/cbe6f351-af07-4b0c-b1b8-7eacbb988539/MSDNSubscriptionBenefits_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MSDN !  MSDN  ]]></video:title>
+        <video:description><![CDATA[許多 MSDN 訂閱用戶，可能只知道其中一個權益 – 軟體下載供開發測試，事實上 MSDN 的權益已經愈來愈豐富了！本場將解密如何活用 MSDN 權益，包括 Azure, Visual Studio Online 權益、技術支援等，讓你的開發及IT工作更便利！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8539/cbe6f351-af07-4b0c-b1b8-7eacbb988539/MSDNSubscriptionBenefits_mid.mp4</video:content_loc>
+        <video:duration>1520</video:duration>
+        <video:publication_date>2014-12-15T03:58:44.1459341+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/netupgrade/Release-Management</loc>
+      <lastmod>2014-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a708/5cf71801-7a25-431b-ba8d-b2808a9ca708/UseReleaseManagement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ -  Release Management ]]></video:title>
+        <video:description><![CDATA[(應用系統重要議題，適合 CIO、IT 及研發主管) 講師：Jacky 一個重要的應用，如網路銀行、電子商務每次改版從開發/測試到上線環境，需花多少時間?如何確保系統在改版佈署的時候 downtime 愈短愈好? 當改版頻率愈來愈高，這些挑戰就顯得更重要。Release Management&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a708/5cf71801-7a25-431b-ba8d-b2808a9ca708/UseReleaseManagement_mid.mp4</video:content_loc>
+        <video:duration>3536</video:duration>
+        <video:publication_date>2014-12-15T03:58:39.0152264+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desktop-and-NET-Core-101</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desktop-and-NET-Core-101/Create-your-first-WPF-app-on-NET-Core</loc>
+      <lastmod>2021-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/52e3/c2fa6c93-7183-48af-9554-73f67e2f52e3/DesktopCreateFirstWPFAppNETCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create your first WPF app on .NET Core [3 of 3]]]></video:title>
+        <video:description><![CDATA[This tutorial shows how to create your first WPF application targeting .NET Core 3 and explains the base components of the WPF application. Watch the entire series hereDownload Visual Studio 2019&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7f3f/c51da417-b17c-43da-bc3f-fec925f97f3f/DesktopCreateFirstWPFAppNETCore_mid.mp4</video:content_loc>
+        <video:duration>554</video:duration>
+        <video:publication_date>2019-09-23T15:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desktop-and-NET-Core-101/Create-your-first-WinForms-app-on-NET-Core</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/47a8/e33774a7-e35a-44ee-bcdd-6d8e5ce247a8/DesktopCreateFirstWinFormsAppNETCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create your first WinForms app on .NET Core [2 of 3]]]></video:title>
+        <video:description><![CDATA[This tutorial shows how to create your first WinForms application targeting .NET Core 3 and explains the base components of the WinForms application. Watch the entire series hereDownload Visual Studio&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/adcd/acfab195-cb97-4900-9102-6f9a1d01adcd/DesktopCreateFirstWinFormsAppNETCore_mid.mp4</video:content_loc>
+        <video:duration>470</video:duration>
+        <video:publication_date>2019-09-23T15:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desktop-and-NET-Core-101/NET-Core-and-NET-Framework-what-to-choose</loc>
+      <lastmod>2021-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/609d/af95f889-2cf5-4420-9e00-0350591f609d/DesktopNETCoreNETFrameworkWhatToChoose_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core and .NET Framework - what to choose? [1 of 3]]]></video:title>
+        <video:description><![CDATA[This tutorial explains what is the difference between .NET Framework and .NET Core for desktop applications. What are the benefits of .NET Core and what should you choose for your apps. Watch the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fc96/7dd592d7-b965-498f-9d31-f3ab5128fc96/DesktopNETCoreNETFrameworkWhatToChoose_mid.mp4</video:content_loc>
+        <video:duration>335</video:duration>
+        <video:publication_date>2019-09-23T15:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

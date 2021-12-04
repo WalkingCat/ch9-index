@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/tendulkar-uvca</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/tendulkar-uvca/0102-Verify-Machine-Setup</loc>
+      <lastmod>2017-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1dc1/ea8fe654-3958-4965-9f27-31b8ec4f1dc1/0102VerifyMachineSetup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01.02 Verify Machine Setup]]></video:title>
+        <video:description><![CDATA[Just like we check microphone before delivering next great speech, it makes sense to verify your machine setup before starting developing apps or participating in hackathons. It will help us to focus&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1dc1/ea8fe654-3958-4965-9f27-31b8ec4f1dc1/0102VerifyMachineSetup_mid.mp4</video:content_loc>
+        <video:duration>734</video:duration>
+        <video:publication_date>2016-08-04T18:31:41.8767814+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/tendulkar-uvca/0101-Tools-for-Mobile-Developers</loc>
+      <lastmod>2017-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b17/5f400ed2-2656-4f0c-89bd-d49a30ac6b17/0101ToolsForMobileDevelopers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01.01. Tools for Mobile Developers]]></video:title>
+        <video:description><![CDATA[Just like a soldier is always well prepared for war, I believe developers need to be prepared for building next great mobile app. In this short video, let&#39;s see what it takes to setup and configure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b17/5f400ed2-2656-4f0c-89bd-d49a30ac6b17/0101ToolsForMobileDevelopers_mid.mp4</video:content_loc>
+        <video:duration>623</video:duration>
+        <video:publication_date>2016-08-04T18:12:38.3796445+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

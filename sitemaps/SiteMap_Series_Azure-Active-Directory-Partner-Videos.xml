@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/Blackboard-and-Azure-Active-Directory</loc>
+      <lastmod>2017-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/80ca/6a63aee7-bd98-4c49-91f2-6aeef0fd80ca/BlackboardAzureAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Blackboard and Azure Active Directory]]></video:title>
+        <video:description><![CDATA[Blackboard is integrated with Azure Active Directory to provide secure single sign-on to organizations using this application. Azure Active Directory provides single sign-on to thousands of cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/80ca/6a63aee7-bd98-4c49-91f2-6aeef0fd80ca/BlackboardAzureAD_mid.mp4</video:content_loc>
+        <video:duration>136</video:duration>
+        <video:publication_date>2016-08-27T01:34:29.6964380+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/Facebook-at-Work-and-Azure-Active-Directory</loc>
+      <lastmod>2017-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/86eb/74f5b427-f0d2-4755-a785-1431af0286eb/FBatworkAzureAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Facebook at Work and Azure Active Directory]]></video:title>
+        <video:description><![CDATA[Facebook at Work is integrated with Azure Active Directory to provide single sign-on and provisioning to organizations using this application. Azure Active Directory provides single sign-on to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/86eb/74f5b427-f0d2-4755-a785-1431af0286eb/FBatworkAzureAD_mid.mp4</video:content_loc>
+        <video:duration>150</video:duration>
+        <video:publication_date>2016-04-05T20:38:14.7181282+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/NetSuite-and-Azure-Active-Directory</loc>
+      <lastmod>2016-02-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9122/18c86502-8131-4d15-beef-7400e5cc9122/NetsuiteAAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[NetSuite and Azure Active Directory]]></video:title>
+        <video:description><![CDATA[NetSuite is integrated with Azure Active Directory to provide single sign-on and provisioning to organizations using their applications. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9122/18c86502-8131-4d15-beef-7400e5cc9122/NetsuiteAAD_mid.mp4</video:content_loc>
+        <video:duration>137</video:duration>
+        <video:publication_date>2016-02-02T01:58:32.1851088+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/Box-and-Azure-Active-Directory</loc>
+      <lastmod>2015-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/c89835ec-d8a3-4fd5-b959-0e66c6529d7e.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Box and Azure Active Directory]]></video:title>
+        <video:description><![CDATA[Box integrates with Azure Active Directory to meet the needs of both Enterprise IT departments and end-users for identity and access management and transform the way that people work.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a7b/4b1f5306-4f86-4a17-842e-16a135d96a7b/BoxAAD_mid.mp4</video:content_loc>
+        <video:duration>135</video:duration>
+        <video:publication_date>2015-05-27T22:58:51.6295855+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/Concur-and-Azure-Active-Directory</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe54/e2bac07c-de05-4776-9de3-a4a853cafe54/ConcurAAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Concur and Azure Active Directory ]]></video:title>
+        <video:description><![CDATA[Concur is all about integrating travel and expense reporting with the least possible friction. Concur applications are cloud-based so integrating with Azure Active Directory for secure single sign-on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe54/e2bac07c-de05-4776-9de3-a4a853cafe54/ConcurAAD_mid.mp4</video:content_loc>
+        <video:duration>148</video:duration>
+        <video:publication_date>2015-05-27T22:19:23.7034769+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/Workday-integration-with-Azure-Active-Directory</loc>
+      <lastmod>2018-11-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/798a8862-e600-48ff-ba9c-35e4736ce8b5.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Workday integration with Azure Active Directory]]></video:title>
+        <video:description><![CDATA[Organizations can use Azure Active Directory to enable single-sign on to Workday for their users but also for importing employee records as user accounts from Workday to Azure Active Directory. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b0f/d9f80b38-6201-4b9b-9538-8dd57adc1b0f/workdayintegration_mid.mp4</video:content_loc>
+        <video:duration>139</video:duration>
+        <video:publication_date>2015-05-19T04:03:26.7858160+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Partner-Videos/Smartsheet-Uses-Microsoft-Azure-Active-Directory</loc>
+      <lastmod>2016-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/61dd/f24969dc-e105-4ff9-83b9-b2923df261dd/SmartsheetVideo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Smartsheet Uses Microsoft Azure Active Directory ]]></video:title>
+        <video:description><![CDATA[Smartsheet Uses Microsoft Azure Active Directory to Streamline Access for Enterprise Collaboration ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/61dd/f24969dc-e105-4ff9-83b9-b2923df261dd/SmartsheetVideo_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2015-01-17T04:46:54.3911382+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

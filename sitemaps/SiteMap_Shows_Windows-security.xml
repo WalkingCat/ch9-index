@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security/detection-respond</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f606/add5ad44-529e-4bcf-bef2-c0dcf03af606/respond_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  ]]></video:title>
+        <video:description><![CDATA[在此影片中，微軟技術專家會對 Windows 10 提供「漏洞偵測與回應」的功能給予更深入的探討，如對其他面相有興趣可以點擊這一系列其他面向的介紹。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f606/add5ad44-529e-4bcf-bef2-c0dcf03af606/respond_mid.mp4</video:content_loc>
+        <video:duration>1327</video:duration>
+        <video:publication_date>2017-05-22T07:54:49.5179822+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security/data-protect</loc>
+      <lastmod>2017-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/608a/d86d7890-762b-4db4-a316-138c0ed0608a/respond_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  ]]></video:title>
+        <video:description><![CDATA[在此影片中，微軟技術專家會對 Windows 10 提供「資料保護」的功能給予更深入的探討，如對其他面相有興趣可以點擊這一系列其他面向的介紹。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/608a/d86d7890-762b-4db4-a316-138c0ed0608a/respond_mid.mp4</video:content_loc>
+        <video:duration>1252</video:duration>
+        <video:publication_date>2017-05-16T02:57:54.4689066+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security/Windows-10-digital-file-security</loc>
+      <lastmod>2017-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6c9e/a08d85b6-b33b-40cd-96e0-8fd5265d6c9e/box_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  ]]></video:title>
+        <video:description><![CDATA[在此影片中，微軟技術專家會對 Windows 10 提供「身份辨識」的功能給予更深入的探討，如對其他面相有興趣可以點擊這一系列其他面向的介紹。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c9e/a08d85b6-b33b-40cd-96e0-8fd5265d6c9e/box_mid.mp4</video:content_loc>
+        <video:duration>788</video:duration>
+        <video:publication_date>2017-05-16T02:51:19.9017353+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security/Windows-10-resist-threaten</loc>
+      <lastmod>2017-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bddf/52890191-ba8c-41a6-83ee-5cf81e78bddf/threaten_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  ]]></video:title>
+        <video:description><![CDATA[在此影片中，微軟技術專家會對 Windows 10 提供「對抗威脅」的功能給予更深入的探討，如對其他面相有興趣可以點擊這一系列其他面向的介紹。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bddf/52890191-ba8c-41a6-83ee-5cf81e78bddf/threaten_mid.mp4</video:content_loc>
+        <video:duration>856</video:duration>
+        <video:publication_date>2017-05-16T02:51:12.2395830+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security/Windows-10-tool-security</loc>
+      <lastmod>2017-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bc49/72fc6cbd-00f1-4d6b-b531-1d2d4698bc49/tool_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  ]]></video:title>
+        <video:description><![CDATA[在此影片中，微軟技術專家會對 Windows 10 提供「安全裝置」的功能給予更深入的探討，如對其他面相有興趣可以點擊這一系列其他面向的介紹。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc49/72fc6cbd-00f1-4d6b-b531-1d2d4698bc49/tool_mid.mp4</video:content_loc>
+        <video:duration>1167</video:duration>
+        <video:publication_date>2017-05-16T02:50:58.8039262+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Windows-security/Windows-10-security-overview</loc>
+      <lastmod>2017-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1b7d/05cfca27-165e-4e6a-90fe-9423f2741b7d/safe_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10  ]]></video:title>
+        <video:description><![CDATA[資安威脅與日俱進，Windows 10 對裝置在五個面向提供了全面的安全防護 ，讓企業可以不用擔心資安對生意可能帶來的潛在威脅，在此影片中微軟技術專家會對這五個面向給予簡單概述，如欲對五個面向有更深一步的了解，可以點擊這一系列五個面向的深入介紹。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b7d/05cfca27-165e-4e6a-90fe-9423f2741b7d/safe_mid.mp4</video:content_loc>
+        <video:duration>357</video:duration>
+        <video:publication_date>2017-05-16T02:50:46.9296410+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

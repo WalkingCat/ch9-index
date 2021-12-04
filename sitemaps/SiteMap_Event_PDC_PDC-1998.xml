@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-1998</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-1998/PDC-1998-Keynote-with-Bill-Gates</loc>
+      <lastmod>2016-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/65be356d-3ead-43c5-9df2-de8f931dafd0.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PDC 1998 Keynote with Bill Gates]]></video:title>
+        <video:description><![CDATA[This PDC 1998 video features the Bill Gates keynote, &quot;Building Windows-Based Applications For The Internet Age.&quot; Watch as Tod Nielsen comes out on stage to talk about improving application deployment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d99b/c164a1b3-62e7-4b06-9fef-9ede0184d99b/PDC1998BillGatesKeynote_high_ch9.mp4</video:content_loc>
+        <video:duration>2979</video:duration>
+        <video:publication_date>2011-05-20T20:53:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

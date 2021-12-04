@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Sonderrechte-f-r-sideloaded-Window-Apps-im-Unternehmen</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Sonderrechte-f-r-sideloaded-Window-Apps-im-Unternehmen/Modul-4-Sideloading-von-Apps-im-Unternehmen</loc>
+      <lastmod>2014-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7e1/39e1b2c3-7ca0-4896-bb2d-853dfc2ac7e1/Modul4EnterpriseSideloading_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modul 4 - Sideloading von Apps im Unternehmen				]]></video:title>
+        <video:description><![CDATA[In diesem Modul stellt Daniel Meixner das grunds&#228;tzliche Vorgehen beim Sideloading von Apps vor. Dabei geht Daniel Meixner explizit auf die auf der Build 2014 bekanntgegebenen Neuerungen ein, die&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7e1/39e1b2c3-7ca0-4896-bb2d-853dfc2ac7e1/Modul4EnterpriseSideloading_mid.mp4</video:content_loc>
+        <video:duration>789</video:duration>
+        <video:publication_date>2014-06-05T14:06:58.3277108+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Sonderrechte-f-r-sideloaded-Window-Apps-im-Unternehmen/Modul-3-Brokered-Windows-Runtime-Components-f-r-sideloaded-Windows-Apps-im-Unternehmen</loc>
+      <lastmod>2014-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc36/5428cad2-b308-4eb9-80b5-031a08a2dc36/Modul1EnterpriseBrokeredComponents_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modul 3 - Brokered Windows Runtime Components f&#252;r sideloaded Windows Apps im Unternehmen				]]></video:title>
+        <video:description><![CDATA[In diesem Modul stellt Daniel Meixner die Brokered Windows Runtime Components vor, mit deren Hilfe es m&#246;glich wird aus einer Windows App auf die volle Leistungsf&#228;higkeit von Windows zuzugreifen und&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc36/5428cad2-b308-4eb9-80b5-031a08a2dc36/Modul1EnterpriseBrokeredComponents_mid.mp4</video:content_loc>
+        <video:duration>2838</video:duration>
+        <video:publication_date>2014-06-05T14:06:55.5387856+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Sonderrechte-f-r-sideloaded-Window-Apps-im-Unternehmen/Modul-2-Network-Loopback-f-r-sideloaded-Windows-Apps-im-Unternehmen</loc>
+      <lastmod>2014-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c180/7bcc4fa8-e9ee-475f-b270-68ebafa8c180/Modul1EnterpriseNetworkLoopback_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modul 2 - Network Loopback f&#252;r sideloaded Windows Apps im Unternehmen				]]></video:title>
+        <video:description><![CDATA[In diesem Modul beschreibt Daniel Meixner, wie der Network Loopback f&#252;r Windows Store Apps funktioniert. Dabei geht Daniel Meixner sowohl auf den Loopback zur Entwicklungszeit, als auch zur Laufzeit&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c180/7bcc4fa8-e9ee-475f-b270-68ebafa8c180/Modul1EnterpriseNetworkLoopback_mid.mp4</video:content_loc>
+        <video:duration>1314</video:duration>
+        <video:publication_date>2014-06-05T14:06:50.8718628+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Sonderrechte-f-r-sideloaded-Window-Apps-im-Unternehmen/Modul-1-Einf-hrung-zu-Sonderrechten-f-r-sideloaded-Windows-Apps-im-Unternehmen</loc>
+      <lastmod>2014-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d42/ec023d4e-03c8-4799-b4fc-ec9190609d42/Modul1EnterpriseEinfuehrung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modul 1 - Einf&#252;hrung zu Sonderrechten f&#252;r sideloaded Windows Apps im Unternehmen				]]></video:title>
+        <video:description><![CDATA[In Modul 1 bietet Daniel Meixner einen &#220;berblick dar&#252;ber, was der Status Quo f&#252;r Windows 8 Apps war, wenn es darum ging bestehende Softwarekomponenten aus Windows Store Apps anzusprechen. Die damit&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d42/ec023d4e-03c8-4799-b4fc-ec9190609d42/Modul1EnterpriseEinfuehrung_mid.mp4</video:content_loc>
+        <video:duration>761</video:duration>
+        <video:publication_date>2014-06-05T14:06:38.8412415+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

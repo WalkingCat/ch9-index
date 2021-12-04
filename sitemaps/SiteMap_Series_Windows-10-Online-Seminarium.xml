@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Online-Seminarium</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Online-Seminarium/App-till-app-kommunikation</loc>
+      <lastmod>2015-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3db0/06e03f88-1cad-4ad8-9f5e-f16d91e63db0/win10os4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[App till app kommunikation]]></video:title>
+        <video:description><![CDATA[Windows 10 introducerar nya sp&#228;nnande s&#228;tt f&#246;r appar att kommunicera med varandra. I det h&#228;r seminariet g&#229;r vi igenom nyheterna och visar bland annat hur din app kan bli en service. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3db0/06e03f88-1cad-4ad8-9f5e-f16d91e63db0/win10os4_mid.mp4</video:content_loc>
+        <video:duration>2148</video:duration>
+        <video:publication_date>2015-06-17T05:52:43.9191218+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Online-Seminarium/Bridges-en-verblick</loc>
+      <lastmod>2015-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f45/041910a6-9196-44a6-bd61-ee108ad88f45/win10os3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bridges - en &#246;verblick]]></video:title>
+        <video:description><![CDATA[Vid detta tillf&#228;lle ber&#228;ttar vi om Bridges – en &#246;verblick. I Windows 10 m&#246;jligg&#246;r vi ett antal nya s&#228;tt att skriva en Windows app. Seminariet g&#229;r igenom m&#246;jligheterna att enklare portera klassiska&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f45/041910a6-9196-44a6-bd61-ee108ad88f45/win10os3_mid.mp4</video:content_loc>
+        <video:duration>3183</video:duration>
+        <video:publication_date>2015-06-12T18:11:00.6363294+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Online-Seminarium/Nytt-i-XAML-fr-Windows-10</loc>
+      <lastmod>2015-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6287/4da553ae-8b18-49ff-aad9-182786376287/win10os2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nytt i XAML f&#246;r Windows 10]]></video:title>
+        <video:description><![CDATA[Vid detta tillf&#228;lle ber&#228;ttar vi om nytt i XAML f&#246;r Windows 10. Bygg en app som kan k&#246;ra p&#229; alla Windows enheter. Under seminariet g&#229;r vi igenom app-projektet. Vi tittar p&#229; nya XAML-kontroller f&#246;r&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6287/4da553ae-8b18-49ff-aad9-182786376287/win10os2_mid.mp4</video:content_loc>
+        <video:duration>2553</video:duration>
+        <video:publication_date>2015-06-12T07:12:44.6472632+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Online-Seminarium/Windows-10-App-model</loc>
+      <lastmod>2015-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b408/5415aec8-fa5d-4171-9414-a02e8a20b408/win10os1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 App model]]></video:title>
+        <video:description><![CDATA[I Windows 10 har vi byggt vidare och ut&#246;kat den appmodell som introducerades i Windows 8. Detta seminarie g&#229;r igenom dels nya funktioner och m&#246;jligheter i appmodelln och ocks&#229; nya s&#228;tt att komma till&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b408/5415aec8-fa5d-4171-9414-a02e8a20b408/win10os1_mid.mp4</video:content_loc>
+        <video:duration>3436</video:duration>
+        <video:publication_date>2015-06-12T07:11:58.8903085+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

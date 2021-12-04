@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-OpenSource-Database</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-OpenSource-Database/01</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ff3f/a298e469-ecae-4689-a138-e93a6072ff3f/707OpenSourceDatabaseOnAzureM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01) Microsoft Azure ]]></video:title>
+        <video:description><![CDATA[有關開放原始碼的軟體包括 Linux、Unix 而企業的資料中心使用的軟體其中會有 Windows, 也會有 Linux, 還有 Oracle 資料庫，是許多獨立且不同的服務的組合，這些服務又是不同的公司提供的軟體， 多元的資源提供多樣化的環境讓企業去做使用，但是 Microsoft Azure 提供環境讓大家可以自由選擇喜歡的軟體做使用，有興趣的人一定要看此課程！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff3f/a298e469-ecae-4689-a138-e93a6072ff3f/707OpenSourceDatabaseOnAzureM01_mid.mp4</video:content_loc>
+        <video:duration>1404</video:duration>
+        <video:publication_date>2015-08-10T08:11:51.4256223+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-OpenSource-Database/02</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b0f0/5f82187f-1b85-4233-98e5-1095e706b0f0/707OpenSourceDatabaseOnAzureM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02) Microsoft Azure ]]></video:title>
+        <video:description><![CDATA[此單元我們將會深入討論虛擬機器的大小以及 Azure 儲存機制與執行效率的交互作用對虛擬機器影響,，將會深入介紹如何設計磁碟架構，或是應該如何以獲得最佳的執行效率，讓您的投資能夠得到最佳的效益！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0f0/5f82187f-1b85-4233-98e5-1095e706b0f0/707OpenSourceDatabaseOnAzureM02_mid.mp4</video:content_loc>
+        <video:duration>2615</video:duration>
+        <video:publication_date>2015-08-10T08:11:35.0733989+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-OpenSource-Database/03</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/db72/8a7c8c65-e15e-43ee-b515-3cc5c570db72/707OpenSourceDatabaseOnAzureM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03) Microsoft Azure ]]></video:title>
+        <video:description><![CDATA[這堂課將我們將會學習到如何加入元素使 Azure 達到最高的可用性，這功能稱為「可用性設定組」，完成此設定之後讓您的 Azure 效益使用最大化！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db72/8a7c8c65-e15e-43ee-b515-3cc5c570db72/707OpenSourceDatabaseOnAzureM03_mid.mp4</video:content_loc>
+        <video:duration>1852</video:duration>
+        <video:publication_date>2015-08-10T08:11:15.9867342+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-OpenSource-Database/04</loc>
+      <lastmod>2015-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6feb/76fb7a66-0957-4a64-91e2-c7c281416feb/707OpenSourceDatabaseOnAzureM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04)  Azure ]]></video:title>
+        <video:description><![CDATA[此課程將為大家介紹專家最常使用的協力廠商工具，支援與Azure 無縫接軌的部署與設定功能、示範如何使用 Azure 自動化功能部署以及 Azure 環境執行的系統監控功能。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6feb/76fb7a66-0957-4a64-91e2-c7c281416feb/707OpenSourceDatabaseOnAzureM04_mid.mp4</video:content_loc>
+        <video:duration>2247</video:duration>
+        <video:publication_date>2015-08-10T08:10:52.8983977+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

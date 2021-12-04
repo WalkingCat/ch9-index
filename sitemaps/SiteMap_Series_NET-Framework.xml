@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework/Introduction-to-API-Reviews</loc>
+      <lastmod>2016-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to API Reviews]]></video:title>
+        <video:description><![CDATA[In this video, Dan Fernandez talks to Eric St. John, Immo Landwerth, David Kean, and Krzysztof Cwalina from the .NET team about API reviews. How do we conduct API reviews?How does this work in an open&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_mid.mp4</video:content_loc>
+        <video:duration>3508</video:duration>
+        <video:publication_date>2015-01-28T19:54:04.4496262+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework/Git-Training-for-the-NET-Team</loc>
+      <lastmod>2019-02-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aed1/a8efa0b8-0fbe-4239-83b9-4f5fc0b0aed1/DotNetTeamGitTraining_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Git Training for the .NET Team]]></video:title>
+        <video:description><![CDATA[This is a recording of the git training Andrew Arnott did for the .NET team. We bet you&#39;ll find this helpful, too! Here are some additional resources: Pro Git. Excellent (and free!) online book on Git&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aed1/a8efa0b8-0fbe-4239-83b9-4f5fc0b0aed1/DotNetTeamGitTraining_mid.mp4</video:content_loc>
+        <video:duration>4315</video:duration>
+        <video:publication_date>2015-01-26T21:41:34.3533355+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework/NET-Core-API-Review-2015-01-14</loc>
+      <lastmod>2020-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b97e/58b82243-083b-49aa-8654-d3ee1e93b97e/APIReview20150114_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[.NET Core API Review 2015-01-14]]></video:title>
+        <video:description><![CDATA[Video recording of the January, 14th 2015 GitHub API Review of .NET Core Pull Requests. [Video] GitHub Issue: #316: Implement IList&amp;lt;T&amp;gt;, IReadOnlyList&amp;lt;T&amp;gt;, and IList on Regex&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b97e/58b82243-083b-49aa-8654-d3ee1e93b97e/APIReview20150114_mid.mp4</video:content_loc>
+        <video:duration>6843</video:duration>
+        <video:publication_date>2015-01-15T23:19:22.4145782+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework/Immo-Landwerth-and-David-Kean-Open-sourcing-the-NET-Framework</loc>
+      <lastmod>2015-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/0983862f-b782-4dab-bc13-00140d31a0a1.png</video:thumbnail_loc>
+        <video:title><![CDATA[Immo Landwerth and David Kean - Open sourcing the .NET Framework]]></video:title>
+        <video:description><![CDATA[With the recent announcement that the .NET Core is open source, Dan sits down with Immo Landwerth and David Kean to discuss what open sourcing means, how .NET Core will support both Windows and Linux,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c4ea/35dc049e-6e41-4708-9f4f-42921297c4ea/NETCoreImmoLandwerthDavidKean_mid.mp4</video:content_loc>
+        <video:duration>2808</video:duration>
+        <video:publication_date>2014-12-05T16:08:16.4202741+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework/How-to-browse-the-NET-Reference-Source</loc>
+      <lastmod>2021-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c8f/8faf5ad6-3482-49a2-b6ee-6a61f0544c8f/HowToUseTheNetSourceBrowser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to browse the .NET Reference Source]]></video:title>
+        <video:description><![CDATA[In this short video, we&#39;ll show off the key features of the new browsing experience for the .NET Reference Source, which you can preview on http://referencesource-beta.microsoft.com: Go to definition&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/687a/58325d9f-0050-4313-966a-90b1526b687a/HowToUseTheNetSourceBrowser_mid.mp4</video:content_loc>
+        <video:duration>144</video:duration>
+        <video:publication_date>2014-02-24T15:52:28.2755131+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/NET-Framework/Introducing-ASP-NET-App-Suspend</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d9b/f1cdf8bd-a27e-4750-b798-36914e4f6d9b/ASPNetAppSuspend_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing ASP.NET App Suspend]]></video:title>
+        <video:description><![CDATA[ASP.NET App Suspend is a new feature in the .NET Framework 4.5.1 that makes ASP.NET sites much more responsive and enables you to host more sites on a single server. It is very well suited for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b56/291e4f32-f949-4772-906c-0ba96ed66b56/ASPNetAppSuspend_mid.mp4</video:content_loc>
+        <video:duration>139</video:duration>
+        <video:publication_date>2014-02-24T15:31:36.6471024+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

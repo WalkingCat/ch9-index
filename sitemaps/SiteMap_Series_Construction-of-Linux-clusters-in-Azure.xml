@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Construction-of-Linux-clusters-in-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Construction-of-Linux-clusters-in-Azure/04</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/24a7/568b1c3b-432c-4a5d-ba21-703ce4a824a7/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 |      ,  STONITH]]></video:title>
+        <video:description><![CDATA[В этой части подробно показано, как выполнить проверку работоспособности кластера в различных режи&amp;#1084;ах; настройку &amp;#1084;ножественного endpoint; настройку STONITH и проверку правильности его&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/24a7/568b1c3b-432c-4a5d-ba21-703ce4a824a7/04_mid.mp4</video:content_loc>
+        <video:duration>4319</video:duration>
+        <video:publication_date>2015-12-21T13:13:20.2818356+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Construction-of-Linux-clusters-in-Azure/03</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c280/b50cefce-234e-48fd-bccf-f66d7e53c280/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |     ]]></video:title>
+        <video:description><![CDATA[При&amp;#1084;ер создания кластера отказоустойчивости в IaaS-облаке Azure. Отказоустойчивое хранилище DRBD. Прикладное програ&amp;#1084;&amp;#1084;ное обеспечение: MySQL-сервер. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c280/b50cefce-234e-48fd-bccf-f66d7e53c280/03_mid.mp4</video:content_loc>
+        <video:duration>5023</video:duration>
+        <video:publication_date>2015-12-21T13:13:18.1853941+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Construction-of-Linux-clusters-in-Azure/02</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1039/7616df40-ac06-4d73-9bd3-1a8c022f1039/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |    ]]></video:title>
+        <video:description><![CDATA[Теория, вторая часть: отказоустойчивый и вычислительный кластеры. Подробнее об устройстве кластера отказоустойчивости и вычислительного кластера.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1039/7616df40-ac06-4d73-9bd3-1a8c022f1039/02_mid.mp4</video:content_loc>
+        <video:duration>1684</video:duration>
+        <video:publication_date>2015-12-21T13:13:16.8669082+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Construction-of-Linux-clusters-in-Azure/01</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e90/8cc4db6c-5a01-4cef-b3b2-b0ba0b499e90/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 |  ,   ]]></video:title>
+        <video:description><![CDATA[В начале расс&amp;#1084;атриваются различные типы Linux-кластеров, подходы к их построению и задачи, которые они решают. Обзорно расс&amp;#1084;атривается архитектура Linux-кластера балансировки нагрузки. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e90/8cc4db6c-5a01-4cef-b3b2-b0ba0b499e90/01_mid.mp4</video:content_loc>
+        <video:duration>1840</video:duration>
+        <video:publication_date>2015-12-21T13:13:14.9553372+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

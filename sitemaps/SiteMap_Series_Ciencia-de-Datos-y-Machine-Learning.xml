@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ciencia-de-Datos-y-Machine-Learning</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ciencia-de-Datos-y-Machine-Learning/Fundamentos-de-Machine-Learning</loc>
+      <lastmod>2020-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c66/33d9979c-bfee-4285-b9c7-39563b031c66/MachineLearningMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fundamentos de Machine Learning]]></video:title>
+        <video:description><![CDATA[Trataremos los conceptos de Machine Learning, los conceptos, tipos de algoritmos y las principales preguntas que se hace un cient&#237;fico de datos para crear un modelo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c66/33d9979c-bfee-4285-b9c7-39563b031c66/MachineLearningMod3_mid.mp4</video:content_loc>
+        <video:duration>1244</video:duration>
+        <video:publication_date>2016-11-03T19:19:27.0798818+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ciencia-de-Datos-y-Machine-Learning/Publicar-Servicio-del-experimento-ML</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a319/56480604-7c2f-417e-8590-197cc877a319/MAchineLearningMod5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publicar Servicio del experimento ML]]></video:title>
+        <video:description><![CDATA[Una vez creado nuestro primer experimento lo publicaremos por un servicio web para que sea consumido y utilizado por cualquier aplicaci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a319/56480604-7c2f-417e-8590-197cc877a319/MAchineLearningMod5_mid.mp4</video:content_loc>
+        <video:duration>750</video:duration>
+        <video:publication_date>2016-11-03T16:44:30.9357491+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ciencia-de-Datos-y-Machine-Learning/Experimento-en-Azure-Machine-Learning</loc>
+      <lastmod>2020-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/701c/368f6674-a34d-4f3e-884a-553383f8701c/MachineLearningMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Experimento en Azure Machine Learning]]></video:title>
+        <video:description><![CDATA[Crearemos nuestro primer experimento usando Azure Machine Learning, aprenderemos el uso de la herramienta y haremos nuestra primera predicci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/701c/368f6674-a34d-4f3e-884a-553383f8701c/MachineLearningMod4_mid.mp4</video:content_loc>
+        <video:duration>1414</video:duration>
+        <video:publication_date>2016-11-03T15:03:38.4379171+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ciencia-de-Datos-y-Machine-Learning/Explorando-los-Datos</loc>
+      <lastmod>2017-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a66/148083cd-878c-4720-a1ba-02ae8f872a66/MachineLearningMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Explorando los Datos]]></video:title>
+        <video:description><![CDATA[Usaremos Excel para manipular los datos, explorarlos y visualizarlos tal y como lo har&#237;a un cient&#237;fico de datos con sus t&#233;cnicas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a66/148083cd-878c-4720-a1ba-02ae8f872a66/MachineLearningMod2_mid.mp4</video:content_loc>
+        <video:duration>1541</video:duration>
+        <video:publication_date>2016-11-03T15:03:33.0128839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ciencia-de-Datos-y-Machine-Learning/Fundamentos-de-la-Ciencia-de-Datos</loc>
+      <lastmod>2019-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f44d/20ddad7f-f3e2-4eb4-b786-252d3dcbf44d/MAchineLearningMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fundamentos de la Ciencia de Datos]]></video:title>
+        <video:description><![CDATA[Exploraremos como los datos se han comportado en los &#250;ltimos a&#241;os, trataremos los conceptos de la Ciencia de Datos y lo que un cient&#237;fico de datos puede hacer. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f44d/20ddad7f-f3e2-4eb4-b786-252d3dcbf44d/MAchineLearningMod1_mid.mp4</video:content_loc>
+        <video:duration>807</video:duration>
+        <video:publication_date>2016-11-03T15:03:31.3851206+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/WebCamp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/WebCamp/WEBC4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c063/361ab67f-cf4c-41d6-a5bb-140845f6c063/WEBC4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Looks Over Logic: Turning Developers into Designers with CSS Frameworks and Compilers]]></video:title>
+        <video:description><![CDATA[Clients and end-users expect web apps to do two things: work well and look good. As developers, we know how to make great apps work, but making good looking apps is a whole different sport... or is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c063/361ab67f-cf4c-41d6-a5bb-140845f6c063/WEBC4_mid.mp4</video:content_loc>
+        <video:duration>3191</video:duration>
+        <video:publication_date>2013-03-11T21:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/WebCamp/WEBC3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a91e/8db0b9fc-a6e4-4268-8c0f-1ef6f4a7a91e/WEBC3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Websites in the Cloud]]></video:title>
+        <video:description><![CDATA[Windows Azure Web Sites is a simple, yet powerful platform for web applications in the cloud. In this session you will see how you can build and deploy everything from Wordpress blogs to high scale&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a91e/8db0b9fc-a6e4-4268-8c0f-1ef6f4a7a91e/WEBC3_mid.mp4</video:content_loc>
+        <video:duration>2562</video:duration>
+        <video:publication_date>2013-03-11T21:46:54.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/WebCamp/WEBC2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e962/ca48f939-c452-4f1f-923f-8a5b3d77e962/WEBC1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Lap Around Windows 8 Development for HTML developers]]></video:title>
+        <video:description><![CDATA[In this talk we&#39;ll cover the basics of creating a Windows Store app experience using HTML and JavaScript, including the Windows Library for JavaScript (WinJS). Topics will include how to leverage your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e962/ca48f939-c452-4f1f-923f-8a5b3d77e962/WEBC1_mid.mp4</video:content_loc>
+        <video:duration>4055</video:duration>
+        <video:publication_date>2013-03-11T21:46:17.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/WebCamp/WEBC1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2cbd/396eb458-8cbc-47be-8b91-512eeb042cbd/WEBC1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Windows 8 Apps with HTML &amp; JavaScript]]></video:title>
+        <video:description><![CDATA[What would you say if I told you that you can use your actual HTML, CSS, and JavaScript skills to create an amazing Windows 8 application? That all the lovely features that you like so much about&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2cbd/396eb458-8cbc-47be-8b91-512eeb042cbd/WEBC1_mid.mp4</video:content_loc>
+        <video:duration>3131</video:duration>
+        <video:publication_date>2013-03-11T21:45:36.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/WebCamp/WEBC0</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ab5/fd6d549e-050e-4339-8f54-b4acd0282ab5/WEBC0_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction]]></video:title>
+        <video:description><![CDATA[Learn a bit about the Developer Movement and about the content of the WebCamp. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ab5/fd6d549e-050e-4339-8f54-b4acd0282ab5/WEBC0_mid.mp4</video:content_loc>
+        <video:duration>400</video:duration>
+        <video:publication_date>2013-03-11T21:45:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

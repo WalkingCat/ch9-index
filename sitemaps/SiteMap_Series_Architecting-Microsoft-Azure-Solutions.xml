@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions/06</loc>
+      <lastmod>2017-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/84bc/0c610565-aa13-4140-9804-015ed73784bc/460ArchitectMSAzureSolutionsM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Microsoft Azure Solutions: (06) Design a Management, Monitoring, and Business&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Look at key elements in Azure resource management when using System Center suite, including SCOM and SCCM. Plus, get details on Hyper-V Recovery Manager for disaster recovery and using PowerShell for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/84bc/0c610565-aa13-4140-9804-015ed73784bc/460ArchitectMSAzureSolutionsM06_mid.mp4</video:content_loc>
+        <video:duration>2992</video:duration>
+        <video:publication_date>2015-01-07T17:00:19.9596823+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions/05</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92d6/b2dd4542-85ed-40a7-be36-bc5c3edc92d6/460ArchitectMSAzureSolutionsM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Microsoft Azure Solutions: (05) Designing Websites in Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Review and see a demo of key features in Azure Websites, including DR options, debugging and troubleshooting, and architectural best practices.​ [00:36] - Design Websites for Scalability[18:45] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92d6/b2dd4542-85ed-40a7-be36-bc5c3edc92d6/460ArchitectMSAzureSolutionsM05_mid.mp4</video:content_loc>
+        <video:duration>2074</video:duration>
+        <video:publication_date>2015-01-07T17:00:01.3145437+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions/04</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e00/217e2d75-2fe0-4490-a4b7-62d1180d7e00/460ArchitectMSAzureSolutionsM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Microsoft Azure Solutions: (04) Designing an Advanced Application]]></video:title>
+        <video:description><![CDATA[Get an overview of key areas to understand when designing and architecting Azure applications. Explore various environments, storage options, and services that can be leveraged in Azure to build&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e00/217e2d75-2fe0-4490-a4b7-62d1180d7e00/460ArchitectMSAzureSolutionsM04_mid.mp4</video:content_loc>
+        <video:duration>2894</video:duration>
+        <video:publication_date>2015-01-07T16:59:08.9749048+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions/03</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac6d/d1c9415b-25b8-4ee0-bef7-c26a8824ac6d/460ArchitectMSAzureSolutionsM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Microsoft Azure Solutions: (03) Design Application Storage &amp; Data Access Strategy]]></video:title>
+        <video:description><![CDATA[Learn how to design data storage and applications that use Mobile Services, notifications, or a web API. And find out how to design a data access strategy for hybrid applications and a media solution.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac6d/d1c9415b-25b8-4ee0-bef7-c26a8824ac6d/460ArchitectMSAzureSolutionsM03_mid.mp4</video:content_loc>
+        <video:duration>2301</video:duration>
+        <video:publication_date>2015-01-07T16:58:50.7789972+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions/02</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/902e/5ccfcdbf-d41e-4072-a89b-ab5c5e36902e/460ArchitectMSAzureSolutionsM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Microsoft Azure Solutions: (02) Securing Resources]]></video:title>
+        <video:description><![CDATA[Review the key areas of focus for the exam on identities, synchronization, federation, OAuth2, SAML, and ACS. Plus, take a look at security model design and RBAC.​ [02:56] - Managed Identities[29:20]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/902e/5ccfcdbf-d41e-4072-a89b-ab5c5e36902e/460ArchitectMSAzureSolutionsM02_mid.mp4</video:content_loc>
+        <video:duration>3058</video:duration>
+        <video:publication_date>2015-01-07T16:58:24.2703034+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Architecting-Microsoft-Azure-Solutions/01</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8673/17679632-35f1-4a94-bb80-460d2d528673/460ArchitectMSAzureSolutionsM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Microsoft Azure Solutions: (01) Design Microsoft Azure Infrastructure and Networking]]></video:title>
+        <video:description><![CDATA[Get an overview of the critical points to study on the underlying Azure architecture, along with the networking and the compute layers. Look at additional high-level data points on Azure services.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8673/17679632-35f1-4a94-bb80-460d2d528673/460ArchitectMSAzureSolutionsM01_mid.mp4</video:content_loc>
+        <video:duration>2701</video:duration>
+        <video:publication_date>2015-01-07T16:56:41.9504549+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

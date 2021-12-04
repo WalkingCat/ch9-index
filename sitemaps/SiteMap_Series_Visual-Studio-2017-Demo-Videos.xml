@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Desktop-Development</loc>
+      <lastmod>2018-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e0fb/339e2def-a752-46c2-b5e3-3945b253e0fb/VS2017DestkopDevDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: .NET Desktop Development]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: .NET Desktop Development - demo video ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e0fb/339e2def-a752-46c2-b5e3-3945b253e0fb/VS2017DestkopDevDemo_mid.mp4</video:content_loc>
+        <video:duration>333</video:duration>
+        <video:publication_date>2016-11-16T17:02:31.6707800+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-Universal-Windows-Platform-Development</loc>
+      <lastmod>2017-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d7b9/440f25bb-8344-49e4-b5b4-7a0f0e41d7b9/VS2017UWPDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: Universal Windows Platform Development]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: Universal Windows Platform Development - demo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d7b9/440f25bb-8344-49e4-b5b4-7a0f0e41d7b9/VS2017UWPDemo_mid.mp4</video:content_loc>
+        <video:duration>373</video:duration>
+        <video:publication_date>2016-11-16T17:02:26.8950450+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-Linux-Development-with-C</loc>
+      <lastmod>2016-12-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea02/9d8712fb-b335-4eae-a8dc-b51ade09ea02/VS2017LinuxCDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: Linux Development with C++]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: Linux Development with C&amp;#43;&amp;#43; demo video ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea02/9d8712fb-b335-4eae-a8dc-b51ade09ea02/VS2017LinuxCDemo_mid.mp4</video:content_loc>
+        <video:duration>103</video:duration>
+        <video:publication_date>2016-11-16T17:02:07.4820199+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-Unity-Development</loc>
+      <lastmod>2016-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4447/fd2f6023-7f44-408d-8191-7d90c4a14447/VS2017UnityDevelopment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: Unity Development]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: Unity Development - demo video ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4447/fd2f6023-7f44-408d-8191-7d90c4a14447/VS2017UnityDevelopment_mid.mp4</video:content_loc>
+        <video:duration>102</video:duration>
+        <video:publication_date>2016-11-16T16:49:31.8760737+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Code-Navigation-Improvement</loc>
+      <lastmod>2018-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/904d/a1feb1d8-ce8c-41be-9ec6-29aa2e0e904d/VS2016CodeNavigationImprovements_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: .NET Code Navigation Improvement]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: .NET Code Navigation Improvement - demo video ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/904d/a1feb1d8-ce8c-41be-9ec6-29aa2e0e904d/VS2016CodeNavigationImprovements_mid.mp4</video:content_loc>
+        <video:duration>335</video:duration>
+        <video:publication_date>2016-11-16T16:49:23.5782757+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Code-Analysis-Improvement</loc>
+      <lastmod>2018-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d77d/744c7eed-d285-4195-9e59-3466b0a3d77d/DotNetCodeAnalysisImprovements_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: .NET Code Analysis Improvement]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: .NET Code Analysis Improvement - demo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d77d/744c7eed-d285-4195-9e59-3466b0a3d77d/DotNetCodeAnalysisImprovements_mid.mp4</video:content_loc>
+        <video:duration>598</video:duration>
+        <video:publication_date>2016-11-16T16:49:16.6401060+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Productivity-Overview</loc>
+      <lastmod>2018-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0b7b/5b295a1c-bdea-4aac-a261-744671b70b7b/DotNetToolinginVS2017ProductivityOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio 2017: .NET Productivity Overview]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017: .NET Productivity Overview - demo video ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b7b/5b295a1c-bdea-4aac-a261-744671b70b7b/DotNetToolinginVS2017ProductivityOverview_mid.mp4</video:content_loc>
+        <video:duration>689</video:duration>
+        <video:publication_date>2016-11-16T16:46:59.4522692+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

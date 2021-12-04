@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Microsoft-Azure-OpenDev-June-2017</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36ad/e6d28e73-6a6b-4a8c-b84e-afbc541536ad/MicrosoftAzureOpenDevJune2017_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure OpenDev--June 2017]]></video:title>
+        <video:description><![CDATA[This first-ever virtual event from Microsoft showcasing open source technologies in the cloud is hosted by John Gossman, Lead Architect of Microsoft Azure, and features industry thought leaders&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36ad/e6d28e73-6a6b-4a8c-b84e-afbc541536ad/MicrosoftAzureOpenDevJune2017.mp4</video:content_loc>
+        <video:duration>12484</video:duration>
+        <video:publication_date>2017-06-22T21:58:46.4856908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Lessons-from-Skype-in-Migrating-and-Managing-Large-Scale-Linux-Infrastructure-on-Azure-IaaS</loc>
+      <lastmod>2017-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1624/5979392b-5b7a-4a24-b9d6-ccee10de1624/LessonsfromSkypeinmigratingandmanaginglargescaleL_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lessons from Skype in Migrating and Managing Large-Scale Linux Infrastructure on Azure IaaS]]></video:title>
+        <video:description><![CDATA[During the very first Microsoft Azure OpenDev event, Kaspars Mickevics, Senior Engineering Manager at Skype focuses on migrating the large-scale Linux workloads of Skype to Azure IaaS. From deployment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1624/5979392b-5b7a-4a24-b9d6-ccee10de1624/LessonsfromSkypeinmigratingandmanaginglargescaleL_mid.mp4</video:content_loc>
+        <video:duration>1769</video:duration>
+        <video:publication_date>2017-06-22T16:12:25.1380589+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/All-Tomorrows-Parties-Modern-Enterprise-Java-with-Microsoft-Azure-and-Pivotal-Cloud-Foundry</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8c82/6febe213-f548-4ffa-9a56-24c88b688c82/AlltomorrowspartiesModernenterpriseJavawithMicros_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[All Tomorrows Parties: Modern Enterprise Java with Microsoft Azure and Pivotal Cloud Foundry]]></video:title>
+        <video:description><![CDATA[With customers including Ford, GE, Allstate, and Comcast, Pivotal&#39;s reputation as the fastest-growing company in the history of open source software is well-deserved. The Java Spring framework; Spring&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c82/6febe213-f548-4ffa-9a56-24c88b688c82/AlltomorrowspartiesModernenterpriseJavawithMicros_mid.mp4</video:content_loc>
+        <video:duration>2067</video:duration>
+        <video:publication_date>2017-06-22T16:08:11.4824868+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Tools-for-Developing-and-Deploying-Applications-on-Kubernetes</loc>
+      <lastmod>2018-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4bf0/e53b161c-4f55-401f-aaf2-203b83ac4bf0/ToolsfordevelopinganddeployingapplicationsonKuber_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tools for Developing and Deploying Applications on Kubernetes]]></video:title>
+        <video:description><![CDATA[The open source Kubernetes project has gained a lot of traction in the last few years and has improved the operator experience. However, it can be unclear sometimes where and how to onboard developers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4bf0/e53b161c-4f55-401f-aaf2-203b83ac4bf0/ToolsfordevelopinganddeployingapplicationsonKuber_mid.mp4</video:content_loc>
+        <video:duration>1293</video:duration>
+        <video:publication_date>2017-06-22T16:05:01.5019839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Creating-Platform-Agnostic-Application-Packages-with-Habitat</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4880/27a1d2b8-0cbf-4ac0-b5f8-6d7c15eb4880/CreatingplatformagnosticapplicationpackageswithHa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Platform-Agnostic Application Packages with Habitat]]></video:title>
+        <video:description><![CDATA[One of the dreams of development is to build a software package once - and deploy it anywhere. With current open source projects, this dream is closer than ever. Join Nell Shamrell-Harrington, Senior&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4880/27a1d2b8-0cbf-4ac0-b5f8-6d7c15eb4880/CreatingplatformagnosticapplicationpackageswithHa_mid.mp4</video:content_loc>
+        <video:duration>1729</video:duration>
+        <video:publication_date>2017-06-22T16:04:35.1535716+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Red-Hat-and-Microsoft-Your-Technology-Your-Platform-Your-Way</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0e56/a09be120-b679-4a12-95c5-2640bb160e56/RedHatandMicrosoftYourtechnologyyourplatformyourw_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Red Hat and Microsoft: Your Technology, Your Platform, Your Way]]></video:title>
+        <video:description><![CDATA[Since the historic announcement in 2015, Red Hat and Microsoft have worked together to enable customers freedom and flexibility in choosing technology solutions. One of the key areas of collaboration&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e56/a09be120-b679-4a12-95c5-2640bb160e56/RedHatandMicrosoftYourtechnologyyourplatformyourw_mid.mp4</video:content_loc>
+        <video:duration>1817</video:duration>
+        <video:publication_date>2017-06-22T15:58:44.8424082+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Fireside-Chat-with-Cloud-Foundry-Foundations-Abby-Kearns</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Docker-and-Azure-for-Developing-Hybrid-Applications</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d01b/2a7d9d58-49dd-48b5-ab60-154d0258d01b/DockerandAzurefordevelopinghybridapplications_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Docker and Azure for Developing Hybrid Applications]]></video:title>
+        <video:description><![CDATA[Your organization is asking you to deliver an app that depends on existing code and data yet quickly scales up or down based on customer demand. What to do? During the very first Microsoft Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d01b/2a7d9d58-49dd-48b5-ab60-154d0258d01b/DockerandAzurefordevelopinghybridapplications_mid.mp4</video:content_loc>
+        <video:duration>1530</video:duration>
+        <video:publication_date>2017-06-22T15:43:19.7321922+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Large-Scale-Container-Orchestration-with-Kubernetes-on-Azure</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7e53/c0bd33d1-56af-4acb-a8ae-6ca3f9677e53/LargescalecontainerorchestrationwithKubernetesonA_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Large-Scale Container Orchestration with Kubernetes on Azure]]></video:title>
+        <video:description><![CDATA[Azure provides access to almost infinite capacity, and the challenge is to harness that capacity effectively. During the very first Microsoft Azure OpenDev event, Mark Shuttleworth, founder of Ubuntu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e53/c0bd33d1-56af-4acb-a8ae-6ca3f9677e53/LargescalecontainerorchestrationwithKubernetesonA_mid.mp4</video:content_loc>
+        <video:duration>1194</video:duration>
+        <video:publication_date>2017-06-22T15:42:15.1915974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/Microsoft-Azure-Open-Source-Strategy-and-Partnerships</loc>
+      <lastmod>2017-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4f06/9f500724-5f29-45da-8395-92a2baba4f06/MicrosoftAzureopensourcestrategyandpartnerships_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Open Source Strategy and Partnerships]]></video:title>
+        <video:description><![CDATA[There&#39;s never been a been a better time for open source software and communities! Microsoft is committed to open source technologies, and John Gossman, Lead Architect, Microsoft Azure, will kick off&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f06/9f500724-5f29-45da-8395-92a2baba4f06/MicrosoftAzureopensourcestrategyandpartnerships_mid.mp4</video:content_loc>
+        <video:duration>738</video:duration>
+        <video:publication_date>2017-06-22T15:36:21.3011066+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/How-to-Session-Deploying-a-MEAN-App-to-Azure</loc>
+      <lastmod>2017-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/631e/f42fd3c9-26f8-49e8-badf-f48cfa9f631e/DeployingaMEANApptoAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How-to Session: Deploying a MEAN App to Azure]]></video:title>
+        <video:description><![CDATA[Matt Hernandez, Senior Program Manager for Microsoft Azure, deploys a sample MEAN application to Azure Web Apps on Linux, presenting the full developer experience with Visual Studio Code and the Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/631e/f42fd3c9-26f8-49e8-badf-f48cfa9f631e/DeployingaMEANApptoAzure_mid.mp4</video:content_loc>
+        <video:duration>527</video:duration>
+        <video:publication_date>2017-06-06T04:14:18.4063634+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/AzureOpenDev/June2017/How-to-Session-Deploying-a-Spring-Boot-app-to-Azure</loc>
+      <lastmod>2017-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/9c931086-3f05-4ae8-bb99-e790e9aa22e5.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How-to Session: Deploying a Spring Boot app to Azure]]></video:title>
+        <video:description><![CDATA[Joe Binder, Principal Product Manager for Microsoft Azure, shows how easy it is to deploy a Java Spring Boot app to Azure. Using IntelliJ and the Azure CLI 2.0, we take an existing Spring Boot app,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af01/20560ebc-67e5-4ef1-be72-6e7214cdaf01/DeployingSpringBootApptoAzure_mid.mp4</video:content_loc>
+        <video:duration>700</video:duration>
+        <video:publication_date>2017-06-06T04:13:52.3205551+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

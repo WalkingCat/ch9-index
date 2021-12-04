@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Applicazioni-aziendali-dove-vuoi-e-quando-vuoi-con-Microsoft-RemoteApp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Applicazioni-aziendali-dove-vuoi-e-quando-vuoi-con-Microsoft-RemoteApp/Demo</loc>
+      <lastmod>2015-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5368/31620daa-4f1f-4a64-a0de-88c1dd175368/demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5368/31620daa-4f1f-4a64-a0de-88c1dd175368/demo_mid.mp4</video:content_loc>
+        <video:duration>968</video:duration>
+        <video:publication_date>2015-03-04T07:26:11.3642410+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Applicazioni-aziendali-dove-vuoi-e-quando-vuoi-con-Microsoft-RemoteApp/3-Distribuzione-di-tipo-Ibrida</loc>
+      <lastmod>2015-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/19c3/96dcf6e3-93ec-4d2a-819c-90d2af3d19c3/ibrido_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 - Distribuzione di tipo Ibrida]]></video:title>
+        <video:description><![CDATA[Materiale Corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19c3/96dcf6e3-93ec-4d2a-819c-90d2af3d19c3/ibrido_mid.mp4</video:content_loc>
+        <video:duration>781</video:duration>
+        <video:publication_date>2015-03-04T07:26:00.5236250+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Applicazioni-aziendali-dove-vuoi-e-quando-vuoi-con-Microsoft-RemoteApp/2-Distribuzione-di-tipo-Cloud</loc>
+      <lastmod>2015-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cbe1/63392b62-08ec-4c59-90cc-b74069e4cbe1/2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 - Distribuzione di tipo Cloud]]></video:title>
+        <video:description><![CDATA[Materiale Corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cbe1/63392b62-08ec-4c59-90cc-b74069e4cbe1/2_mid.mp4</video:content_loc>
+        <video:duration>330</video:duration>
+        <video:publication_date>2015-03-04T07:25:47.9874284+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Applicazioni-aziendali-dove-vuoi-e-quando-vuoi-con-Microsoft-RemoteApp/1-Introduzione</loc>
+      <lastmod>2015-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/65fe/eccb3dd0-f7c5-40a5-a69e-230e77d265fe/intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 - Introduzione]]></video:title>
+        <video:description><![CDATA[Materiale coso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/65fe/eccb3dd0-f7c5-40a5-a69e-230e77d265fe/intro_mid.mp4</video:content_loc>
+        <video:duration>675</video:duration>
+        <video:publication_date>2015-03-04T07:22:18.8541409+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

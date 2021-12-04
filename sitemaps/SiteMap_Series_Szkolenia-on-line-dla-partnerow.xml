@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Szkolenia-on-line-dla-partnerow</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Szkolenia-on-line-dla-partnerow/Webinar-Windows-Server-2016-nowoci-i-licencjonowanie-w-praktyce-dla-dostawcw-usug</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2bde/0c7ae52f-4540-4e51-9abe-0b0c39702bde/windows_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Webinar: Windows Server 2016: nowoci i licencjonowanie w praktyce dla dostawc&#243;w usug]]></video:title>
+        <video:description><![CDATA[Z tego szkolenia dowiesz się: Jak licencjonować Windows Server w praktyceJak przygotować się na Windows Server 2016Jak zapewnić legalność licencyjne świadczonych usługAgenda: Licencjonowanie dla&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2bde/0c7ae52f-4540-4e51-9abe-0b0c39702bde/windows_mid.mp4</video:content_loc>
+        <video:duration>3713</video:duration>
+        <video:publication_date>2016-05-13T09:52:40.1841170+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Szkolenia-on-line-dla-partnerow/Webinar-Licencjonowanie-SQL-Server-w-praktyce</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/362c/388ddaf9-c72c-42c5-8d1f-b2768f96362c/licencjonowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Webinar: Licencjonowanie SQL Server w praktyce]]></video:title>
+        <video:description><![CDATA[Z tego szkolenia dowiesz się: • Jak Licencjonować SQL Server w praktyce – jak uniknąć typowych błęd&#243;w w licencjonowaniu usług • Jak przygotować się na SQL Server 2016 • Jak zapewnić legalność&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/362c/388ddaf9-c72c-42c5-8d1f-b2768f96362c/licencjonowanie_mid.mp4</video:content_loc>
+        <video:duration>3597</video:duration>
+        <video:publication_date>2016-05-13T09:30:02.4835292+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

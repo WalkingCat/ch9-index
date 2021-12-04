@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tech-Crumbs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tech-Crumbs/Starting-with-CosmosDB</loc>
+      <lastmod>2018-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/1f0fdcee-76bd-4aea-a53a-ba19dc1f532a.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with CosmosDB]]></video:title>
+        <video:description><![CDATA[In this screen cast, we will create a Database in CosmosDB. Will write a program in C# to upload the data from SQL server and then write a web service in Node, TypeScript to access the document. Get&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b28/b600f3fe-a023-4501-aeb0-0a5811e40b28/gettingstartedcosmosDB_mid.mp4</video:content_loc>
+        <video:duration>1489</video:duration>
+        <video:publication_date>2017-06-12T23:21:00.7833066+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tech-Crumbs/Webpack-tutorial-for-beginners</loc>
+      <lastmod>2018-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9487/87e1cfd6-442e-4a17-a6bc-cb1cc4379487/webpack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Webpack tutorial for beginners ]]></video:title>
+        <video:description><![CDATA[Learn Webpack basics. In this screen cast I start with plain vanilla JavaScript, and then convert the code to different modules AMD and then ES6 module. And on every step of the way we will see how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9487/87e1cfd6-442e-4a17-a6bc-cb1cc4379487/webpack_high.mp4</video:content_loc>
+        <video:duration>2271</video:duration>
+        <video:publication_date>2017-05-18T22:52:44.8330629+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

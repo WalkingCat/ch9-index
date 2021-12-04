@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online/VirtITCamp-2013-06</loc>
+      <lastmod>2017-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6cbb/0b5d81df-fcfb-4c81-bace-d410de716cbb/VirtITCampMod6_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup and Replication with Hyper-V &amp; Managing Hyper-V with System Center 2012 Virtual Machine&amp;#8230;]]></video:title>
+        <video:description><![CDATA[In this session will take a look at how we protect our VM&#39;s and make sure they are resilient.  We will take a look at local backup, Windows Azure backup and Hyper-V replication. We will also take a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cbb/0b5d81df-fcfb-4c81-bace-d410de716cbb/VirtITCampMod6_mid.mp4</video:content_loc>
+        <video:duration>2747</video:duration>
+        <video:publication_date>2013-12-14T15:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online/VirtITCamp-2013-05</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfc8/f6224658-a7a2-4ded-84db-77e49724cfc8/VirtITCampMod5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Virtual Machine Mobility with Hyper-V]]></video:title>
+        <video:description><![CDATA[In this session we will take a look at Live Migration.  Hyper-v&#39;s built-in capability to move running virtual machines from one host to another.  In preparation for the event, we recommend that you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfc8/f6224658-a7a2-4ded-84db-77e49724cfc8/VirtITCampMod5_mid.mp4</video:content_loc>
+        <video:duration>1410</video:duration>
+        <video:publication_date>2013-12-14T15:25:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online/VirtITCamp-2013-04</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/484f/be0e952e-071e-4756-a9c9-d9d17dd6484f/VirtITCampMod4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Clustering &amp; Resiliency with Hyper-V]]></video:title>
+        <video:description><![CDATA[In this session we will take a look how the Hyper-V platform provides a high level of resiliency for the virtualized workloads.  We will take a look at clustering technologies and shared VHDX&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/484f/be0e952e-071e-4756-a9c9-d9d17dd6484f/VirtITCampMod4_mid.mp4</video:content_loc>
+        <video:duration>1513</video:duration>
+        <video:publication_date>2013-12-14T15:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online/VirtITCamp-2013-03</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e40e/d2883ad7-6f19-4de7-8085-a979a56ee40e/VirtITCampMod3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Virtual Machine Configuration with Hyper-V]]></video:title>
+        <video:description><![CDATA[In this session we will take a look at some of the key considerations when we think about configuring the Hyper-V guests.  We&#39;ll take a look at aspects such as memory configuration, virtual hard&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e40e/d2883ad7-6f19-4de7-8085-a979a56ee40e/VirtITCampMod3_mid.mp4</video:content_loc>
+        <video:duration>1361</video:duration>
+        <video:publication_date>2013-12-14T15:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online/VirtITCamp-2013-02</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2bb/505cfe9f-2503-4ba2-afe8-50021081e2bb/VirtITCampMod2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Host Configuration with Hyper-V]]></video:title>
+        <video:description><![CDATA[We will also take a look at some of the key considerations when we think about configuring our Hyper-V hosts themselves.  We&#39;ll take a look at aspects such as networking, storage and more. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2bb/505cfe9f-2503-4ba2-afe8-50021081e2bb/VirtITCampMod2_mid.mp4</video:content_loc>
+        <video:duration>1803</video:duration>
+        <video:publication_date>2013-12-14T15:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Camps/Virtualization-IT-Camp-Online/VirtITCamp-2013-01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45d6/b8b56a69-355f-4ff2-a061-1911344045d6/VirtITCampMod1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Hyper-V]]></video:title>
+        <video:description><![CDATA[In this session we will take a quick look at Hyper-V, so everyone understands where it&#39;s come from, and a couple of the key considerations around deployment. In preparation for the event, we recommend&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45d6/b8b56a69-355f-4ff2-a061-1911344045d6/VirtITCampMod1_mid.mp4</video:content_loc>
+        <video:duration>1619</video:duration>
+        <video:publication_date>2013-12-14T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

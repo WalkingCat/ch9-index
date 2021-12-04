@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/IT-Pro-Community</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IT-Pro-Community/Exchange-2013-Datenbank-Desaster-Recovery</loc>
+      <lastmod>2017-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c42/882b2ed4-b162-4d28-a746-630826230c42/Exchange2013DDR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exchange 2013 - Datenbank Desaster Recovery]]></video:title>
+        <video:description><![CDATA[In diesem Channel 9 Video wird ein kurzer &#220;berblick &#252;ber die verschiedenen M&#246;glichkeiten zum Database Desaster Recovery eines Exchange Servers 2013 gegeben. Es werden Single-Server-Umgebungen und&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c42/882b2ed4-b162-4d28-a746-630826230c42/Exchange2013DDR_mid.mp4</video:content_loc>
+        <video:duration>1058</video:duration>
+        <video:publication_date>2015-10-05T12:16:09.1099151+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/IT-Pro-Community/VNet-to-VNet-Mutli-Site-VPN-Howto</loc>
+      <lastmod>2015-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d002/3a2ced39-1702-4cd1-92ab-25a7300dd002/VNettoVNetMutliSiteVPNHowto_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VNet to VNet - Mutli Site VPN Howto]]></video:title>
+        <video:description><![CDATA[Wissen Sie wie man eine VPN Verbindung zu Microsoft Azure einrichtet? Christian Forjahn demonstriert Ihnen in diesem Howto, wie man eine VPN Verbindung zwischen mehreren Standorten in Azure, bzw.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d002/3a2ced39-1702-4cd1-92ab-25a7300dd002/VNettoVNetMutliSiteVPNHowto_mid.mp4</video:content_loc>
+        <video:duration>606</video:duration>
+        <video:publication_date>2015-09-28T08:24:49.9535872+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

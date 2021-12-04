@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Office365Administracion</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Office365Administracion/Grupos-de-Office-365</loc>
+      <lastmod>2015-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d578/e82b92c6-b6c5-495c-af2a-dbd4b755d578/GruposDeOffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Grupos de Office 365]]></video:title>
+        <video:description><![CDATA[En este video podemos ver la nueva funcionalidad sobre grupos de Office 365 para crear herramientas de colaboraci&#243;n entre equipos de trabajo dentro de una subscripci&#243;n de Office 365. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d578/e82b92c6-b6c5-495c-af2a-dbd4b755d578/GruposDeOffice365_mid.mp4</video:content_loc>
+        <video:duration>411</video:duration>
+        <video:publication_date>2015-09-20T05:10:55.2678332+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Office365Administracion/Apps-de-terceros-en-Office-365-con-Azure-Active-Directory</loc>
+      <lastmod>2015-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05b7/c76f3d77-57ab-4076-b956-af7279ca05b7/AppsDeTercerosEnOffice365ConAzureActiveDirectory_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Apps de terceros en Office 365 con Azure Active Directory]]></video:title>
+        <video:description><![CDATA[En este video podemos ver el proceso de configuraci&#243;n de una app de terceros de Azure Active Directory integrada en Office 365. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05b7/c76f3d77-57ab-4076-b956-af7279ca05b7/AppsDeTercerosEnOffice365ConAzureActiveDirectory_mid.mp4</video:content_loc>
+        <video:duration>423</video:duration>
+        <video:publication_date>2015-09-20T04:50:23.8840973+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Office365Administracion/Habilitando-Autenticacion-Multifactor-MFA-en-Office-365</loc>
+      <lastmod>2015-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3567/d4890757-bae6-4d10-809b-0d2ff3313567/HabilitandoAutenticacionMultifactorMFAenOffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Habilitando Autenticaci&#243;n Multifactor (MFA) en Office 365]]></video:title>
+        <video:description><![CDATA[En este video podemos ver el proceso para habilitar Autenticaci&#243;n Multifactor para usuarios de Office 365 por medio de Azure Active Directory. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3567/d4890757-bae6-4d10-809b-0d2ff3313567/HabilitandoAutenticacionMultifactorMFAenOffice365_mid.mp4</video:content_loc>
+        <video:duration>654</video:duration>
+        <video:publication_date>2015-09-20T04:17:24.5755573+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

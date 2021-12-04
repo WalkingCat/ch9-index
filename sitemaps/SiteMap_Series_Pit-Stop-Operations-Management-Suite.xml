@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Operations-Management-Suite</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Operations-Management-Suite/How-to-Log-Search</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a35d/f3bda4c7-b326-48d5-8fff-9bc24b7fa35d/OMShowtologsearch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to log search basic in OMS]]></video:title>
+        <video:description><![CDATA[At the core of Microsoft Azure Operational Insights is the log search feature which allows you to combine and correlate any machine data from multiple sources within your environment. Solutions are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a35d/f3bda4c7-b326-48d5-8fff-9bc24b7fa35d/OMShowtologsearch_mid.mp4</video:content_loc>
+        <video:duration>242</video:duration>
+        <video:publication_date>2016-01-26T21:51:34.1273478+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Operations-Management-Suite/How-to-gain-workload-intelligence-through-Solutions</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9550/6eaff8b6-09cb-4702-abf8-c06a7aac9550/OMShowtogainworkloadintelligence_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to gain workload intelligence through solutions]]></video:title>
+        <video:description><![CDATA[Learn to reflect a specific workload intelligence through adding &#39;Solutions&#39; in the Operations Management Suite. Next Steps Read: Hybrid IT Management Part I then take the trainingWatch: Azure videos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9550/6eaff8b6-09cb-4702-abf8-c06a7aac9550/OMShowtogainworkloadintelligence_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2016-01-26T21:49:37.0183919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Operations-Management-Suite/How-to-add-Logs-and-create-dashboard</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8fcc/b5246d3e-68c0-43e4-baa8-4d992cdb8fcc/OMShowtoaddlogscreatedashboard_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to add logs and create dashboards]]></video:title>
+        <video:description><![CDATA[Learn how you can and create custom dashboards and add logging with Operations Management Suite. Next Steps Read: Hybrid IT Management Part I then take the trainingWatch: Azure videos on Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8fcc/b5246d3e-68c0-43e4-baa8-4d992cdb8fcc/OMShowtoaddlogscreatedashboard_mid.mp4</video:content_loc>
+        <video:duration>105</video:duration>
+        <video:publication_date>2016-01-26T21:39:07.0450293+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Operations-Management-Suite/How-to-Onboard-Servers</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/33f7/d974a32c-9f8a-48dc-a8d9-529ccb3e33f7/OMShowtoonboardservers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to onboard servers]]></video:title>
+        <video:description><![CDATA[Learn how to use Microsoft Operations Management Suite to choose solutions and connect the servers that you want to manage. Next Steps Read: Hybrid IT Management Part I then take the trainingWatch:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/33f7/d974a32c-9f8a-48dc-a8d9-529ccb3e33f7/OMShowtoonboardservers_mid.mp4</video:content_loc>
+        <video:duration>162</video:duration>
+        <video:publication_date>2016-01-26T21:37:46.6670675+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Operations-Management-Suite/How-to-Register-for-OMS</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e62/421b1de1-02f4-460f-87aa-ecb219a08e62/OMShowtoregisterforOMS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to register for OMS]]></video:title>
+        <video:description><![CDATA[Learn how to register for Microsoft Operations Management Suite and add out-of-the-box solutions to simplify your IT Management. Next Steps Read: Hybrid IT Management Part I then take the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e62/421b1de1-02f4-460f-87aa-ecb219a08e62/OMShowtoregisterforOMS_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2016-01-26T18:59:25.3935806+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

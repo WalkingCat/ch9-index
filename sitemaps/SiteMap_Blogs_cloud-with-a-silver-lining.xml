@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/Loading-data-into-Azure-SQL-Datawarehouse-with-Redgate-Data-Platform-Studio</loc>
+      <lastmod>2017-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59dd/edf26791-506e-4406-b972-fe34730659dd/AzureSQLDWAndRedgateDPS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Loading data into Azure SQL Datawarehouse with Redgate Data Platform Studio]]></video:title>
+        <video:description><![CDATA[In this introduction, David Bick and Tom Hodgson from Redgate walk through Redgate Data Platform Studio and show how it can be used to load existing data into Azure SQL Data Warehouse.  For more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59dd/edf26791-506e-4406-b972-fe34730659dd/AzureSQLDWAndRedgateDPS_mid.mp4</video:content_loc>
+        <video:duration>767</video:duration>
+        <video:publication_date>2016-09-01T17:14:04.1224703+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/Fun-with-PowerShell-Tweaking-your-Profile</loc>
+      <lastmod>2018-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7263/2f3a46c8-11a9-47be-84d0-7e8280527263/StuartLeeks002withSeth_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fun with PowerShell - Tweaking your Profile]]></video:title>
+        <video:description><![CDATA[Continuing the fun with PowerShell, I chatted with Seth about how you can customise the loading of your PowerShell profile. More details can be found here: Showing loading progress:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7263/2f3a46c8-11a9-47be-84d0-7e8280527263/StuartLeeks002withSeth_mid.mp4</video:content_loc>
+        <video:duration>439</video:duration>
+        <video:publication_date>2016-05-24T20:54:06.5721932+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/Fun-with-PowerShell-Creating-posh-HumpCompletion</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be15/a07dc7ba-b0c0-4a88-bb7d-53da38abbe15/StuartLeeks001withSeth_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fun with PowerShell - Creating posh-HumpCompletion]]></video:title>
+        <video:description><![CDATA[I had fun recently creating a module for PowerShell to bring the hump completion behaviour from Visual Studio (e.g. using &#39;MSDC&#39; to navigate to &#39;MySuperDuperClass&#39;) into PowerShell. I blogged a while&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be15/a07dc7ba-b0c0-4a88-bb7d-53da38abbe15/StuartLeeks001withSeth_mid.mp4</video:content_loc>
+        <video:duration>766</video:duration>
+        <video:publication_date>2016-05-10T15:57:26.7475289+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/Visual-Studio-Code-Task-Runners</loc>
+      <lastmod>2015-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eedb/33402db2-d5a9-451f-87c8-31c6d2f8eedb/VisualStudioCode03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Code Task Runners]]></video:title>
+        <video:description><![CDATA[In this video we look at the customisable workflow in Visual Studio Code. We show how we can integrate with the task runners to invoke Pester for running the unit tests for a PowerShell project&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eedb/33402db2-d5a9-451f-87c8-31c6d2f8eedb/VisualStudioCode03_mid.mp4</video:content_loc>
+        <video:duration>471</video:duration>
+        <video:publication_date>2015-06-23T17:33:13.8796210+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/visual-studio-code-and-aspnet-5</loc>
+      <lastmod>2015-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e453/efc9baae-3b2e-4ac8-8cdc-9ccae59be453/VSCodeASPnet5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Code and ASP.NET 5]]></video:title>
+        <video:description><![CDATA[The previous video showed Visual Studio Code with a NodeJS project. In this video we take a look at working with an ASP.NET 5 project in Visual Studio Code.  [01:49] - Task runners (building ASP.NET 5&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e453/efc9baae-3b2e-4ac8-8cdc-9ccae59be453/VSCodeASPnet5_mid.mp4</video:content_loc>
+        <video:duration>486</video:duration>
+        <video:publication_date>2015-06-18T07:30:56.7582970+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/hello-visual-studio-code-nodejs</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fca8/903cb7e3-3a3b-486b-b37b-fcc356c8fca8/HelloVSCodewNodeJS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hello Visual Studio Code (with NodeJS)]]></video:title>
+        <video:description><![CDATA[In this video we take a first look at Visual Studio Code with NodeJS. We dig into IntelliSense for JavaScript using TypeScript definition files, configuring the launch settings and debugging the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fca8/903cb7e3-3a3b-486b-b37b-fcc356c8fca8/HelloVSCodewNodeJS_mid.mp4</video:content_loc>
+        <video:duration>579</video:duration>
+        <video:publication_date>2015-06-17T20:14:39.3663215+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Community-Poland/Data-Community-106</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Community-Poland/Data-Community-106/Always-Encrypted</loc>
+      <lastmod>2017-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c0f/b04ff9e3-2a76-4598-b928-0290e27a8c0f/datare_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Always Encrypted in SQL Server and Azure SQL Database]]></video:title>
+        <video:description><![CDATA[SESJA W JĘZYKU POLSKIM Join us for an overview of the built-in security features in SQL Server and Azure SQL Database and for a deep-dive presentation of Always Encrypted – an industry first&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c0f/b04ff9e3-2a76-4598-b928-0290e27a8c0f/datare_mid.mp4</video:content_loc>
+        <video:duration>5195</video:duration>
+        <video:publication_date>2017-05-31T15:50:12.0036338+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Community-Poland/Data-Community-106/Azure-Data-Catalog</loc>
+      <lastmod>2017-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/304d/c1463189-2b0e-4457-a31c-47ecd7d6304d/data_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Data Catalog. czyli gdzie s moje dane?]]></video:title>
+        <video:description><![CDATA[Wraz z nieustannym pojawianiem się nowych źr&#243;deł danych wewnątrz organizacji trudno jest utrzymać wszystkie potencjalnie zainteresowane osoby o ich istnieniu. I nawet jeśli projekty bazodanowe&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/304d/c1463189-2b0e-4457-a31c-47ecd7d6304d/data_mid.mp4</video:content_loc>
+        <video:duration>2600</video:duration>
+        <video:publication_date>2017-05-31T15:48:38.2553203+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

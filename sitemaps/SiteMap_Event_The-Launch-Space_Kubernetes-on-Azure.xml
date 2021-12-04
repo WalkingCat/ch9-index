@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure/AKS-on-Azure-Stack-HCI</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5e00/702aa374-49a3-4aef-af45-e56c38cc5e00/AzureStackHCI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AKS on Azure Stack HCI]]></video:title>
+        <video:description><![CDATA[Azure Kubernetes Service on Azure Stack HCI is an on-premises implementation of the popular Azure Kubernetes Service (AKS) orchestrator, which automates running containerized applications at scale.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5e00/702aa374-49a3-4aef-af45-e56c38cc5e00/AzureStackHCI_mid.mp4</video:content_loc>
+        <video:duration>1657</video:duration>
+        <video:publication_date>2020-12-18T15:49:54.6368081+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure/Identity-management-in-distributed-applications-using-Dapr</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4cff/52086d75-bcc5-4869-b676-301a4c954cff/TheLaunchSpaceDapr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identity management in distributed applications using Dapr]]></video:title>
+        <video:description><![CDATA[Dapr makes microservice development easier in any language. Using its consistent APIs and reusable building blocks, developers can quickly build distributed applications that are both dynamic and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4cff/52086d75-bcc5-4869-b676-301a4c954cff/TheLaunchSpaceDapr_mid.mp4</video:content_loc>
+        <video:duration>1978</video:duration>
+        <video:publication_date>2020-12-18T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure/First-Look-OSM-integration-with-AKS</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ab4c/6a60a0a8-a124-4f98-a059-ae5be177ab4c/KubernetesOnAzureFirstLookAKS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[First Look: OSM integration with AKS]]></video:title>
+        <video:description><![CDATA[Open Service Mesh is a lightweight and extensible cloud native service mesh that takes a simple approach for users to uniformly manage, secure, and get out-of-the box observability features for highly&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ab4c/6a60a0a8-a124-4f98-a059-ae5be177ab4c/KubernetesOnAzureFirstLookAKS_mid.mp4</video:content_loc>
+        <video:duration>1771</video:duration>
+        <video:publication_date>2020-12-18T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure/Azure-Arc-Recent-announcements-Arc-enabled-servers-and-Kubernetes-GitOps-with-Arc-and-AKS</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/96de/d1462328-e49d-408d-8ec7-d6558d6396de/KubernetesOnAzureAzureArc_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Azure Arc - Recent announcements, Arc enabled servers and Kubernetes, GitOps with Arc and AKS]]></video:title>
+        <video:description><![CDATA[Azure Arc enabled Kubernetes and Server continue to make updates. Learn about recent releases and upcoming preview features. We will als o dive deep into some new GitOps scenarios that include&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/96de/d1462328-e49d-408d-8ec7-d6558d6396de/KubernetesOnAzureAzureArc_mid.mp4</video:content_loc>
+        <video:duration>2147</video:duration>
+        <video:publication_date>2020-12-18T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure/AKS-Recent-Announcements-and-Roadmap</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/581f/6f978c02-2b03-4a97-8bc5-455beb51581f/KubernetesOnAzureAKSAnnouncements_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AKS - Recent Announcements and Roadmap]]></video:title>
+        <video:description><![CDATA[AKS continues to grow rapidly in usage and capabilities. This session was highlight some of the announcements across developer productivity, security, operational efficiency, and more and tee up some&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/581f/6f978c02-2b03-4a97-8bc5-455beb51581f/KubernetesOnAzureAKSAnnouncements_mid.mp4</video:content_loc>
+        <video:duration>1686</video:duration>
+        <video:publication_date>2020-12-18T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/The-Launch-Space/Kubernetes-on-Azure/Keynote-by-Brendan-Burns-CVP-Microsoft-and-co-creator-of-Kubernetes</loc>
+      <lastmod>2020-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/19db/15c13451-78a0-4b77-968a-17022fbf19db/KubernetesOnAzureKeynoteBrendanB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote by Brendan Burns, CVP, Microsoft, and co-creator of Kubernetes]]></video:title>
+        <video:description><![CDATA[The latest updates on how we are helping enterprise customers build reliable, scalable applications with open source and cloud native technologies. Links:Microsoft Learn - Intro to Kubernetes&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/19db/15c13451-78a0-4b77-968a-17022fbf19db/KubernetesOnAzureKeynoteBrendanB_mid.mp4</video:content_loc>
+        <video:duration>1752</video:duration>
+        <video:publication_date>2020-12-18T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anaisis-de-Datos-con-R</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anaisis-de-Datos-con-R/Ms-en-R</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bb3d/ba781072-c4f3-4b06-a828-efda8258bb3d/MasenR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#225;s en R]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo estudiaremos funciones avanzadas, as&#237; como comando en R que se utilizan en el an&#225;lisis de datos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb3d/ba781072-c4f3-4b06-a828-efda8258bb3d/MasenR_mid.mp4</video:content_loc>
+        <video:duration>961</video:duration>
+        <video:publication_date>2016-10-12T19:52:52.8847682+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anaisis-de-Datos-con-R/Datos-Externos-en-R</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1ff2/670485b6-4872-47fe-988a-6953607a1ff2/DatosExternosEnR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Datos Externos en R]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo estudiaremos c&#243;mo cargar los datos desde archivos de externos (data sets externos) y su an&#225;lisis b&#225;sico. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ff2/670485b6-4872-47fe-988a-6953607a1ff2/DatosExternosEnR_mid.mp4</video:content_loc>
+        <video:duration>1137</video:duration>
+        <video:publication_date>2016-10-12T19:52:48.1815272+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anaisis-de-Datos-con-R/Tipos-de-Variables-en-R</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e7a6/856651c4-2050-4bbb-a8fe-de036373e7a6/TiposdeVariables_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tipos de Variables en R]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo estudiaremos los aspectos de programaci&#243;n en R relacionados con el manejo de variables y sus tipos.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7a6/856651c4-2050-4bbb-a8fe-de036373e7a6/TiposdeVariables_mid.mp4</video:content_loc>
+        <video:duration>1796</video:duration>
+        <video:publication_date>2016-10-12T19:52:38.0751540+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Anaisis-de-Datos-con-R/Introduccin-a-R</loc>
+      <lastmod>2019-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd4e/77d15a0d-54ca-429e-805b-4781663cfd4e/IntroduccionaR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a R]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo estudiaremos las caracter&#237;sticas y la historia de R. C&#243;mo utilizar el ambiente de R y su operaci&#243;n b&#225;sica. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd4e/77d15a0d-54ca-429e-805b-4781663cfd4e/IntroduccionaR_mid.mp4</video:content_loc>
+        <video:duration>1612</video:duration>
+        <video:publication_date>2016-10-12T19:52:09.8401489+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

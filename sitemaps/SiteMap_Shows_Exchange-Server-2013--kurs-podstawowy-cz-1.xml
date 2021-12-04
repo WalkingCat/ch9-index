@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Exchange-Server-2013--kurs-podstawowy-cz-1</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Exchange-Server-2013--kurs-podstawowy-cz-1/Omwienie-poszczeglnych-rl-systemu-Exchange-Server-2013--Architektura-systemu</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d29/b9d2f11d-d902-4504-91ab-e96498c21d29/omowienie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Om&#243;wienie poszczeg&#243;lnych r&#243;l systemu Exchange Server 2013 / Architektura systemu]]></video:title>
+        <video:description><![CDATA[W module 2 dowiesz się jak wygląda architektura systemu pocztowego Exchange Server 2013, kt&#243;ra zostanie por&#243;wnana ze starszymi edycjami systemu. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d29/b9d2f11d-d902-4504-91ab-e96498c21d29/omowienie_mid.mp4</video:content_loc>
+        <video:duration>621</video:duration>
+        <video:publication_date>2015-03-31T06:33:51.2527273+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Exchange-Server-2013--kurs-podstawowy-cz-1/Wstp--Licencjonowanie--Wymagania</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eed2/d3b550c3-b06d-4a2a-8ebf-c82e53f2eed2/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wstp / Licencjonowanie / Wymagania ]]></video:title>
+        <video:description><![CDATA[W module 1 dowiesz się, czym jest system Exchange Server 2013, jakie nowości pojawiły się w najnowszej edycji, jak wygląda licencjonowanie systemu oraz w jakie są wymagania sprzętowe oraz programowe. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eed2/d3b550c3-b06d-4a2a-8ebf-c82e53f2eed2/wstep_mid.mp4</video:content_loc>
+        <video:duration>736</video:duration>
+        <video:publication_date>2015-03-31T06:33:43.3618937+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Exchange-Server-2013--kurs-podstawowy-cz-1/Instalacja-Exchange-2013</loc>
+      <lastmod>2015-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2c77/4094389f-f68b-428b-85dd-26004d182c77/instalacja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instalacja Exchange 2013]]></video:title>
+        <video:description><![CDATA[W module 3 dowiesz się, w jaki spos&#243;b przygotować usługę katalogową Active Directory dla Exchange Server 2013 oraz w jaki spos&#243;b przeprowadzić instalację w trybie tradycyjnym oraz nienadzorowanym. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c77/4094389f-f68b-428b-85dd-26004d182c77/instalacja_mid.mp4</video:content_loc>
+        <video:duration>1637</video:duration>
+        <video:publication_date>2015-03-31T06:33:32.3877619+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

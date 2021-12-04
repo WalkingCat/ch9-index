@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-backend-for-Android-and-iOS-apps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-backend-for-Android-and-iOS-apps/05--Developing-iOS-mobile-application-using-Azure-Mobile-Services</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ad7/7cd9977a-2f57-4c30-b36e-b3de17cc5ad7/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Developing iOS mobile application using Azure Mobile Services]]></video:title>
+        <video:description><![CDATA[This is the final module we will focus on iOS development using Azure mobile services and as previous session it will be focused on mobile development aspects and standard topics such as working with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ad7/7cd9977a-2f57-4c30-b36e-b3de17cc5ad7/05_mid.mp4</video:content_loc>
+        <video:duration>2731</video:duration>
+        <video:publication_date>2015-11-26T16:23:58.9264605+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-backend-for-Android-and-iOS-apps/04--Development-of-Android-mobile-application-using-Azure-Mobile-Services</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a24d/99959ec4-defd-4170-b848-a9b873e7a24d/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Development of Android mobile application using Azure Mobile Services]]></video:title>
+        <video:description><![CDATA[In this module we will show how to develop your Android application using Azure mobile services. It will be more focused on Android mobile development and touch such topics as working with the data,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a24d/99959ec4-defd-4170-b848-a9b873e7a24d/04_mid.mp4</video:content_loc>
+        <video:duration>3289</video:duration>
+        <video:publication_date>2015-11-26T16:23:57.7591095+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-backend-for-Android-and-iOS-apps/03--Development-of-cross-platform-mobile-app-using-PhoneGap-and-Azure-Mobile-Services</loc>
+      <lastmod>2015-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dfac/aad4c6ad-1530-45de-b648-9fa5e55ddfac/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Development of cross-platform mobile app using PhoneGap and Azure Mobile Services]]></video:title>
+        <video:description><![CDATA[In this module we will show how to develop mobile cross platform app using PhoneGap with Azure mobile services. This module will be more focused on mobile development using PhoneGap and will touch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dfac/aad4c6ad-1530-45de-b648-9fa5e55ddfac/03_mid.mp4</video:content_loc>
+        <video:duration>2740</video:duration>
+        <video:publication_date>2015-11-26T16:23:55.6132501+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-backend-for-Android-and-iOS-apps/02--Azure-moble-Services-back-end-development</loc>
+      <lastmod>2015-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2aec/dc96cecd-2028-4912-848a-a61435e02aec/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Azure moble Services back-end development]]></video:title>
+        <video:description><![CDATA[In this module we will deep dive into mobile backend development in Azure mobile services. We will see how to work with the code locally and deploy application using Git repository. We will&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2aec/dc96cecd-2028-4912-848a-a61435e02aec/02_mid.mp4</video:content_loc>
+        <video:duration>3329</video:duration>
+        <video:publication_date>2015-11-26T16:23:53.9551764+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-backend-for-Android-and-iOS-apps/01--Azure-overview-for-Android--iOS-developers</loc>
+      <lastmod>2015-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d091/fe203dca-5f90-40c5-a979-738dd47bd091/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Azure overview for Android &amp; iOS developers]]></video:title>
+        <video:description><![CDATA[In the beginning we will make on overview of Azure Mobile Services, their main blocks and scenarios of using them. Then we will touch the topic of cross platform development using Azure Mobile&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d091/fe203dca-5f90-40c5-a979-738dd47bd091/01_mid.mp4</video:content_loc>
+        <video:duration>3846</video:duration>
+        <video:publication_date>2015-11-26T16:23:52.5036389+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

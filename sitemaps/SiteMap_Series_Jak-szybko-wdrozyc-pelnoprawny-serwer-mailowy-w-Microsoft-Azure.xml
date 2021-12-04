@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-szybko-wdrozyc-pelnoprawny-serwer-mailowy-w-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-szybko-wdrozyc-pelnoprawny-serwer-mailowy-w-Microsoft-Azure/01-Wstp--dlaczego-email-marketing</loc>
+      <lastmod>2016-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b309/c03d720f-1093-4932-815b-3b414c00b309/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Wstp  dlaczego email marketing?]]></video:title>
+        <video:description><![CDATA[W tym module dowiesz się dlaczego email marketing jest ważny i skuteczny. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b309/c03d720f-1093-4932-815b-3b414c00b309/wstep_mid.mp4</video:content_loc>
+        <video:duration>570</video:duration>
+        <video:publication_date>2016-03-02T10:13:36.0714418+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-szybko-wdrozyc-pelnoprawny-serwer-mailowy-w-Microsoft-Azure/05-Email-Marketing</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e43/e1355e91-7d38-4d6b-8418-029653511e43/email_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05| Email Marketing]]></video:title>
+        <video:description><![CDATA[W tym module om&#243;wiono: masowe wysyłanie maili, tworzenie i obsługa zapytania o możliwość wysłania oferty oraz obsługa listy mailingowej. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e43/e1355e91-7d38-4d6b-8418-029653511e43/email_mid.mp4</video:content_loc>
+        <video:duration>1174</video:duration>
+        <video:publication_date>2016-02-25T23:02:41.6193540+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-szybko-wdrozyc-pelnoprawny-serwer-mailowy-w-Microsoft-Azure/04-Konfiguracja-systemu</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d866/72f997f5-bfc9-4471-a008-80dbbcbcd866/konfiguracja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04| Konfiguracja systemu]]></video:title>
+        <video:description><![CDATA[W tym module skonfigurujemy certyfikaty wykorzystywane w systemie mailowym, PostFix, DoveCot, PhpList. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d866/72f997f5-bfc9-4471-a008-80dbbcbcd866/konfiguracja_mid.mp4</video:content_loc>
+        <video:duration>2061</video:duration>
+        <video:publication_date>2016-02-25T23:02:03.0022371+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-szybko-wdrozyc-pelnoprawny-serwer-mailowy-w-Microsoft-Azure/03-DNSy</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2583/7c3ca9a9-e4dd-4e8a-9da2-ad7424752583/DNS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| DNSy]]></video:title>
+        <video:description><![CDATA[Dowiesz się jak skonfigurować DNSy w Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2583/7c3ca9a9-e4dd-4e8a-9da2-ad7424752583/DNS_mid.mp4</video:content_loc>
+        <video:duration>916</video:duration>
+        <video:publication_date>2016-02-25T23:01:55.2034867+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Jak-szybko-wdrozyc-pelnoprawny-serwer-mailowy-w-Microsoft-Azure/02-Maszyna-wirtualna-z-VMDepot-zawierajca-wszystkie-potrzebne-komponenty</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f774/2f5cf65a-a240-4fec-8733-36ed8361f774/maszyna_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Maszyna wirtualna z VMDepot zawierajca wszystkie potrzebne komponenty]]></video:title>
+        <video:description><![CDATA[Utworzymy konto w Microsoft Azure następnie serwer pocztowy na podstawie template z VmDepot wraz z ustawieniem port&#243;w. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f774/2f5cf65a-a240-4fec-8733-36ed8361f774/maszyna_mid.mp4</video:content_loc>
+        <video:duration>1491</video:duration>
+        <video:publication_date>2016-02-25T23:01:14.4017524+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

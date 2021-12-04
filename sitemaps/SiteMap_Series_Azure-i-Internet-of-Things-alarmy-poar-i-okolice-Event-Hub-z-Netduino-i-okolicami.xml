@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami/05-</loc>
+      <lastmod>2015-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ad3/b606d136-fadb-4ff7-94fa-5a8d1a675ad3/Analiza_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Analiza strumienia zdarze i podsumowanie]]></video:title>
+        <video:description><![CDATA[Tworzenie własnego kodu, kt&#243;ry będzie analizował strumień danych.Wykorzystanie Stream Analytics – gotowej usługi w Microsoft Azure (grupowanie zdarzeń w oknach czasowych.Podsumowanie całego kursu. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ad3/b606d136-fadb-4ff7-94fa-5a8d1a675ad3/Analiza_mid.mp4</video:content_loc>
+        <video:duration>1416</video:duration>
+        <video:publication_date>2015-01-20T10:27:17.6437844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami/04--Gromadzenie-i-wysyanie-sygnaw-z-urzdzenia</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a13c/f78daf7f-3e0d-40d1-a6ba-16cf4a8aa13c/WysylanieSygnalow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Gromadzenie i wysyanie sygna&#243;w - z urzdzenia]]></video:title>
+        <video:description><![CDATA[Konstrukcja urządzenia i opis połączeń czujnik&#243;wŚledzenie krok po kroku kodu .NET Micro Framework wykonywanego podczas odczytywania i wysyłania sygnał&#243;w. Wykrycie ruchu,wykrycie ognia (zmiana stężenia&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a13c/f78daf7f-3e0d-40d1-a6ba-16cf4a8aa13c/WysylanieSygnalow_mid.mp4</video:content_loc>
+        <video:duration>704</video:duration>
+        <video:publication_date>2015-01-20T10:27:11.7465125+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami/03-</loc>
+      <lastmod>2015-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6779/7c0a729f-6f80-4391-99d3-29bff9a36779/Netduino_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Netduino i .NET Micro Framework]]></video:title>
+        <video:description><![CDATA[Jakie funkcjonalności oferuje mikrokontroler Netduino.Co to jest .NET Micro Framework, z kr&#243;tką dygresją o .NET GadgeeterTworzenie usługi proxy przechwytującej komunikaty z Netduino i wysyłającej je&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6779/7c0a729f-6f80-4391-99d3-29bff9a36779/Netduino_mid.mp4</video:content_loc>
+        <video:duration>485</video:duration>
+        <video:publication_date>2015-01-20T10:27:05.7354572+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami/02-</loc>
+      <lastmod>2015-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9fea/ffa7710b-bc29-4a4e-a7eb-ec4872a49fea/Tworzenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Tworzenie Event Hub i wysyanie testowych wiadomoci]]></video:title>
+        <video:description><![CDATA[Jak wykorzystując API stworzyć Event Hub. Jak używając EventHubClient wysyłać zdarzenia – zar&#243;wno pojedynczo jak i w paczkach.Pobieranie łańcucha połączeń.Podgląd strumienia zdarzeń w Service Bus&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fea/ffa7710b-bc29-4a4e-a7eb-ec4872a49fea/Tworzenie_mid.mp4</video:content_loc>
+        <video:duration>567</video:duration>
+        <video:publication_date>2015-01-20T10:26:58.9856731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami/01--Podstawy-jak-uy-Event-Hub-i-jak-on-dziaa</loc>
+      <lastmod>2015-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8792/9c8a94d8-810d-430f-bacd-e900cd328792/Podstawy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Podstawy - jak uy Event Hub i jak on dziaa]]></video:title>
+        <video:description><![CDATA[Zasada działania Event Hub. Partycje, grupy Konsument&#243;w i konsumenci. Autoryzacja. Instructor | Tomasz Kopacz | Microsoft ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8792/9c8a94d8-810d-430f-bacd-e900cd328792/Podstawy_mid.mp4</video:content_loc>
+        <video:duration>330</video:duration>
+        <video:publication_date>2015-01-20T10:26:50.2434574+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-i-Internet-of-Things-alarmy-poar-i-okolice-Event-Hub-z-Netduino-i-okolicami/00--Wstp</loc>
+      <lastmod>2015-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a4e7/2a793b19-72af-4ad5-9852-45c61a15a4e7/Wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[00 | Wstp]]></video:title>
+        <video:description><![CDATA[Nakreślenie scenariusza oraz om&#243;wienie możliwości Event Hub – usłudze z Microsoft Azure, kt&#243;ra będzie używana do gromadzenia i udostępniania strumienia zdarzeń do analizy. Instructor | Tomasz Kopacz |&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a4e7/2a793b19-72af-4ad5-9852-45c61a15a4e7/Wstep_mid.mp4</video:content_loc>
+        <video:duration>270</video:duration>
+        <video:publication_date>2015-01-20T10:26:37.3406474+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

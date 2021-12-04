@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/diwakarb</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/diwakarb/Sreencast--Deploying-EP-in-NLB-configuration</loc>
+      <lastmod>2013-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afc3/28da63e3-1588-4bbc-a4ea-1d4ed6d2afc3/Sreencast--Deploying-EP-in-NLB-configuration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sreencast : Deploying EP in NLB configuration]]></video:title>
+        <video:description><![CDATA[
+Here is a screencast done by Anunay Kumar (Test on Enterprise Portal team in Redmond) . This screencast walks through the steps involved in configuring Enterprise Portal on a NLB web farm. 
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afc3/28da63e3-1588-4bbc-a4ea-1d4ed6d2afc3/Sreencast--Deploying-EP-in-NLB-configuration_mid.mp4</video:content_loc>
+        <video:duration>693</video:duration>
+        <video:publication_date>2009-06-17T19:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/diwakarb/Dynamics-AX-Enterprise-Portal-Development-Webinar</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/3/9/9/6/4/DynamicsAXEnterprisePortalDevelopmentWebinar_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics AX Enterprise Portal Development Webinar]]></video:title>
+        <video:description><![CDATA[
+A developer oriented deep-dive technical session on Enterprise portal for Microsoft Dynamics AX 2009. Developers will learn how to build and customize EP pages and user controls for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/3/9/9/6/4/DynamicsAXEnterprisePortalDevelopmentWebinar_ch9.mp4</video:content_loc>
+        <video:duration>4428</video:duration>
+        <video:publication_date>2009-05-20T20:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

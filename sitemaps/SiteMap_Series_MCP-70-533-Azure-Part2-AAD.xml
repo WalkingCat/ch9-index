@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MCP-70-533-Azure-Part2-AAD</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MCP-70-533-Azure-Part2-AAD/MCP-70533-AzureAD-Module3</loc>
+      <lastmod>2015-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1921/a62e72e6-adb6-4da2-ab41-ebadc89f1921/MCP70533Part2AADModule3ja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 3  Azure AD ]]></video:title>
+        <video:description><![CDATA[アプリケーションをAzure ADと統合する ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1921/a62e72e6-adb6-4da2-ab41-ebadc89f1921/MCP70533Part2AADModule3ja_mid.mp4</video:content_loc>
+        <video:duration>1230</video:duration>
+        <video:publication_date>2015-03-02T15:11:49.8281610+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MCP-70-533-Azure-Part2-AAD/MCP-70533-AzureAD-Module2</loc>
+      <lastmod>2015-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/598e/f50485e0-05bc-4e89-905d-0733ab79598e/MCP70533Part2AADModule2ja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 2 ]]></video:title>
+        <video:description><![CDATA[アクセスパネルの構成 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/598e/f50485e0-05bc-4e89-905d-0733ab79598e/MCP70533Part2AADModule2ja_mid.mp4</video:content_loc>
+        <video:duration>1714</video:duration>
+        <video:publication_date>2015-03-02T15:11:41.7690798+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MCP-70-533-Azure-Part2-AAD/MCP-70533-AzureAD-Module1</loc>
+      <lastmod>2015-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c91c/308c07a0-f804-492f-841a-177373eac91c/MCP70533Part2AADModule1ja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module1  Azure AD ]]></video:title>
+        <video:description><![CDATA[Module1 既存のディレクトリとAzure ADを統合する ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c91c/308c07a0-f804-492f-841a-177373eac91c/MCP70533Part2AADModule1ja_mid.mp4</video:content_loc>
+        <video:duration>1897</video:duration>
+        <video:publication_date>2015-03-02T15:11:30.3769271+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MVPShowCast2014</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MVPShowCast2014/Por-dentro-do-IDXBOX</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/cab60741-c638-4586-8c77-937a6f027819.png</video:thumbnail_loc>
+        <video:title><![CDATA[Por dentro do ID@XBOX]]></video:title>
+        <video:description><![CDATA[Se voc&#234; tem interesse no desenvolvimento de games para Xbox One, ent&#227;o precisa conhecer o ID@XBOX, programa da Microsoft para desenvolvedores indies. Nesse caso, ningu&#233;m melhor do que ele para falar&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5aa5/667b8b8a-6e55-42e6-bad9-f81c85295aa5/mvpJalf_mid.mp4</video:content_loc>
+        <video:duration>3161</video:duration>
+        <video:publication_date>2015-01-07T19:15:19.9034228+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MVPShowCast2014/Desenvolvimento-de-Jogos-com-MonoGame</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/6d6bc09a-a496-41de-b99e-0ed7c7dc8e3f.png</video:thumbnail_loc>
+        <video:title><![CDATA[Desenvolvimento de Jogos com MonoGame]]></video:title>
+        <video:description><![CDATA[Temos, mais uma vez, a oportunidade de acompanhar a palestra do Alexandre Chohfi falando sobre o MonoGame (XNA). Dessa vez ele mostra onde conseguir baixar os arquivos diretamente do reposit&#243;rio de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f541/bd345eff-b001-4e16-8687-42f69aabf541/mvpChohfi_mid.mp4</video:content_loc>
+        <video:duration>3310</video:duration>
+        <video:publication_date>2015-01-07T19:09:03.4527776+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MVPShowCast2014/Desenvolvimento-com-Kinect</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/ff5064f1-5ce4-41f6-8a3a-907b1a026b19.png</video:thumbnail_loc>
+        <video:title><![CDATA[Desenvolvimento com Kinect]]></video:title>
+        <video:description><![CDATA[Aprenda sobre as novidades do Kinect v2 com o mestre Mauricio Alegretti (MVP). Nessa palestra, ser&#227;o abordadas as diferen&#231;as relacionadas ao hardware, software e ferramentas dispon&#237;veis. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8eda/dce14136-ed1d-4a20-92b4-f0ce40178eda/mvpMalegra_mid.mp4</video:content_loc>
+        <video:duration>3477</video:duration>
+        <video:publication_date>2015-01-07T19:07:54.3906186+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MVPShowCast2014/Games-com-Unity3D-CSharp</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/95b26a2b-b177-433c-9881-ba7342bd191f.png</video:thumbnail_loc>
+        <video:title><![CDATA[Desenvolvimento de Games com Unity3D e C#]]></video:title>
+        <video:description><![CDATA[Conhe&#231;a mais sobre a Engine Unity3D, por onde come&#231;ar e como criar seus jogos multiplataforma com essa poderosa ferramenta aliada ao Visual Studio. Nessa apresenta&#231;&#227;o, o Ricardo Dorta (MVP) decidiu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/077a/afe46a72-6eb0-41c6-8b91-f7b5cb5d077a/mvpRDorta_mid.mp4</video:content_loc>
+        <video:duration>3322</video:duration>
+        <video:publication_date>2015-01-07T19:06:22.8929815+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

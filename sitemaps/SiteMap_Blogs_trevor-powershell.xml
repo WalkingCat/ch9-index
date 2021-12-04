@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-powershell</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-powershell/Automating-the-GitHub-REST-API-Using-PowerShell</loc>
+      <lastmod>2021-03-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7a0/fb0ca908-ef8d-424e-a065-d55c7c42b7a0/AutomatingGitHubRESTAPIUsingPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Automating the GitHub REST API Using PowerShell]]></video:title>
+        <video:description><![CDATA[Have you always wondered how to interact with REST APIs using PowerShell? If so, then wonder no more! During this video demonstration, we will take a look at using PowerShell&#39;s powerful&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7a0/fb0ca908-ef8d-424e-a065-d55c7c42b7a0/AutomatingGitHubRESTAPIUsingPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1240</video:duration>
+        <video:publication_date>2016-03-17T18:33:42.5631685+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-powershell/Authoring-Custom-PowerShell-Intellisense-with-Trevor-Sullivan</loc>
+      <lastmod>2021-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1b9/19cc092c-efb9-4fd5-ae0b-c62713f6b1b9/AuthoringCustomPowerShellIntellisenseWithTrevorSu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Authoring Custom PowerShell Intellisense with Trevor Sullivan]]></video:title>
+        <video:description><![CDATA[This video covers the use of the TabExpansion&amp;#43;&amp;#43; PowerShell module to develop your own custom &amp;quot;argument completer&amp;quot; functions for PowerShell&#39;s Intellisense engine. By leveraging this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1b9/19cc092c-efb9-4fd5-ae0b-c62713f6b1b9/AuthoringCustomPowerShellIntellisenseWithTrevorSu_mid.mp4</video:content_loc>
+        <video:duration>1093</video:duration>
+        <video:publication_date>2015-11-12T13:47:25.3945022+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-powershell/Adding-Conceptual-Help-to-your-PowerShell-Modules</loc>
+      <lastmod>2018-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83e1/a16f7661-125d-4fcc-a092-01f3c7ad83e1/AddingConceptualHelpPowerShellModules_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding Conceptual Help to your PowerShell Modules]]></video:title>
+        <video:description><![CDATA[During this video, we will explore the process of adding conceptual &amp;quot;about&amp;quot; topics to PowerShell modules. You can learn more about Trevor Sullivan, a Microsoft MVP for Windows PowerShell,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83e1/a16f7661-125d-4fcc-a092-01f3c7ad83e1/AddingConceptualHelpPowerShellModules_mid.mp4</video:content_loc>
+        <video:duration>306</video:duration>
+        <video:publication_date>2015-08-05T21:42:38.5830117+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/trevor-powershell/Creating-and-Manipulating-PowerShell-Variables</loc>
+      <lastmod>2018-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a54/202090a9-8e6d-4bb9-87c1-2f90c1536a54/PowerShellVariablesCreatingManipulating_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating and Manipulating PowerShell Variables]]></video:title>
+        <video:description><![CDATA[During this video, we will explore variables in PowerShell: how to create them, how to strongly type them, how to add useful metadata to them, and remove them from the session! You can learn more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a54/202090a9-8e6d-4bb9-87c1-2f90c1536a54/PowerShellVariablesCreatingManipulating_mid.mp4</video:content_loc>
+        <video:duration>381</video:duration>
+        <video:publication_date>2015-07-31T00:56:53.5130652+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

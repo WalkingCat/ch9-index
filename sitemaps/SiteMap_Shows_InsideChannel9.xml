@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/403645-The-Channel-9-beta-has-been-updated</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/Dev-Diary-for-April-23</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e15/070bcf22-262c-4081-b8e5-8556d3ba1e15/Dev-Diary-for-April-23_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dev Diary for April 23]]></video:title>
+        <video:description><![CDATA[We&#39;re back with another update! This time we have a mix of content, including:
+
+
+Sampy talking about SQL optimization using indexed views Erik covering a relatively simple, but useful, web control&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e15/070bcf22-262c-4081-b8e5-8556d3ba1e15/Dev-Diary-for-April-23_mid.mp4</video:content_loc>
+        <video:duration>1690</video:duration>
+        <video:publication_date>2008-04-23T22:43:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/Dev-Diary-for-April-15th</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3027/43551280-2324-456a-9372-ab8c1b473027/Dev-Diary-for-April-15th_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dev Diary for April 15th]]></video:title>
+        <video:description><![CDATA[
+Just a quick, and poorly filmed, update from the dev team on what we worked on during the last sprint and what we are building right now. Yes the filming is shoddy, and yes the screens are hard to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3027/43551280-2324-456a-9372-ab8c1b473027/Dev-Diary-for-April-15th_mid.mp4</video:content_loc>
+        <video:duration>1075</video:duration>
+        <video:publication_date>2008-04-15T23:36:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/The-Channel-9-beta-has-been-updated</loc>
+      <lastmod>2021-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Channel 9 beta has been updated]]></video:title>
+        <video:description><![CDATA[Hey folks, it has been awhile since we first published the Channel 9 beta site and we thought you might be wondering where we are with the whole &#39;new Channel 9&#39; project. Well, we have been moving&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_mid.mp4</video:content_loc>
+        <video:duration>30</video:duration>
+        <video:publication_date>2007-09-29T09:42:48.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/Building-a-Silverlight-player-for-Channel-9</loc>
+      <lastmod>2013-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/38cf/b7a7d399-ad67-4323-be34-b806101e38cf/Building-a-Silverlight-player-for-Channel-9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a Silverlight player for Channel 9]]></video:title>
+        <video:description><![CDATA[
+Mike Sampson, your friendly-neighborhood media-encoding and SCRUM specialist, lives in the office right next to mine.  I managed to walk the 12 steps over there and talk to him about what he&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/38cf/b7a7d399-ad67-4323-be34-b806101e38cf/Building-a-Silverlight-player-for-Channel-9_mid.mp4</video:content_loc>
+        <video:duration>889</video:duration>
+        <video:publication_date>2007-09-26T20:08:50.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/Channel9-Version-4-3-Minutes-with-the-dev-team</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/InsideChannel9/Shipping-the-10-update</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

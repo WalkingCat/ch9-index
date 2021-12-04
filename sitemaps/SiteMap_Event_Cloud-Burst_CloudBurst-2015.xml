@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/The-ART-of-modern-Azure-Deployments</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8747/e03136bc-1382-4f73-8729-113112688747/cloudBurst2015theartofmodernazuredeployments_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The ART of modern Azure Deployments]]></video:title>
+        <video:description><![CDATA[Azure Resource Manager is the future of how your services are deployed within Microsoft&#39;s public cloud. Azure Resource Templates are a powerful tool to reliably deploy entire services and essential&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8747/e03136bc-1382-4f73-8729-113112688747/cloudBurst2015theartofmodernazuredeployments_mid.mp4</video:content_loc>
+        <video:duration>3695</video:duration>
+        <video:publication_date>2015-10-02T16:27:42.1672482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Building-Logical-Mobile-App-backed-by-API</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/112e/3078150a-e7aa-4d9b-a62c-c9f324ae112e/cloudBurst2015buildinglogicalmobileappbackeds_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Logical Mobile App backed by API]]></video:title>
+        <video:description><![CDATA[Azure App Service is new architecture that allows developers to build and publish Microservices to the Azure Platform. These can be used to build workflows, API&#39;s and mobile applications. This session&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/112e/3078150a-e7aa-4d9b-a62c-c9f324ae112e/cloudBurst2015buildinglogicalmobileappbackeds_mid.mp4</video:content_loc>
+        <video:duration>3306</video:duration>
+        <video:publication_date>2015-10-02T09:17:04.6620758+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Real-world-2-speed-IT-Powered-by-Microsoft-Azure-and-Integration</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2aa6/899f9450-5e48-481e-ab6e-3574d3d12aa6/cloudburst15realworld2speedit_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real world 2 speed IT - Powered by Microsoft Azure &amp; Integration]]></video:title>
+        <video:description><![CDATA[The modern world IT is often about bigger, faster cheaper. Although we still need to support and develop traditional solutions, the modern business places demands on IT which many organisations&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2aa6/899f9450-5e48-481e-ab6e-3574d3d12aa6/cloudburst15realworld2speedit_mid.mp4</video:content_loc>
+        <video:duration>2952</video:duration>
+        <video:publication_date>2015-10-02T09:17:01.7628870+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Distributed-Computing-made-easy-with-Azure-Service-Fabric</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/227b/d5af99a4-bb77-4c7b-b8c7-8880ba47227b/cloudburst15servicefabric_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Distributed Computing made easy with Azure Service Fabric]]></video:title>
+        <video:description><![CDATA[Service Fabric is a state-of-the-art distributed system that allows developers to easily build and IT-Pros to easily manage large scale, highly resilient services for your Enterprise. We are all going&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/227b/d5af99a4-bb77-4c7b-b8c7-8880ba47227b/cloudburst15servicefabric_mid.mp4</video:content_loc>
+        <video:duration>3600</video:duration>
+        <video:publication_date>2015-10-02T07:16:19.5220610+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Architecture-Best-Practices-in-Microsoft-Azure</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/483c/68ec7491-58ce-4cfb-b00e-647cf7d2483c/cloudBurst2015architecturebestpracticesinazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecture Best Practices in Microsoft Azure]]></video:title>
+        <video:description><![CDATA[When building solutions for the Cloud it is critical to understand that every architecture decision has even more impacts than before as a bad code might get you out of business. For this reason in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/483c/68ec7491-58ce-4cfb-b00e-647cf7d2483c/cloudBurst2015architecturebestpracticesinazure_mid.mp4</video:content_loc>
+        <video:duration>3373</video:duration>
+        <video:publication_date>2015-10-02T07:16:17.4519904+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Going-Global-developing-Game-Services-in-Microsoft-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4fe5/f5aedd04-d921-48eb-a958-c4fad2694fe5/cloudBurst2015goingglobalgameservicesinazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Going Global developing Game Services in Microsoft Azure]]></video:title>
+        <video:description><![CDATA[The Global Azure Racing Game Lab was used at the Global Azure Bootcamp by over 400 attendees at 50 locations in 30 countries. The game made use of many Microsoft Azure services including the Service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4fe5/f5aedd04-d921-48eb-a958-c4fad2694fe5/cloudBurst2015goingglobalgameservicesinazure_mid.mp4</video:content_loc>
+        <video:duration>3446</video:duration>
+        <video:publication_date>2015-10-02T07:16:14.6486056+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/WTF-is-happening-in-my-telemetry-pipeline-how-to-monitor-and-debug-your-Event-Hubs-solutions</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2b5/d7a089d7-3934-407c-b5cf-209ae803a2b5/cloudBurst2015wtfishappeninginmytelemetrypipeline_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WTF is happening in my telemetry pipeline: how to monitor and debug your Event Hubs solutions]]></video:title>
+        <video:description><![CDATA[Event Hubs is undoubtedly one of the fastest growing services in cloud history. In six months we went from launch to a trillion messages, but delivering lots of data fast isn&#39;t enough. When you build&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2b5/d7a089d7-3934-407c-b5cf-209ae803a2b5/cloudBurst2015wtfishappeninginmytelemetrypipeline_mid.mp4</video:content_loc>
+        <video:duration>2993</video:duration>
+        <video:publication_date>2015-10-02T07:16:12.0829758+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Available-Scalable-and-Predicatble-How-to-Use-Azure-Service-Bus-to-bring-reliability-to-the-cloud</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/349f/4932e25d-cc2d-4d3c-b563-dc3ca100349f/cloudBurst2015availablescalablepredicatbleservice_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Available, Scalable, and Predicatble: How to Use Azure Service Bus to bring reliability to the cloud]]></video:title>
+        <video:description><![CDATA[This session will focus on best practices and new capabilities in Azure Service Bus that will enable you to build cloud solutions integrated with a powerful messaging platform. In addition to showing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/349f/4932e25d-cc2d-4d3c-b563-dc3ca100349f/cloudBurst2015availablescalablepredicatbleservice_mid.mp4</video:content_loc>
+        <video:duration>3138</video:duration>
+        <video:publication_date>2015-10-02T07:16:08.6369784+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Hybrid-Connectivity-Options-with-the-Microsoft-Cloud</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1376/8d40ede3-1a4c-4e0a-93ba-2054810d1376/cloudburst15hybridconnectivityoptionsinazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hybrid Connectivity Options with the Microsoft Cloud]]></video:title>
+        <video:description><![CDATA[There are many ways you can connect the cloud and your on premise applications using Microsoft Azure. How do you decide which is the right one to use? In this session Michael will discuss some of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1376/8d40ede3-1a4c-4e0a-93ba-2054810d1376/cloudburst15hybridconnectivityoptionsinazure_mid.mp4</video:content_loc>
+        <video:duration>2331</video:duration>
+        <video:publication_date>2015-10-02T07:16:06.5182585+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Identity-Management-as-a-Service-IDMaaS-Developing-modern-solutions-with-Azure-Active-Directory</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fde/e745ed2b-116b-4b09-820a-5c8c110a5fde/cloudburst15identitymanagementasaservice_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identity Management as a Service (IDMaaS): Developing modern solutions with Azure Active Directory]]></video:title>
+        <video:description><![CDATA[Identity and security is becoming an increasingly important capability required by developers and organizations when building modern applications and services. In addition to that, we are expected to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fde/e745ed2b-116b-4b09-820a-5c8c110a5fde/cloudburst15identitymanagementasaservice_mid.mp4</video:content_loc>
+        <video:duration>3509</video:duration>
+        <video:publication_date>2015-10-02T07:16:04.6311992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Design-Practices-for-a-secure-Azure-solution</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/316f/46cf7167-bb7d-41d5-8ed4-27b513a1316f/cloudburst15designpracticessecureazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Design Practices for a secure Azure solution]]></video:title>
+        <video:description><![CDATA[When companies endeavor to move their applications and services to the cloud, they tend to worry more about security up front. Interestingly, platforms such as Azure provide an even more secure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/316f/46cf7167-bb7d-41d5-8ed4-27b513a1316f/cloudburst15designpracticessecureazure_mid.mp4</video:content_loc>
+        <video:duration>4655</video:duration>
+        <video:publication_date>2015-10-02T07:16:01.9882908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Cloud-Burst/CloudBurst-2015/Top-6-Decisions-Youll-Make-on-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab79/c2cb8282-5264-41d0-a64d-c8c6653eab79/cloudburst15top6decisionsonazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Top 6 Decisions Youll Make on Azure]]></video:title>
+        <video:description><![CDATA[The decisions you make during the design phase of an Azure solution tend to stick with you as you gain momentum delivering features. If you have a green field application, you have the luxury of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab79/c2cb8282-5264-41d0-a64d-c8c6653eab79/cloudburst15top6decisionsonazure_mid.mp4</video:content_loc>
+        <video:duration>4056</video:duration>
+        <video:publication_date>2015-10-02T07:15:59.4593892+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain/Seguridad-Evita-phishing-activa-Multi-Factor-Authentication</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3622/13489e8d-40b9-4c4d-a56f-cd79cf253622/MFA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[[Seguridad] Evita phishing, activa Multi-Factor Authentication.]]></video:title>
+        <video:description><![CDATA[El Phishing es la modalidad de ataque de ingenier&#237;a social m&#225;s eficaz y propagada de los &#250;ltimos a&#241;os. Descubre c&#243;mo activar MFA en Office 365 y di adi&#243;s al phishing!]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3622/13489e8d-40b9-4c4d-a56f-cd79cf253622/MFA_mid.mp4</video:content_loc>
+        <video:duration>371</video:duration>
+        <video:publication_date>2017-09-27T11:21:19.1669781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain/karin2</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7726/869b605a-753d-414c-b9b5-57c502e37726/k2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[karin2]]></video:title>
+        <video:description><![CDATA[karin2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7726/869b605a-753d-414c-b9b5-57c502e37726/k2_mid.mp4</video:content_loc>
+        <video:duration>896</video:duration>
+        <video:publication_date>2017-04-28T13:11:25.4680416+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain/Karin-1</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0811/64a4f3ae-714e-4df4-aed2-550249fb0811/k1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Karin 1]]></video:title>
+        <video:description><![CDATA[Formaci&#243;n Azure ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0811/64a4f3ae-714e-4df4-aed2-550249fb0811/k1_mid.mp4</video:content_loc>
+        <video:duration>730</video:duration>
+        <video:publication_date>2017-04-28T12:41:40.7274321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain/How-to-Read-an-Advance-Message-Trace</loc>
+      <lastmod>2021-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8fb4/ccff9357-022c-46e1-8828-d543706a8fb4/HowtoReadandOFFICE365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Read an Advance Message Trace ]]></video:title>
+        <video:description><![CDATA[We will learn how to collect the advanced message trace, Interpreting advanced message.Why do we need the advanced message trace?.Some live demos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8fb4/ccff9357-022c-46e1-8828-d543706a8fb4/HowtoReadandOFFICE365_mid.mp4</video:content_loc>
+        <video:duration>2035</video:duration>
+        <video:publication_date>2016-06-07T15:22:47.1887778+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain/Azure-ASM-vs-ARM</loc>
+      <lastmod>2016-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6080/1f849738-93c8-49a4-bf1c-584828fe6080/AzureASMvsARM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure: ASM vs ARM]]></video:title>
+        <video:description><![CDATA[En este nuevo video veremos las diferencias entre ASM y ARM. Agenda: -Diferencias entre ASM y ARM -Creaci&#243;n de VMs ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6080/1f849738-93c8-49a4-bf1c-584828fe6080/AzureASMvsARM_mid.mp4</video:content_loc>
+        <video:duration>1359</video:duration>
+        <video:publication_date>2016-04-27T08:06:35.8700283+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-Support-Spain/Empezando-con-Azure</loc>
+      <lastmod>2016-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e73b/0739dcb6-ac83-40dd-a162-7e58e566e73b/Azurebasic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Empezando con Azure]]></video:title>
+        <video:description><![CDATA[En este v&#237;deo veremos c&#243;mo empezar a manejarnos con Azure y PowerShell. Comandos b&#225;sicos para conectarnos y visualizar objetos dentro de nuestra suscripci&#243;n.   Agenda: PowerShell Selecci&#243;n de una&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e73b/0739dcb6-ac83-40dd-a162-7e58e566e73b/Azurebasic_mid.mp4</video:content_loc>
+        <video:duration>740</video:duration>
+        <video:publication_date>2016-04-26T15:15:36.5408181+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

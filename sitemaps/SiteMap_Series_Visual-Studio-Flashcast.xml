@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Flashcast</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Flashcast/Creating-a-SharePoint-Farm-in-Azure</loc>
+      <lastmod>2015-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9350/3a4cc65b-1bfe-4db4-b783-10beb8379350/CreateSharePointFarminAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a SharePoint Farm in Azure]]></video:title>
+        <video:description><![CDATA[This is a short video on how to create a SharePoint Farm in Microsoft Azure ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9350/3a4cc65b-1bfe-4db4-b783-10beb8379350/CreateSharePointFarminAzure_mid.mp4</video:content_loc>
+        <video:duration>217</video:duration>
+        <video:publication_date>2015-04-01T22:15:52.5643932+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Flashcast/Create-a-Virtual-Machine-in-Azure</loc>
+      <lastmod>2015-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2433/66b44eb4-b8ab-48f8-a9af-4b4264a92433/CreateVMInAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a Virtual Machine in Azure]]></video:title>
+        <video:description><![CDATA[This short video shows you how to quickly build a Virtual Machine in Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2433/66b44eb4-b8ab-48f8-a9af-4b4264a92433/CreateVMInAzure_mid.mp4</video:content_loc>
+        <video:duration>210</video:duration>
+        <video:publication_date>2015-04-01T21:46:53.0878276+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Flashcast/Create-a-SQL-Server-Cluster-in-Azure</loc>
+      <lastmod>2015-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a68/6a2da5b8-a216-4672-9793-6f2e3c8b3a68/CreateSQLServerClusterInAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a SQL Server Cluster in Azure]]></video:title>
+        <video:description><![CDATA[This short video will show you how to quickly create a SQL Server Cluster in Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a68/6a2da5b8-a216-4672-9793-6f2e3c8b3a68/CreateSQLServerClusterInAzure_mid.mp4</video:content_loc>
+        <video:duration>169</video:duration>
+        <video:publication_date>2015-04-01T21:46:15.6753046+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Visual-Studio-Flashcast/Episode-1-Build-your-first-iOS-App-with-Visual-Studio-and-Xamarin</loc>
+      <lastmod>2015-12-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dbc1/3cd87c15-da0b-4dc5-81b5-52807132dbc1/flashcastepisode1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build your first iOS App with Visual Studio and Xamarin]]></video:title>
+        <video:description><![CDATA[Interested in mobile? Want to build for all the mobile platforms using the powerful languages and awesomeness that is Visual Studio? Join us in the session to find out how you can get started building&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dbc1/3cd87c15-da0b-4dc5-81b5-52807132dbc1/flashcastepisode1_mid.mp4</video:content_loc>
+        <video:duration>1316</video:duration>
+        <video:publication_date>2014-09-06T13:59:09.9887902+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

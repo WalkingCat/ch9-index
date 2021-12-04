@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S04</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S04/-------SQL-Server-2016</loc>
+      <lastmod>2016-05-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afd9/30c0bf0c-2d4d-40e4-ad86-d25d2d52afd9/parkhjuyeon_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[      , SQL Server 2016]]></video:title>
+        <video:description><![CDATA[데이터로 할 수 있는 그 모든 것, SQL Server 2016 / 한국마이크로소프트 박주연 차장 전통적인 DBMS의 기능은 &amp;#47932;론 Advanced Analytics, Cloud와 연동의 확장성 및 환경에 구애받지 않고 BI를 모두 가능하게 해주는 SQL Server 2016의 모든 것을 소개합니다. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afd9/30c0bf0c-2d4d-40e4-ad86-d25d2d52afd9/parkhjuyeon_mid.mp4</video:content_loc>
+        <video:duration>1529</video:duration>
+        <video:publication_date>2016-05-06T07:57:04.1686968+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/SQL-Tech-Camp/S04/SQL-Server-2016-In-Memory-OLTP</loc>
+      <lastmod>2016-05-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4ca/f377c61e-582e-480b-9559-ef7fc75bb4ca/inmemory_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 2016 In-Memory OLTP ]]></video:title>
+        <video:description><![CDATA[SQL Server 2016 In-Memory OLTP  / 씨퀄로 김영건 수석 SQL Server 2014에서 처음 소개된 In-Memory OLTP가 SQL Server 2016에서는 더욱 강력한 모습&amp;#51004;로 돌아왔습니다. 새로워진 In-Memory OLTP에 대해서 자세히 알아보고, 효과적&amp;#51004;로 활용할 수 있는 방안을 안내드립니다. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4ca/f377c61e-582e-480b-9559-ef7fc75bb4ca/inmemory_mid.mp4</video:content_loc>
+        <video:duration>3034</video:duration>
+        <video:publication_date>2016-05-06T07:56:19.8228343+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

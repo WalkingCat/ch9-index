@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Retro-Tech</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Retro-Tech/Remembering-Microsoft-Encarta</loc>
+      <lastmod>2020-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e094/8e38680f-9470-416e-81db-741d66e8e094/rt-episode-3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Remembering Microsoft Encarta]]></video:title>
+        <video:description><![CDATA[In part 2, Mark MacKenzie, Jon Parati, Stephane Comeau, and Bruce Morgan talk about development and design challenges in Encarta. [01:25] designing the buttons [03:15] Encarta Easter eggs [05:08] best&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b675/627ace7b-1606-422f-94dc-12f9598eb675/RTEp3_mid.mp4</video:content_loc>
+        <video:duration>2711</video:duration>
+        <video:publication_date>2020-04-06T22:49:57.5864787+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Retro-Tech/Microsoft-Encarta-Let-Wizard-Do-It</loc>
+      <lastmod>2020-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/23e5/24fff7d6-ef6e-47ee-acae-7baa63b323e5/retro-tech-ep2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Encarta: Let Wizard Do It]]></video:title>
+        <video:description><![CDATA[In this two-part series, some of the original Microsoft Encarta team explain what it was like to work on the revolutionary product from the &#39;90s. Anthony Keller, Brian Manthos, Andy Woods, and Lisa&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/23e5/24fff7d6-ef6e-47ee-acae-7baa63b323e5/retro-tech-ep2_mid.mp4</video:content_loc>
+        <video:duration>2233</video:duration>
+        <video:publication_date>2020-02-25T17:42:04.7077336+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Retro-Tech/Larry-Osterman-Gets-Nostalgic</loc>
+      <lastmod>2020-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9942/1c9ce959-e884-4b5c-9e6b-c1920b489942/RETROTECH1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Larry Osterman Gets Nostalgic ]]></video:title>
+        <video:description><![CDATA[Principal Software Engineer Larry Osterman shares some early Microsoft stories and tells us who would play him in a movie about Microsoft. Follow Misty on Twitter - https://twitter.com/mistymadonna&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5cde/1d9ee45e-f975-4421-8b0a-db17131e5cde/RETROTECH1_mid.mp4</video:content_loc>
+        <video:duration>1719</video:duration>
+        <video:publication_date>2020-01-15T22:39:28.4557467+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

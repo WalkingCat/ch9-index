@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enterprise-Mobility-And-Security-Nivel-Avanzado</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enterprise-Mobility-And-Security-Nivel-Avanzado/Mdulo-IV-Cloud-App-Security</loc>
+      <lastmod>2019-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/edd5/bccd6f9b-5873-432c-80a4-43a8435cedd5/EMSAvanzadoMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Cloud App Security]]></video:title>
+        <video:description><![CDATA[Ac&#225; veremos como esta soluci&#243;n nos permite monitorear nuestra seguridad en la organizaci&#243;n. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/edd5/bccd6f9b-5873-432c-80a4-43a8435cedd5/EMSAvanzadoMod4_mid.mp4</video:content_loc>
+        <video:duration>861</video:duration>
+        <video:publication_date>2017-06-12T16:49:49.1792406+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enterprise-Mobility-And-Security-Nivel-Avanzado/Mdulo-III-Azure-AD-Premium-Acceso-Condicional</loc>
+      <lastmod>2017-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e3ab/a008908a-ef2b-4256-bfd0-f589ed8fe3ab/EMSAvanzadoMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Azure AD Premium - Acceso Condicional]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo nos enfocaremos en el acceso condicional y c&#243;mo funciona para las organizaciones. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e3ab/a008908a-ef2b-4256-bfd0-f589ed8fe3ab/EMSAvanzadoMod3_mid.mp4</video:content_loc>
+        <video:duration>1065</video:duration>
+        <video:publication_date>2017-06-12T16:49:12.4896939+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enterprise-Mobility-And-Security-Nivel-Avanzado/Mdulo-II-Azure-Information-Protection</loc>
+      <lastmod>2018-08-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9763/785cd4a0-63c8-4998-a741-dc26c3139763/EMSAvanzadoMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Azure Information Protection]]></video:title>
+        <video:description><![CDATA[Ac&#225; veremos las nuevas caracter&#237;sticas de seguridad en EMS. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9763/785cd4a0-63c8-4998-a741-dc26c3139763/EMSAvanzadoMod2_mid.mp4</video:content_loc>
+        <video:duration>1615</video:duration>
+        <video:publication_date>2017-06-12T16:48:53.5329343+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enterprise-Mobility-And-Security-Nivel-Avanzado/Mdulo-I-Novedades-Enterprise-Mobility-and-Security</loc>
+      <lastmod>2017-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8da9/a0d084ad-72f7-41e6-9635-bd8783448da9/EMSAvanzadoMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Novedades Enterprise Mobility and Security]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo veremos las &#250;ltimas novedades de esta herramienta. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8da9/a0d084ad-72f7-41e6-9635-bd8783448da9/EMSAvanzadoMod1_mid.mp4</video:content_loc>
+        <video:duration>888</video:duration>
+        <video:publication_date>2017-06-12T16:48:38.8916242+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSDNVideos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSDNVideos/ESRI-Build-2015-Video</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/20f7/c6b48c03-25eb-442c-8be8-03e7b6ae20f7/ESRIBuild2015Video_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ESRI Build 2015 Video]]></video:title>
+        <video:description><![CDATA[ESRI, the leading provider of geographic information services software, has over 10,000 SQL databases running on Azure today. Watch the video from Scott Guthrie&#39;s keynote on day 1 at Build 2015. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/20f7/c6b48c03-25eb-442c-8be8-03e7b6ae20f7/ESRIBuild2015Video_mid.mp4</video:content_loc>
+        <video:duration>65</video:duration>
+        <video:publication_date>2015-05-26T15:14:06.8845855+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSDNVideos/Azure-Case-Study-Video-blinkbox</loc>
+      <lastmod>2014-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb6d/e20cbc71-83ac-44e0-9d5f-fd43b954fb6d/blinkbox_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Case Study Video: blinkbox]]></video:title>
+        <video:description><![CDATA[blinkbox is a UK movie and TV streaming service which had a traditional datacenter in London in which costs were skyrocketing. The company shifted to Microsoft Azure, saving millions of dollars. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb6d/e20cbc71-83ac-44e0-9d5f-fd43b954fb6d/blinkbox_mid.mp4</video:content_loc>
+        <video:duration>151</video:duration>
+        <video:publication_date>2014-06-21T17:51:22.2576316+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSDNVideos/Azure-Case-Study-Video-Mundoloco</loc>
+      <lastmod>2014-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb4b/447c6f68-360b-4adc-bff7-452f3fd0fb4b/Mundoloco_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Case Study Video-Mundoloco]]></video:title>
+        <video:description><![CDATA[When Mundoloco CGI Studios needed to render more than 276,000 frames of its Hollywood-level animated movie, the company set up 550 Microsoft Azure Virtual Machines, enabling it to meet its premiere&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb4b/447c6f68-360b-4adc-bff7-452f3fd0fb4b/Mundoloco_mid.mp4</video:content_loc>
+        <video:duration>159</video:duration>
+        <video:publication_date>2014-06-20T23:01:09.2355910+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MSDNVideos/From-Titans-to-Drivatars</loc>
+      <lastmod>2014-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b8b/c95ec92b-907c-40e8-935b-3564c8133b8b/Titanfall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From Titans to Drivatars]]></video:title>
+        <video:description><![CDATA[See how Xbox Live Compute is helping to improve gameplay in Titanfall. Benefits include better overall connectivity, improved multiplayer experiences, and improved &amp;amp; evolving gameplay experiences. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b8b/c95ec92b-907c-40e8-935b-3564c8133b8b/Titanfall_mid.mp4</video:content_loc>
+        <video:duration>107</video:duration>
+        <video:publication_date>2014-06-20T22:26:31.8947360+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

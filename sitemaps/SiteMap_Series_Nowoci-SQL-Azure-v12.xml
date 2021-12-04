@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Nowoci-SQL-Azure-v12</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Nowoci-SQL-Azure-v12/Nowoci-programistyczne-i-wydajnociowe</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/15a2/df9156c1-a9bd-44c6-8991-bd3efee715a2/nowoscipgro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nowoci programistyczne i wydajnociowe]]></video:title>
+        <video:description><![CDATA[Moduł ten wprowadza użytkownik&#243;w w nowe elementy związane z wydajnością bazy danych SQL Azure v.12. Porusza r&#243;wnież zagadnienia rozszerzeń i nowości dotyczące aspekt&#243;w programistycznych SQL Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/15a2/df9156c1-a9bd-44c6-8991-bd3efee715a2/nowoscipgro_mid.mp4</video:content_loc>
+        <video:duration>756</video:duration>
+        <video:publication_date>2015-03-12T22:18:18.3691620+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Nowoci-SQL-Azure-v12/Dynamic-Data-Masking</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b83/81a3b86e-925f-41f1-a457-4bcbf3423b83/dynamicdata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamic Data Masking]]></video:title>
+        <video:description><![CDATA[W module tym zaprezentowano nowy mechanizm SQL Azure v.12 -  Dynamic Data Masking, umożliwiający maskowanie krytycznych danych dla przedsiębiorstwa. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b83/81a3b86e-925f-41f1-a457-4bcbf3423b83/dynamicdata_mid.mp4</video:content_loc>
+        <video:duration>571</video:duration>
+        <video:publication_date>2015-03-11T15:22:29.7597630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Nowoci-SQL-Azure-v12/Nowoci-z-obszaru-bezpieczestwa-i-zarzdzania</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c79a/cc40605c-a3cc-4964-a60c-b2053bc9c79a/nowoscizobszaru_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nowoci z obszaru bezpieczestwa i zarzdzania]]></video:title>
+        <video:description><![CDATA[W module tym przedstawiono zmiany w zakresie zarządzania bazami danych SQL Azure oraz aspekty bezpieczeństwa. Om&#243;wione zostało r&#243;wnież zagadnienie RLS (ang.: Row Level Security). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c79a/cc40605c-a3cc-4964-a60c-b2053bc9c79a/nowoscizobszaru_mid.mp4</video:content_loc>
+        <video:duration>742</video:duration>
+        <video:publication_date>2015-03-11T15:21:51.4635802+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Nowoci-SQL-Azure-v12/Nowoci-wydajnociowe-i-programistyczne</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Nowoci-SQL-Azure-v12/Wprowadzenie-do-SQL-Azure</loc>
+      <lastmod>2015-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c1d/8dfb6426-f5fd-4f75-acad-55a3b28d1c1d/wprowadzenieSQLAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wprowadzenie do SQL Azure]]></video:title>
+        <video:description><![CDATA[Moduł ten wprowadza nas w tematykę relacyjnej bazy danych oferowanej w chmurze – SQL Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c1d/8dfb6426-f5fd-4f75-acad-55a3b28d1c1d/wprowadzenieSQLAzure_mid.mp4</video:content_loc>
+        <video:duration>691</video:duration>
+        <video:publication_date>2015-03-11T15:19:52.7715287+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

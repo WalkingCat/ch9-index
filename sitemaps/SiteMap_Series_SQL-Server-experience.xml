@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience/-SQL-Server-on-Linux-step2</loc>
+      <lastmod>2017-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/15d5/e1d34e8e-b00f-4777-9f95-89e0029215d5/SQLServerOnLinuxStep2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server on Linux  2]]></video:title>
+        <video:description><![CDATA[此課程由 MVP Lewis Yang 楊志強老師分享。 在安裝 SQL Server on Linux 的第二步驟中，我們要安裝的是在 Linux 上的工具，可以讓它連上 Linux 上的 SQL Server。 最近 SQL Server on Linux 發布許多 Tools ，目前正在邀約全世界的同仁一起翻譯中，歡迎大家共襄盛舉，詳情請參考 -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/15d5/e1d34e8e-b00f-4777-9f95-89e0029215d5/SQLServerOnLinuxStep2_mid.mp4</video:content_loc>
+        <video:duration>1198</video:duration>
+        <video:publication_date>2017-03-03T08:13:57.1009802+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience/on-Linux-step1</loc>
+      <lastmod>2017-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/042e/5676e9f2-1af9-4a25-a48b-32b89f91042e/SQLServerOnLinuxStep1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server on Linux  1]]></video:title>
+        <video:description><![CDATA[此課程由 MVP Lewis Yang 楊志強老師分享。 主要將向大家介紹下一代的 SQL Server on Linux 的功能，也會告訴您如果想安裝 SQL Server on Linux，但手邊又剛好沒有環境時該如何進行。 最近 SQL Server on Linux 發布許多 Tools ，目前正在邀約全世界的同仁一起翻譯中，歡迎大家共襄盛舉，詳情請參考 -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/042e/5676e9f2-1af9-4a25-a48b-32b89f91042e/SQLServerOnLinuxStep1_mid.mp4</video:content_loc>
+        <video:duration>1135</video:duration>
+        <video:publication_date>2017-03-03T07:08:33.6451327+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience/case15-21</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/635d/692005c2-af1a-4bb6-93ec-7d80ece9635d/1521_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 20  15-21]]></video:title>
+        <video:description><![CDATA[SQL 實戰系列高可用度自我評量 H.A Part 3 你想過哪一種高可用度可以保護系統資料庫? SQL Server cluster / AlwaysOn / Replication / Log Shipping / Database Mirroring / backup你想過哪一種高可用度支援secondary進行資料或是結構調整? SQL Server cluster / AlwaysOn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/635d/692005c2-af1a-4bb6-93ec-7d80ece9635d/1521_mid.mp4</video:content_loc>
+        <video:duration>1341</video:duration>
+        <video:publication_date>2016-08-23T08:54:10.6613886+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience/case8-14</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03e4/0e67bb74-5f75-4b97-89ee-9820144a03e4/0814_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 20  8-14]]></video:title>
+        <video:description><![CDATA[SQL 實戰系列高可用度自我評量 H.A Part 2 你想過一對多的高可用度，哪一種可以出來? SQL Server cluster / AlwaysOn / Replication / Log Shipping / Database Mirroring你想過SQL Server Agent停止後，哪一種高可用度會受到影響? SQL Server cluster / AlwaysOn /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03e4/0e67bb74-5f75-4b97-89ee-9820144a03e4/0814_mid.mp4</video:content_loc>
+        <video:duration>1184</video:duration>
+        <video:publication_date>2016-08-23T08:53:41.7825956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience/case1-7</loc>
+      <lastmod>2016-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8650/4b28329c-cdad-4ad4-bfa8-e375cdba8650/0107_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 20  1-7]]></video:title>
+        <video:description><![CDATA[SQL 實戰系列高可用度自我評量 H.A Part 1 你想過1TB資料庫中，若僅需要即時同步一個300MB的線上資料表，哪一種機制可以幫忙解決 SQL Server cluster / AlwaysOn / Replication / Log Shipping / Database Mirroring你想過Simple Recovery Model況狀下，可以實作出來以下哪一種複寫&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8650/4b28329c-cdad-4ad4-bfa8-e375cdba8650/0107_mid.mp4</video:content_loc>
+        <video:duration>930</video:duration>
+        <video:publication_date>2016-08-23T08:53:08.7109786+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Server-experience/overview-and-fbresource</loc>
+      <lastmod>2020-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/472c/58deb5f8-b19b-4d9d-ad44-9cbc557a472c/fb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server 20  &amp; Facebook SQL ]]></video:title>
+        <video:description><![CDATA[此部課程將由楊老師說明所經營兩年的粉絲專業 Super SQL Server，專業裡面提供大家問答平台以及所有 SQL 資訊的交流，以及概述此系列高可用性系列的說明。 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/472c/58deb5f8-b19b-4d9d-ad44-9cbc557a472c/fb_mid.mp4</video:content_loc>
+        <video:duration>1020</video:duration>
+        <video:publication_date>2016-08-23T08:52:38.9172396+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

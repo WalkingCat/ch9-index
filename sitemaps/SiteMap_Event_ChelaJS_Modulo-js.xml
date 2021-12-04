@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/ChelaJS/Modulo-js</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ChelaJS/Modulo-js/SVG-Canvas-y-Method-Draw</loc>
+      <lastmod>2016-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf70/fdd4ddb2-7169-468e-a9d9-99837fd4bf70/03mark_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SVG Canvas y Method Draw]]></video:title>
+        <video:description><![CDATA[Mark es conocido por crear una serie de herramientas y juegos gratuitos para ayudarte a aprender sobre dise&#241;o. En su d&#237;a a d&#237;a, Mark trabaja en la oficina de la Ciudad de M&#233;xico de Cabify ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf70/fdd4ddb2-7169-468e-a9d9-99837fd4bf70/03mark_mid.mp4</video:content_loc>
+        <video:duration>1589</video:duration>
+        <video:publication_date>2016-06-11T22:45:56.8938211+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ChelaJS/Modulo-js/Mas-alla-de-npm-install</loc>
+      <lastmod>2016-06-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b395/687dc289-ed53-4776-bd9c-a5e96fb3b395/03kat_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#225;s all&#225; de npm install]]></video:title>
+        <video:description><![CDATA[Kat es parte del equipo de desarrollo de CLI para npm. Es originaria de Puerto Rico y mantiene 141 paquetes de c&#243;digo abierto. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b395/687dc289-ed53-4776-bd9c-a5e96fb3b395/03kat_mid.mp4</video:content_loc>
+        <video:duration>1443</video:duration>
+        <video:publication_date>2016-06-11T18:18:53.3617829+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/ChelaJS/Modulo-js/Internacionalizacion</loc>
+      <lastmod>2016-06-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3877/334a5f5f-2143-4df7-8251-00d8f2713877/03alex_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Internacionalizaci&#243;n]]></video:title>
+        <video:description><![CDATA[Alex Sexton trabaja en Stripe, desarrolla el n&#250;cleo de Modernizr y es parte de la junta directiva de la jQuery Foundation. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3877/334a5f5f-2143-4df7-8251-00d8f2713877/03alex_mid.mp4</video:content_loc>
+        <video:duration>1422</video:duration>
+        <video:publication_date>2016-06-11T18:18:24.3001334+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

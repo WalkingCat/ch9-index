@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Black-Box-versus-White-Box-Testing</loc>
+      <lastmod>2019-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7133/855ef63f-3950-4614-b378-3e5546837133/blackboxvswhiteboxtesting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Black Box versus White Box Testing ]]></video:title>
+        <video:description><![CDATA[The pros and cons of black box and white box penetration testing. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7133/855ef63f-3950-4614-b378-3e5546837133/blackboxvswhiteboxtesting_mid.mp4</video:content_loc>
+        <video:duration>217</video:duration>
+        <video:publication_date>2017-05-03T16:10:16.3383415+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Designing-Identity-solutions-with-AAD</loc>
+      <lastmod>2018-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b79d/1d72d821-3b0c-4b7a-a2e7-326412ceb79d/designingidentity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Identity solutions with AAD]]></video:title>
+        <video:description><![CDATA[Designing Identity solutions with AAD by Brice McDowell slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b79d/1d72d821-3b0c-4b7a-a2e7-326412ceb79d/designingidentity_mid.mp4</video:content_loc>
+        <video:duration>1747</video:duration>
+        <video:publication_date>2016-05-18T13:16:50.4003403+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Designing-Azure-Compute-and-Storage-Infrastructure</loc>
+      <lastmod>2018-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09f7/a3ca522f-f8d5-4839-a9cd-139eff8509f7/designingazurecompute_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Azure Compute and Storage Infrastructure]]></video:title>
+        <video:description><![CDATA[Designing Azure Compute and Storage Infrastructure by Bill Lee slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09f7/a3ca522f-f8d5-4839-a9cd-139eff8509f7/designingazurecompute_mid.mp4</video:content_loc>
+        <video:duration>2046</video:duration>
+        <video:publication_date>2016-05-17T21:21:10.9951711+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Azure-Network-Infrastructure</loc>
+      <lastmod>2016-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c3dd/bbd87fa5-333f-47a1-9bfa-ccf46339c3dd/azurenetwork_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Network Infrastructure]]></video:title>
+        <video:description><![CDATA[Azure Network Infrastructure by Michael Blumenthal slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c3dd/bbd87fa5-333f-47a1-9bfa-ccf46339c3dd/azurenetwork_mid.mp4</video:content_loc>
+        <video:duration>680</video:duration>
+        <video:publication_date>2016-05-17T21:14:56.8453106+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Virtualization-Containers-in-Windows-Server-2016</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4b9d/c434473f-3b43-46d7-be34-0a188a5e4b9d/virtualizationcontainers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Virtualization Containers in Windows Server 2016 ]]></video:title>
+        <video:description><![CDATA[Virtualization Containers in Windows Server 2016 by David Giard slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4b9d/c434473f-3b43-46d7-be34-0a188a5e4b9d/virtualizationcontainers_mid.mp4</video:content_loc>
+        <video:duration>1773</video:duration>
+        <video:publication_date>2016-05-16T13:00:21.0958833+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Deployment-with-ARM-templates-and-GIT</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c45f/dfda33ce-1a7e-4f3b-b069-8167d26ac45f/deploymentwitharm_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deployment with ARM templates and GIT]]></video:title>
+        <video:description><![CDATA[Deployment with ARM templates and GIT by Geremy Reiner slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c45f/dfda33ce-1a7e-4f3b-b069-8167d26ac45f/deploymentwitharm_mid.mp4</video:content_loc>
+        <video:duration>3096</video:duration>
+        <video:publication_date>2016-05-16T12:55:53.1924222+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Hybrid-IT-Management</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f450/856ef0ca-7619-4d79-a612-bccc3ae2f450/HybridIT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hybrid IT Management]]></video:title>
+        <video:description><![CDATA[Hybrid IT Management by Rishi Bhatia slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f450/856ef0ca-7619-4d79-a612-bccc3ae2f450/HybridIT_mid.mp4</video:content_loc>
+        <video:duration>2020</video:duration>
+        <video:publication_date>2016-05-16T12:23:14.5680815+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/ASR-recovery-for-protection-and-migration-from-on-premises</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5626/5dd56de3-35c2-487e-8a43-58a6e0105626/ASRRecovery_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASR recovery for protection and migration from on-premises]]></video:title>
+        <video:description><![CDATA[ASR recovery for protection and migration from on-premises by Dan Rey slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5626/5dd56de3-35c2-487e-8a43-58a6e0105626/ASRRecovery_mid.mp4</video:content_loc>
+        <video:duration>1320</video:duration>
+        <video:publication_date>2016-05-16T06:27:41.8053016+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure-and-the-Modern-Data-Center/Keynote-Why-the-Cloud-will-Change-Your-Life</loc>
+      <lastmod>2016-06-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/075b/9f992609-51c5-46ef-97b6-57f8fba7075b/keynote_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote: Why the Cloud will Change Your Life]]></video:title>
+        <video:description><![CDATA[Keynote: Why the Cloud will Change Your Life by Brian Lewis slides ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/075b/9f992609-51c5-46ef-97b6-57f8fba7075b/keynote_mid.mp4</video:content_loc>
+        <video:duration>2630</video:duration>
+        <video:publication_date>2016-05-16T06:27:16.5248737+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVP-Program</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVP-Program/MVP-Award-program-updates-February-2017</loc>
+      <lastmod>2017-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ee37/808a2250-860e-458d-8fb6-00b6f08fee37/MVPAwardProgramUpdatesFeb2017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVP Award program updates  February, 2017]]></video:title>
+        <video:description><![CDATA[Learn more about the continuous evolution of the MVP Award program and the improvements we are announcing to bring more agility and enable new learning opportunities to all MVPs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ee37/808a2250-860e-458d-8fb6-00b6f08fee37/MVPAwardProgramUpdatesFeb2017_mid.mp4</video:content_loc>
+        <video:duration>1375</video:duration>
+        <video:publication_date>2017-02-01T16:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

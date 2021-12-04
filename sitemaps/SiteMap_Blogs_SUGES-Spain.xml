@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SUGES-Spain</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SUGES-Spain/SharePoint-Saturday-Madrid-2017--Webcast-SUGES</loc>
+      <lastmod>2017-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c9e1/2aeab932-4879-45a4-9db9-0e51c5f4c9e1/SUGES_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Saturday Madrid 2017 / Webcast SUGES]]></video:title>
+        <video:description><![CDATA[Call de comunidades SharePoint ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c9e1/2aeab932-4879-45a4-9db9-0e51c5f4c9e1/SUGES_mid.mp4</video:content_loc>
+        <video:duration>4373</video:duration>
+        <video:publication_date>2017-06-20T16:50:09.1569615+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

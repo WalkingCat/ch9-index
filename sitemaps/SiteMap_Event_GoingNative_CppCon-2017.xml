@@ -1,0 +1,1927 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/136</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2b87/c8aede5b-d3fb-4a2b-8272-b1d113952b87/136_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++17 Features (part 1 of 2)]]></video:title>
+        <video:description><![CDATA[The feature set for the C&amp;#43;&amp;#43;17 release is set, and the release of the standard is just around the corner. In this session, we&#39;ll discuss all the new C&amp;#43;&amp;#43; features in C&amp;#43;&amp;#43;17 and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b87/c8aede5b-d3fb-4a2b-8272-b1d113952b87/136_mid.mp4</video:content_loc>
+        <video:duration>2939</video:duration>
+        <video:publication_date>2018-01-09T00:27:56.9453188+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/137</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e5d4/5bbb8afc-34c5-4a16-a5fc-7fc61652e5d4/137_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++17 Features (part 2 of 2)]]></video:title>
+        <video:description><![CDATA[The feature set for the C&amp;#43;&amp;#43;17 release is set, and the release of the standard is just around the corner. In this session, we&#39;ll discuss all the new C&amp;#43;&amp;#43; features in C&amp;#43;&amp;#43;17 and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5d4/5bbb8afc-34c5-4a16-a5fc-7fc61652e5d4/137_mid.mp4</video:content_loc>
+        <video:duration>3265</video:duration>
+        <video:publication_date>2018-01-09T00:27:20.0092459+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/135</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fe96/d1145c96-4e9d-42ff-a6be-9341e710fe96/135_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Runtime Polymorphism: Back to the Basics]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; solves the problem of runtime polymorphism in a very specific way. It does so through inheritance, by having all classes that will be used polymorphically inherit from the same base class,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe96/d1145c96-4e9d-42ff-a6be-9341e710fe96/135_mid.mp4</video:content_loc>
+        <video:duration>4083</video:duration>
+        <video:publication_date>2018-01-09T00:25:44.2695357+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/126</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1f71/62e6bb3b-d1b0-481b-9053-7bb14c641f71/126_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multidimensional Index Sets for Data Locality in HPC Applications]]></video:title>
+        <video:description><![CDATA[The proposed range concepts for the standard library are a significant improvement but are designed for the mental model of iterating and mapping values, not hierarchical domain decomposition. Even&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f71/62e6bb3b-d1b0-481b-9053-7bb14c641f71/126_mid.mp4</video:content_loc>
+        <video:duration>3465</video:duration>
+        <video:publication_date>2018-01-09T00:20:59.7339167+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/134</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f9e7/581fa864-b8ae-454b-99cb-4bc1d472f9e7/134_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Undefined Behaviour is awesome!]]></video:title>
+        <video:description><![CDATA[Undefined behavior (UB) is one of the features of C&amp;#43;&amp;#43; that is both loved and hated. Every C&amp;#43;&amp;#43; developer cares about performance, which is why it is very important to understand what&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f9e7/581fa864-b8ae-454b-99cb-4bc1d472f9e7/134_mid.mp4</video:content_loc>
+        <video:duration>3238</video:duration>
+        <video:publication_date>2018-01-09T00:20:19.3919704+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/133</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/84a4/1e8c0bdb-0270-4e2e-acea-5c49656284a4/133_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to break an ABI and keep your users happy]]></video:title>
+        <video:description><![CDATA[Technical debt is the bane of most established libraries, whether it is standard library or boost or local library developed in house. Paying this debt is expensive and in many cases seems infeasible.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/84a4/1e8c0bdb-0270-4e2e-acea-5c49656284a4/133_mid.mp4</video:content_loc>
+        <video:duration>2982</video:duration>
+        <video:publication_date>2018-01-09T00:15:29.1498452+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/132</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/92e2/74730349-c1d0-4372-a2ac-8fe747aa92e2/132_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++17 ParallelSTL: A Standardization Experience Report for CPU and GPU on SYCL]]></video:title>
+        <video:description><![CDATA[The most significant improvement in C&amp;#43;&amp;#43;17 will be Parallel Algorithms in the STL. But it is meant only for CPUs, as C&amp;#43;&amp;#43; does not define heterogeneous devices yet (though SG14 is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92e2/74730349-c1d0-4372-a2ac-8fe747aa92e2/132_mid.mp4</video:content_loc>
+        <video:duration>4214</video:duration>
+        <video:publication_date>2018-01-09T00:14:52.9077013+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/131</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0f33/599f3081-3f7b-4c74-883f-e53c76a00f33/131_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Meta]]></video:title>
+        <video:description><![CDATA[For the past several years, I have been researching new languages to support safe and efficient network protocol processing, specifically for software-defined networking applications. The unfortunate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f33/599f3081-3f7b-4c74-883f-e53c76a00f33/131_mid.mp4</video:content_loc>
+        <video:duration>3644</video:duration>
+        <video:publication_date>2018-01-09T00:14:19.1160806+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/130</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e043/e5ef640c-6920-40ce-a861-a48db759e043/130_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[My Little Object File: How Linkers Implement C++]]></video:title>
+        <video:description><![CDATA[Ever wonder how the linker turns your compiled C&amp;#43;&amp;#43; code into an executable file? Why the One Definition Rule exists? Or why your debug builds are so large? In this talk we&#39;ll take a deep dive&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e043/e5ef640c-6920-40ce-a861-a48db759e043/130_mid.mp4</video:content_loc>
+        <video:duration>2870</video:duration>
+        <video:publication_date>2018-01-09T00:13:41.1839275+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/129</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2486/c8ae95f1-16cc-4bef-8f75-ecb797132486/129_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding C++ modules-ts to the GNU Compiler]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; modules-ts[1] proposes a module system, with defined interfaces, implementations and importing. I shall outline the new semantics, their impact on the ABI and build systems, and discuss&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2486/c8ae95f1-16cc-4bef-8f75-ecb797132486/129_mid.mp4</video:content_loc>
+        <video:duration>3585</video:duration>
+        <video:publication_date>2018-01-09T00:13:06.2284735+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/128</loc>
+      <lastmod>2018-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/96b9/29d27282-d10d-4015-8676-34d97b3196b9/128_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/WinRT and the Future of C++ on Windows]]></video:title>
+        <video:description><![CDATA[This talk highlights efforts by Kenny Kerr, Herb Sutter, Gabriel Dos Reis, and others to make Windows a great place for C&amp;#43;&amp;#43; developers, replacing proprietary extensions and tools with standard&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/96b9/29d27282-d10d-4015-8676-34d97b3196b9/128_mid.mp4</video:content_loc>
+        <video:duration>3886</video:duration>
+        <video:publication_date>2018-01-08T23:52:17.0900390+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/127</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c82a/b3d542dc-91e5-445f-9c20-54609c95c82a/127_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Future of Texture Compression]]></video:title>
+        <video:description><![CDATA[Textures and images are everywhere in today&#39;s world. Compressing those images well improves streaming performance, video, dramatically reduces the size and download times of apps. It can give you more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c82a/b3d542dc-91e5-445f-9c20-54609c95c82a/127_mid.mp4</video:content_loc>
+        <video:duration>2304</video:duration>
+        <video:publication_date>2018-01-08T23:51:17.9888168+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/125</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6959/f4d77496-b4cc-4867-bb7e-8fae0ad86959/125_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Customizing the Standard Containers]]></video:title>
+        <video:description><![CDATA[Almost all of the the standard containers have “customization points”, ways that users can modify their behaviors. Three of the common ones are: Allocators Comparison predicates Hash functors In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6959/f4d77496-b4cc-4867-bb7e-8fae0ad86959/125_mid.mp4</video:content_loc>
+        <video:duration>3601</video:duration>
+        <video:publication_date>2018-01-08T23:39:30.2973933+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/124</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/688c/d0a2a92c-2730-4a7c-bade-629bd095688c/124_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Going Nowhere Faster]]></video:title>
+        <video:description><![CDATA[You care about the performance of your C&amp;#43;&amp;#43; code. You have followed basic patterns to make your C&amp;#43;&amp;#43; code efficient. You profiled your application or server and used the appropriate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/688c/d0a2a92c-2730-4a7c-bade-629bd095688c/124_mid.mp4</video:content_loc>
+        <video:duration>3657</video:duration>
+        <video:publication_date>2018-01-08T23:32:27.2444988+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/123</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6ea0/7297035f-f3ee-461f-ad14-ece2fc566ea0/123_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Curiously Recurring C++ Bugs at Facebook]]></video:title>
+        <video:description><![CDATA[I&#39;ve spent the last few years watching Facebook&#39;s C&amp;#43;&amp;#43; codebase grow by several orders of magnitude. Despite constantly improving abstractions, constantly improving tooling, frequent internal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ea0/7297035f-f3ee-461f-ad14-ece2fc566ea0/123_mid.mp4</video:content_loc>
+        <video:duration>3120</video:duration>
+        <video:publication_date>2018-01-08T23:31:50.1762886+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/122</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9fba/868299d0-c738-498c-8378-9509f2219fba/122_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Free Your Functions!]]></video:title>
+        <video:description><![CDATA[You are devoted to minimize coupling and duplication? You are taking care to maximize cohesion, flexibility, extensibility, encapsulation, testability, and even performance in order to achieve the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fba/868299d0-c738-498c-8378-9509f2219fba/122_mid.mp4</video:content_loc>
+        <video:duration>3701</video:duration>
+        <video:publication_date>2018-01-08T23:31:13.9019851+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/121</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c680/b1a0d15d-a677-4922-903e-39d5fa75c680/121_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing a Unified Interface for Execution]]></video:title>
+        <video:description><![CDATA[If you were to ask a C&amp;#43;&amp;#43; developer the question &amp;quot;what is execution?&amp;quot; you may get a different answer depending on who you asked. This is because execution means something different to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c680/b1a0d15d-a677-4922-903e-39d5fa75c680/121_mid.mp4</video:content_loc>
+        <video:duration>3771</video:duration>
+        <video:publication_date>2018-01-08T23:30:39.5668181+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/120</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1aa5/7d3cf66e-1c15-426d-bb33-8b600b3e1aa5/120_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ Exceptions and Stack Unwinding]]></video:title>
+        <video:description><![CDATA[Exceptions are often described as &#39;slow&#39;, and the standard advice is to use them only in exceptional circumstances. In this talk, we&#39;ll find out how slow exceptions really are by exploring the Itanium&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1aa5/7d3cf66e-1c15-426d-bb33-8b600b3e1aa5/120_mid.mp4</video:content_loc>
+        <video:duration>3071</video:duration>
+        <video:publication_date>2018-01-08T23:30:07.5053793+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/119</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dd47/c7044959-ba69-4fa4-89dd-ac8763a4dd47/119_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Allocators: The Good Parts]]></video:title>
+        <video:description><![CDATA[Memory allocators have a bad rap. Sure, they give us control, sometimes vital control, over how and where memory is allocated, but they seem so hard to use correctly. The allocator model that was&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd47/c7044959-ba69-4fa4-89dd-ac8763a4dd47/119_mid.mp4</video:content_loc>
+        <video:duration>3648</video:duration>
+        <video:publication_date>2018-01-08T23:29:34.2034567+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/118</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c0ab/4d67f9c9-02e2-4b25-8b8c-145b0e08c0ab/118_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Performance Benchmarking with Celero]]></video:title>
+        <video:description><![CDATA[Developing consistent and meaningful benchmark results for code is a complex task. Measurement tools exist (Intel&#174; VTune™ Amplifier, SmartBear AQTime, Valgrind, etc.) external to applications, but&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c0ab/4d67f9c9-02e2-4b25-8b8c-145b0e08c0ab/118_mid.mp4</video:content_loc>
+        <video:duration>2682</video:duration>
+        <video:publication_date>2018-01-08T23:29:00.7528619+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/117</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c2b8/5d00e962-732c-4f0c-96fa-f5a6c5b3c2b8/117_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[There Will Be Build Systems: I Configure Your Milkshake]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; (and C) have always had unique challenges when it comes to build systems. In addition to discussing the common problems that C&amp;#43;&amp;#43; build systems face, this talk will discuss the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c2b8/5d00e962-732c-4f0c-96fa-f5a6c5b3c2b8/117_mid.mp4</video:content_loc>
+        <video:duration>3481</video:duration>
+        <video:publication_date>2018-01-08T23:28:28.3198150+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/116</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/78ae/a64d75d0-874a-4a0d-887e-9f19315778ae/116_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++17 Parallel Algorithms]]></video:title>
+        <video:description><![CDATA[This presentation describes the C&amp;#43;&amp;#43;17 standard library parallel algorithms and how they are used. The algorithms are intended for the general software development community rather than&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78ae/a64d75d0-874a-4a0d-887e-9f19315778ae/116_mid.mp4</video:content_loc>
+        <video:duration>3426</video:duration>
+        <video:publication_date>2018-01-08T23:27:53.1955558+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/115</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/154d/b24623f8-a702-461b-a2dc-9f79f328154d/115_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[I Wish I Could Use C++ 1x/y/z]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43;11, C&amp;#43;&amp;#43;14 and C&amp;#43;&amp;#43;17 provided a sensible amount of new libraries and language features. However, for some reasons ranging from inertia or even resistance to change, up to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/154d/b24623f8-a702-461b-a2dc-9f79f328154d/115_mid.mp4</video:content_loc>
+        <video:duration>3318</video:duration>
+        <video:publication_date>2018-01-08T23:27:14.5297468+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/114</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3839/bac12471-6bce-4b0c-b3d0-64408b353839/114_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Objects, Lifetimes, and References, oh my: the C++ Object Model, and Why it Matters to You ]]></video:title>
+        <video:description><![CDATA[How does the C&amp;#43;&amp;#43; abstract machine really work at the lowest levels? Why does the committee design its rules the way they do? Gain insight into the object model of C&amp;#43;&amp;#43;, from references&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3839/bac12471-6bce-4b0c-b3d0-64408b353839/114_mid.mp4</video:content_loc>
+        <video:duration>3112</video:duration>
+        <video:publication_date>2018-01-08T23:23:46.1551064+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/113</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7d28/4a9bce21-5aaa-4aa0-a605-4a3e83917d28/113_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tools and Techniques To Stay Up-to-date With Modern C++]]></video:title>
+        <video:description><![CDATA[Since 2011, C&amp;#43;&amp;#43; has been on a massive roll. New C&amp;#43;&amp;#43; standards in 2011, 2014 and 2017. A growing number of new TSes and proposals for new features to be standardized. Following even&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d28/4a9bce21-5aaa-4aa0-a605-4a3e83917d28/113_mid.mp4</video:content_loc>
+        <video:duration>2453</video:duration>
+        <video:publication_date>2018-01-08T23:23:10.6972813+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/112</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0cac/0a91716d-daa9-4ad3-89be-413545060cac/112_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[An Interesting Lock-free Queue - Part 2 of N]]></video:title>
+        <video:description><![CDATA[This is the long awaited continuation of a previous CppCon talk (&amp;quot;Lock-free by Example&amp;quot;) on an &amp;quot;interesting&amp;quot; lock-free queue. (&amp;quot;interesting&amp;quot;? Well, &amp;quot;multi-producer,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0cac/0a91716d-daa9-4ad3-89be-413545060cac/112_mid.mp4</video:content_loc>
+        <video:duration>3905</video:duration>
+        <video:publication_date>2018-01-08T23:22:33.1132408+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/111</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5d45/e5f1b61b-9a21-4f1e-96da-2c1f2e7c5d45/111_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Soup&#231;on of SFINAE]]></video:title>
+        <video:description><![CDATA[Following on Arthur&#39;s &amp;quot;Template Normal Programming&amp;quot; from CppCon 2016, this will be a concise cookbook of SFINAE recipes — ways of getting the compiler to do one thing in one circumstance and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d45/e5f1b61b-9a21-4f1e-96da-2c1f2e7c5d45/111_mid.mp4</video:content_loc>
+        <video:duration>3676</video:duration>
+        <video:publication_date>2018-01-08T23:21:48.2278742+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/110</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3f8c/dd219370-b9e8-44d1-af66-93c283093f8c/110_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Type, by Any Other Name]]></video:title>
+        <video:description><![CDATA[No offense to Shakespeare, but in C&amp;#43;&amp;#43; there is a lot in a type name. A name represents a set of data and behaviors, and changing names is an often difficult and painful process. This could be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f8c/dd219370-b9e8-44d1-af66-93c283093f8c/110_mid.mp4</video:content_loc>
+        <video:duration>2738</video:duration>
+        <video:publication_date>2018-01-08T23:21:08.3796854+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/109</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0778/644a462e-33c1-44b5-89ef-eaa152a90778/109_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[End-to-end Deadlock Debugging Tools at Facebook]]></video:title>
+        <video:description><![CDATA[Facebook has developed tooling to help quickly find and debug several classes of concurrency bugs in Facebook&#39;s large C&amp;#43;&amp;#43; codebase. In this talk, we will focus specifically on deadlocks and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0778/644a462e-33c1-44b5-89ef-eaa152a90778/109_mid.mp4</video:content_loc>
+        <video:duration>1674</video:duration>
+        <video:publication_date>2018-01-08T23:20:31.4025824+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/108</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7554/49950a6c-fea8-4e10-8e07-9c16a9877554/108_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What C++ developers should know about globals (and the linker)]]></video:title>
+        <video:description><![CDATA[Most C&amp;#43;&amp;#43; developers know that using globals (or singletons) excessively in code is usually a poor decision. But it is also hard to deny their usefulness in more than one situation: for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7554/49950a6c-fea8-4e10-8e07-9c16a9877554/108_mid.mp4</video:content_loc>
+        <video:duration>2102</video:duration>
+        <video:publication_date>2018-01-08T23:19:54.7918913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/107</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5470/111f77cf-9715-4ab1-9a15-23c34d675470/107_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Higher-order Functions in C++: Techniques and Applications]]></video:title>
+        <video:description><![CDATA[Higher-order functions are functions that take other functions as arguments. This is very frequently used in functional languages, somewhat less so in C&amp;#43;&amp;#43;, although this is slowly changing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5470/111f77cf-9715-4ab1-9a15-23c34d675470/107_mid.mp4</video:content_loc>
+        <video:duration>3739</video:duration>
+        <video:publication_date>2018-01-08T23:19:16.4075641+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/106</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/707e/f6252afd-78c0-4b16-aa6c-568cfa16707e/106_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Traveling the Solar System with C++: Programming Rocket Science]]></video:title>
+        <video:description><![CDATA[Spacecraft travel our solar system with exquisite accuracy. It is almost commonplace to learn that a spacecraft hit bullseye to within a few seconds after over a decade of space travel. How do we do&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/707e/f6252afd-78c0-4b16-aa6c-568cfa16707e/106_mid.mp4</video:content_loc>
+        <video:duration>3259</video:duration>
+        <video:publication_date>2018-01-08T23:18:36.2283168+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/105</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9e2c/28640773-d69c-4c60-9a91-3ba90b9e9e2c/105_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Postmodern immutable data structures]]></video:title>
+        <video:description><![CDATA[The C&amp;#43;&amp;#43; elites have been talking for years about value semantics, immutability, and sharing by communicating. A better world without mutexes, races, observers, command patterns and so more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e2c/28640773-d69c-4c60-9a91-3ba90b9e9e2c/105_mid.mp4</video:content_loc>
+        <video:duration>3959</video:duration>
+        <video:publication_date>2018-01-08T23:18:00.3917056+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/104</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fb0b/90244f89-1d2d-4a37-9864-4247c8d2fb0b/104_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fantastic Algorithms and Where To Find Them]]></video:title>
+        <video:description><![CDATA[Come dive into some exciting algorithms — tools rare enough to be novel, but useful enough to be found in practice. Want to learn about &amp;quot;heavy hitters&amp;quot; to prevent DOS attacks? Come to this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb0b/90244f89-1d2d-4a37-9864-4247c8d2fb0b/104_mid.mp4</video:content_loc>
+        <video:duration>2817</video:duration>
+        <video:publication_date>2018-01-08T23:17:22.9221075+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/103</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3abb/22f1b364-ca0e-49f5-aeee-c8270cc03abb/103_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microcontrollers in Micro-increments : A Test-driven C++ Workflow for Embedded Systems ]]></video:title>
+        <video:description><![CDATA[Baby steps are safe steps. Making small moves in code, driven by tests, and continuously refactoring helps to keep embedded development on the right track. With test-driven development we can move&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3abb/22f1b364-ca0e-49f5-aeee-c8270cc03abb/103_mid.mp4</video:content_loc>
+        <video:duration>3677</video:duration>
+        <video:publication_date>2018-01-08T23:16:43.2905370+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/102</loc>
+      <lastmod>2018-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f72a/257e65ba-eb9a-4aae-a590-ac8004acf72a/102_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step]]></video:title>
+        <video:description><![CDATA[Hash tables consume a large volume of both compute resources and memory across Google&#39;s production system. The design for hash tables in C&amp;#43;&amp;#43; traces its origins to the SGI STL implementation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f72a/257e65ba-eb9a-4aae-a590-ac8004acf72a/102_mid.mp4</video:content_loc>
+        <video:duration>3573</video:duration>
+        <video:publication_date>2018-01-08T23:16:08.0316699+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/101</loc>
+      <lastmod>2018-03-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cfe6/5ef8b686-579f-4c3f-afc9-6f00abfecfe6/101_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Howling at the Moon: Lua for C++ Programmers]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; is a great tool for solving complex problems in a thorough way. But every once in a while, the desire for a simpler language emerges. For those parts of our code where performance is of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfe6/5ef8b686-579f-4c3f-afc9-6f00abfecfe6/101_mid.mp4</video:content_loc>
+        <video:duration>1952</video:duration>
+        <video:publication_date>2018-01-08T23:15:30.4812358+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/100</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1baf/e5095e42-bf05-473a-8287-9b3a9d591baf/100_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside the Qt Object Model]]></video:title>
+        <video:description><![CDATA[Programming your application with Qt means that you will sooner or later encounter the central QObject class, signal &amp;amp; slot connections, or generic properties. The object model makes it safe and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1baf/e5095e42-bf05-473a-8287-9b3a9d591baf/100_mid.mp4</video:content_loc>
+        <video:duration>1786</video:duration>
+        <video:publication_date>2018-01-08T23:14:46.5065780+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/099</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c32e/9ffb935a-8bf2-41ef-9938-6f6cb1bec32e/099_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding the runtime behaviors of C++ programs using uftrace tool]]></video:title>
+        <video:description><![CDATA[This talk will present the uftrace function graph tracing tool, which was first introduced at CppCon last year. The uftrace tool utilizes function instrumentation techniques from compilers to provide&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c32e/9ffb935a-8bf2-41ef-9938-6f6cb1bec32e/099_mid.mp4</video:content_loc>
+        <video:duration>1806</video:duration>
+        <video:publication_date>2018-01-08T23:10:57.7802152+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/098</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9fc9/185a05f7-24ed-4fce-9aa6-f7cee4ab9fc9/098_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Optimizing compilation times with Templates]]></video:title>
+        <video:description><![CDATA[At Facebook, the main bottlenecks in build times are caused by auto-generated code from our core RPC Framework. Through the use of templates we were able to obtain up to 50% build speedup in our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fc9/185a05f7-24ed-4fce-9aa6-f7cee4ab9fc9/098_mid.mp4</video:content_loc>
+        <video:duration>1725</video:duration>
+        <video:publication_date>2018-01-08T23:10:21.9060807+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/097</loc>
+      <lastmod>2018-03-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ab49/fd2c86af-d134-435f-bc83-867eb7b5ab49/097_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Holy Grail! A Hash Array Mapped Trie for C++]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; has a handful of associative containers. We started with set and map, both based on node-based red-black trees. These are fine but are not the most efficient and, in particular, suffer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab49/fd2c86af-d134-435f-bc83-867eb7b5ab49/097_mid.mp4</video:content_loc>
+        <video:duration>3083</video:duration>
+        <video:publication_date>2018-01-08T23:09:46.5230508+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/096</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a232/488fd827-9805-44bd-b997-0438f139a232/096_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Eight Ways to Handle Non-blocking Returns in Message-passing Programs: from C++98 via C++11 to C++20 ]]></video:title>
+        <video:description><![CDATA[Shared-Nothing approach of &amp;quot;sharing memory by communicating&amp;quot; (instead of &amp;quot;communicating by sharing memory&amp;quot;) gets more and more traction in the development world; this is not to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a232/488fd827-9805-44bd-b997-0438f139a232/096_mid.mp4</video:content_loc>
+        <video:duration>3510</video:duration>
+        <video:publication_date>2018-01-08T23:09:10.5699893+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/095</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4332/3177638b-9024-4393-b6bb-9a8b0e1e4332/095_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[So, you inherited a large code base...]]></video:title>
+        <video:description><![CDATA[This is a talk about solving the most difficult problem a software engineer ever faces, converting a large codebase with antiquated designs and spotty quality into a state-of-the-art, modern system.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4332/3177638b-9024-4393-b6bb-9a8b0e1e4332/095_mid.mp4</video:content_loc>
+        <video:duration>3274</video:duration>
+        <video:publication_date>2018-01-08T23:08:34.9368452+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/094</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f190/9a6f6995-9ad0-4921-b688-e61eb1cff190/094_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[LauncherOne rocket with C++ engine]]></video:title>
+        <video:description><![CDATA[Abstract: The most important aspects of rocket safety software development, from an idea, design, implementation to testing. Safe design patterns and critical error handling in fault tolerant systems.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f190/9a6f6995-9ad0-4921-b688-e61eb1cff190/094_mid.mp4</video:content_loc>
+        <video:duration>3703</video:duration>
+        <video:publication_date>2018-01-08T23:07:56.1451956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/093</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9f1c/435f71ce-3b1c-49ca-8b1e-24c3c3e69f1c/093_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Naked coroutines live (with networking)]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; Coroutines come naked. Just the language feature, no library support apart from a few traits that allow developing coroutine adaptors. In this session we will start with just a compiler&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f1c/435f71ce-3b1c-49ca-8b1e-24c3c3e69f1c/093_mid.mp4</video:content_loc>
+        <video:duration>3840</video:duration>
+        <video:publication_date>2018-01-08T23:07:16.4467529+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/092</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d502/9a3fe461-7ee8-4a3a-b5d1-d233c537d502/092_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ and Persistent Memory Technologies, Like Intel&#39;s 3D-XPoint]]></video:title>
+        <video:description><![CDATA[With the advent of a new, persistent-memory-enabled world, the current software industry must prepare for changes. Looking forward to meet the new requirements set by this new type of hardware, a new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d502/9a3fe461-7ee8-4a3a-b5d1-d233c537d502/092_mid.mp4</video:content_loc>
+        <video:duration>4106</video:duration>
+        <video:publication_date>2018-01-08T23:06:28.4612360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/091</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6e56/de878485-5bb1-486e-9d94-53012f746e56/091_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Tour of Deep Learning With C++]]></video:title>
+        <video:description><![CDATA[Deep Learning is a subfield of artificial intelligence that employs deep neural network architectures and novel learning algorithms to achieve state of the art results in image classification, speech&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e56/de878485-5bb1-486e-9d94-53012f746e56/091_mid.mp4</video:content_loc>
+        <video:duration>3300</video:duration>
+        <video:publication_date>2018-01-08T23:05:50.3294624+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/090</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f6e3/8e253977-e8bb-4751-af84-e6481b6df6e3/090_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Write a Custom Allocator]]></video:title>
+        <video:description><![CDATA[You&#39;d like to improve the performance of your application with regard to memory management, and you believe this can be accomplished by writing a custom allocator. But where do you start? Modern&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6e3/8e253977-e8bb-4751-af84-e6481b6df6e3/090_mid.mp4</video:content_loc>
+        <video:duration>3819</video:duration>
+        <video:publication_date>2018-01-08T23:05:07.7637773+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/089</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ca36/71e32092-1394-4f64-a7ed-bedaaf53ca36/089_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Practical Techniques for Improving C++ Build Times]]></video:title>
+        <video:description><![CDATA[Slow builds block all C&amp;#43;&amp;#43; developers from the work being done. At Facebook we have a huge codebase, where the time spent compiling C&amp;#43;&amp;#43; sources grows significantly faster than the size&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca36/71e32092-1394-4f64-a7ed-bedaaf53ca36/089_mid.mp4</video:content_loc>
+        <video:duration>3351</video:duration>
+        <video:publication_date>2018-01-08T23:04:24.1277993+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/088</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8b8a/97f192fb-f204-4d54-882d-6655a79e8b8a/088_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mix Tests and Production Code With Doctest - Implementing and Using the Fastest Modern C++ Testing&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Not a typical talk about testing. Here are some quotes from the Program Committee about it: &amp;quot;Seeing a talk proposal about a new unit test framework made me quite skeptical. But then I looked at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b8a/97f192fb-f204-4d54-882d-6655a79e8b8a/088_mid.mp4</video:content_loc>
+        <video:duration>3080</video:duration>
+        <video:publication_date>2018-01-08T23:03:49.1136459+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/087</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b58d/d9174a3d-dad9-465f-b190-b9d97b64b58d/087_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Asynchronous C++ Parallel Programming Model]]></video:title>
+        <video:description><![CDATA[With the advent of modern computer architectures characterized by — amongst other things —many-core nodes, deep and complex memory hierarchies, heterogeneous subsystems, and power-aware components, it&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b58d/d9174a3d-dad9-465f-b190-b9d97b64b58d/087_mid.mp4</video:content_loc>
+        <video:duration>4005</video:duration>
+        <video:publication_date>2018-01-08T23:03:07.9357588+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/086</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3f09/2c5deb72-17fa-49d6-a4fa-4f313f543f09/086_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reader-Writer Lock versus Mutex - Understanding a Lost Bet]]></video:title>
+        <video:description><![CDATA[Mutexes have frequently been observed to outperform reader-writer locks in domains where, logically, reader-writer locks should dominate. I was recently given an opportunity to address this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f09/2c5deb72-17fa-49d6-a4fa-4f313f543f09/086_mid.mp4</video:content_loc>
+        <video:duration>2520</video:duration>
+        <video:publication_date>2018-01-08T23:02:25.9833303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/085</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/55cc/fca01237-611f-4aa5-a835-e4d3637755cc/085_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Make Classes Great Again! (Using Concepts for Customization Points)]]></video:title>
+        <video:description><![CDATA[Learn new ways to think about class design, that you can apply to your own projects! In this talk we&#39;ll start with a simple class that models an HTTP message. We’ll go over the limitations of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/55cc/fca01237-611f-4aa5-a835-e4d3637755cc/085_mid.mp4</video:content_loc>
+        <video:duration>2638</video:duration>
+        <video:publication_date>2018-01-08T23:01:52.0417098+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/084</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1e2f/912d5bd7-61fa-4a7f-abe1-354f24061e2f/084_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Effective Qt (2017 edition)]]></video:title>
+        <video:description><![CDATA[The title of this talk pays tribute to the &amp;quot;Effective Qt&amp;quot; columns, a series of blog posts started by Marc Mutz many years ago, whose title was in turn inspired by Scott Meyer&#39;s book series.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e2f/912d5bd7-61fa-4a7f-abe1-354f24061e2f/084_mid.mp4</video:content_loc>
+        <video:duration>3667</video:duration>
+        <video:publication_date>2018-01-08T23:01:18.2755842+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/083</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/298f/199697d2-fbe4-4518-aa57-df109e61298f/083_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Practical Patterns with the Networking TS]]></video:title>
+        <video:description><![CDATA[Networking is coming to a standard near you — but how do you use it? Based on similar concepts found in Boost.Asio, the Networking TS provides a rich API for synchronous and asynchronous network&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/298f/199697d2-fbe4-4518-aa57-df109e61298f/083_mid.mp4</video:content_loc>
+        <video:duration>3664</video:duration>
+        <video:publication_date>2018-01-08T23:00:37.3860839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/082</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/53e5/b851dcab-d243-4074-b377-2e7e130553e5/082_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reflection]]></video:title>
+        <video:description><![CDATA[For the past year or so, I have worked with Herb Sutter on language support for compile-time programming, reflection, metaclasses, and code injection for the C&amp;#43;&amp;#43; programming language. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53e5/b851dcab-d243-4074-b377-2e7e130553e5/082_mid.mp4</video:content_loc>
+        <video:duration>3653</video:duration>
+        <video:publication_date>2018-01-08T22:59:56.7469717+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/081</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8a29/60d1fa74-983e-4791-86c2-28e9dd3f8a29/081_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building for the Best of Us: Design and Development with Kids in Mind]]></video:title>
+        <video:description><![CDATA[Building an API easy enough for kids to understand (in C&amp;#43;&amp;#43;) is a challenge. Every design decision, from the circuit board to the plastic can effect the results. We&#39;ll talk about product&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a29/60d1fa74-983e-4791-86c2-28e9dd3f8a29/081_mid.mp4</video:content_loc>
+        <video:duration>3497</video:duration>
+        <video:publication_date>2018-01-08T22:59:17.3090119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/080</loc>
+      <lastmod>2021-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2cbd/1817dcde-2d7a-4daa-ad61-b023b4c52cbd/080_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Compile-time reflection, Serialization and ORM]]></video:title>
+        <video:description><![CDATA[We will discuss what reflection is and how it can be implemented in Modern C&amp;#43;&amp;#43;. The techniques used will include a mix of C&amp;#43;&amp;#43;11/14 features (void_t, tuple, index_sequence, variadic&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2cbd/1817dcde-2d7a-4daa-ad61-b023b4c52cbd/080_mid.mp4</video:content_loc>
+        <video:duration>2173</video:duration>
+        <video:publication_date>2018-01-08T22:58:36.1748970+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/079</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5b0c/ec1508e0-5f10-4cfe-b44e-f3eedf8d5b0c/079_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Audio Programming in C++]]></video:title>
+        <video:description><![CDATA[Game audio programming is a sort of dark art practiced and understood by its few practitioners, but audio is an important and vibrant part of any game. There is a huge body of knowledge and history&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b0c/ec1508e0-5f10-4cfe-b44e-f3eedf8d5b0c/079_mid.mp4</video:content_loc>
+        <video:duration>3072</video:duration>
+        <video:publication_date>2018-01-08T22:42:40.0339200+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/078</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/eafa/6404680b-2c87-41b5-be8c-edfa93d1eafa/078_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Type Punning in C++17: Avoiding Pun-defined Behavior]]></video:title>
+        <video:description><![CDATA[Type punning, treating a type as though it is a different type, has a long and sordid history in C and C&amp;#43;&amp;#43;. But, as much as we&#39;d like to deny its existence, it plays an important role in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eafa/6404680b-2c87-41b5-be8c-edfa93d1eafa/078_mid.mp4</video:content_loc>
+        <video:duration>3907</video:duration>
+        <video:publication_date>2018-01-08T22:41:53.1917669+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/077</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4ff8/c1a71824-94d1-4115-a33d-30f35b4e4ff8/077_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Test a Day Keeps Your Manager Away!]]></video:title>
+        <video:description><![CDATA[This session will present how to leverage C&amp;#43;&amp;#43;&#39;s diverse set of analysis tools with existing Continuous Integration services to increase a project&#39;s quality continuously over time. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ff8/c1a71824-94d1-4115-a33d-30f35b4e4ff8/077_mid.mp4</video:content_loc>
+        <video:duration>3635</video:duration>
+        <video:publication_date>2018-01-08T22:41:02.8353188+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/076</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9bf4/528bc1da-97ce-4833-a66c-5000bc219bf4/076_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building C++ Modules]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; Modules TS is now implemented (to various degrees) by GCC, Clang, and MSVC. The aim of this talk is to provide practical information on the mechanics of creating and consuming modules with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9bf4/528bc1da-97ce-4833-a66c-5000bc219bf4/076_mid.mp4</video:content_loc>
+        <video:duration>4005</video:duration>
+        <video:publication_date>2018-01-08T22:40:07.6042432+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/075</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cf63/bad7d09f-217a-4448-9087-6a084c75cf63/075_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Undefined Behavior in 2017 (part 2 of 2)]]></video:title>
+        <video:description><![CDATA[Undefined behavior is a clear and present danger for all application code written in C&amp;#43;&amp;#43;. The most pressing relevance is to security, but really the issue is one of general software&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf63/bad7d09f-217a-4448-9087-6a084c75cf63/075_mid.mp4</video:content_loc>
+        <video:duration>1560</video:duration>
+        <video:publication_date>2018-01-08T22:39:18.0108035+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/074</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/40dc/c5f8d946-3bd6-44f9-a68c-bf24522640dc/074_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Undefined Behavior in 2017 (part 1 of 2)]]></video:title>
+        <video:description><![CDATA[Undefined behavior is a clear and present danger for all application code written in C&amp;#43;&amp;#43;. The most pressing relevance is to security, but really the issue is one of general software&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/40dc/c5f8d946-3bd6-44f9-a68c-bf24522640dc/074_mid.mp4</video:content_loc>
+        <video:duration>2962</video:duration>
+        <video:publication_date>2018-01-08T22:36:33.7743300+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/073</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e8d8/b59a6767-a18b-4373-87bb-8ffad85fe8d8/073_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Read, Copy, Update, then what? RCU for non-kernel programmers]]></video:title>
+        <video:description><![CDATA[RCU (Read, Copy, Update) is often the highest-performing way to implement concurrent data structures. The differences in performance between an RCU implementation and the next best alternative can be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8d8/b59a6767-a18b-4373-87bb-8ffad85fe8d8/073_mid.mp4</video:content_loc>
+        <video:duration>4081</video:duration>
+        <video:publication_date>2018-01-08T22:35:48.9670201+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/072</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/703a/738ea7d1-b39c-4ef5-87a4-0d013db6703a/072_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Local (&#39;Arena&#39;) Memory Allocators (part 1 of 2)]]></video:title>
+        <video:description><![CDATA[Are allocators worth the trouble? What situations merit their use? How are they applied effectually? What’s the performance impact? This practical talk by large scale C&amp;#43;&amp;#43; expert Dr. John Lakos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/703a/738ea7d1-b39c-4ef5-87a4-0d013db6703a/072_mid.mp4</video:content_loc>
+        <video:duration>3604</video:duration>
+        <video:publication_date>2018-01-08T22:35:02.9891055+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/071</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2e42/b0d07268-a717-4885-9c1a-a649d0992e42/071_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ Templates Revised]]></video:title>
+        <video:description><![CDATA[In 2003 we published &amp;quot;C&amp;#43;&amp;#43; Templates - The Complete Guide&amp;quot;. Now, 14 years and 3 major C&amp;#43;&amp;#43; versions later, we are publishing the second edition. The content grew and changed&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e42/b0d07268-a717-4885-9c1a-a649d0992e42/071_mid.mp4</video:content_loc>
+        <video:duration>3640</video:duration>
+        <video:publication_date>2018-01-08T22:34:23.2220827+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/070</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1e9e/52419fda-b789-4d5a-9812-a29563731e9e/070_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Naivety of Creating Cross-Platform, Modern C++ Libraries: A Tour Of Our Challenges and Successes ]]></video:title>
+        <video:description><![CDATA[The AWS SDK for C&amp;#43;&amp;#43; was designed with a few important tenets. Modern C&amp;#43;&amp;#43; (versions 11 and later), Cross-Platform, User Customization with sane defaults, and no dependencies. A year&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e9e/52419fda-b789-4d5a-9812-a29563731e9e/070_mid.mp4</video:content_loc>
+        <video:duration>3465</video:duration>
+        <video:publication_date>2018-01-08T22:33:27.8624777+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/069</loc>
+      <lastmod>2021-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/90ae/cd037efe-b353-44a6-ba2c-58bd8e7390ae/069_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Driving Into the Future With Modern C++: A Look at Adaptive Autosar]]></video:title>
+        <video:description><![CDATA[Software development of automotive control units has long been in the hands of hardcore C developers. With the increasing need for high-performing, multi-core processors and for applications that can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90ae/cd037efe-b353-44a6-ba2c-58bd8e7390ae/069_mid.mp4</video:content_loc>
+        <video:duration>3410</video:duration>
+        <video:publication_date>2018-01-08T22:32:06.2500583+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/068</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/14d8/30aff231-26fe-4ffe-9d55-3286284714d8/068_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Boost Your Programs Health by Adding Fibers to your Coroutine]]></video:title>
+        <video:description><![CDATA[This session is intended to help the advanced programmer to understand what coroutines and fibers are, what problems they solve and how they should be applied in practice. The session begins with an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/14d8/30aff231-26fe-4ffe-9d55-3286284714d8/068_mid.mp4</video:content_loc>
+        <video:duration>3837</video:duration>
+        <video:publication_date>2018-01-08T22:31:25.6556110+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/067</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dc56/11e70458-075c-443e-b355-bed939b1dc56/067_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10 Core Guidelines You Need to Start Using Now]]></video:title>
+        <video:description><![CDATA[The C&amp;#43;&amp;#43; Core Guidelines were announced at CppCon 2015, yet some developers have still never heard of them. It&#39;s time to see what they have to offer for you, no matter how much C&amp;#43;&amp;#43;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc56/11e70458-075c-443e-b355-bed939b1dc56/067_mid.mp4</video:content_loc>
+        <video:duration>3752</video:duration>
+        <video:publication_date>2018-01-08T22:30:42.6705773+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/066</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2805/66b2897b-69c8-4801-bc31-9ac7ce952805/066_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[API &amp; ABI Versioning: How to Handle Compatibility With Your C++ Libraries ]]></video:title>
+        <video:description><![CDATA[Software keeps changing, but not always as fast as its clients. A key to maintaining a library in the long run is to ensure a proper versioning of the API and ABI. Not only does this gives a clear&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2805/66b2897b-69c8-4801-bc31-9ac7ce952805/066_mid.mp4</video:content_loc>
+        <video:duration>3615</video:duration>
+        <video:publication_date>2018-01-08T22:29:59.0608069+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/065</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e9a1/d0df30a5-9e31-44f5-a2e3-1ba22113e9a1/065_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bringing Clang-tidy Magic to Visual Studio C++ Developers]]></video:title>
+        <video:description><![CDATA[“A 14 year old code base under active development, 2.5 million lines of C&amp;#43;&amp;#43; code, a few brave nerds, two powerful tools and one hot summer…”, or “How we managed to clang-tidy our whole code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e9a1/d0df30a5-9e31-44f5-a2e3-1ba22113e9a1/065_mid.mp4</video:content_loc>
+        <video:duration>3634</video:duration>
+        <video:publication_date>2018-01-08T22:29:12.9452002+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/064</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d0a4/27f6b683-cfdc-452e-ae2b-24d67dbcd0a4/064_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Seventeenification: Porting sqlpp11 to C++17]]></video:title>
+        <video:description><![CDATA[The ink on C&amp;#43;&amp;#43;17 has merely dried, but the major compilers support most features already. It&#39;s high time for a reality check! This talk is a report about the ongoing effort of porting sqlpp11&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0a4/27f6b683-cfdc-452e-ae2b-24d67dbcd0a4/064_mid.mp4</video:content_loc>
+        <video:duration>3059</video:duration>
+        <video:publication_date>2018-01-08T22:28:28.7411630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/063</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9d96/fbef2938-aecd-476d-899c-d156cd209d96/063_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web | C++]]></video:title>
+        <video:description><![CDATA[Have you ever tried writing a web application with C&amp;#43;&amp;#43;? Can opening a file and serving it via HTTP be as simple as writing 20 lines of python? With the undeniable importance of web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d96/fbef2938-aecd-476d-899c-d156cd209d96/063_mid.mp4</video:content_loc>
+        <video:duration>2480</video:duration>
+        <video:publication_date>2018-01-08T22:27:41.3519324+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/062</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ebfa/ad9920d3-a79c-4e78-ba31-a735eef9ebfa/062_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ThinLTO: Scalable and Incremental Link-Time Optimization]]></video:title>
+        <video:description><![CDATA[Whole program optimization enables higher performance in C&amp;#43;&amp;#43; applications, because of the expanded scope for analysis and optimization. However, the memory and time required to optimize the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebfa/ad9920d3-a79c-4e78-ba31-a735eef9ebfa/062_mid.mp4</video:content_loc>
+        <video:duration>3719</video:duration>
+        <video:publication_date>2018-01-08T22:26:54.5980325+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/061</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7d5a/e0f757f3-8b23-44ea-8b7e-99367d9b7d5a/061_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Delegate this! Designing with delegates in modern C++]]></video:title>
+        <video:description><![CDATA[Designing a fast IP stack from scratch is hard. Using delegates made it all easier for IncludeOS, the open source library operating system written from scratch in modern C&amp;#43;&amp;#43;. Our header-only&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d5a/e0f757f3-8b23-44ea-8b7e-99367d9b7d5a/061_mid.mp4</video:content_loc>
+        <video:duration>3490</video:duration>
+        <video:publication_date>2018-01-08T22:26:11.1559471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/060</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8005/0b0f202f-d00b-4b3d-a6ae-10c27b4b8005/060_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Class Template Argument Deduction: A New Abstraction]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43;17 is often quoted as “just a better C&amp;#43;&amp;#43;14”, suggesting that nothing is new, nothing is changing the way we program. This talk presents class template argument deduction as a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8005/0b0f202f-d00b-4b3d-a6ae-10c27b4b8005/060_mid.mp4</video:content_loc>
+        <video:duration>2885</video:duration>
+        <video:publication_date>2018-01-08T22:25:21.1902382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/059</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5485/cf8792e4-96de-48e7-a5ee-647c79875485/059_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tools from the C++ eco-system to save a leg]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; gives you enough rope to shoot your leg off. Readable (and thus easy to maintain, easy to support) and error-free code in C&amp;#43;&amp;#43; is often hard to achieve. And while modern C&amp;#43;&amp;#43;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5485/cf8792e4-96de-48e7-a5ee-647c79875485/059_mid.mp4</video:content_loc>
+        <video:duration>3123</video:duration>
+        <video:publication_date>2018-01-08T22:24:29.2029885+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/058</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1c90/a83a8c8a-9ce6-41f5-89ff-d92c3dee1c90/058_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hands-On With Abseil]]></video:title>
+        <video:description><![CDATA[An introduction to the design and compatibility goals for Abseil - Google&#39;s new common C&amp;#43;&amp;#43; libraries project. I&#39;ll summarize some style points and policies that affect Abseil and its users,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c90/a83a8c8a-9ce6-41f5-89ff-d92c3dee1c90/058_mid.mp4</video:content_loc>
+        <video:duration>3533</video:duration>
+        <video:publication_date>2018-01-08T22:23:45.3270917+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/057</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/77c2/879bece1-39a1-43b0-844e-b0ac823c77c2/057_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Practical C++17]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43;17 adds many new features: structured bindings, deduction guides, if-init expressions, fold expressions, if constexpr, and enhanced constexpr support in the standard library. Each of these&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77c2/879bece1-39a1-43b0-844e-b0ac823c77c2/057_mid.mp4</video:content_loc>
+        <video:duration>3648</video:duration>
+        <video:publication_date>2018-01-08T22:23:02.4044374+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/056</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9219/41297db8-50ef-43af-a679-4a1a0d249219/056_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Postmodern C++]]></video:title>
+        <video:description><![CDATA[The term &amp;quot;Modern C&amp;#43;&amp;#43;&amp;quot; can be traced back to Andrei Alexandrescu&#39;s &amp;quot;Modern C&amp;#43;&amp;#43; Design&amp;quot;, published in February 2001. Much has changed since then. Alexandrescu is off&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9219/41297db8-50ef-43af-a679-4a1a0d249219/056_mid.mp4</video:content_loc>
+        <video:duration>3077</video:duration>
+        <video:publication_date>2018-01-08T22:22:21.5253673+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/055</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7499/18a039ff-e2ec-427c-924c-3a9723387499/055_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Local (&#39;Arena&#39;) Memory Allocators (part 2 of 2)]]></video:title>
+        <video:description><![CDATA[Are allocators worth the trouble? What situations merit their use? How are they applied effectually? What’s the performance impact? This practical talk by large scale C&amp;#43;&amp;#43; expert Dr. John Lakos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7499/18a039ff-e2ec-427c-924c-3a9723387499/055_mid.mp4</video:content_loc>
+        <video:duration>3713</video:duration>
+        <video:publication_date>2018-01-08T22:21:35.4087277+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/054</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/34b6/b267d6fa-f046-48d3-a02f-41e5a17c34b6/054_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing A Feature That Doesn&#39;t Fit]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; is a wonderful and expressive language, that gives programmers a lot of freedom even though it actively seeks to let programmers obtain the maximal performance from their hardware. It so&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/34b6/b267d6fa-f046-48d3-a02f-41e5a17c34b6/054_mid.mp4</video:content_loc>
+        <video:duration>3083</video:duration>
+        <video:publication_date>2018-01-08T22:20:45.7495810+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/053</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e970/b1d5d065-af0d-411c-9452-5523f001e970/053_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Functional Programming Patterns to build a clean and simple HTTP routing API]]></video:title>
+        <video:description><![CDATA[Web services are flourishing, and C&amp;#43;&amp;#43; has some great libraries (such as Boost/Asio &amp;#43; Beast or CppRestSdk) which we can use as the basis to build such services. Yet it is still relatively&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e970/b1d5d065-af0d-411c-9452-5523f001e970/053_mid.mp4</video:content_loc>
+        <video:duration>3328</video:duration>
+        <video:publication_date>2018-01-08T22:19:57.0243410+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/052</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/859d/10db7783-bc28-4e83-8170-01c4b96f859d/052_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multithreading is the answer. What is the question? (part 2 of 2)]]></video:title>
+        <video:description><![CDATA[The main focus of this talk will be about the importance of lockless containers and RCU technology. The value of this approach will be explained and why it was added to libGuarded. I will also cover&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/859d/10db7783-bc28-4e83-8170-01c4b96f859d/052_mid.mp4</video:content_loc>
+        <video:duration>2969</video:duration>
+        <video:publication_date>2018-01-08T22:19:07.2307471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/051</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b9d5/24826cb3-1fd4-4230-9e87-461ea3b5b9d5/051_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Agent based class design]]></video:title>
+        <video:description><![CDATA[Abstracting a set of functionalities into a class which provides a higher level interface often requires tough design decisions. Users who do not have the exact requirements for which the abstraction&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b9d5/24826cb3-1fd4-4230-9e87-461ea3b5b9d5/051_mid.mp4</video:content_loc>
+        <video:duration>3516</video:duration>
+        <video:publication_date>2018-01-08T22:18:25.0045048+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/050</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/17e8/1ee3672c-923d-4397-85ac-3b43fa1b17e8/050_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CNL: A Compositional Numeric Library]]></video:title>
+        <video:description><![CDATA[CNL is a numerics library born out of efforts to standardize fixed-point arithmetic. It provides number types which increase precision, enforce correctness and maintain efficiency. And by designing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/17e8/1ee3672c-923d-4397-85ac-3b43fa1b17e8/050_mid.mp4</video:content_loc>
+        <video:duration>3625</video:duration>
+        <video:publication_date>2018-01-08T22:17:40.1020547+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/049</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/19e5/97e8f34c-fc6f-4357-9b01-356d23ff19e5/049_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Recreational C++]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43; is a language full of curiosities, and entices the curious. This session will will walk through half a dozen little code explorations of ideas that might have been solved in 5 minutes, but&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19e5/97e8f34c-fc6f-4357-9b01-356d23ff19e5/049_mid.mp4</video:content_loc>
+        <video:duration>3770</video:duration>
+        <video:publication_date>2018-01-08T22:03:50.5190906+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/048</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dadb/2507cad5-90a6-4664-9549-633614a9dadb/048_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Concurrency, Parallelism and Coroutines]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43;17 is adding parallel overloads of most of the Standard Library algorithms. There is a TS for Concurrency in C&amp;#43;&amp;#43; already published, and a TS for Coroutines in C&amp;#43;&amp;#43; and a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dadb/2507cad5-90a6-4664-9549-633614a9dadb/048_mid.mp4</video:content_loc>
+        <video:duration>3923</video:duration>
+        <video:publication_date>2018-01-08T22:02:56.8280795+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/047</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/71c0/afe05732-189f-4c76-a8d3-f30522cc71c0/047_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multithreading is the answer. What is the question? (part 1 of 2)]]></video:title>
+        <video:description><![CDATA[The main focus of this talk will be about the importance of lockless containers and RCU technology. The value of this approach will be explained and why it was added to libGuarded. I will also cover&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71c0/afe05732-189f-4c76-a8d3-f30522cc71c0/047_mid.mp4</video:content_loc>
+        <video:duration>2811</video:duration>
+        <video:publication_date>2018-01-08T22:02:12.7494214+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/046</loc>
+      <lastmod>2018-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c64d/3ea54699-6502-471e-a144-6f17fca5c64d/046_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Modern CMake Patterns to Enforce a Good Modular Design]]></video:title>
+        <video:description><![CDATA[CMake is the build system chosen by most open-source C&amp;#43;&amp;#43; projects. While it is fully capable of helping you enforce a good modular design, those features are usually not well known or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c64d/3ea54699-6502-471e-a144-6f17fca5c64d/046_mid.mp4</video:content_loc>
+        <video:duration>3459</video:duration>
+        <video:publication_date>2018-01-08T22:01:06.7691772+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/045</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1e38/754b0a66-3256-40e4-83bd-358344971e38/045_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MPark.Patterns: Pattern Matching in C++]]></video:title>
+        <video:description><![CDATA[Pattern matching brings a declarative approach to destructuring and inspecting complex data types. It’s a very powerful abstraction provided by many programming languages such as Haskell and OCaml,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e38/754b0a66-3256-40e4-83bd-358344971e38/045_mid.mp4</video:content_loc>
+        <video:duration>3612</video:duration>
+        <video:publication_date>2018-01-08T22:00:18.6607646+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/044</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d55f/d5cfc3e2-93fd-4312-8109-bc1243b3d55f/044_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[dynamic_cast From Scratch]]></video:title>
+        <video:description><![CDATA[This session will introduce you to the C&amp;#43;&amp;#43; object model: the rules by which C&amp;#43;&amp;#43; class objects are translated into memory layouts. We&#39;ll quickly cover polymorphic class types and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d55f/d5cfc3e2-93fd-4312-8109-bc1243b3d55f/044_mid.mp4</video:content_loc>
+        <video:duration>3528</video:duration>
+        <video:publication_date>2018-01-08T21:58:56.2169271+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/043</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6157/72a4a6d6-2920-49e8-a13a-3f2d7c7b6157/043_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cross-Platform Apps with Dropboxs Djinni: In-Production Architecture Examples]]></video:title>
+        <video:description><![CDATA[Djinni is a tool developed by Dropbox for cross-platform C&amp;#43;&amp;#43; development. This session will give an overview of mobile cross-platform C&amp;#43;&amp;#43; development, an explanation of what Djinni&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6157/72a4a6d6-2920-49e8-a13a-3f2d7c7b6157/043_mid.mp4</video:content_loc>
+        <video:duration>2929</video:duration>
+        <video:publication_date>2018-01-08T21:57:35.1351330+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/042</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/96ef/66f7a97f-4e71-48b8-a639-4200c61996ef/042_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mocking Frameworks considered harmful]]></video:title>
+        <video:description><![CDATA[However, you might have existing code bases or want to rely on external libraries that may make writing effective and fast unit tests hard or even near to impossible. A typical work-around for these&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/96ef/66f7a97f-4e71-48b8-a639-4200c61996ef/042_mid.mp4</video:content_loc>
+        <video:duration>3678</video:duration>
+        <video:publication_date>2018-01-08T21:56:21.4655337+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/041</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c687/75bd3714-6e5d-425f-beaf-ac632ebac687/041_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Function default arguments: Slingshot or Shotgun?]]></video:title>
+        <video:description><![CDATA[On the surface, function parameter default arguments seem like a very simple feature of the C&amp;#43;&amp;#43; language. This session explores how (not) true that is. If you like the dark corners of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c687/75bd3714-6e5d-425f-beaf-ac632ebac687/041_mid.mp4</video:content_loc>
+        <video:duration>3629</video:duration>
+        <video:publication_date>2018-01-08T21:55:25.7584703+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/040</loc>
+      <lastmod>2018-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/eec2/5f378fd1-ed14-483d-9950-edfb5184eec2/040_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Everything You Ever Wanted to Know about DLLs]]></video:title>
+        <video:description><![CDATA[If you build software for Windows, you use DLLs, and it’s likely that you may build DLLs of your own. DLLs are the primary mechanism for packaging and encapsulating code on the Windows platform. But&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eec2/5f378fd1-ed14-483d-9950-edfb5184eec2/040_mid.mp4</video:content_loc>
+        <video:duration>3747</video:duration>
+        <video:publication_date>2018-01-08T21:54:31.6904547+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/039</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2faf/3eb2910d-ad97-4c75-9c10-25dbe0bd2faf/039_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Nightmare of Move Semantics for Trivial Classes]]></video:title>
+        <video:description><![CDATA[Assume, we implement a very simple class having just multiple string members. Even ordinary application programmer prefer to make it simple and fast. You think you know how to do it? Well beware! It&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2faf/3eb2910d-ad97-4c75-9c10-25dbe0bd2faf/039_mid.mp4</video:content_loc>
+        <video:duration>3435</video:duration>
+        <video:publication_date>2018-01-08T21:53:14.3760483+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/038</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b89e/276d4dce-fa06-45aa-9487-17de0301b89e/038_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Design Patterns for Low-Level Real-Time Rendering]]></video:title>
+        <video:description><![CDATA[In recent years, the GPU graphics community has seen the introduction of many new GPU programming APIs like Khronos&#39; Vulkan, Microsoft&#39;s Direct3D 12, and Apple&#39;s Metal. These APIs present much more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b89e/276d4dce-fa06-45aa-9487-17de0301b89e/038_mid.mp4</video:content_loc>
+        <video:duration>3272</video:duration>
+        <video:publication_date>2018-01-08T21:52:10.3136378+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/037</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/604c/d1756e0c-1bec-4afa-b76e-586a5aed604c/037_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Write Effective Documentation for C++ Libraries with Minimal Effort ]]></video:title>
+        <video:description><![CDATA[With the success of GitHub, everybody and his brother is a library developer. Programmers love to create code, upload it to GitHub and hope for immortality. Most projects get only the most cursory&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/604c/d1756e0c-1bec-4afa-b76e-586a5aed604c/037_mid.mp4</video:content_loc>
+        <video:duration>3738</video:duration>
+        <video:publication_date>2018-01-08T21:51:12.4081994+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/036</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7986/4eb6a7ee-ed58-4f57-ae66-ace806767986/036_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Grill the Committee]]></video:title>
+        <video:description><![CDATA[What would you like to know about the C&amp;#43;&amp;#43; standard? Join us for a panel discussion with the leaders of the C&amp;#43;&amp;#43; standards committee where the audience asks the questions. This we&#39;ve got&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7986/4eb6a7ee-ed58-4f57-ae66-ace806767986/036.mp4</video:content_loc>
+        <video:duration>5298</video:duration>
+        <video:publication_date>2018-01-08T21:50:12.9596544+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/035</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/82b8/5c0ad8cc-485c-4284-a269-93d4f93d82b8/035_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fuzz or lose: why and how to make fuzzing a standard practice for C++ ]]></video:title>
+        <video:description><![CDATA[Fuzzing is a family of testing techniques in which test inputs are generated semi-randomly. The memory unsafety of C&amp;#43;&amp;#43; has made fuzzing a popular tool among security researchers. Fuzzing also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/82b8/5c0ad8cc-485c-4284-a269-93d4f93d82b8/035_mid.mp4</video:content_loc>
+        <video:duration>1836</video:duration>
+        <video:publication_date>2018-01-08T21:49:07.9022086+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/034</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cfae/1be0c4d0-9251-4f22-9dc0-a643fe1fcfae/034_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[folly::Function: A Non-copyable Alternative to std::function]]></video:title>
+        <video:description><![CDATA[We have often found it limiting that std::function cannot store callable objects if they are not copyable, so we developed and open-sourced folly::Function, a function wrapper that can store move-only&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfae/1be0c4d0-9251-4f22-9dc0-a643fe1fcfae/034_mid.mp4</video:content_loc>
+        <video:duration>1877</video:duration>
+        <video:publication_date>2018-01-08T21:47:36.2678649+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/033</loc>
+      <lastmod>2021-10-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e3e3/e0821fcf-568a-4e16-b776-d92926b4e3e3/033_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enough x86 Assembly to Be Dangerous]]></video:title>
+        <video:description><![CDATA[This tutorial is an introduction to x86 assembly language aimed at C&amp;#43;&amp;#43; programmers of all levels who are interested in what the compiler does with their source code. C&amp;#43;&amp;#43; is a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e3e3/e0821fcf-568a-4e16-b776-d92926b4e3e3/033_mid.mp4</video:content_loc>
+        <video:duration>1858</video:duration>
+        <video:publication_date>2018-01-08T21:46:07.6279477+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/032</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3217/5c708f6d-c042-469b-b719-88bc38c73217/032_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From security to performance to GPU programming: exploring modern allocators ]]></video:title>
+        <video:description><![CDATA[Want to make fast linked lists? Want to store sensitive data in memory? Want to place std::unordered_map in thread-local memory? Shared memory? How about GPU memory? You can do that in today’s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3217/5c708f6d-c042-469b-b719-88bc38c73217/032_mid.mp4</video:content_loc>
+        <video:duration>1641</video:duration>
+        <video:publication_date>2018-01-08T21:45:06.5064067+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/031</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f082/a5fd9662-030b-4ce5-bb19-34d6c427f082/031_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating a C++03 library to C++11 case study: Wt 4]]></video:title>
+        <video:description><![CDATA[In this talk, we will describe the effort of migrating the API of a reasonably large open source library to C&amp;#43;&amp;#43;11. During the migration we wanted to benefit from as many new C&amp;#43;&amp;#43;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f082/a5fd9662-030b-4ce5-bb19-34d6c427f082/031_mid.mp4</video:content_loc>
+        <video:duration>1443</video:duration>
+        <video:publication_date>2018-01-08T21:43:46.5545212+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/030</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/79ea/14e4dae5-2c32-4ee9-9ebe-547a471879ea/030_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ atomics, from basic to advanced. What do they really do?]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43;11 introduced atomic operations. They allowed C&amp;#43;&amp;#43; programmers to express a lot of control over how memory is used in concurrent programs and made portable lock-free concurrency&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/79ea/14e4dae5-2c32-4ee9-9ebe-547a471879ea/030_mid.mp4</video:content_loc>
+        <video:duration>4461</video:duration>
+        <video:publication_date>2018-01-08T21:42:49.6370620+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/029</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b829/7b8ae272-6e8e-4ce5-a89a-e57a8e1eb829/029_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enhanced Support for Value Semantics in C++17]]></video:title>
+        <video:description><![CDATA[Value semantics has been promoted in the C&amp;#43;&amp;#43; community for a long time, for reasons such as referential transparency, avoidance of memory management issues, and even efficiency in some cases.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b829/7b8ae272-6e8e-4ce5-a89a-e57a8e1eb829/029_mid.mp4</video:content_loc>
+        <video:duration>3606</video:duration>
+        <video:publication_date>2018-01-08T21:16:47.8913743+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/028</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2f41/3078a4bf-f725-4b6a-813f-81c4a4322f41/028_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Esoteric Data Structures and Where to Find Them]]></video:title>
+        <video:description><![CDATA[We already have array, vector, and unordered_map, what other data structures could we possibly need? As it turns out, there are a lot of them and they come from all areas of software! Curious to learn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f41/3078a4bf-f725-4b6a-813f-81c4a4322f41/028_mid.mp4</video:content_loc>
+        <video:duration>1804</video:duration>
+        <video:publication_date>2018-01-08T21:16:04.2478802+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/027</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6888/1e9e6304-6bc9-4fde-8c3b-26c63d396888/027_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Better Worlds: Developing a Procedural City Tool for Alien: Covenant ]]></video:title>
+        <video:description><![CDATA[When MPC was asked to create a massive CG city for the film Alien: Covenant, they looked to leverage procedural generation as a means for iterating on the overall shape and structure of the city, in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6888/1e9e6304-6bc9-4fde-8c3b-26c63d396888/027_mid.mp4</video:content_loc>
+        <video:duration>1778</video:duration>
+        <video:publication_date>2018-01-08T21:13:39.0295109+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/026</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1419/7b6bae7d-b0c3-4041-b14b-37377c031419/026_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Faster Delivery of Large C/C++ Projects with Conan Package Manager and Efficient Continuous&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Dependency information together with the smart management of binaries and binary compatibility of Conan package manager can be used to implement a modularized, fast and efficient Continuous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1419/7b6bae7d-b0c3-4041-b14b-37377c031419/026_mid.mp4</video:content_loc>
+        <video:duration>4107</video:duration>
+        <video:publication_date>2018-01-08T21:12:44.4308538+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/025</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5f21/a2881a55-dec3-4b7c-852a-310d7bea5f21/025_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A modern formatting library for C++]]></video:title>
+        <video:description><![CDATA[Come learn about the intricacies of C&amp;#43;&amp;#43; formatting, from stdio to iostream to the new standard proposal P0645R0: Text Formatting. The new proposal combines variadic templates with a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f21/a2881a55-dec3-4b7c-852a-310d7bea5f21/025_mid.mp4</video:content_loc>
+        <video:duration>3654</video:duration>
+        <video:publication_date>2018-01-08T21:11:54.0497688+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/024</loc>
+      <lastmod>2018-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f3c8/f7f70f14-b053-49a3-9a05-2d940709f3c8/024_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[An allocator model for std2]]></video:title>
+        <video:description><![CDATA[C&amp;#43;&amp;#43;17 reserves the namespace std2 (and others) for future iterations of the standard library that may not be 100% compatible in design with the current namespace std. This session will suggest&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3c8/f7f70f14-b053-49a3-9a05-2d940709f3c8/024_mid.mp4</video:content_loc>
+        <video:duration>3435</video:duration>
+        <video:publication_date>2018-01-08T21:11:11.2737859+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/023</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2fdc/c4d13a73-aff0-44ea-92f3-c7f1a1a32fdc/023_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deconstructing the OS: The devils In the side effects]]></video:title>
+        <video:description><![CDATA[IncludeOS is a library operating system, where your C&amp;#43;&amp;#43; application pulls in exactly what it needs and turns it into a bootable binary. But once you have your standalone program with standard&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2fdc/c4d13a73-aff0-44ea-92f3-c7f1a1a32fdc/023_mid.mp4</video:content_loc>
+        <video:duration>3497</video:duration>
+        <video:publication_date>2018-01-08T21:10:22.6391276+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/022</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5015/d59fc0b2-2474-4405-8af9-4f7275115015/022_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Is Parallel Programming still hard? PART 2 of 2]]></video:title>
+        <video:description><![CDATA[Most embedded devices are multicore, and we see concurrency becoming ubiquitous for machine learning, machine vision, and self-driving cars. Thus the age of concurrency is upon us, so whether you like&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5015/d59fc0b2-2474-4405-8af9-4f7275115015/022_mid.mp4</video:content_loc>
+        <video:duration>2876</video:duration>
+        <video:publication_date>2018-01-08T21:07:16.5102260+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/021</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c741/3f16a035-714e-4cf4-94a0-a63feb92c741/021_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Is Parallel Programming still hard? PART 1 of 2]]></video:title>
+        <video:description><![CDATA[Most embedded devices are multicore, and we see concurrency becoming ubiquitous for machine learning, machine vision, and self-driving cars. Thus the age of concurrency is upon us, so whether you like&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c741/3f16a035-714e-4cf4-94a0-a63feb92c741/021_mid.mp4</video:content_loc>
+        <video:duration>3567</video:duration>
+        <video:publication_date>2018-01-08T21:05:33.5426068+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/020</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c39f/b06e08ed-ec68-4d17-93d3-8bf90e66c39f/020_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unicode Strings: Why the Implementation Matters]]></video:title>
+        <video:description><![CDATA[We will provide a brief overview including an explanation of what Unicode is, string terminology, and how Unicode supports non US languages. We will cover the pros and cons of various String formats&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c39f/b06e08ed-ec68-4d17-93d3-8bf90e66c39f/020_mid.mp4</video:content_loc>
+        <video:duration>3529</video:duration>
+        <video:publication_date>2018-01-08T21:04:45.6808834+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/019</loc>
+      <lastmod>2018-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/62bd/31148a20-511b-4de4-9657-60ffd93562bd/019_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[When a Microsecond Is an Eternity: High Performance Trading Systems in C++]]></video:title>
+        <video:description><![CDATA[Automated trading involves submitting electronic orders rapidly when opportunities arise. But it’s harder than it seems: either your system is the fastest and you make the trade, or you get nothing.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62bd/31148a20-511b-4de4-9657-60ffd93562bd/019_mid.mp4</video:content_loc>
+        <video:duration>3606</video:duration>
+        <video:publication_date>2018-01-08T21:03:51.9445622+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/018</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/47d6/a8751f14-e3b5-4599-ab33-e7c5020447d6/018_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Almost Unlimited Modern C++ in Kernel-Mode Applications]]></video:title>
+        <video:description><![CDATA[Rian Quinn&#39;s &amp;quot;Making C&amp;#43;&amp;#43; and the STL Work in the Linux/Windows Kernels&amp;quot; from CppCon 2016 showed the difficulty of making C&amp;#43;&amp;#43; code work correctly in kernel mode. For some&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/47d6/a8751f14-e3b5-4599-ab33-e7c5020447d6/018_mid.mp4</video:content_loc>
+        <video:duration>3067</video:duration>
+        <video:publication_date>2018-01-08T21:02:48.0013387+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/017</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/856c/133fc6d8-ada2-453a-b53b-2e217a49856c/017_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[EAs Secret Weapon: Packages and Modules]]></video:title>
+        <video:description><![CDATA[A lot of people hate build systems. What if using a library was just as easy as header-only libraries? EA has had a Secret Weapon called “packages” for over 14 years. EA&#39;s Packages are like Ruby’s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/856c/133fc6d8-ada2-453a-b53b-2e217a49856c/017_mid.mp4</video:content_loc>
+        <video:duration>3332</video:duration>
+        <video:publication_date>2018-01-08T21:01:54.3113388+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/016</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0909/59027a47-b0dd-442a-8ca4-007c85c80909/016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Time Travel Debugging: Root Causing Bugs in Commercial Scale Software ]]></video:title>
+        <video:description><![CDATA[We’ve all heard horror stories about bugs that were near-impossible to root-cause, and many of us have at least a few stories of our own. Corrupted or uninitialized memory. Resource leaks. API misuse&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0909/59027a47-b0dd-442a-8ca4-007c85c80909/016_mid.mp4</video:content_loc>
+        <video:duration>3634</video:duration>
+        <video:publication_date>2018-01-08T21:00:58.7544837+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/015</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2ed3/b25b268d-3889-4c0f-b371-71dc7f102ed3/015_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[constexpr ALL the Things!]]></video:title>
+        <video:description><![CDATA[constexpr: in C&amp;#43;&amp;#43;11, a curiosity; in C&amp;#43;&amp;#43;14, viable for more uses; now with added power, in C&amp;#43;&amp;#43;17 will it become an important tool in the programmer&#39;s toolkit? In this talk we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ed3/b25b268d-3889-4c0f-b371-71dc7f102ed3/015_mid.mp4</video:content_loc>
+        <video:duration>4212</video:duration>
+        <video:publication_date>2018-01-08T21:00:08.2492098+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/014</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/795f/e20728d3-4e37-4eb2-bf7b-bb47bec9795f/014_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Coroutines: what can&#39;t they do?]]></video:title>
+        <video:description><![CDATA[Coroutines are coming. They&#39;re coming for your asynchronous operations. They&#39;re coming for your lazy generators. This much we know. But once they&#39;re here, will they be satisfied with these offerings?&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/795f/e20728d3-4e37-4eb2-bf7b-bb47bec9795f/014_mid.mp4</video:content_loc>
+        <video:duration>2898</video:duration>
+        <video:publication_date>2018-01-08T20:59:18.3978075+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/013</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/689c/f1fbe44a-22f0-4cfc-8d15-3355cd3a689c/013_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern C++ Interfaces: Complexity, Emergent Simplicity, SFINAE, and Second Order Properties of Types]]></video:title>
+        <video:description><![CDATA[We examine how the increasing complexity of language features related to interfaces in modern C&amp;#43;&amp;#43; has somewhat surprisingly produced increasing simplicity in the interfaces themselves. One of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/689c/f1fbe44a-22f0-4cfc-8d15-3355cd3a689c/013_mid.mp4</video:content_loc>
+        <video:duration>3388</video:duration>
+        <video:publication_date>2018-01-08T20:57:47.6619327+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/012</loc>
+      <lastmod>2018-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6463/77a5b6ca-2dbe-4bbd-a885-aa9692856463/012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ Development with Visual Studio Code]]></video:title>
+        <video:description><![CDATA[If you’re looking for a fast and lightweight code editor, Visual Studio Code has you covered. Come get an overview of Visual Studio Code along with the C&amp;#43;&amp;#43; extension that enables editing,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6463/77a5b6ca-2dbe-4bbd-a885-aa9692856463/012_mid.mp4</video:content_loc>
+        <video:duration>3655</video:duration>
+        <video:publication_date>2018-01-08T20:57:02.7044654+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/011</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e4ed/eb31f275-1144-440c-a0bb-ad50fa75e4ed/011r_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Quiet Little Gem in Modern C++: system_error]]></video:title>
+        <video:description><![CDATA[Amongst the loud fanfare of C&amp;#43;&amp;#43;11 arrived this quiet little gem of ＜system_error＞, with std::error_code and std::error_condition born from the heart of boost::asio. With Committee input they&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e4ed/eb31f275-1144-440c-a0bb-ad50fa75e4ed/011r_mid.mp4</video:content_loc>
+        <video:duration>4424</video:duration>
+        <video:publication_date>2018-01-08T20:56:05.0154306+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/010</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a3a6/11bace9b-9b92-4307-8097-cadb52dda3a6/010_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[New standards to the rescue: the view through an IDEs glasses]]></video:title>
+        <video:description><![CDATA[We often talk about how new language features can help developers to write more accurate and concise code. There is another type of discussion to be had on how tools help leverage language issues and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3a6/11bace9b-9b92-4307-8097-cadb52dda3a6/010_mid.mp4</video:content_loc>
+        <video:duration>1847</video:duration>
+        <video:publication_date>2018-01-08T20:55:16.0377509+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/009</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8104/16c3c5fe-5bfc-4021-9ee9-a8c025508104/009_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Latest &amp; Greatest in Visual Studio for C++ developers]]></video:title>
+        <video:description><![CDATA[Visual Studio 2017 was released this year and brings all sort of new functionality for C&amp;#43;&amp;#43; developers on any platform, not just Windows. In this talk, we&#39;ll cover many of the new features of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8104/16c3c5fe-5bfc-4021-9ee9-a8c025508104/009_mid.mp4</video:content_loc>
+        <video:duration>3697</video:duration>
+        <video:publication_date>2018-01-08T20:24:19.1837926+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/008</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6411/7cc66859-c4db-49c1-a92f-e0d081f26411/008_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Which Machine Am I Coding To?]]></video:title>
+        <video:description><![CDATA[When writing a C&amp;#43;&amp;#43; program, we tend to think of the strengths and weaknesses of our computer, just as we think of our algorithms, data structures, and probably of language features we want to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6411/7cc66859-c4db-49c1-a92f-e0d081f26411/008_mid.mp4</video:content_loc>
+        <video:duration>2956</video:duration>
+        <video:publication_date>2018-01-08T20:23:29.2399539+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/007</loc>
+      <lastmod>2018-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e940/11c4ff51-fac8-425d-9722-f15944ace940/007_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Programming with C++ Constraints: Background, Utility, and Gotchas]]></video:title>
+        <video:description><![CDATA[Compile-time constraints will likely soon become part of our routine C&amp;#43;&amp;#43; programming vocabulary. Why? Such constraints are induced by new core language features (requires-clauses and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e940/11c4ff51-fac8-425d-9722-f15944ace940/007_mid.mp4</video:content_loc>
+        <video:duration>3769</video:duration>
+        <video:publication_date>2018-01-08T20:22:44.3640144+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/006</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/91d9/eab25764-22ce-484c-a895-9a299e6a91d9/006_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing (New) C++ Hardware]]></video:title>
+        <video:description><![CDATA[You can run C&amp;#43;&amp;#43; on any computer you want, as long as it pretends it is an 80’s computer. Conveniently most computers pretend to be 80’s computers – with extras, but nothing too radical –&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91d9/eab25764-22ce-484c-a895-9a299e6a91d9/006_mid.mp4</video:content_loc>
+        <video:duration>3596</video:duration>
+        <video:publication_date>2018-01-08T20:21:58.2847268+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/005</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0821/179621a6-a3a7-412f-9a43-29b760d10821/005_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What Has My Compiler Done for Me Lately? Unbolting the Compiler&#39;s Lid]]></video:title>
+        <video:description><![CDATA[In 2012, Matt and a colleague were arguing whether it was efficient to use the then-new-fangled range for. During the discussion a bash script was written to quickly compile C&amp;#43;&amp;#43; source and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0821/179621a6-a3a7-412f-9a43-29b760d10821/005_mid.mp4</video:content_loc>
+        <video:duration>4545</video:duration>
+        <video:publication_date>2018-01-08T20:21:12.8981199+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/004</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9802/bca680e5-9fda-4af7-a48c-5ef7832e9802/004_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Qt as a C++ Framework: History, Present State and Future]]></video:title>
+        <video:description><![CDATA[Qt is one of the largest and most widely used C&amp;#43;&amp;#43; frameworks. It is fully cross-platform, covering all functionality required to develop advanced graphical applications. The talk will go&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9802/bca680e5-9fda-4af7-a48c-5ef7832e9802/004_mid.mp4</video:content_loc>
+        <video:duration>5404</video:duration>
+        <video:publication_date>2018-01-08T20:20:16.3654877+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/003</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3c19/ebb22c52-33f0-428e-ad11-dbde84f73c19/003_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Meta: Thoughts on generative C++]]></video:title>
+        <video:description><![CDATA[Two years ago, I started to focus on exploring ways that we might evolve the C&amp;#43;&amp;#43; language itself to make C&amp;#43;&amp;#43; programming both more powerful and simpler. The only way to accomplish both&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c19/ebb22c52-33f0-428e-ad11-dbde84f73c19/003_mid.mp4</video:content_loc>
+        <video:duration>6464</video:duration>
+        <video:publication_date>2018-01-08T20:19:25.8896134+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/002</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0354/b99662c5-08b1-4918-a916-fb1ebc4e0354/002_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ as a &quot;Live at Head&quot; Language]]></video:title>
+        <video:description><![CDATA[Engineering is programming integrated over time. That is to say, as much as it can be difficult to get your code to build and run correctly, it is manifestly harder to keep it working in the face of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0354/b99662c5-08b1-4918-a916-fb1ebc4e0354/002_mid.mp4</video:content_loc>
+        <video:duration>5473</video:duration>
+        <video:publication_date>2018-01-08T20:18:34.1135997+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GoingNative/CppCon-2017/001</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/21ab/10e8428f-231a-4ef0-a9db-cba485a921ab/001_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learning and Teaching Modern C++]]></video:title>
+        <video:description><![CDATA[We – attendees at CppCon – are all teachers. Some teach for a living; many occasionally teach a course or give a lecture; essentially all give advice about how to learn C&amp;#43;&amp;#43; or how to use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/21ab/10e8428f-231a-4ef0-a9db-cba485a921ab/001_mid.mp4</video:content_loc>
+        <video:duration>5920</video:duration>
+        <video:publication_date>2018-01-08T20:18:19.2305058+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatisierte-Konfiguration-Azure-Ueberblick</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatisierte-Konfiguration-Azure-Ueberblick/Azure-Config-Teil-5</loc>
+      <lastmod>2015-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e09/808e157d-997b-4964-9f4e-33a480ec8e09/201515AzureConfig5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 5: Tipps &amp; Tricks]]></video:title>
+        <video:description><![CDATA[Zum Abschluss sprechen wir &#252;ber die Vor- und Nachteile der drei ausgew&#228;hlten Technologien (Windows PowerShell, Custom Script via Azure Extensions und Desired State Configuration) und vergleichen sie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e09/808e157d-997b-4964-9f4e-33a480ec8e09/201515AzureConfig5_mid.mp4</video:content_loc>
+        <video:duration>779</video:duration>
+        <video:publication_date>2015-05-14T11:41:33.8779726+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatisierte-Konfiguration-Azure-Ueberblick/Azure-Config-Teil-4</loc>
+      <lastmod>2015-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5759/b8b68e9f-f1fb-4450-8e60-277061035759/201515AzureConfig4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 4: Desired State Configuration]]></video:title>
+        <video:description><![CDATA[Ausnahmsweise ist nicht der Weg das Ziel, sondern das Ziel steht im Mittelpunkt. Bei Desired State Configuration (DSC) definiert man, wie eine Konfiguration aussehen soll und nicht, wie man dorthin&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5759/b8b68e9f-f1fb-4450-8e60-277061035759/201515AzureConfig4_mid.mp4</video:content_loc>
+        <video:duration>1321</video:duration>
+        <video:publication_date>2015-05-14T11:41:26.4210708+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatisierte-Konfiguration-Azure-Ueberblick/Azure-Config-Teil-3</loc>
+      <lastmod>2015-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca7a/6d1831be-fc57-4c66-abda-462ffe97ca7a/201515AzureConfig3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 3: Custom Scripts via Azure Extensions]]></video:title>
+        <video:description><![CDATA[Azure-VMs k&#246;nnen durch Erweiterungen (Extensions) zus&#228;tzliche Funktionalit&#228;ten bekommen. Eine dieser Erweiterungen sind Custom Scripts. In diesem dritten Teil des Kurses werden die PowerShell-Skripte&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca7a/6d1831be-fc57-4c66-abda-462ffe97ca7a/201515AzureConfig3_mid.mp4</video:content_loc>
+        <video:duration>1581</video:duration>
+        <video:publication_date>2015-05-14T11:41:16.2007775+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatisierte-Konfiguration-Azure-Ueberblick/Azure-Config-Teil-2</loc>
+      <lastmod>2015-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f6d3/1b5a124c-55c6-4df9-94dc-2b0780d8f6d3/201515AzureConfig2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 2: PowerShell Remoting]]></video:title>
+        <video:description><![CDATA[PowerShell Remoting wird in diesem zweiten Teil des Kurses als Konfigurationswerkzeug vorgestellt, um auf Azure-VMs Installationen und Konfigurationen durchzuf&#252;hren. Mitmachen:Ein Azure-Testkonto ist&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6d3/1b5a124c-55c6-4df9-94dc-2b0780d8f6d3/201515AzureConfig2_mid.mp4</video:content_loc>
+        <video:duration>1875</video:duration>
+        <video:publication_date>2015-05-14T11:41:06.3824398+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Automatisierte-Konfiguration-Azure-Ueberblick/Azure-Config-Teil-1</loc>
+      <lastmod>2015-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a5ab/97de43ea-3e48-4b2a-9deb-7bf73d04a5ab/201515AzureConfig1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 1: Vorbereitung &amp; Szenario]]></video:title>
+        <video:description><![CDATA[Der erste Teil gibt einen &#220;berblick &#252;ber die Inhalte und den Ablauf dieses Kurses, indem die verwendeten Technologien vorgestellt werden und aufgezeigt wird, f&#252;r wen dieser Kurs von Interesse sein&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a5ab/97de43ea-3e48-4b2a-9deb-7bf73d04a5ab/201515AzureConfig1_mid.mp4</video:content_loc>
+        <video:duration>721</video:duration>
+        <video:publication_date>2015-05-14T11:40:41.6997909+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

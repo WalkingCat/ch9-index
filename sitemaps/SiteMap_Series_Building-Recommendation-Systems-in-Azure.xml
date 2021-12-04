@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Building-Recommendation-Systems-in-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Building-Recommendation-Systems-in-Azure/05--Recommendations-API-in-Azure-Marketplace</loc>
+      <lastmod>2015-09-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f721/805848a5-c18f-4dcf-a0fa-6026732af721/05RecommendationsAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Recommendations API in Azure Marketplace]]></video:title>
+        <video:description><![CDATA[In the final module I look into the Machine Learning API&#39;s provided in the AzureML gallery, in particular the Recommendations API. Using the provided sample application, I highlight how to use the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f721/805848a5-c18f-4dcf-a0fa-6026732af721/05RecommendationsAPI_mid.mp4</video:content_loc>
+        <video:duration>1063</video:duration>
+        <video:publication_date>2015-09-05T17:34:23.7461988+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Building-Recommendation-Systems-in-Azure/04--Content-Based-Filtering--Hybrid-MatchBox-Recommender-in-AzureML</loc>
+      <lastmod>2018-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4b1d/76b477bc-96d1-4abd-96ff-623f3dc44b1d/04ContentBasedFiltering_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Content-Based Filtering &amp; Hybrid: MatchBox Recommender in AzureML]]></video:title>
+        <video:description><![CDATA[In the second but last module, I look into the other popular recommendation approach: content-based filtering, extending it to a hybrid recommender later on. Here, I use the MatchBox recommender&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4b1d/76b477bc-96d1-4abd-96ff-623f3dc44b1d/04ContentBasedFiltering_mid.mp4</video:content_loc>
+        <video:duration>1987</video:duration>
+        <video:publication_date>2015-09-05T17:34:03.8398986+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Building-Recommendation-Systems-in-Azure/03--Collaborative-Filtering-Association-Rules-in-R--AzureML</loc>
+      <lastmod>2018-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa21/b6007995-f630-4a5e-997f-c1226cc6aa21/03CollaborativeFiltering_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Collaborative Filtering: Association Rules in R &amp; AzureML ]]></video:title>
+        <video:description><![CDATA[In the third module, I will go into more detail on one of the main recommendation approaches: collaborative filtering. Here, I will show how to create association rules in RStudio and then how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa21/b6007995-f630-4a5e-997f-c1226cc6aa21/03CollaborativeFiltering_mid.mp4</video:content_loc>
+        <video:duration>2036</video:duration>
+        <video:publication_date>2015-09-05T17:32:26.9472884+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Building-Recommendation-Systems-in-Azure/02--Targeted-Marketing-in-Azure-Machine-Learning</loc>
+      <lastmod>2017-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a1d/b3175ed3-97d6-4a8f-8ef4-ebe5581e5a1d/02TargetedMarketing_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Targeted Marketing in Azure Machine Learning]]></video:title>
+        <video:description><![CDATA[In the second module, I first give a short introduction to Azure Machine Learning and then go through a binary classification problem taken from the targeted marketing space in a step-by-step manner.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a1d/b3175ed3-97d6-4a8f-8ef4-ebe5581e5a1d/02TargetedMarketing_mid.mp4</video:content_loc>
+        <video:duration>2147</video:duration>
+        <video:publication_date>2015-09-05T17:31:53.7544051+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Building-Recommendation-Systems-in-Azure/01--Machine-Learning--Recommenders</loc>
+      <lastmod>2019-07-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b361/992854c3-9d47-4a59-8bf6-8dfb4d21b361/01MachineLearningRecommenders_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Machine Learning &amp; Recommenders]]></video:title>
+        <video:description><![CDATA[In the first module of this MVA course, I will give a short introduction on machine learning, primarily why and when to learn. Following that, I will go into one particular scenario where machine&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b361/992854c3-9d47-4a59-8bf6-8dfb4d21b361/01MachineLearningRecommenders_mid.mp4</video:content_loc>
+        <video:duration>1712</video:duration>
+        <video:publication_date>2015-09-05T17:30:27.7395309+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

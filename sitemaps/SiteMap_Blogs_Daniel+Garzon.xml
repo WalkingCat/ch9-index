@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Publicacion-de-Aplicaciones-Web-ASPNET</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/7/3/3/7/4/PublicacionASPdesdeVS_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Publicaci&#243;n de Aplicaciones Web ASP.NET]]></video:title>
+        <video:description><![CDATA[Marc Rubi&#241;o nos ense&#241;a c&#243;mo configurar correctamente Internet Information Services (IIS) y publicar una aplicaci&#243;n web utilizando las herramientas de Visual Studio.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/7/3/3/7/4/PublicacionASPdesdeVS_ch9.mp4</video:content_loc>
+        <video:duration>636</video:duration>
+        <video:publication_date>2009-06-23T14:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/C-MFC-Feature-Pack</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/6/3/3/7/4/MPC_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[C++ MFC Feature Pack]]></video:title>
+        <video:description><![CDATA[Rafael Ontivero, MVP de C&amp;#43;&amp;#43;, nos da unos ejemplos usando el C&amp;#43;&amp;#43; MFC Feature pack.
+  
+Crear una aplicaci&#243;n usando el Ribbon de Office  y otra con el de Visual Studio… ver su&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/6/3/3/7/4/MPC_ch9.mp4</video:content_loc>
+        <video:duration>806</video:duration>
+        <video:publication_date>2009-06-16T13:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Introduccion-a-Stubs</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/6/0/1/7/4/Stubs_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a Stubs]]></video:title>
+        <video:description><![CDATA[Unai Zorrilla, Development Team Lead de Plainconcepts, continua la introduccion a Stubs empezada en
+
+Introduccion a PEX.
+
+    Stubs es un ligero framework para .NET que esta completamente basado&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/6/0/1/7/4/Stubs_ch9.mp4</video:content_loc>
+        <video:duration>2728</video:duration>
+        <video:publication_date>2009-06-08T13:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Introduccion-a-PEX</loc>
+      <lastmod>2016-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/6/0/1/7/4/PEX_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introduccion a PEX]]></video:title>
+        <video:description><![CDATA[    Unai Zorrilla, Development Team Lead de Plainconcepts, nos hace una introduccion a PEX.
+
+    Pex encuentra valores interesantes de entrada-salida para los m&#233;todos, para usarlos en el testeo del&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/6/0/1/7/4/PEX_ch9.mp4</video:content_loc>
+        <video:duration>3406</video:duration>
+        <video:publication_date>2009-06-04T14:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Mantenimiento-de-Sesiones</loc>
+      <lastmod>2019-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/5/0/1/7/4/MantenimientoSesiones_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Mantenimiento de Sesiones]]></video:title>
+        <video:description><![CDATA[    Jose Manuel Alarc&#243;n Agu&#237;n, director general y director tecnico de Krasis, nos muestra una aproximaci&#243;n para evitar que caduque la sesi&#243;n en escenarios con operaciones de larga duraci&#243;n.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/5/0/1/7/4/MantenimientoSesiones_ch9.mp4</video:content_loc>
+        <video:duration>1324</video:duration>
+        <video:publication_date>2009-06-02T14:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Uso-de-certificados-en-NET</loc>
+      <lastmod>2015-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/0/9/0/7/4/EncryptingWithCertificates_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Uso de certificados en .NET]]></video:title>
+        <video:description><![CDATA[
+    Jose Fco Bonnin, CTO en Payvision, nos ense&#241;a a realizar las operaciones esenciales con certificados. 
+    Partiendo de un certificado de prueba, veremos como cifrar y descifrar datos y c&#243;mo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/0/9/0/7/4/EncryptingWithCertificates_ch9.mp4</video:content_loc>
+        <video:duration>1463</video:duration>
+        <video:publication_date>2009-05-29T14:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Reporting-Services-22-Report-Builder-20</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/4/0/0/7/4/SSRSReportBuilder2_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Creaci&#243;n de Informes: Report Builder 2.0]]></video:title>
+        <video:description><![CDATA[    Ibon Landa, Arquitecto Software en AvanGroup, nos da un paseo por SQL Server Reporting Services.
+  
+    En este video, aprenderemos a generar informes utilizando el Report Builder 2.0
+ 
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/4/0/0/7/4/SSRSReportBuilder2_ch9.mp4</video:content_loc>
+        <video:duration>579</video:duration>
+        <video:publication_date>2009-05-27T07:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Reporting-Services-12</loc>
+      <lastmod>2018-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/4/0/0/7/4/SSRSp1_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Creaci&#243;n de Informes]]></video:title>
+        <video:description><![CDATA[    Ibon Landa, Arquitecto Software en AvanGroup, nos acerca a SQL Server Reporting Services.
+  
+    En este video aprenderemos a crear un informe, c&#243;mo publicarlo y finalmente c&#243;mo integrar ese&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/4/0/0/7/4/SSRSp1_ch9.mp4</video:content_loc>
+        <video:duration>1403</video:duration>
+        <video:publication_date>2009-05-25T07:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Localizacin-Aplicaciones-ASPNET</loc>
+      <lastmod>2018-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/6/2/4/6/4/LocalizacionAplicaciones_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Localizaci&#243;n Aplicaciones ASP.NET]]></video:title>
+        <video:description><![CDATA[  Ibon Landa, Arquitecto Software en AvanGroup, nos muestra, de varias maneras, c&#243;mo creando archivos de recursos (locales y globales) para nuestra aplicaci&#243;n ASP.NET, conseguimos localizarla&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/6/2/4/6/4/LocalizacionAplicaciones_ch9.mp4</video:content_loc>
+        <video:duration>1067</video:duration>
+        <video:publication_date>2009-04-13T14:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/IE8-desarrollo-de-WebSlices</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/6/8/0/6/4/IE8Webslices_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[IE8 desarrollo de WebSlices]]></video:title>
+        <video:description><![CDATA[
+   Las web slices de IE8 son un mecanismo muy poderoso para mantener a los usuarios conectados a tu sitio web y actualizados con la informaci&#243;n que les interesa.
+   Adem&#225;s, como ver&#225;s en este&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/6/8/0/6/4/IE8Webslices_ch9.mp4</video:content_loc>
+        <video:duration>502</video:duration>
+        <video:publication_date>2009-03-20T11:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Compartir-AssemblyInfo</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/8/2/0/6/4/AssemblyInfo_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Compartir AssemblyInfo]]></video:title>
+        <video:description><![CDATA[  Jorge Serrano P&#233;rez, MVP de Visual Basic, nos muestra como compartir el archivo AssemblyInfo entre diferentes ensamblados dentro de una misma soluci&#243;n.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/8/2/0/6/4/AssemblyInfo_ch9.mp4</video:content_loc>
+        <video:duration>839</video:duration>
+        <video:publication_date>2009-03-18T11:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Patron-Proxy</loc>
+      <lastmod>2017-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/2/5/9/5/4/PatronProxy_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Patron Proxy]]></video:title>
+        <video:description><![CDATA[
+   Ibon Landa, Arquitecto Software en AvanGroup (www.avangroup.com), nos muestra como implementar el patr&#243;n proxy.
+ 
+   Retardar la creaci&#243;n de un objeto pesado, aislar de la complejidad de las&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/2/5/9/5/4/PatronProxy_ch9.mp4</video:content_loc>
+        <video:duration>397</video:duration>
+        <video:publication_date>2009-03-17T09:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Trabajando-con-archivos-de-texto-22</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/2/5/9/5/4/ReadWriteFileTextP2_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Trabajando con archivos de texto (2/2)]]></video:title>
+        <video:description><![CDATA[  Jorge Serrano P&#233;rez, MVP de Visual Basic, nos muestra como a partir de un archivo de log de aplicaci&#243;n, extraer su informaci&#243;n para analizarla o rastrearla usando listas gen&#233;ricas y LINQ.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/2/5/9/5/4/ReadWriteFileTextP2_ch9.mp4</video:content_loc>
+        <video:duration>1158</video:duration>
+        <video:publication_date>2009-03-16T13:33:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Trabajando-con-archivos-de-texto-12</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/2/5/9/5/4/ReadWriteFileTextP1_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Trabajando con archivos de texto (1/2)]]></video:title>
+        <video:description><![CDATA[  Jorge Serrano P&#233;rez, MVP de Visual Basic, nos muestra como trabajar con archivos de texto. Veremos como leer y escribir archivos de texto en .NET, y como aprovechar estos conocimientos para escribir&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/2/5/9/5/4/ReadWriteFileTextP1_ch9.mp4</video:content_loc>
+        <video:duration>778</video:duration>
+        <video:publication_date>2009-03-16T13:33:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Patron-Decorador</loc>
+      <lastmod>2017-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/1/3/9/5/4/PatronDecorador_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Patron Decorador]]></video:title>
+        <video:description><![CDATA[  Ibon Landa, Arquitecto Software en AvanGroup, nos muestra como implementar el patr&#243;n decorador y su uso para modificar din&#225;micamente el comportamiento de una clase.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/1/3/9/5/4/PatronDecorador_ch9.mp4</video:content_loc>
+        <video:duration>457</video:duration>
+        <video:publication_date>2009-03-12T13:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/ADONET-Data-Services-II-Modificando-el-servicio</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/9/4/6/5/4/ADONETDataServicesII_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[ADO.NET Data Services (II) Modificando el servicio]]></video:title>
+        <video:description><![CDATA[Unai Zorrilla, Development Team Lead de Plainconcepts, nos introduce ADO.NET Data Services en una serie de videos.
+En este segundo video, modificamos el servicio.
+
+
+Recursos:
+  
+ - En Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/9/4/6/5/4/ADONETDataServicesII_ch9.mp4</video:content_loc>
+        <video:duration>750</video:duration>
+        <video:publication_date>2009-03-10T13:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/ADONET-Data-Services-I-Creando-el-servicio</loc>
+      <lastmod>2017-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/9/4/6/5/4/ADONETDataServicesI_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[ADO.NET Data Services (I) Creando el servicio]]></video:title>
+        <video:description><![CDATA[Unai Zorrilla, Development Team Lead de Plainconcepts, nos introduce ADO.NET Data Services en una serie de videos.
+En este primer video, nos ense&#241;a como crear el servicio.
+
+
+Recursos:
+  
+ - En&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/9/4/6/5/4/ADONETDataServicesI_ch9.mp4</video:content_loc>
+        <video:duration>938</video:duration>
+        <video:publication_date>2009-03-10T13:20:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Como-instalar-PHP-en-Windows-Server-2003</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/2/5/9/5/4/FastCGIWin2003_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como instalar PHP en Windows Server 2003]]></video:title>
+        <video:description><![CDATA[David Carmona nos muestra como instalar php en Windows Server 2003 usando las extensiones FastCGI
+
+Recursos: 
+•Art&#237;culo “C&#243;mo instalar PHP en Windows Vista /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/2/5/9/5/4/FastCGIWin2003_ch9.mp4</video:content_loc>
+        <video:duration>376</video:duration>
+        <video:publication_date>2009-03-06T14:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Como-instalar-PHP-en-Windows-Vista</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/2/5/9/5/4/FastCGIWinVista_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como instalar PHP en Windows Vista]]></video:title>
+        <video:description><![CDATA[David Carmona nos muestra como instalar php en Windows Vista usando las extensiones FastCGI
+
+Recursos: 
+•Art&#237;culo “C&#243;mo instalar PHP en Windows Vista /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/2/5/9/5/4/FastCGIWinVista_ch9.mp4</video:content_loc>
+        <video:duration>636</video:duration>
+        <video:publication_date>2009-03-06T14:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Como-instalar-PHP-en-Windows-Server-2008</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/2/5/9/5/4/FastCGIWin2008_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como instalar PHP en Windows Server 2008]]></video:title>
+        <video:description><![CDATA[David Carmona nos muestra como instalar php en Windows Server 2008 usando las extensiones FastCGI
+
+Recursos: 
+•Art&#237;culo “C&#243;mo instalar PHP en Windows Vista /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/2/5/9/5/4/FastCGIWin2008_ch9.mp4</video:content_loc>
+        <video:duration>643</video:duration>
+        <video:publication_date>2009-03-06T14:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Como-instalar-PHP-en-Windows-XP</loc>
+      <lastmod>2016-02-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/2/5/9/5/4/FastCGIWinXP_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como instalar PHP en Windows XP]]></video:title>
+        <video:description><![CDATA[David Carmona nos muestra como instalar php en Windows XP usando las extensiones FastCGI
+
+Recursos: 
+•Art&#237;culo “C&#243;mo instalar PHP en Windows Vista /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/2/5/9/5/4/FastCGIWinXP_ch9.mp4</video:content_loc>
+        <video:duration>398</video:duration>
+        <video:publication_date>2009-03-06T14:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Como-crear-nuestra-primera-aplicacion-movil</loc>
+      <lastmod>2017-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/5/1/8/5/4/PrimeraAplicacionMovil_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como crear nuestra primera aplicacion movil]]></video:title>
+        <video:description><![CDATA[Eduardo Ortega Bermejo, nos muestra como seleccionar la plataforma movil sobre la que nos interesa trabajar, a configurar Visual Studio y sus emuladores.
+
+Creamos nuestra primera aplicacion para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/5/1/8/5/4/PrimeraAplicacionMovil_ch9.mp4</video:content_loc>
+        <video:duration>897</video:duration>
+        <video:publication_date>2009-03-05T09:57:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Incremento-automtico-del-nmero-de-build-VS-Team-Foundation-Server-08</loc>
+      <lastmod>2016-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/7/0/7/5/4/AutoincrementBuildVersion_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Incremento autom&#225;tico del n&#250;mero de build (VS Team Foundation Server 08)]]></video:title>
+        <video:description><![CDATA[Bruno Capuano, Solution Architect de Avanade, nos muestra c&#243;mo configurar Team Foundation Server 2008 para que el n&#250;mero de versi&#243;n del build se incremente autom&#225;ticamente.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/7/0/7/5/4/AutoincrementBuildVersion_ch9.mp4</video:content_loc>
+        <video:duration>486</video:duration>
+        <video:publication_date>2009-03-05T09:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/YouShapeIt</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/0/3/9/5/4/YouShapeIt_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[YouShapeIt]]></video:title>
+        <video:description><![CDATA[
+El equipo de MSDN Espa&#241;a te presenta las novedades que hemos puesto en marcha dirigidas a desarrolladores de la comunidad, inlcuyendo los de php, java y open source. Esperamos que sea una buena&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/0/3/9/5/4/YouShapeIt_ch9.mp4</video:content_loc>
+        <video:duration>246</video:duration>
+        <video:publication_date>2009-03-02T10:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/MSDN-Respuestas</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/4/0/9/5/4/MSDNRespuestas_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[MSDN Respuestas]]></video:title>
+        <video:description><![CDATA[
+MSDN Respuestas es un complemento para Visual Studio desarrollado por MSDN Espa&#241;a. Con MSDN Respuestas podr&#225;s encontrar la informaci&#243;n que necesitas mientras est&#225;s desarrollando, desde el propio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/4/0/9/5/4/MSDNRespuestas_ch9.mp4</video:content_loc>
+        <video:duration>179</video:duration>
+        <video:publication_date>2009-02-27T17:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Umbraco-CMS</loc>
+      <lastmod>2015-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/9/4/6/5/4/Umbraco_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Umbraco CMS]]></video:title>
+        <video:description><![CDATA[
+    Por cortes&#237;a de Campus MVP, podemos ver en este screencast de Alberto Poblaci&#243;n, c&#243;mo empezar a trabajar con plantillas y documentos en Umbraco CMS 
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/9/4/6/5/4/Umbraco_ch9.mp4</video:content_loc>
+        <video:duration>678</video:duration>
+        <video:publication_date>2009-02-26T15:51:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Instalar-BlogEnginenet</loc>
+      <lastmod>2017-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/8/4/6/5/4/BlogEngine_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Instalar BlogEngine.net]]></video:title>
+        <video:description><![CDATA[    Por cortes&#237;a de Campus MVP, podemos ver en este screencast de Alberto Poblaci&#243;n, c&#243;mo instalar de forma r&#225;pida y sencilla el conocido motor de blogs BlogEngine.net
+
+
+
+Recursos:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/8/4/6/5/4/BlogEngine_ch9.mp4</video:content_loc>
+        <video:duration>465</video:duration>
+        <video:publication_date>2009-02-26T15:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Patrn-Observer</loc>
+      <lastmod>2017-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/2/3/6/5/4/PatronObserver_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Patr&#243;n Observer]]></video:title>
+        <video:description><![CDATA[    Ibon Landa, Arquitecto Software en AvanGroup, nos muestra como implementar el patr&#243;n observer. Veremos la implementaci&#243;n b&#225;sica y la implementaci&#243;n con eventos y delegados en plataforma .NET.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/2/3/6/5/4/PatronObserver_ch9.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2009-02-20T08:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Patron-Singleton</loc>
+      <lastmod>2018-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/7/6/4/5/4/SingletonPatron_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Patr&#243;n Singleton]]></video:title>
+        <video:description><![CDATA[  Ibon Landa, Arquitecto Software en AvanGroup, nos muestra como implementar el patr&#243;n singleton y cu&#225;l es su raz&#243;n de ser. Veremos la implementaci&#243;n b&#225;sica y c&#243;mo mejorarla.
+
+El ejemplo esta en C#&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/7/6/4/5/4/SingletonPatron_ch9.mp4</video:content_loc>
+        <video:duration>425</video:duration>
+        <video:publication_date>2009-02-20T08:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Consideraciones-en-el-manejo-de-excepciones</loc>
+      <lastmod>2018-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/8/3/0/5/4/ManejoExcepciones_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Consideraciones en el manejo de excepciones]]></video:title>
+        <video:description><![CDATA[En este video veremos algunas consideraciones respecto al manejo de excepciones en .net, fallos y posibles soluciones.
+
+- OverTrowing
+- OverCatching
+- Breaking Stack
+
+Por Unai Zorrilla,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/8/3/0/5/4/ManejoExcepciones_ch9.mp4</video:content_loc>
+        <video:duration>935</video:duration>
+        <video:publication_date>2009-02-02T10:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Librera-ASPNET-AJAX-cliente-y-cdigo-Javascript-en-Visual-Studio-2008</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/8/3/0/5/4/ASPNETAJAXjs_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Librer&#237;a ASP.NET AJAX cliente y c&#243;digo Javascript]]></video:title>
+        <video:description><![CDATA[Jose Manuel Alarc&#243;n Agu&#237;n, director general y director tecnico de Krasis, hace un repaso a las mejoras incorporadas en Visual Studio 2008 para el desarrollo con Javascript.
+
+Tanto desde el punto de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/8/3/0/5/4/ASPNETAJAXjs_ch9.mp4</video:content_loc>
+        <video:duration>1572</video:duration>
+        <video:publication_date>2009-01-22T09:59:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Cmo-construir-un-feed-RSS-con-NET</loc>
+      <lastmod>2016-04-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/8/3/0/5/4/FeedRSS_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C&#243;mo construir un feed RSS con .NET]]></video:title>
+        <video:description><![CDATA[
+Aprende c&#243;mo tu aplicaci&#243;n puede generar un RSS din&#225;micamente.
+Los usuarios podr&#225;n subscribirse a la informaci&#243;n m&#225;s reciente de tu aplicaci&#243;n a trav&#233;s de medios est&#225;ndar y aplicaciones que ya&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/8/3/0/5/4/FeedRSS_ch9.mp4</video:content_loc>
+        <video:duration>711</video:duration>
+        <video:publication_date>2009-01-15T11:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Paseo-por-Visual-Studio-Team-System-08-Team-Foundation</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/8/3/0/5/4/VSTS08_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Paseo por: Visual Studio Team System 08, Team Foundation]]></video:title>
+        <video:description><![CDATA[Bruno Capuano, Solution Architect de Avanade, hace un recorrido por las caracter&#237;sticas principales de Visual Studio Team System 2008, Team Foundation Server 2008 y Team Foundation Build.
+
+Crear un&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/8/3/0/5/4/VSTS08_ch9.mp4</video:content_loc>
+        <video:duration>1083</video:duration>
+        <video:publication_date>2009-01-12T17:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Mejorar-el-rendimiento-de-la-descarga-de-libreras-Javascript</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/8/3/0/5/4/OptLibJS_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mejorar el rendimiento de la descarga de librer&#237;as Javascript]]></video:title>
+        <video:description><![CDATA[Jose Manuel Alarc&#243;n Agu&#237;n, director general y director tecnico de Krasis, nos muestra como evitar que el navegador tenga que descargar multitud de archivos de script desde el servidor, se sustituir&#225;n&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/8/3/0/5/4/OptLibJS_ch9.mp4</video:content_loc>
+        <video:duration>467</video:duration>
+        <video:publication_date>2008-12-30T13:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Feliz-Navidad-0809</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/9/4/9/4/4/FelizNavidad_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Feliz Navidad 08/09]]></video:title>
+        <video:description><![CDATA[
+El equipo de MSDN quiere felicitaros la Navidad de una forma diferente.
+Hemos creado una felicitaci&#243;n navide&#241;a en v&#237;deo especialmente subtitulada para desarrolladores!
+
+
+{ 
+Hello world!
+&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/9/4/9/4/4/FelizNavidad_ch9.mp4</video:content_loc>
+        <video:duration>34</video:duration>
+        <video:publication_date>2008-12-22T16:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/Programacin-REST-con-NET</loc>
+      <lastmod>2018-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/4/5/8/4/4/RestNET_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Programaci&#243;n REST con .NET]]></video:title>
+        <video:description><![CDATA[REST es un formato cada vez m&#225;s utilizado para consumir informaci&#243;n en internet.
+En este screencast Unai Zorrilla, Development Team Lead de Plainconcepts, nos ense&#241;a c&#243;mo crear y consumir un servicio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/4/5/8/4/4/RestNET_ch9.mp4</video:content_loc>
+        <video:duration>1493</video:duration>
+        <video:publication_date>2008-12-17T15:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Daniel+Garzon/SecurityException-en-una-carpeta-compartida</loc>
+      <lastmod>2011-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/4/5/8/4/4/SecurityException_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SecurityException en una carpeta compartida]]></video:title>
+        <video:description><![CDATA[
+ &#191;Alguna vez has tenido un programa que funciona perfectamente en local, pero cuando se intenta ejecutar desde una carpeta en un servidor, lanza una SecurityException? 
+ En este screencast Alberto&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/4/5/8/4/4/SecurityException_ch9.mp4</video:content_loc>
+        <video:duration>969</video:duration>
+        <video:publication_date>2008-12-16T15:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

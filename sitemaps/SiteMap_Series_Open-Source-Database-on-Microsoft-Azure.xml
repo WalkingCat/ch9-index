@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-Database-on-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-Database-on-Microsoft-Azure/04</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6feb/76fb7a66-0957-4a64-91e2-c7c281416feb/707OpenSourceDatabaseOnAzureM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Database on Microsoft Azure: (04) Managing &amp; Monitoring in Azure]]></video:title>
+        <video:description><![CDATA[​Find out how to monitor the solution that you have deployed, and explore available tools for efficiently deploying and configuring your database system. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6feb/76fb7a66-0957-4a64-91e2-c7c281416feb/707OpenSourceDatabaseOnAzureM04_mid.mp4</video:content_loc>
+        <video:duration>2247</video:duration>
+        <video:publication_date>2015-02-20T17:13:26.6913637+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-Database-on-Microsoft-Azure/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db72/8a7c8c65-e15e-43ee-b515-3cc5c570db72/707OpenSourceDatabaseOnAzureM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Database on Microsoft Azure: (03) Database Reliability and Availability]]></video:title>
+        <video:description><![CDATA[Look at Azure availability and reliability options, and learn how you can leverage Azure storage to achieve geo-redundancy. Explore network options to achieve your availability goals. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db72/8a7c8c65-e15e-43ee-b515-3cc5c570db72/707OpenSourceDatabaseOnAzureM03_mid.mp4</video:content_loc>
+        <video:duration>1852</video:duration>
+        <video:publication_date>2015-02-20T17:13:12.5154246+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-Database-on-Microsoft-Azure/02</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b0f0/5f82187f-1b85-4233-98e5-1095e706b0f0/707OpenSourceDatabaseOnAzureM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Database on Microsoft Azure: (02) Storage &amp; Performance Considerations]]></video:title>
+        <video:description><![CDATA[Explore how storage in Azure works and how to design your data disk architecture for VMs. Plus, compare the performances of different VMs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0f0/5f82187f-1b85-4233-98e5-1095e706b0f0/707OpenSourceDatabaseOnAzureM02_mid.mp4</video:content_loc>
+        <video:duration>2615</video:duration>
+        <video:publication_date>2015-02-20T17:13:00.2523070+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-Database-on-Microsoft-Azure/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff3f/a298e469-ecae-4689-a138-e93a6072ff3f/707OpenSourceDatabaseOnAzureM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Database on Microsoft Azure: (01) Introduction]]></video:title>
+        <video:description><![CDATA[Review some fundamental Microsoft Azure principles, and see how Linux is a first class-citizen on this platform. Learn which open source databases are supported on Azure and how those images are made&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff3f/a298e469-ecae-4689-a138-e93a6072ff3f/707OpenSourceDatabaseOnAzureM01_mid.mp4</video:content_loc>
+        <video:duration>1404</video:duration>
+        <video:publication_date>2015-02-20T17:12:48.9017547+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

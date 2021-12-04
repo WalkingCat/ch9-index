@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/How-to-build-your-own-custom-action-for-SharePoint-Designer-2007</loc>
+      <lastmod>2010-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/8/2/0/8/4/CreateCustomAction_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[How to build your own custom action for SharePoint Designer 2007]]></video:title>
+        <video:description><![CDATA[This screen cast shows you how to build your own custom action for SharePoint Designer 2007.
+Read more about it here:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/8/2/0/8/4/CreateCustomAction_ch9.mp4</video:content_loc>
+        <video:duration>1729</video:duration>
+        <video:publication_date>2009-07-22T22:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/Building-your-own-MemberShipProvider-in-ASPNET-20-and-use-it-in-SharePoint</loc>
+      <lastmod>2013-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/56fb/aa00420f-f7ce-4f5b-a853-55d0d2cb56fb/Building-your-own-MemberShipProvider-in-ASPNET-20_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building your own MemberShipProvider in ASP.NET 2.0 and use it in SharePoint]]></video:title>
+        <video:description><![CDATA[The last screencast (I think) from me about Authentication in SharePoint.
+In this screencast I build a MemberShipProvider that is checking the users against an XML file instead of a SQL database&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/56fb/aa00420f-f7ce-4f5b-a853-55d0d2cb56fb/Building-your-own-MemberShipProvider-in-ASPNET-20_mid.mp4</video:content_loc>
+        <video:duration>3812</video:duration>
+        <video:publication_date>2008-07-24T10:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/Forms-Authentication-with-SharePoint-in-English</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/Forms-Authentication-with-SharePoint</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/Building-a-SharePoint-workflow-in-Visual-Studio-part-2</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/Authentication-Provider-Net-20-Out-Of-The-Box</loc>
+      <lastmod>2011-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/BomBom/How-to-develop-a-SharePoint-WebPart-old-style-p229-svenska</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/X-Chain-Of-Command</loc>
+      <lastmod>2020-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f7c9/da1075ad-c1b1-4758-8c05-d3001606f7c9/XppChainOfCommand_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[X++ Chain Of Command]]></video:title>
+        <video:description><![CDATA[This video introduces a new powerful extension capability in X&amp;#43;&amp;#43;:  Chain of Command. X&amp;#43;&amp;#43; is the programming language of Microsoft Dynamics AX / Microsoft Dynamics 365 for Operations /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7c9/da1075ad-c1b1-4758-8c05-d3001606f7c9/XppChainOfCommand_mid.mp4</video:content_loc>
+        <video:duration>727</video:duration>
+        <video:publication_date>2017-07-04T19:22:12.2865533+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/AX2012-Creating-an-ISV-Model</loc>
+      <lastmod>2012-11-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/490c/166ccd0b-aa05-471f-90ce-392772e3490c/AX2012ISVModel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Dynamics AX 2012 - Creating an ISV Model]]></video:title>
+        <video:description><![CDATA[ This recording shows how an ISV can create a solution in AX 2012, including: How to create a new model in AX. Why element IDs are not a concern anymore. Protecting the solution using a licensing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/490c/166ccd0b-aa05-471f-90ce-392772e3490c/AX2012ISVModel_mid.mp4</video:content_loc>
+        <video:duration>1189</video:duration>
+        <video:publication_date>2011-07-20T14:27:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Microsoft-Dynamics-AX-2012-Uninstalling-the-Upgrade-model</loc>
+      <lastmod>2013-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/DC0A/9D632279-42D2-4FC1-BB0F-9E8000D1DC0A/AX2012UpgradeModel_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Dynamics AX 2012 - Uninstalling the Upgrade model]]></video:title>
+        <video:description><![CDATA[ This short recording shows an alternative use of models. It shows how to get rid of all the development artifacts that only has to do with data upgrade - and once data upgrade is completed, you don&#39;t&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/DC0A/9D632279-42D2-4FC1-BB0F-9E8000D1DC0A/AX2012UpgradeModel_high_ch9.mp4</video:content_loc>
+        <video:duration>125</video:duration>
+        <video:publication_date>2011-06-07T10:25:46.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/AX2012-Type-Hierarchies</loc>
+      <lastmod>2016-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7940/43C5654E-1CB1-4EEF-A711-9E7D01087940/AX2012TypeHierarchies_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Dynamics AX 2012 - Type Hierarchies]]></video:title>
+        <video:description><![CDATA[ This is a sneak preview of two new tools in Microsoft Dynamics AX 2012: The Type Hierarchy Context and the Type Hierarchy Browser. Please notice that: AX 2012 supports table inheritance These tools&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7940/43C5654E-1CB1-4EEF-A711-9E7D01087940/AX2012TypeHierarchies_high_ch9.mp4</video:content_loc>
+        <video:duration>397</video:duration>
+        <video:publication_date>2011-05-19T09:24:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/AX2012-X-Editor</loc>
+      <lastmod>2013-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1C02/0CB2E9D4-8AF3-4C01-9224-9E7E008A1C02/AX2012XppEditor2Redo_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Dynamics AX 2012 - X++ Editor]]></video:title>
+        <video:description><![CDATA[ Here is a sneak preview of the new X&amp;#43; Editor in Microsoft Dynamics AX 2012 Notice that the editor now features word-completion, automatic indenting, scripting, zoom, multiline editing, and much&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0a6/50f065f7-71fa-46a1-98dd-02f4fd39d0a6/AX2012-X-Editor_mid.mp4</video:content_loc>
+        <video:duration>458</video:duration>
+        <video:publication_date>2011-05-09T07:40:22.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/AX2012-Developer-Workspace</loc>
+      <lastmod>2013-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/57CB/0B067AC6-2DE9-455F-9F1F-9E7E00CE57CB/AX2012DevWorkspace_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Dynamics AX 2012 - Developer Workspace]]></video:title>
+        <video:description><![CDATA[ Here is a sneak preview of the Developer Workspace in Microsoft Dynamics AX 2012. THIS POST IS PROVIDED AS-IS AND CONFERS NO RIGHTS.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/57CB/0B067AC6-2DE9-455F-9F1F-9E7E00CE57CB/AX2012DevWorkspace_high_ch9.mp4</video:content_loc>
+        <video:duration>93</video:duration>
+        <video:publication_date>2011-04-19T05:27:15.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/10-MorphX-tricks-in-10-minutes</loc>
+      <lastmod>2017-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4a04/9aaa9b84-9d38-4ebf-9124-b873794f4a04/10-MorphX-tricks-in-10-minutes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10 MorphX tricks in 10 minutes]]></video:title>
+        <video:description><![CDATA[This screencast shows 10 small demos that will make you more efficient as a MorphX / X&amp;#43;&amp;#43; developer.
+
+It turned out to be almost 20 minutes; so you&#39;ll have to play it at double speed to see&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4a04/9aaa9b84-9d38-4ebf-9124-b873794f4a04/10-MorphX-tricks-in-10-minutes_mid.mp4</video:content_loc>
+        <video:duration>1147</video:duration>
+        <video:publication_date>2009-06-04T09:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Version-control-in-MorphX</loc>
+      <lastmod>2010-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/MorphX-Best-Practices-in-Dynamics-AX</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Application-Fundamentals-in-Dynamics-AX</loc>
+      <lastmod>2014-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Exception-handling-in-X</loc>
+      <lastmod>2010-11-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Dynamics-AX-40-Smart-customizations</loc>
+      <lastmod>2016-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Dynamics-AX-40-3-tier-Development</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mfp/Dynamics-AX-40-Unit-testing</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

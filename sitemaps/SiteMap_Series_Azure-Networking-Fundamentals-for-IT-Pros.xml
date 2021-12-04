@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Fundamentals-for-IT-Pros</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod4</loc>
+      <lastmod>2017-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c60/51abf420-5ade-452d-ae6a-062148c53c60/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Testing Connectivity and Monitoring]]></video:title>
+        <video:description><![CDATA[Testing connectivity and monitoring VPNs​. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on various&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c60/51abf420-5ade-452d-ae6a-062148c53c60/Mod4_mid.mp4</video:content_loc>
+        <video:duration>497</video:duration>
+        <video:publication_date>2014-12-19T11:03:19.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod3</loc>
+      <lastmod>2017-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f3c/6cd5ea38-765a-4f8a-83ae-ec592bba6f3c/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Configuring Azure and On-Prem]]></video:title>
+        <video:description><![CDATA[Setting up on-prem and Azure VPNs. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on various Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f3c/6cd5ea38-765a-4f8a-83ae-ec592bba6f3c/Mod3_mid.mp4</video:content_loc>
+        <video:duration>1037</video:duration>
+        <video:publication_date>2014-12-19T11:02:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod2</loc>
+      <lastmod>2017-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6f5/93808e5a-42d7-4e09-82ff-f27b6326d6f5/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Planning and Designing Your Cloud Network Infrastructure]]></video:title>
+        <video:description><![CDATA[Planning our deployments for Azure and on-prem. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6f5/93808e5a-42d7-4e09-82ff-f27b6326d6f5/Mod2_mid.mp4</video:content_loc>
+        <video:duration>729</video:duration>
+        <video:publication_date>2014-12-19T11:00:49.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod1</loc>
+      <lastmod>2020-03-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/73a7/c1a4cdf5-801d-4cb9-8242-437a69fe73a7/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Intro to Azure Network Basics and VPN Requirements]]></video:title>
+        <video:description><![CDATA[Pre-requisites and introduction to Azure VPNs. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on various&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/73a7/c1a4cdf5-801d-4cb9-8242-437a69fe73a7/Mod1_mid.mp4</video:content_loc>
+        <video:duration>960</video:duration>
+        <video:publication_date>2014-12-16T06:01:13.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

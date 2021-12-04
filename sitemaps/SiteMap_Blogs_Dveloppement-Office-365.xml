@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/01-Prrequis-et-environnement-de-dveloppement</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e494/86ae0bcc-1a3c-4fc8-a175-c322ec0be494/Prerequisetenvironnementdedeveloppement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - Pr&#233;requis et environnement de d&#233;veloppement]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente les pr&#233;requis n&#233;cessaire pour le d&#233;veloppement d&#39;applications Office, SharePoint et Office 365, notamment les SDK et environnements (Office 365 et Azure). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e494/86ae0bcc-1a3c-4fc8-a175-c322ec0be494/Prerequisetenvironnementdedeveloppement_mid.mp4</video:content_loc>
+        <video:duration>1138</video:duration>
+        <video:publication_date>2015-08-28T16:25:35.2501014+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/02-Dveloppement-dun-Add-in-Office-Taskpane-WordExcel</loc>
+      <lastmod>2020-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdd6/03f066e6-1c89-44d1-b944-48e7bc55cdd6/Developpementdunaddinoffice_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - D&#233;veloppement dun Add-in Office (Taskpane Word/Excel)]]></video:title>
+        <video:description><![CDATA[Ce module aborde la cr&#233;ation d&#39;un add-in Office de type &amp;quot;TaskPane&amp;quot; et pr&#233;sente les bases de l&#39;API javaScript pour Office. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdd6/03f066e6-1c89-44d1-b944-48e7bc55cdd6/Developpementdunaddinoffice_mid.mp4</video:content_loc>
+        <video:duration>1474</video:duration>
+        <video:publication_date>2015-08-28T16:25:26.8898933+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/03-Dveloppement-dun-Add-in-Office-Mail</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e6e/acd0f0dc-f843-49bc-818d-ea2380112e6e/developpementdunaddinoffice_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 - D&#233;veloppement dun Add-in Office (Mail)]]></video:title>
+        <video:description><![CDATA[Ce module poursuit sur la cr&#233;ation d&#39;un add-in Office mais cette fois-ci de type &amp;quot;Mail&amp;quot; afin d&#39;interagir avec vos messages &#233;lectroniques. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e6e/acd0f0dc-f843-49bc-818d-ea2380112e6e/developpementdunaddinoffice_mid.mp4</video:content_loc>
+        <video:duration>1069</video:duration>
+        <video:publication_date>2015-08-28T16:25:16.1873214+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/04-Dveloppement-dun-Add-in-SharePoint</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c6ee/de05d765-a301-4497-a561-cda83e74c6ee/Developpementdunaddinsharepoint_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 - D&#233;veloppement dun Add-in SharePoint]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sent la cr&#233;ation d&#39;un add-in SharePoint et l&#39;utilisation de l&#39;API cliente SharePoint (CSOM) pour pouvoir interroger les donn&#233;es situ&#233;es dans un site SharePoint. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c6ee/de05d765-a301-4497-a561-cda83e74c6ee/Developpementdunaddinsharepoint_mid.mp4</video:content_loc>
+        <video:duration>2037</video:duration>
+        <video:publication_date>2015-08-28T16:24:51.0497840+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/05-Dveloppement-dune-application-MVC-avec-lAPI-Office-365</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdab/6b335ee3-7dbb-44bf-91cf-c638a875cdab/DeveloppementduneapplicationMVCaveclAPIoffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 - D&#233;veloppement dune application MVC avec lAPI Office 365]]></video:title>
+        <video:description><![CDATA[Ce module aborde la cr&#233;ation d&#39;une application utilisant l&#39;API Office 365 au travers du SDK mis &#224; disposition. Cette application web r&#233;alis&#233;e avec ASP.NET MVC permet de manipuler les donn&#233;es situ&#233;es&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdab/6b335ee3-7dbb-44bf-91cf-c638a875cdab/DeveloppementduneapplicationMVCaveclAPIoffice365_mid.mp4</video:content_loc>
+        <video:duration>2020</video:duration>
+        <video:publication_date>2015-08-28T16:23:47.9364660+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/06-Dveloppement-dune-application-Win8-avec-lAPI-Office-365</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f3de/6022c060-b001-4ad9-87ea-8ad6b21bf3de/Developpementduneapplicationwin8aveclAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 - D&#233;veloppement dune application Win8 avec lAPI Office 365]]></video:title>
+        <video:description><![CDATA[Ce module reprend la m&#234;me approche que le module pr&#233;c&#233;dent en se focalisant cette fois-ci sur la cr&#233;ation d&#39;une application native Windows.https://github.com/OfficeDev/O365-Windows-Start&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3de/6022c060-b001-4ad9-87ea-8ad6b21bf3de/Developpementduneapplicationwin8aveclAPI_mid.mp4</video:content_loc>
+        <video:duration>942</video:duration>
+        <video:publication_date>2015-08-28T16:23:33.0589571+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Dveloppement-Office-365/07-Dploiement-et-distribution-de-vos-Apps</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c55/c1fbb3fc-8ee2-41a2-aa03-639f21cf0c55/Deploiementetdistributiondevosapps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 - D&#233;ploiement et distribution de vos Apps]]></video:title>
+        <video:description><![CDATA[Ce module offre une vue g&#233;n&#233;rale sur le d&#233;ploiement de vos applications: comment et o&#249; les h&#233;berger, quels sont les configurations particuli&#232;res &#224; effectuer. Chaque type de d&#233;veloppement aura ses&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c55/c1fbb3fc-8ee2-41a2-aa03-639f21cf0c55/Deploiementetdistributiondevosapps_mid.mp4</video:content_loc>
+        <video:duration>1762</video:duration>
+        <video:publication_date>2015-08-28T16:23:23.5889611+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

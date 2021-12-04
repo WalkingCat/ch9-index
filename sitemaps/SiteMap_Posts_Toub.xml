@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/TPL-Dataflow-Tour</loc>
+      <lastmod>2020-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/b27f/a1d683a9-00ea-44d7-b247-9e37001ab27f/TPLDataflowOverview11222010_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[TPL Dataflow Tour]]></video:title>
+        <video:description><![CDATA[ This 15-minute video provides a high-level tour through some of the functionality available in the new TPL Dataflow library (System.Threading.Tasks.Dataflow.dll), an early preview of which was&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/b27f/a1d683a9-00ea-44d7-b247-9e37001ab27f/TPLDataflowOverview11222010_high_ch9.mp4</video:content_loc>
+        <video:duration>952</video:duration>
+        <video:publication_date>2010-12-10T20:22:37.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Don-McCrady-Parallelism-in-C-Using-the-Concurrency-Runtime</loc>
+      <lastmod>2011-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/426c/b49a4414-6119-4f12-8bc8-9df80180426c/ConcurrencyRuntime2010EngineeringForum_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Don McCrady - Parallelism in C++ Using the Concurrency Runtime]]></video:title>
+        <video:description><![CDATA[In this session, Don McCrady discusses how C&amp;#43;&amp;#43; programmers can fully utilize multicore in their applications using the Concurrency Runtime (ConcRT), the Parallel Pattern Library (PPL), and the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/426c/b49a4414-6119-4f12-8bc8-9df80180426c/ConcurrencyRuntime2010EngineeringForum_ch9.mp4</video:content_loc>
+        <video:duration>3397</video:duration>
+        <video:publication_date>2010-09-22T01:42:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

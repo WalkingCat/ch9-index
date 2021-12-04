@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants/01-Introduction-et-principes-lmentaires-de-programmation</loc>
+      <lastmod>2021-01-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f851/2a40318f-5a14-4024-bf48-ff2f56f3f851/Introductionetprincipeselementairesdeprogrammatio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - Introduction et principes &#233;l&#233;mentaires de programmation]]></video:title>
+        <video:description><![CDATA[Apr&#232;s avoir pr&#233;sent&#233; le cours, vous verrez quelques premiers concepts &#233;l&#233;mentaires pour coder une application. Vous apprendrez &#224; cr&#233;er votre premier projet dans Visual Studio et &#224; ex&#233;cuter votre&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f851/2a40318f-5a14-4024-bf48-ff2f56f3f851/Introductionetprincipeselementairesdeprogrammatio_mid.mp4</video:content_loc>
+        <video:duration>3593</video:duration>
+        <video:publication_date>2015-08-07T11:06:23.4536746+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants/02-Crez-la-version-ultra-basique-du-jeu-mode-console</loc>
+      <lastmod>2019-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2829/912ee92a-ad19-4d6c-8bd0-e3a256bf2829/Creezlaversionultrabasiquedujeu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - Cr&#233;ez la version ultra basique du jeu (mode console) ]]></video:title>
+        <video:description><![CDATA[C&#39;est la version la plus simple du jeu, en mode ligne de commande. Nous mettrons en place les r&#232;gles du jeu sous la forme d&#39;un algorithme en mettant en pratique les concepts techniques appris dans le&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2829/912ee92a-ad19-4d6c-8bd0-e3a256bf2829/Creezlaversionultrabasiquedujeu_mid.mp4</video:content_loc>
+        <video:duration>3016</video:duration>
+        <video:publication_date>2015-08-07T11:06:08.0493954+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants/03-Crez-le-jeu-avec-une-interface-graphique-WPF</loc>
+      <lastmod>2018-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c699/1a8b7892-72b4-4a14-b870-40c277eac699/Creezlejeuavecuneinterfacegraphique_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03.1 - Cr&#233;ez le jeu avec une interface graphique (WPF) ]]></video:title>
+        <video:description><![CDATA[Vous savez maintenant ce que sont les variables, les types, les boucles, les tests conditionnels. Vous &#234;tes pr&#234;ts pour d&#233;couvrir la programmation &#233;v&#233;nementielle qui vous permettra d&#39;ajouter une couche&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c699/1a8b7892-72b4-4a14-b870-40c277eac699/Creezlejeuavecuneinterfacegraphique_mid.mp4</video:content_loc>
+        <video:duration>3259</video:duration>
+        <video:publication_date>2015-08-07T11:05:52.2769409+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants/032-Crer-votre-prototype-avec-Blend-pour-Visual-Studio-2015</loc>
+      <lastmod>2018-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7239/b2e5b2ce-821f-4ae3-880c-35c0c5847239/CreervotreprototypeavecblendpourVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03.2 - Cr&#233;er votre prototype avec Blend pour Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[Voyons comment int&#233;grer rapidement nos maquettes graphiques avec Blend pour Visual Studio 2015. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7239/b2e5b2ce-821f-4ae3-880c-35c0c5847239/CreervotreprototypeavecblendpourVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>3698</video:duration>
+        <video:publication_date>2015-08-07T11:04:53.5858101+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants/04-Portez-le-jeu-sur-Windows-10-en-quelques-clics-Application-Universelle</loc>
+      <lastmod>2015-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f89a/063da488-b8ca-4d4c-80eb-4af00808f89a/PortezlejeusurWindows10enquelquesclics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 - Portez le jeu sur Windows 10 en quelques clics (Application Universelle) ]]></video:title>
+        <video:description><![CDATA[Tout le code de l&#39;application de Bureau est r&#233;utilisable dans les applications universelles pour Windows 10 ! Puis nous publierons l&#39;application sur le Store. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f89a/063da488-b8ca-4d4c-80eb-4af00808f89a/PortezlejeusurWindows10enquelquesclics_mid.mp4</video:content_loc>
+        <video:duration>1551</video:duration>
+        <video:publication_date>2015-08-07T11:04:27.8484294+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Apprendre--coder-pour-les-vrais-dbutants/05-Installation-des-outils-de-dveloppement-Visual-Studio-Community</loc>
+      <lastmod>2015-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f6c/b4afb069-f7eb-4ec4-9302-69b24a0f7f6c/Installationdesoutilsdedeveloppement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 - Installation des outils de d&#233;veloppement (Visual Studio Community)]]></video:title>
+        <video:description><![CDATA[Suivez ce module si vous souhaitez &#234;tre accompagn&#233; dans l&#39;installation de Visual Studio sur votre poste de travail. L&#39;outil Blend utilis&#233; pour la partie Design est install&#233; automatiquement. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f6c/b4afb069-f7eb-4ec4-9302-69b24a0f7f6c/Installationdesoutilsdedeveloppement_mid.mp4</video:content_loc>
+        <video:duration>247</video:duration>
+        <video:publication_date>2015-08-07T11:04:16.7518419+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Channel9-Korea/ITI-WindowsServer2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Channel9-Korea/ITI-WindowsServer2016/TDK2015T5-4</loc>
+      <lastmod>2016-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4ad/60c7eda5-1637-4ceb-9669-26144851b4ad/TDK2015T54_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server  Docker Windows Container]]></video:title>
+        <video:description><![CDATA[오픈 소스 컨테이너(Container) 기술인 Docker가 Windows Container라는 이름&amp;#51004;로 Windows Server 2016 Technical Preview 3에 상륙하였습니다. 클라우드 환경에서 컨테이너 기술을 활용한 손쉬운 배포 방안에 대해 설명하고, IT 엔지니어의 관점에서 기존의 가상화 기술(Hyper-V)과의 차이점과&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4ad/60c7eda5-1637-4ceb-9669-26144851b4ad/TDK2015T54_mid.mp4</video:content_loc>
+        <video:duration>3148</video:duration>
+        <video:publication_date>2016-03-23T11:37:59.3971770+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Channel9-Korea/ITI-WindowsServer2016/TDK2015T1-6</loc>
+      <lastmod>2016-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba3b/d1729841-3faf-4b71-a08b-c3c55219ba3b/TDK2015T16_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft    Windows Server 2016 / 2]]></video:title>
+        <video:description><![CDATA[클라우드가 점차적&amp;#51004;로 IT 인프라에 지대한 영향을 주고 있는 오늘날, Microsoft는 Windows Server에 대한 발전도 멈추지 않고 있습니다. 2016년 하반기에 출시되는 Windows Server 2016의 전반적인 기술에 대해 함께 살펴봅니다. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba3b/d1729841-3faf-4b71-a08b-c3c55219ba3b/TDK2015T16_mid.mp4</video:content_loc>
+        <video:duration>3654</video:duration>
+        <video:publication_date>2016-03-23T11:37:43.3962316+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Channel9-Korea/ITI-WindowsServer2016/TDK2015T1-5</loc>
+      <lastmod>2016-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3233/12480c4b-9e0a-4959-b800-38902d813233/TDK2015T15_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft    Windows Server 2016 / 1]]></video:title>
+        <video:description><![CDATA[클라우드가 점차적&amp;#51004;로 IT 인프라에 지대한 영향을 주고 있는 오늘날, Microsoft는 Windows Server에 대한 발전도 멈추지 않고 있습니다. 2016년 하반기에 출시되는 Windows Server 2016의 전반적인 기술에 대해 함께 살펴봅니다. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3233/12480c4b-9e0a-4959-b800-38902d813233/TDK2015T15_mid.mp4</video:content_loc>
+        <video:duration>3063</video:duration>
+        <video:publication_date>2016-03-23T11:37:23.4018795+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

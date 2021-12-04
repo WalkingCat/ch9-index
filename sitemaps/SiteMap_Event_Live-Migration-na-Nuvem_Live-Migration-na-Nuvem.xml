@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Live-Migration-na-Nuvem/Live-Migration-na-Nuvem</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Live-Migration-na-Nuvem/Live-Migration-na-Nuvem/Novas-oportunidades-com-a-parceria-Microsoft-e-Red-Hat</loc>
+      <lastmod>2016-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fdf9/fe23cf5e-d310-4988-85b6-daacf38bfdf9/redhat_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Novas oportunidades com a parceria Microsoft e Red Hat]]></video:title>
+        <video:description><![CDATA[Novas oportunidades com a parceria Microsoft e Red Hat com Edson Yanaga - Director of developer experience ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fdf9/fe23cf5e-d310-4988-85b6-daacf38bfdf9/redhat_mid.mp4</video:content_loc>
+        <video:duration>1450</video:duration>
+        <video:publication_date>2016-06-20T19:12:57.6557489+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Live-Migration-na-Nuvem/Live-Migration-na-Nuvem/Containers-Live-Migration-Behind-the-Scene</loc>
+      <lastmod>2016-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f4f8/5d7286db-ca74-4cad-beb1-2b88749bf4f8/containers_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Containers Live Migration Behind the Scene]]></video:title>
+        <video:description><![CDATA[Containers Live Migration Behind the Scene ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f4f8/5d7286db-ca74-4cad-beb1-2b88749bf4f8/containers_mid.mp4</video:content_loc>
+        <video:duration>1957</video:duration>
+        <video:publication_date>2016-06-20T12:53:57.4428394+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Live-Migration-na-Nuvem/Live-Migration-na-Nuvem/Live-Migration-na-Nuvem</loc>
+      <lastmod>2016-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5c9/581e1a2e-101c-45bb-9d10-ddcf4509c5c9/livemigration_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Live Migration na Nuvem]]></video:title>
+        <video:description><![CDATA[Entenda como movimentar dinamicamente seus ambientes entre diferentes provedores de nuvem sem downtime. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5c9/581e1a2e-101c-45bb-9d10-ddcf4509c5c9/livemigration_mid.mp4</video:content_loc>
+        <video:duration>6267</video:duration>
+        <video:publication_date>2016-06-03T03:13:57.6668059+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

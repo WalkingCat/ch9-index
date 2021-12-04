@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Enterprise-Site-Discovery-Tool</loc>
+      <lastmod>2018-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e197/e0f70c78-5d62-4f17-bcba-05f5a438e197/SiteDiscoveryTool_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enterprise Site Discovery Tool]]></video:title>
+        <video:description><![CDATA[Enterprise Site Discovery provides a way for an IT Pro to better understand how their users are browsing with Internet Explorer 8, 9, 10, &amp;amp; 11 and discover Web applications that they may not be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e197/e0f70c78-5d62-4f17-bcba-05f5a438e197/SiteDiscoveryTool.mp4</video:content_loc>
+        <video:duration>451</video:duration>
+        <video:publication_date>2017-01-24T16:52:39.5760966+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Application-Request-Routing-ARR-Reverse-Proxy</loc>
+      <lastmod>2021-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81a1/dbba3874-3657-4742-b8b4-6e1dd80781a1/reverseproxy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Request Routing (ARR) - Reverse Proxy]]></video:title>
+        <video:description><![CDATA[Application Request Routing (ARR) is an out of band module available for IIS 7.x and onwards.   ARR enables Web server administrators, hosting providers, and Content Delivery Networks (CDNs) to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81a1/dbba3874-3657-4742-b8b4-6e1dd80781a1/reverseproxy_mid.mp4</video:content_loc>
+        <video:duration>520</video:duration>
+        <video:publication_date>2017-01-09T15:34:59.3620070+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Issues-with-Log-Parser-DOS-Attack-2</loc>
+      <lastmod>2017-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0563/367dead3-ba9e-4d79-8383-55324d630563/dosattack2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - DOS Attack 2]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0563/367dead3-ba9e-4d79-8383-55324d630563/dosattack2_mid.mp4</video:content_loc>
+        <video:duration>475</video:duration>
+        <video:publication_date>2017-01-02T18:16:59.8781226+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Issues-with-Log-Parser-DOS-Attack</loc>
+      <lastmod>2018-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c4d/488aa46b-2877-4e3f-9cf6-435fca721c4d/dosattack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - DOS Attack 1]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c4d/488aa46b-2877-4e3f-9cf6-435fca721c4d/dosattack_mid.mp4</video:content_loc>
+        <video:duration>495</video:duration>
+        <video:publication_date>2016-12-19T15:45:43.9855765+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-Slow-Response-Issues-with-PHP-Application</loc>
+      <lastmod>2018-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bcc8/29a952ef-3ab5-47fd-95af-d5f09e0dbcc8/phpxdebug_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting Slow Response Issues with PHP Application]]></video:title>
+        <video:description><![CDATA[PHP performance issues are quite challenging to troubleshoot as we don&#39;t have any in-built tools that comes with IIS. We could use tools like Windows Debugging tools, Debug Diagnostic or Perfview for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bcc8/29a952ef-3ab5-47fd-95af-d5f09e0dbcc8/phpxdebug_mid.mp4</video:content_loc>
+        <video:duration>305</video:duration>
+        <video:publication_date>2016-12-15T16:21:02.6102030+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Perf-Issues-with-Perfmon-High-CPU-Part-2</loc>
+      <lastmod>2016-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2c6/0de6a90e-da61-412e-b9bf-51734d2cf2c6/HighCPU2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Perf Issues with Perfmon - High CPU - Part 2]]></video:title>
+        <video:description><![CDATA[Some of the major resources in the operating system are the physical disk, memory, process, CPU and network.  Any of these resources when not utilized properly, will be leading to performance&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2c6/0de6a90e-da61-412e-b9bf-51734d2cf2c6/HighCPU2_mid.mp4</video:content_loc>
+        <video:duration>593</video:duration>
+        <video:publication_date>2016-12-15T15:49:34.5921168+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Issues-with-Log-Parser-HTTP-Bad-Request</loc>
+      <lastmod>2021-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b92/e50cdd58-f133-40fb-91b7-20304e571b92/HTTPBadRequest_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - HTTP Bad Request]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b92/e50cdd58-f133-40fb-91b7-20304e571b92/HTTPBadRequest_mid.mp4</video:content_loc>
+        <video:duration>413</video:duration>
+        <video:publication_date>2016-12-12T18:58:08.5752304+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Perf-Issues-with-Perfmon-High-CPU</loc>
+      <lastmod>2016-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2939/7f30f6f1-23ca-4a4f-9c67-10d8e84d2939/TroubleshootingIISASPNETPerfIssuesPerfmonHighCPU_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Perf Issues with Perfmon - High CPU - Part 1]]></video:title>
+        <video:description><![CDATA[Some of the major resources in the operating system are the physical disk, memory, process, CPU and network.  Any of these resources when not utilized properly, will be leading to performance&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2939/7f30f6f1-23ca-4a4f-9c67-10d8e84d2939/TroubleshootingIISASPNETPerfIssuesPerfmonHighCPU_mid.mp4</video:content_loc>
+        <video:duration>604</video:duration>
+        <video:publication_date>2016-12-10T00:19:07.5158139+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Issues-with-Log-Parser-Session-Leak</loc>
+      <lastmod>2016-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e842/e6aa77ea-02a9-4725-be4b-c26bfed3e842/TroubleshootingIISASPNETIssuesLogParserSessionLea_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - Session Leak]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e842/e6aa77ea-02a9-4725-be4b-c26bfed3e842/TroubleshootingIISASPNETIssuesLogParserSessionLea_mid.mp4</video:content_loc>
+        <video:duration>450</video:duration>
+        <video:publication_date>2016-11-29T10:09:30.6781662+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Issues-with-Log-Parser-Session-Loss</loc>
+      <lastmod>2021-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a86/4c29ab3c-c47c-4fdb-aaf9-f856ec9a8a86/TroubleshootingIISASPNETIssueswithLogParserSessio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - Session Loss]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a86/4c29ab3c-c47c-4fdb-aaf9-f856ec9a8a86/TroubleshootingIISASPNETIssueswithLogParserSessio_mid.mp4</video:content_loc>
+        <video:duration>582</video:duration>
+        <video:publication_date>2016-11-27T18:25:51.5430468+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-and-ASPNET-Issues-with-Log-Parser-Slow-Performance-2</loc>
+      <lastmod>2020-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a8da/7ceef738-e26c-47d0-bfc6-a770750ba8da/IISASPNETIssueswithLogParserSlowPerformance2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - Slow Performance -2]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a8da/7ceef738-e26c-47d0-bfc6-a770750ba8da/IISASPNETIssueswithLogParserSlowPerformance2_mid.mp4</video:content_loc>
+        <video:duration>475</video:duration>
+        <video:publication_date>2016-11-23T21:17:06.5794909+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-IIS-Perf-Issues-with-Perfmon</loc>
+      <lastmod>2018-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/86af/ab95858d-7bc2-4619-9300-749fdaf086af/TroubleshootingIISPerfIssueswithPerfmon_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Perf Issues with Perfmon]]></video:title>
+        <video:description><![CDATA[Some of the major resources in the operating system are the physical disk, memory, process, CPU and network.  Any of these resources when not utilized properly, will be leading to performance&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/86af/ab95858d-7bc2-4619-9300-749fdaf086af/TroubleshootingIISPerfIssueswithPerfmon_mid.mp4</video:content_loc>
+        <video:duration>558</video:duration>
+        <video:publication_date>2016-10-31T17:01:36.4544059+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dev-Coffee-Break/Troubleshooting-Slow-Response-Issues-With-Log-Parser</loc>
+      <lastmod>2021-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8469/92fe26e4-dd71-419e-a003-e0a813708469/LogParser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Troubleshooting IIS and ASP.NET Issues with Log Parser - Slow Performance -1]]></video:title>
+        <video:description><![CDATA[If you troubleshoot day in and day out, you will deal with an amazing amount of data. Because, to find out the cause and get to the bottom of the issue, we look into lot of places. For example: IIS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8469/92fe26e4-dd71-419e-a003-e0a813708469/LogParser_mid.mp4</video:content_loc>
+        <video:duration>453</video:duration>
+        <video:publication_date>2016-10-24T13:32:52.5772293+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

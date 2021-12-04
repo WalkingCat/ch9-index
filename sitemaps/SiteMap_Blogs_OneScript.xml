@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-configure-federated-identity-sign-in-model-for-SharePoint-2010</loc>
+      <lastmod>2018-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05c2/15b453bd-ba54-4aed-8021-57022a3c05c2/SharePointSSO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to configure federated identity sign-in model for SharePoint 2010]]></video:title>
+        <video:description><![CDATA[This video walks you through the process to configure federated identity sign-in model for SharePoint 2010 with ADFS 2.0. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05c2/15b453bd-ba54-4aed-8021-57022a3c05c2/SharePointSSO_mid.mp4</video:content_loc>
+        <video:duration>695</video:duration>
+        <video:publication_date>2015-09-07T22:29:19.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-configure-federated-identity-sign-in-model-for-Office-365</loc>
+      <lastmod>2018-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92ff/9632b862-2505-4176-808d-9ecfda8792ff/Office365ADFSSSO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to configure federated identity sign-in model for Office 365]]></video:title>
+        <video:description><![CDATA[In this video, we&#39;ll walk you through the steps to configure federated identity sign-in model for Office 365 with ADFS 2.0. For detailed steps involved in this video, see this article: Step-by-step:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92ff/9632b862-2505-4176-808d-9ecfda8792ff/Office365ADFSSSO_mid.mp4</video:content_loc>
+        <video:duration>919</video:duration>
+        <video:publication_date>2015-09-07T09:48:15.3998125+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-set-the-Time-Zone-in-Windows-using-PowerShell-DSC</loc>
+      <lastmod>2019-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f3fc/65da7070-22b3-430b-a803-eee6c807f3fc/PowerShellDSCTimeZone_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to set the Time Zone in Windows using PowerShell DSC]]></video:title>
+        <video:description><![CDATA[Sometimes, IT admins may want to change the time zones on multiple computers if they are not displaying the correct ones. This video shows you how to set the System Time Zone on multiple computers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3fc/65da7070-22b3-430b-a803-eee6c807f3fc/PowerShellDSCTimeZone_mid.mp4</video:content_loc>
+        <video:duration>149</video:duration>
+        <video:publication_date>2015-05-22T07:42:53.6858293+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-configure-system-restore-settings-in-Windows-using-PowerShell-DSC</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1359/c3b6fc65-4b88-4a91-a4b2-4ee5eebc1359/PowerShellDSCSystemRestore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to configure system restore settings in Windows using PowerShell DSC]]></video:title>
+        <video:description><![CDATA[System Restore is a feature of Windows that allows you to take Windows back to an earlier date time, without affecting your personal files. This video shows how to configure System Restore settings on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1359/c3b6fc65-4b88-4a91-a4b2-4ee5eebc1359/PowerShellDSCSystemRestore_mid.mp4</video:content_loc>
+        <video:duration>234</video:duration>
+        <video:publication_date>2015-05-21T11:08:48.2879983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-tweak-Start-screen-animation-in-Windows-8</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6376/dd05f2c6-9c28-4584-945d-7447929a6376/TweakStartScreenAnimation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to tweak Start screen animation in Windows 8]]></video:title>
+        <video:description><![CDATA[In Windows 8, you can see the Start screen animation at first login, but cannot see it if you switch to Start Screen from Desktop or from any other app. This video shows how to force Windows to show&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6376/dd05f2c6-9c28-4584-945d-7447929a6376/TweakStartScreenAnimation_mid.mp4</video:content_loc>
+        <video:duration>82</video:duration>
+        <video:publication_date>2015-02-05T08:11:40.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-add-an-item-to-Startup-in-Windows-8</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eccd/c5abdf52-da89-4ad9-9ec4-a3ce7c99eccd/AddItemtoStartup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to add an item to Startup in Windows 8]]></video:title>
+        <video:description><![CDATA[Windows 8 provides you the option to manage Startup items that will run when Windows starts. You can easily disable or enable a Startup item in Task Manager. But adding items to Startup is not as easy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eccd/c5abdf52-da89-4ad9-9ec4-a3ce7c99eccd/AddItemtoStartup_mid.mp4</video:content_loc>
+        <video:duration>108</video:duration>
+        <video:publication_date>2015-02-04T01:45:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-change-the-power-plan-for-multiple-PCs-in-Windows-81</loc>
+      <lastmod>2017-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7427/69bcb291-c9fc-4d64-b6fd-035d56207427/ChangePowerPlan_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to change the power plan for multiple PCs in Windows 8.1]]></video:title>
+        <video:description><![CDATA[For organizations with a number of physical servers or computers, appropriate power plan settings can save the power consumption on those systems. This video will show you how to use PowerShell script&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7427/69bcb291-c9fc-4d64-b6fd-035d56207427/ChangePowerPlan_mid.mp4</video:content_loc>
+        <video:duration>79</video:duration>
+        <video:publication_date>2015-01-15T08:15:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-add-IE-favorites-to-OneDrive-in-Windows-8</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b343/496e6872-5835-435b-89d0-ca6c07c8b343/SyncIEFavoritesToOneDrive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to add IE favorites to OneDrive in Windows 8]]></video:title>
+        <video:description><![CDATA[IE 11 cannot sync Favorites between two computers respectively with Windows 7 and Windows 8. This video shows you how to use PowerShell to synchronize IE favorites with OneDrive in Windows 8 so that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b343/496e6872-5835-435b-89d0-ca6c07c8b343/SyncIEFavoritesToOneDrive_mid.mp4</video:content_loc>
+        <video:duration>90</video:duration>
+        <video:publication_date>2014-12-17T07:01:01.5418334+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-back-up-Windows-product-key-in-Windows-8-PowerShell</loc>
+      <lastmod>2014-12-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4942/5d96a575-3579-477e-91b8-cb021b894942/BackupWindowsKey_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to back up Windows product key in Windows 8 ]]></video:title>
+        <video:description><![CDATA[Sometimes, you might want to reinstall Windows 8 operating system. But you don&#39;t know the current Windows product key or cannot find it on your computer. In this video, we&#39;ll show you how to use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4942/5d96a575-3579-477e-91b8-cb021b894942/BackupWindowsKey_mid.mp4</video:content_loc>
+        <video:duration>77</video:duration>
+        <video:publication_date>2014-12-17T03:06:15.5409890+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-change-Windows-Store-app-default-installation-location-in-Windows-8</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e899/d25b0ad0-2585-42a2-bb86-66b6ad59e899/ChangeWinAppLocation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to change Windows Store app default installation location in Windows 8]]></video:title>
+        <video:description><![CDATA[Windows Store comes with a variety of apps for users to choose from and install on Windows 8. By default, Windows Store apps are installed in the default system location. You can change the default&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e899/d25b0ad0-2585-42a2-bb86-66b6ad59e899/ChangeWinAppLocation_mid.mp4</video:content_loc>
+        <video:duration>118</video:duration>
+        <video:publication_date>2014-12-08T06:48:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-open-Windows-Store-apps-from-the-desktop</loc>
+      <lastmod>2014-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4bae/7b235486-f9cf-4dc7-81b0-317517224bae/OpenAppFromDesktop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to open Windows Store apps from the desktop]]></video:title>
+        <video:description><![CDATA[In Windows 8, you can only open a Windows Store app from the Start screen. If you mostly work in the desktop environment, you need a different way to open Windows Store apps. We&#39;ll show you how to use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4bae/7b235486-f9cf-4dc7-81b0-317517224bae/OpenAppFromDesktop_mid.mp4</video:content_loc>
+        <video:duration>92</video:duration>
+        <video:publication_date>2014-12-08T00:13:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-remove-multiple-Windows-Store-apps-in-Windows-8</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f344/d486229e-ab5d-4d0d-9451-49c0a322f344/removewindowsstoreapps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to remove multiple Windows Store apps in Windows 8]]></video:title>
+        <video:description><![CDATA[In Windows 8, you can remove a single app by right-clicking it and choosing the uninstall option but you cannot remove multiple apps in this way. This video shows you how to use PowerShell script to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f344/d486229e-ab5d-4d0d-9451-49c0a322f344/removewindowsstoreapps_mid.mp4</video:content_loc>
+        <video:duration>92</video:duration>
+        <video:publication_date>2014-11-21T03:39:20.9161793+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-pin-items-to-the-Start-screen-in-Windows-8</loc>
+      <lastmod>2014-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/587b/0677cd63-d799-4df6-8b75-511f583d587b/pinitemstostart_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to pin items to the Start screen in Windows 8]]></video:title>
+        <video:description><![CDATA[In an enterprise environment, IT administrators typically want to customize user&#39;s working environment by adding app or folder shortcuts to the user&#39;s Windows Start screen. This videos shows how to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/587b/0677cd63-d799-4df6-8b75-511f583d587b/pinitemstostart_mid.mp4</video:content_loc>
+        <video:duration>97</video:duration>
+        <video:publication_date>2014-11-21T02:20:42.4763396+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-Create-a-Custom-Refresh-Image-in-Windows-8</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5ed2/ca27a0b8-e4bc-4592-86db-cad70ccd5ed2/OnescriptCustomRefreshImageWin8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Create a Custom Refresh Image in Windows 8]]></video:title>
+        <video:description><![CDATA[Windows refresh feature doesn’t allow you to create custom refresh points like Windows System Restore does. Instead, Refresh creates a Windows Installer Image to help it restore settings to default&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5ed2/ca27a0b8-e4bc-4592-86db-cad70ccd5ed2/OnescriptCustomRefreshImageWin8_mid.mp4</video:content_loc>
+        <video:duration>118</video:duration>
+        <video:publication_date>2013-03-12T21:30:54.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-Batch-Export-Virtual-Machines-in-Windows-Server-2012</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4783/c78ef975-9dfb-4a1e-9832-0aee443c4783/OneScriptBatchExportVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Batch Export Virtual Machines in Windows Server 2012]]></video:title>
+        <video:description><![CDATA[In a typical IT enterprise environment, the IT admins need to back up virtual machines periodically to protect against loss. While exporting a large number of virtual machines is challenging. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4783/c78ef975-9dfb-4a1e-9832-0aee443c4783/OneScriptBatchExportVM_mid.mp4</video:content_loc>
+        <video:duration>111</video:duration>
+        <video:publication_date>2013-02-05T13:30:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-Change-the-Number-of-Title-Rows-on-the-Start-Screen-in-Windows-8</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc22/31b53080-0d93-41cc-b638-1aaa9d6afc22/OneScriptWin8ChangeNumberTileRows_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Change the Number of Title Rows on the Start Screen in Windows 8]]></video:title>
+        <video:description><![CDATA[By default, the number of title rows is fully dependent on the screen resolution or window size that fits your Windows screen. But sometimes the user wants to display a specific number of rows of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc22/31b53080-0d93-41cc-b638-1aaa9d6afc22/OneScriptWin8ChangeNumberTileRows_mid.mp4</video:content_loc>
+        <video:duration>100</video:duration>
+        <video:publication_date>2013-02-05T13:30:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-Create-a-Shutdown-tile-on-the-Start-screen-in-Windows-8</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fa64/c44faf75-42eb-4748-8766-35352e56fa64/ShutdownTileWin8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Create a Shutdown tile on the Start screen in Windows 8]]></video:title>
+        <video:description><![CDATA[In Windows 8, without a Start button, properly shutting down or rebooting Windows can be a bit of a chore. Many users want to shut down or reboot Windows in just one click. This video illustrates the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fa64/c44faf75-42eb-4748-8766-35352e56fa64/ShutdownTileWin8_mid.mp4</video:content_loc>
+        <video:duration>103</video:duration>
+        <video:publication_date>2012-12-14T13:00:13.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/How-to-Batch-Rename-Virtual-Machines-in-Windows-Server-2012</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e9cc/c2e4cdc3-fffb-4bcd-a439-4f5a1b91e9cc/BatchRenameVMWS2012_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Batch Rename Virtual Machines in Windows Server 2012]]></video:title>
+        <video:description><![CDATA[In an IT enterprise environment, there is usually an existing pool of multiple virtual machines IT administrators need to manage on a daily basis. As the number of virtual machines increases, it&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e9cc/c2e4cdc3-fffb-4bcd-a439-4f5a1b91e9cc/BatchRenameVMWS2012_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2012-12-14T13:00:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/OneScript-How-to-Remove-Multiple-Windows-Store-Apps-in-Windows</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e008/e609a604-1675-4507-a2d4-ccc5443be008/OneScripRemoveWinStoreApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Remove Multiple Windows Store Apps in Windows]]></video:title>
+        <video:description><![CDATA[In Windows 8, you can remove a single Windows Store App by right-clicking and choosing the uninstall option. However, when you select two or more Windows Store Apps, you will find uninstall option is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b5c/c7c2e28b-6099-421b-b7d1-cefdba6b5b5c/RemoveMultipleWindowsStoreApps_mid.mp4</video:content_loc>
+        <video:duration>102</video:duration>
+        <video:publication_date>2012-11-12T08:00:54.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/OneScript-How-to-Batch-Create-Virtual-Machines-in-Windows-Server-2012</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/40df/84bf3946-b1c3-46f7-a613-efa1d1c740df/OneScripBatchCreateVMWS2012_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Batch Create Virtual Machines in Windows Server 2012]]></video:title>
+        <video:description><![CDATA[IT administrators often need to batch create virtual machines in Windows Server 2012. Although there&#39;s a set of Hyper-V command-lets in Windows PowerShell, they are reluctant to use them except for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/21d4/34914fca-c3d4-42d8-ae68-11b5147321d4/BatchCreateVMServer2012_mid.mp4</video:content_loc>
+        <video:duration>160</video:duration>
+        <video:publication_date>2012-11-12T08:00:49.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/OneScript/OneScript-How-to-get-Network-Adaptor-Properties-in-Windows-8</loc>
+      <lastmod>2014-11-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7be/92868f30-392d-47d3-a95e-b31f1ff1b7be/OneScriptNetworkAdaptor_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to get Network Adaptor Properties in Windows 8]]></video:title>
+        <video:description><![CDATA[In a real world, IT administrators are required to check the configuration of network adapters after the deployment of new servers. Also, IT administrators need to maintain a server list which&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af6c/86373b83-a206-4e52-b2a9-6c617486af6c/NetworkAdaptorWin8_mid.mp4</video:content_loc>
+        <video:duration>158</video:duration>
+        <video:publication_date>2012-11-12T08:00:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

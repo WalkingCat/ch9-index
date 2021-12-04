@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Windows-10-Kommunikation-zwischen-Apps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Windows-10-Kommunikation-zwischen-Apps/MVA-Windows-10-Kommunikation-zwischen-Apps-berblick</loc>
+      <lastmod>2015-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a511/4b0b8cf9-54c8-4f44-9bd1-ea75c7c1a511/mvaa2a1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Windows 10 Kommunikation zwischen Apps - &#220;berblick]]></video:title>
+        <video:description><![CDATA[In diesem Modul gibt Daniel Meixner eine &#220;bersicht &#252;ber die neuen M&#246;glichkeiten zwischen Apps Daten auszutauschen. Follow @DanielMeixner ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a511/4b0b8cf9-54c8-4f44-9bd1-ea75c7c1a511/mvaa2a1_mid.mp4</video:content_loc>
+        <video:duration>904</video:duration>
+        <video:publication_date>2015-09-08T13:52:48.4448063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Windows-10-Kommunikation-zwischen-Apps/MVA-Windows-10-Kommunikation-zwischen-Apps-App-Launcher</loc>
+      <lastmod>2015-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/734c/92eda461-8043-4f96-bca4-4d150c58734c/mvaa2a2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Windows 10 Kommunikation zwischen Apps - App Launcher]]></video:title>
+        <video:description><![CDATA[In diesem Modul zeigt Daniel Meixner die neuen M&#246;glichkeiten des App Launchers zur Kommunikation zwischen Universal Windows Platform Apps. Dies beinhaltet die Angabe einer ID zur eindeutigen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/734c/92eda461-8043-4f96-bca4-4d150c58734c/mvaa2a2_mid.mp4</video:content_loc>
+        <video:duration>1055</video:duration>
+        <video:publication_date>2015-09-08T13:52:16.4654494+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Windows-10-Kommunikation-zwischen-Apps/MVA-Windows-10-Kommunikation-zwischen-Apps-Launch-for-Results</loc>
+      <lastmod>2015-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0efb/89029e28-55a0-4197-ad5c-4d110d8c0efb/mvaa2a3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Windows 10 Kommunikation zwischen Apps - Launch for Results]]></video:title>
+        <video:description><![CDATA[In diesem Modul zeigt Daniel Meixner das neue Launch for Results Feature. Damit ist es m&#246;glich, dass eine Universal Windows Platform App eine andere aufruft und von dieser Ergebnisse empf&#228;ngt. Follow&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0efb/89029e28-55a0-4197-ad5c-4d110d8c0efb/mvaa2a3_mid.mp4</video:content_loc>
+        <video:duration>724</video:duration>
+        <video:publication_date>2015-09-08T13:50:55.5325372+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Windows-10-Kommunikation-zwischen-Apps/MVA-Windows-10-Kommunikation-zwischen-Apps-App-Services</loc>
+      <lastmod>2015-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9975/50c5e28e-94a0-4cb6-9318-36ffc42e9975/mvaa2a4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Windows 10 Kommunikation zwischen Apps - App Services]]></video:title>
+        <video:description><![CDATA[App Services erm&#246;glichen die Kommunikation zwischen zwei Apps, wobei nur eine davon sichtbar wird. Daniel Meixner erkl&#228;rt in diesem Modul wie App Services erstellt werden und erkl&#228;rt Einsatzszenarien.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9975/50c5e28e-94a0-4cb6-9318-36ffc42e9975/mvaa2a4_mid.mp4</video:content_loc>
+        <video:duration>1409</video:duration>
+        <video:publication_date>2015-09-08T13:50:26.2392243+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

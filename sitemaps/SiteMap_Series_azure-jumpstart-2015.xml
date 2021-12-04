@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015/04-2</loc>
+      <lastmod>2015-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e420/3e322512-f987-4d63-81f5-9f37d375e420/AzureVirtual02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure  &amp; Remote App ()]]></video:title>
+        <video:description><![CDATA[Azure Virtual Machines 與 Azure Remote App 是許多開發合作夥伴了解雲端的第一步，本場次協助用戶認識 Azure Virtual Machines 進階功能，以及相關效能與承載量估算，並且學習如何運用 Azure Remote App 將傳統視窗桌面程式，透過 RDP 協定以桌面虛擬化方式移往雲端。 欲下載投影片請按這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e420/3e322512-f987-4d63-81f5-9f37d375e420/AzureVirtual02_mid.mp4</video:content_loc>
+        <video:duration>3400</video:duration>
+        <video:publication_date>2015-09-09T09:31:07.9814685+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015/04-1</loc>
+      <lastmod>2015-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cbd6/808e9f66-919a-454b-bb43-acf04a59cbd6/AzureVirtual01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure  &amp; Remote App ()]]></video:title>
+        <video:description><![CDATA[Azure Virtual Machines 與 Azure Remote App 是許多開發合作夥伴了解雲端的第一步，本場次協助用戶認識 Azure Virtual Machines 進階功能，以及相關效能與承載量估算，並且學習如何運用 Azure Remote App 將傳統視窗桌面程式，透過 RDP 協定以桌面虛擬化方式移往雲端。 欲下載投影片請按這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cbd6/808e9f66-919a-454b-bb43-acf04a59cbd6/AzureVirtual01_mid.mp4</video:content_loc>
+        <video:duration>4480</video:duration>
+        <video:publication_date>2015-09-09T08:31:06.4257064+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015/03-2</loc>
+      <lastmod>2015-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aace/3ee32f7b-489e-484e-a7af-baa1c117aace/webapp02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Web App  Storage Blob  SQL Database  ()]]></video:title>
+        <video:description><![CDATA[如何設計具備承載巨量的網頁應用是許多開發合作夥伴共通的挑戰，隨著用戶數量成長，伴隨而來的軟體設計挑戰也將出現，許多面對消費大眾的網路業者是如何運用 Microsoft Azure 來面對巨量用戶，本場次將介紹 Azure Web App 與 Azure Stoage Blob 等機制，幫助開發合作夥伴選用正確的服務，並涵蓋傳統資料庫移轉到雲端等相關議題。 欲下載投影片請按這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aace/3ee32f7b-489e-484e-a7af-baa1c117aace/webapp02_mid.mp4</video:content_loc>
+        <video:duration>5336</video:duration>
+        <video:publication_date>2015-08-28T08:19:37.6062451+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015/03-1</loc>
+      <lastmod>2015-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3981/5ef9e321-8c34-4051-a66d-34914cad3981/webapp01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Web App  Storage Blob  SQL Database  ()]]></video:title>
+        <video:description><![CDATA[如何設計具備承載巨量的網頁應用是許多開發合作夥伴共通的挑戰，隨著用戶數量成長，伴隨而來的軟體設計挑戰也將出現，許多面對消費大眾的網路業者是如何運用 Microsoft Azure 來面對巨量用戶，本場次將介紹 Azure Web App 與 Azure Stoage Blob 等機制，幫助開發合作夥伴選用正確的服務，並涵蓋傳統資料庫移轉到雲端等相關議題。 欲下載投影片請按這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3981/5ef9e321-8c34-4051-a66d-34914cad3981/webapp01_mid.mp4</video:content_loc>
+        <video:duration>3246</video:duration>
+        <video:publication_date>2015-08-28T08:18:32.2103299+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015/01-2</loc>
+      <lastmod>2015-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4276/0b51f5d7-7a7b-41a5-8abe-11a0ba7a4276/Azure02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure  ()]]></video:title>
+        <video:description><![CDATA[本場次是針對軟體開發合作夥伴了解 Microsoft Azure 的第一堂課程，軟體開發合作夥伴者進入雲端最常遇到的第一個問題，便是估算營運所產生的雲端費用成本，特別請到台灣微軟資深技術傳教士李匡正帶大家了解 Microsoft Azure 所提供之各項豐富之雲端功能，有助於開發合作夥伴思考與選擇進入雲端的第一個專案。 欲下載投影片請按這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4276/0b51f5d7-7a7b-41a5-8abe-11a0ba7a4276/Azure02_mid.mp4</video:content_loc>
+        <video:duration>4395</video:duration>
+        <video:publication_date>2015-08-28T08:17:01.3092155+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/azure-jumpstart-2015/01-1</loc>
+      <lastmod>2015-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/046f/10b4af7a-cb07-4d0f-ab30-8e7626f9046f/Azure01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure  ()]]></video:title>
+        <video:description><![CDATA[本場次是針對軟體開發合作夥伴了解 Microsoft Azure 的第一堂課程，軟體開發合作夥伴者進入雲端最常遇到的第一個問題，便是估算營運所產生的雲端費用成本，特別請到台灣微軟資深技術傳教士李匡正帶大家了解 Microsoft Azure 所提供之各項豐富之雲端功能，有助於開發合作夥伴思考與選擇進入雲端的第一個專案。 欲下載投影片請按這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/046f/10b4af7a-cb07-4d0f-ab30-8e7626f9046f/Azure01_mid.mp4</video:content_loc>
+        <video:duration>4857</video:duration>
+        <video:publication_date>2015-08-28T08:15:59.3199196+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

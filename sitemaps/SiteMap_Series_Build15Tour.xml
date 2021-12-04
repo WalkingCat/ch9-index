@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Build15Tour</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Build15Tour/Win10ChinaGeekShow</loc>
+      <lastmod>2015-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c6e/91d84f8a-b79b-49b8-854c-8bf195293c6e/GeekShow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 China Geek Show]]></video:title>
+        <video:description><![CDATA[Windows 10 今夏上市，通过与全球众多合作伙伴的战略合作，预计全球将有数亿台设备免费升级至 Windows 10，这无疑将是开发者们的沃土。 您是否期待成为 Windows 10中国上市时首发应用的开发者，将您的应用第一时间运行在数亿台 Windows 10的设备上？ 想做先锋开发者的，就快跟上吧！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c6e/91d84f8a-b79b-49b8-854c-8bf195293c6e/GeekShow_mid.mp4</video:content_loc>
+        <video:duration>150</video:duration>
+        <video:publication_date>2015-06-15T02:36:58.7903986+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Build15Tour/Build-China</loc>
+      <lastmod>2015-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c6e8/0e000362-73f4-4302-a8ff-b1323a77c6e8/BuildChina_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build China]]></video:title>
+        <video:description><![CDATA[从5月18日起 Build 2015世界巡演将在全球23个城市陆续启动，来自微软总部的Build 2015大会讲师将把Build 2015大会上的最新酷炫科技带给全球23所城市的开发者朋友。 微软为广大中国开发者也带来了好消息，上海和北京都确定成为本次//Build/2015中国行的目的地之一，每座城市1天的活动将覆盖Build 2015大会上的精华内容，也为中国开发者提供更深入了解Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c6e8/0e000362-73f4-4302-a8ff-b1323a77c6e8/BuildChina_mid.mp4</video:content_loc>
+        <video:duration>153</video:duration>
+        <video:publication_date>2015-06-12T03:59:18.9546004+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

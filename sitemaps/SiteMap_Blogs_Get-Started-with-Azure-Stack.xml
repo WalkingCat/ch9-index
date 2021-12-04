@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Create-a-VM-on-the-Admin-Portal</loc>
+      <lastmod>2018-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf28/ead89a24-672b-4ed4-a3c9-eee99c5cbf28/vmAdmin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Create a VM on the Admin Portal]]></video:title>
+        <video:description><![CDATA[Learn how to create a Virtual Machine in Azure Stack as an admin ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf28/ead89a24-672b-4ed4-a3c9-eee99c5cbf28/vmAdmin_mid.mp4</video:content_loc>
+        <video:duration>154</video:duration>
+        <video:publication_date>2017-03-16T23:34:24.3711736+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Azure-Stack-Portal</loc>
+      <lastmod>2017-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f5ef/80fb39af-b109-47fa-a3d4-f188db3af5ef/portal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Azure Stack Portal]]></video:title>
+        <video:description><![CDATA[Learn how to use the Azure Stack portal ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f5ef/80fb39af-b109-47fa-a3d4-f188db3af5ef/portal_mid.mp4</video:content_loc>
+        <video:duration>157</video:duration>
+        <video:publication_date>2017-03-16T23:05:53.8680853+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Marketplace-Syndication</loc>
+      <lastmod>2019-07-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e0dd/e81ead4e-acbf-4612-ad4a-a0748074e0dd/syndication_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Marketplace Syndication]]></video:title>
+        <video:description><![CDATA[Learn how to bring your Azure content to Azure Stack ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e0dd/e81ead4e-acbf-4612-ad4a-a0748074e0dd/syndication_mid.mp4</video:content_loc>
+        <video:duration>92</video:duration>
+        <video:publication_date>2017-03-16T23:03:52.9607961+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Offer-Services-to-Tenants-Tenant-Subscriptions</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a7a1/dfdcf77f-4829-4f43-952e-be5d8752a7a1/sub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Offer Services to Tenants: Tenant Subscriptions]]></video:title>
+        <video:description><![CDATA[Learn how to create tenant subscriptions in Azure Stack ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a7a1/dfdcf77f-4829-4f43-952e-be5d8752a7a1/sub_mid.mp4</video:content_loc>
+        <video:duration>64</video:duration>
+        <video:publication_date>2017-03-16T23:01:51.3832958+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Azure-Stack-Marketplace</loc>
+      <lastmod>2017-12-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83ed/dff0f18a-f390-4ac3-b729-91c8265283ed/market_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Azure Stack Marketplace]]></video:title>
+        <video:description><![CDATA[Learn about the Azure Stack Marketplace ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83ed/dff0f18a-f390-4ac3-b729-91c8265283ed/market_mid.mp4</video:content_loc>
+        <video:duration>38</video:duration>
+        <video:publication_date>2017-03-16T23:01:39.2639116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Offer-Services-to-Tenants-Offers</loc>
+      <lastmod>2017-10-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/069f/5c090b04-7fd9-487c-913c-744246f0069f/offer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Offer Services to Tenants: Offers]]></video:title>
+        <video:description><![CDATA[Learn how to create offers for tenants in Azure Stack ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/069f/5c090b04-7fd9-487c-913c-744246f0069f/offer_mid.mp4</video:content_loc>
+        <video:duration>162</video:duration>
+        <video:publication_date>2017-03-16T22:55:47.8073612+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Offer-Services-to-Tenants-Plans</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a8cc/39b1c5d6-5806-453a-b30c-10233df6a8cc/plan_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Offer Services to Tenants: Plans]]></video:title>
+        <video:description><![CDATA[Learn how to create plans for tenants in Azure Stack ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a8cc/39b1c5d6-5806-453a-b30c-10233df6a8cc/plan_mid.mp4</video:content_loc>
+        <video:duration>159</video:duration>
+        <video:publication_date>2017-03-16T22:53:36.3994544+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Offer-Services-to-Tenants-Quotas</loc>
+      <lastmod>2017-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7fd6/c5f28eb8-5e4d-4261-a226-1ef8ed7f7fd6/quota_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Offer Services to Tenants: Quotas]]></video:title>
+        <video:description><![CDATA[Learn how to set quotas for tenants in Azure Stack ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7fd6/c5f28eb8-5e4d-4261-a226-1ef8ed7f7fd6/quota_mid.mp4</video:content_loc>
+        <video:duration>119</video:duration>
+        <video:publication_date>2017-03-16T22:50:02.0722697+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Get-Started-with-Azure-Stack/Get-Started-with-Azure-Stack-Add-a-VM-Image-to-Azure-Stack</loc>
+      <lastmod>2017-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a8e/1892d5a1-6822-4c77-9c61-4a05c9fb3a8e/addImage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Azure Stack - Add a VM Image to Azure Stack]]></video:title>
+        <video:description><![CDATA[Learn how to add a VM image to Azure Stack ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a8e/1892d5a1-6822-4c77-9c61-4a05c9fb3a8e/addImage_mid.mp4</video:content_loc>
+        <video:duration>93</video:duration>
+        <video:publication_date>2017-03-16T22:48:07.0594919+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

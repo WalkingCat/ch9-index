@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Blend-for-Visual-Studio-TV</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Blend-for-Visual-Studio-TV/Blend-for-Visual-Studio-2015-Preview</loc>
+      <lastmod>2021-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f04e/77b003e3-1cf9-4d1f-92c0-60bac74af04e/BlendforVisualStudio2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Blend for Visual Studio 2015 Preview]]></video:title>
+        <video:description><![CDATA[Blend for Visual Studio 2015 has been redesigned to remain the preferred tool for creating beautiful user interfaces for XAML apps. Blend has a sleek new look consistent with Visual Studio to improve&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f04e/77b003e3-1cf9-4d1f-92c0-60bac74af04e/BlendforVisualStudio2015_mid.mp4</video:content_loc>
+        <video:duration>316</video:duration>
+        <video:publication_date>2015-02-13T18:11:07.3215995+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

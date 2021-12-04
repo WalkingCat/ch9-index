@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Windows-PowerShell-40</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Windows-PowerShell-40/01-Das-Fundament-berblick-ber-die-Windows-PowerShell</loc>
+      <lastmod>2015-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/079f/bfae1944-fc1d-468a-a6ee-393935b0079f/01DasFundamentUeberblickUeberDieWindowsPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Das Fundament: &#220;berblick &#252;ber die Windows PowerShell]]></video:title>
+        <video:description><![CDATA[In diesem Modul erhalten Sie einen ersten &#220;berblick und lernen Automatisierungsm&#246;glichkeiten kennen. Zudem werden Systemvoraussetzungen vorgestellt. Abschlie&#223;end lernen Sie relevante Werkzeuge kennen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/079f/bfae1944-fc1d-468a-a6ee-393935b0079f/01DasFundamentUeberblickUeberDieWindowsPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1300</video:duration>
+        <video:publication_date>2015-10-20T08:15:08.4265958+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Windows-PowerShell-40/02-Basiskonstrukte-der-Windows-PowerShell</loc>
+      <lastmod>2015-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/38ba/8640ae68-cbaf-4853-a3a1-4fa3bf0838ba/02BasiskonstrukteDerWindowsPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Basiskonstrukte der Windows PowerShell]]></video:title>
+        <video:description><![CDATA[In diesem Modul lernen sie die Basiskonstrukte sowie Hilfefunktionen kennen. Dar&#252;ber hinaus wenden Sie die Konstrukte der Windows PowerShell in der Praxis an. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/38ba/8640ae68-cbaf-4853-a3a1-4fa3bf0838ba/02BasiskonstrukteDerWindowsPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1077</video:duration>
+        <video:publication_date>2015-10-20T08:14:53.8683179+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Windows-PowerShell-40/03-Scripting-mit-der-Windows-PowerShell</loc>
+      <lastmod>2015-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8cae/e21585bd-cf32-49bd-86a4-e4a784248cae/03ScriptingMitDerWindowsPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Scripting mit der Windows PowerShell]]></video:title>
+        <video:description><![CDATA[In diesem Modul erhalten Sie einen &#220;berblick &#252;ber das Scripting mit der PowerShell an Hand eines praxisrelevanten Beispiels. Dar&#252;ber hinaus erhalten Sie Tipps und Tricks sowie hilfreiche Ressourcen. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8cae/e21585bd-cf32-49bd-86a4-e4a784248cae/03ScriptingMitDerWindowsPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1388</video:duration>
+        <video:publication_date>2015-10-20T08:14:37.9095447+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSOffice-365</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSOffice-365/Data-Loss-Prevention--Exchange-Online-Office-365</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0422/1ec98b2f-30c0-48fe-b6f0-21d189aa0422/dlp365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Prevenci&#243;n de p&#233;rdida de datos | DLP | Exchange Online [Office 365]]]></video:title>
+        <video:description><![CDATA[Video simple donde muestro como pueden configurar el DLP (Data Loss Prevention) en Exchange Online para prevenir perdida de informacion sensible   Por Geovany Acevedo MCPS MCDST MCTS MCITP MCSA MCSE&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0422/1ec98b2f-30c0-48fe-b6f0-21d189aa0422/dlp365_mid.mp4</video:content_loc>
+        <video:duration>369</video:duration>
+        <video:publication_date>2015-08-14T16:36:39.7393350+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSOffice-365/Remote-Powershell--Exchange-Online-Office-365</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ffbf/8071b171-fa1c-4003-8d6a-5f7b3df9ffbf/remoteems_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Remote Powershell | Exchange Online [Office 365]]]></video:title>
+        <video:description><![CDATA[Un video muy sencillo donde muestro como hacer una conexion de powershell remoto a Office 365 (Exchange Online)   Por Geovany Acevedo MCPS MCDST MCTS MCITP MCSA MCSE MCT MVP:Exchange Server ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ffbf/8071b171-fa1c-4003-8d6a-5f7b3df9ffbf/remoteems_mid.mp4</video:content_loc>
+        <video:duration>496</video:duration>
+        <video:publication_date>2015-08-05T06:45:17.7001864+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSOffice-365/Autenticacin-Multi-Factor--Office-365-Exchange-Online</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5e1/a6c2bac4-5b8d-40ba-8e98-4ddee370c5e1/multi365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Autenticaci&#243;n Multi-Factor | Office 365 [Exchange Online]]]></video:title>
+        <video:description><![CDATA[Un video sencillo donde muestro como pueden habilitar la autenticacion de multi-factor en Office 365. Esta configuracion de seguridad es muy practica y ofrece mayor nivel de seguridad para nuestros&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5e1/a6c2bac4-5b8d-40ba-8e98-4ddee370c5e1/multi365_mid.mp4</video:content_loc>
+        <video:duration>563</video:duration>
+        <video:publication_date>2015-08-05T06:37:28.3320232+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

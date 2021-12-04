@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Cognitive-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Cognitive-Services/4-Text-To-Speech</loc>
+      <lastmod>2016-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4946/f73f23a7-bc51-451a-a5a6-3e6baa2c4946/TextToSpeech_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 Text To Speech]]></video:title>
+        <video:description><![CDATA[Nachdem ihr Bildanalyse kennengelernt habt, zeigen wir euch in diesem Video, wie ihr Text in Sprache umwandeln k&#246;nnt. Als Beispiel wird eine Webanwendung gezeigt.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4946/f73f23a7-bc51-451a-a5a6-3e6baa2c4946/TextToSpeech_mid.mp4</video:content_loc>
+        <video:duration>566</video:duration>
+        <video:publication_date>2016-05-09T17:38:22.1937796+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Cognitive-Services/5-Speech-To-Text</loc>
+      <lastmod>2016-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e92d/9bd37671-f352-4c56-995d-50721804e92d/SpeechToText_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 Speech To Text]]></video:title>
+        <video:description><![CDATA[Als Abschluss der Serie wird in diesem Video vorgestellt, wie ihr &#252;ber eine Webseite Sprache aufnehmt und diese &#252;ber einen Cognitive Service in Text umwandeln lassen k&#246;nnt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e92d/9bd37671-f352-4c56-995d-50721804e92d/SpeechToText_mid.mp4</video:content_loc>
+        <video:duration>750</video:duration>
+        <video:publication_date>2016-05-09T16:22:20.2950602+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Cognitive-Services/3-Emotion-Detection</loc>
+      <lastmod>2016-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5511/5f5953b8-fcbc-4b97-bbfd-04c287e45511/EmotionDetection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3-Emotion-Detection]]></video:title>
+        <video:description><![CDATA[Auf dem Facial Recognition Beispiel aufbauend zeigt euch Nico, wie ihr Emotionen aus einem Bild erkennen und in eure App einbauen k&#246;nnt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5511/5f5953b8-fcbc-4b97-bbfd-04c287e45511/EmotionDetection_mid.mp4</video:content_loc>
+        <video:duration>576</video:duration>
+        <video:publication_date>2016-05-09T16:21:30.1370372+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Cognitive-Services/2-Face-Detection</loc>
+      <lastmod>2016-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5230/272b96c7-3099-4c00-b4a7-afc420425230/FaceDetection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2-Face-Detection]]></video:title>
+        <video:description><![CDATA[In diesem Video stellt euch Nicoleta vor, wie ihr in eure Windows 10 App die Face Detection API einbinden k&#246;nnt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5230/272b96c7-3099-4c00-b4a7-afc420425230/FaceDetection_mid.mp4</video:content_loc>
+        <video:duration>1081</video:duration>
+        <video:publication_date>2016-05-09T16:21:22.7733297+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Einfhrung-in-Cognitive-Services/1-Einfhrung</loc>
+      <lastmod>2016-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7bf/710bcf29-0827-4c3d-b412-0d918f30b7bf/Einfuehrung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1-Einf&#252;hrung]]></video:title>
+        <video:description><![CDATA[In diesem Video stelle wir euch die verschiedenen Cognitive Services vor und gehen auf bestimmte Beispiele n&#228;her ein. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7bf/710bcf29-0827-4c3d-b412-0d918f30b7bf/Einfuehrung_mid.mp4</video:content_loc>
+        <video:duration>970</video:duration>
+        <video:publication_date>2016-05-09T16:21:11.7362090+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

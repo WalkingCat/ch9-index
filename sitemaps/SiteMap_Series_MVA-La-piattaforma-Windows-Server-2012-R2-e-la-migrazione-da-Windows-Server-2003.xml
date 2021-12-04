@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-La-piattaforma-Windows-Server-2012-R2-e-la-migrazione-da-Windows-Server-2003</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-La-piattaforma-Windows-Server-2012-R2-e-la-migrazione-da-Windows-Server-2003/01--Windows-Server-2012-R2-e-Hyper-V</loc>
+      <lastmod>2016-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/26bf/c0ff1da0-f600-4c71-ad6d-5b4344c926bf/MVA01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Windows Server 2012 R2 e Hyper-V]]></video:title>
+        <video:description><![CDATA[In questo modulo viene offerta una rapida panoramica su Windows Server 2012 R2, con alcuni approfondimenti relativi a Hyper-V, e viene fatta unintroduzione alle modalit&#224; di migrazione da Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/26bf/c0ff1da0-f600-4c71-ad6d-5b4344c926bf/MVA01_mid.mp4</video:content_loc>
+        <video:duration>3579</video:duration>
+        <video:publication_date>2016-01-19T17:16:53.3432666+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-La-piattaforma-Windows-Server-2012-R2-e-la-migrazione-da-Windows-Server-2003/02--Migrazione-in-place-di-un-dominio-basato-su-Windows-Server-2003</loc>
+      <lastmod>2020-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/63de/46b3416c-5b90-4888-9900-6862c78f63de/MVA02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Migrazione in-place di un dominio basato su Windows Server 2003]]></video:title>
+        <video:description><![CDATA[In questo laboratorio verranno illustrate le operazioni necessarie per effettuare la migrazione in-place di un dominio basato su Windows Server 2003 a Windows Server 2012 R2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63de/46b3416c-5b90-4888-9900-6862c78f63de/MVA02_mid.mp4</video:content_loc>
+        <video:duration>3461</video:duration>
+        <video:publication_date>2016-01-19T17:16:32.0232825+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-La-piattaforma-Windows-Server-2012-R2-e-la-migrazione-da-Windows-Server-2003/03--Migrazione-da-dominio-a-dominio--Operazioni-preparatorie</loc>
+      <lastmod>2020-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e851/fed37b5a-7e4e-4ba9-adce-aa5277e2e851/MVA03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Migrazione da dominio a dominio  Operazioni preparatorie]]></video:title>
+        <video:description><![CDATA[In questo laboratorio verranno illustrate le operazioni preparatorie necessarie per migrare un dominio esistente, basato su Windows Server 2003, a un nuovo dominio basato su Windows Server 2012 R2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e851/fed37b5a-7e4e-4ba9-adce-aa5277e2e851/MVA03_mid.mp4</video:content_loc>
+        <video:duration>2819</video:duration>
+        <video:publication_date>2016-01-19T17:14:40.5588170+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-La-piattaforma-Windows-Server-2012-R2-e-la-migrazione-da-Windows-Server-2003/04--Migrazione-da-dominio-a-dominio--Operazioni-di-migrazione</loc>
+      <lastmod>2020-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ba51/34d91a1f-7ba6-48be-a2e9-330e412aba51/MVA04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Migrazione da dominio a dominio  Operazioni di migrazione]]></video:title>
+        <video:description><![CDATA[In questo laboratorio verranno illustrate le operazioni di migrazione da un dominio basato su Windows Server 2003 a un dominio basato su Windows Server 2012 R2     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba51/34d91a1f-7ba6-48be-a2e9-330e412aba51/MVA04_mid.mp4</video:content_loc>
+        <video:duration>3723</video:duration>
+        <video:publication_date>2016-01-19T17:13:43.5216195+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

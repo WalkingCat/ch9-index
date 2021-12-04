@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dive-Deep-into-Networking-Storage-and-Disaster-Recovery-Scenarios-cht</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dive-Deep-into-Networking-Storage-and-Disaster-Recovery-Scenarios-cht/04</loc>
+      <lastmod>2015-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/701a/09bbdc09-9f1c-42c3-b0d4-e46a62ba701a/Day2LearntheInsandOutsofAzureAutomationJoeLevy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04)  Azure  IaaS]]></video:title>
+        <video:description><![CDATA[現今環境已從本地轉變到混和雲，您的技術也必須跟著轉型，從 GUI 、一次性解決方案的管理技術與可重複的自動化環境，透徹了解 Azure 的自動化服務和新的服務，在自己的環境中利用現有的 Script 發布自己或其他使用者的，希望藉此更上一層樓，此課程將會帶來 DesiredStateConfiguration 的一些新功能。 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/701a/09bbdc09-9f1c-42c3-b0d4-e46a62ba701a/Day2LearntheInsandOutsofAzureAutomationJoeLevy_mid.mp4</video:content_loc>
+        <video:duration>3320</video:duration>
+        <video:publication_date>2015-07-27T10:12:36.2780440+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dive-Deep-into-Networking-Storage-and-Disaster-Recovery-Scenarios-cht/03</loc>
+      <lastmod>2015-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/518b/d70a7ee1-ada6-4cc1-bcb9-55c72b43518b/Day2PlanningDisasterRecoveryMcSpirit_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03) ]]></video:title>
+        <video:description><![CDATA[微軟針對你的運作環境提供業務連續性及災難復原(BCDR) 解決方案 - 容錯移轉叢集 提供網狀架構及應用程式的彈性 - System Center Data Protection Manager 及 Windows Server Backup 為重要資料提供強大的保護機制 - Microsoft Azure 為 備份 及 站台復原 提供增強的新功能 - 微軟解決方案幫助你在業務連續性的部份&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/518b/d70a7ee1-ada6-4cc1-bcb9-55c72b43518b/Day2PlanningDisasterRecoveryMcSpirit_mid.mp4</video:content_loc>
+        <video:duration>3414</video:duration>
+        <video:publication_date>2015-07-27T04:16:26.3642881+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dive-Deep-into-Networking-Storage-and-Disaster-Recovery-Scenarios-cht/02</loc>
+      <lastmod>2015-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3a3a/83fe4662-8234-492a-ae2e-c33379293a3a/Day2DeepDiveAzureStorageBlobsKommineni_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02)  Azure  ]]></video:title>
+        <video:description><![CDATA[Azure 儲存體是一個高可用性以及持久的雲端儲存系統，提供了 Blobs、Files,、NoSQL 資料表、Azure 佇列等等，皆建立在同一平台之上。這次的課程當中，我們將討論到 Azure 儲存體的概論以及深入探討有關 Azure 磁碟和 Iaas VM 虛擬主機儲存架構，此課程也將提供 Azure Premium Storage 磁碟的詳細介紹，提供相關 IOPs.解決方案。&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a3a/83fe4662-8234-492a-ae2e-c33379293a3a/Day2DeepDiveAzureStorageBlobsKommineni_mid.mp4</video:content_loc>
+        <video:duration>3495</video:duration>
+        <video:publication_date>2015-07-27T04:02:11.9356204+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Dive-Deep-into-Networking-Storage-and-Disaster-Recovery-Scenarios-cht/01</loc>
+      <lastmod>2015-08-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d0be/261c768b-cb75-4ec9-9441-c9a08288d0be/Day2DesigningNetworkingYuShunWang_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01)  Azure ]]></video:title>
+        <video:description><![CDATA[深入探討設計網路架構及 Azure 混合式連接。 欲下載投影片請點這裡 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0be/261c768b-cb75-4ec9-9441-c9a08288d0be/Day2DesigningNetworkingYuShunWang_mid.mp4</video:content_loc>
+        <video:duration>3454</video:duration>
+        <video:publication_date>2015-07-27T01:56:02.1825547+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

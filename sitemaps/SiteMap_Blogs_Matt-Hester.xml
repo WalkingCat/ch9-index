@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Matt-Hester</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Matt-Hester/Building-Microsoft-Azure-Virtual-Networks</loc>
+      <lastmod>2014-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8710/a0cb3fc5-f8bb-482b-bfcc-0cf853618710/vnetmhester_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Microsoft Azure Virtual Networks ]]></video:title>
+        <video:description><![CDATA[In today&#39;s part of the series I take you on a quick tour of one of the key building blocks in any successful hybrid cloud environment, and that is Virtual Networks.  Now instead of writing about how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8710/a0cb3fc5-f8bb-482b-bfcc-0cf853618710/vnetmhester_high.mp4</video:content_loc>
+        <video:duration>726</video:duration>
+        <video:publication_date>2014-09-02T23:47:42.2421044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Matt-Hester/Windows-Server-2012-R2-Storage-Pools</loc>
+      <lastmod>2017-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a505/7b61eec9-a3db-453b-bae1-25ed6963a505/Storager2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server 2012 R2 Storage Pools]]></video:title>
+        <video:description><![CDATA[In this quick feature, I take a look at how easy it is to work with Storage Pools ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a505/7b61eec9-a3db-453b-bae1-25ed6963a505/Storager2_mid.mp4</video:content_loc>
+        <video:duration>535</video:duration>
+        <video:publication_date>2014-08-26T01:44:12.9233590+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Matt-Hester/Getting-Started-with-BizSpark</loc>
+      <lastmod>2014-05-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/716f/cf9f617b-1c47-4f65-b8a5-72c25fea716f/BizSignup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with BizSpark]]></video:title>
+        <video:description><![CDATA[In this video, Keith Mayer will take you through the process on how to sign up to BizSpark.  Please comment if you have any questions or issues.   To learn more and get started with BizSpark, take a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/716f/cf9f617b-1c47-4f65-b8a5-72c25fea716f/BizSignup_mid.mp4</video:content_loc>
+        <video:duration>377</video:duration>
+        <video:publication_date>2014-05-09T14:03:56.9459532+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Matt-Hester/Installing-WDS-on-Windows-Server-2012R2</loc>
+      <lastmod>2014-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e9f2/dc510a94-71ff-4e34-8006-520df933e9f2/WDS2012R2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing WDS on Windows Server 2012R2]]></video:title>
+        <video:description><![CDATA[This is quick screencast to get you started with WDS ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e9f2/dc510a94-71ff-4e34-8006-520df933e9f2/WDS2012R2_mid.mp4</video:content_loc>
+        <video:duration>481</video:duration>
+        <video:publication_date>2014-03-11T21:17:08.9514379+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

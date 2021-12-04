@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-8-Azure-authentication</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3acc/672527d6-040c-4960-a61f-8843c4f83acc/azureauthentication_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 8: Azure authentication ]]></video:title>
+        <video:description><![CDATA[This video shows how to add authentication support to the Azure connected services sample app.This is one video in the Cordova video and documentation series on using Azure connected services.For the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3acc/672527d6-040c-4960-a61f-8843c4f83acc/azureauthentication_mid.mp4</video:content_loc>
+        <video:duration>273</video:duration>
+        <video:publication_date>2016-07-25T16:04:04.2644452+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-7-Configure-client-and-backend</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c99/fd8d9cd4-2824-43f1-a508-07255c3a4c99/azurepushclientandbackendconfig_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 7: Configure client and backend]]></video:title>
+        <video:description><![CDATA[Final code check and client configuration for pushThis is one video in the Cordova video and documentation series on using connected services.For the complete set of tasks and videos, see this topic:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c99/fd8d9cd4-2824-43f1-a508-07255c3a4c99/azurepushclientandbackendconfig_mid.mp4</video:content_loc>
+        <video:duration>343</video:duration>
+        <video:publication_date>2016-07-25T16:03:48.7634602+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-6-Set-up-wns-for-push</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0697/0c9f158f-eb92-4403-88b0-e40390a50697/azurepushwnsconfig_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 6: Set up wns for push ]]></video:title>
+        <video:description><![CDATA[This video shows how to set up Windows Notification Service (WNS) to send push notifications to Windows devices.This is one video in the Cordova video and documentation series on using Azure connected&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0697/0c9f158f-eb92-4403-88b0-e40390a50697/azurepushwnsconfig_mid.mp4</video:content_loc>
+        <video:duration>237</video:duration>
+        <video:publication_date>2016-07-25T16:03:36.5571680+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-5-Set-up-apns-for-push</loc>
+      <lastmod>2018-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b472/3128334e-8a9e-4432-9364-8a842a17b472/azurepushapnsconfig_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 5: Set up apns for push ]]></video:title>
+        <video:description><![CDATA[This video shows how to set up Apple Push Notification Service (APNS) to send push notifications to iOS devices in a Cordova app. This is one video in the Cordova video and documentation series on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b472/3128334e-8a9e-4432-9364-8a842a17b472/azurepushapnsconfig_mid.mp4</video:content_loc>
+        <video:duration>391</video:duration>
+        <video:publication_date>2016-07-25T16:03:22.2867747+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-4-Set-up-gcm-for-push</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5111/411ed09c-c67b-4e23-a336-d20c1de25111/azurepushgcmconfig_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 4: Set up gcm for push ]]></video:title>
+        <video:description><![CDATA[This video shows how to setup up Google Cloud Messaging (GCM) to send push notifications to Android devices in a Cordova app.This is one video in the Cordova video and documentation series on using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5111/411ed09c-c67b-4e23-a336-d20c1de25111/azurepushgcmconfig_mid.mp4</video:content_loc>
+        <video:duration>288</video:duration>
+        <video:publication_date>2016-07-25T16:03:08.1250894+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-1-Create-an-Azure-Mobile-App</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1ab9/c27aa7a2-6143-4834-851c-126783821ab9/Azure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 1: Create an Azure Mobile App]]></video:title>
+        <video:description><![CDATA[Create the Azure Mobile App using the Azure portal.This is one video in the Cordova video and documentation series on using connected services.For the complete set of tasks and videos, see this topic:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1ab9/c27aa7a2-6143-4834-851c-126783821ab9/Azure_mid.mp4</video:content_loc>
+        <video:duration>421</video:duration>
+        <video:publication_date>2016-07-25T16:02:41.7374158+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-3-Create-azure-notification-hub</loc>
+      <lastmod>2018-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4652/23151e36-6496-414a-82c7-00115b024652/azurenotificationshubs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure connected services - task 3: Create azure notification hub ]]></video:title>
+        <video:description><![CDATA[This video shows how to create an Azure notification hub for use with push notifications. This is one video in the Cordova video and documentation series on using connected services. For the complete&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4652/23151e36-6496-414a-82c7-00115b024652/azurenotificationshubs_mid.mp4</video:content_loc>
+        <video:duration>149</video:duration>
+        <video:publication_date>2016-07-25T16:02:20.7744890+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Hosting-mit-Azure-App-Service-Web-Apps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Hosting-mit-Azure-App-Service-Web-Apps/03--Skalierung-und-Monitoring</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5830/a4fbb58a-cb06-4e73-bf81-d0f57cdd5830/MVAWebApps03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Skalierung und Monitoring]]></video:title>
+        <video:description><![CDATA[In diesem Modul lernen sie den Unterschied zwischen vertikaler und horizontaler Skalierung kennen und erfahren wie sie diese Methoden mit Azure Web Apps umsetzen k&#246;nnen. Weiterhin erhalten Sie einen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5830/a4fbb58a-cb06-4e73-bf81-d0f57cdd5830/MVAWebApps03_mid.mp4</video:content_loc>
+        <video:duration>2034</video:duration>
+        <video:publication_date>2016-04-04T07:50:30.5664332+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Hosting-mit-Azure-App-Service-Web-Apps/02--Continuous-Deployment-und-Verwaltung</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc39/9972e2bf-ede0-43dd-8020-e05023aedc39/MVAWebApps02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | (Continuous) Deployment und Verwaltung]]></video:title>
+        <video:description><![CDATA[In diesem Modul erfahren Sie, welche Deployment-Optionen ihnen bei der Nutzung von Azure Web Apps zur Verf&#252;gung stehen und welche Tools zur Webentwicklung unterst&#252;tzt werden. Neben klassichen Methoden&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc39/9972e2bf-ede0-43dd-8020-e05023aedc39/MVAWebApps02_mid.mp4</video:content_loc>
+        <video:duration>1209</video:duration>
+        <video:publication_date>2016-04-04T07:35:02.7605884+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cloud-Hosting-mit-Azure-App-Service-Web-Apps/01--Einordnung-Grundlagen-Einrichtung</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7676/ddb42144-ec5c-4e29-a4ea-0e03bd1a7676/MVAWebApps01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Einordnung, Grundlagen, Einrichtung]]></video:title>
+        <video:description><![CDATA[In diesem Modul bekommen Sie einen kompakten &#220;berblick &#252;ber Microsoft Azure und erfahren, wie sich Azure Web Apps im Kontext der weiteren Azure Dienste einordnen l&#228;sst. Sie lernen die verschiedenen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7676/ddb42144-ec5c-4e29-a4ea-0e03bd1a7676/MVAWebApps01_mid.mp4</video:content_loc>
+        <video:duration>2295</video:duration>
+        <video:publication_date>2016-04-04T07:33:40.6312787+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

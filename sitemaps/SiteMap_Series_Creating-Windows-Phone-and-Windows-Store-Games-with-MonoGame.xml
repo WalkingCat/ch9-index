@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d085/52257e8c-b078-49ee-bc77-fd58cbc6d085/360CreatingGamesWithMonoGameM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Phone and Windows Store Games with MonoGame: (04) Porting MonoGame Games to Windows&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Port the newly developed game to the Windows Store for use on PCs and tablets, with the goal of gaining familiarity with issues in porting games, including code sharing, multiple input forms, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d085/52257e8c-b078-49ee-bc77-fd58cbc6d085/360CreatingGamesWithMonoGameM04_mid.mp4</video:content_loc>
+        <video:duration>2179</video:duration>
+        <video:publication_date>2014-12-10T17:18:16.4376121+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/03</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d8d/52141afb-3b3d-42b1-b2da-7d2e707d8d8d/360CreatingGamesWithMonoGameM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Phone and Windows Store Games with MonoGame: (03) Creating a Windows Phone Game&amp;#8230;]]></video:title>
+        <video:description><![CDATA[​In this second of a two-part session, develop a complete MonoGame game for Windows Phone, expanding on the gameplay and graphics from the first session, adding the user interface, sound effects, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d8d/52141afb-3b3d-42b1-b2da-7d2e707d8d8d/360CreatingGamesWithMonoGameM03_mid.mp4</video:content_loc>
+        <video:duration>3667</video:duration>
+        <video:publication_date>2014-12-10T17:17:25.6731999+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d567/b008fc56-b5c8-458c-be05-add252aed567/360CreatingGamesWithMonoGameM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Phone and Windows Store Games with MonoGame: (02) Creating a Windows Phone Game&amp;#8230;]]></video:title>
+        <video:description><![CDATA[In this first of a two-part session, develop the basics of a MonoGame game for Windows Phone, with the goal of learning key concepts, such as implementing gameplay, rendering graphics, and handing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d567/b008fc56-b5c8-458c-be05-add252aed567/360CreatingGamesWithMonoGameM02_mid.mp4</video:content_loc>
+        <video:duration>4392</video:duration>
+        <video:publication_date>2014-12-10T17:17:11.4801001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f6a5/379d9bf0-c2f8-49dc-afc4-beb73efbf6a5/360CreatingGamesWithMonoGameM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Windows Phone and Windows Store Games with MonoGame: (01) Getting Started with MonoGame]]></video:title>
+        <video:description><![CDATA[Get an introduction to MonoGame and how it is used to create games for Windows Phone and the Windows Store. Create a simple “Hello World” game, and get familiar with the tools and development&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f6a5/379d9bf0-c2f8-49dc-afc4-beb73efbf6a5/360CreatingGamesWithMonoGameM01_mid.mp4</video:content_loc>
+        <video:duration>3252</video:duration>
+        <video:publication_date>2014-12-10T17:16:44.2364012+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

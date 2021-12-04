@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-on-Azure-Technical-Overview</loc>
+      <lastmod>2020-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9276/a68ee68e-210f-4c9c-ad64-3adffbb89276/SAPonAzureTechnicalOverviewV2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP on Azure - Technical Overview]]></video:title>
+        <video:description><![CDATA[This presentation was intended for audiences new to SAP and highlights Azure infrastructure solutions for the SAP workloads.  The discussion starts from taking a quick tour in SAP ERP product history&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9276/a68ee68e-210f-4c9c-ad64-3adffbb89276/SAPonAzureTechnicalOverviewV2_mid.mp4</video:content_loc>
+        <video:duration>3351</video:duration>
+        <video:publication_date>2017-07-10T20:43:38.4101698+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/Building-SAP-HANA-system-via-Azure-portal</loc>
+      <lastmod>2021-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4cc/75a12b2f-6f2d-48b0-bac8-a2037aa9d4cc/BuildingSAPHANASystemsViaAzurePortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building SAP HANA system via Azure portal]]></video:title>
+        <video:description><![CDATA[This session takes the audiences through the experience of building an SAP HANA system over the Azure Management portals. We recap the build steps, highlight recommended practices while audiences have&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4cc/75a12b2f-6f2d-48b0-bac8-a2037aa9d4cc/BuildingSAPHANASystemsViaAzurePortal_mid.mp4</video:content_loc>
+        <video:duration>1856</video:duration>
+        <video:publication_date>2017-05-08T18:43:46.1259563+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-BW-on-HANA-case-study</loc>
+      <lastmod>2021-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94f2/284b35ab-0ffb-4953-b578-7f87498d94f2/SAPBWonHANACaseStudy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP BW on HANA case study]]></video:title>
+        <video:description><![CDATA[A customer business and technical challenges are stated and the participants form teams and use information from the presentations to perform an architecture design for the stated requirements.  From&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94f2/284b35ab-0ffb-4953-b578-7f87498d94f2/SAPBWonHANACaseStudy_mid.mp4</video:content_loc>
+        <video:duration>1711</video:duration>
+        <video:publication_date>2017-05-08T18:43:32.5177245+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-HANA-on-Azure-Architecture-Design</loc>
+      <lastmod>2021-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fbe1/a2b6e88f-6672-4f8b-a26b-f46bcd7cfbe1/SAPHANAonAzureArchitectureDesign_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP HANA on Azure Architecture Design ]]></video:title>
+        <video:description><![CDATA[SAP HANA is an SAP In-Memory database that currently supports a selected set of SAP analytics and ERP applications. Its solution architecture although has some resemblance to the classic NW&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbe1/a2b6e88f-6672-4f8b-a26b-f46bcd7cfbe1/SAPHANAonAzureArchitectureDesign_mid.mp4</video:content_loc>
+        <video:duration>5130</video:duration>
+        <video:publication_date>2017-05-08T18:43:29.6258394+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-Silent-Install</loc>
+      <lastmod>2021-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd66/6d3fe9f6-06ed-453f-8082-db7b035bfd66/SAPSilentInstall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP Silent Install]]></video:title>
+        <video:description><![CDATA[SAP Netwaever Business Suites Software Deployment Manger supports a silent installation of SAP database and application servers. This session walk the audiences through the process of capturing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd66/6d3fe9f6-06ed-453f-8082-db7b035bfd66/SAPSilentInstall_mid.mp4</video:content_loc>
+        <video:duration>1124</video:duration>
+        <video:publication_date>2017-05-08T18:43:25.6378448+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/Infrastructure-as-Code</loc>
+      <lastmod>2021-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0fb7/e40b540d-13c4-4cc6-aa35-a6c758c50fb7/InfrastructureasCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Infrastructure as Code]]></video:title>
+        <video:description><![CDATA[Azure offers facility via ARM template and DSC for build automation. In this session we walk the audiences through the ARM management concept, the way to author Jason templates and script Desired&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0fb7/e40b540d-13c4-4cc6-aa35-a6c758c50fb7/InfrastructureasCode_mid.mp4</video:content_loc>
+        <video:duration>3159</video:duration>
+        <video:publication_date>2017-05-08T18:43:21.9255612+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/Building-SAP-systems-via-Azure-Portal</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/04e8/413bb438-235c-4d14-b251-b779e4d904e8/BuildingSAPsystemsviaAzurePortal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building SAP systems via Azure Portal]]></video:title>
+        <video:description><![CDATA[After having gone through the design of an SAP on Azure infrastructure, we lead the audiences through the building process of an SAP Netweaver system with the use of the Azure Management Portals.  We&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/04e8/413bb438-235c-4d14-b251-b779e4d904e8/BuildingSAPsystemsviaAzurePortal_mid.mp4</video:content_loc>
+        <video:duration>3843</video:duration>
+        <video:publication_date>2017-05-08T18:43:17.5710551+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-Business-Suites-Netweaver-on-Azure-non-HANA-Architecture-Design</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db64/83bb0c58-0d6a-4377-a72a-e2e8ef15db64/SAPBusinessSuitesNetweaveronAzureArchitectureDesi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP Business Suites Netweaver on Azure (non-HANA) Architecture Design ]]></video:title>
+        <video:description><![CDATA[During presales, an SAP solution architect need to gather customer requirements and come up with the solution architecture to run SAP.  This session discusses certified SAP products, licensing,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db64/83bb0c58-0d6a-4377-a72a-e2e8ef15db64/SAPBusinessSuitesNetweaveronAzureArchitectureDesi_mid.mp4</video:content_loc>
+        <video:duration>7203</video:duration>
+        <video:publication_date>2017-05-08T18:43:15.1481724+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/Architecting-Virtual-Machine--Hybrid-Solutions</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e151/ff3a290e-dd0c-4e3c-80e2-b4988978e151/2ArchitectingAzureVMHybridSolutions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting Virtual Machine &amp; Hybrid Solutions ]]></video:title>
+        <video:description><![CDATA[Building on the foundational knowledge gained from the Azure Compute, Storage, and Network session, we venture into extending your on-premises data center to the cloud by designing identity solution&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e151/ff3a290e-dd0c-4e3c-80e2-b4988978e151/2ArchitectingAzureVMHybridSolutions_mid.mp4</video:content_loc>
+        <video:duration>3209</video:duration>
+        <video:publication_date>2017-05-08T18:43:11.1720315+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/Compute-Network-Storage-and-Monitoring-for-SAP</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c55c/bfa98a8b-fa39-4f44-befd-4deb92c0c55c/1ComputeNetworkStorageandmonitoringforSAP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Compute, Network, Storage and Monitoring for SAP]]></video:title>
+        <video:description><![CDATA[Azure Compute, Storage, and Networking are foundational components to an IaaS solution design.  This session equips the Solution Architect with essential knowledge to leverage compute, storage options&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c55c/bfa98a8b-fa39-4f44-befd-4deb92c0c55c/1ComputeNetworkStorageandmonitoringforSAP_mid.mp4</video:content_loc>
+        <video:duration>4473</video:duration>
+        <video:publication_date>2017-05-08T18:43:04.0127454+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/Networking-Aspects-for-SAP-HANA-on-Azure-Large-Instances</loc>
+      <lastmod>2019-03-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bdb3/b9a00bca-14da-404a-9be6-febc3391bdb3/SAPHanaNetworkingAspects_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Networking Aspects for SAP HANA on Azure Large Instances]]></video:title>
+        <video:description><![CDATA[Moving a large and interconnected estate like SAP HANA is complex, if you didn&#39;t know this. Watch Jon Ormond from the Azure Networking Engineering team walk through the requirements and various&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bdb3/b9a00bca-14da-404a-9be6-febc3391bdb3/SAPHanaNetworkingAspects_mid.mp4</video:content_loc>
+        <video:duration>717</video:duration>
+        <video:publication_date>2017-02-07T05:27:39.0426557+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-HANA-Backup-and-Disaster-Recovery-options</loc>
+      <lastmod>2017-09-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5531/5633ea3c-ef02-4372-ad9e-f37c35f55531/SAPHANABackupDR_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP HANA Backup and Disaster Recovery options]]></video:title>
+        <video:description><![CDATA[Ashvin Sanghvi, Principal PM for SAP HANA on Azure Large Instances shares some of our Backup and Disaster / Recovery capabilities in Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5531/5633ea3c-ef02-4372-ad9e-f37c35f55531/SAPHANABackupDR_mid.mp4</video:content_loc>
+        <video:duration>210</video:duration>
+        <video:publication_date>2016-11-08T06:40:02.0375059+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-HANA-architecture-discussion</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b766/0a6ebb06-a3fc-4d8f-83f5-5f9d7666b766/SAPHANAArchitecture_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP HANA architecture discussion]]></video:title>
+        <video:description><![CDATA[Ashvin Sanghvi, Principal PM for SAP HANA on Azure Large Instances discusses the implementation architecture for our SAP HANA capabilities. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b766/0a6ebb06-a3fc-4d8f-83f5-5f9d7666b766/SAPHANAArchitecture_mid.mp4</video:content_loc>
+        <video:duration>196</video:duration>
+        <video:publication_date>2016-11-08T06:39:28.9439149+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-HANA-on-Azure-CIO-discussion</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a1b/d0740125-2751-4dfd-a8c6-0ffabcea5a1b/SAPHanaCEODiscussion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP HANA on Azure CIO discussion]]></video:title>
+        <video:description><![CDATA[Ashvin Sanghvi, Principal PM for SAP HANA on Azure Large Instances shares some of the CIO discussions he has been involved with. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a1b/d0740125-2751-4dfd-a8c6-0ffabcea5a1b/SAPHanaCEODiscussion_mid.mp4</video:content_loc>
+        <video:duration>494</video:duration>
+        <video:publication_date>2016-11-08T06:36:31.0003824+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/SAP-on-Azure/SAP-HANA-Application-Topology</loc>
+      <lastmod>2021-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0377/434e66ea-5aeb-4126-99ac-0b515c420377/SAPHANAAppTopo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SAP HANA Application Topology]]></video:title>
+        <video:description><![CDATA[Ashvin Sanghvi, Principal PM for SAP HANA on Azure Large Instances discusses the most common Application Topology configurations deployed for customers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0377/434e66ea-5aeb-4126-99ac-0b515c420377/SAPHANAAppTopo_mid.mp4</video:content_loc>
+        <video:duration>294</video:duration>
+        <video:publication_date>2016-11-08T06:35:46.9621748+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

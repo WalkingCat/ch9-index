@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Skyboxes-and-Porting-DX11-to-112</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Skyboxes-and-Porting-DX11-to-112/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4750/e36dff67-1fb7-4325-9472-1ada97a64750/382DirectXGameDevSkyBoxPortingDXM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Skyboxes and Porting DX11 to 11.2: (04) Creating a Skydome in DirectX]]></video:title>
+        <video:description><![CDATA[Create the classes required to support the skydome within the framework. Take a look at how to manipulate the Rasterization State and Depth/Stencil State to draw the skydome in an optimized way, plus&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4750/e36dff67-1fb7-4325-9472-1ada97a64750/382DirectXGameDevSkyBoxPortingDXM04_mid.mp4</video:content_loc>
+        <video:duration>2861</video:duration>
+        <video:publication_date>2015-01-11T16:48:53.2921849+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Skyboxes-and-Porting-DX11-to-112/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ad9/ba9a9016-251e-468e-a056-fea623c98ad9/382DirectXGameDevSkyBoxPortingDXM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Skyboxes and Porting DX11 to 11.2: (03) Creating Skybox Resources]]></video:title>
+        <video:description><![CDATA[Learn about cube maps and how to develop a suitable one for use as a skybox. Get familiar with the tools to create the worldscape, render out the required images, and then see how to stich the images&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ad9/ba9a9016-251e-468e-a056-fea623c98ad9/382DirectXGameDevSkyBoxPortingDXM03_mid.mp4</video:content_loc>
+        <video:duration>2540</video:duration>
+        <video:publication_date>2015-01-11T16:48:35.7357605+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Skyboxes-and-Porting-DX11-to-112/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a937/7aa9c4f5-14f0-4a9c-8d41-231a2686a937/382DirectXGameDevSkyBoxPortingDXM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Skyboxes and Porting DX11 to 11.2: (02) DirectX Changes for Windows&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Explore what has changed in the DirectX 11 landscape with the move to Windows 8, and then look at the steps required to port an older DirectX 11 game or program to the new landscape. [01:01] - What&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a937/7aa9c4f5-14f0-4a9c-8d41-231a2686a937/382DirectXGameDevSkyBoxPortingDXM02_mid.mp4</video:content_loc>
+        <video:duration>1789</video:duration>
+        <video:publication_date>2015-01-11T16:48:22.2476289+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/CDirectX-Game-Development-Skyboxes-and-Porting-DX11-to-112/01</loc>
+      <lastmod>2020-11-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1559/c8862cbc-2f7e-4df5-bdc7-8be218a31559/382DirectXGameDevSkyBoxPortingDXM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++/DirectX Game Development: Skyboxes and Porting DX11 to 11.2: (01) Introduction / Getting Started]]></video:title>
+        <video:description><![CDATA[Take a look at where the intro course left off and where this series will go with the prototype. Investigate the new developments that might be useful in Visual Studio 2013, and get a quick peek at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1559/c8862cbc-2f7e-4df5-bdc7-8be218a31559/382DirectXGameDevSkyBoxPortingDXM01_mid.mp4</video:content_loc>
+        <video:duration>1444</video:duration>
+        <video:publication_date>2015-01-11T16:48:10.0836178+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

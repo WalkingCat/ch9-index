@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Ninja-TV</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Ninja-TV/Hangout-Garbage-Collectors-Qu-son-Cmo-funcionan-y-Cules-existen</loc>
+      <lastmod>2017-07-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f5d/12d7d223-f055-419f-a006-5041576d9f5d/HangoutGarbageCollectorsQuesonComofuncionanCuales_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C#: Garbage Collectors: Qu&#233; son, C&#243;mo funcionan y Cu&#225;les existen]]></video:title>
+        <video:description><![CDATA[Todo el tiempo trabajamos con el GC y damos por sentado todo lo que hace. Pero qu&#233; hace y C&#243;mo lo hace? Que tipos de GC existen y cuando conviene usarlos? Todo esto y mucho m&#225;s en esta charla ;)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f5d/12d7d223-f055-419f-a006-5041576d9f5d/HangoutGarbageCollectorsQuesonComofuncionanCuales_mid.mp4</video:content_loc>
+        <video:duration>4877</video:duration>
+        <video:publication_date>2016-05-11T20:18:33.6145944+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

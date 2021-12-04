@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/FSA-Windows-8-Storage-Updates</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c58a/a050c1d2-82f2-4eed-82ac-fdcfc6c2c58a/FSpf2012fsa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[FSA Windows 8 Storage Updates]]></video:title>
+        <video:description><![CDATA[Bryan Matthew, Program Manager, presented an overview of the file systems updates included in Windows 8.   MS-FSA is an informative overview document:  File Systems Algorithms.   The presentation was&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c58a/a050c1d2-82f2-4eed-82ac-fdcfc6c2c58a/FSpf2012fsa_mid.mp4</video:content_loc>
+        <video:duration>3616</video:duration>
+        <video:publication_date>2013-05-28T18:04:44.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/SMB3-Management-Advancements-SMIS-</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca83/046ded05-3643-4a75-88de-9d016d80ca83/fspf2012smb3manag_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SMB3 Management Advancements (SMIS)]]></video:title>
+        <video:description><![CDATA[Hector Linares, Senior Program Manager, presented an overview of SMIS management protocols including Windows file services management functionality included in Windows Server 2012.   The presentation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca83/046ded05-3643-4a75-88de-9d016d80ca83/fspf2012smb3manag_mid.mp4</video:content_loc>
+        <video:duration>4132</video:duration>
+        <video:publication_date>2013-05-28T18:03:33.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/SMB3-Cluster-Client-Failover-Scale-out</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8597/71c7ffe6-69d5-49a5-8a07-bef4cbb38597/fspf2012ccf2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SMB3 Cluster Client Failover Scale-out]]></video:title>
+        <video:description><![CDATA[Claus Joergensen, Principal Program Manager, presentedan overview of the Cluster Client Failover Scale-out and Continuousavailability capabilities implemented in the SMB3 family of protocols&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8597/71c7ffe6-69d5-49a5-8a07-bef4cbb38597/fspf2012ccf2_mid.mp4</video:content_loc>
+        <video:duration>1718</video:duration>
+        <video:publication_date>2013-05-28T18:02:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/SQL-Server-over-SMB</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a92/cc4e5514-45f5-4c8d-85e6-1f22be556a92/FSPF2012SQLSMB_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server over SMB]]></video:title>
+        <video:description><![CDATA[Gunter Zink, Principal Program Manager (SQL Server Performance), delivered a presentation regarding SQL server utilization of  the SMB3 file services protocol family implemented in  Windows Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a92/cc4e5514-45f5-4c8d-85e6-1f22be556a92/FSPF2012SQLSMB_mid.mp4</video:content_loc>
+        <video:duration>1698</video:duration>
+        <video:publication_date>2013-05-28T18:00:56.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/HyperV-Server-over-SMB3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/207a/7e65ed4f-a0ae-4d9f-a071-3e3fe799207a/fspf2012hypervsmb_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[HyperV Server over SMB3]]></video:title>
+        <video:description><![CDATA[Senthil Rajaram, Senior Program Manager Lead, delivered a presentation regarding Windows HyperV server functioning as a client of  the SMB3 file services protocol family implemented in  Windows Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/207a/7e65ed4f-a0ae-4d9f-a071-3e3fe799207a/fspf2012hypervsmb_mid.mp4</video:content_loc>
+        <video:duration>2861</video:duration>
+        <video:publication_date>2013-05-28T17:59:34.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/MS-FSRVP-RVSS-End-to-End-Scenarios</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f4c/20d00d06-884a-4c22-9971-46d024d99f4c/fspf2012rvss_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS-FSRVP (RVSS) End to End Scenarios]]></video:title>
+        <video:description><![CDATA[Lichun Li, Program Manager and Steve Olsson, Principal Program Manager, presented an RVSS,  &amp;quot;Remote Volume Shadow Copy Service, Windows Server 2012 end to end scenario overview at the WindowsFile&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f4c/20d00d06-884a-4c22-9971-46d024d99f4c/fspf2012rvss_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2013-05-28T17:56:54.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/SMB-3-0-Protocol-Feature-Map</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d81/eeaa2cbe-d124-4aae-9fdf-96d934331d81/smb3ecosystemfspf2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SMB 3.0 Protocol Feature Map]]></video:title>
+        <video:description><![CDATA[Tom Talpey, Software Architect, presented an overview of the SMB3 protocol ecosystem at the Windows File Sharing Protocols Plugfest 2012.   SMB3 is a protocol covered in the MS-SMB2specification and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d81/eeaa2cbe-d124-4aae-9fdf-96d934331d81/smb3ecosystemfspf2012_mid.mp4</video:content_loc>
+        <video:duration>3255</video:duration>
+        <video:publication_date>2013-02-07T18:04:24.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/SMB3-Protocol-Changes</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3dcd/849d7977-22ff-4541-8f5c-48ebdd913dcd/smb3ProtocolChangesfspf2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SMB3 Protocol Changes]]></video:title>
+        <video:description><![CDATA[David Kruse, Principal Development Lead, discussed Windows 8 and Windows Server 2012 updates to the SMB3 protocol at Windows File Sharing Protocols Plugfest 2012.   SMB3 is a protocol covered in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3dcd/849d7977-22ff-4541-8f5c-48ebdd913dcd/smb3ProtocolChangesfspf2012_mid.mp4</video:content_loc>
+        <video:duration>2411</video:duration>
+        <video:publication_date>2013-02-05T16:39:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/MS-FSA-Interop-Test-Scenarios-Presentation-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c007/f33a46cc-9881-46b0-aa4b-bf0e193dc007/fsatestfspf2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MS-FSA Interop Test Scenarios Presentation 2012]]></video:title>
+        <video:description><![CDATA[Lingli Zeng, Developer, presented the MS-FSA test scenarios used forinteroperability testing with Windows and non-windows platforms, at the 2012 Windows File Sharing and SharePoint Protocols Plugfest.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c007/f33a46cc-9881-46b0-aa4b-bf0e193dc007/fsatestfspf2012_mid.mp4</video:content_loc>
+        <video:duration>977</video:duration>
+        <video:publication_date>2013-02-05T16:38:15.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/Network-Monitor-3-4-Netmon-Protocol-Analysis-File-Sharing-Plugfest-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/Message-Analyzer-Beta-File-Sharing-Plugfest-2012-Presentation</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f15/4289c5bb-e68f-423a-81d8-93ee56073f15/messageanalyzerfspf2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Message Analyzer (Beta) File Sharing Plugfest 2012 Presentation]]></video:title>
+        <video:description><![CDATA[Paul Long, Senior Program Manager, presented an overview of Message Analyzer, (replacement for Netmon) protocol analyzer and parsers  (a Windows-based utility) at the 2012 Windows File Sharing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f15/4289c5bb-e68f-423a-81d8-93ee56073f15/messageanalyzerfspf2012_mid.mp4</video:content_loc>
+        <video:duration>2990</video:duration>
+        <video:publication_date>2013-02-04T23:16:58.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/File-Sharing-Protocol-SMB3-Family-Test-Suite-Presentation-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f006/a483157a-dc52-4fd5-b5ab-ad03e7cdf006/smb3familytestfspf2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[File Sharing Protocol (SMB3) Family Test Suite Presentation 2012]]></video:title>
+        <video:description><![CDATA[Justin Jiang, Developer, presented the MS-SMB3 protocol family test suite used for interoperability testing with Windows and non-windows platforms, at the 2012 Windows File Sharing and SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f006/a483157a-dc52-4fd5-b5ab-ad03e7cdf006/smb3familytestfspf2012_mid.mp4</video:content_loc>
+        <video:duration>1803</video:duration>
+        <video:publication_date>2013-02-04T23:15:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Windows-File-Sharing-Protocols-Plugfest-2012/ms-azod</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c61d/89331dd1-7a06-4bb7-a0ff-3d3a4c81c61d/MSAZODFilePF2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 8 dynamic file access control; File Sharing Plugfest 2012]]></video:title>
+        <video:description><![CDATA[Nir Ben Zvi, Principal Program Manager, presented a discussion of MS-AZOD, an overview document,  at the 2012 Exchange and Identity Windows Protocols Plugfest.  Michiko Short, Senior Program Manager,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c61d/89331dd1-7a06-4bb7-a0ff-3d3a4c81c61d/MSAZODFilePF2012_mid.mp4</video:content_loc>
+        <video:duration>3862</video:duration>
+        <video:publication_date>2013-02-04T23:10:53.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

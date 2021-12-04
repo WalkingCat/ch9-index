@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014/Unity</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/02801e3c-d71a-4b63-b465-d313110e8176.png</video:thumbnail_loc>
+        <video:title><![CDATA[Unity como plataforma de desenvolvimento de jogos]]></video:title>
+        <video:description><![CDATA[Conhe&#231;a mais sobre a plataforma Unity para desenvolvimento de jogos multiplataformas, incluindo desde os browsers Web aos dispositivos m&#243;veis. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9b3e/839d5434-82cd-4947-8fe3-79f7258b9b3e/MSTechDay06Unity_mid.mp4</video:content_loc>
+        <video:duration>2996</video:duration>
+        <video:publication_date>2014-08-16T17:44:42.7582945+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014/DirectX</loc>
+      <lastmod>2018-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/5648484c-2a52-4b8b-b5e0-aa41cdb4c447.png</video:thumbnail_loc>
+        <video:title><![CDATA[Cria&#231;&#227;o de games com DirectX/C++]]></video:title>
+        <video:description><![CDATA[Conhe&#231;a o funcionamento interno de um jogo para Windows e como usar a API do DirectX para criar jogos modernos utilizando todo o poder que o Windows fornece para jogos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6b7/1eab6659-191a-4ef9-8abd-3fbab8abb6b7/MSTechDay05DirectX_mid.mp4</video:content_loc>
+        <video:duration>3124</video:duration>
+        <video:publication_date>2014-08-16T15:38:21.5502000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014/Monogame</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/4d24c4f8-fdd2-440c-892e-6062e5d23de2.png</video:thumbnail_loc>
+        <video:title><![CDATA[Desenvolvendo jogos multiplataforma em C# com MonoGame (XNA)]]></video:title>
+        <video:description><![CDATA[Entenda como funciona o MonoGame e quais os passos para a cria&#231;&#227;o de jogos multiplataforma (mobile e console) utilizando este framework totalmente Open Source baseado no Microsoft XNA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/68dc/37418abd-ca45-49c0-9b52-aef5b11668dc/MSTechDay04Monogame_mid.mp4</video:content_loc>
+        <video:duration>2671</video:duration>
+        <video:publication_date>2014-08-16T15:09:46.6248392+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014/Azure-Backend-Multiplayer</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/875874ab-7021-4af1-8a41-29cb9b073efe.png</video:thumbnail_loc>
+        <video:title><![CDATA[Usando Azure como backend em jogos multiplayer]]></video:title>
+        <video:description><![CDATA[Conhe&#231;a como o Windows Azure pode ser utilizado como backend e servidor de jogos multijogador online ou ass&#237;ncronos, incluindo o estudo de alguns casos reais. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5be/76b8d489-431c-4a7a-93e3-0bf172f0c5be/MSTechDay03AzureMultiplayer_mid.mp4</video:content_loc>
+        <video:duration>2906</video:duration>
+        <video:publication_date>2014-08-16T14:46:27.6516041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014/Windows8-Middlewares</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/ac03ef85-7643-4812-8cac-ae004e32d7f7.png</video:thumbnail_loc>
+        <video:title><![CDATA[Acelerando a cria&#231;&#227;o de jogos para Windows 8 com Middlewares]]></video:title>
+        <video:description><![CDATA[A cria&#231;&#227;o de jogos pode ser facilitada com o uso de middlewares, que s&#227;o pacotes ou frameworks que incluem diversas funcionalidades comumente usadas em jogos. Nesta sess&#227;o vamos apresentar quais&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1139/cb9014d4-f881-4063-a641-7cf11ec41139/MSTechDay02Middlewares_mid.mp4</video:content_loc>
+        <video:duration>2878</video:duration>
+        <video:publication_date>2014-08-16T14:09:21.1007627+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Games-Brasil/MSTechDay-2014/Ideia-Qranio</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/346ada96-0380-48bc-96f3-cc076f09854c.png</video:thumbnail_loc>
+        <video:title><![CDATA[Tire sua ideia do papel: Inspire-se no caso da parceria Qranio e Microsoft]]></video:title>
+        <video:description><![CDATA[Obtenha inspira&#231;&#227;o para o sucesso assim como foi a parceria Qranio e Microsoft. Uma ideia originalmente de uma pessoa, que se expandiu em n&#237;vel global atrav&#233;s de programas de parceria. Hoje a Qranio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a0e6/6d8eb601-a3a2-48d1-a4bc-a92b6675a0e6/MSTechDay01Qranio_mid.mp4</video:content_loc>
+        <video:duration>2835</video:duration>
+        <video:publication_date>2014-08-16T13:30:39.6456364+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

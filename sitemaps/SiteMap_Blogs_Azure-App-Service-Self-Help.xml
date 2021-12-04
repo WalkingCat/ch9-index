@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Azure-App-Service-SSL-End-to-End</loc>
+      <lastmod>2016-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Purchase-a-Custom-Domain</loc>
+      <lastmod>2016-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ab7/7c7598b0-17bc-45f1-8ef4-721cb4209ab7/PurchaseDomain_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Purchase a Custom Domain]]></video:title>
+        <video:description><![CDATA[Learn how to purchase a custom domain name from inside of the Azure portal in this screencast. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ab7/7c7598b0-17bc-45f1-8ef4-721cb4209ab7/PurchaseDomain_high.mp4</video:content_loc>
+        <video:duration>210</video:duration>
+        <video:publication_date>2016-12-16T21:39:04.7709216+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Remove-SSL-Bindings-and-Certificates</loc>
+      <lastmod>2019-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c3a4/6904f893-034c-41d7-8d5e-3224c777c3a4/RemoveSSL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Remove SSL Bindings and Certificates]]></video:title>
+        <video:description><![CDATA[This screencast demonstrates how you can remove SSL bindings and an SSL certificate from an App Service application. This is something you might want to do if you want to use the certificate in a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c3a4/6904f893-034c-41d7-8d5e-3224c777c3a4/RemoveSSL_high.mp4</video:content_loc>
+        <video:duration>107</video:duration>
+        <video:publication_date>2016-12-16T19:37:41.6270951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Create-an-SSL-Binding</loc>
+      <lastmod>2016-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c835/62f26f93-dc69-4199-9ee4-0f8a39b4c835/CreateSSLBinding_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create an SSL Binding]]></video:title>
+        <video:description><![CDATA[In this screencast, we show you how you can add an SSL binding to your App Service app so that you can browse to the app using SSL. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c835/62f26f93-dc69-4199-9ee4-0f8a39b4c835/CreateSSLBinding_high.mp4</video:content_loc>
+        <video:duration>181</video:duration>
+        <video:publication_date>2016-12-16T19:18:33.4537927+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Upload-an-SSL-Certificate</loc>
+      <lastmod>2016-12-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d558/122bed09-da65-4308-bebf-ca94efbad558/UploadCertificate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Upload an SSL Certificate]]></video:title>
+        <video:description><![CDATA[This screencast shows you how to upload a certificate that you&#39;ve purchased from a certificate authority so that you can use it to browse your Azure App Service application using SSL. We use a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d558/122bed09-da65-4308-bebf-ca94efbad558/UploadCertificate_high.mp4</video:content_loc>
+        <video:duration>97</video:duration>
+        <video:publication_date>2016-12-16T17:41:44.6361710+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Purchase-an-App-Service-Certificate</loc>
+      <lastmod>2020-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7600/d85deea4-495b-4a01-892d-22be07d67600/purchaseasc_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Purchase an App Service Certificate]]></video:title>
+        <video:description><![CDATA[In this screencast, we show you how you can purchase an App Service Certificate that you can use to add SSL capabilities to your Azure App Service apps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7600/d85deea4-495b-4a01-892d-22be07d67600/purchaseasc_high.mp4</video:content_loc>
+        <video:duration>116</video:duration>
+        <video:publication_date>2016-12-14T19:52:13.8245275+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Azure-App-Service-Self-Help/Add-a-Custom-Domain-Name</loc>
+      <lastmod>2017-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2cb1/78d1e8bf-2956-4314-83a0-6ff42ffa2cb1/AddCustomDomain_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Add a Custom Domain Name]]></video:title>
+        <video:description><![CDATA[In this screencast, we show you how to add a custom domain name so that you can use your own URL instead of the AzureWebSites.net URL with your Web App, Mobile App, API App, or Function App. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2cb1/78d1e8bf-2956-4314-83a0-6ff42ffa2cb1/AddCustomDomain_high.mp4</video:content_loc>
+        <video:duration>404</video:duration>
+        <video:publication_date>2016-11-01T19:46:26.0633800+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

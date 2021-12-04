@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/1--Introduction</loc>
+      <lastmod>2017-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/260e/4995fed1-ea55-4027-a500-39e1f4d9260e/Mod1Introduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 | Introduction ]]></video:title>
+        <video:description><![CDATA[This module provides a brief introduction and an overview of the end-to-end process of the DevOps practices and tools used to create the customer scenario. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/260e/4995fed1-ea55-4027-a500-39e1f4d9260e/Mod1Introduction_mid.mp4</video:content_loc>
+        <video:duration>1345</video:duration>
+        <video:publication_date>2015-10-07T22:10:37.4430335+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/2--Visual-Studio-Online-Build-to-Enable-DevOps-Practices</loc>
+      <lastmod>2017-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0951/c7a36bdc-97d3-4bea-b185-31bdfaa60951/Mod2Introduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 | Visual Studio Online Build to Enable DevOps Practices]]></video:title>
+        <video:description><![CDATA[Visual Studio Online Build to Enable DevOps Practices ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0951/c7a36bdc-97d3-4bea-b185-31bdfaa60951/Mod2Introduction_mid.mp4</video:content_loc>
+        <video:duration>862</video:duration>
+        <video:publication_date>2015-10-07T22:10:27.6946665+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/3--Infrastructure-as-Code--Containers</loc>
+      <lastmod>2017-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/34f9/90e5dfe7-2cde-4688-bdf2-6af3fe0034f9/Mod3Containers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 | Infrastructure as Code  Containers ]]></video:title>
+        <video:description><![CDATA[Infrastructure as Code – Containers  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/34f9/90e5dfe7-2cde-4688-bdf2-6af3fe0034f9/Mod3Containers_mid.mp4</video:content_loc>
+        <video:duration>2734</video:duration>
+        <video:publication_date>2015-10-07T22:10:19.2479274+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/4--Infrastructure-as-Code--Azure-Resource-Manager-ARM</loc>
+      <lastmod>2017-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/71d1/ded9b7cb-4e3e-4489-93c7-132c35b371d1/Mod4InfrastructureasCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 | Infrastructure as Code  Azure Resource Manager (ARM)]]></video:title>
+        <video:description><![CDATA[Infrastructure as Code – Azure Resource Manager (ARM) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71d1/ded9b7cb-4e3e-4489-93c7-132c35b371d1/Mod4InfrastructureasCode_mid.mp4</video:content_loc>
+        <video:duration>892</video:duration>
+        <video:publication_date>2015-10-07T22:10:10.2677863+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/5--Continuous-Deployment--Azure-Automation</loc>
+      <lastmod>2017-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/90a7/0ac81d67-b71f-407a-85b6-5776779990a7/Mod5ContinuousDeployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 | Continuous Deployment  Azure Automation]]></video:title>
+        <video:description><![CDATA[Continuous Deployment – Azure Automation ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90a7/0ac81d67-b71f-407a-85b6-5776779990a7/Mod5ContinuousDeployment_mid.mp4</video:content_loc>
+        <video:duration>1137</video:duration>
+        <video:publication_date>2015-10-07T22:09:59.8927938+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

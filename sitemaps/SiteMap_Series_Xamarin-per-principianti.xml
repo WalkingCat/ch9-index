@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-15--Autenticazione-e-Notifiche-Push-con-Azure</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1c04/af39689f-7661-411f-bb38-89f4eb381c04/M15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 15 || Autenticazione e Notifiche Push con Azure]]></video:title>
+        <video:description><![CDATA[Autenticazione e Notifiche Push con AzureUtilizzando come base di partenza l&#39;applicazione connessa del precedente modulo, vedremo come sia possibile delegare agli Azure App Services l&#39;autenticazione&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c04/af39689f-7661-411f-bb38-89f4eb381c04/M15_mid.mp4</video:content_loc>
+        <video:duration>2483</video:duration>
+        <video:publication_date>2017-08-22T13:18:36.0816196+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-14--Creare-unapp-connessa-con-Azure-App-Services</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9ccb/a85fcaaa-3f97-43e7-8f39-cd86431f9ccb/M14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 14 || Creare un&#39;app connessa con Azure App Services]]></video:title>
+        <video:description><![CDATA[Creare un&#39;app connessa con Azure App ServicesIn questo modulo vedremo come connettere la nostra applicazione Xamarin ad una Mobile App di Azure App Services. Vedremo inoltre come attraverso un&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ccb/a85fcaaa-3f97-43e7-8f39-cd86431f9ccb/M14_mid.mp4</video:content_loc>
+        <video:duration>1718</video:duration>
+        <video:publication_date>2017-08-22T13:18:25.4587323+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-13--Consumare-servizi-RESTful-con-HttpClient</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/23e3/16479eab-cdfd-44c8-adf3-4184c09b23e3/M13_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 13 || Consumare servizi RESTful con HttpClient]]></video:title>
+        <video:description><![CDATA[Consumare servizi RESTful con HttpClientIn questo modulo scopriremo come utilizzare la classe HttpClient per consumare API RESTful registrate in un backend ASP.NET Core MVC. Analizzeremo infine un&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23e3/16479eab-cdfd-44c8-adf3-4184c09b23e3/M13_mid.mp4</video:content_loc>
+        <video:duration>2186</video:duration>
+        <video:publication_date>2017-08-22T13:18:15.2249376+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-12--Dependency-Injection-e-IoC-Container</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2c4c/6c1dffa9-b079-434d-93fd-6abd98d52c4c/M12_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 12 || Dependency Injection e IoC Container]]></video:title>
+        <video:description><![CDATA[Dependency Injection e IoC ContainerProgettare un&#39;applicazione cross-platform pu&#242; portare all&#39;instaurarsi di dipendenze tra componenti che influiscono sulla portabilit&#224; e testabilit&#224; del codice. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c4c/6c1dffa9-b079-434d-93fd-6abd98d52c4c/M12_mid.mp4</video:content_loc>
+        <video:duration>2828</video:duration>
+        <video:publication_date>2017-08-22T13:18:04.1740765+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-11--XamarinForms-Renderer-ed-Effect</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9e6f/1b73cf6c-9158-4fa7-85fc-87a951649e6f/M11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 11 || Xamarin.Forms: Renderer ed Effect]]></video:title>
+        <video:description><![CDATA[Xamarin.Forms: Renderer ed EffectL&#39;ulteriore livello di astrazione aggiunto da Xamarin.Forms per la realizzazione di interfacce grafiche cross-platform non consente in alcuni casi la personalizzazione&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e6f/1b73cf6c-9158-4fa7-85fc-87a951649e6f/M11_mid.mp4</video:content_loc>
+        <video:duration>3022</video:duration>
+        <video:publication_date>2017-07-07T08:07:59.4993623+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-10--Xamarin-Forms-Navigazione</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d829/b39f31a2-4740-4f2a-86e8-eb5d8101d829/M10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 10 || Xamarin Forms Navigazione]]></video:title>
+        <video:description><![CDATA[Xamarin.Forms: NavigazioneXamarin.Forms permette di astrarre dal concetto di navigazione nativo di ognuna delle tre piattaforme esponendo una navigazione basata sul concetto di Pagine. In questo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d829/b39f31a2-4740-4f2a-86e8-eb5d8101d829/M10_mid.mp4</video:content_loc>
+        <video:duration>2923</video:duration>
+        <video:publication_date>2017-07-05T14:43:56.2447024+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-9--Data-Binding-e-MVVM</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3ddc/afe8db2a-cbff-403e-841a-778dbd193ddc/M9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 9 || Data Binding e MVVM]]></video:title>
+        <video:description><![CDATA[Modulo 9 || Data Binding e MVVM ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ddc/afe8db2a-cbff-403e-841a-778dbd193ddc/M9_mid.mp4</video:content_loc>
+        <video:duration>3026</video:duration>
+        <video:publication_date>2017-06-27T14:42:39.8265589+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-8--XamarinForms-Design-dellUI</loc>
+      <lastmod>2018-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6f09/0a065144-a05d-4b7f-8f22-18d6e6b76f09/M8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 8 || Xamarin.Forms: Design dell&#39;UI]]></video:title>
+        <video:description><![CDATA[Xamarin.Forms: Design dell&#39;UI In questo modulo analizzeremo alcune caratteristiche fondamentali dei controlli grafici di Xamarin.Forms come Page, View e i Layout e vedremo come sia possibile definirne&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f09/0a065144-a05d-4b7f-8f22-18d6e6b76f09/M8_mid.mp4</video:content_loc>
+        <video:duration>3440</video:duration>
+        <video:publication_date>2017-06-22T08:53:18.5971130+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-7--XamarinForms-Introduzione-al-Framework</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/23db/f32146da-25cd-4add-b5bc-5c5d7b4823db/7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 7 || Xamarin.Forms: Introduzione al Framework]]></video:title>
+        <video:description><![CDATA[Modulo 7 || Xamarin.Forms: Introduzione al Framework ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23db/f32146da-25cd-4add-b5bc-5c5d7b4823db/7_mid.mp4</video:content_loc>
+        <video:duration>4540</video:duration>
+        <video:publication_date>2017-04-04T22:06:13.1680181+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-6--PCL-e-SP-Due-approcci-alla-condivisione-di-codice</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6937/114ad4ec-a8af-4c80-b9ab-6f4656b76937/6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 6 || PCL e SP: Due approcci alla condivisione di codice]]></video:title>
+        <video:description><![CDATA[PCL e SP: Due approcci alla condivisione di codiceIn questo modulo vedremo come condividere tramite Portable Class Library (PCL) e Shared Project (SP) la parte di codice riguardante la logica di&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6937/114ad4ec-a8af-4c80-b9ab-6f4656b76937/6_mid.mp4</video:content_loc>
+        <video:duration>2255</video:duration>
+        <video:publication_date>2017-03-17T15:44:58.4960033+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-5--XamariniOS-Storyboard-e-navigazione</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f5b/49840c8f-7452-42c4-9d4c-259abc0b3f5b/5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 5 || Xamarin.iOS: Storyboard e navigazione]]></video:title>
+        <video:description><![CDATA[Modulo 5 || Xamarin.iOS: Storyboard e navigazione ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f5b/49840c8f-7452-42c4-9d4c-259abc0b3f5b/5_mid.mp4</video:content_loc>
+        <video:duration>2910</video:duration>
+        <video:publication_date>2017-03-10T12:45:53.6926836+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-4--XamariniOS-Fondamenti-di-iOS</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d3b3/63f8b043-d42c-49cc-841e-ed7aa976d3b3/4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 4 || Xamarin.iOS: Fondamenti di iOS]]></video:title>
+        <video:description><![CDATA[Xamarin.iOS: Fondamenti di iOSIn questo modulo vedremo come utilizzare l&#39;approccio classico di Xamarin per sviluppare un&#39;applicazione iOS. Per fare questo occorrer&#224; richiamare alcune caratteristiche&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d3b3/63f8b043-d42c-49cc-841e-ed7aa976d3b3/4_mid.mp4</video:content_loc>
+        <video:duration>2954</video:duration>
+        <video:publication_date>2017-03-02T09:43:36.9808470+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-3--XamarinAndroid-Activity-ed-Intent</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d3ba/6f602728-f8ef-462d-93ea-f92d376ed3ba/3v2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 3 || Xamarin.Android: Activity ed Intent]]></video:title>
+        <video:description><![CDATA[Xamarin.Android: Activity ed IntentSviluppare un&#39;applicazione multi-finestra richiede la conoscenza di alcuni aspetti fondamentali della navigazione in Android. In questo modulo descriveremo i&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d3ba/6f602728-f8ef-462d-93ea-f92d376ed3ba/3v2_mid.mp4</video:content_loc>
+        <video:duration>2698</video:duration>
+        <video:publication_date>2017-02-17T17:55:44.4300906+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-2--XamarinAndroid-Fondamenti-di-Android</loc>
+      <lastmod>2018-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b6e4/205a0663-69ae-4ab4-89ff-5d997134b6e4/2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 2 || Xamarin.Android: Fondamenti di Android]]></video:title>
+        <video:description><![CDATA[Xamarin.Android: Fondamenti di AndroidIn questo modulo vedremo come utilizzare l&#39;approccio classico di Xamarin per sviluppare un&#39;applicazione Android. Per fare questo occorrer&#224; richiamare alcune&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6e4/205a0663-69ae-4ab4-89ff-5d997134b6e4/2_mid.mp4</video:content_loc>
+        <video:duration>1899</video:duration>
+        <video:publication_date>2017-02-09T14:56:02.4067280+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-per-principianti/Modulo-1--Setup-e-Introduzione-a-Xamarin</loc>
+      <lastmod>2019-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3e4e/aaa32ab5-1b45-45af-9652-ffe8db443e4e/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modulo 1 || Setup e Introduzione a Xamarin]]></video:title>
+        <video:description><![CDATA[Setup e Introduzione a XamarinIn questo modulo iniziale scopriremo che cos&#39;&#232; e come funziona Xamarin, quali strumenti ci mette a disposizione e configureremo il nostro sistema in modo da essere pronti&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e4e/aaa32ab5-1b45-45af-9652-ffe8db443e4e/1_mid.mp4</video:content_loc>
+        <video:duration>1914</video:duration>
+        <video:publication_date>2017-02-09T14:55:25.1545407+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

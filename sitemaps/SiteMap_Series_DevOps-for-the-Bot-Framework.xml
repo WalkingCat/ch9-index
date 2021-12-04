@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/More-Bot-Demos-and-Advanced-Considerations</loc>
+      <lastmod>2018-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7727/80ef894f-0483-4e42-a49c-f35b71b97727/BotDemosAdvancedTopics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[More Bot Demos and Advanced Considerations]]></video:title>
+        <video:description><![CDATA[In this session we give you an overview of the Microsoft Bot Framework for developers using two different bot examples, one in Node.js and one in C#. We then talk about DevOps and how it applies to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7727/80ef894f-0483-4e42-a49c-f35b71b97727/BotDemosAdvancedTopics_mid.mp4</video:content_loc>
+        <video:duration>953</video:duration>
+        <video:publication_date>2017-03-24T14:02:19.8409374+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/Telemetry-for-the-Bot-Framework</loc>
+      <lastmod>2019-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59ba/a6792f36-1bad-4c79-b6bf-9062a4ee59ba/TelemetryBotFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Telemetry for the Bot Framework]]></video:title>
+        <video:description><![CDATA[In this session we cover telemetry and learning from users for bots built with the Microsoft Bot Framework.  [00:20] Bot Framework considerations for Telemetry [03:38] DEMO - Telemetry in a Node.js&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59ba/a6792f36-1bad-4c79-b6bf-9062a4ee59ba/TelemetryBotFramework_mid.mp4</video:content_loc>
+        <video:duration>832</video:duration>
+        <video:publication_date>2017-03-23T14:19:32.2407622+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/Continuous-Deployment-and-Release-Management-for-the-Bot-Framework</loc>
+      <lastmod>2017-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e821/5b4c914c-73c4-407a-9459-993cdcd3e821/ContinuousDeploymentBotFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Deployment and Release Management for the Bot Framework]]></video:title>
+        <video:description><![CDATA[In this session we cover Continuous Deployment (CD) and Release Management for bots built with the Microsoft Bot Framework.  [00:32] Bot Framework considerations for Continuous Deployment [04:37] DEMO&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e821/5b4c914c-73c4-407a-9459-993cdcd3e821/ContinuousDeploymentBotFramework_mid.mp4</video:content_loc>
+        <video:duration>1127</video:duration>
+        <video:publication_date>2017-03-22T14:21:34.4963639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/Testing-the-Bot-Framework</loc>
+      <lastmod>2018-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f979/40088849-aa88-45d4-93d5-6d1a6a17f979/TestingBotFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Testing the Bot Framework]]></video:title>
+        <video:description><![CDATA[In this session we cover unit and functional testing and particular considerations for bots built with the Microsoft Bot Framework.  [00:28] Bot Framework considerations for testing [03:51] DEMO -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f979/40088849-aa88-45d4-93d5-6d1a6a17f979/TestingBotFramework_mid.mp4</video:content_loc>
+        <video:duration>932</video:duration>
+        <video:publication_date>2017-03-21T15:35:18.5495331+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/Continuous-Integration-for-the-Bot-Framework</loc>
+      <lastmod>2018-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a81b/ee23c012-e09b-469d-a7d3-6c7cefd7a81b/ContinuousIntegrationBotFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Integration for the Bot Framework]]></video:title>
+        <video:description><![CDATA[In this session we cover Continuous Integration (CI) and any particular considerations for bots built with the Microsoft Bot Framework.  [00:25] What is Continuous Integration [00:40] Bot Framework&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a81b/ee23c012-e09b-469d-a7d3-6c7cefd7a81b/ContinuousIntegrationBotFramework_mid.mp4</video:content_loc>
+        <video:duration>825</video:duration>
+        <video:publication_date>2017-03-20T14:22:51.8869429+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/Introduction-to-the-Bot-Framework-and-why-DevOps-for-it</loc>
+      <lastmod>2018-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9000/50b56961-8ebf-4f70-9c54-9b96ccfc9000/IntroBotDevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to the Bot Framework and why DevOps for it]]></video:title>
+        <video:description><![CDATA[In this session we give you an overview of the Microsoft Bot Framework for developers using two different bot examples, one in Node.js and one in C#. We then talk about DevOps and how it applies to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9000/50b56961-8ebf-4f70-9c54-9b96ccfc9000/IntroBotDevOps_mid.mp4</video:content_loc>
+        <video:duration>1521</video:duration>
+        <video:publication_date>2017-03-17T15:19:42.9957013+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

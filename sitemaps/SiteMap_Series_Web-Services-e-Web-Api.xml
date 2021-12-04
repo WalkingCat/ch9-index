@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-Services-e-Web-Api</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-Services-e-Web-Api/Web-Service-e-Web-Api-Parte-3</loc>
+      <lastmod>2016-06-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f6e/642ffec4-91ed-49c4-8677-2b0d85c47f6e/ws3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Service e Web Api - Parte 3]]></video:title>
+        <video:description><![CDATA[Site pessoal: www.mauriciojunior.org. Este v&#237;deo &#233; o terceiro da s&#233;rie e eu mostro como testar o seu web service consumindo de forma simples e direta usando um plugin no browser. Esse plugin mostra&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f6e/642ffec4-91ed-49c4-8677-2b0d85c47f6e/ws3_mid.mp4</video:content_loc>
+        <video:duration>723</video:duration>
+        <video:publication_date>2016-06-19T20:50:30.5127979+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-Services-e-Web-Api/Web-Service-e-Web-API-Parte-2</loc>
+      <lastmod>2017-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/580d/3a229652-5e7b-4470-9d47-246aad93580d/wf2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Service e Web API Parte 2]]></video:title>
+        <video:description><![CDATA[Site pessoal: www.mauriciojunior.org. Este segundo v&#237;deo da s&#233;rie mostra como gerar um novo m&#233;todo para fazer like em conex&#227;o com o banco de dados. Saiba tamb&#233;m como gerar uma rota para o m&#233;todo que&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/580d/3a229652-5e7b-4470-9d47-246aad93580d/wf2_mid.mp4</video:content_loc>
+        <video:duration>832</video:duration>
+        <video:publication_date>2016-06-13T01:47:10.9285654+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Web-Services-e-Web-Api/Web-Service-e-Web-Api-Parte-1</loc>
+      <lastmod>2016-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d62f/92453177-10e0-4926-a3af-ec7ee5b2d62f/web_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web Service e Web Api Parte 1]]></video:title>
+        <video:description><![CDATA[Site pessoal: www.mauriciojunior.org. Este primeiro v&#237;deo da s&#233;rie mostra o primeiro passo para criar um Web Service / Web Api para a conex&#227;o com o banco de dados. Preste aten&#231;&#227;o nos detalhes e&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d62f/92453177-10e0-4926-a3af-ec7ee5b2d62f/web_mid.mp4</video:content_loc>
+        <video:duration>824</video:duration>
+        <video:publication_date>2016-06-05T23:48:27.7542563+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

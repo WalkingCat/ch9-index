@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparacin-para-el-examen-70-473--Diseando-e-implementado-soluciones-de-datos-en-la-Nube</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparacin-para-el-examen-70-473--Diseando-e-implementado-soluciones-de-datos-en-la-Nube/Mdulo-IV-Supervisin-y-administracin-de-bases-de-datos-sobre-Azure</loc>
+      <lastmod>2017-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e13c/c6f55cb8-fa61-40d0-a2b0-2cf4c214e13c/MOd4SupervisionyAdministracion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Supervisi&#243;n y administraci&#243;n de bases de datos sobre Azure]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo presenta las opciones de monitoreo y gesti&#243;n que est&#225;n disponibles en la plataforma de Microsoft Azure para la gesti&#243;n de las bases de datos. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e13c/c6f55cb8-fa61-40d0-a2b0-2cf4c214e13c/MOd4SupervisionyAdministracion_mid.mp4</video:content_loc>
+        <video:duration>1633</video:duration>
+        <video:publication_date>2017-02-17T20:26:47.6922455+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparacin-para-el-examen-70-473--Diseando-e-implementado-soluciones-de-datos-en-la-Nube/Mdulo-I-Diseo-e-implementacin-de-soluciones-de-bases-de-datos-con-Microsoft-SQL-Server-y-SQL-Databas</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7785/e50f52e4-2381-4605-9465-5f3df9aa7785/MOD1DISENOEIMPLEMENTACION_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Dise&#241;o e implementaci&#243;n de soluciones de bases de datos con Microsoft SQL Server y SQL&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo contiene la Informaci&#243;n base para entender las diferentes topolog&#237;as de trabajo con SQL Server y Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7785/e50f52e4-2381-4605-9465-5f3df9aa7785/MOD1DISENOEIMPLEMENTACION_mid.mp4</video:content_loc>
+        <video:duration>3642</video:duration>
+        <video:publication_date>2017-02-17T15:42:37.8829612+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparacin-para-el-examen-70-473--Diseando-e-implementado-soluciones-de-datos-en-la-Nube/Mdulo-III-Diseo-de-alta-disponibilidad-recuperacin-de-desastres-y-escalabilidad-de-soluciones-de-pla</loc>
+      <lastmod>2017-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0506/8a968374-e09d-4d2f-87b6-1ee1b4c30506/Mod3Disenodealtadisponibilidad_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Dise&#241;o de alta disponibilidad, recuperaci&#243;n de desastres y escalabilidad de soluciones&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo presenta las diferentes opciones de crecimiento vertical y horizontal que se puede tener en SQL Server y SQL Database sobre Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0506/8a968374-e09d-4d2f-87b6-1ee1b4c30506/Mod3Disenodealtadisponibilidad_mid.mp4</video:content_loc>
+        <video:duration>1912</video:duration>
+        <video:publication_date>2017-02-16T14:52:24.4109439+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Preparacin-para-el-examen-70-473--Diseando-e-implementado-soluciones-de-datos-en-la-Nube/Mdulo-II-Administracin-de-la-seguirdad-de-las-bases-de-datos-sobre-Microsoft-Azure</loc>
+      <lastmod>2018-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f102/801d2c27-6c5d-48f2-91db-64b014b0f102/Mod2Administraciondelaseguridad_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Administraci&#243;n de la seguirdad de las bases de datos sobre Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo presenta Informaci&#243;n sobre c&#243;mo asegurar las bases de datos alojadas en Microsoft Azure, funcionalidades como auditorias, manejo de roles y cifrados entre otros. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f102/801d2c27-6c5d-48f2-91db-64b014b0f102/Mod2Administraciondelaseguridad_mid.mp4</video:content_loc>
+        <video:duration>2568</video:duration>
+        <video:publication_date>2017-02-16T14:52:19.7044619+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

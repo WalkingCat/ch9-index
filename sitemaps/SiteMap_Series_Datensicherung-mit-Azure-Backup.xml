@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Datensicherung-mit-Azure-Backup</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Datensicherung-mit-Azure-Backup/Teil-3-Daten-mit-Azure-Backup-wiederherstellen</loc>
+      <lastmod>2015-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/17fd/a3a9cd41-f0b8-48ad-a356-11c544fb17fd/azurebackup20150922c_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 3 - Daten mit Azure Backup wiederherstellen]]></video:title>
+        <video:description><![CDATA[Der dritte und letzte Teil er&#246;rtert die Varianten f&#252;r Wiederherstellungen und demonstriert die Wiederherstellung von Daten auf dem gleichen und einem anderen Computer. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/17fd/a3a9cd41-f0b8-48ad-a356-11c544fb17fd/azurebackup20150922c_mid.mp4</video:content_loc>
+        <video:duration>649</video:duration>
+        <video:publication_date>2015-09-22T16:41:40.1754794+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Datensicherung-mit-Azure-Backup/Teil-2-Daten-mit-Azure-Backup-sichern</loc>
+      <lastmod>2015-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3da2/0115531f-8a57-4c4d-9819-da0c500a3da2/azurebackup20150922b_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 2 - Daten mit Azure Backup sichern]]></video:title>
+        <video:description><![CDATA[Der zweite Teil geht auf die Einschr&#228;nkungen und Limits von Backups ein und demonstriert die Erstellung eines Sicherungsplan und die Durchf&#252;hrung einer Sicherung. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3da2/0115531f-8a57-4c4d-9819-da0c500a3da2/azurebackup20150922b_mid.mp4</video:content_loc>
+        <video:duration>862</video:duration>
+        <video:publication_date>2015-09-22T16:39:36.4112344+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Datensicherung-mit-Azure-Backup/Teil-1-Vorbereitungen</loc>
+      <lastmod>2015-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6edf/8de1dbde-4095-47ac-a17c-3ce789046edf/azurebackup20150922_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teil 1 - Vorbereitungen: Sicherungstresor erstellen &amp; konfigurieren]]></video:title>
+        <video:description><![CDATA[Der erste Teil beginnt mit den Vorteilen und dem Preismodell von Azure Backup. Anschlie&#223;end wird erkl&#228;rt, welche Vorbereitungen getroffen werden m&#252;ssen, um Azure Backup f&#252;r Sicherungen zu verwenden. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6edf/8de1dbde-4095-47ac-a17c-3ce789046edf/azurebackup20150922_mid.mp4</video:content_loc>
+        <video:duration>1439</video:duration>
+        <video:publication_date>2015-09-22T16:38:53.4126471+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/RichTurner</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/RichTurner/Configuring-IIS7-to-support-Windows-CardSpace-sites</loc>
+      <lastmod>2011-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/RichTurner/Windows-CardSpace-Simple-Demo-Walkthrough</loc>
+      <lastmod>2012-08-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/07fa/1a23f7ad-6cce-4e7b-8741-f3fc5e1a07fa/CardspaceIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows CardSpace Simple Demo Walkthrough]]></video:title>
+        <video:description><![CDATA[
+Windows CardSpace is a new feature of Microsoft Windows that helps you better manage and control your personal information and helps shield you from many forms of phishing attack as well as some&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07fa/1a23f7ad-6cce-4e7b-8741-f3fc5e1a07fa/CardspaceIntro_mid.mp4</video:content_loc>
+        <video:duration>1241</video:duration>
+        <video:publication_date>2007-03-16T16:48:13.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

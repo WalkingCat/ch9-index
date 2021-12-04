@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Big-Data</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Big-Data/Visualizando-Big-Data</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95e4/2f3634f6-26e1-4761-9928-a2fcdccc95e4/VisualizandoBigData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visualizando Big Data]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las herramientas disponibles para visualizar informaci&#243;n de escenarios de Big Data (Excel, Power BI).   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95e4/2f3634f6-26e1-4761-9928-a2fcdccc95e4/VisualizandoBigData_mid.mp4</video:content_loc>
+        <video:duration>1076</video:duration>
+        <video:publication_date>2016-10-18T16:17:44.5804068+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Big-Data/Big-Data-en-Azure</loc>
+      <lastmod>2018-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e518/f1394972-8029-4986-b8c8-b2ba107fe518/BigDataenAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Big Data en Azure]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presenta la implementaci&#243;n de los conceptos b&#225;sicos de Hadoop en Azure, para lo cual se presentan los conceptos b&#225;sicos de Azure Storage y HDInsight. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e518/f1394972-8029-4986-b8c8-b2ba107fe518/BigDataenAzure_mid.mp4</video:content_loc>
+        <video:duration>1233</video:duration>
+        <video:publication_date>2016-10-18T16:17:39.2539422+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Big-Data/Conceptos-Bsicos-de-Hadoop</loc>
+      <lastmod>2018-05-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ca0/548b9162-fa82-4150-85c7-a6d65f446ca0/ConceptosBasicosdeHadoop_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conceptos B&#225;sicos de Hadoop]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan los conceptos b&#225;sicos de Hadoop, incluyendo HDFS y MapReduce. Adicionalmente se visualiza el ecosistema de Hadoop.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ca0/548b9162-fa82-4150-85c7-a6d65f446ca0/ConceptosBasicosdeHadoop_mid.mp4</video:content_loc>
+        <video:duration>1100</video:duration>
+        <video:publication_date>2016-10-18T16:17:30.8511077+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Big-Data/Qu-es-Big-Data</loc>
+      <lastmod>2020-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cf13/3b5ade1e-cd53-4468-83bf-6132f8c8cf13/QueEsBigData_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&#191;Qu&#233; es Big Data?]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las principales caracter&#237;sticas de un escenario de Big Data. Adicionalmente se revisa la relaci&#243;n entre Big Data e Inteligencia de Negocios. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf13/3b5ade1e-cd53-4468-83bf-6132f8c8cf13/QueEsBigData_mid.mp4</video:content_loc>
+        <video:duration>1256</video:duration>
+        <video:publication_date>2016-10-18T16:17:25.6497651+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

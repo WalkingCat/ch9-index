@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-SQL-DW</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-SQL-DW/BItoDCTeaser</loc>
+      <lastmod>2017-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4dd1/b6e7ddad-4efe-4e45-9aee-b7e7d3514dd1/BItoDCTeaser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BItoDCTeaser]]></video:title>
+        <video:description><![CDATA[In this short video, learn how BI and BA professionals can transfer existing skills in the world of data science and the Cortana Intelligence Suite. This video shares the perspective of Chris&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4dd1/b6e7ddad-4efe-4e45-9aee-b7e7d3514dd1/BItoDCTeaser_mid.mp4</video:content_loc>
+        <video:duration>588</video:duration>
+        <video:publication_date>2017-03-08T20:39:41.8507078+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-SQL-DW/Part1-Azure-SQL-Data-Warehouse-Overview</loc>
+      <lastmod>2019-11-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca67/ab6374f8-413b-4699-ad6d-8667dc13ca67/AzureSQLDataWarehouseOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Part1 Azure SQL Data Warehouse Overview]]></video:title>
+        <video:description><![CDATA[This video will cover the key concepts of Azure SQL Data Warehouse and the Massively Parallel Processing architecture. At the end of this session you will also be able to create an Azure SQL Data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca67/ab6374f8-413b-4699-ad6d-8667dc13ca67/AzureSQLDataWarehouseOverview_mid.mp4</video:content_loc>
+        <video:duration>2732</video:duration>
+        <video:publication_date>2017-03-06T20:01:13.4914075+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-SQL-DW/Part-3Loading-Data-into-Azure-SQL-Data-Warehouse</loc>
+      <lastmod>2019-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0fbd/0a4f792c-7de6-45df-b692-d39b35390fbd/LoadingDataintoAzureSQLDataWarehouse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Part 3Loading Data into Azure SQL Data Warehouse]]></video:title>
+        <video:description><![CDATA[In this video, you will explore the different methods for loading data into a Data Warehouse and have a clear understanding of the efficient method to load. You will also understand the role of a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0fbd/0a4f792c-7de6-45df-b692-d39b35390fbd/LoadingDataintoAzureSQLDataWarehouse_mid.mp4</video:content_loc>
+        <video:duration>4026</video:duration>
+        <video:publication_date>2016-10-03T15:42:16.8956250+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-SQL-DW/Part-2--working-with-tables-in-Azure-SQL-Data-Warehouse</loc>
+      <lastmod>2017-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/61fb/717d3c5e-31b1-40d9-8ad8-ec0ab32c61fb/WorkingwithtablesinAzureSQLDataWarehouse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Part 2  working with tables in Azure SQL Data Warehouse]]></video:title>
+        <video:description><![CDATA[In this video, you will be able to create a database and tables within an Azure SQL Data Warehouse. The content will also explore the key considerations such as partitions, indexes and statistics. You&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/61fb/717d3c5e-31b1-40d9-8ad8-ec0ab32c61fb/WorkingwithtablesinAzureSQLDataWarehouse_mid.mp4</video:content_loc>
+        <video:duration>2733</video:duration>
+        <video:publication_date>2016-09-30T22:22:22.5902371+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

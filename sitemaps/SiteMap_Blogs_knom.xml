@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/knom</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/knom/Powershell-DSC-for-Developers-Part-2</loc>
+      <lastmod>2016-10-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59c7/5f17b95b-ed9a-41ad-9958-7ef7bbbd59c7/PowershellDSCPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Powershell DSC for Developers - Part 2]]></video:title>
+        <video:description><![CDATA[Powershell Desired State Configuration is a new model in Powershell, that let&#39;s you configure servers in a declarative way. Therefore it&#39;s a great option for provisioning machines for continuous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59c7/5f17b95b-ed9a-41ad-9958-7ef7bbbd59c7/PowershellDSCPart2_mid.mp4</video:content_loc>
+        <video:duration>1062</video:duration>
+        <video:publication_date>2014-12-12T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/knom/Powershell-DSC-for-Developers-Part-1</loc>
+      <lastmod>2017-08-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/56bf/2e28d71c-e798-45dc-b5ae-a4333bf056bf/PowershellDSCPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Powershell DSC for Developers - Part 1]]></video:title>
+        <video:description><![CDATA[Powershell Desired State Configuration is a new model in Powershell, that let&#39;s you configure servers in a declarative way. Therefore it&#39;s a great option for provisioning machines for continuous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/56bf/2e28d71c-e798-45dc-b5ae-a4333bf056bf/PowershellDSCPart1_mid.mp4</video:content_loc>
+        <video:duration>970</video:duration>
+        <video:publication_date>2014-12-11T18:30:47.7404534+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/knom/Projektsetup--Grundlayout-Silverlight-3-Teil-5</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/5/9/6/9/4/SilverlightProjektGrundlayout_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Projektsetup &amp; Grundlayout - Silverlight 3 (Teil 5)]]></video:title>
+        <video:description><![CDATA[Teil 5 der Silverlight Webcast Serie von Max Knor (Developer Evangelist bei Microsoft &#214;sterreich). In diesem Webcast sehen Sie: Bauen des Grundlayouts der CodefestMeals Applikation, Layout Controls,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/5/9/6/9/4/SilverlightProjektGrundlayout_ch9.mp4</video:content_loc>
+        <video:duration>1256</video:duration>
+        <video:publication_date>2009-10-08T22:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/knom/Codefest-Webcast-Silverlight-33-vom-1892009</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/4/2/3/9/4/SilverlightCodefest3of3_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Codefest Webcast - Silverlight 3/3 vom 18.9.2009]]></video:title>
+        <video:description><![CDATA[Im dritten Teil der Live-Webcast Serie geht es um das Laden von Daten vom Server. Dazu werden WCF Services, sowie ADO.NET Data Services verwendet. Au&#223;erdem wird gezeigt, wie sie Eingaben der Benutzer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/4/2/3/9/4/SilverlightCodefest3of3_ch9.mp4</video:content_loc>
+        <video:duration>3321</video:duration>
+        <video:publication_date>2009-09-21T13:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

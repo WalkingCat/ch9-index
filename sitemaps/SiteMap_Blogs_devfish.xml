@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devfish</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devfish/WordPress-in-Azure-Up-and-Running-in-Ten-Minutes-Stop-and-Go-Tutorial</loc>
+      <lastmod>2015-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6d3/7cf416f0-14f9-4636-8c25-eb30c413d6d3/wordpresseasy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WordPress in Azure - Up and Running in Ten Minutes - Stop and Go Tutorial]]></video:title>
+        <video:description><![CDATA[Want to have a quick and easy blog up in ten minutes? No coding required. Follow along as you learn how to setup a blog with WordPress deployed into an Azure Web App using the Azure marketplace.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6d3/7cf416f0-14f9-4636-8c25-eb30c413d6d3/wordpresseasy_mid.mp4</video:content_loc>
+        <video:duration>985</video:duration>
+        <video:publication_date>2015-09-03T17:40:15.2365357+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devfish/BlogEngineNET-Azure-based-Blog-Up-and-Running-in-Ten-Minutes</loc>
+      <lastmod>2015-09-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea7e/fd54fd0e-5732-48bd-9b81-61de082bea7e/blogengineeasy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BlogEngine.NET - Azure based Blog Up and Running in Ten Minutes - Stop and Go Tutorial]]></video:title>
+        <video:description><![CDATA[Want to have a quick and easy blog up in ten minutes? No coding! No database! No PHP (koff koff). Follow along as you learn how to setup a blog with BlogEngine 2.9 into an Azure Web App. We deploy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea7e/fd54fd0e-5732-48bd-9b81-61de082bea7e/blogengineeasy_mid.mp4</video:content_loc>
+        <video:duration>1031</video:duration>
+        <video:publication_date>2015-09-03T11:59:10.9164669+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devfish/DreamSpark-and-Azure-Activation-for-Students-Stop-and-Go-Tutorial-Video</loc>
+      <lastmod>2015-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6560/4ac2e4f9-3170-4b7d-ab1a-6b6487676560/dreamsparkazureactivationstopngo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DreamSpark and Azure Activation for Students - Stop and Go Tutorial Video]]></video:title>
+        <video:description><![CDATA[DreamSpark for students offers up some great benefits, such as complimentary software and Azure Web Apps.  But sometimes activating DreamSpark and Azure is not quite as clear as we like.  In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6560/4ac2e4f9-3170-4b7d-ab1a-6b6487676560/dreamsparkazureactivationstopngo_mid.mp4</video:content_loc>
+        <video:duration>982</video:duration>
+        <video:publication_date>2015-08-11T17:39:28.5118488+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devfish/Six-Ways-to-Obtain-and-Activate-Azure-and-counting</loc>
+      <lastmod>2015-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d9e0/53f55d58-f37d-433a-aabf-ff2d6642d9e0/devfishAzureSixWays_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Six Ways to Obtain and Activate Azure (and counting)]]></video:title>
+        <video:description><![CDATA[Take a look at the various ways you can obtain and active Windows Azure.  Why bother with this?  Depending up on whether you are a startup, enterprise, MSDN subscriber, app developer, or students&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d9e0/53f55d58-f37d-433a-aabf-ff2d6642d9e0/devfishAzureSixWays_mid.mp4</video:content_loc>
+        <video:duration>996</video:duration>
+        <video:publication_date>2015-08-08T20:37:24.1962581+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

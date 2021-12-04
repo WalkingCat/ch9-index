@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/juegos-codigo-unity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/juegos-codigo-unity/La-historia-de-los-videojuegos</loc>
+      <lastmod>2016-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/39d8/5989ef45-fe54-49b1-b39e-20bec71239d8/fedolobo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[La historia de los videojuegos]]></video:title>
+        <video:description><![CDATA[Acompa&#241;a a Fedelobo en un emocionante viaje a trav&#233;s de la historia de los videojuegos. Aprende m&#225;s acerca del incierto inicio de la industria y la evoluci&#243;n que ha tenido hasta consolidarse como una&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/39d8/5989ef45-fe54-49b1-b39e-20bec71239d8/fedolobo_mid.mp4</video:content_loc>
+        <video:duration>1207</video:duration>
+        <video:publication_date>2016-05-13T19:09:26.1369559+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

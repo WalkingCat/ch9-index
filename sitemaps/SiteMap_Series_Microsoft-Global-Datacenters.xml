@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Global-Datacenters</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Global-Datacenters/Microsoft-Project-Olympus</loc>
+      <lastmod>2019-09-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8003/f69416f7-c699-4d88-8a83-beff125a8003/ProjectOlympus_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Project Olympus]]></video:title>
+        <video:description><![CDATA[Project Olympus is Microsoft&#39;s next generation rack level solution that is open sourced through Open Compute Project. Project Olympus addresses variety of cloud workloads for Microsoft Cloud and was&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8003/f69416f7-c699-4d88-8a83-beff125a8003/ProjectOlympus_mid.mp4</video:content_loc>
+        <video:duration>265</video:duration>
+        <video:publication_date>2017-03-13T18:00:21.7955883+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

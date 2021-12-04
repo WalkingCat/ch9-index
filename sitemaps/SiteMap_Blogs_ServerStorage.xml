@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/Storage-throughput-with-Storage-Spaces-Direct-TP5</loc>
+      <lastmod>2017-11-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b373/df8ec787-dfe7-49fb-b7fc-9f33fc21b373/s2dtp560GB_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage throughput with Storage Spaces Direct (TP5)]]></video:title>
+        <video:description><![CDATA[We often speak about performance in IOPS, which is important to many workloads. For other workloads like big data, data warehouse and similar, throughput can be an important metric. Today you can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b373/df8ec787-dfe7-49fb-b7fc-9f33fc21b373/s2dtp560GB_mid.mp4</video:content_loc>
+        <video:duration>124</video:duration>
+        <video:publication_date>2016-05-11T22:22:22.7650016+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/Storage-Replica-on-thin-provisioned-storage-in-Windows-Server-2016-Technical-Preview-5</loc>
+      <lastmod>2016-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e97e/e9ceb195-8a42-4999-a208-8cdf8ea5e97e/srthin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Replica on thin-provisioned storage in Windows Server 2016 Technical Preview 5]]></video:title>
+        <video:description><![CDATA[Here&#39;s a short demo video of SR performing initial sync on a thinly-provisioned set of storage. Fast! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e97e/e9ceb195-8a42-4999-a208-8cdf8ea5e97e/srthin_mid.mp4</video:content_loc>
+        <video:duration>75</video:duration>
+        <video:publication_date>2016-05-10T20:07:36.9005363+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/DataON-S2D-3116-sneak-peak</loc>
+      <lastmod>2017-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d6d/cd8b5c22-2509-427d-8fcd-8882182a6d6d/DataONS2D3116_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DataON S2D-3116 sneak peak]]></video:title>
+        <video:description><![CDATA[From our recent site visit to DataON in Anaheim: the not-yet-released S2D-3116 server.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d6d/cd8b5c22-2509-427d-8fcd-8882182a6d6d/DataONS2D3116_mid.mp4</video:content_loc>
+        <video:duration>41</video:duration>
+        <video:publication_date>2016-02-24T18:55:15.4591546+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/Read-Operations-with-QoS-Storage-Spaces-Direct-IDF-2015</loc>
+      <lastmod>2018-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3456/6056609d-cd22-4234-b215-9ef80c533456/readQoS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Read Operations with QoS Storage Spaces Direct (IDF 2015)]]></video:title>
+        <video:description><![CDATA[IDF 2016 Storage Spaces Direct read with QoS technology demo on Windows Server 2016 TP3. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3456/6056609d-cd22-4234-b215-9ef80c533456/readQoS_mid.mp4</video:content_loc>
+        <video:duration>275</video:duration>
+        <video:publication_date>2015-08-18T16:13:19.1266718+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/Mixed-QoS-Operations-Storage-Spaces-Direct-IDF-2015</loc>
+      <lastmod>2015-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a4a9/0194a934-8e85-40b5-af15-8da17e39a4a9/mixedqos_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mixed QoS Operations Storage Spaces Direct (IDF 2015)]]></video:title>
+        <video:description><![CDATA[IDF 2016 Storage Spaces Direct mixed with QoS technology demo on Windows Server 2016 TP3. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a4a9/0194a934-8e85-40b5-af15-8da17e39a4a9/mixedqos_mid.mp4</video:content_loc>
+        <video:duration>365</video:duration>
+        <video:publication_date>2015-08-18T16:13:08.9579421+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/Read-Operations-Storage-Spaces-Direct-IDF-2015</loc>
+      <lastmod>2017-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e1a1/be58498e-b201-4e8b-b204-70201821e1a1/AllRead_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Read Operations Storage Spaces Direct (IDF 2015)]]></video:title>
+        <video:description><![CDATA[IDF 2016 Storage Spaces Direct all read technology demo on Windows Server 2016 TP3. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e1a1/be58498e-b201-4e8b-b204-70201821e1a1/AllRead_mid.mp4</video:content_loc>
+        <video:duration>254</video:duration>
+        <video:publication_date>2015-08-18T16:12:59.6259844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/Introduction-to-Storage-Spaces-Direct-IDF-2015</loc>
+      <lastmod>2018-07-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed3a/220b76b8-9514-4025-bb7e-f2c397fbed3a/IntroS2D_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Storage Spaces Direct (IDF 2015)]]></video:title>
+        <video:description><![CDATA[A brief introduction to Storage Spaces Direct in Windows Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed3a/220b76b8-9514-4025-bb7e-f2c397fbed3a/IntroS2D_mid.mp4</video:content_loc>
+        <video:duration>105</video:duration>
+        <video:publication_date>2015-08-18T16:12:45.6289178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/The-Storage-Replica-Video-Series-Configure-and-Manage-Stretch-Clusters-in-Windows-Server-2016-Techni</loc>
+      <lastmod>2015-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e53d/0d06592d-4af6-4b2e-95f7-7b630d18e53d/cluadmincreatemoveremovedemows2016tp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Storage Replica Video Series: Configure and Manage Stretch Clusters in Windows Server 2016&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Storage Replica running on Windows Server 2016 Tech Preview 2. Today I show building and managing your stretch cluster, including both CSV and non-CSV storage. I saved the best for last; Stretch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e53d/0d06592d-4af6-4b2e-95f7-7b630d18e53d/cluadmincreatemoveremovedemows2016tp2_mid.mp4</video:content_loc>
+        <video:duration>268</video:duration>
+        <video:publication_date>2015-06-09T17:22:14.0149471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/The-Storage-Replica-Video-Series-Alter-and-Remove-Server-to-Server-Replication-in-Windows-Server-201</loc>
+      <lastmod>2015-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c391/6a063c93-c2c7-41ca-83cb-1a841d56c391/powershellS2Sswitchremovereplicationws2016tp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Storage Replica Video Series: Alter and Remove Server-to-Server Replication in Windows Server&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Storage Replica running on Windows Server 2016 Tech Preview 2. Today I alter replication direction – i.e. a planned failover - of a server-to-server replication partnership using Windows PowerShell.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c391/6a063c93-c2c7-41ca-83cb-1a841d56c391/powershellS2Sswitchremovereplicationws2016tp2_mid.mp4</video:content_loc>
+        <video:duration>125</video:duration>
+        <video:publication_date>2015-06-09T17:22:06.0362343+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/The-Storage-Replica-Video-Series-Provision-and-Manage-Server-to-Server-Replication-in-Windows-Server</loc>
+      <lastmod>2015-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4b88/e2e0d0bb-c2d9-489f-a2b7-116d55044b88/powershellS2Screateandmonitorreplicationws2016tp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Storage Replica Video Series: Provision and Manage Server-to-Server Replication in Windows&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Storage Replica running on Windows Server 2016 Tech Preview 2. The demo video today shows me configuring replication for the first time between a pair of servers; there&#39;s no cluster here, just a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4b88/e2e0d0bb-c2d9-489f-a2b7-116d55044b88/powershellS2Screateandmonitorreplicationws2016tp2_mid.mp4</video:content_loc>
+        <video:duration>197</video:duration>
+        <video:publication_date>2015-06-09T17:21:48.8696937+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/The-Storage-Replica-Video-Series-Storage-Replica-with-RDMA-and-25km-Fiber-in-Windows-Server-2016-Tec</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0cd9/96108bd7-3dc9-4597-9af6-ecb8315b0cd9/performancerdmaws2016tp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Storage Replica Video Series: Storage Replica with RDMA and 25km Fiber in Windows Server 2016&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Storage Replica running on Windows Server 2016 Tech Preview 2. The demo video today shows me configuring replication for the first time between a pair of servers; there&#39;s no cluster here, just a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0cd9/96108bd7-3dc9-4597-9af6-ecb8315b0cd9/performancerdmaws2016tp2_mid.mp4</video:content_loc>
+        <video:duration>173</video:duration>
+        <video:publication_date>2015-06-09T17:21:34.7472420+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/The-Storage-Replica-Video-Series-Stretch-Cluster-Automatic-Site-Failover-in-Windows-Server-2016-Tech</loc>
+      <lastmod>2017-09-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b8f/2fa9a161-afe3-4b0e-9817-b6c7dc1e6b8f/stretchclustervmfailoverdemows2016tp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Storage Replica Video Series: Stretch Cluster Automatic Site Failover in Windows Server 2016&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Storage Replica running on Windows Server 2016 Tech Preview 2. Demo of a disaster striking your Hyper-V Stretch Cluster running a live VM workload. An SR-enabled stretch cluster behaves much like a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b8f/2fa9a161-afe3-4b0e-9817-b6c7dc1e6b8f/stretchclustervmfailoverdemows2016tp2_mid.mp4</video:content_loc>
+        <video:duration>207</video:duration>
+        <video:publication_date>2015-06-09T17:21:20.3908839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/ServerStorage/The-Storage-Replica-Video-Series-Plan-Your-Replication-using-Test-SRTopology-in-Windows-Server-2016-</loc>
+      <lastmod>2015-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ba7/4361e3d4-53f4-4851-a305-b34164fa9ba7/testsrtopologydemows2016tp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Storage Replica Video Series: Plan Your Replication using Test-SRTopology in Windows Server 2016&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Storage Replica running on Windows Server 2016 Tech Preview 2. When the Test-SRTopology cmdlet runs, it verifies that servers meet requirements, tells you the write IO load the servers handle&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ba7/4361e3d4-53f4-4851-a305-b34164fa9ba7/testsrtopologydemows2016tp2_mid.mp4</video:content_loc>
+        <video:duration>119</video:duration>
+        <video:publication_date>2015-06-09T17:21:06.0735591+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

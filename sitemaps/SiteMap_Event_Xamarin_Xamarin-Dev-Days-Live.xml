@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live/Announcing-Dev-Days-Live-Virtual-Event</loc>
+      <lastmod>2021-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d6a/35a19cb6-0ead-4bad-b4b7-f67b57684d6a/AnnouncingDevDaysLiveVirtualEvent_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Announcing Dev Days Live Virtual Event]]></video:title>
+        <video:description><![CDATA[Join us for the Xamarin virtual event of the year, Xamarin Dev Days Live, streamed live right! Xamarin Dev Days Live starts with several session covering native cross platform development for iOS,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d6a/35a19cb6-0ead-4bad-b4b7-f67b57684d6a/AnnouncingDevDaysLiveVirtualEvent_mid.mp4</video:content_loc>
+        <video:duration>282</video:duration>
+        <video:publication_date>2016-12-12T18:04:23.3262913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live/Introduction-Xamarin</loc>
+      <lastmod>2021-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f0be/84ebead6-ebde-4842-ae13-51217020f0be/IntroXamarinDevDays2016_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Xamarin]]></video:title>
+        <video:description><![CDATA[In this session we will be cover developing native iOS, Android, and Windows apps in C# with Xamarin. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f0be/84ebead6-ebde-4842-ae13-51217020f0be/IntroXamarinDevDays2016_mid.mp4</video:content_loc>
+        <video:duration>2708</video:duration>
+        <video:publication_date>2016-12-07T19:04:22.5088232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live/Cross-platform-UI-with-XamarinForms</loc>
+      <lastmod>2018-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/50e2/aa646e46-06c1-4358-9126-e229813650e2/CrossPlatformUIwithXamarinForms_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cross-platform UI with Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[Build native UIs for iOS, Android and Windows from a single, shared C# codebase. Learn how to use the Xamarin.Forms API to quickly build native apps for iOS, Android and Windows completely in C#. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/50e2/aa646e46-06c1-4358-9126-e229813650e2/CrossPlatformUIwithXamarinForms_mid.mp4</video:content_loc>
+        <video:duration>2535</video:duration>
+        <video:publication_date>2016-12-07T19:04:17.7044232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live/Cloud-First-Apps-with-Azure</loc>
+      <lastmod>2017-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a1be/d418ad92-c5a8-4980-a1ce-4aafd2aca1be/CloudFirstAppswithAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud First Apps with Azure]]></video:title>
+        <video:description><![CDATA[Easily add powerful web services and mobile essential features to your Xamarin apps, leveraging the power of Azure App Service and your existing .NET skills. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a1be/d418ad92-c5a8-4980-a1ce-4aafd2aca1be/CloudFirstAppswithAzure_mid.mp4</video:content_loc>
+        <video:duration>1662</video:duration>
+        <video:publication_date>2016-12-07T19:04:14.5439839+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live/Connect-2016-for-Mobile-Developers</loc>
+      <lastmod>2018-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/de85/3676d4af-ccc2-4263-bb8b-974ae30bde85/Connect2016forMobileDevelopers_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Connect(); 2016 for Mobile Developers]]></video:title>
+        <video:description><![CDATA[In this session, we will be covering the latest and greatest for mobile developers from the recent Microsoft Connect(); 2016 event. We will be covering the latest in IDE development as well as some&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de85/3676d4af-ccc2-4263-bb8b-974ae30bde85/Connect2016forMobileDevelopers_mid.mp4</video:content_loc>
+        <video:duration>1849</video:duration>
+        <video:publication_date>2016-12-07T19:04:01.6918456+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Xamarin-Dev-Days-Live/Hands-On-Lab-Walkthrough</loc>
+      <lastmod>2017-03-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c17/8642c5ca-29d9-48e1-93a6-7f534dcc0c17/HandsOnLabWalkthrough_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hands-On Lab Walkthrough]]></video:title>
+        <video:description><![CDATA[Join us for the Xamarin virtual event of the year, Xamarin Dev Days Live, streamed live right! Xamarin Dev Days Live starts with several session covering native cross platform development for iOS,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c17/8642c5ca-29d9-48e1-93a6-7f534dcc0c17/HandsOnLabWalkthrough_mid.mp4</video:content_loc>
+        <video:duration>5630</video:duration>
+        <video:publication_date>2016-12-07T19:03:56.1604380+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

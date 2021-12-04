@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Management-Summit/Management-Summit-auditorio-03</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Management-Summit/Management-Summit-auditorio-03/Enterprise-Mobility-Suite-EMS</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e33f/5fd861e0-580b-4505-b548-7a4cf5f5e33f/win10_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Entendendo o Enterprise Mobility Suite (EMS)]]></video:title>
+        <video:description><![CDATA[Palestra do Management Summit por Valdemar Carvalho &amp;amp; Newton dos Santos ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e33f/5fd861e0-580b-4505-b548-7a4cf5f5e33f/win10_mid.mp4</video:content_loc>
+        <video:duration>3413</video:duration>
+        <video:publication_date>2016-03-28T13:38:08.1565491+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Management-Summit/Management-Summit-auditorio-03/Windows-10-Services-com-o-System-Center-Configuration-Manager</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d945/a83b1820-58a2-4fc4-98e3-b8f21a6dd945/ems_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 As a Services com o System Center Configuration Manager ]]></video:title>
+        <video:description><![CDATA[  Palestra do Management Summit: Windows 10 As a Services com o System Center Configuration Manager - Guilherme C. Maia ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d945/a83b1820-58a2-4fc4-98e3-b8f21a6dd945/ems_mid.mp4</video:content_loc>
+        <video:duration>3967</video:duration>
+        <video:publication_date>2016-03-28T13:37:25.9123348+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Management-Summit/Management-Summit-auditorio-03/Cenrios-de-uso-mais-comuns-com-o-Microsoft-Azure-Como-comear</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea4a/64519b07-3cad-4a15-bb90-ee284808ea4a/usoazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cen&#225;rios de uso mais comuns com o Microsoft Azure: Como come&#231;ar ]]></video:title>
+        <video:description><![CDATA[Palestra do management summit Cen&#225;rios de uso mais comuns com o Microsoft Azure: Como come&#231;ar - Andr&#233; Vital ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea4a/64519b07-3cad-4a15-bb90-ee284808ea4a/usoazure_mid.mp4</video:content_loc>
+        <video:duration>3238</video:duration>
+        <video:publication_date>2016-03-24T12:08:54.3370110+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

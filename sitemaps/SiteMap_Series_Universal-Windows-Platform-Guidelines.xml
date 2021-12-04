@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Windows-Platform-Guidelines</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Windows-Platform-Guidelines/05</loc>
+      <lastmod>2017-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49a4/147c0b71-2885-47ff-b83b-483130ab49a4/UWPxaml_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[XAML ]]></video:title>
+        <video:description><![CDATA[基本資料繫結繫結集合資料編譯時期資料繫結]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49a4/147c0b71-2885-47ff-b83b-483130ab49a4/UWPxaml_mid.mp4</video:content_loc>
+        <video:duration>2327</video:duration>
+        <video:publication_date>2015-09-22T15:16:43.7529807+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Windows-Platform-Guidelines/04</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0458/1abfce44-8816-4699-8608-7b1be90f0458/OUCHxmal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[XAML ]]></video:title>
+        <video:description><![CDATA[XAML 語法介紹XAML 基本介紹 / XAML 的結構 / XML 命名空間XAML 佈局控制項介紹Border / Grid / StackPanel / Canvas ...XAML 基本控制項介紹按鈕類控制項 / 文字類控制項 / 選項類控制項 / 集合類控制項 / 命令類控制項 ...XAML 新增控制項介紹RelativePanel / FlipView]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0458/1abfce44-8816-4699-8608-7b1be90f0458/OUCHxmal_mid.mp4</video:content_loc>
+        <video:duration>3098</video:duration>
+        <video:publication_date>2015-09-22T15:16:21.8371464+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Windows-Platform-Guidelines/03</loc>
+      <lastmod>2016-01-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e09/986855af-b98b-49af-b8b4-e9a532a59e09/UWPdesign_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP ]]></video:title>
+        <video:description><![CDATA[規劃你的App規劃 App 時的心法 / 可採取的方法了解目標裝置支援單一裝置 V.S. 支援多種裝置設計UI/UX設計 UI 時的技巧 / Microsoft Design Language / 官方設計樣版]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e09/986855af-b98b-49af-b8b4-e9a532a59e09/UWPdesign_mid.mp4</video:content_loc>
+        <video:duration>2611</video:duration>
+        <video:publication_date>2015-09-22T06:52:47.3413349+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Windows-Platform-Guidelines/02</loc>
+      <lastmod>2015-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92f6/8e626124-e368-41dd-bb60-79d1f9c492f6/UWPdev_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP ]]></video:title>
+        <video:description><![CDATA[開發環境與工具            Visual Studio 2015 / Blend / Visual Studio Online / Hyper-V 開發者帳號            開發者解鎖  專案樣版及專案結構             Template 10 / First Floor Software - UWP Templates 開發相關資源            MSDN /&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92f6/8e626124-e368-41dd-bb60-79d1f9c492f6/UWPdev_mid.mp4</video:content_loc>
+        <video:duration>2194</video:duration>
+        <video:publication_date>2015-09-22T06:52:29.3548650+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Windows-Platform-Guidelines/01</loc>
+      <lastmod>2016-01-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3943/1f705cb9-cc59-4842-bc0c-2890c04b3943/UWPoverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Universal Windows Platform (UWP) ]]></video:title>
+        <video:description><![CDATA[單一的作業系統             一個適用於所有裝置的 Windows 核心 單一的應用程式平台            應用程式可以跨所有裝置執行 / 自適應式設計 / 自適應式程式碼 單一的開發者中心            單一的Binary / 同一組上架流程與儀表板 單一的市集            擴及全球，當地貨幣            涵蓋消費者、企業及教育 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3943/1f705cb9-cc59-4842-bc0c-2890c04b3943/UWPoverview_mid.mp4</video:content_loc>
+        <video:duration>1880</video:duration>
+        <video:publication_date>2015-09-22T06:52:15.5346018+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

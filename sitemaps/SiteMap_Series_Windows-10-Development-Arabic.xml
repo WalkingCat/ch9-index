@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Development-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Development-Arabic/Introduction-to-UWP-Arabic</loc>
+      <lastmod>2016-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/12d1/2c1656d5-06d5-43b9-87e2-bb6064a912d1/Introwindows10dev_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to UWP (Arabic)]]></video:title>
+        <video:description><![CDATA[Take a look at how Windows 10 brings a single platform experience to many different devices and how Windows tooling and .NET Native provide developers with a great opportunity to create amazing apps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/12d1/2c1656d5-06d5-43b9-87e2-bb6064a912d1/Introwindows10dev_mid.mp4</video:content_loc>
+        <video:duration>1920</video:duration>
+        <video:publication_date>2015-11-12T13:31:30.7168002+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Development-Arabic/XAML-Controls-Arabic</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c96/80d8a207-b35f-44ff-977c-98fb6e443c96/XAMLcontrols_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[XAML Controls (Arabic)]]></video:title>
+        <video:description><![CDATA[Investigate how XAML controls are used in a UWP app to accomplish your Windows 10 design considerations, including the new RelativePanel and SpliView controls. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c96/80d8a207-b35f-44ff-977c-98fb6e443c96/XAMLcontrols_mid.mp4</video:content_loc>
+        <video:duration>4040</video:duration>
+        <video:publication_date>2015-11-12T13:31:25.8974452+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Development-Arabic/Data-Binding-Arabic</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03c7/d6c86c1a-47b3-46b3-82c0-756fe12303c7/Databinding_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data Binding (Arabic)]]></video:title>
+        <video:description><![CDATA[Explore data binding within a XAML-based UWP app, starting out with basic data binding and then looking into some new features and techniques, like compiled binding, available with Visual Studio 2015.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03c7/d6c86c1a-47b3-46b3-82c0-756fe12303c7/Databinding_mid.mp4</video:content_loc>
+        <video:duration>2205</video:duration>
+        <video:publication_date>2015-11-12T13:31:24.8706109+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Development-Arabic/Adaptive-Code-Arabic</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d0d/449ac11a-fec0-4f8c-a9b1-1102ea069d0d/Adaptivecode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adaptive Code (Arabic)]]></video:title>
+        <video:description><![CDATA[Dig deeper into the code that supports the ability of UWP apps to run on any Windows 10 device and to provide a great user experience. Look at the Platform Extension SDKs and then move to adaptive&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d0d/449ac11a-fec0-4f8c-a9b1-1102ea069d0d/Adaptivecode_mid.mp4</video:content_loc>
+        <video:duration>1227</video:duration>
+        <video:publication_date>2015-11-12T13:31:19.6281132+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

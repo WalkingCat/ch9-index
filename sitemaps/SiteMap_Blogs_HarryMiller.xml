@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller/Word-Add-ins-Part-3-Searching-for-Text-Strings-and-Adding-Comments</loc>
+      <lastmod>2020-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller/Word-Add-ins-Part-2-When-Add-ins-Collide</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller/Word-Add-ins-Part-1-Clear-the-Ribbon-Except-for-My-Controls</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller/Activating-a-Custom-Tab-on-the-Ribbon-When-a-Document-Is-Opened</loc>
+      <lastmod>2010-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/4/4/3/2/4/ActivateTabOnTheRibbon_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Activating a Custom Tab on the Ribbon When a Document Is Opened]]></video:title>
+        <video:description><![CDATA[
+A lot of people seem to want to make a certain tab or control on the Ribbon active programmatically using VSTO. It makes sense that a developer would want to select the custom tab if the controls&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/4/4/3/2/4/ActivateTabOnTheRibbon_ch9.mp4</video:content_loc>
+        <video:duration>68</video:duration>
+        <video:publication_date>2008-08-27T19:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller/Turn-Off-Automatic-Conversion-of-Office-2003-Projects-into-2007-Projects</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HarryMiller/Create-an-Excel-Shortcut-Menu-That-Writes-Selections-to-a-Text-File</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/9/9/2/2/4/ExcelShortcutMenu_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create an Excel Shortcut Menu That Writes Selections to a Text File]]></video:title>
+        <video:description><![CDATA[
+It doesn&#39;t take much code to add a command to a shortcut menu in Excel, but the menu objects have strange names so it&#39;s not intuitive, to me at least. The trickiest part is just sorting out how it&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/9/9/2/2/4/ExcelShortcutMenu_ch9.mp4</video:content_loc>
+        <video:duration>230</video:duration>
+        <video:publication_date>2008-08-23T00:25:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

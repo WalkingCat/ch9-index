@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/DevOps-Hackathon-Marzo-16</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/DevOps-Hackathon-Marzo-16/De-la-teoria-a-la-practica</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/241b/510c2132-db12-4261-90ca-7003ac50241b/DevOpsteoria2practica_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[De la teor&#237;a a la pr&#225;ctica]]></video:title>
+        <video:description><![CDATA[En esta segunda parte cubriremos las t&#233;cnicas m&#225;s comunes aplicadas que van desde la integraci&#243;n y despliegue continua, hasta la infraestructura como c&#243;digo, la gesti&#243;n de la configuraci&#243;n o la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/241b/510c2132-db12-4261-90ca-7003ac50241b/DevOpsteoria2practica_mid.mp4</video:content_loc>
+        <video:duration>7142</video:duration>
+        <video:publication_date>2016-03-10T18:08:55.9511143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/DevOps-Hackathon-Marzo-16/Que-es-DevOps</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/29a3/39a5496c-5243-480c-9f6a-cefb6e6429a3/queesdevops_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&#191;Qu&#233; es DevOps?]]></video:title>
+        <video:description><![CDATA[Le dice el Dev al Ops cada vez que tiene que poner algo en producci&#243;n. &#191;Qu&#233; es DevOps? DevOps, sois los dos.   Durante esta primera parte de la ma&#241;ana hablaremos sobre esta nueva filosof&#237;a a la hora&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29a3/39a5496c-5243-480c-9f6a-cefb6e6429a3/queesdevops_mid.mp4</video:content_loc>
+        <video:duration>4759</video:duration>
+        <video:publication_date>2016-03-10T18:07:49.4727729+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

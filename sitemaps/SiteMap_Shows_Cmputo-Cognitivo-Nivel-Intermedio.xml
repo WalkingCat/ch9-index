@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cmputo-Cognitivo-Nivel-Intermedio</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cmputo-Cognitivo-Nivel-Intermedio/Mdulo-III-Introduccin-a-el-API-de-habla</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/680d/bc6add68-3a12-47a8-a4ea-ea73c308680d/ComputoCognitivoIntMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Introducci&#243;n a el API de habla ]]></video:title>
+        <video:description><![CDATA[Detalla el API de an&#225;lisis de habla de Bing, el servicio personalizado de reconocimiento de voz, reconocimiento de hablante. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/680d/bc6add68-3a12-47a8-a4ea-ea73c308680d/ComputoCognitivoIntMod3_mid.mp4</video:content_loc>
+        <video:duration>699</video:duration>
+        <video:publication_date>2017-06-28T21:54:24.7762600+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cmputo-Cognitivo-Nivel-Intermedio/Mdulo-II-Introduccin-a-el-API-de-Visin</loc>
+      <lastmod>2020-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6d72/92678ae1-29a1-4302-8b90-047f22f96d72/ComputoCognitivoIntMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Introducci&#243;n a el API de Visi&#243;n]]></video:title>
+        <video:description><![CDATA[Detalla el API de visi&#243;n por computador: An&#225;lisis de im&#225;genes, OCR, an&#225;lisis de escritura a mano, identificaci&#243;n de personalidades y lugares, an&#225;lisis de video. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d72/92678ae1-29a1-4302-8b90-047f22f96d72/ComputoCognitivoIntMod2_mid.mp4</video:content_loc>
+        <video:duration>2245</video:duration>
+        <video:publication_date>2017-06-28T21:54:02.3496779+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Cmputo-Cognitivo-Nivel-Intermedio/Mdulo-I-Introduccin-a-Cmputo-cognitivo</loc>
+      <lastmod>2017-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5b09/8802487f-f38f-4c0d-b2aa-b947bf095b09/ComputoCognitivoIntMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Introducci&#243;n a C&#243;mputo cognitivo]]></video:title>
+        <video:description><![CDATA[Presenta a nivel general el uso de las APIs de computo congnitivo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b09/8802487f-f38f-4c0d-b2aa-b947bf095b09/ComputoCognitivoIntMod1_mid.mp4</video:content_loc>
+        <video:duration>3865</video:duration>
+        <video:publication_date>2017-06-28T21:53:48.0329994+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

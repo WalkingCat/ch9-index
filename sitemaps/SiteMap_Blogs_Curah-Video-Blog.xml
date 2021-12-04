@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Curah-Video-Blog</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Curah-Video-Blog/Introducing-Curah</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd29/a966ba60-e249-4b77-8020-6f6810dbfd29/CurahIntroductionVideo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Curah!]]></video:title>
+        <video:description><![CDATA[If you know where the great content is, Curah! invites you to share what you know.  This video is an introduction to the site.     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd29/a966ba60-e249-4b77-8020-6f6810dbfd29/CurahIntroductionVideo_mid.mp4</video:content_loc>
+        <video:duration>99</video:duration>
+        <video:publication_date>2013-12-12T19:21:22.6170236+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

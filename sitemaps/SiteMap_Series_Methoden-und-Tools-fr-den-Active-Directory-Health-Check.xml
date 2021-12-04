@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Methoden-und-Tools-fr-den-Active-Directory-Health-Check</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Methoden-und-Tools-fr-den-Active-Directory-Health-Check/03-Automatisierung</loc>
+      <lastmod>2016-01-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc9c/d520fea5-8989-456d-bd3c-dc06a34cfc9c/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Automatisierung]]></video:title>
+        <video:description><![CDATA[Im dritten Modul geht es um den automatisierten Einsatz der Diagnose Tools. Es wird gezeigt, wie man mit dem Performance Monitor under der Aufgabenplanung eine automatisierte Datensammlung erzeugt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc9c/d520fea5-8989-456d-bd3c-dc06a34cfc9c/03_mid.mp4</video:content_loc>
+        <video:duration>757</video:duration>
+        <video:publication_date>2016-01-08T09:56:15.8495453+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Methoden-und-Tools-fr-den-Active-Directory-Health-Check/02-Diagnose-Tools</loc>
+      <lastmod>2016-01-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d22/d546eee6-cbf2-4e45-ad18-0e59801c7d22/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Diagnose Tools]]></video:title>
+        <video:description><![CDATA[Im zweiten Modul wird gezeigt wie man mit den Diagnose Tools die Informationen f&#252;r den Health Check sammeln kann. Au&#223;erdem wird gezeigt, welche M&#246;glichkeiten der Performance Monitor bietet. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d22/d546eee6-cbf2-4e45-ad18-0e59801c7d22/02_mid.mp4</video:content_loc>
+        <video:duration>1257</video:duration>
+        <video:publication_date>2016-01-08T09:56:12.6262349+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Methoden-und-Tools-fr-den-Active-Directory-Health-Check/01-Health-Check-Overview</loc>
+      <lastmod>2016-01-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a5a2/f115da27-2ffb-40fa-babc-2fc8018ca5a2/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Health Check Overview                                                      ]]></video:title>
+        <video:description><![CDATA[Welche Komponenten sollten bei einem Health Check &#252;berpr&#252;ft werden, wie kann der Server Manager daf&#252;r verwendet werden &amp;amp; wie liefern die Elemente im Server Manager Informationen f&#252;r den Health&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a5a2/f115da27-2ffb-40fa-babc-2fc8018ca5a2/01_mid.mp4</video:content_loc>
+        <video:duration>776</video:duration>
+        <video:publication_date>2016-01-08T09:55:58.6222349+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

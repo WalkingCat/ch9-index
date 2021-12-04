@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph/Session05</loc>
+      <lastmod>2021-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8156/b907cf7f-aed2-4aaa-bf8d-3bb8952c8156/LTGraphSegment5_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a personal assistant bot with Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Are you and your colleagues globally distributed? Use Microsoft Graph to show locations and time zones of users in your app! Rabia Williams and Bob German share how to do this and how to build a bot&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b2f7/5887ab03-db67-498e-8bcf-ebf29d1db2f7/LearnTogetherMSFTGraphSession5_mid.mp4</video:content_loc>
+        <video:duration>876</video:duration>
+        <video:publication_date>2021-04-14T18:00:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph/Session04</loc>
+      <lastmod>2021-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/527d/e6ac821d-47b1-4fe8-952d-c4679386527d/LearnTogetherMSFTGraphSession4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Staying on&#160;top of your team&#39;s work with Microsoft Graph (Part 2)]]></video:title>
+        <video:description><![CDATA[Learn how to build a JavaScript application that accesses powerful data in Microsoft Graph. Bob German and Waldek Mastykarz walk you through how to access files, insights, and information that is&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d027/adae2016-b027-4813-8f43-77055b87d027/LearnTogetherMSFTGraphSession4_mid.mp4</video:content_loc>
+        <video:duration>1032</video:duration>
+        <video:publication_date>2021-04-14T18:00:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph/Session03</loc>
+      <lastmod>2021-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/031a/9d4a6abb-4323-4ed8-b0d0-c820a92f031a/LearnTogetherMSFTGraphSession3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Staying on top of your team&#39;s work with Microsoft Graph (Part 1)]]></video:title>
+        <video:description><![CDATA[Learn how to build a JavaScript application that accesses powerful data in Microsoft Graph. Rabia Williams and Waldek Mastykarz walk you through how to access users&#39; information, photos, and meeting&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2571/d1e1f762-9fed-4faa-ac60-623b2a1c2571/LearnTogetherMSFTGraphSession3_mid.mp4</video:content_loc>
+        <video:duration>1478</video:duration>
+        <video:publication_date>2021-04-14T18:00:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph/Session02</loc>
+      <lastmod>2021-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7d6e/4bac308a-498d-44e8-897f-d7b1ba427d6e/LTGraphSegment2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Accelerating app development with Microsoft Graph Toolkit]]></video:title>
+        <video:description><![CDATA[Ayca Bas and Beth Pan discuss how the Microsoft Graph Toolkit makes app development super easy! The toolkit is a set of web components and authentication providers to connect your web app to Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/05ca/61a52a97-d17f-430c-b8bf-c081202a05ca/AcceleratingappdevelopmentwithMicrosoftGraphToolk_mid.mp4</video:content_loc>
+        <video:duration>1183</video:duration>
+        <video:publication_date>2021-04-14T18:00:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph/Keynote</loc>
+      <lastmod>2021-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3e30/d76674d7-e6af-4394-bae6-12ea4cc93e30/LearnTogetherSegment1DevelopersGuidetoMicrosoftGr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer&#39;s guide to Microsoft Graph]]></video:title>
+        <video:description><![CDATA[Join Ayca Bas and Dan Wahlin as they share a developer&#39;s guide to Microsoft Graph – the what, why, and how. Want to learn more about Microsoft Graph and complete Learn modules for a chance to win&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/47ce/e1814c1e-49fb-45bf-96da-4d51299847ce/LearnTogetherSegment1DevelopersGuidetoMicrosoftGr_mid.mp4</video:content_loc>
+        <video:duration>1262</video:duration>
+        <video:publication_date>2021-04-14T18:00:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Learn/Learn-Together-Building-Apps-with-Microsoft-Graph/Learn-Together-Building-Apps-with-Microsoft-Graph-Teaser</loc>
+      <lastmod>2021-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4c9e/f87a1a4d-4381-486b-846b-06d881474c9e/Learn-Together-Building-Apps-with-Microsoft-Graph_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learn Together: Building Apps with Microsoft Graph ]]></video:title>
+        <video:description><![CDATA[Microsoft Graph is a powerful API that enables access to a wealth of data and intelligence that you can use to build apps that interact with millions of users. Want to learn more? Join us for a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4c9e/f87a1a4d-4381-486b-846b-06d881474c9e/Learn-Together-Building-Apps-with-Microsoft-Graph_mid.mp4</video:content_loc>
+        <video:duration>67</video:duration>
+        <video:publication_date>2021-03-29T17:22:03.1657036+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

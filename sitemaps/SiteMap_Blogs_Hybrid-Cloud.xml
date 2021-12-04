@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud/Migration</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a7b2/97886928-e063-4ef8-ab93-1adeaf22a7b2/HybridCloudMigration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migration]]></video:title>
+        <video:description><![CDATA[Watch this video to learn how to effortlessly migrate your applications and workloads to the cloud. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a7b2/97886928-e063-4ef8-ab93-1adeaf22a7b2/HybridCloudMigration_mid.mp4</video:content_loc>
+        <video:duration>967</video:duration>
+        <video:publication_date>2017-04-12T14:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud/Consistent-Data-Platform</loc>
+      <lastmod>2018-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/53ba/b551fc21-e80a-42bd-a104-b289ddc053ba/HybridCloudConsistentDataPlatform_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Consistent Data Platform]]></video:title>
+        <video:description><![CDATA[Learn more about how to seamlessly distribute data between cloud and on premises, and enrich it with analytics and deep learning. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53ba/b551fc21-e80a-42bd-a104-b289ddc053ba/HybridCloudConsistentDataPlatform_mid.mp4</video:content_loc>
+        <video:duration>1100</video:duration>
+        <video:publication_date>2017-04-10T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud/Common-Identity</loc>
+      <lastmod>2017-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b500/2f0310cf-cfeb-4331-96bd-37077e98b500/HybridSolutionsCommonIdentity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Common Identity]]></video:title>
+        <video:description><![CDATA[Learn more about how to enable end-user productivity with single sign-on to cloud and on premises applications, while protecting corporate information. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b500/2f0310cf-cfeb-4331-96bd-37077e98b500/HybridSolutionsCommonIdentity_mid.mp4</video:content_loc>
+        <video:duration>900</video:duration>
+        <video:publication_date>2017-04-10T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud/Integrated-Management-and-Security</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6d22/8501a121-23fa-44af-ab72-53efdd746d22/HybridCloudIntegratedManagmentandSecurity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Integrated Management and Security]]></video:title>
+        <video:description><![CDATA[Learn more about how to gain visibility and control for your apps/workloads across the operational lifecycle, from cloud to on-premises. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d22/8501a121-23fa-44af-ab72-53efdd746d22/HybridCloudIntegratedManagmentandSecurity_mid.mp4</video:content_loc>
+        <video:duration>1676</video:duration>
+        <video:publication_date>2017-04-10T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud/Unified-Development-and-DevOps</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e416/da95b4ce-a72a-4ad6-a5fa-55083f0ae416/UnifiedDevelopmentandDevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unified Development and DevOps]]></video:title>
+        <video:description><![CDATA[Learn more about to maximize your productivity with a common approach to building applications, with full flexibility to deploy in the cloud or on premises. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e416/da95b4ce-a72a-4ad6-a5fa-55083f0ae416/UnifiedDevelopmentandDevOps_mid.mp4</video:content_loc>
+        <video:duration>1124</video:duration>
+        <video:publication_date>2017-04-10T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

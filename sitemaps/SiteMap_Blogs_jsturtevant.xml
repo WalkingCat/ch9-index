@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jsturtevant</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jsturtevant/Thoughts-on-Microsoft-Build-2016</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/72aa/5014ca60-8d56-4c91-9406-5598dd4b72aa/buildreaction2016js_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Thoughts on Microsoft Build 2016]]></video:title>
+        <video:description><![CDATA[Build 2016 had lots of great announcements.  Join James Sturtevant as he talks about Bash on Ubuntu on Windows, .NET Foundation&#39;s new members and Service Fabric GA announcements.  You will get to see&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/72aa/5014ca60-8d56-4c91-9406-5598dd4b72aa/buildreaction2016js_mid.mp4</video:content_loc>
+        <video:duration>532</video:duration>
+        <video:publication_date>2016-04-11T04:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jsturtevant/Azure-SQL-Temporal-Tables-with-RockStep-Solutions</loc>
+      <lastmod>2017-07-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ce58/51ce7342-dd6e-4a7d-9af0-74abc767ce58/azuresqltemporaltables_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure SQL Temporal Tables with RockStep Solutions]]></video:title>
+        <video:description><![CDATA[Join [RockStep Solutions](http://rockstepsolutions.com/) as they talk about how they used [Azure SQL Temporal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce58/51ce7342-dd6e-4a7d-9af0-74abc767ce58/azuresqltemporaltables_mid.mp4</video:content_loc>
+        <video:duration>974</video:duration>
+        <video:publication_date>2016-03-02T18:54:02.4836781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jsturtevant/Configuring-GitHub-Continuous-Deployment-on-Azure-with-Project-Oxford-Application</loc>
+      <lastmod>2016-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea0e/b257b77d-d9a8-49f6-afd8-0b0d64eeea0e/projectoxfordazuredeploy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring GitHub Continuous Deployment on Azure with Project Oxford Application ]]></video:title>
+        <video:description><![CDATA[This is a part of three video series.  The other videos are Introduction to Project Oxford Machine Learning API&#39;s and How to set up  your local local Python environment for testing. Get Started&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea0e/b257b77d-d9a8-49f6-afd8-0b0d64eeea0e/projectoxfordazuredeploy_mid.mp4</video:content_loc>
+        <video:duration>485</video:duration>
+        <video:publication_date>2016-02-09T15:45:01.4981041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jsturtevant/Setting-up-Project-Oxford-for-Python-on-Windows</loc>
+      <lastmod>2017-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a40b/9fff2c74-b8bc-4416-bedb-ed04cbe5a40b/projectoxfordwindowspart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Setting up Project Oxford for Python on Windows]]></video:title>
+        <video:description><![CDATA[This is a part of three video series.  The other videos are Introduction to Project Oxford Machine Learning API&#39;s and Configuring GitHub Continuous Deployment on Azure with Project Oxford Application.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a40b/9fff2c74-b8bc-4416-bedb-ed04cbe5a40b/projectoxfordwindowspart2_mid.mp4</video:content_loc>
+        <video:duration>616</video:duration>
+        <video:publication_date>2016-02-09T15:25:28.9557360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jsturtevant/Introduction-to-Project-Oxford-Machine-Learning-APIs</loc>
+      <lastmod>2016-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/88b7/30693fe5-87ba-4d06-aa23-42c97ef388b7/projectoxfordintropart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Project Oxford Machine Learning API&#39;s]]></video:title>
+        <video:description><![CDATA[This is a part of three video series.  The other videos are How to set up  your local local Python environment for testing and Configuring GitHub Continuous Deployment on Azure with Project Oxford&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/88b7/30693fe5-87ba-4d06-aa23-42c97ef388b7/projectoxfordintropart1_mid.mp4</video:content_loc>
+        <video:duration>464</video:duration>
+        <video:publication_date>2016-02-09T15:25:11.6262823+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

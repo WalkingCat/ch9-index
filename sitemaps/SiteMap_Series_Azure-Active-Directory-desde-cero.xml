@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-desde-cero</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-desde-cero/Qu-es-Azure-Active-Directory</loc>
+      <lastmod>2021-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e83f/046887e3-f47e-4c8d-9e2a-661a4ddce83f/QueEsAzureActiveDirectory_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Qu&#233; es Azure Active Directory]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo comprender&#225; qu&#233; es Azure Active Directory, para qu&#233; sirve y c&#243;mo podemos empezar a usarlo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e83f/046887e3-f47e-4c8d-9e2a-661a4ddce83f/QueEsAzureActiveDirectory_mid.mp4</video:content_loc>
+        <video:duration>1098</video:duration>
+        <video:publication_date>2016-10-11T21:46:05.1660166+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-desde-cero/Sincronizacin-de-Identidades</loc>
+      <lastmod>2016-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/14c0/2d6d477e-d67b-4c8c-bf1f-76cfdb7f14c0/Sincronizaciondeidentidades_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sincronizaci&#243;n de Identidades]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo entender&#225; c&#243;mo funciona la sincronizaci&#243;n de identidades (usuarios y grupos), desde un entorno local de Windows Server Active Directory hacia Azure Active Directory. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/14c0/2d6d477e-d67b-4c8c-bf1f-76cfdb7f14c0/Sincronizaciondeidentidades_mid.mp4</video:content_loc>
+        <video:duration>900</video:duration>
+        <video:publication_date>2016-10-07T18:59:21.9930155+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-desde-cero/Aplicaciones-en-Azure-AD</loc>
+      <lastmod>2016-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41d1/3aea973f-dee9-45f3-8217-71cbe59941d1/AplicacionesenAzureAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Aplicaciones en Azure AD]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo aprender&#225; qu&#233; son y c&#243;mo funcionan las aplicaciones que se integran con Azure AD y c&#243;mo puede presentarlas a los usuarios de una manera r&#225;pida e intuitive. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41d1/3aea973f-dee9-45f3-8217-71cbe59941d1/AplicacionesenAzureAD_mid.mp4</video:content_loc>
+        <video:duration>537</video:duration>
+        <video:publication_date>2016-10-07T18:56:14.2169152+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-desde-cero/Usuarios-y-grupos</loc>
+      <lastmod>2017-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c007/49d708ed-36ff-4dbe-aed9-7f933fa5c007/UsuariosyGrupos_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Usuarios y grupos]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo aprender&#225; a crear y administrar usuarios y grupos en Azure AD, incluyendo el restablecimiento de contrase&#241;as. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c007/49d708ed-36ff-4dbe-aed9-7f933fa5c007/UsuariosyGrupos_mid.mp4</video:content_loc>
+        <video:duration>1620</video:duration>
+        <video:publication_date>2016-10-07T18:54:41.8695734+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars/Build-Better-Games-with-Unity-and-Microsoft-Azure</loc>
+      <lastmod>2017-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/37c1/a90d9a18-8e4e-4d68-b81f-f6caa51c37c1/UnityWebinar_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Better Games with Unity and Microsoft Azure]]></video:title>
+        <video:description><![CDATA[David Antognoli shows you how to take your Unity games to the next level with powerful cloud services. He&#39;ll walk through how to connect your apps to Microsoft Azure, adding compelling features that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37c1/a90d9a18-8e4e-4d68-b81f-f6caa51c37c1/UnityWebinar_mid.mp4</video:content_loc>
+        <video:duration>4305</video:duration>
+        <video:publication_date>2017-11-07T19:28:58.7795556+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars/Exploring-UrhoSharp-3D-with-Xamarin-Workbooks</loc>
+      <lastmod>2018-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8875/4a46aa69-a9af-4b77-a625-dc521e238875/UrchoSharp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exploring UrhoSharp 3D with Xamarin Workbooks]]></video:title>
+        <video:description><![CDATA[Charles Petzold shows you how to build a 3D app from the ground up with UrhoSharp and Xamarin Workbooks. UrhoSharp is a powerful, high performance 3D graphics engine suitable for games, animation, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8875/4a46aa69-a9af-4b77-a625-dc521e238875/UrchoSharp_mid.mp4</video:content_loc>
+        <video:duration>4543</video:duration>
+        <video:publication_date>2017-09-21T17:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars/Getting-the-Most-Out-of-XamarinForms-for-Visual-Studio-2017</loc>
+      <lastmod>2017-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/617942c9-db3d-4cc3-9d55-ac3dc822cb1c.png</video:thumbnail_loc>
+        <video:title><![CDATA[Getting the Most Out of Xamarin.Forms for Visual Studio 2017]]></video:title>
+        <video:description><![CDATA[David Ortinau shows how to use your .NET skills, XAML expertise, Visual Studio, and Xamarin.Forms to deliver world-class Android, iOS, and UWP apps faster than ever. Dave will share and demo advanced&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3cda/1b52202e-6522-4748-87ee-2ba5a7d43cda/xamarinforms_mid.mp4</video:content_loc>
+        <video:duration>3933</video:duration>
+        <video:publication_date>2017-04-25T22:39:22.0824026+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars/Introduction-to-Xamarin-for-Visual-Studio-2017</loc>
+      <lastmod>2017-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4ca/4e3d3cb1-4345-467b-9dc7-9fdcc9f6b4ca/VS2017_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Xamarin for Visual Studio 2017]]></video:title>
+        <video:description><![CDATA[James Montemagno walks you through how Xamarin for Visual Studio 2017 makes it even easier to deliver fully native Android, iOS, and UWP apps from a single C# codebase. You&#39;ll learn what&#39;s new,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4ca/4e3d3cb1-4345-467b-9dc7-9fdcc9f6b4ca/VS2017_mid.mp4</video:content_loc>
+        <video:duration>3205</video:duration>
+        <video:publication_date>2017-03-22T17:53:55.1019775+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars/Continuous-Everything-Why-You-Need-Mobile-DevOps</loc>
+      <lastmod>2018-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5729/b88ec459-776f-44f2-a18d-03711a575729/ContinuousEverything_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Everything: Why You Need Mobile DevOps]]></video:title>
+        <video:description><![CDATA[Keith Ballinger, VP Product Xamarin, shows how mobile DevOps and automation allows you to create better systems, teams, and products.  What&#39;s the secret to winning mobile users&#39; loyalty? Shipping the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5729/b88ec459-776f-44f2-a18d-03711a575729/ContinuousEverything_mid.mp4</video:content_loc>
+        <video:duration>1246</video:duration>
+        <video:publication_date>2017-02-17T19:38:31.5726579+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Xamarin/Recent-Webinars/Get-started-with-Xamarin-and-Azure</loc>
+      <lastmod>2017-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b63f/95e9cfe3-90b8-4faa-91a7-4d8e43cdb63f/XamarinAndAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get started with Xamarin and Azure]]></video:title>
+        <video:description><![CDATA[Mike James, Program Manager, shows how you can easily add powerful web services and mobile essential features into your Xamarin apps, leveraging the power of Azure App Service and your existing .NET&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b63f/95e9cfe3-90b8-4faa-91a7-4d8e43cdb63f/XamarinAndAzure_mid.mp4</video:content_loc>
+        <video:duration>3618</video:duration>
+        <video:publication_date>2017-02-17T19:38:22.0402221+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

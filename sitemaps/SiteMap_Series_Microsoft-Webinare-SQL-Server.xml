@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-SQL-Server</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-SQL-Server/Datenbankverschlsselung-von-SQL-Server-2014-mit-Azure-Key-Vault</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bca3/1694bc58-373f-495b-9093-cfd41c37bca3/TDESQL2014AzureKeyVault_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Datenbankverschl&#252;sselung von SQL Server 2014 mit Azure Key Vault]]></video:title>
+        <video:description><![CDATA[Microsoft SQL Server unterst&#252;tzt ab Version 2008 ein Feature namens transparente Datenverschl&#252;sselung (Transparent Data Encryption, TDE). Die Verschl&#252;sselungsschl&#252;ssel liegen hierf&#252;r normalerweise in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bca3/1694bc58-373f-495b-9093-cfd41c37bca3/TDESQL2014AzureKeyVault_mid.mp4</video:content_loc>
+        <video:duration>3393</video:duration>
+        <video:publication_date>2016-07-25T14:22:08.8170158+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Webinare-SQL-Server/Sind-Sie-vorbereitet-Ende-einer-ra-am-12-April-2016</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cebf/72c09c4b-c8bc-4a0e-bf18-ccc70136cebf/SQL2005Upgrade_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sind Sie vorbereitet? Ende einer &#196;ra am 12. April 2016]]></video:title>
+        <video:description><![CDATA[Am 12. April 2016 endet der Support von Microsoft f&#252;r SQL Server 2005. Von diesem Datum an erhalten Kunden auch keine Sicherheits-Updates mehr f&#252;r diese Version von SQL Server. Unternehmen, die noch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cebf/72c09c4b-c8bc-4a0e-bf18-ccc70136cebf/SQL2005Upgrade_mid.mp4</video:content_loc>
+        <video:duration>1650</video:duration>
+        <video:publication_date>2016-07-25T14:22:06.4395443+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

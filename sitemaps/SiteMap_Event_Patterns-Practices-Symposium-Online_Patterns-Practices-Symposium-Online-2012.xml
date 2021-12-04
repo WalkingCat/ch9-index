@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/A-Journey-into-CQRS</loc>
+      <lastmod>2018-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f53a/3b676589-17d5-4baf-b9af-558e7145f53a/PPSYMPAJourneyintoCQRS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Journey into CQRS]]></video:title>
+        <video:description><![CDATA[Grigori Melnik and Julian Dominguez take us through lessons learned in implementing a system using Command Query Responsibility Segregation (CQRS) and event sourcing. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f53a/3b676589-17d5-4baf-b9af-558e7145f53a/PPSYMPAJourneyintoCQRS_mid.mp4</video:content_loc>
+        <video:duration>3446</video:duration>
+        <video:publication_date>2012-04-27T00:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Closing-Keynote-Big-Transitions-in-Small-Steps</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bdc3/8907ba2d-30a3-4d33-b3a7-eedff87cbdc3/PPSYMPClosingKeynoteBigTransitionsinSmallSteps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Closing Keynote: Big Transitions in Small Steps]]></video:title>
+        <video:description><![CDATA[Kent provides a wealth of his own experience to help us manage projects which release early and often. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bdc3/8907ba2d-30a3-4d33-b3a7-eedff87cbdc3/PPSYMPClosingKeynoteBigTransitionsinSmallSteps_mid.mp4</video:content_loc>
+        <video:duration>3564</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Unicorns-Magic-Phones-and-the-Mobile-Web</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e94/61df9d8c-c42e-42de-9043-4969c78c3e94/PPSYMPUnicornsMagicPhonesandtheMobilWeb_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unicorns, Magic Phones, and the Mobile Web]]></video:title>
+        <video:description><![CDATA[What is the relevance of the mobile web? Is it important to consider mobile devices when building web sites and web apps today? And aren&#39;t native apps for mobile device more important anyway? In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e94/61df9d8c-c42e-42de-9043-4969c78c3e94/PPSYMPUnicornsMagicPhonesandtheMobilWeb_mid.mp4</video:content_loc>
+        <video:duration>1930</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Building-testable-phone-applications</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2689/20c81858-2191-4b78-bb37-8ac343c72689/PPSYMPBuildingTestablePhoneApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building testable phone applications]]></video:title>
+        <video:description><![CDATA[Francis Cheung explains how to create phone applications you can effectively test. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2689/20c81858-2191-4b78-bb37-8ac343c72689/PPSYMPBuildingTestablePhoneApps_mid.mp4</video:content_loc>
+        <video:duration>2749</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Gadgeteering-and-hte-NET-Micro-Framework</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afcd/be8a35c2-bd6d-4a6d-8bbb-77cd772cafcd/PPSYMPGadgeteeringandtheNetMicroFramekwork_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gadgeteering and the .NET Micro Framework]]></video:title>
+        <video:description><![CDATA[Pete Brown shows off some cool devices running the .NET Micro Framework and explains how to get started taking over the world, one device at a time. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afcd/be8a35c2-bd6d-4a6d-8bbb-77cd772cafcd/PPSYMPGadgeteeringandtheNetMicroFramekwork_mid.mp4</video:content_loc>
+        <video:duration>3750</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/node-js-on-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed80/b7fb99d2-2a7e-424b-b686-31a0bb69ed80/PPSYMPnodejsonAzure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[node.js on Azure]]></video:title>
+        <video:description><![CDATA[Yavor Georgiev, Program Manager on the Azure Application Platform, covers how to use node.js on the Windows Azure platform. Starting with an introduction into node.js, some examples of how it can be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed80/b7fb99d2-2a7e-424b-b686-31a0bb69ed80/PPSYMPnodejsonAzure_mid.mp4</video:content_loc>
+        <video:duration>2830</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Hybrid-Cloud-Applications</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f80/a2532373-8973-42c9-995a-e98614063f80/PPSYMPHybridCloudApplications_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hybrid Cloud Applications]]></video:title>
+        <video:description><![CDATA[More and more applications have components that live in the cloud. Companies want to take advantage of the cloud while still ensuring their on premise applications suites can work in this new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f80/a2532373-8973-42c9-995a-e98614063f80/PPSYMPHybridCloudApplications_mid.mp4</video:content_loc>
+        <video:duration>3245</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Windows-Azure-App-Scaling-to-Need</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/19c4/673c8d52-62ac-44de-812a-306dc67519c4/PPSYMPWindowsAzureAppScalingtoNeed_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure App Scaling to Need]]></video:title>
+        <video:description><![CDATA[Grigori Melnik and Julian Dominguez provide an overview of the Autoscaling Application Block [Wasabi] to help you scale your application dynamically while meeting your SLA and staying on budget. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19c4/673c8d52-62ac-44de-812a-306dc67519c4/PPSYMPWindowsAzureAppScalingtoNeed_mid.mp4</video:content_loc>
+        <video:duration>3249</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Welcome-from-Soma</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/596a56e3-bf8e-4fee-827f-981a745bab43.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome from Soma]]></video:title>
+        <video:description><![CDATA[Corporate Vice President of the Developer Division Soma Somasegar kicks off the event. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eff2/6339e83d-d6ce-45fd-8255-297bd519eff2/PPSYMPWelcomeFromSoma_mid.mp4</video:content_loc>
+        <video:duration>121</video:duration>
+        <video:publication_date>2012-04-23T18:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

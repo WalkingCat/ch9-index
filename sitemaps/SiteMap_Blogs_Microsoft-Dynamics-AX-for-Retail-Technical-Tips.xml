@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Dynamics-AX-for-Retail-Technical-Tips</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Dynamics-AX-for-Retail-Technical-Tips/AX-for-Retail-R3-Commerce-Data-Exchange-Async-Scheduler-Jobs-and-Troubleshooting-episode-4-of-4</loc>
+      <lastmod>2017-10-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8809/85640f2d-0334-42f4-9576-1ed528368809/V04CDXSchedulerJobsandTroubleshootingCDXAsyncServ_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AX for Retail R3 Commerce Data Exchange Async: Scheduler Jobs and Troubleshooting (episode 4 of 4)]]></video:title>
+        <video:description><![CDATA[The fourth and final episode in the CDX Async series walks through the data transfer between Headquarters and your Channel databases.  This episode also goes through troubleshooting tips for keeping&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8809/85640f2d-0334-42f4-9576-1ed528368809/V04CDXSchedulerJobsandTroubleshootingCDXAsyncServ_mid.mp4</video:content_loc>
+        <video:duration>5435</video:duration>
+        <video:publication_date>2015-06-30T00:28:16.4538368+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Dynamics-AX-for-Retail-Technical-Tips/AX-for-Retail-R3-Commerce-Data-Exchange-Async-Install-Async-Client-episode-3-of-4</loc>
+      <lastmod>2016-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9404/480dd06a-e6ab-49d8-9523-ef0364fd9404/V03InstallCDXAsyncClient_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AX for Retail R3 Commerce Data Exchange Async: Install Async Client (episode 3 of 4)]]></video:title>
+        <video:description><![CDATA[This third video in a series of four will take you through the installation and configuration of the CDX Async Client and show how communication takes place between your Headquarters and Channels. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9404/480dd06a-e6ab-49d8-9523-ef0364fd9404/V03InstallCDXAsyncClient_mid.mp4</video:content_loc>
+        <video:duration>1171</video:duration>
+        <video:publication_date>2015-06-30T00:28:03.5588630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Dynamics-AX-for-Retail-Technical-Tips/AX-for-Retail-R3-Commerce-Data-Exchange-Async-Configure-Async-Server-episode-2-of-4</loc>
+      <lastmod>2016-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/653e/64b30dad-186d-45f8-8dd7-0c03dd5e653e/V02ConfigureCDXAsyncServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AX for Retail R3 Commerce Data Exchange Async: Configure Async Server (episode 2 of 4)]]></video:title>
+        <video:description><![CDATA[This session walks through the configuration of CDX Async Server in Headquarters, explaining the concepts of Channel Data Groups, Channel Databases, and the Sync Metadata process.  It is the second of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/653e/64b30dad-186d-45f8-8dd7-0c03dd5e653e/V02ConfigureCDXAsyncServer_mid.mp4</video:content_loc>
+        <video:duration>1998</video:duration>
+        <video:publication_date>2015-06-30T00:27:46.6019968+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Microsoft-Dynamics-AX-for-Retail-Technical-Tips/AX-for-Retail-R3-Commerce-Data-Exchange-Async-Install-Async-Server-episode-1-of-4</loc>
+      <lastmod>2015-02-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/377d/d1588da8-5dc9-4356-916d-cf027b79377d/InstallCDXAsyncServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AX for Retail R3 Commerce Data Exchange Async:  Install Async Server (episode 1 of 4)]]></video:title>
+        <video:description><![CDATA[This session will walk you through the basic steps of installing the CDX Async Server.  It is the first in a series of four videos detailing the CDX Async infrastructure that was introduced in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/377d/d1588da8-5dc9-4356-916d-cf027b79377d/InstallCDXAsyncServer_mid.mp4</video:content_loc>
+        <video:duration>1663</video:duration>
+        <video:publication_date>2014-10-28T22:21:52.5312982+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

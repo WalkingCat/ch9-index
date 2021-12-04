@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/Dapr-case-study-Man-Group</loc>
+      <lastmod>2021-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/04ac/ea78a6aa-1154-4972-b18b-1e47696004ac/DaprConSession4DaprCaseStudyManGroup_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dapr case study: Man Group]]></video:title>
+        <video:description><![CDATA[Ori Zohar and Simon Jones will discuss the ways Man Group has integrated Dapr to their existing solution running on-prem on virtual machines. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a26d/2a5a5020-2d12-4323-8796-fa3c7f25a26d/DaprCaseStudyManGroup_mid.mp4</video:content_loc>
+        <video:duration>1771</video:duration>
+        <video:publication_date>2021-10-22T13:37:22.8544380+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/Dapr-case-study-Legentic</loc>
+      <lastmod>2021-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a8ab/3de80ed6-c6ee-498d-82fd-414baf2ba8ab/DaprConSession7DaprcasestudyLegentic_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dapr case study: Legentic]]></video:title>
+        <video:description><![CDATA[Donovan Brown and Ciprian Mocanu will discuss how Legentic is using Dapr on AWS with Python and FastAPI. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6579/fcc0961f-e794-4371-a84c-efb4b99c6579/DaprConSession7DaprcasestudyLegentic_mid.mp4</video:content_loc>
+        <video:duration>1853</video:duration>
+        <video:publication_date>2021-10-06T08:17:16.5209971+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/Adopters-panel</loc>
+      <lastmod>2021-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4895/9b27fe55-afc2-4b7d-9a1f-a4bffb544895/DaprConSession6AdoptersPanel_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adopters panel]]></video:title>
+        <video:description><![CDATA[Donovan Brown will talk to a panel of Dapr adopters who are using Dapr in real world solutions and discuss their journey and experience of building mission critical systems with Dapr. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b647/38f35b20-5dae-4b23-a0f1-3bd7e259b647/DaprConSession6AdoptersPanel_mid.mp4</video:content_loc>
+        <video:duration>2673</video:duration>
+        <video:publication_date>2021-10-06T08:16:28.1879458+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/Running-Dapr-in-production</loc>
+      <lastmod>2021-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ce28/b0dfc103-a5b1-475b-91c3-3d4e24ccce28/DaprConSession5RunningDaprinProduction_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Running Dapr in production]]></video:title>
+        <video:description><![CDATA[In this session, Jessica Deen will cover and demo best practices for running Dapr in production. Everything you need to know about security practices, rolling upgrades to a new Dapr version and more! ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c56f/58b76c4e-49a5-4245-badf-295dca69c56f/DaprConSession5RunningDaprinProduction_mid.mp4</video:content_loc>
+        <video:duration>1712</video:duration>
+        <video:publication_date>2021-10-06T08:16:00.5633136+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/Maintainer-panel</loc>
+      <lastmod>2021-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fbdc/951e3989-db36-45e0-8070-f088ec1bfbdc/DaprConSession3MaintainerPanel_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Maintainer panel]]></video:title>
+        <video:description><![CDATA[Join Dapr maintainers in a live panel moderated by Ori Zohar to discuss the Dapr community, contributing to Dapr and some behind the scenes information on the Dapr release process, roadmap and how the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fe1b/9076185c-6500-4701-a4a5-b811ce2ffe1b/DaprConSession3MaintainerPanel_mid.mp4</video:content_loc>
+        <video:duration>2691</video:duration>
+        <video:publication_date>2021-10-06T08:14:57.5555763+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/Zero-to-hero-with-Dapr</loc>
+      <lastmod>2021-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5ba1/2f4dcded-a3c6-4df5-b413-4de27eba5ba1/DaprConSession2ZerotoHerowithDapr_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Zero to hero with Dapr]]></video:title>
+        <video:description><![CDATA[In this session Cecil Phillip will show key Dapr features and capabilities as he builds an application using Dapr. This session will show you how easy it is to use Dapr APIs and integrate Dapr in your&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0499/7415aa51-ebd5-454b-8532-f8f8c3300499/DaprConSession2ZerotoHerowithDapr_mid.mp4</video:content_loc>
+        <video:duration>1785</video:duration>
+        <video:publication_date>2021-10-06T08:14:13.9651413+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Third-Party-Events/DaprCon/DaprCon-Keynote</loc>
+      <lastmod>2021-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f7eb/a0569553-7f4a-447c-99be-a344c076f7eb/DaprConSession1Keynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DaprCon Keynote]]></video:title>
+        <video:description><![CDATA[Yaron Schneider and Mark Fussell will kick off DaprCon with some history on how Dapr got started, insights on Dapr features and the growing community and the vision for Dapr moving forward. We&#39;ll also&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bca3/fe611ed9-2c7d-46ba-b6a7-680cc8fdbca3/DaprConSession1Keynote_mid.mp4</video:content_loc>
+        <video:duration>1643</video:duration>
+        <video:publication_date>2021-10-06T08:13:29.5208901+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/msftazure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/msftazure/Run-PowerShell-Natively-on-Linux-with-Docker</loc>
+      <lastmod>2017-12-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f9f1/8aff785c-f799-47fd-97c2-0d4f79f9f9f1/PowerShellLinuxDockerNETCoreIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Run PowerShell Natively on Linux with Docker]]></video:title>
+        <video:description><![CDATA[Have you turned into a skeleton, waiting for an object-oriented shell on Linux, that is easy to use, but is incredibly powerful and extensible? Have you been waiting to run PowerShell on Linux? Do you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f9f1/8aff785c-f799-47fd-97c2-0d4f79f9f9f1/PowerShellLinuxDockerNETCoreIntro_mid.mp4</video:content_loc>
+        <video:duration>1209</video:duration>
+        <video:publication_date>2016-08-18T15:18:38.8276762+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/msftazure/Azure-PowerShell--Managing-Azure-DNS</loc>
+      <lastmod>2015-07-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6cd5/c3ae4625-f5ac-4da7-98ee-3c43cb0c6cd5/AzurePowerShellManagingAzureDNS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure PowerShell :: Managing Azure DNS]]></video:title>
+        <video:description><![CDATA[During this video, we&#39;ll explore the Azure Resource Manager (ARM) PowerShell module, enabling us to manage the Microsoft Azure DNS Service! We&#39;ll start by authenticating to Azure, selecting the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cd5/c3ae4625-f5ac-4da7-98ee-3c43cb0c6cd5/AzurePowerShellManagingAzureDNS_mid.mp4</video:content_loc>
+        <video:duration>329</video:duration>
+        <video:publication_date>2015-07-17T22:36:52.8994294+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/msftazure/Azure-PowerShell--Managing-Blob-Storage</loc>
+      <lastmod>2019-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5deb/8be9c0b7-014a-4a44-ae4e-2ed36f425deb/AzurePowerShellManagingBlobStorage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure PowerShell :: Managing Blob Storage]]></video:title>
+        <video:description><![CDATA[Come join Microsoft Windows PowerShell MVP Trevor Sullivan, and explore the management of Microsoft Azure Blob Storage using the Azure Resource Manager (ARM) PowerShell module! Topics will include&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5deb/8be9c0b7-014a-4a44-ae4e-2ed36f425deb/AzurePowerShellManagingBlobStorage_mid.mp4</video:content_loc>
+        <video:duration>601</video:duration>
+        <video:publication_date>2015-07-16T17:25:53.2567735+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/msftazure/Red-Gate-Azure-Storage-Explorer-Free-Tool</loc>
+      <lastmod>2017-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bad7/22b556e9-1f1d-44a7-943d-8f418237bad7/RedGateAzureStorageExplorerFree_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Red Gate Azure Storage Explorer [Free Tool]]]></video:title>
+        <video:description><![CDATA[During this short video, we will explore the free Microsoft Azure Storage Explorer from Red Gate Software! We can use this Storage Explorer to connect to an Azure Storage Account, create and remove&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bad7/22b556e9-1f1d-44a7-943d-8f418237bad7/RedGateAzureStorageExplorerFree_mid.mp4</video:content_loc>
+        <video:duration>233</video:duration>
+        <video:publication_date>2015-07-15T22:54:25.4586813+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

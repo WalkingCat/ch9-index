@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jongalloway</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jongalloway/Jon-Takes-Five-with-Louis-DeJardin-on-Spark-View-Engine</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/3/3/4/4/5/Take5LouisDeJardin_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jon Takes Five with Louis DeJardin on Spark View Engine]]></video:title>
+        <video:description><![CDATA[In this video, Jon talks to 
+Louis DeJardin about the 
+Spark View Engine. 
+
+Spark is a view engine for Asp.Net Mvc and Castle Project MonoRail frameworks. The idea is to allow the html to dominate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/3/3/4/4/5/Take5LouisDeJardin_ch9.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2010-04-19T16:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jongalloway/Jon-Takes-Five-with-Brad-Wilson-on-MVC-2-Templating--Validation</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/6/8/3/4/5/Take5BradWilsonMVC2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jon Takes Five with Brad Wilson on MVC 2 Templating &amp; Validation]]></video:title>
+        <video:description><![CDATA[In this video, Jon talks to ASP.NET team member Brad Wilson about new Templating and Validation features in ASP.NET MVC 2.
+
+Brad shows off templating, strongly typed helpers, model validation, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/6/8/3/4/5/Take5BradWilsonMVC2_ch9.mp4</video:content_loc>
+        <video:duration>613</video:duration>
+        <video:publication_date>2010-04-15T00:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jongalloway/Jon-Takes-Five-with-Javier-Lozano-on-MVC-Turbine</loc>
+      <lastmod>2010-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/2/1/1/4/5/Take5JavierLozano_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Jon Takes Five with Javier Lozano on MVC Turbine]]></video:title>
+        <video:description><![CDATA[In this video, Jon talks to
+Javier Lozano about
+MVC Turbine.
+
+
+MVC Turbine is an open source plugin for 
+ASP.NET MVC that has IoC baked-in and auto-wires controllers, binders, view engines, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/2/1/1/4/5/Take5JavierLozano_ch9.mp4</video:content_loc>
+        <video:duration>599</video:duration>
+        <video:publication_date>2010-04-06T15:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/jongalloway/Jon-Takes-Five-with-David-Ebbo-on-T4MVC</loc>
+      <lastmod>2014-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4cdc/7385fd86-fdc3-443a-a2ed-9deb003a4cdc/Take5DavidEbboT4MVC_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Jon Takes Five with David Ebbo on T4MVC]]></video:title>
+        <video:description><![CDATA[Jon talks to David Ebbo about the T4MVC, a T4 Template For ASP.NET MVC.
+
+T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers, which eliminate the use of literal strings&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4cdc/7385fd86-fdc3-443a-a2ed-9deb003a4cdc/Take5DavidEbboT4MVC_high_ch9.mp4</video:content_loc>
+        <video:duration>512</video:duration>
+        <video:publication_date>2010-04-01T16:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

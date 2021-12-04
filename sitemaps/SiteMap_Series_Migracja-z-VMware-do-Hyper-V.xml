@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-z-VMware-do-Hyper-V</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-z-VMware-do-Hyper-V/03--Narzdzia-Partnerw-i-porwnanie</loc>
+      <lastmod>2015-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a037/36d26910-383c-4b15-b467-0f5e69d9a037/MVAMigracjaVMwareHyperV03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Narzdzia Partner&#243;w i por&#243;wnanie]]></video:title>
+        <video:description><![CDATA[Zobacz jakie narzędzia wspierające migracje z VMware do Hyper-V (i Azure) stworzyli Partnerzy Microsoft. Są to 4 rozwiązania, kt&#243;re mają r&#243;żny zakres zastosowań, r&#243;żne możliwości i r&#243;żne ceny. W tym&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a037/36d26910-383c-4b15-b467-0f5e69d9a037/MVAMigracjaVMwareHyperV03_mid.mp4</video:content_loc>
+        <video:duration>811</video:duration>
+        <video:publication_date>2015-02-15T14:41:02.9152753+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-z-VMware-do-Hyper-V/02--Microsoft-Virtual-Machine-Converter-i-MAT</loc>
+      <lastmod>2015-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b14/c9dec366-7d42-4250-a35b-91d4b1f28b14/MVAMigracjaVMwareHyperV02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Microsoft Virtual Machine Converter (i MAT)]]></video:title>
+        <video:description><![CDATA[Dowiedz się do czego służy narzędzie Microsoft Virtual Machine Converter 3.0 (MVMC) i jak wygląda proces migracji maszyn z jego wykorzystaniem. Sprawdź jak możesz zautomatyzować działanie MVMC z&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b14/c9dec366-7d42-4250-a35b-91d4b1f28b14/MVAMigracjaVMwareHyperV02_mid.mp4</video:content_loc>
+        <video:duration>1135</video:duration>
+        <video:publication_date>2015-02-15T14:40:54.2837408+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-z-VMware-do-Hyper-V/01--Dlaczego-jak-i-czym-migrowa</loc>
+      <lastmod>2015-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0937/868db3ec-3dda-4d68-b441-59beed5a0937/MVAMigracjaVMwareHyperV01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Dlaczego, jak i czym migrowa?]]></video:title>
+        <video:description><![CDATA[Dowiedz się, jakie korzyści i kluczowe przewagi ma w tej chwili Microsoft nad rozwiązaniami VMware. Przekonaj się, dlaczego analitycy i Klienci m&#243;wią o Hyper-V jako technologii, kt&#243;ra świetnie się&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0937/868db3ec-3dda-4d68-b441-59beed5a0937/MVAMigracjaVMwareHyperV01_mid.mp4</video:content_loc>
+        <video:duration>1309</video:duration>
+        <video:publication_date>2015-02-15T14:40:44.5481584+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

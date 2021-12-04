@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DX-Hungary/ALM-Konferencia-2016-Alkalmazsfejleszts-a-kontnerek-vilgban</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DX-Hungary/ALM-Konferencia-2016-Alkalmazsfejleszts-a-kontnerek-vilgban/Alkalmazasmetrikak-gyujtese</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4a46/c7a15555-844a-486e-9172-944f893b4a46/alkalmazasmetrikakgyujtese_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 - Alkalmaz&#225;smetrik&#225;k gyjt&#233;se]]></video:title>
+        <video:description><![CDATA[A megfelelő alkalmaz&#225;s metrik&#225;k gyűjt&#233;se asikeres DevOps kulcsa. (Az Azure platform alkalmaz&#225;s analitkiai &#233;s fel&#252;gyeletieszk&#246;zei, VSTS cloud load tests) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4a46/c7a15555-844a-486e-9172-944f893b4a46/alkalmazasmetrikakgyujtese_high.mp4</video:content_loc>
+        <video:duration>3395</video:duration>
+        <video:publication_date>2016-12-02T12:57:20.5544315+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DX-Hungary/ALM-Konferencia-2016-Alkalmazsfejleszts-a-kontnerek-vilgban/02-Immutabilis-infrastrukturak</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c8f1/4912de57-d5ce-4802-ad1e-b4ff6328c8f1/immutabilisinfrastrukturak_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 - Immut&#225;bilis infrastrukt&#250;r&#225;k]]></video:title>
+        <video:description><![CDATA[K&#243;d&#233;p&#237;t&#233;s &#233;s folyamatos kihelyez&#233;s kont&#233;nerekkel. (Visual Studio TS eszk&#246;zei, AzureContainer Service, VSTS Release Management) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c8f1/4912de57-d5ce-4802-ad1e-b4ff6328c8f1/immutabilisinfrastrukturak_high.mp4</video:content_loc>
+        <video:duration>5712</video:duration>
+        <video:publication_date>2016-12-02T12:57:00.7837660+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DX-Hungary/ALM-Konferencia-2016-Alkalmazsfejleszts-a-kontnerek-vilgban/01-Alkalmazsfejleszts-a-kontnerek-vilgban</loc>
+      <lastmod>2016-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7fac/fa183882-58c0-415d-8303-0b218a557fac/Alkalmazasfejlesztesakontenerekvilagaban_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 - Alkalmaz&#225;sfejleszt&#233;s a kont&#233;nerek vil&#225;g&#225;ban]]></video:title>
+        <video:description><![CDATA[Alkalmaz&#225;sfejleszt&#233;s a kont&#233;nerek vil&#225;g&#225;ban. (Kont&#233;nerek Windows-on &#233;s Windows kont&#233;nerek, Visual Studio Tools for Docker – .NetCore alkalmaz&#225;sok fejleszt&#233;se, futtat&#225;sa &#233;s hibakeres&#233;se kont&#233;nerekben,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7fac/fa183882-58c0-415d-8303-0b218a557fac/Alkalmazasfejlesztesakontenerekvilagaban_high.mp4</video:content_loc>
+        <video:duration>4986</video:duration>
+        <video:publication_date>2016-12-02T12:56:46.6823886+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

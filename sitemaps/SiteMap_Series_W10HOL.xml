@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL/Speech</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d8e4/2fb199a1-1368-4d2f-be3c-569150b7d8e4/06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Speech, Ink, Gesture, Identity]]></video:title>
+        <video:description><![CDATA[Speech, Ink, Gesture, Identity 박문찬 한국마이크로소프트 MVP ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d8e4/2fb199a1-1368-4d2f-be3c-569150b7d8e4/06_mid.mp4</video:content_loc>
+        <video:duration>3664</video:duration>
+        <video:publication_date>2015-12-17T02:04:51.8744089+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL/Cloud</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae8a/47445f6b-c6cf-46ec-bd7c-6a9dc6efae8a/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Integration]]></video:title>
+        <video:description><![CDATA[Cloud Integration 류정현 한국마이크로소프트 MVP ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae8a/47445f6b-c6cf-46ec-bd7c-6a9dc6efae8a/05_mid.mp4</video:content_loc>
+        <video:duration>3292</video:duration>
+        <video:publication_date>2015-12-17T01:59:52.2978099+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL/Edge</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5279/c86b35df-e5bc-4e6c-85a5-c96077795279/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Edge &amp; Web Apps]]></video:title>
+        <video:description><![CDATA[Edge &amp;amp; Web Apps 김영욱 한국마이크로소프트 기술 에반젤리스트 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5279/c86b35df-e5bc-4e6c-85a5-c96077795279/04_mid.mp4</video:content_loc>
+        <video:duration>1471</video:duration>
+        <video:publication_date>2015-12-17T01:48:05.4905712+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL/Live</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc78/56751bc7-41d3-4241-9b6f-297ed23bcc78/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Live Tiles &amp; Notifications]]></video:title>
+        <video:description><![CDATA[Live Tiles &amp;amp; Notifications 류정현 한국마이크로소프트 MVP ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc78/56751bc7-41d3-4241-9b6f-297ed23bcc78/03_mid.mp4</video:content_loc>
+        <video:duration>1914</video:duration>
+        <video:publication_date>2015-12-17T01:41:00.3032753+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL/UI</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff17/394c0989-82be-4516-86cd-aa96e768ff17/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adaptive UI]]></video:title>
+        <video:description><![CDATA[Adaptive UI 권영철 한국마이크로소프트 MVP       ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff17/394c0989-82be-4516-86cd-aa96e768ff17/02_mid.mp4</video:content_loc>
+        <video:duration>3416</video:duration>
+        <video:publication_date>2015-12-17T01:31:37.2109380+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/W10HOL/UWP</loc>
+      <lastmod>2020-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ddd/4fcb8c51-8c70-4b8a-b6d5-fe09b2273ddd/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hello UWP World]]></video:title>
+        <video:description><![CDATA[Hello UWP World 김영욱 한국마이크로소프트 기술 에반젤리스트 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ddd/4fcb8c51-8c70-4b8a-b6d5-fe09b2273ddd/01_mid.mp4</video:content_loc>
+        <video:duration>3326</video:duration>
+        <video:publication_date>2015-12-17T01:21:43.8542415+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

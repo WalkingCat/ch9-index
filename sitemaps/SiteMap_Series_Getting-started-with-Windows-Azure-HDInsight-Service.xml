@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Get-started-with-HBase-in-HDInsight</loc>
+      <lastmod>2016-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c30e/78e08352-479b-4d15-9e2a-0fd6e021c30e/HBaseGetStarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get started with HBase in HDInsight]]></video:title>
+        <video:description><![CDATA[Learn how to use HBase to store big data. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c30e/78e08352-479b-4d15-9e2a-0fd6e021c30e/HBaseGetStarted_mid.mp4</video:content_loc>
+        <video:duration>287</video:duration>
+        <video:publication_date>2015-06-17T12:38:31.3022174+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Install-and-use-Azure-PowerShell</loc>
+      <lastmod>2015-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ab5/6ae67e55-d219-47e5-9956-b394577b7ab5/InstallAndUseAzurePowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Install and use Azure PowerShell]]></video:title>
+        <video:description><![CDATA[Azure PowerShell is used extensively in the Microsoft HDInsight articles because it makes it easier to use Hadoop remotely from your workstation. In this video you&#39;ll learn how to install and use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ab5/6ae67e55-d219-47e5-9956-b394577b7ab5/InstallAndUseAzurePowerShell_mid.mp4</video:content_loc>
+        <video:duration>115</video:duration>
+        <video:publication_date>2015-06-12T16:25:13.9561976+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Get-Azure-Free-trial-for-testing-Hadoop-in-HDInsight</loc>
+      <lastmod>2015-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0fe9/fab298f1-a3ab-4ecc-9d4a-06096f610fe9/GetAzureFreeTrialForHD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to get Azure Free trial for testing Hadoop in HDInsight]]></video:title>
+        <video:description><![CDATA[Azure HDInsight makes it easy to use Apache Hadoop on the cloud. With the Azure one-month free trial, the learning experience is free. There is absolutely no obligation to buy anything. At the end of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0fe9/fab298f1-a3ab-4ecc-9d4a-06096f610fe9/GetAzureFreeTrialForHD_mid.mp4</video:content_loc>
+        <video:duration>113</video:duration>
+        <video:publication_date>2015-06-10T13:39:27.6768642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Configure-the-VPN-connectivity-between-two-Azure-virtual-networks</loc>
+      <lastmod>2017-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ccdd/41ca5e83-c218-48ec-9595-e9edcdcbccdd/ConfigureTheVPNConnectivityBetweenTwoAzureVirtual_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configure the VPN connectivity between two Azure virtual networks]]></video:title>
+        <video:description><![CDATA[This is the first video of the HBase geo replication in HDInsight series.  It can also be used to learn configuring site-to-site VPN connection.  The other videos in the series are: Configure DNS for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ccdd/41ca5e83-c218-48ec-9595-e9edcdcbccdd/ConfigureTheVPNConnectivityBetweenTwoAzureVirtual_mid.mp4</video:content_loc>
+        <video:duration>541</video:duration>
+        <video:publication_date>2015-05-13T03:31:19.9351553+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Analyze-Twitter-trend-using-Apache-Hive-in-HDInsight</loc>
+      <lastmod>2015-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/df7a/e0315e3b-5e3e-414b-85de-aa59f68edf7a/AnalyzeTwitterTrendUsingApacheHiveInHDInsight_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Analyze Twitter trend using Apache Hive in HDInsight]]></video:title>
+        <video:description><![CDATA[This video shows you how to use HDInsight sample gallery to run an Apache Hive job on a HDInsight cluster. The Hive job is used to analyze Twitter trend. Useful topics and links: Analyze Twitter data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/df7a/e0315e3b-5e3e-414b-85de-aa59f68edf7a/AnalyzeTwitterTrendUsingApacheHiveInHDInsight_mid.mp4</video:content_loc>
+        <video:duration>302</video:duration>
+        <video:publication_date>2015-01-24T17:03:04.2653788+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-an-HDInsight-cluster-using-the-Windows-Azure-Management-portal</loc>
+      <lastmod>2017-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5387/14d97f29-60be-444e-9162-961382c75387/HDInsightProvision1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create an HDInsight cluster using the Windows Azure Management portal]]></video:title>
+        <video:description><![CDATA[HDInsight provides everything you need to quickly deploy Apache Hadoop clusters that run on Windows Azure. In less than 15 minutes, you&#39;ll have the nodes in your cluster created, file system and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5387/14d97f29-60be-444e-9162-961382c75387/HDInsightProvision1_mid.mp4</video:content_loc>
+        <video:duration>258</video:duration>
+        <video:publication_date>2014-02-12T08:21:26.3595770+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-cluster-with-Windows-Azure-HDInsight-Service-video</loc>
+      <lastmod>2014-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03e9/6847b3d4-b402-4557-befa-1755042003e9/GettingStartedHDInsightCreateFirstClusterVid_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a cluster with Windows Azure HDInsight Service (video)]]></video:title>
+        <video:description><![CDATA[Windows Azure HDInsight Services makes creating a cluster fast and easy.  In just a few minutes you&#39;ll have your cluster up and running. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03e9/6847b3d4-b402-4557-befa-1755042003e9/GettingStartedHDInsightCreateFirstClusterVid_mid.mp4</video:content_loc>
+        <video:duration>151</video:duration>
+        <video:publication_date>2013-08-12T14:51:30.9322320+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Develop-and-Run-Hadoop-Streaming-MapReduce-jobs-on-Windows-Azure-HDInsight-Service</loc>
+      <lastmod>2016-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7abe/a71c7251-bff6-4682-b6c0-d33f51e17abe/GettingStartedHDInsightStreaming_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Develop and Run Hadoop Streaming MapReduce jobs on Windows Azure HDInsight Service]]></video:title>
+        <video:description><![CDATA[Most MapReduce jobs are written in Java.  The streaming API allows you to write and run MapReduce jobs using languages other than Java. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7abe/a71c7251-bff6-4682-b6c0-d33f51e17abe/GettingStartedHDInsightStreaming_mid.mp4</video:content_loc>
+        <video:duration>324</video:duration>
+        <video:publication_date>2013-08-10T21:10:59.9710371+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Add-data-storage-to-a-Windows-Azure-account-video</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c368/25d1d26f-b97a-4490-8e78-7e785f6ac368/GettingStartedWindowsAzureStorageAccountVid4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Add data storage to a Windows Azure account (video)]]></video:title>
+        <video:description><![CDATA[After you have created a Windows Azure account, you can add a storage account. There are many reasons to create a Windows Azure storage account.  One reason is to save the expense of transferring data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c368/25d1d26f-b97a-4490-8e78-7e785f6ac368/GettingStartedWindowsAzureStorageAccountVid4_mid.mp4</video:content_loc>
+        <video:duration>166</video:duration>
+        <video:publication_date>2013-08-10T20:01:24.4928908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Enable-a-Windows-Azure-Preview-Feature-video</loc>
+      <lastmod>2014-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2741/624b6c47-4cf1-4513-8406-076431b62741/gettingstartedwindowsazurePreviewFeaturevid3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enable a Windows Azure Preview Feature (video)]]></video:title>
+        <video:description><![CDATA[Windows Azure makes many features available in Preview mode.... before they become permanent features. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2741/624b6c47-4cf1-4513-8406-076431b62741/gettingstartedwindowsazurePreviewFeaturevid3_mid.mp4</video:content_loc>
+        <video:duration>64</video:duration>
+        <video:publication_date>2013-08-10T19:52:45.2175496+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account</loc>
+      <lastmod>2017-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/add1/b8dfaf79-37d2-48a9-a914-03b3d0f1add1/createWindowsAzureAccountvid2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a Windows Azure Account]]></video:title>
+        <video:description><![CDATA[This video takes you through the steps to create a Windows Azure free trial account.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/add1/b8dfaf79-37d2-48a9-a914-03b3d0f1add1/createWindowsAzureAccountvid2_mid.mp4</video:content_loc>
+        <video:duration>97</video:duration>
+        <video:publication_date>2013-08-10T19:46:05.7361780+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Getting-Started-with-Windows-Azure-Service-Series-Overview</loc>
+      <lastmod>2014-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b79f/8bfb3a85-0ebd-490b-9e00-51440cc4b79f/HDInsightGS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Windows Azure Service - Series Overview]]></video:title>
+        <video:description><![CDATA[Getting started with HDInsight involves 4 quick tasks.  The tasks are: creating a Windows Azure account subscription, enabling the HDInsight Service on my Windows Azure account, creating and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b79f/8bfb3a85-0ebd-490b-9e00-51440cc4b79f/HDInsightGS_mid.mp4</video:content_loc>
+        <video:duration>61</video:duration>
+        <video:publication_date>2013-08-07T18:01:31.6709096+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Creating-your-first-HDInsight-cluster-and-run-samples</loc>
+      <lastmod>2017-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c775/394ffdac-cb0e-4fa7-864a-1339c987c775/firsthdinsightcluster_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating your first HDInsight cluster and run samples]]></video:title>
+        <video:description><![CDATA[This video walks you through the simple steps of signing up for Windows Azure HDInsight preview, creating your first cluster, and running two Map Reduce samples.  If you are trying the HDInsight&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c775/394ffdac-cb0e-4fa7-864a-1339c987c775/firsthdinsightcluster_mid.mp4</video:content_loc>
+        <video:duration>471</video:duration>
+        <video:publication_date>2013-03-23T18:19:34.8142303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Introduction-to-Windows-Azure-HDInsight-Service-continued</loc>
+      <lastmod>2017-07-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/48fa/5ed038c1-7b5b-4d89-86f5-9cec766948fa/introhdinsight_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Windows Azure HDInsight Service (continued..)]]></video:title>
+        <video:description><![CDATA[This is a general Introduction to  Big Data, Hadoop, and Microsoft&#39;s new Hadoop-based cloud Service called Windows Azure HDInsight.  This presentation is divided into two videos, this is Part 2.  We&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/48fa/5ed038c1-7b5b-4d89-86f5-9cec766948fa/introhdinsight_mid.mp4</video:content_loc>
+        <video:duration>406</video:duration>
+        <video:publication_date>2013-03-23T04:26:40.1185948+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Introduction-To-Windows-Azure-HDInsight-Service</loc>
+      <lastmod>2018-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/437e/fdcb6d49-cc94-4b3a-afa9-d9d6aa0c437e/introhadoopbigdata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction To Windows Azure HDInsight Service]]></video:title>
+        <video:description><![CDATA[This is a general Introduction to  Big Data, Hadoop, and Microsoft&#39;s new Hadoop-based Service called Windows Azure HDInsight.  This presentation is divided into two videos, this is Part 1.  We cover&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/437e/fdcb6d49-cc94-4b3a-afa9-d9d6aa0c437e/introhadoopbigdata_mid.mp4</video:content_loc>
+        <video:duration>660</video:duration>
+        <video:publication_date>2013-03-23T04:26:19.8356600+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MSDN-Ask-the-Expert-Series</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MSDN-Ask-the-Expert-Series/Live-DATE-Developers-Ask-the-Experts</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Create-a-Virtual-Machine</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3280/613d5707-213f-46f1-afb6-3ad2e8a23280/VirtualMachine_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Demand: Create a Virtual Machine]]></video:title>
+        <video:description><![CDATA[After watching this quick how-to for creating a virtual machine with Azure credit, take another minute to send us feedback via a survey &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3280/613d5707-213f-46f1-afb6-3ad2e8a23280/VirtualMachine_mid.mp4</video:content_loc>
+        <video:duration>96</video:duration>
+        <video:publication_date>2016-03-02T18:02:22.3111612+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Activate-your-MSDN-Azure-Benefits</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b46/d7b3d2cb-4444-4c1e-a549-f63270541b46/ActivateAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Demand: Activate your Visual Studio (formerly MSDN) Azure Benefits]]></video:title>
+        <video:description><![CDATA[After watching this quick how-to for creating a virtual machine with Azure credit, take another minute to send us feedback via a survey &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b46/d7b3d2cb-4444-4c1e-a549-f63270541b46/ActivateAzure_mid.mp4</video:content_loc>
+        <video:duration>68</video:duration>
+        <video:publication_date>2016-03-02T18:01:47.2038639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Lets-Get-Started</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5c1/f99606a7-815e-47eb-933f-cf0e57c9d5c1/Getstarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Demand: Let&#39;s Get Started]]></video:title>
+        <video:description><![CDATA[After watching this quick how-to getting started with your Visual Studio Subscription Benefits, take another minute to send us feedback via a survey&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5c1/f99606a7-815e-47eb-933f-cf0e57c9d5c1/Getstarted_mid.mp4</video:content_loc>
+        <video:duration>95</video:duration>
+        <video:publication_date>2016-03-02T18:01:01.0678159+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Get-the-Most-out-of-your-MSDN-Subscription</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c977/8b12dc9d-caeb-49b4-bfbb-aa00cf05c977/MSDNsubscription_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Demand: Get the Most out of your Visual Studio Subscription (formerly MSDN Subscription)]]></video:title>
+        <video:description><![CDATA[After watching this quick how-to video, take another minute to send us feedback via a survey https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x3107274629 and we will mail you a FREE&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c977/8b12dc9d-caeb-49b4-bfbb-aa00cf05c977/MSDNsubscription_mid.mp4</video:content_loc>
+        <video:duration>57</video:duration>
+        <video:publication_date>2016-03-02T18:00:16.0174972+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/1-Basic-12-Securizando-bases-de-datos-Microsoft-Azure-SQL</loc>
+      <lastmod>2017-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/Desarrollo-de-cliente-optimiza-tu-trabajo-con-Javascript-y-CSS</loc>
+      <lastmod>2017-04-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8be/2787d5b9-2172-460c-bc35-1abc626db8be/DesarrolloenCliente_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Desarrollo de cliente: optimiza tu trabajo con Javascript y CSS]]></video:title>
+        <video:description><![CDATA[Veremos la integraci&#243;n en Visual Studio de herramientas como npm, bower o grunt que permiten descargar, actualizar, gestionar, compilar, optimizar, etc. recursos de cliente como frameworks, estilos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8be/2787d5b9-2172-460c-bc35-1abc626db8be/DesarrolloenCliente_mid.mp4</video:content_loc>
+        <video:duration>5026</video:duration>
+        <video:publication_date>2016-05-17T20:11:42.8959915+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/Azure-como-plataforma-de-desarrollo</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e37/b015b674-dc99-4feb-84fe-7efe8f1c8e37/AzureComoPlataforma_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure como plataforma de desarrollo]]></video:title>
+        <video:description><![CDATA[Azure es una plataforma que evoluciona d&#237;a a d&#237;a y que puede ser utilizada desde diferentes perspectivas. En esta sesi&#243;n se propone Azure como medio para alojar nuestras aplicaciones y los servicios&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e37/b015b674-dc99-4feb-84fe-7efe8f1c8e37/AzureComoPlataforma_mid.mp4</video:content_loc>
+        <video:duration>3219</video:duration>
+        <video:publication_date>2016-05-17T20:10:37.8387535+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/Entity-Framework-Core-y-ASPNET-Core-NET-en-todas-las-plataformas</loc>
+      <lastmod>2016-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db44/a55ca5df-5e94-4a50-9ab0-2d7a3504db44/EntityFrameworkCoreYASPENETCoreNET_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Entity Framework Core y ASP.NET Core: .NET en todas las plataformas]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n se analizan las nuevas versiones de ASP.NET y EF, antes conocidas como ASP.NET 5 y EF 7, escritas desde cero y capaces de funcionar en las tres plataformas m&#225;s extendidas: Windows,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db44/a55ca5df-5e94-4a50-9ab0-2d7a3504db44/EntityFrameworkCoreYASPENETCoreNET_mid.mp4</video:content_loc>
+        <video:duration>6338</video:duration>
+        <video:publication_date>2016-05-17T20:10:25.7099457+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/Modelos-de-desarrollo-en-SharePoint-2013</loc>
+      <lastmod>2016-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb7b/91780661-9f7e-4257-b9ce-fa32ae24fb7b/ModelosDeDesarrolloEnSharePoint2013_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modelos de desarrollo en SharePoint 2013]]></video:title>
+        <video:description><![CDATA[El desarrollo en SharePoint es muy amplio, lo que nos da una idea del potencial que tiene como repositorio de nuestras personalizaciones, el &#250;nico problema tal vez sea la diversidad de modelos, cada&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb7b/91780661-9f7e-4257-b9ce-fa32ae24fb7b/ModelosDeDesarrolloEnSharePoint2013_mid.mp4</video:content_loc>
+        <video:duration>2885</video:duration>
+        <video:publication_date>2016-05-17T20:10:19.3408429+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/Planifica-tu-Integracin-continua-con-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5323/dc06c08d-96aa-4573-936e-967c07345323/PlanificaTuIntegracion_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Planifica tu Integraci&#243;n continua con Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n se tuvo la oportunidad de ver el nuevo modelo de agentes de compilaci&#243;n de TFS. Estos agentes son mucho m&#225;s sencillos de configurar aunque no pierden potencia con respecto a TFS Build&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5323/dc06c08d-96aa-4573-936e-967c07345323/PlanificaTuIntegracion_mid.mp4</video:content_loc>
+        <video:duration>3330</video:duration>
+        <video:publication_date>2016-05-17T20:10:08.6681831+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/X3-Encuentro-Danysoft-en-Microsoft/Introduccin-al-Desarrollo-Mvil-con-Xamarn</loc>
+      <lastmod>2016-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f909/afa4c484-7435-455d-9dc5-aa55efbdf909/IntroduccionAlDesarrolloMovilConXamarin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n al Desarrollo M&#243;vil con Xamar&#237;n]]></video:title>
+        <video:description><![CDATA[Xamarin no es nuevo y ahora se ha ido consolidando en un producto para desarrollar aplicaciones m&#243;viles nativas con Visual Studio. En esta sesi&#243;n se ofrece una introducci&#243;n al modelo general y a la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f909/afa4c484-7435-455d-9dc5-aa55efbdf909/IntroduccionAlDesarrolloMovilConXamarin_mid.mp4</video:content_loc>
+        <video:duration>2772</video:duration>
+        <video:publication_date>2016-05-17T20:10:02.4318671+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

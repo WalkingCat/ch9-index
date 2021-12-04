@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Office-Blog</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Office-Blog/Office-365-Platform-for-Developers</loc>
+      <lastmod>2017-08-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7579/4eb54f9b-9d27-4aee-b2ce-08025b087579/Office365PlatformforDevs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Platform for Developers  ]]></video:title>
+        <video:description><![CDATA[Microsoft has opened new doors for developers to build amazing, contextual apps for the Office 365 platform across browsers, PCs and mobile devices. With support for all web languages, now every&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7579/4eb54f9b-9d27-4aee-b2ce-08025b087579/Office365PlatformforDevs_mid.mp4</video:content_loc>
+        <video:duration>128</video:duration>
+        <video:publication_date>2015-11-02T20:43:55.5448907+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

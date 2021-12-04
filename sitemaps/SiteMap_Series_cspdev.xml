@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-15-Azure-Usage-REST-API</loc>
+      <lastmod>2018-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a995/e68a1d1a-43c4-4046-b7de-6caa0338a995/cspmod15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 15 Azure Usage REST API]]></video:title>
+        <video:description><![CDATA[The Partner Center SDK offers the ability to see Azure usage (aka: consumption) details for the current billing period using the Rated Usage endpoint. This endpoint in the Partner Center SDK addresses&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a995/e68a1d1a-43c4-4046-b7de-6caa0338a995/cspmod15_mid.mp4</video:content_loc>
+        <video:duration>3361</video:duration>
+        <video:publication_date>2016-06-11T03:53:46.1331843+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-14-Azure-RateCard-REST-API</loc>
+      <lastmod>2018-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30b5/c9925c68-3644-4184-adb2-de1e9c1130b5/cspmod14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 14 Azure RateCard REST API]]></video:title>
+        <video:description><![CDATA[In this module you will learn how to use the RateCard API, one of the two endpoints in the Azure Billing API. This API allows developers to get access to all pricing information for all Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30b5/c9925c68-3644-4184-adb2-de1e9c1130b5/cspmod14_mid.mp4</video:content_loc>
+        <video:duration>3204</video:duration>
+        <video:publication_date>2016-06-11T03:46:11.2926171+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO</loc>
+      <lastmod>2021-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4cc6/bc417126-4c37-4af8-a45f-fe2534054cc6/cspmod11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 11 Admin On Behalf Of (AOBO)]]></video:title>
+        <video:description><![CDATA[Admin on behalf of (AOBO) is where an application created by the partner and registered in the Partner&#39;s Azure AD tenant that can perform administrative tasks on the customer&#39;s Azure AD tenant on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4cc6/bc417126-4c37-4af8-a45f-fe2534054cc6/cspmod11_mid.mp4</video:content_loc>
+        <video:duration>1902</video:duration>
+        <video:publication_date>2016-06-01T23:14:02.4550014+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-13-Azure-Rated-Usage</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b372/e729766b-fc33-42ff-b3a6-c945b022b372/cspmod13_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 13 Azure Rated Usage]]></video:title>
+        <video:description><![CDATA[This module describes the new Rated Usage feature available in the Partner Center SDK. It shows how to utilize the new customer spending budget which provides an email notification to the partner. It&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b372/e729766b-fc33-42ff-b3a6-c945b022b372/cspmod13_mid.mp4</video:content_loc>
+        <video:duration>1363</video:duration>
+        <video:publication_date>2016-04-04T17:58:07.1768299+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-12-Office-365-Transitioning-Subscriptions</loc>
+      <lastmod>2016-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a6f1/8624f036-e5f4-4eb2-a58e-886575aaa6f1/cspmod12_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 12 Office 365 Transitioning Subscriptions]]></video:title>
+        <video:description><![CDATA[This module talks about how an Office 365 customer can transition their subscription to a new Office 365 offer. It shows you how to use the Partner Center SDK to list the available subscription offers&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6f1/8624f036-e5f4-4eb2-a58e-886575aaa6f1/cspmod12_mid.mp4</video:content_loc>
+        <video:duration>676</video:duration>
+        <video:publication_date>2016-04-04T17:58:01.1479970+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-10-Managing-Support-Tickets</loc>
+      <lastmod>2016-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e5c9/c4847c0b-a593-48b1-931d-c387837ce5c9/cspmod10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 10 Managing Support Tickets]]></video:title>
+        <video:description><![CDATA[This module provides an overview of a partners access to both partner and customer service requests through the Partner Center SDK. This includes searching and updating service requests. It also shows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5c9/c4847c0b-a593-48b1-931d-c387837ce5c9/cspmod10_mid.mp4</video:content_loc>
+        <video:duration>922</video:duration>
+        <video:publication_date>2016-04-04T17:57:48.5338285+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-9-Microsoft-Azure-Managing-Users--Resources</loc>
+      <lastmod>2016-09-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ba8/21e9e23c-78b2-4377-ae51-e25f2b7e2ba8/cspmod09_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 9 Microsoft Azure Managing Users &amp; Resources]]></video:title>
+        <video:description><![CDATA[This module provides an overview of Azure subscriptions from the Partner Center SDK. It shows how to create Azure subscriptions in the Partner Center SDK, and also how to add users to those&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ba8/21e9e23c-78b2-4377-ae51-e25f2b7e2ba8/cspmod09_mid.mp4</video:content_loc>
+        <video:duration>2942</video:duration>
+        <video:publication_date>2016-04-04T17:57:42.0865952+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-8-CSP-Billing-Invoices--Reconciliation-Files</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2efe/27dc16e0-5828-48c2-9e79-da3222142efe/cspmod08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 8 CSP Billing - Invoices &amp; Reconciliation Files]]></video:title>
+        <video:description><![CDATA[This module goes into detail about access to a partners invoices using the Partner Center SDK. It shows how to download invoices and how to access and read invoice line items which were previously&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2efe/27dc16e0-5828-48c2-9e79-da3222142efe/cspmod08_mid.mp4</video:content_loc>
+        <video:duration>1347</video:duration>
+        <video:publication_date>2016-04-04T17:57:35.7663626+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-7-Office-365--Offers-AddOns-Subscriptions--Orders</loc>
+      <lastmod>2017-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d0b/7858d3ff-5b3d-4a3e-9709-2cb1613f4d0b/cspmod07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 7 Office 365  Offers, AddOns, Subscriptions &amp; Orders]]></video:title>
+        <video:description><![CDATA[This module walks through scenarios in the Partner Center SDK related to Offers, Add-Ons, Subscriptions, and Orders. It shows how to work with each of those data types in the Partner Center SDK and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d0b/7858d3ff-5b3d-4a3e-9709-2cb1613f4d0b/cspmod07_mid.mp4</video:content_loc>
+        <video:duration>1926</video:duration>
+        <video:publication_date>2016-04-04T17:57:29.3640545+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-6-Managing-Customers</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1164/7bdc5f28-e6f9-4f00-a48e-b965f8001164/cspmod06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 6 Managing Customers]]></video:title>
+        <video:description><![CDATA[This module walks through various scenarios for working with customer records in the Partner Center SDK. This includes getting a partner&#39;s customers, creating customers, deleting customers, getting a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1164/7bdc5f28-e6f9-4f00-a48e-b965f8001164/cspmod06_mid.mp4</video:content_loc>
+        <video:duration>2196</video:duration>
+        <video:publication_date>2016-04-04T17:57:20.8732354+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-5-Getting-Started-with-the-Sample-Code</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d811/f1957465-1525-4aa2-af78-391f3be0d811/cspmod05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 5 Getting Started with the Sample Code]]></video:title>
+        <video:description><![CDATA[This module shows how to obtain and compile and use the three sample applications. It shows the CREST sample code. It shows the Partner Center SDK sample console application. And it shows the Partner&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d811/f1957465-1525-4aa2-af78-391f3be0d811/cspmod05_mid.mp4</video:content_loc>
+        <video:duration>1272</video:duration>
+        <video:publication_date>2016-04-04T17:57:05.7648573+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-4-REST--JSON-Primer--Debugging-API-Calls</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5277/a05b1828-9c04-46ad-a0a4-e5887f9e5277/cspmod04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 4 REST + JSON Primer &amp; Debugging API Calls]]></video:title>
+        <video:description><![CDATA[This module describes REST and JSON since those are the protocols that the Partner Center SDK uses to communicate with Microsoft. Whether you are programming at the REST layer or using the Partner&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5277/a05b1828-9c04-46ad-a0a4-e5887f9e5277/cspmod04_mid.mp4</video:content_loc>
+        <video:duration>2458</video:duration>
+        <video:publication_date>2016-04-04T17:56:58.0245563+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-3-Understanding-how-Partner-Center-SDK-works-with-CREST-API</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4948/ba32af36-d129-423d-b498-1a9258384948/cspmod03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 3 Understanding how Partner Center SDK works with CREST API]]></video:title>
+        <video:description><![CDATA[This module describes how to use the Partner Center SDK with existing code that uses the CREST API. It will talk about the new features available in the Partner Center SDK that are not available in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4948/ba32af36-d129-423d-b498-1a9258384948/cspmod03_mid.mp4</video:content_loc>
+        <video:duration>2321</video:duration>
+        <video:publication_date>2016-04-04T17:56:50.1260068+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-2-Authentication-for-Partner-Center-SDK</loc>
+      <lastmod>2017-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/612e/574d8e69-84cc-4cb6-a8ad-7b86e389612e/cspmod02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 2 Authentication for Partner Center SDK]]></video:title>
+        <video:description><![CDATA[This module describes how the Partner Center SDK uses Azure AD directories. It includes how to manage the partner tenant with an Azure subscription. It also goes into detail of how to authenticate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/612e/574d8e69-84cc-4cb6-a8ad-7b86e389612e/cspmod02_mid.mp4</video:content_loc>
+        <video:duration>3458</video:duration>
+        <video:publication_date>2016-04-04T17:56:42.7795100+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/cspdev/Module-1-Introductory-System-Concepts-and-Getting-Started-with-the-Partner-Center-SDK</loc>
+      <lastmod>2017-09-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e425/c56f9de2-84d2-42f3-b4c0-2caa9906e425/cspmod01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Module 1 Introductory System Concepts and Getting Started with the Partner Center SDK]]></video:title>
+        <video:description><![CDATA[This module provides an overview for the course. We will talk about key concepts and the technical actors involved in the Partner Center SDK. It includes a brief overview of Azure AD tenants, and of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e425/c56f9de2-84d2-42f3-b4c0-2caa9906e425/cspmod01_mid.mp4</video:content_loc>
+        <video:duration>2126</video:duration>
+        <video:publication_date>2016-04-04T17:33:54.2966191+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

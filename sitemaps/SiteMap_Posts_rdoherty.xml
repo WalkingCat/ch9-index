@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/S12Keynote-DQS</loc>
+      <lastmod>2012-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41f8/441c7603-a7c4-489e-b539-2508ad2641f8/02S12KeynoteDQS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo 2 - SQL Server Connections Spring 2012 Shawn Bice Keynote]]></video:title>
+        <video:description><![CDATA[Demo 2 of 4 from the Shawn Bice keynote at SQLConnections ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41f8/441c7603-a7c4-489e-b539-2508ad2641f8/02S12KeynoteDQS_mid.mp4</video:content_loc>
+        <video:duration>512</video:duration>
+        <video:publication_date>2012-03-27T02:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/S12Keynote-AlwaysOn</loc>
+      <lastmod>2018-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e17/7c7b2a51-ac08-4ad8-b831-80fcbfac8e17/01S12KeynoteAlwaysOn_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo 1 - SQL Server Connections Spring 2012 Shawn Bice Keynote]]></video:title>
+        <video:description><![CDATA[Demo 1 of 4 from the Shawn Bice keynote at SQLConnections ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e17/7c7b2a51-ac08-4ad8-b831-80fcbfac8e17/01S12KeynoteAlwaysOn_mid.mp4</video:content_loc>
+        <video:duration>365</video:duration>
+        <video:publication_date>2012-03-27T02:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/S12Keynote-SSDT</loc>
+      <lastmod>2018-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a297/00ad3ae3-24aa-4cfa-bcb6-a7a42ddca297/03S12KeynoteSSDT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo 3 - SQL Server Connections Spring 2012 Shawn Bice Keynote]]></video:title>
+        <video:description><![CDATA[Demo 3 of 4 from the Shawn Bice keynote at SQLConnections   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a297/00ad3ae3-24aa-4cfa-bcb6-a7a42ddca297/03S12KeynoteSSDT_mid.mp4</video:content_loc>
+        <video:duration>984</video:duration>
+        <video:publication_date>2012-03-27T02:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/S12Keynote-DataSync</loc>
+      <lastmod>2018-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ad2/7d9f71b8-8971-4ed4-bbba-ada21dfd6ad2/04S12KeynoteDataSync_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo 4 - SQL Server Connections Spring 2012 Shawn Bice Keynote]]></video:title>
+        <video:description><![CDATA[Demo 4 of 4 from the Shawn Bice keynote at SQLConnections ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ad2/7d9f71b8-8971-4ed4-bbba-ada21dfd6ad2/04S12KeynoteDataSync_mid.mp4</video:content_loc>
+        <video:duration>320</video:duration>
+        <video:publication_date>2012-03-27T02:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/SQL11UPD00-REC-02</loc>
+      <lastmod>2021-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e6b/96489ac5-6db5-4353-9dd1-cce079794e6b/SQL11UPD00REC02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: A First Look at SQL Server Data Tools]]></video:title>
+        <video:description><![CDATA[This demo provides a quick tour of the new SQL Server Data Tools. SSDT makes it easy to develop powerful database solutions that target both your on-premise environment and the cloud. Roger Doherty&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e6b/96489ac5-6db5-4353-9dd1-cce079794e6b/SQL11UPD00REC02_mid.mp4</video:content_loc>
+        <video:duration>1056</video:duration>
+        <video:publication_date>2012-03-07T20:04:34.3732034+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/SQL11UPD00-REC-01</loc>
+      <lastmod>2012-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b543/37b48b15-5be7-4016-bb9d-2e491d41b543/SQL11UPD00REC01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Roger Doherty: Introduction to SQL Server 2012]]></video:title>
+        <video:description><![CDATA[This presentation provides an overview of the key improvements in SQL Server 2012 from a developer perspective in the context of Microsoft&#39;s overall platform strategy. Roger Doherty Senior Program&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b543/37b48b15-5be7-4016-bb9d-2e491d41b543/SQL11UPD00REC01_mid.mp4</video:content_loc>
+        <video:duration>2065</video:duration>
+        <video:publication_date>2012-03-07T18:50:03.7849430+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

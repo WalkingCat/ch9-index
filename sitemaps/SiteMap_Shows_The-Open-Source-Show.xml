@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Using-Open-Data-to-Build-Family-Trees</loc>
+      <lastmod>2019-10-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/882e/423fc368-48e4-441d-a31e-34c66cc2882e/Episode25_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Open Data to Build Family Trees]]></video:title>
+        <video:description><![CDATA[Erica Joy (@EricaJoy) joins Ashley McNamara (@ashleymcnamara) to share her not-so-secret personal mission: making genealogy information open, queryable, and easily parsable. She shares a bit about why&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/882e/423fc368-48e4-441d-a31e-34c66cc2882e/Episode25_mid.mp4</video:content_loc>
+        <video:duration>335</video:duration>
+        <video:publication_date>2019-06-25T17:28:42.3873555+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/All-About-Rust-in-Real-Life-Linkerd-20</loc>
+      <lastmod>2021-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b417/37d714d9-3e84-46c4-bd5f-041a783bb417/Episode24_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[All About Rust in Real Life: Linkerd 2.0]]></video:title>
+        <video:description><![CDATA[Oliver Gould (@olix0r), CTO at Buoyant and one of the creators of Linkerd, joins Lachie Evenson (@LachlanEvenson) to talk Rust: one of StackOverflow&#39;s most loved programming languages for the 4th year&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b417/37d714d9-3e84-46c4-bd5f-041a783bb417/Episode24_mid.mp4</video:content_loc>
+        <video:duration>445</video:duration>
+        <video:publication_date>2019-06-18T17:10:36.6025833+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Bring-DevOps-to-Your-Open-Source-Projects-Top-3-Tips-for-Maintainers</loc>
+      <lastmod>2020-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/17a1/384da81c-b127-4b45-84ce-06e6d05717a1/Episode23_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bring DevOps to Your Open Source Projects: Top 3 Tips for Maintainers ]]></video:title>
+        <video:description><![CDATA[Baruch Sadogurksy (@jbaruch), Head of Developer Relations at JFrog, and Aaron (@arschles), Cloud Advocate at Microsoft and Project Athens Maintainer, talk about the art of DevOps for Open Source –&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/17a1/384da81c-b127-4b45-84ce-06e6d05717a1/Episode23_mid.mp4</video:content_loc>
+        <video:duration>385</video:duration>
+        <video:publication_date>2019-06-04T15:54:20.0755308+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/All-About-Rust</loc>
+      <lastmod>2021-06-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cce8/1d17f604-1792-43d8-9d93-0176cdd7cce8/Episode_22_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[All About Rust]]></video:title>
+        <video:description><![CDATA[Oliver Gould (@olix0r), CTO at Buoyant and one of the creators of Linkerd, joins Lachie Evenson (@LachlanEvenson) to talk about Rust – which was ranked the &amp;quot;the most loved programming&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/cce8/1d17f604-1792-43d8-9d93-0176cdd7cce8/Episode_22_mid.mp4</video:content_loc>
+        <video:duration>435</video:duration>
+        <video:publication_date>2019-05-21T16:12:29.2222703+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/All-About-Go-Modules-and-Dependency-Management-Project-Athens-and-GoCenter</loc>
+      <lastmod>2019-04-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2efb/97770272-43a8-43c5-a03a-28d57aa32efb/Episode21_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[All About Go Modules and Dependency Management: Project Athens and GoCenter]]></video:title>
+        <video:description><![CDATA[Baruch Sadogurksy (@jbaruch), Head of Developer Relations at JFrog, and Aaron (@arschles), Cloud Advocate at Microsoft and Project Athens Maintainer, talk all things Go Dependencies, Modules, and how&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2efb/97770272-43a8-43c5-a03a-28d57aa32efb/Episode21_mid.mp4</video:content_loc>
+        <video:duration>483</video:duration>
+        <video:publication_date>2019-04-23T19:32:33.3061842+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Microservices-Day-2-You-Have-a-Service-Mesh-Now-What</loc>
+      <lastmod>2019-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/41dc/f5b697be-ad07-4a54-b934-d551befa41dc/Epi_20_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microservices Day 2: You Have a Service Mesh, Now What?]]></video:title>
+        <video:description><![CDATA[William Morgan (@wm), CEO at Buoyant and Linkerd maintainer, joins Lachie Evenson (@LachlanEvenson) to dive deeper into service meshes (want a refresher? Check out Intro to Service Meshes: Data&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/41dc/f5b697be-ad07-4a54-b934-d551befa41dc/Epi_20_mid.mp4</video:content_loc>
+        <video:duration>353</video:duration>
+        <video:publication_date>2019-04-09T15:53:25.9792308+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/All-Things-Conference-ROI-Pro-Tips-for-Attendees--First-Time-Speakers</loc>
+      <lastmod>2019-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/299a/9de476f7-b908-47a5-a39d-6148216e299a/OpenSourceShow_EPI19_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[All Things Conference ROI: Pro Tips for Attendees &amp; First-Time Speakers]]></video:title>
+        <video:description><![CDATA[Baruch Sadogursky (@jbaruch),  Head of Developer Relations at JFrog, and Aaron Schlesinger (@arschles) - both passionate conference speakers and attendees - share their tips for navigating the sea of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/299a/9de476f7-b908-47a5-a39d-6148216e299a/OpenSourceShow_EPI19_mid.mp4</video:content_loc>
+        <video:duration>471</video:duration>
+        <video:publication_date>2019-03-26T15:56:52.9333135+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Getting-Started-with-Infrastructure-as-Code-IaC</loc>
+      <lastmod>2019-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bb71/cb30e718-739d-4a50-88cd-1fa73feebb71/Episode18-OpenSourceShow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Infrastructure as Code (IaC)]]></video:title>
+        <video:description><![CDATA[Armon Dadgar (@armon), HashiCorp CTO and co-founder, and Aaron Schlesinger (@arschles) walk us through the core concepts of Infrastructure as Code (IaC) and how it goes beyond what people typically&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/bb71/cb30e718-739d-4a50-88cd-1fa73feebb71/Episode18-OpenSourceShow_mid.mp4</video:content_loc>
+        <video:duration>443</video:duration>
+        <video:publication_date>2019-03-12T17:08:34.6644346+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Open-Source-Security-Best-Practices-for-Developers-Contributors-and-Maintainers</loc>
+      <lastmod>2019-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/430f/2849c873-3c32-46c2-ab21-3cf6df45430f/OSS_Ep16_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Security Best Practices for Developers, Contributors, and Maintainers ]]></video:title>
+        <video:description><![CDATA[Armon Dadgar (@armon), HashiCorp CTO and co-founder, and Aaron Schlesinger (@arschles) talk about how and why HashiCorp Vault is a security and open source product: two things traditionally considered&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/430f/2849c873-3c32-46c2-ab21-3cf6df45430f/OSS_Ep16_mid.mp4</video:content_loc>
+        <video:duration>555</video:duration>
+        <video:publication_date>2019-02-12T16:58:42.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Top-Diversity--Inclusion-Tips-for-Job-Seekers-Hiring-Managers-and-Interview-Panelists</loc>
+      <lastmod>2019-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/12de/fe0fd80f-9bc5-4f5d-9351-9f9a4c4e12de/TOSS-15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Top Diversity &amp; Inclusion Tips for Job Seekers, Hiring Managers, and Interview Panelists]]></video:title>
+        <video:description><![CDATA[Long-time friends Erica Baker (@EricaJoy), Engineering Manager and Project Include co-founder, and Ashley McNamara (@ashleymcnamara) talk how to create, keep, and find diverse, inclusive workplaces.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/12de/fe0fd80f-9bc5-4f5d-9351-9f9a4c4e12de/TOSS-15_mid.mp4</video:content_loc>
+        <video:duration>485</video:duration>
+        <video:publication_date>2019-01-29T18:13:03.1477528+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Intro-to-Service-Meshes-Data-Planes-Control-Planes-and-More</loc>
+      <lastmod>2019-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6e7b/cf2108cf-e6de-4d5b-acc9-83c6e9a46e7b/OSS_Episode14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to Service Meshes: Data Planes, Control Planes, and More]]></video:title>
+        <video:description><![CDATA[Armon Dadgar (@armon), HashiCorp CTO and co-founder joins Aaron Schlesinger (@arschles) to school him on all things service meshes. You&#39;ll understand what a service mesh actually does, when and why it&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6e7b/cf2108cf-e6de-4d5b-acc9-83c6e9a46e7b/OSS_Episode14_mid.mp4</video:content_loc>
+        <video:duration>447</video:duration>
+        <video:publication_date>2019-01-15T16:57:21.5534001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Machine-Learning-on-Code</loc>
+      <lastmod>2019-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/8762a4e0-04f3-4da9-884c-a9b0001b3c6f_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Machine Learning on Code]]></video:title>
+        <video:description><![CDATA[Machine Learning &amp;#43; Natural Language Processing &amp;#43; Source Code = code2vec Francesc Campoy (@francesc), VP Developer Relations at source{d} joins us to talk about ML-assisted code review&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1bca/6c39ddd2-4895-4f97-b095-596f04481bca/tossmloncode_mid.mp4</video:content_loc>
+        <video:duration>398</video:duration>
+        <video:publication_date>2018-12-11T16:58:54.9000431+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/7-Tips-for-Creating-Technical-Content</loc>
+      <lastmod>2019-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/bd3dcb53-fba0-41c5-922b-a9a4010e5494_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[7 Tips for Creating Technical Content]]></video:title>
+        <video:description><![CDATA[Based on their experiences writing for various sites, hosting YouTube series, and organizing and presenting at conferences, Adron Hall (@adron) and Christina Warren (@film_girl) share their top tips&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/27f6/7ac32f16-a065-4e9d-ad3d-82afdb4e27f6/115990TOSSEPI-12HowToCreateTechnicalContentMaster_mid.mp4</video:content_loc>
+        <video:duration>339</video:duration>
+        <video:publication_date>2018-11-27T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Open-Source-Project-Spotlight-Binomial-and-Bionic-Pancreas</loc>
+      <lastmod>2018-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/133f2751-fb4d-4594-9d3a-a99201465cac_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Open Source Project Spotlight: Binomial and Bionic Pancreas]]></video:title>
+        <video:description><![CDATA[Stephanie Hurlburt (@sehurlburt), Binomial co-founder, joins Scott Hanselman (@shanselman) to talk about their current projects. Stephanie covers the differences between CPU and GPU, how Binomial&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3be2/a5a987a4-4ce1-4e38-99d6-0a2688313be2/115990TOSSEPI-11Open-Source-Passion-ProjectsShowM_mid.mp4</video:content_loc>
+        <video:duration>506</video:duration>
+        <video:publication_date>2018-11-13T17:09:52.8759662+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Instrumenting-Observability-Getting-Started-and-Pro-Tips</loc>
+      <lastmod>2018-11-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/32b7e0c5-0370-4138-afe1-a93e010cbcb4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instrumenting Observability: Getting Started and Pro Tips]]></video:title>
+        <video:description><![CDATA[Systems are increasingly complex and distributed, and standard metrics, monitoring, and logging aren&#39;t enough: they catch known unknowns and send real-time updates – but what about what you don&#39;t&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b9c4/bec99f37-4118-4900-913d-1d70fb17b9c4/115990TOSSEPI-10Instrumenting-ObservabilityShow-v_mid.mp4</video:content_loc>
+        <video:duration>519</video:duration>
+        <video:publication_date>2018-10-30T15:59:15.5400638+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Intro-to-Observability-Driven-Development</loc>
+      <lastmod>2018-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/8af32f03-6534-44fe-84df-a97500e1283a_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to Observability-Driven Development]]></video:title>
+        <video:description><![CDATA[How do you make decisions to flip feature flags or know if edge cases really matter? Who should care about observability? How do you build a culture around asking and answering questions about the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1fd8/f1a838eb-e57e-455a-abaf-f5ff8ae71fd8/115990EPI-09ObservabilityShowMaster100918_mid.mp4</video:content_loc>
+        <video:duration>481</video:duration>
+        <video:publication_date>2018-10-16T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/All-About-Go</loc>
+      <lastmod>2018-11-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/c0b4d102-0f5f-436f-a4c0-a9660122c83c_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[All About Go]]></video:title>
+        <video:description><![CDATA[Go has exploded in popularity and it&#39;s used in huge open source projects, like Kubernetes and Terraform, but what is it exactly? How does it compare to other programming languages? What problem does&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e1f7/4614f506-abd8-4c5c-92f1-a5c7b065e1f7/115990EPI-08GoLanguageMaster092518_mid.mp4</video:content_loc>
+        <video:duration>437</video:duration>
+        <video:publication_date>2018-10-02T16:00:37.6018477+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Open-Source-Community-Health-Your-Guide-to-Continuous-Community-Improvement</loc>
+      <lastmod>2018-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Giving-Back-The-Role-of-Ethics-in-Open-Source-and-Online-Communities</loc>
+      <lastmod>2018-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/9ce4e324-0e2f-4486-b4a7-a94301489c62_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Giving Back: The Role of Ethics in Open Source and Online Communities ]]></video:title>
+        <video:description><![CDATA[Technical and operational ethics are important, but they&#39;re only half of the equation: how do you put the community in open source, from mentoring others and encouraging members to network with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebd2/86a652ad-b7e8-499a-9f61-fad04c98ebd2/Ep6OpenSourceShow_mid.mp4</video:content_loc>
+        <video:duration>437</video:duration>
+        <video:publication_date>2018-08-28T15:57:07.9956021+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Distributed-Systems-Demystified-Cassandra-DataStax-demo-and-FAQ</loc>
+      <lastmod>2018-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/4ca7dfc8-49bf-4a42-8efc-a93400cff566_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Distributed Systems, Demystified: Cassandra, DataStax demo and FAQ]]></video:title>
+        <video:description><![CDATA[  Distributed system blog posts, podcasts, and presentations are everywhere, but understanding how to actually use various tools, projects, and services? Not so straightforward. Adron Hall (@adron),&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a9a/e161a438-18ce-45e6-8df2-58245b038a9a/EPI-05-Distributed-Systems_mid.mp4</video:content_loc>
+        <video:duration>687</video:duration>
+        <video:publication_date>2018-08-14T15:47:54.3306818+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/How-to-Fix-All-the-Things-with-Logging--Metrics--Error-Tracking</loc>
+      <lastmod>2018-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/2e107059-cb74-4082-95da-a920010353f4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Fix All the Things with Logging + Metrics + Error Tracking]]></video:title>
+        <video:description><![CDATA[Chloe Condon (@chloecondon), Developer Evangelist at Sentry.io, returns with Bridget Kromhout (@bridgetkromhout) to talk about all things observability -- and show us how you to get started with error&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f54e/f31774d9-32eb-43ce-b826-c5398cd3f54e/S1E4Open-Source-Show_mid.mp4</video:content_loc>
+        <video:duration>455</video:duration>
+        <video:publication_date>2018-07-31T16:00:20.4648303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Getting-Started-with-Cloud-Native-Infrastructure</loc>
+      <lastmod>2018-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/9998a2bf-f829-447b-b87f-a8fd012ac2e2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Cloud Native Infrastructure]]></video:title>
+        <video:description><![CDATA[Cloud native. What does it really mean? Why do you need it? How and where should you get started? Justin Garrison, Cloud Native Infrastructure, co-author, and Bridget Kromhout cover the what, when,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d7c/37a671fd-0f1b-48b0-a3d3-4c7249ea3d7c/S1E3OpenSouceShow_mid.mp4</video:content_loc>
+        <video:duration>458</video:duration>
+        <video:publication_date>2018-07-17T15:58:04.7666705+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/How-to-Meetup-Hosting-and-Finding-Community-Events</loc>
+      <lastmod>2020-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/1ed3b4d2-f2ed-4c99-80e2-a90a002022ff_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Meetup: Hosting and Finding Community Events]]></video:title>
+        <video:description><![CDATA[Chloe Condon - Developer Evangelist at Sentry.io and creator of Sentry&#39;s scout-themed monthly meetups - and Jessica Deen share their tips for event hosts, presenters, and attendees, based on their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/837b/a872062c-495d-4230-a473-2f467e77837b/OpenSourceShowE3HowtoMeetup_mid.mp4</video:content_loc>
+        <video:duration>429</video:duration>
+        <video:publication_date>2018-07-03T16:00:58.7668621+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/How-to-Community-Anatomy-of-Successful-Open-Source-Communities-and-Projects</loc>
+      <lastmod>2019-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/d125fa96-3e0e-4cf8-8c68-a8fe013a155e_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Community: Anatomy of Successful Open Source Communities and Projects]]></video:title>
+        <video:description><![CDATA[If you&#39;ve ever wondered how to be a better contributor, encourage more people to submit pull requests for your projects, or what makes the best communities successful, look no further.   Jono Bacon,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/322c/543d9ef5-7bcb-47af-ab00-177c3f45322c/EpisodeOneOpenSourceShow_mid.mp4</video:content_loc>
+        <video:duration>632</video:duration>
+        <video:publication_date>2018-06-19T17:41:17.1190751+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Treehouse-discussion-submitting-Spark-jobs-using-Kubernetes-scheduler-on-AKS</loc>
+      <lastmod>2018-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/dfd574d0-8234-4a60-bf68-a8a501199562_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Treehouse discussion: submitting Spark jobs using Kubernetes scheduler on AKS]]></video:title>
+        <video:description><![CDATA[Follow the discussion between Lena and Bernd and learn about a new Kubernetes scheduler option in the latest release of Spark 2.3.0. Lena gives Bernd a quick overview of Spark, and shows him a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c25e/26552cf5-49ec-42c2-837d-c967d2b5c25e/SubmittingSparkJobdUsingKubernetesScheduler_mid.mp4</video:content_loc>
+        <video:duration>559</video:duration>
+        <video:publication_date>2018-03-19T16:20:47.5461360+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-Open-Source-Show/Data-ingestion-stream-processing-and-sentiment-analysis-pipeline-using-Twitter-data-example</loc>
+      <lastmod>2018-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/64577920-1d7a-453f-98d7-a894013a68b0_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Data ingestion, stream processing and sentiment analysis pipeline using Twitter data example]]></video:title>
+        <video:description><![CDATA[Follow the conversation between Lena and Suz and learn about setting up a data ingestion and processing system consisting of event producer, reliable event aggregation and consumer using Twitter&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3e7/be21e8d7-b050-4785-82ce-275e6d5ff3e7/20180117-OSSShowV2_mid.mp4</video:content_loc>
+        <video:duration>482</video:duration>
+        <video:publication_date>2018-03-05T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

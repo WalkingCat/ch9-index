@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Le-basi-della-Sicurezza</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Le-basi-della-Sicurezza/5-Proteggere-Server-e-Client</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/405c/ea2836d2-61ff-4c43-a263-0309b2ae405c/policy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 - Proteggere Server e Client]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/405c/ea2836d2-61ff-4c43-a263-0309b2ae405c/policy_mid.mp4</video:content_loc>
+        <video:duration>983</video:duration>
+        <video:publication_date>2015-02-11T14:10:14.5365781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Le-basi-della-Sicurezza/4-Sicurezza-in-rete</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4863/a2d49234-4106-4c96-8254-79b2d33f4863/netw_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 - Sicurezza in rete]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4863/a2d49234-4106-4c96-8254-79b2d33f4863/netw_mid.mp4</video:content_loc>
+        <video:duration>1431</video:duration>
+        <video:publication_date>2015-02-11T13:58:49.0291249+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Le-basi-della-Sicurezza/3-Capire-le-regole-di-sicurezza</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0f34/62d974e2-6392-4949-b587-5f292fb30f34/policy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 - Capire le regole di sicurezza]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f34/62d974e2-6392-4949-b587-5f292fb30f34/policy_mid.mp4</video:content_loc>
+        <video:duration>463</video:duration>
+        <video:publication_date>2015-02-11T13:32:47.3399929+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Le-basi-della-Sicurezza/2-Autenticazione-autorizzazioni-e-accounting</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/1e68b90c-7071-4566-b0b9-f27788381e95.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 - Autenticazione, autorizzazioni e accounting]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f751/2243fd3d-5f71-4f5e-a8af-c0f5e680f751/auth_high.mp4</video:content_loc>
+        <video:duration>1900</video:duration>
+        <video:publication_date>2015-02-11T13:19:11.8982197+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Le-basi-della-Sicurezza/1-Introduzione</loc>
+      <lastmod>2015-02-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f861/28b50672-2ead-4db1-9b98-7a6d3e2bf861/intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 - Introduzione]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f861/28b50672-2ead-4db1-9b98-7a6d3e2bf861/intro_mid.mp4</video:content_loc>
+        <video:duration>601</video:duration>
+        <video:publication_date>2015-02-11T13:09:08.6702008+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

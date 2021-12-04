@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Migrare-da-VMware-a-Hyper-VAzure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Migrare-da-VMware-a-Hyper-VAzure/Microsoft-Virtual-Machine-Converter-30-Introduzione</loc>
+      <lastmod>2015-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5677/7fb4a7f3-1d14-41d0-a8f0-7ee287e55677/intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Virtual Machine Converter 3.0 - Introduzione]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5677/7fb4a7f3-1d14-41d0-a8f0-7ee287e55677/intro_mid.mp4</video:content_loc>
+        <video:duration>211</video:duration>
+        <video:publication_date>2014-10-29T15:47:20.8861190+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Migrare-da-VMware-a-Hyper-VAzure/Demo-Migrare-da-VMware-a-Hyper-V</loc>
+      <lastmod>2014-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/da7c/2857edcb-0399-4834-92c5-4b7244cfda7c/toHyperV_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo - Migrare da VMware a Hyper-V]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da7c/2857edcb-0399-4834-92c5-4b7244cfda7c/toHyperV_mid.mp4</video:content_loc>
+        <video:duration>312</video:duration>
+        <video:publication_date>2014-10-29T15:31:42.8713034+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/MVA-Migrare-da-VMware-a-Hyper-VAzure/Demo-Migrare-da-VMware-a-Microsoft-Azure</loc>
+      <lastmod>2015-01-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afdd/c2c04bc9-a8c5-4d34-a433-4e1e0312afdd/toAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo - Migrare da VMware a Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Materiale corso MVA ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afdd/c2c04bc9-a8c5-4d34-a433-4e1e0312afdd/toAzure_mid.mp4</video:content_loc>
+        <video:duration>286</video:duration>
+        <video:publication_date>2014-10-29T13:07:55.0043536+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

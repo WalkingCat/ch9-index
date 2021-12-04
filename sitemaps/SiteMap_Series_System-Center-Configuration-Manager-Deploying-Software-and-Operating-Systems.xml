@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod4</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f146/95f61aa9-2775-4668-9938-c9730b8ef146/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Operating System Deployment]]></video:title>
+        <video:description><![CDATA[Closing off this course will be Module 4 focussing on OSD, and utilising all the components we have covered in the previous three modules. This video is part of the Microsoft Virtual Academy (MVA).&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f146/95f61aa9-2775-4668-9938-c9730b8ef146/Mod4_mid.mp4</video:content_loc>
+        <video:duration>2432</video:duration>
+        <video:publication_date>2015-05-27T20:04:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod3</loc>
+      <lastmod>2018-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3cd1/f3d815d2-abcf-4b4b-94ff-7c4cd3563cd1/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Software Updates]]></video:title>
+        <video:description><![CDATA[Ensuring you have healthy clients within your enterprise, Software Updates within Configuration Manager allows Administrators to have a full view on managed clients and their state. This video is part&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3cd1/f3d815d2-abcf-4b4b-94ff-7c4cd3563cd1/Mod3_mid.mp4</video:content_loc>
+        <video:duration>1124</video:duration>
+        <video:publication_date>2015-05-27T20:03:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod2</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e083/cffaa317-3b41-4015-9b52-69dff2a1e083/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Application Management]]></video:title>
+        <video:description><![CDATA[Building on Module 1 and the Infrastructure deployments, this module will build the process manage, deploy and update your application repositories. This video is part of the Microsoft Virtual Academy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e083/cffaa317-3b41-4015-9b52-69dff2a1e083/Mod2_mid.mp4</video:content_loc>
+        <video:duration>2488</video:duration>
+        <video:publication_date>2015-05-27T20:02:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod1</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62de/8e1eab26-24ef-43fc-b12b-7cd27d9762de/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Content Management]]></video:title>
+        <video:description><![CDATA[Through this module you will understand the planning and process required for content management within System Center Configuration Manager. This video is part of the Microsoft Virtual Academy (MVA).&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62de/8e1eab26-24ef-43fc-b12b-7cd27d9762de/Mod1_mid.mp4</video:content_loc>
+        <video:duration>2087</video:duration>
+        <video:publication_date>2015-05-27T20:01:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

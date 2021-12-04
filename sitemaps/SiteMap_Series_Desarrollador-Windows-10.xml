@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desarrollador-Windows-10</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desarrollador-Windows-10/Administracin-de-soluciones-y-proyectos</loc>
+      <lastmod>2015-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/129d/74c37177-fb93-429a-bc6b-173563eb129d/SolucionesVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Administraci&#243;n de soluciones y proyectos]]></video:title>
+        <video:description><![CDATA[Hay ocasiones en que las aplicaciones requieren tener uno o m&#225;s proyectos. En este video Alejandro Mart&#237;nez te mostrar&#225; como manejar los proyectos y soluciones as&#237; como sus diferencias dentro de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/129d/74c37177-fb93-429a-bc6b-173563eb129d/SolucionesVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>281</video:duration>
+        <video:publication_date>2015-11-27T03:39:31.9320655+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desarrollador-Windows-10/Depuracion-y-monitoreo-de-aplicaciones-en-Visual-Studio-2015</loc>
+      <lastmod>2015-11-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/75c5/d0f9c605-7266-4ed3-83ad-e6d6ee0975c5/DebugVisual_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Depuraci&#243;n y monitoreo de aplicaciones en Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[En este video Roberto Cervantes nos explica como empezar a utilizar una t&#233;cnica muy &#250;til en programaci&#243;n. La depuraci&#243;n de c&#243;digo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/75c5/d0f9c605-7266-4ed3-83ad-e6d6ee0975c5/DebugVisual_mid.mp4</video:content_loc>
+        <video:duration>527</video:duration>
+        <video:publication_date>2015-11-03T19:17:33.2848523+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desarrollador-Windows-10/Conociendo-Visual-Studio-y-Blend</loc>
+      <lastmod>2021-06-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/672a/0aedc68b-b4ef-438b-8495-93d81c80672a/VisualStudioBlend_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conociendo Visual Studio y Blend]]></video:title>
+        <video:description><![CDATA[Siempre es necesario utilizar la mejor herramienta en el momento adecuado, cuando se trata de escribir c&#243;digo no hay nada como Visual Studio pero cuando se trata de dise&#241;o de interfaces lo mejor es&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/672a/0aedc68b-b4ef-438b-8495-93d81c80672a/VisualStudioBlend_mid.mp4</video:content_loc>
+        <video:duration>535</video:duration>
+        <video:publication_date>2015-10-18T22:11:25.0787118+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Desarrollador-Windows-10/Instalacin-de-herramientas-para-desarrollo-de-aplicaciones-Windows-10</loc>
+      <lastmod>2015-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed09/9d889c5a-dd89-4c32-a863-795c413ded09/instalacionHerramientas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instalaci&#243;n de herramientas para desarrollo de aplicaciones Windows 10]]></video:title>
+        <video:description><![CDATA[En este video, Alejandro Mart&#237;nez, te explicar&#225; la evoluci&#243;n de la plataforma de desarrollo de Windows y c&#243;mo logr&#243; llegar a ser una sola plataforma de desarrollo para m&#250;ltiples dispositivos. Podr&#225;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed09/9d889c5a-dd89-4c32-a863-795c413ded09/instalacionHerramientas_mid.mp4</video:content_loc>
+        <video:duration>403</video:duration>
+        <video:publication_date>2015-10-13T04:13:27.9824024+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

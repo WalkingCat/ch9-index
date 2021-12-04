@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics/Menaces-de-cyber-scurit-actuelles</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d16/bcae9cf4-62ce-40e4-87ca-91595a0a9d16/cybersecurites_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Menaces de cyber-s&#233;curit&#233; actuelles]]></video:title>
+        <video:description><![CDATA[Dans ce module nous allons faire quelques rappels sur les menaces actuelles dans les SI : APT, vols de donn&#233;es... ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d16/bcae9cf4-62ce-40e4-87ca-91595a0a9d16/cybersecurites_mid.mp4</video:content_loc>
+        <video:duration>732</video:duration>
+        <video:publication_date>2016-04-20T15:46:43.1956225+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics/Introduction--Advanced-Threat-Analytics</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45cf/02ff1d98-af23-4570-b88a-7995940545cf/introaata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction &#224; Advanced Threat Analytics]]></video:title>
+        <video:description><![CDATA[Dans ce module nous pr&#233;sentons Microsoft ATA qui est une solution pour le datacenter con&#231;ue pour identifier les attaques de s&#233;curit&#233; cibl&#233;es avant qu&#39;elles ne causent des d&#233;g&#226;ts. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45cf/02ff1d98-af23-4570-b88a-7995940545cf/introaata_mid.mp4</video:content_loc>
+        <video:duration>604</video:duration>
+        <video:publication_date>2016-04-20T15:46:40.7328535+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics/Fonctionnement-de-ATA</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e622/8321fceb-272c-41b1-9bca-54c5f063e622/fonctionnementdeata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Fonctionnement de ATA]]></video:title>
+        <video:description><![CDATA[Dans ce module nous pr&#233;sentons le fonctionnement et les 4 grandes &#233;tapes (Analyser, apprendre, d&#233;tecter et alerter) d&#39;utilisation de Microsoft ATA.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e622/8321fceb-272c-41b1-9bca-54c5f063e622/fonctionnementdeata_mid.mp4</video:content_loc>
+        <video:duration>615</video:duration>
+        <video:publication_date>2016-04-20T15:46:37.7318592+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics/Topologies-et-rles</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c423/50b4057e-7e7a-4130-a46d-3cd96640c423/topologieata_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Topologies et r&#244;les]]></video:title>
+        <video:description><![CDATA[Dans ce module nous allons voir la topologie de d&#233;ploiement d&#39;ATA et le positionnement des diff&#233;rents r&#244;les.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c423/50b4057e-7e7a-4130-a46d-3cd96640c423/topologieata_mid.mp4</video:content_loc>
+        <video:duration>291</video:duration>
+        <video:publication_date>2016-04-20T15:46:36.1531332+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics/Dploiement-de-Microsoft-ATA-Center</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9095/21354630-fcab-4862-ae9e-dd060e5e9095/deploiement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[D&#233;ploiement de Microsoft ATA Center]]></video:title>
+        <video:description><![CDATA[Dans ce module, nous verrons comment d&#233;ployer les r&#244;les d&#39;une architecture Microsoft ATA et plus particulierement Le ATA Center. Nous parlerons aussi des pr&#233;-requis mat&#233;riels. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9095/21354630-fcab-4862-ae9e-dd060e5e9095/deploiement_mid.mp4</video:content_loc>
+        <video:duration>635</video:duration>
+        <video:publication_date>2016-04-20T15:46:32.5299611+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Microsoft-Advanced-Threat-Analytics/Dploiement-de-Microsoft-ATA-Gateway</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a119/ccd04178-4768-4828-b06b-5bd54cc2a119/atagateway_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[D&#233;ploiement de Microsoft ATA Gateway]]></video:title>
+        <video:description><![CDATA[Dans ce module, nous verrons comment d&#233;ployer les r&#244;les d&#39;une architecture Microsoft ATA et plus particulierement les ATA Gateways. Nous parlerons aussi des pr&#233;-requis mat&#233;riels. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a119/ccd04178-4768-4828-b06b-5bd54cc2a119/atagateway_mid.mp4</video:content_loc>
+        <video:duration>1237</video:duration>
+        <video:publication_date>2016-04-20T15:46:30.0042397+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

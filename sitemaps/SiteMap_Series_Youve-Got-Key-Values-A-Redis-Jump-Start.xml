@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/06</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e9d/f20facc3-4b1b-4180-a302-3c9361b39e9d/668YouveGotKeyValuesRedisM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Youve Got Key Values! A Redis Jump Start: (06) Using Redis as a Pub/Sub on Azure VM]]></video:title>
+        <video:description><![CDATA[Walk through a setup of Redis in a virtual machine (VM) on Azure, and do a pub/sub. [01:42] - Demo: REDIS PUB/SUB[05:54] - Demo: REDIS PUB/SUB VIA NODE.JS[12:44] - Demo: SCALING A REAL-TIME MESSAGING&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e9d/f20facc3-4b1b-4180-a302-3c9361b39e9d/668YouveGotKeyValuesRedisM06_mid.mp4</video:content_loc>
+        <video:duration>2173</video:duration>
+        <video:publication_date>2015-03-23T22:17:37.7888526+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/05</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e04/e9afe800-f454-4ecd-a286-bc1517702e04/668YouveGotKeyValuesRedisM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Youve Got Key Values! A Redis Jump Start: (05) Redis via C#, Python, and Node.js]]></video:title>
+        <video:description><![CDATA[Find out how to connect to your Azure Redis Cache with C#, Python, and Node.js. [01:43] - Demo: REDIS VIA PYTHON[12:22] - Demo: CACHING A QUERY VIA NODE.JS[26:54] - Demo: COUNTING UNIQUE CONNCETIONS&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e04/e9afe800-f454-4ecd-a286-bc1517702e04/668YouveGotKeyValuesRedisM05_mid.mp4</video:content_loc>
+        <video:duration>2811</video:duration>
+        <video:publication_date>2015-03-23T22:17:28.2194564+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/04</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/96bc/cc048f52-574d-4cd9-ada0-1cbca5ef96bc/668YouveGotKeyValuesRedisM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Youve Got Key Values! A Redis Jump Start: (04) Getting Started with Microsoft Azure Redis Cache]]></video:title>
+        <video:description><![CDATA[Learn more about Azure Redis Cache, how to set it up on the Azure Dashboard, and how to connect to it. [02:26] - Demo: Creating a New Cache[13:42] - Demo: Connecting to the Cache with the CLI]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/96bc/cc048f52-574d-4cd9-ada0-1cbca5ef96bc/668YouveGotKeyValuesRedisM04_mid.mp4</video:content_loc>
+        <video:duration>1219</video:duration>
+        <video:publication_date>2015-03-23T22:17:15.7113949+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/03</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f5a/50930218-af1e-4239-a42a-c65647191f5a/668YouveGotKeyValuesRedisM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Youve Got Key Values! A Redis Jump Start: (03) Advanced Data Structures with Redis]]></video:title>
+        <video:description><![CDATA[Get the details on sets, sorted sets, hashes, and hyperloglogs. [00:56] - Hashes[15:07] - Sets[30:00] - Sorted Sets[39:04] - Bitmaps[42:04] - HyperLogLogs]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f5a/50930218-af1e-4239-a42a-c65647191f5a/668YouveGotKeyValuesRedisM03_mid.mp4</video:content_loc>
+        <video:duration>2677</video:duration>
+        <video:publication_date>2015-03-23T22:16:48.5918128+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/02</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6c24/25609e54-a871-43f1-8fb1-54c57c8e6c24/668YouveGotKeyValuesRedisM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Youve Got Key Values! A Redis Jump Start: (02) Getting Started with Redis]]></video:title>
+        <video:description><![CDATA[Learn how to set up Redis, learn the basic commands, and establish Redis on Windows. [10:35] - Demo: Running redis-server.exe Examining the redis.windows.conf file.[21:12] - Redis Commands]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c24/25609e54-a871-43f1-8fb1-54c57c8e6c24/668YouveGotKeyValuesRedisM02_mid.mp4</video:content_loc>
+        <video:duration>3185</video:duration>
+        <video:publication_date>2015-03-23T22:16:36.5675281+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/01</loc>
+      <lastmod>2018-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37fe/54108ece-7fbe-4981-bfc4-171ecdbd37fe/668YouveGotKeyValuesRedisM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Youve Got Key Values! A Redis Jump Start: (01) Intro to NoSQL]]></video:title>
+        <video:description><![CDATA[Get a brief overview of key-value stores versus traditional SQL storage. [09:16] - Introduction to Tabular Data Stores[15:02] - Introduction to Key-Value Stores]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37fe/54108ece-7fbe-4981-bfc4-171ecdbd37fe/668YouveGotKeyValuesRedisM01_mid.mp4</video:content_loc>
+        <video:duration>1962</video:duration>
+        <video:publication_date>2015-03-23T22:16:26.3429723+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

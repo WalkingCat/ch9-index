@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking/Configuring-Windows-10-VPN-Connection-Profiles-using-PowerShell</loc>
+      <lastmod>2018-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e4e/0bf8b1bf-5f4d-4914-98ba-4ea966eb5e4e/VPNPS1CreateProfile_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring Windows 10 VPN Connection Profiles using PowerShell]]></video:title>
+        <video:description><![CDATA[PowerShell can be used to configure VPN Connection Profiles on Windows 10 devices from the command line or by scripting. In this video Using PowerShell to configure VPN connection profileDiscovering&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e4e/0bf8b1bf-5f4d-4914-98ba-4ea966eb5e4e/VPNPS1CreateProfile_mid.mp4</video:content_loc>
+        <video:duration>306</video:duration>
+        <video:publication_date>2016-06-22T09:06:37.4108908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking/Configuring-Windows-10-VPN-Connection-Profiles-using-PowerShell-Adding-App-Trigger-Capabilities</loc>
+      <lastmod>2017-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/07eb/f0f1314e-a9b5-4a31-a83a-0c056d7b07eb/VPNPS2AddAppTrigger_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring Windows 10 VPN Connection Profiles using PowerShell: Adding App-Trigger Capabilities]]></video:title>
+        <video:description><![CDATA[PowerShell can be used to configure VPN Connection Profiles on Windows 10 devices from the command line or by scripting. In this video, we modify the VPN connection profile we just created, adding&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07eb/f0f1314e-a9b5-4a31-a83a-0c056d7b07eb/VPNPS2AddAppTrigger_mid.mp4</video:content_loc>
+        <video:duration>295</video:duration>
+        <video:publication_date>2016-06-22T08:54:19.6250915+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking/Deploying-VPN-Policies-using-Microsoft-Intune-Deploying-VPN-Policy</loc>
+      <lastmod>2019-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/492c/63c4d2ff-af3a-4834-a1dd-cf2388de492c/VPNMDM2DeployVPNPolicy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying VPN Policies using Microsoft Intune: Deploying VPN Policy]]></video:title>
+        <video:description><![CDATA[Configuring advanced client features can be accomplished in numerous ways one of the easiest and most scalable is using Microsoft Intune. After watching this video you will be able to create and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/492c/63c4d2ff-af3a-4834-a1dd-cf2388de492c/VPNMDM2DeployVPNPolicy_mid.mp4</video:content_loc>
+        <video:duration>463</video:duration>
+        <video:publication_date>2016-06-22T08:42:53.2908709+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking/Deploying-VPN-Policies-using-Microsoft-Intune-Device-Registration</loc>
+      <lastmod>2018-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a592/e14da64b-5f8d-4d94-b279-b59b3bf3a592/VPNMDM1RegisterwithIntune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying VPN Policies using Microsoft Intune: Device Registration]]></video:title>
+        <video:description><![CDATA[Configuring advanced client features can be accomplished in numerous ways one of the easiest and scalable of which is using Microsoft Intune. In this video you will learn the steps to register a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a592/e14da64b-5f8d-4d94-b279-b59b3bf3a592/VPNMDM1RegisterwithIntune_mid.mp4</video:content_loc>
+        <video:duration>194</video:duration>
+        <video:publication_date>2016-06-22T08:22:20.3850604+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking/Configuring-Windows-10-VPN-Connection-Profiles-using-the-UI-Editing-Connection-Properties</loc>
+      <lastmod>2017-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa91/77fd4633-1a53-4ef8-b1c9-bec2348baa91/VPNUI2EditVPNProfile_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring Windows 10 VPN Connection Profiles using the UI: Editing Connection Properties]]></video:title>
+        <video:description><![CDATA[The Network Settings user interface provided in Windows 10 is intended to avoid user confusion by providing only the most basic configuration options. In this video Editing connection settings on an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa91/77fd4633-1a53-4ef8-b1c9-bec2348baa91/VPNUI2EditVPNProfile_mid.mp4</video:content_loc>
+        <video:duration>59</video:duration>
+        <video:publication_date>2016-06-22T08:06:35.2302482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-10-Networking/Configuring-Windows-10-VPN-Connection-Profiles-using-the-UI</loc>
+      <lastmod>2019-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a4bf/37831549-a31c-4840-8be7-11921542a4bf/VPNUI1CreateProfile_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuring Windows 10 VPN Connection Profiles using the UI]]></video:title>
+        <video:description><![CDATA[The Network Settings user interface provided in Windows 10 is intended to avoid user confusion by providing only the most basic configuration options. In this video The Network Settings configuration&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a4bf/37831549-a31c-4840-8be7-11921542a4bf/VPNUI1CreateProfile_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2016-06-22T03:57:30.1475291+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

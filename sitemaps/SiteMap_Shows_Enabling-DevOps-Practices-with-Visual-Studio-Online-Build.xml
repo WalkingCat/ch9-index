@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Mod-1-Overview-of-Visual-Studio-Online</loc>
+      <lastmod>2019-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e76e/a9f2a3d2-c9d3-4176-b5de-d0844135e76e/mod1devopsvisualstudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 1: Overview of Visual Studio Online ]]></video:title>
+        <video:description><![CDATA[Learn about the history of TFS and Visual Studio online and improvements which have been made in this new build system, including cross-platform build capabilities. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e76e/a9f2a3d2-c9d3-4176-b5de-d0844135e76e/mod1devopsvisualstudio_mid.mp4</video:content_loc>
+        <video:duration>1472</video:duration>
+        <video:publication_date>2015-08-21T22:34:25.9529504+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Module-2</loc>
+      <lastmod>2018-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb1c/f7aa1dd7-f868-4ce8-93dd-ea6963e8eb1c/mod2devopsvisualstudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 2: Build Fundamentals and Continuous Integration (CI)]]></video:title>
+        <video:description><![CDATA[Learn the core of the latest build system. Use the sample application to walk through the fundamental aspects, including connecting to source code repositories. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb1c/f7aa1dd7-f868-4ce8-93dd-ea6963e8eb1c/mod2devopsvisualstudio_mid.mp4</video:content_loc>
+        <video:duration>1145</video:duration>
+        <video:publication_date>2015-08-21T22:33:26.9562650+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Module-3</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db2a/c443dfba-0617-4683-acec-f5bb4ddedb2a/mod3devopsvisualstudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 3: Creating and Managing Build Agents]]></video:title>
+        <video:description><![CDATA[Understand what&#39;s going on under the hood with build pools containing hosted (or your own) build controllers. See how to create your own pool, and add Windows and Linux-based virtual machines. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db2a/c443dfba-0617-4683-acec-f5bb4ddedb2a/mod3devopsvisualstudio_mid.mp4</video:content_loc>
+        <video:duration>1398</video:duration>
+        <video:publication_date>2015-08-21T22:32:27.5774717+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Mod-4</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d548/35c599b0-acdc-4209-981c-4e04350fd548/mod4devopsvisualstudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 4: Automated Testing ]]></video:title>
+        <video:description><![CDATA[See how to easily enable a large array of automated tests of various types, including unit, integration, load tests, and even SonarQube, to help analyze technical debt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d548/35c599b0-acdc-4209-981c-4e04350fd548/mod4devopsvisualstudio_mid.mp4</video:content_loc>
+        <video:duration>1381</video:duration>
+        <video:publication_date>2015-08-21T22:31:56.7361589+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Mod-5</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc07/59418856-90e3-4a28-9d42-37bc0c48dc07/mod5devopsvisualstudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mod 5: Continuous Delivery]]></video:title>
+        <video:description><![CDATA[See how to setup a continuous deployment pipeline to Microsoft Azure using Visual Studio Online build. ​  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc07/59418856-90e3-4a28-9d42-37bc0c48dc07/mod5devopsvisualstudio_mid.mp4</video:content_loc>
+        <video:duration>1744</video:duration>
+        <video:publication_date>2015-08-21T22:31:13.6241036+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Cartoonizer-C-AMP-sample</loc>
+      <lastmod>2018-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/79a0/7d7eb845-5d58-4a39-90fe-c00308da79a0/CartoonizerAMPSample_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cartoonizer - C++ AMP sample]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast demonstrates a C&amp;#43;&amp;#43; AMP sample app: Cartoonizer. You can find pointers to information about the sample including where to get the Visual Studio code from&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/79a0/7d7eb845-5d58-4a39-90fe-c00308da79a0/CartoonizerAMPSample_mid.mp4</video:content_loc>
+        <video:duration>406</video:duration>
+        <video:publication_date>2012-09-12T22:39:30.8871983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/NBody-C-AMP-sample</loc>
+      <lastmod>2013-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b80f/a527705f-41d6-44ed-af79-d8644e40b80f/NBody-C-AMP-sample_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[NBody - C++ AMP sample]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast demonstrates one of our C&amp;#43;&amp;#43; AMP sample apps: NBody. You can learn more about the sample and download the Visual Studio project with all the code from the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b80f/a527705f-41d6-44ed-af79-d8644e40b80f/NBody-C-AMP-sample_mid.mp4</video:content_loc>
+        <video:duration>361</video:duration>
+        <video:publication_date>2012-08-17T17:42:11.1045772+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Morph-C-AMP-sample</loc>
+      <lastmod>2017-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e4f5/dcd2045f-f500-4fcf-84fb-a1df5339e4f5/Morph-C-AMP-sample_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Morph - C++ AMP sample]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast demonstrates one of our C&amp;#43;&amp;#43; AMP sample apps: Morph. You can learn more about the sample and download the Visual Studio project with all the code from the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e4f5/dcd2045f-f500-4fcf-84fb-a1df5339e4f5/Morph-C-AMP-sample_mid.mp4</video:content_loc>
+        <video:duration>445</video:duration>
+        <video:publication_date>2012-08-10T02:26:47.2555585+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/GPU-debugging-in-Visual-Studio-2012</loc>
+      <lastmod>2017-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8e5d/b5f14087-2aac-4247-806e-d2fa95828e5d/GPU-debugging-in-Visual-Studio-2012_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GPU debugging in Visual Studio 2012]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast assumes knowledge of the C&amp;#43;&amp;#43; AMP API, e.g. that you totally understand the matrix multiplication implementation in C&amp;#43;&amp;#43; AMP. So if you satisfy that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8e5d/b5f14087-2aac-4247-806e-d2fa95828e5d/GPU-debugging-in-Visual-Studio-2012_mid.mp4</video:content_loc>
+        <video:duration>951</video:duration>
+        <video:publication_date>2012-07-11T01:34:30.2484638+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Matrix-Multiplication-with-C-AMP</loc>
+      <lastmod>2013-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c00c/475fc936-bacd-448d-b8f1-5ed1f7ffc00c/Matrix-Multiplication-with-C-AMP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Matrix Multiplication with C++ AMP]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast assumes knowledge of the C&amp;#43;&amp;#43; AMP API, i.e. the simple model and the tiled model, and here we look at a common algorithm (matrix multiplication) and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c00c/475fc936-bacd-448d-b8f1-5ed1f7ffc00c/Matrix-Multiplication-with-C-AMP_mid.mp4</video:content_loc>
+        <video:duration>1094</video:duration>
+        <video:publication_date>2012-07-04T00:38:40.9407641+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/C-AMP-core-API-introduction-from-scratch</loc>
+      <lastmod>2021-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5dee/1bc6cf52-8f49-4bb2-914d-55a9c6535dee/C-AMP-core-API-introduction-from-scratch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ AMP core API introduction... from scratch]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast assumes no knowledge of C&amp;#43;&amp;#43; AMP and introduces the core API from scratch. You&#39;ll see parallel_for_each, extent, index, restrict(amp), array_view, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5dee/1bc6cf52-8f49-4bb2-914d-55a9c6535dee/C-AMP-core-API-introduction-from-scratch_mid.mp4</video:content_loc>
+        <video:duration>1151</video:duration>
+        <video:publication_date>2012-06-13T06:55:39.4297680+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Tiling-Introduction-C-AMP-msdn-mag-companion</loc>
+      <lastmod>2018-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/915c/ff0f583c-a3b2-463c-bbd7-934eb5d4915c/Tiling-Introduction-C-AMP-msdn-mag-companion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tiling Introduction - C++ AMP - msdn mag companion]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast is a companion to my MSDN Magazine article that you can read online: Introduction to Tiling in C&amp;#43;&amp;#43; AMP. You will be introduced to the tiled_extent class,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/915c/ff0f583c-a3b2-463c-bbd7-934eb5d4915c/Tiling-Introduction-C-AMP-msdn-mag-companion_mid.mp4</video:content_loc>
+        <video:duration>977</video:duration>
+        <video:publication_date>2012-05-31T00:06:48.6052319+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/accelerator-C-AMP-msdn-mag-companion-part-4</loc>
+      <lastmod>2013-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4e61/e3d57a2e-0fc6-4279-9b3b-0c63b2cc4e61/accelerator-C-AMP-msdn-mag-companion-part-4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[accelerator - C++ AMP - msdn mag companion part 4]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast is one part of a 4-part series accompanying my MSDN Magazine article that you can read online: A Code-Based Introduction to C&amp;#43;&amp;#43; AMP. Please watch first&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4e61/e3d57a2e-0fc6-4279-9b3b-0c63b2cc4e61/accelerator-C-AMP-msdn-mag-companion-part-4_mid.mp4</video:content_loc>
+        <video:duration>486</video:duration>
+        <video:publication_date>2012-04-12T15:54:35.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/parallelforeach-C-AMP-msdn-mag-companion-part-3</loc>
+      <lastmod>2013-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2450/d516ec7a-be8c-4a3c-a2da-48f5b2292450/parallelforeach-C-AMP-msdn-mag-companion-part-3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[parallel_for_each - C++ AMP - msdn mag companion part 3]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast is one part of a 4-part series accompanying my MSDN Magazine article that you can read online: A Code-Based Introduction to C&amp;#43;&amp;#43; AMP. Please watch first&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2450/d516ec7a-be8c-4a3c-a2da-48f5b2292450/parallelforeach-C-AMP-msdn-mag-companion-part-3_mid.mp4</video:content_loc>
+        <video:duration>646</video:duration>
+        <video:publication_date>2012-04-12T15:53:46.9962507+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/arrayview-extent-index-C-AMP-msdn-mag-companion-part-2</loc>
+      <lastmod>2013-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/205b/ab2cf5b5-3f4b-494e-82ba-6a0d0e26205b/arrayview-extent-index-C-AMP-msdn-mag-companion-p_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[array_view, extent, index - C++ AMP - msdn mag companion part 2]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast is one part of a 4-part series accompanying my MSDN Magazine article that you can read online: A Code-Based Introduction to C&amp;#43;&amp;#43; AMP. Please watch first&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/205b/ab2cf5b5-3f4b-494e-82ba-6a0d0e26205b/arrayview-extent-index-C-AMP-msdn-mag-companion-p_mid.mp4</video:content_loc>
+        <video:duration>560</video:duration>
+        <video:publication_date>2012-04-12T15:50:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Setup-code-C-AMP-msdn-mag-companion-part-1</loc>
+      <lastmod>2013-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d347/31f5ed25-29aa-419d-b281-88f5811fd347/Setup-code-C-AMP-msdn-mag-companion-part-1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Setup code - C++ AMP - msdn mag companion part 1]]></video:title>
+        <video:description><![CDATA[Hi, I am Daniel Moth  This screencast is one part of a 4-part series accompanying my MSDN Magazine article that you can read online: A Code-Based Introduction to C&amp;#43;&amp;#43; AMP. Please watch first&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d347/31f5ed25-29aa-419d-b281-88f5811fd347/Setup-code-C-AMP-msdn-mag-companion-part-1_mid.mp4</video:content_loc>
+        <video:duration>384</video:duration>
+        <video:publication_date>2012-04-12T15:49:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Parallel-Debugging-in-Visual-Studio-2010-MSDN-mag-companion</loc>
+      <lastmod>2010-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/9/4/5/0/5/DebuggingParallelAppsVS2010_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Parallel Debugging in Visual Studio 2010 - MSDN mag companion]]></video:title>
+        <video:description><![CDATA[Author: Hi, I am 
+Daniel Moth Introduction: This screencasts covers the new 
+Parallel Tasks and Parallel Stacks debugging windows in Visual Studio 2010.It demonstrates the sample code from the MSDN&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/9/4/5/0/5/DebuggingParallelAppsVS2010_ch9.mp4</video:content_loc>
+        <video:duration>976</video:duration>
+        <video:publication_date>2009-11-13T01:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/VS2010-Parallel-Computing-Features-Tour</loc>
+      <lastmod>2016-09-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/9/8/8/9/4/ParallelProgrammingEndToEnd_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[VS2010 Parallel Computing Features Tour]]></video:title>
+        <video:description><![CDATA[
+Author: Hi, I am 
+Daniel Moth  
+  
+Introduction:  
+In Visual Studio 2010, the Parallel Computing team has delivered APIs and tools for developers wanting to build applications that take&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/9/8/8/9/4/ParallelProgrammingEndToEnd_ch9.mp4</video:content_loc>
+        <video:duration>1744</video:duration>
+        <video:publication_date>2009-10-19T16:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/VS2010-MPI-Cluster-Debugger-launch-integration</loc>
+      <lastmod>2017-09-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/5/9/8/9/4/MPIClusterDebugger_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[VS2010 MPI Cluster Debugger launch integration]]></video:title>
+        <video:description><![CDATA[
+Author: Hi, I am 
+Daniel Moth  
+  
+Introduction:  
+Developers using MPI to develop applications, have been experiencing severe productivity pains when it came to debugging those apps on the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/5/9/8/9/4/MPIClusterDebugger_ch9.mp4</video:content_loc>
+        <video:duration>1140</video:duration>
+        <video:publication_date>2009-10-19T16:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Parallel-Tasks--new-Visual-Studio-2010-debugger-window</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/8/4/8/9/4/ParallelTasksVS2010_320_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Parallel Tasks  new Visual Studio 2010 debugger window]]></video:title>
+        <video:description><![CDATA[UPDATED for the VS2010 Beta 2 release
+
+Author: Hi, I am 
+Daniel Moth 
+
+Introduction:
+In the next version of .NET and C&amp;#43;&amp;#43; that ship with Visual Studio 2010, a new task-based programming&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/8/4/8/9/4/ParallelTasksVS2010_ch9.mp4</video:content_loc>
+        <video:duration>1270</video:duration>
+        <video:publication_date>2009-06-15T19:29:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Parallel-Stacks--new-Visual-Studio-2010-debugger-window</loc>
+      <lastmod>2018-03-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/8/4/8/9/4/ParallelStacksVS2010Beta2_320_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Parallel Stacks  new Visual Studio 2010 debugger window]]></video:title>
+        <video:description><![CDATA[UPDATED for the VS2010 Beta 2 release
+
+Author: Hi, I am 
+Daniel Moth 
+
+Introduction: 
+As developers try to take advantage of more and more cores in their applications, ultimately more and more&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/8/4/8/9/4/ParallelStacksVS2010Beta2_ch9.mp4</video:content_loc>
+        <video:duration>1147</video:duration>
+        <video:publication_date>2009-06-12T21:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Version-Resilience-in-the-Managed-AddIn-Framework</loc>
+      <lastmod>2010-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Managed-AddIn-Framework</loc>
+      <lastmod>2019-07-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Client-Application-Services-with-Visual-Studio-2008</loc>
+      <lastmod>2016-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/ADONET-Sync-Services-v10</loc>
+      <lastmod>2012-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Debugging-Into-the-NET-Framework-Source-Code-with-Visual-Studio-2008</loc>
+      <lastmod>2010-12-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/File-Dialog-Additions-in-v20-SP1</loc>
+      <lastmod>2016-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/ParallelFX-Task-and-friends</loc>
+      <lastmod>2011-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/LINQ-to-DataSet</loc>
+      <lastmod>2017-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Parallel-LINQ-PLINQ</loc>
+      <lastmod>2017-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/How-to-use-the-static-Parallel-class</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Intro-to-Parallel-Extensions-to-the-NET-Framework</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/New-CSS-support-in-Visual-Studio-2008</loc>
+      <lastmod>2021-04-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/VBA-interop-with-VSTO-managed-code-in-VS-2008</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Outlook-Form-Regions-in-Visual-Studio-2008</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Office-Task-Panes-and-Actions-Pane-in-VS2008</loc>
+      <lastmod>2010-11-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Word-Content-Controls-in-Visual-Studio-2008</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Office-Ribbon-Customisation-in-Visual-Studio-2008</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Script-intellisense-and-debugging-in-Visual-Studio-2008</loc>
+      <lastmod>2010-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Use-WPF-from-Windows-Forms-projects-in-Visual-Studio-2008</loc>
+      <lastmod>2016-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Partial-Methods-in-C-v3-and-VB9</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Multi-threading-Debugging-Enhancements-in-Visual-Studio-2008</loc>
+      <lastmod>2017-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aebc/53fa56d6-64df-4c15-af73-9dea00c8aebc/DanielMothMultiThreadingDebugging_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Multi-threading Debugging Enhancements in Visual Studio 2008]]></video:title>
+        <video:description><![CDATA[
+Author: Hi, I am Daniel Moth
+ 
+Introduction: They say debugging is a skill and that threading is hard so when you put the two together, you have a challenge. Visual Studio 2008 has added a handful&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aebc/53fa56d6-64df-4c15-af73-9dea00c8aebc/DanielMothMultiThreadingDebugging_med_ch9.mp4</video:content_loc>
+        <video:duration>1006</video:duration>
+        <video:publication_date>2007-09-25T10:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Build-UAC-aware-apps-with-VS2008</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/VS2008-designed-for-Vista-with-better-aesthetics-and-usability</loc>
+      <lastmod>2010-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Overview-of-NET-Framework-v35</loc>
+      <lastmod>2010-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Multitargeting-in-Visual-Studio-2008</loc>
+      <lastmod>2010-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/VB-Intellisense-improvements-in-Visual-Studio-2008</loc>
+      <lastmod>2015-07-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/LINQs-relationship-to-the-new-C3-and-VB9-features</loc>
+      <lastmod>2013-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Windows-SideShow-Gadgets-in-C</loc>
+      <lastmod>2010-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Managed-Preview-Handler-Framework-for-Vista-and-Outlook</loc>
+      <lastmod>2011-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Windows-Mobile-Managed-APIs-Part-3</loc>
+      <lastmod>2011-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Windows-Mobile-Managed-APIs-Part-2</loc>
+      <lastmod>2011-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Windows-Mobile-Managed-APIs-Part-1</loc>
+      <lastmod>2011-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Windows-Vista-Restart-amp-Recovery-APIs-from-managed-code</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Introducing-Windows-Vista-Sidebar-and-developing-a-gadget</loc>
+      <lastmod>2011-02-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/WER-in-Vista-with-a-developer-bias</loc>
+      <lastmod>2010-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Restart-Manager-in-Vista-for-developers</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DanielMoth/Windows-Vista-Get-the-glass-effect-in-your-C-applications</loc>
+      <lastmod>2010-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Welcome-and-Opening-Keynotes</loc>
+      <lastmod>2020-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e19f/8c95c243-371d-4b71-9cd0-f786d262e19f/JDConf01Welcome_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome &amp; Opening Keynotes]]></video:title>
+        <video:description><![CDATA[Thanks for being here! Join host Bruno Borges for the event&#39;s opening, followed by two keynotes. Julia Liuson, Microsoft Corporate Vice President Microsoft&#39;s Open Source Languages Journey Join Julia&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e19f/8c95c243-371d-4b71-9cd0-f786d262e19f/JDConf01Welcome_mid.mp4</video:content_loc>
+        <video:duration>3101</video:duration>
+        <video:publication_date>2020-10-23T22:53:17.8060237+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Modern-Java-Beyond-Version-8</loc>
+      <lastmod>2020-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7c66/073c91fb-b56c-4e70-b3e6-f14113c37c66/JDConf02ModernJava_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern Java: Beyond Version 8]]></video:title>
+        <video:description><![CDATA[While most people are still using Java 8 from six years ago, new versions of the language are being released every six months! The latest versions provide an abundance of new features such as&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7c66/073c91fb-b56c-4e70-b3e6-f14113c37c66/JDConf02ModernJava_mid.mp4</video:content_loc>
+        <video:duration>1420</video:duration>
+        <video:publication_date>2020-10-23T22:53:13.2902238+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Super-Charge-Your-Spring-Boot-Apps</loc>
+      <lastmod>2020-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4425/96e12e4c-6d67-4abe-bcd5-dc51434e4425/JDConf03SuperCharge_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Super Charge Your Spring Boot Apps]]></video:title>
+        <video:description><![CDATA[Your software requires well-designed, performant and secure libraries integrating into a managed cloud environment. Did you know that all this is easily achieved with Azure Spring Libraries seamlessly&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4425/96e12e4c-6d67-4abe-bcd5-dc51434e4425/JDConf03SuperCharge_mid.mp4</video:content_loc>
+        <video:duration>1570</video:duration>
+        <video:publication_date>2020-10-23T22:53:08.4451854+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Java-and-VSCode-Tips-and-Tricks</loc>
+      <lastmod>2020-12-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5e61/16eef39e-1e5f-47b7-8974-d6f091d45e61/JDConf04JavaAndVSCode_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Java and VSCode: Tips and Tricks]]></video:title>
+        <video:description><![CDATA[Visual Studio Code (VSCode) is a great tool that is between a simple editor and an IDE, and the reason for that is because we can customize it according to our needs. In this session we&#39;ll cover how&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5e61/16eef39e-1e5f-47b7-8974-d6f091d45e61/JDConf04JavaAndVSCode_mid.mp4</video:content_loc>
+        <video:duration>1630</video:duration>
+        <video:publication_date>2020-10-23T22:53:03.5073769+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/The-Hackers-Guide-to-JWT-Security</loc>
+      <lastmod>2021-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9435/28edc17f-5780-4fee-bcbb-104430a79435/JDConf05HackerGuideJWTS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Hacker&#39;s Guide to JWT Security]]></video:title>
+        <video:description><![CDATA[JSON Web Token (JWT) is an open standard for creating tokens that assert some number of claims like a logged-in user and his/her roles. JWT is widely used in modern applications as a stateless&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9435/28edc17f-5780-4fee-bcbb-104430a79435/JDConf05HackerGuideJWTS_mid.mp4</video:content_loc>
+        <video:duration>1671</video:duration>
+        <video:publication_date>2020-10-23T22:52:52.4320952+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Building-Modular-Applications-With-JPMS-and-Layrry</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/70f8/6a974e42-efee-4921-b734-ff16ee3f70f8/JDConf06BuildingModularAppsJPMS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Modular Applications With JPMS and Layrry]]></video:title>
+        <video:description><![CDATA[The Java Module System lays the foundation for building modularized applications on the JVM. What is doesn&#39;t cover is module versioning and retrieving needed modules from repositories. This is where&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/70f8/6a974e42-efee-4921-b734-ff16ee3f70f8/JDConf06BuildingModularAppsJPMS_mid.mp4</video:content_loc>
+        <video:duration>1826</video:duration>
+        <video:publication_date>2020-10-23T22:52:51.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/GitHub-for-Java-Developers</loc>
+      <lastmod>2021-04-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a1c0/2da18268-949c-45f7-bcd9-ada861afa1c0/JDConf07GitHubJavaDevs_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GitHub for Java Developers]]></video:title>
+        <video:description><![CDATA[Join both Byron Walker and Trent Jones from GitHub as they demonstrate creating a Java Package using GitHub. Once the session concludes, both Bryan and Trent have compiled a few additional resources&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a1c0/2da18268-949c-45f7-bcd9-ada861afa1c0/JDConf07GitHubJavaDevs_mid.mp4</video:content_loc>
+        <video:duration>1767</video:duration>
+        <video:publication_date>2020-10-23T22:52:43.5931099+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Introduction-to-Micronaut-2-and-GraalVM</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8a3c/7841841f-4672-4235-9680-8ba9be2d8a3c/JDConf08IntroMicronaut2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Micronaut 2.0 and GraalVM]]></video:title>
+        <video:description><![CDATA[In this talk Graeme Rocher (Micronaut creator and architect at Oracle) will provide an introduction to Micronaut 2.0, the innovative new framework that precomputes your framework infrastructure in a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8a3c/7841841f-4672-4235-9680-8ba9be2d8a3c/JDConf08IntroMicronaut2_mid.mp4</video:content_loc>
+        <video:duration>1519</video:duration>
+        <video:publication_date>2020-10-23T22:52:20.1038650+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Accessibility-in-the-Time-of-COVID-19</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4c42/0b4a8305-1478-4c71-9f1a-402460da4c42/JDConf09AccessibilityCOVID19_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Accessibility in the Time of COVID-19]]></video:title>
+        <video:description><![CDATA[Lucy Greco is a web accessibility evangelist and has been broadly recognized and honored as an &amp;quot;unsung heroine&amp;quot; at UC Berkeley. As a blind member of the education community, Lucy is&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4c42/0b4a8305-1478-4c71-9f1a-402460da4c42/JDConf09AccessibilityCOVID19_mid.mp4</video:content_loc>
+        <video:duration>2041</video:duration>
+        <video:publication_date>2020-10-23T22:52:15.2686544+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Welcome-and-Keynotes-Microsoft-Java-and-you</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/70de/9dde1e94-e89d-4ff6-8793-88eb56da70de/JDConf10WelcomeDay2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome &amp; Keynotes: Microsoft, Java and you!]]></video:title>
+        <video:description><![CDATA[Join us as we welcome you to Day 2 of JDConf with host Bruno Borges. Keynotes to follow by George Adams and Martijn Verburg. What a year it has been for Microsoft and the Java Ecosystem! In this&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/70de/9dde1e94-e89d-4ff6-8793-88eb56da70de/JDConf10WelcomeDay2_mid.mp4</video:content_loc>
+        <video:duration>3311</video:duration>
+        <video:publication_date>2020-10-23T22:52:09.8718582+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/A-Few-New-Cool-Features-in-Modern-Java</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/75cf/97a14b08-3841-4c52-ba36-d530938475cf/JDConf11FewNewCoolFeatures_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Few New Cool Features in Modern Java]]></video:title>
+        <video:description><![CDATA[With the new release cadence, programmers can enjoy new features at a much faster rate. Java has been evolving rapidly, but in a responsible manner. While some of the new recent features in Java have&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/75cf/97a14b08-3841-4c52-ba36-d530938475cf/JDConf11FewNewCoolFeatures_mid.mp4</video:content_loc>
+        <video:duration>1574</video:duration>
+        <video:publication_date>2020-10-23T22:52:01.9806737+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Modern-Java-with-IntelliJ-IDEA</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9a9a/72d1ecc8-70ca-4757-8471-519788cc9a9a/JDConf12ModernJavaIntelliJ_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern Java with IntelliJ IDEA]]></video:title>
+        <video:description><![CDATA[The current release cadence of a new version of Java every 6 months can be overwhelming. The releases might even contain preview features which are &amp;quot;complete&amp;quot; but may change with every new&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9a9a/72d1ecc8-70ca-4757-8471-519788cc9a9a/JDConf12ModernJavaIntelliJ_mid.mp4</video:content_loc>
+        <video:duration>1602</video:duration>
+        <video:publication_date>2020-10-23T22:51:51.0559173+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Easy-Peasy-Microservice-Development-with-MicroProfile</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/870a/a24aff9a-ec6c-4908-9e5a-5d444b93870a/JDConf13EasyPeasy_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Easy Peasy Microservice Development with MicroProfile]]></video:title>
+        <video:description><![CDATA[Have you ever wondered how to easily develop your microservices with the aim of only concentrating on your business logics? Better still, your microservices are not vendor locked in and it can move&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/870a/a24aff9a-ec6c-4908-9e5a-5d444b93870a/JDConf13EasyPeasy_mid.mp4</video:content_loc>
+        <video:duration>1555</video:duration>
+        <video:publication_date>2020-10-23T22:51:47.1322759+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Enabling-Java-Windows-on-Arm64--A-Success-Story</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c979/a684f49c-5dea-4877-b528-a28b18c0c979/JDConf14EnablingJava_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enabling Java: Windows on Arm64  A Success Story!]]></video:title>
+        <video:description><![CDATA[This is a tale of 3 engineers and their quest to bring Java to every Windows on Arm developer. We will provide: a quick timeline of our development efforts and Microsoft&#39;s journey into OpenJDK land&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c979/a684f49c-5dea-4877-b528-a28b18c0c979/JDConf14EnablingJava_mid.mp4</video:content_loc>
+        <video:duration>1814</video:duration>
+        <video:publication_date>2020-10-23T22:51:43.5136350+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Streaming-With-Structure</loc>
+      <lastmod>2021-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f08f/a82394af-f3b9-4418-a031-8cd057a0f08f/JDConf15StreamingWithStructure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Streaming With Structure]]></video:title>
+        <video:description><![CDATA[Using a publish-subscribe messaging system like Apache Kafka is a great way to minimize coupling between your applications. The stream history that Kafka provides allow consumers to come and go,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f08f/a82394af-f3b9-4418-a031-8cd057a0f08f/JDConf15StreamingWithStructure_mid.mp4</video:content_loc>
+        <video:duration>1713</video:duration>
+        <video:publication_date>2020-10-23T22:51:39.6873121+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/DevOps-that-Matters-Demystifying-CICD-and-Build-Pipelines</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fc4a/5025fab4-03cd-444f-9e59-7fc63c40fc4a/JDConf16DevOpsThatMatters_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps that Matters: Demystifying CI/CD and Build Pipelines]]></video:title>
+        <video:description><![CDATA[DevOps is here to stay, and the terminology and concepts involved are now permeating the market. New products have been launched right and left that promise the benefits of DevOps - operational&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fc4a/5025fab4-03cd-444f-9e59-7fc63c40fc4a/JDConf16DevOpsThatMatters_mid.mp4</video:content_loc>
+        <video:duration>1556</video:duration>
+        <video:publication_date>2020-10-23T22:51:32.3238477+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Java-11-Journey-at-LinkedIn</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9ef1/a36b6456-ea52-4776-ae3a-d3c91d679ef1/JDConf17Java11JourneyLinkedIn_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Java 11 Journey at LinkedIn]]></video:title>
+        <video:description><![CDATA[LinkedIn has been testing and adopting java 11 since 2019. In this talk we would like to share our experiences so far. We will cover what performance improvements we have found in our applications and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9ef1/a36b6456-ea52-4776-ae3a-d3c91d679ef1/JDConf17Java11JourneyLinkedIn_mid.mp4</video:content_loc>
+        <video:duration>1585</video:duration>
+        <video:publication_date>2020-10-23T22:51:27.0647090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Bootiful-Spring-Deployments</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4cc5/3c52bcde-37ea-4b3c-b28e-57f5b15d4cc5/JDConf18BootifulDeployments_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bootiful Spring Deployments]]></video:title>
+        <video:description><![CDATA[The Spring Framework ecosystem allows for a wide array of application styles. In this talk we will dive into Reactive Application development using Spring Boot, Cloud Native BuildPacks (CNB) and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4cc5/3c52bcde-37ea-4b3c-b28e-57f5b15d4cc5/JDConf18BootifulDeployments_mid.mp4</video:content_loc>
+        <video:duration>3370</video:duration>
+        <video:publication_date>2020-10-23T22:51:22.1894979+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Welcome-and-Keynotes-Day-3</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a95e/b9d330d2-b334-4680-b5e8-d9ab0560a95e/JDConf19WelcomeDay3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome &amp; Keynotes Day 3]]></video:title>
+        <video:description><![CDATA[Thanks for being here! Join host Bruno Borges for the event&#39;s opening, followed by two keynotes. Communities and You Mala Gupta Java has a vibrant worldwide community. The community is not just about&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a95e/b9d330d2-b334-4680-b5e8-d9ab0560a95e/JDConf19WelcomeDay3_mid.mp4</video:content_loc>
+        <video:duration>3244</video:duration>
+        <video:publication_date>2020-10-23T22:51:16.1592836+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Keeping-Your-Java-Applications-Secure</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7f9e/25e2c98b-4fce-4177-8c4f-d0ee58d17f9e/JDConfKeepingYourJavaAppsSecure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keeping Your Java Applications Secure]]></video:title>
+        <video:description><![CDATA[The security of your JDK is just as important as how you design your Java applications. Updates to the JDK are released on a quarterly basis but how important are they? In this session, we&#39;ll look at&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7f9e/25e2c98b-4fce-4177-8c4f-d0ee58d17f9e/JDConfKeepingYourJavaAppsSecure_mid.mp4</video:content_loc>
+        <video:duration>1468</video:duration>
+        <video:publication_date>2020-10-23T22:51:11.2068594+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Prepare-for-What-Looms-Ahead</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ab2a/ee95a847-1902-40da-9ce1-d6bd11a4ab2a/JDConf21PrepareLoomsAhead_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Prepare for What &quot;Loom&quot;s Ahead]]></video:title>
+        <video:description><![CDATA[Everyone is talking about how Project Loom will make concurrency child&#39;s play. Instead of reactive or asynchronous systems, we make a gazillion virtual threads. This should be simpler, but it also has&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ab2a/ee95a847-1902-40da-9ce1-d6bd11a4ab2a/JDConf21PrepareLoomsAhead_mid.mp4</video:content_loc>
+        <video:duration>1538</video:duration>
+        <video:publication_date>2020-10-23T22:51:07.1418230+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Why-Java-EE-Developers-are-First-Class-Citizens-on-Azure</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3340/bf0f552f-dfd9-43af-95e8-1a484d983340/JDConf22WhyJavaEEDevs_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Why Java EE Developers are First-Class Citizens on Azure]]></video:title>
+        <video:description><![CDATA[Java EE, and its functionally compatible evolution Jakarta EE, are important technologies for Microsoft to support on Azure! Enterprise Java is a heterogenous ecosystem with as much as a third of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3340/bf0f552f-dfd9-43af-95e8-1a484d983340/JDConf22WhyJavaEEDevs_mid.mp4</video:content_loc>
+        <video:duration>1562</video:duration>
+        <video:publication_date>2020-10-23T22:51:00.9845292+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Java-Developer-Productivity-on-Windows</loc>
+      <lastmod>2020-11-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e44f/0f14e514-1861-4986-846f-fcfa4ce5e44f/JDConfJavaDevProductivityOnWindows_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Java Developer Productivity on Windows]]></video:title>
+        <video:description><![CDATA[Do you enjoy having to perform all the manual steps required to set-up and configuring Windows as a productive Java development environment? If not, this session is for you: We&#39;ll explore new ways to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e44f/0f14e514-1861-4986-846f-fcfa4ce5e44f/JDConfJavaDevProductivityOnWindows_mid.mp4</video:content_loc>
+        <video:duration>1881</video:duration>
+        <video:publication_date>2020-10-23T22:50:15.9544772+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Building-Great-Java-APIs</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f5b5/a789a7cc-f726-4311-828f-259521f2f5b5/JDConf24JavaAPIDesignBestPractices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Great Java APIs]]></video:title>
+        <video:description><![CDATA[As developers we build on the shoulders of giants - using APIs developed by others to propel ourselves further forward. Frequently we also find ourselves in the position where we must provide our own&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f5b5/a789a7cc-f726-4311-828f-259521f2f5b5/JDConf24JavaAPIDesignBestPractices_mid.mp4</video:content_loc>
+        <video:duration>1532</video:duration>
+        <video:publication_date>2020-10-23T22:50:09.4611713+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/From-VS-Code-to-Azure-Red-Hat-OpenShift-Sparking-Joy-with-Quarkus</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8779/f19105fa-9c00-4263-bb79-8ca9a5ff8779/JDConf25FromVSCodetoAzureRedHat_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From VS Code to Azure Red Hat OpenShift Sparking Joy with Quarkus]]></video:title>
+        <video:description><![CDATA[&amp;quot;Kubernetes/OpenShift is awesome, but there are so many things between code and production that sometimes it looks challenging. What about making it easy with something that sparks joy? Then Meet&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8779/f19105fa-9c00-4263-bb79-8ca9a5ff8779/JDConf25FromVSCodetoAzureRedHat_mid.mp4</video:content_loc>
+        <video:duration>1629</video:duration>
+        <video:publication_date>2020-10-23T22:46:28.2397926+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Consuming-Azure-Services-in-Azure-Spring-Cloud</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6894/795214f8-4e4d-427c-ab94-a9c1bfa46894/JDConf26ConsumingAzureServicesAzureSpringCloud_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Consuming Azure Services in Azure Spring Cloud]]></video:title>
+        <video:description><![CDATA[Getting to MVP is easy with Spring Boot and Azure Spring Cloud. Spring Boot Starters consistent abstraction makes integrating additional services simple. In this session, DaShaun will walk you through&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6894/795214f8-4e4d-427c-ab94-a9c1bfa46894/JDConf26ConsumingAzureServicesAzureSpringCloud_mid.mp4</video:content_loc>
+        <video:duration>1625</video:duration>
+        <video:publication_date>2020-10-23T22:46:08.4237023+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Java/JDConf-2020/Ask-Me-Anything-Interactive-Session</loc>
+      <lastmod>2020-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4acf/8b4df0bd-107d-416f-a22b-04e91cb94acf/JDConf27AMA_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[&quot;Ask Me Anything&quot; Interactive Session]]></video:title>
+        <video:description><![CDATA[Connect with the Microsoft Java Engineering Group and various guests to get any of your Java questions answered. Additional Resources: Introduction to Programming Using JavaAzure for Java Developer&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4acf/8b4df0bd-107d-416f-a22b-04e91cb94acf/JDConf27AMA_mid.mp4</video:content_loc>
+        <video:duration>2586</video:duration>
+        <video:publication_date>2020-10-23T22:45:53.3304145+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

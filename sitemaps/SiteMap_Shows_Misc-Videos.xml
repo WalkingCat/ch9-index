@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Misc-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Misc-Videos/Cortana-Skill-Demo-Event-Bot</loc>
+      <lastmod>2017-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9985/8c97175c-5919-42d6-ac1e-7800f7399985/CortanaBotDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cortana Skill Demo Event Bot]]></video:title>
+        <video:description><![CDATA[A demo of a bot developed with the Microsoft Bot Framework and used in the Cortana interface. The bot code can be found on Github     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9985/8c97175c-5919-42d6-ac1e-7800f7399985/CortanaBotDemo_mid.mp4</video:content_loc>
+        <video:duration>36</video:duration>
+        <video:publication_date>2017-06-23T09:43:55.9378377+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Misc-Videos/University-Tour-30-Teaser</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6c2d/b4b7630d-2608-48e1-97f1-0b90cf1b6c2d/UniversityTour3Teaser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[University Tour 3.0 Teaser]]></video:title>
+        <video:description><![CDATA[Um euren Vorlesungsalltag aufzupeppen, sind wir auch in diesem Semester wieder mit der University Tour am Start. An mehreren deutschen Unis organisieren wir kostenlose Hackathons, sowohl f&#252;r&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c2d/b4b7630d-2608-48e1-97f1-0b90cf1b6c2d/UniversityTour3Teaser_mid.mp4</video:content_loc>
+        <video:duration>87</video:duration>
+        <video:publication_date>2015-10-07T13:21:52.6844354+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

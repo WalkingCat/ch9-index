@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/establish-microsoft-azure-iaas-technical-fundamentals-cht</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/establish-microsoft-azure-iaas-technical-fundamentals-cht/04</loc>
+      <lastmod>2015-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/264a/3891eeab-08dc-4af5-a396-7291b1fe264a/Day1InsideIaaSArchitectureBestPracticesDrewMcDani_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(04) IaaS ]]></video:title>
+        <video:description><![CDATA[該如何規劃高效能的 IaaS 的導入？如何集成資料中心現有的硬體設備？本單元將帶您了解如何設計您的系統架構，以便最小化因 user error 或維護規劃導致的 reboots 和 downtime。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/264a/3891eeab-08dc-4af5-a396-7291b1fe264a/Day1InsideIaaSArchitectureBestPracticesDrewMcDani_mid.mp4</video:content_loc>
+        <video:duration>3504</video:duration>
+        <video:publication_date>2015-04-28T08:57:40.9354448+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/establish-microsoft-azure-iaas-technical-fundamentals-cht/03</loc>
+      <lastmod>2015-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b58c/8ec82e9d-e7d9-4c20-90d4-ca500fd6b58c/Day1OptimizeyourtWindowsServerDrewMcDaniel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03)  Azure  Windows Server ]]></video:title>
+        <video:description><![CDATA[本單元將更深入的探討如何讓 Windows Server 工作負載可以在 Azure IaaS 上發揮最大效益。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b58c/8ec82e9d-e7d9-4c20-90d4-ca500fd6b58c/Day1OptimizeyourtWindowsServerDrewMcDaniel_mid.mp4</video:content_loc>
+        <video:duration>3516</video:duration>
+        <video:publication_date>2015-04-28T08:57:27.6764795+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/establish-microsoft-azure-iaas-technical-fundamentals-cht/02</loc>
+      <lastmod>2015-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2e2/913a2d94-3207-44ec-b36b-1a1fef82a2e2/Day1AzureIaaSVMInsideOutCoreySanders_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02)  Azure IaaS ]]></video:title>
+        <video:description><![CDATA[Corey Sanders 領導的團隊創建出 Azure IaaS 服務，今天將由他帶領大家從 Azure IaaS 的基礎建設到進階功能，進行完整的探討。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2e2/913a2d94-3207-44ec-b36b-1a1fef82a2e2/Day1AzureIaaSVMInsideOutCoreySanders_mid.mp4</video:content_loc>
+        <video:duration>3721</video:duration>
+        <video:publication_date>2015-04-28T08:57:11.7547696+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/establish-microsoft-azure-iaas-technical-fundamentals-cht/01</loc>
+      <lastmod>2015-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/76fc/4a00c95e-1a8c-4806-93d8-2fd298fd76fc/Day1ViewfromtheCTOMarkRussinovich_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01)  CTO  Azure ]]></video:title>
+        <video:description><![CDATA[本單元將由 Mark Russinovich 分享微軟對於 Azure 的願景，以及未來雲端運算服務對於企業的影響。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/76fc/4a00c95e-1a8c-4806-93d8-2fd298fd76fc/Day1ViewfromtheCTOMarkRussinovich_mid.mp4</video:content_loc>
+        <video:duration>2880</video:duration>
+        <video:publication_date>2015-04-28T08:56:59.9384222+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HilaryPike</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HilaryPike/Simple-Installer-using-Visual-Studio-2005</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5cb5/b8d869ec-0c8f-411a-8008-6fc12c7c5cb5/Simple-Installer-using-Visual-Studio-2005_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Simple Installer using Visual Studio 2005]]></video:title>
+        <video:description><![CDATA[
+Martin Schray walks through creating an installer for the Delayed Startup Application using Visual Studio 2005. 
+This is remarkable easy compared to using InstallShield!  
+
+The Delayed Startup&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5cb5/b8d869ec-0c8f-411a-8008-6fc12c7c5cb5/Simple-Installer-using-Visual-Studio-2005_mid.mp4</video:content_loc>
+        <video:duration>437</video:duration>
+        <video:publication_date>2007-11-20T21:51:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/HilaryPike/Your-way-Your-play-XNA-Modify-a-2D-Game-in-10-minutes</loc>
+      <lastmod>2013-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/280e/aae47c19-5caf-4da2-b369-854e0e04280e/Your-way-Your-play-XNA-Modify-a-2D-Game-in-10-min_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Your way, Your play, XNA: Modify a 2D Game in 10 minutes]]></video:title>
+        <video:description><![CDATA[
+Introduction to Gaming:  Modify your first 2D Game using XNA Games Studio Express. 
+I walk you through some of the key gaming concepts and then add in Collision Detection and Score Keeping to the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/280e/aae47c19-5caf-4da2-b369-854e0e04280e/Your-way-Your-play-XNA-Modify-a-2D-Game-in-10-min_mid.mp4</video:content_loc>
+        <video:duration>674</video:duration>
+        <video:publication_date>2007-11-13T16:54:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

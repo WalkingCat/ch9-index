@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Desayunamos-con-Xamarin</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Desayunamos-con-Xamarin/Ejemplos-reales-de-aplicaciones-desarrolladas-con-Xamarin</loc>
+      <lastmod>2021-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3146/78964e5e-6705-4659-816e-b7fe3dd03146/Modulo3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ejemplos reales de aplicaciones desarrolladas con Xamarin]]></video:title>
+        <video:description><![CDATA[Conoce ejemplos reales de aplicaciones desarrolladas con Xamarin ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3146/78964e5e-6705-4659-816e-b7fe3dd03146/Modulo3_mid.mp4</video:content_loc>
+        <video:duration>3201</video:duration>
+        <video:publication_date>2016-05-13T08:10:09.7969867+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Desayunamos-con-Xamarin/Xamarin-y-sus-ventajas-tecnolgicas-y-de-negocio</loc>
+      <lastmod>2016-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9270/006928c6-fdf6-444c-80f2-8fd28b559270/Module2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Xamarin y sus ventajas tecnol&#243;gicas y de negocio]]></video:title>
+        <video:description><![CDATA[Conoce Xamarin y todas las ventajas que tiene. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9270/006928c6-fdf6-444c-80f2-8fd28b559270/Module2_mid.mp4</video:content_loc>
+        <video:duration>2457</video:duration>
+        <video:publication_date>2016-05-13T08:10:00.0997474+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/Desayunamos-con-Xamarin/Plataforma-Microsoft-y-herramientas-para-el-desarrollo-de-aplicaciones-mviles</loc>
+      <lastmod>2016-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e91b/fe5dc740-0d0a-49b3-a1f2-1dc5b43de91b/Modulo1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Plataforma Microsoft y herramientas para el desarrollo de aplicaciones m&#243;viles]]></video:title>
+        <video:description><![CDATA[Conoce la plataforma de Microsoft y las distintas herramientas para el desarrollo de aplicaciones m&#243;viles. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e91b/fe5dc740-0d0a-49b3-a1f2-1dc5b43de91b/Modulo1_mid.mp4</video:content_loc>
+        <video:duration>840</video:duration>
+        <video:publication_date>2016-05-12T17:04:42.3257285+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

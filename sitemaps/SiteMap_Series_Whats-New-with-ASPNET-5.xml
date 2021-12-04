@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5/06</loc>
+      <lastmod>2018-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/32bb/8de27d8a-93cb-40a1-aaef-268f0de632bb/566WhatsNewWithASPNET5M06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New with ASP.NET 5: (06) Entity Framework 7]]></video:title>
+        <video:description><![CDATA[Entity Framework 7 (EF7) is a lightweight and extensible version of Entity Framework that enables new platforms and new data stores. Explore how EF7 achieves those goals, and see helpful demos of EF7&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/32bb/8de27d8a-93cb-40a1-aaef-268f0de632bb/566WhatsNewWithASPNET5M06_mid.mp4</video:content_loc>
+        <video:duration>3025</video:duration>
+        <video:publication_date>2014-12-20T22:10:29.9041727+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5/05</loc>
+      <lastmod>2018-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d06/86f06ee4-738f-47b1-b22a-cba39b1f3d06/566WhatsNewWithASPNET5M05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New with ASP.NET 5: (05) ASP.NET 5 Internals Deep Dive]]></video:title>
+        <video:description><![CDATA[See how ​ASP.NET 5 under the hood is made of very simple tools designed to get you up and running quickly. Hear an interview with an engineer from the team to learn where the pieces live and how they&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d06/86f06ee4-738f-47b1-b22a-cba39b1f3d06/566WhatsNewWithASPNET5M05_mid.mp4</video:content_loc>
+        <video:duration>2764</video:duration>
+        <video:publication_date>2014-12-20T22:10:14.8795670+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5/04</loc>
+      <lastmod>2017-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/789b/26e8679e-8099-4aa0-9b79-0e8431db789b/566WhatsNewWithASPNET5M04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New with ASP.NET 5: (04) Visual Studio Tooling for ASP.NET 5]]></video:title>
+        <video:description><![CDATA[One of the goals in building Visual Studio support from the ground up is to ensure that it works well in scenarios where other tools are being used. Focus on some of the new features in the Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/789b/26e8679e-8099-4aa0-9b79-0e8431db789b/566WhatsNewWithASPNET5M04_mid.mp4</video:content_loc>
+        <video:duration>3440</video:duration>
+        <video:publication_date>2014-12-20T22:09:22.1401982+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/54f9/f71b4b31-c809-4da4-99b2-f2f758ef54f9/566WhatsNewWithASPNET5M03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New with ASP.NET 5: (03) ASP.NET MVC + Web API Part 2]]></video:title>
+        <video:description><![CDATA[Get an introduction to ASP.NET MVC 6 for building web UI and web APIs, and learn how to set up MVC 6 and leverage dependency injection across your MVC application. See how you can render HTML views&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/54f9/f71b4b31-c809-4da4-99b2-f2f758ef54f9/566WhatsNewWithASPNET5M03_mid.mp4</video:content_loc>
+        <video:duration>2701</video:duration>
+        <video:publication_date>2014-12-20T22:09:11.1241607+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5/02</loc>
+      <lastmod>2018-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/95bb/dfa38300-e257-4bef-8d16-9db3d79e95bb/566WhatsNewWithASPNET5M02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New with ASP.NET 5: (02) ASP.NET MVC + Web API Part 1]]></video:title>
+        <video:description><![CDATA[Get started with ASP.NET 5, as you learn how to set up your development machine and explore the new ASP.NET 5 project structure. Dive into building ASP.NET 5 applications by configuring middleware and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/95bb/dfa38300-e257-4bef-8d16-9db3d79e95bb/566WhatsNewWithASPNET5M02_mid.mp4</video:content_loc>
+        <video:duration>3138</video:duration>
+        <video:publication_date>2014-12-20T22:09:08.3984138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-with-ASPNET-5/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7f8/d96ecd69-018b-4247-ac3d-a110baa8c7f8/566WhatsNewWithASPNET5M01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s New with ASP.NET 5: (01) ASP.NET 5 What and Why]]></video:title>
+        <video:description><![CDATA[Learn that ASP.NET 5 is rebuilt from the ground up to be the best web development platform for Windows, Mac, and Linux. And get an introduction to the major advancements, as you hear why the team made&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7f8/d96ecd69-018b-4247-ac3d-a110baa8c7f8/566WhatsNewWithASPNET5M01_mid.mp4</video:content_loc>
+        <video:duration>1817</video:duration>
+        <video:publication_date>2014-12-20T22:08:56.3368340+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

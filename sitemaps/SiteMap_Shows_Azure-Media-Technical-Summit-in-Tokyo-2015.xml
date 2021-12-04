@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Media-Technical-Summit-in-Tokyo-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Media-Technical-Summit-in-Tokyo-2015/amts003</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b29a/766dc100-93c2-40ad-9d52-411f92e2b29a/amts003_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Windows 10  Microsoft Edge ]]></video:title>
+        <video:description><![CDATA[スピーカー:春日井 良隆日本マイクロソフト株式会社プロダクト マネージャー 鵜木 健栄日本マイクロソフト株式会社テクニカル エバンジェリスト 参考資料:・メディア担当者のための Windows 10 および Microsoft Edge 概要・Windows 10 and Edge today – Audio - ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b29a/766dc100-93c2-40ad-9d52-411f92e2b29a/amts003_mid.mp4</video:content_loc>
+        <video:duration>2765</video:duration>
+        <video:publication_date>2016-01-12T08:33:02.2481766+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Media-Technical-Summit-in-Tokyo-2015/amts002</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d7fa/641cfa7e-ac47-4262-9080-96bc5cd8d7fa/amts002_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  Azure  -Azure Media Services -]]></video:title>
+        <video:description><![CDATA[スピーカー:畠山 大有日本マイクロソフト株式会社テクニカル エバンジェリスト 参考資料: デジタル コンテンツ管理・配信のための Azure 最新技術詳細 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d7fa/641cfa7e-ac47-4262-9080-96bc5cd8d7fa/amts002_mid.mp4</video:content_loc>
+        <video:duration>5157</video:duration>
+        <video:publication_date>2016-01-12T08:32:46.9241987+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Media-Technical-Summit-in-Tokyo-2015/amts001</loc>
+      <lastmod>2016-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4531/60e8b589-afd0-4821-b965-66ae7b144531/amts001_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Media Services  ]]></video:title>
+        <video:description><![CDATA[(※日本語同時通訳)Azure Media Services - Powering Video Solutions through the Cloud スピーカー:Jason Suess and Jhon DeutscherPrincipal Product ManagersMicrosoft 参考資料: Azure Media Services - Powering Video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4531/60e8b589-afd0-4821-b965-66ae7b144531/amts001_mid.mp4</video:content_loc>
+        <video:duration>2923</video:duration>
+        <video:publication_date>2016-01-12T08:32:34.0578570+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

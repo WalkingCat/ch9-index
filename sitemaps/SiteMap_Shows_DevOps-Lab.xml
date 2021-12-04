@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything</loc>
+      <lastmod>2021-10-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7017/d1186c80-4fb7-4ad4-bc6c-34660eec7017/DevOpsLAbsHashicorpSeriesEpisode2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything]]></video:title>
+        <video:description><![CDATA[Welcome to the second episode in our HashiCorp series, Kyle Ruddy is back to show us how we can use terraform to manage both Azure and Github with code. While many people only use it to provision&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b61a/38966970-6b34-41c6-95c9-c1625428b61a/DevOpsLAbsHashicorpSeriesEpisode2_mid.mp4</video:content_loc>
+        <video:duration>599</video:duration>
+        <video:publication_date>2021-10-12T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-1--Terraform-10</loc>
+      <lastmod>2021-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/060b/d2a23076-5bf1-4f41-88c5-9874e28b060b/DevOpsLAbsHashicorpSeriesEpisode1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Hashicorp Series | Episode 1 | Terraform 1.0]]></video:title>
+        <video:description><![CDATA[In this first episode of our Hashicorp series, Kyle Ruddy joins April to show how you can use terraform to manage both Azure and Github with code. While many people only use it to provision&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0dbe/902ec1d0-eb33-4874-825c-7f987fc20dbe/DevOpsLAbsHashicorpSeriesEpisode1_mid.mp4</video:content_loc>
+        <video:duration>420</video:duration>
+        <video:publication_date>2021-10-05T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Tagging-strategy--Ep-4-of-4-episode-series</loc>
+      <lastmod>2021-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d524/0c227ddd-4557-485e-8c31-91e994dcd524/DevOpsLabsInfraAsCodeInActionTaggingStrategy4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Infra as Code in Action: Tagging strategy | Ep 4 of 4-episode series]]></video:title>
+        <video:description><![CDATA[On today&#39;s episode of the DevOps Lab, Chris Maneu is back for the final episode of our Infra as Code in Action series, Tagging strategy. He&#39;ll walk us through what they are, why they&#39;re useful, how to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/41bc/5eb1a96f-9ccb-41a4-acfc-607901a341bc/DevOpsLabsInfraAsCodeInActionTaggingStrategy4_mid.mp4</video:content_loc>
+        <video:duration>547</video:duration>
+        <video:publication_date>2021-09-28T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Protect-production-resources--Ep-3-of-4-episode-series</loc>
+      <lastmod>2021-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/63a2/4455a28f-3af2-402a-b31b-98efc7d863a2/DevOpsLabsInfraAsCodeInActionProtectProductionRes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Infra as Code in Action: Protect production resources | Ep 3 of 4-episode series]]></video:title>
+        <video:description><![CDATA[Christopher Maneu is back for episode three of this four-part series, Infra as Code in Action! Today April and Chris will focus on preventing resource deletion and protecting production resources. &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3dc7/e4d265d8-4077-4e01-ad3c-b217ba1b3dc7/DevOpsLabsInfraAsCodeInActionProtectProductionRes_mid.mp4</video:content_loc>
+        <video:duration>679</video:duration>
+        <video:publication_date>2021-09-21T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Level-up-your-Bicep-skills-on-Microsoft-Learn</loc>
+      <lastmod>2021-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5579/34fd7dd5-6e1f-4479-a5b3-5a92bfc25579/DevOpsLabLevelupyourBicepskillsonMicrosoftLearn_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Level up your Bicep skills on Microsoft Learn]]></video:title>
+        <video:description><![CDATA[On today&#39;s episode of The DevOps Lab, April Edwards welcomes John Downs to demonstrate Bicep&#39;s many capabilities for complex Azure deployments. We&#39;ll provide learning material and guidance to support&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ccdd/cd0f959a-09f9-4415-8d5c-802c7160ccdd/DevOpsLabLevelupyourBicepskillsonMicrosoftLearn_mid.mp4</video:content_loc>
+        <video:duration>735</video:duration>
+        <video:publication_date>2021-09-14T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Secrets-management--Ep-2-of-4-episode-series</loc>
+      <lastmod>2021-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4d01/1870b8e4-d81b-44a7-9703-84f088714d01/DevOpsLabInfraasCodeinActionSecretsmanagementEp2o_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Infra as Code in Action: Secrets management | Ep 2 of 4-episode series]]></video:title>
+        <video:description><![CDATA[ April Edwards and Christopher Maneu are back for part two of this four-part series, Infra as Code in Action! Today, they&#39;ll be talking about secrets management! Is it really important to keep&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3046/82012f0a-dbb1-4bac-a646-7da7c9413046/DevOpsLabInfraasCodeinActionSecretsmanagementEp2o_mid.mp4</video:content_loc>
+        <video:duration>555</video:duration>
+        <video:publication_date>2021-09-07T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Naming-conventions--Ep-1-of-4-episode-series</loc>
+      <lastmod>2021-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4ccb/8e8cd6c3-5162-4471-abb3-5e4f1a024ccb/20210817DevOpsLabInfraasCodeinActionNamingConvent_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps Lab | Infra as Code in Action: Naming conventions | Ep 1 of 4-episode series]]></video:title>
+        <video:description><![CDATA[The DevOps Lab is back with host April Edwards. On the show today, April welcomes Christopher Maneu for Episode one of this four-part series, Infra as Code in Action!  DevOps practitioners get a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3638/7e28a5ad-8631-4fdf-a12f-660078b83638/20210817DevOpsLabInfraasCodeinActionNamingConvent_mid.mp4</video:content_loc>
+        <video:duration>643</video:duration>
+        <video:publication_date>2021-08-31T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Azure-Static-Web-Apps-with-Azure-DevOps</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8f47/86101d28-b7e9-4a79-a860-e956fa978f47/DeployingAzureStaticWebAppswithAzureDevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Azure Static Web Apps with Azure DevOps]]></video:title>
+        <video:description><![CDATA[On this week&#39;s episode, April Edwards joins Damian for an introduction into the Azure Static Web App service and its differentiators as well as a demo of how to automate the deployment of Azure Static&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/cd51/a9357487-a2f2-498f-8391-bff5891ecd51/DeployingAzureStaticWebAppswithAzureDevOps_mid.mp4</video:content_loc>
+        <video:duration>823</video:duration>
+        <video:publication_date>2021-06-08T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/From-Server-2012-to-AKS-with-Azure-Migrate</loc>
+      <lastmod>2021-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b4d1/7c3dff32-3f5b-420e-b920-ab840067b4d1/FromWindowsServer2012toAzureKubernetesServicewith_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From Server 2012 to AKS with Azure Migrate]]></video:title>
+        <video:description><![CDATA[Vinicius Apolinario is here to demo how to move apps from legacy to Azure on Azure Migrate.  This new tooling helps containerize existing applications using Azure Migrate, an easy-to-use tool that&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e1a5/b3b0058c-c343-4dbf-9301-0140f3efe1a5/FromWindowsServer2012toAzureKubernetesServicewith_mid.mp4</video:content_loc>
+        <video:duration>1160</video:duration>
+        <video:publication_date>2021-06-02T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Preview-Software-Behavior-and-Avoid-Bugs-in-Production</loc>
+      <lastmod>2021-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3e48/0cd59181-3412-42b4-b5ce-f8f235063e48/PreviewSoftwareBehaviorandAvoidBugsinProduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Preview Software Behavior and Avoid Bugs in Production]]></video:title>
+        <video:description><![CDATA[A new approach to an age old problem Shifting left and expanding right simultaneously for quality at velocity Measuring software behavior. Jump to:[00:00] Preventing Zero-Day Bugs with ReGrade[01:22]&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1e25/85e0b8f0-8aec-4ce0-9c10-d6d007a21e25/PreviewSoftwareBehaviorandAvoidBugsinProduction_mid.mp4</video:content_loc>
+        <video:duration>1065</video:duration>
+        <video:publication_date>2021-05-25T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Loving-Azure-Boards-with-Delivery-Plans-20</loc>
+      <lastmod>2021-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/83ca/6579f4b3-a172-4747-a93b-adf2962783ca/LovingAzureBoardswithDeliveryPl_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Loving Azure Boards with Delivery Plans 2.0]]></video:title>
+        <video:description><![CDATA[Delivery Plans 2.0 is generally available as of April 30th. Delivery Plans 2.0 is part of the Azure Boards offering that brings roadmap plans to customers. It&#39;s a feature our customers have been&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/87a2/f24ca98d-24ae-4ff1-a775-1971a8b487a2/DevOpsLabRecordingLovingAzureBoardswithDeliveryPl_mid.mp4</video:content_loc>
+        <video:duration>907</video:duration>
+        <video:publication_date>2021-05-18T20:19:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Hyper-Charging-With-DevOps-episode-10</loc>
+      <lastmod>2021-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b929/4b359747-0bc7-427f-b935-15597219b929/OnPremToTheCloudHyperChargingWithDevOpsepisode10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Hyper Charging With DevOps (episode 10)]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7a07/e24829b3-a489-4f3d-8b4b-2dcafcc67a07/OnPremToTheCloudHyperChargingWithDevOpsepisode10_mid.mp4</video:content_loc>
+        <video:duration>1321</video:duration>
+        <video:publication_date>2021-05-11T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Security-is-Not-an-Afterthought-episode-9</loc>
+      <lastmod>2021-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/22a0/e444914a-2402-4827-89ed-b473ad4222a0/OnPremToTheCloudSecurityisNotanAfterthoughtepisod_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Security is Not an Afterthought (episode 9)]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7182/6b8f5c6c-0539-4ec3-9c1e-16fe34297182/OnPremToTheCloudSecurityisNotanAfterthoughtepisod_mid.mp4</video:content_loc>
+        <video:duration>1505</video:duration>
+        <video:publication_date>2021-05-04T21:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Cloud-Native-Episode-8</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/090e/3046a518-7ee7-448e-ba43-3e3ae4c8090e/OnPremToTheCloudCloudNativeepisode8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Cloud Native - Episode 8]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7d61/19b963a3-bc83-4e41-87a5-9534815e7d61/OnPremToTheCloudCloudNativeepisode8_mid.mp4</video:content_loc>
+        <video:duration>1323</video:duration>
+        <video:publication_date>2021-04-28T19:30:30.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Migrating-to-Azure-SQL-episode-7</loc>
+      <lastmod>2021-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/896d/4b289022-6864-4ea3-95f8-52d8b384896d/OnPremToTheCloudMigratingToAzureSQL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Migrating to Azure SQL (episode 7)]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4bbc/299c8d28-bfc3-48c0-a285-9819b3284bbc/OnPremToTheCloudMigratingToAzureSQL_mid.mp4</video:content_loc>
+        <video:duration>1043</video:duration>
+        <video:publication_date>2021-04-13T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Migrating-to-App-Service-episode-6</loc>
+      <lastmod>2021-08-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3456/b1d8413c-3713-408b-ac25-4e2c86b83456/OnPremToTheCloudMigratingtoAppServiceepisode6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Migrating to App Service (episode 6)]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a9fa/6705e696-50e7-4b3b-9350-bda6c853a9fa/OnPremToTheCloudMigratingtoAppServiceepisode6_mid.mp4</video:content_loc>
+        <video:duration>992</video:duration>
+        <video:publication_date>2021-04-07T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-packages-with-GitHub-Actions</loc>
+      <lastmod>2021-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f3d2/31b2b0b1-ab5d-4124-a3ff-b866626df3d2/DeployingpackageswithGitHubActions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying packages with GitHub Actions]]></video:title>
+        <video:description><![CDATA[GitHub Actions is a flexible platform for creating DevOps pipelines, and with it we can create smooth workflows that will build and deploy our libraries to destinations like npm and NuGet. What&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/edf9/b4f6d078-7efb-4fc2-b811-450cd51dedf9/DeployingpackageswithGitHubActions_mid.mp4</video:content_loc>
+        <video:duration>635</video:duration>
+        <video:publication_date>2021-03-30T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-DevOps-ing-Everything-As-Code-episode-5</loc>
+      <lastmod>2021-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c04c/9213060e-0511-4ae4-ae41-38cafa56c04c/OnPremToTheCloudDevOpsingEverythingAsCodeepisode5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: DevOps-ing Everything As Code (episode 5)]]></video:title>
+        <video:description><![CDATA[ Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/30ec/1eb7a964-e473-451c-ab58-3bd2960530ec/OnPremToTheCloudDevOpsingEverythingAsCodeepisode5_mid.mp4</video:content_loc>
+        <video:duration>770</video:duration>
+        <video:publication_date>2021-03-23T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Everything-As-Code-Episode-4</loc>
+      <lastmod>2021-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e064/fd33fea9-4498-4b80-be2d-d29a7e85e064/OnPremToTheCloudEverythingAsCodeEpisode4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Everything As Code (Episode 4)]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/74c4/3ecd7643-914b-4f4f-8acf-1ab0f07574c4/OnPremToTheCloudEverythingAsCodeEpisode4_mid.mp4</video:content_loc>
+        <video:duration>1267</video:duration>
+        <video:publication_date>2021-03-16T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Rub-Some-DevOps-On-It-episode-3</loc>
+      <lastmod>2021-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5bee/33f17633-a76a-40b9-9948-badabe855bee/OnPremToTheCloudRubSomeDevOpsOnItepisode3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Rub Some DevOps On It (episode 3)]]></video:title>
+        <video:description><![CDATA[In this episode, Abel and Damian talk about why DevOps is important for on prem applications. They&#39;ll walk through creating a CI/CD pipeline for our VM-based application and database using Azure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7caf/7f963e3e-f269-4fd7-893b-fc7b81327caf/OnPremToTheCloudRubSomeDevOpsOnItepisode3_mid.mp4</video:content_loc>
+        <video:duration>976</video:duration>
+        <video:publication_date>2021-03-09T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Moving-work-items-around-using-the-Azure-DevOps-Migration-Tools</loc>
+      <lastmod>2021-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d59f/6946090a-c5a8-4062-a4d8-503184f7d59f/MovingworkitemsaroundusingtheAzureDevOpsMigration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Moving work items around using the Azure DevOps Migration Tools]]></video:title>
+        <video:description><![CDATA[In this episode,  Abel and Martin will talk about moving Work Item data between Collections, Organizations, and Projects in Azure DevOps and TFS using the Migration Tools. Jump to:[04:44] Where to&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fd64/790ae51d-1388-41ff-93cf-5f0c2616fd64/MovingworkitemsaroundusingtheAzureDevOpsMigration_mid.mp4</video:content_loc>
+        <video:duration>1089</video:duration>
+        <video:publication_date>2021-03-02T10:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Getting-Started-Ep-1</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4456/1d7a3db7-6f6c-4cdd-b05a-ecbe19cc4456/OnPremToTheCloud_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Getting Started (Ep 1) ]]></video:title>
+        <video:description><![CDATA[Our customers have been wanting some more basic, getting started material on taking their on prem applications and moving them to the cloud. This video series does just that. Starting with a simple on&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0d5f/e6a5b553-08de-4449-bccb-49d165a90d5f/OnPremToTheCloud_mid.mp4</video:content_loc>
+        <video:duration>1200</video:duration>
+        <video:publication_date>2021-02-23T16:16:23.3494255+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Lift-and-Shift-Ep-2</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2f9f/180719b2-62e1-4111-a192-eb96721d2f9f/OnPremToTheCloud_LiftandShift_Ep2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[On Prem To The Cloud: Lift and Shift (Ep 2)]]></video:title>
+        <video:description><![CDATA[Migrating to the cloud requires some investigation on the resources required.  Jay and Abel will look at how to begin the Lift and Shift process by reviewing the hosts and determining needs. Jump To:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c41b/ebbeba89-d360-4318-8358-0d06608bc41b/OnPremToTheCloud_LiftandShift_Ep2_mid.mp4</video:content_loc>
+        <video:duration>1362</video:duration>
+        <video:publication_date>2021-02-23T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/GitHub-Actions-on-Azure-Stack-Hub</loc>
+      <lastmod>2021-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/191d/c00ae2c9-2435-4fa8-80c4-9e51ad24191d/GitHubActions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GitHub Actions on Azure Stack Hub]]></video:title>
+        <video:description><![CDATA[Azure Stack Hub is now supporting various GitHub Actions. GitHub Actions enable developers to create custom software development life cycle (SDLC) workflows. With GitHub Actions for Azure Stack Hub,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/89b1/74ae2bce-ac0b-4791-92a2-5b1c3bb189b1/GitHubActions_mid.mp4</video:content_loc>
+        <video:duration>544</video:duration>
+        <video:publication_date>2021-02-09T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Azure-DevOps-Demo-Generator</loc>
+      <lastmod>2021-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ebf5/ba9f1592-a517-4b69-9b6d-86acc696ebf5/DEVOPSLAB-AzureDevOpsDemoGenerator_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure DevOps Demo Generator]]></video:title>
+        <video:description><![CDATA[In this episode, we will walk you through Azure DevOps Demo Generator, a service which helps you provision projects on your Azure DevOps organization with pre-populated sample content, that includes&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e2a2/a12d1841-98e0-49c6-8bf5-b8fbcadde2a2/DEVOPSLAB-AzureDevOpsDemoGenerator_mid.mp4</video:content_loc>
+        <video:duration>955</video:duration>
+        <video:publication_date>2021-01-26T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Loving-Azure-Boards-with-GitHub-repos</loc>
+      <lastmod>2021-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/22f0/f952c634-2323-4a91-a727-3eba2bbe22f0/LovingAzureBoards_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Loving Azure Boards with GitHub repos]]></video:title>
+        <video:description><![CDATA[During this episode we will discuss the different integration points between Azure Boards and GitHub.  We will answer the questions of: Why use Azure Boards for planning and GitHub for code? What are&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7387/8bd2cfc5-a2ad-4fdd-9bdd-2c1de40b7387/LovingAzureBoards_mid.mp4</video:content_loc>
+        <video:duration>1049</video:duration>
+        <video:publication_date>2021-01-21T18:20:54.2693819+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Continuous-Monitoring-for-Web-Perf-and-Accessibility</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b311/6ee5f962-a1d6-449a-a857-428c9639b311/ContinuousMonitoringForWeb_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Monitoring for Web Perf and Accessibility]]></video:title>
+        <video:description><![CDATA[Learn how the Azure Cloud Collaboration Center (CCC) visualization team continuously monitors a Web App for Performance and Accessibility using open-source tools Lighthouse API for perf and Axe-Core&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/62c9/3f297d68-3009-41bc-8d4d-2cfc60f562c9/ContinuousMonitoringForWeb_mid.mp4</video:content_loc>
+        <video:duration>971</video:duration>
+        <video:publication_date>2021-01-14T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Project-Bicep--Next-generation-ARM-Templates</loc>
+      <lastmod>2021-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/db58/2d6bcad5-883e-44cd-bbee-13a9144cdb58/DEVOPSLABProjectBicep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Project Bicep  Next generation ARM Templates]]></video:title>
+        <video:description><![CDATA[In this video, we&#39;ll go over the what, why, and how of Project Bicep and how it&#39;s going to make deploying infrastructure to Azure even easier. We&#39;ll go over the basics of what makes Bicep useful, as&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/aa7a/dc73a0d3-4e80-4811-9d1e-aaec605baa7a/DEVOPSLABProjectBicep_mid.mp4</video:content_loc>
+        <video:duration>1397</video:duration>
+        <video:publication_date>2021-01-13T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Farmer-Making-Repeatable-Azure-Deployments-Easy</loc>
+      <lastmod>2021-02-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/be24/a40ebb06-45e2-476a-a7ae-49ac20eabe24/Farmer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Farmer - Making Repeatable Azure Deployments Easy]]></video:title>
+        <video:description><![CDATA[Infrastructure as code is one of the most important and underutilized aspects of DevOps.  In this episode of DevOps Lab, we will talk about a cool way to handle Infrastructure as code for Azure using&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4f44/61bd00ad-f0c2-4cec-8fbf-587c2e254f44/Farmer_mid.mp4</video:content_loc>
+        <video:duration>872</video:duration>
+        <video:publication_date>2020-12-29T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/MLflow-with-Azure-Machine-Learning</loc>
+      <lastmod>2021-02-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/70e8/38042e57-ac8a-47ca-91ce-826c984f70e8/MLflowwithAzureMachineLearning_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MLflow with Azure Machine Learning ]]></video:title>
+        <video:description><![CDATA[We&#39;ll walk through the concepts and features of MLflow support in Azure Machine Learning. We&#39;ll be showing a few examples on how to manage your machine learning assets using MLflow in variety of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a0e8/68ce58a6-f5aa-4cf1-b1ae-3837358ca0e8/MLflowwithAzureMachineLearning_mid.mp4</video:content_loc>
+        <video:duration>1165</video:duration>
+        <video:publication_date>2020-12-22T16:28:31.4131354+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Using-your-organizational-DevTest-benefits</loc>
+      <lastmod>2021-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cafb/158857f9-7bf1-4584-b106-ccb4159ecafb/DEVOPSLABOrganizationalDevTestBenefits_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using your organizational DevTest benefits]]></video:title>
+        <video:description><![CDATA[A deep dive into understanding how to manage, provision and realize the most value from your enterprise and pay as you go DevTest subscriptions.  We&#39;ll look at Azure management groups, the enrollment&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/54bc/3f86bf72-36e0-4302-925a-ff2bad9b54bc/DEVOPSLABOrganizationalDevTestBenefits_mid.mp4</video:content_loc>
+        <video:duration>1256</video:duration>
+        <video:publication_date>2020-12-08T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Building-and-deploying-web-apps-with-Static-Web-Apps</loc>
+      <lastmod>2021-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/76d1/893f329e-e33c-4883-a6a9-171fe60c76d1/DevOpsLabHelloAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building and deploying web apps with Static Web Apps]]></video:title>
+        <video:description><![CDATA[You are embarking on a new project and have decided to go full Serverless and try out that JAMStack. After all, our application is a web front end and some API&#39;s, so Serverless is the perfect model&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e3c9/5ef42a4f-3fbc-4ecf-8489-925a2869e3c9/DevOpsLabHelloAzure_mid.mp4</video:content_loc>
+        <video:duration>1120</video:duration>
+        <video:publication_date>2020-12-01T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Get-Started-with-Individual-DevTest</loc>
+      <lastmod>2021-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d062/52f54b44-8b43-4487-bf46-3c05fda0d062/DEVOPSLABIndividualDevTest_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Started with Individual DevTest]]></video:title>
+        <video:description><![CDATA[A deep dive into understanding how you can leverage individual credits for enterprise work, and drive innovation for lasting impact.  We&#39;ll look at how you can use these subscriptions, their benefits&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/09a3/b20c9a04-94c6-4ee8-a5b6-c118cdd109a3/DEVOPSLABIndividualDevTest_mid.mp4</video:content_loc>
+        <video:duration>1124</video:duration>
+        <video:publication_date>2020-11-24T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Monitoring-AKS-with-Azure-Sentinel</loc>
+      <lastmod>2020-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ca6f/330d82c0-d930-42f4-b8ee-6710fb24ca6f/DOLAKSAZURESENTINEL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monitoring AKS with Azure Sentinel]]></video:title>
+        <video:description><![CDATA[Sarah and Damien discuss Azure Sentinel – Microsoft&#39;s cloud SIEM solution – and how you can use this to implement security monitoring for your AKS clusters. Learn More: Monitoring AKS with Azure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8895/0c8f7f48-dc11-42ae-a1f2-c7c81fd08895/DOLAKSAZURESENTINEL_mid.mp4</video:content_loc>
+        <video:duration>848</video:duration>
+        <video:publication_date>2020-11-17T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Policy-as-Code-with-Terraform-and-Sentinel</loc>
+      <lastmod>2021-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/023e/a5444954-759c-4d1a-a63f-8a0aa805023e/DEVOPSLABPolicyAsCodeWithSentinel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Policy as Code with Terraform and Sentinel]]></video:title>
+        <video:description><![CDATA[Infrastructure as code based provisioning can easily grow to the point of chaos. Sentinel, which is HashiCorp&#39;s Policy as Code framework, can easily configure guardrails that are enforced within the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5255/02652ae6-e522-4d17-bb04-ab9268195255/DEVOPSLABPolicyAsCodeWithSentinel_mid.mp4</video:content_loc>
+        <video:duration>401</video:duration>
+        <video:publication_date>2020-10-27T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/GitHub-for-Your-Octopus-Deploy</loc>
+      <lastmod>2020-11-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/780b/83df61d4-ea5e-449f-87c8-fbb13e3e780b/DEVOPSLABOctopusDeployandGitHubActions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GitHub for Your Octopus Deploy]]></video:title>
+        <video:description><![CDATA[With so many CI and CD tools in the wild, how do you know which one to use? Well, why choose just 1? In this episode, we&#39;re going to discuss how to interact with GitHub Actions and Octopus Deploy&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f9c6/2d834f6f-708a-4ea5-b909-94c0045af9c6/DEVOPSLABOctopusDeployandGitHubActions_mid.mp4</video:content_loc>
+        <video:duration>1162</video:duration>
+        <video:publication_date>2020-10-20T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Remote-State-Management-with-Terraform-Cloud</loc>
+      <lastmod>2020-11-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/57c1/94bf29e5-1558-491d-92de-8211547957c1/RemoteStateManagement_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Remote State Management with Terraform Cloud]]></video:title>
+        <video:description><![CDATA[HashiCorp&#39;s Terraform Cloud is a SaaS platform where we can more easily collaborate on Terraform configurations through remotely stored, versioned, and shared Terraform state files. Check out how easy&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/56fe/f4b75add-8ed0-48c0-a81b-7127f54e56fe/RemoteStateManagement_mid.mp4</video:content_loc>
+        <video:duration>536</video:duration>
+        <video:publication_date>2020-10-13T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-12-Azure-DevOps-With-ARM-Templates</loc>
+      <lastmod>2020-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c72a/1aa242fe-982e-420e-92e5-422fa6d3c72a/DEVOPSLABSDevOpsWithARMTemplates_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #12: Azure DevOps With ARM Templates]]></video:title>
+        <video:description><![CDATA[Learn how Azure Resource Manager (ARM) templates to provision and Azure DevOps Pipelines and create a Continuous Integration Continuous Deployment (CI/CD) pipeline. Jump To: [00:50] Plan of this&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/065c/606619ea-b4f1-4c7a-befa-90f092a2065c/DEVOPSLABSDevOpsWithARMTemplates_mid.mp4</video:content_loc>
+        <video:duration>698</video:duration>
+        <video:publication_date>2020-10-06T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-11-GitHub-Actions</loc>
+      <lastmod>2020-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7cd4/ad8d7899-6c20-4bba-9cc9-6604bdb27cd4/DEVOPSLABARMTemplatesGitHubActions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #11: GitHub Actions ]]></video:title>
+        <video:description><![CDATA[Learn how to use GitHub Action with the power of Azure Resource Manager (ARM) templates to create a Continuous Integration Continuous Deployment (CI/CD) pipeline. Learn More:  Code SamplesAzure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b7a7/f56ad69d-1769-428d-9feb-b3a7f90cb7a7/DEVOPSLABARMTemplatesGitHubActions_mid.mp4</video:content_loc>
+        <video:duration>615</video:duration>
+        <video:publication_date>2020-09-29T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-10-Template-for-Resource-X</loc>
+      <lastmod>2020-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a294/dc02742b-0c7d-4303-8112-29f55149a294/DEVOPSLABARMTemplatesQuickstart_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #10: Template for Resource X]]></video:title>
+        <video:description><![CDATA[The ARM templates are very powerful and useful, we can agree on that. However, something it could be hard to get started. In this tutorial you will learn tips and tricks to start from scratch with&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e22c/72763030-d12f-4f49-a16b-43ed5cf5e22c/DEVOPSLABARMTemplatesQuickstart_mid.mp4</video:content_loc>
+        <video:duration>745</video:duration>
+        <video:publication_date>2020-09-15T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-9-Loops</loc>
+      <lastmod>2020-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bf8e/415785ad-8cfc-4c45-b93f-97862dabbf8e/ARMSERIESLoops_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #9: Loops]]></video:title>
+        <video:description><![CDATA[Learn Modules on building ARM templates with Pierre Roman and Abel Wang.  Jump To:  [01:00] Loops in ARM Templates intro[01:47] Copy function in a simple ARM Template[06:40] Deploying copies of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1bb7/65de6d66-adbe-4281-b27e-128448f21bb7/ARMSERIESLoops_mid.mp4</video:content_loc>
+        <video:duration>891</video:duration>
+        <video:publication_date>2020-09-08T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Repeatable-Build-Automation-with-Cake</loc>
+      <lastmod>2020-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7a9e/68abb1d6-5f92-40be-baea-277d0ff07a9e/RepeatableBuild_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Repeatable Build Automation with Cake]]></video:title>
+        <video:description><![CDATA[In this episode, find out at the Cake build orchestration tool, which can help automate your entire build process.  Using its C# DSL, it allows the creation of a build script in a language that&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f33d/e9647823-388f-434e-8554-f84180e0f33d/RepeatableBuild_mid.mp4</video:content_loc>
+        <video:duration>1093</video:duration>
+        <video:publication_date>2020-09-03T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-8-Linked-and-Nested-Templates</loc>
+      <lastmod>2021-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/827b/64688db4-913a-42d8-9990-61f3862a827b/DEVOPSLABARMTemplatesLinkedAndNestedTemplates_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #8: Linked and Nested Templates]]></video:title>
+        <video:description><![CDATA[As ARM deployments become more complex, using linked and nested templates allow you to break these deployments down into smaller reusable components. In this session Neil will demonstrate how each of&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8dbb/d330317e-b293-49f0-9881-e5ba04018dbb/DEVOPSLABARMTemplatesLinkedAndNestedTemplates_mid.mp4</video:content_loc>
+        <video:duration>987</video:duration>
+        <video:publication_date>2020-09-01T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-7-Controlling-Deployment</loc>
+      <lastmod>2020-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3580/ad1b4364-48c0-4f7f-b465-48c9f08b3580/ControllingDeployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #7: Controlling Deployment]]></video:title>
+        <video:description><![CDATA[In the previous tutorial we were deploying only one resource. In most cases you will be deploying many resources with one template, and it&#39;s important to have some control over the deployment. In this&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4520/9658ea6a-a824-4226-bfbf-8630fa7e4520/ControllingDeployment_mid.mp4</video:content_loc>
+        <video:duration>729</video:duration>
+        <video:publication_date>2020-08-25T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-6-Template-Output</loc>
+      <lastmod>2020-12-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/99ab/b9c53bb7-ea46-43a8-b658-35c37aa399ab/TemplateOutputs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #6: Template Output]]></video:title>
+        <video:description><![CDATA[In the Outputs section of your template, you can specify values that will be returned after a successful deployment. In this session Pierre and Abel will show demonstrate how you can use those outputs&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ab9e/c95bdaa0-38db-4e06-87e8-8dbb6250ab9e/TemplateOutputs_mid.mp4</video:content_loc>
+        <video:duration>627</video:duration>
+        <video:publication_date>2020-08-18T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Azure-With-Terraform-Provider-20-Update</loc>
+      <lastmod>2020-08-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/57a5/0e8dd035-1c3a-45af-926f-08da6b9b57a5/ProviderUpdate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure With Terraform: Provider 2.0 Update]]></video:title>
+        <video:description><![CDATA[Hashicorp&#39;s Terraform Provider for Azure has been released! Check out the new features and where Hashi has improved usability of Terraform.  Learn More:  April&#39;s blog on the UpdatesHashi&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c592/94b902b4-173c-4eb3-b2b7-3141b725c592/ProviderUpdate_mid.mp4</video:content_loc>
+        <video:duration>409</video:duration>
+        <video:publication_date>2020-08-11T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Performance-in-a-DevOps-World-with-Flood</loc>
+      <lastmod>2020-09-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/506a/342dc0c8-2603-493f-a4bd-d810ac98506a/PerformanceInADevOpsWorld_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Performance in a DevOps World with Flood]]></video:title>
+        <video:description><![CDATA[How do you incorporate load testing into your DevOps pipeline? In this episode, Tim Koopmans walks us through the steps of writing a browser-based load testing script using Flood Element, adding it as&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a5fc/385f1d0d-aa94-482a-b696-5e778e76a5fc/PerformanceInADevOpsWorld_mid.mp4</video:content_loc>
+        <video:duration>1283</video:duration>
+        <video:publication_date>2020-08-04T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-5-Variables</loc>
+      <lastmod>2020-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b5a6/ba40adc1-4e96-4b21-819f-2eb20e6cb5a6/Variables_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #5: Variables ]]></video:title>
+        <video:description><![CDATA[Variables are very useful in all king of scenarios to simplify things. Azure Resource Manager (ARM) templates aren&#39;t an exception and the variable will offer great flexibility. In this chapter, we&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0a84/b6522186-53e9-4d5a-8ee2-d779c9740a84/Variables_mid.mp4</video:content_loc>
+        <video:duration>540</video:duration>
+        <video:publication_date>2020-07-28T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/ARM-Series-4-Template-Functions</loc>
+      <lastmod>2020-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7f48/8a8aea0c-ceb7-4e11-9dcb-4fd0c9407f48/TemplateFunctions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #4: Template Functions]]></video:title>
+        <video:description><![CDATA[So now you are happy about all the things you learn in those first chapters. But their good chance is that if try to execute the PowerShell or Bash command on your side you will end up with:   ____&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/96f7/af2637cb-d46f-44dc-8d2e-f9e5080b96f7/TemplateFunctions_mid.mp4</video:content_loc>
+        <video:duration>510</video:duration>
+        <video:publication_date>2020-07-21T23:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/GitLab-into-Azure</loc>
+      <lastmod>2021-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/626c/845b7996-ee13-41ff-83d7-2782cc71626c/DevOpsLabGitLabAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GitLab into Azure]]></video:title>
+        <video:description><![CDATA[Restore and deploy a complete Azure infrastructure using GitLab&#39;s CI/CD pipelines.  Jump To:  [00:38] What is GitLab?[02:18] Demo start[03:24] Pipelines overview[04:55] Build definitions[05:54]&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c3ef/e2ccaa71-d588-4531-b24b-55bf345bc3ef/DevOpsLabGitLabAzure_mid.mp4</video:content_loc>
+        <video:duration>799</video:duration>
+        <video:publication_date>2020-07-14T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Demystifying-ARM-Templates-Parameters</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/701d/ac5e4f28-30af-472a-be63-2c4b148f701d/ARM_Frank_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #3: Parameters]]></video:title>
+        <video:description><![CDATA[In the previous episode we learn how to create resources using an Azure Resources Manager (ARM) template. However, it was all static and defined inside the template. In this tutorial you will learn&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f830/89260524-8281-4bf7-867b-417d3718f830/ARM_Frank_mid.mp4</video:content_loc>
+        <video:duration>1399</video:duration>
+        <video:publication_date>2020-07-07T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Demystifying-ARM-Templates-Creating-Your-First-Template</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/da23/2f51abea-0550-4bd2-8fd3-0fa9e474da23/ARM_Neil_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #2: Creating Your First Template]]></video:title>
+        <video:description><![CDATA[Now it&#39;s time to code. This session will introduce Visual Studio Code tools and show you how to create your first template from snippet, and how to deploy it.  Learn More:  Code Samples Azure Resource&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7ee1/00602d97-12fd-4a37-9972-39d6ed547ee1/ARM_Neil_mid.mp4</video:content_loc>
+        <video:duration>878</video:duration>
+        <video:publication_date>2020-06-30T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Demystifying-ARM-Templates-Intro-to-ARM-Templates</loc>
+      <lastmod>2021-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d970/56f1a1b9-85bb-416d-882e-42c92b35d970/ARM_Alex_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ARM Series #1: Demystifying ARM Templates- Introduction]]></video:title>
+        <video:description><![CDATA[ARM (Azure Resource Manager) Templates are the native infrastructure as code solution for provisioning Azure Resources. Learn what ARM Templates are and why they are the best way to manage your Azure&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f9b0/dff76d66-a3e2-4757-88e1-889ac4fff9b0/ARM_Alex_mid.mp4</video:content_loc>
+        <video:duration>675</video:duration>
+        <video:publication_date>2020-06-23T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/API-Security-with-42Crunch</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c24b/65d203e0-50e3-4563-a109-1f380741c24b/42Crunch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[API Security with 42Crunch]]></video:title>
+        <video:description><![CDATA[Dmitry Sotnikov, Chief Product Officer at 42Crunch and curator of APIsecurity.io joins Abel Wang for a discussion on the transition to cloud and later to cloud-native, container-based and serverless&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b791/7ba85ad1-be2d-4e4a-9e54-44fb0667b791/42Crunch_mid.mp4</video:content_loc>
+        <video:duration>1137</video:duration>
+        <video:publication_date>2020-06-16T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Tracking-Our-Roadmaps-with-ProductPlan</loc>
+      <lastmod>2020-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b26f/e262993b-94b7-4fab-90b0-7424ddb2b26f/DevOpsLabTrackingRoadmapsProductPlan_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tracking Our Roadmaps with ProductPlan]]></video:title>
+        <video:description><![CDATA[In this episode learn how to create a product roadmap with ProductPlan, and integrate your roadmap with Azure DevOps. We show how you can easily import from Azure DevOps to create your roadmap, and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2265/c14299e9-60e5-4a67-8bb4-7f65f03e2265/DevOpsLabTrackingRoadmapsProductPlan_mid.mp4</video:content_loc>
+        <video:duration>763</video:duration>
+        <video:publication_date>2020-05-26T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Improving-Productivity-With-Devops-And-Microsoft-Teams</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e474/17a57559-971d-4cad-895c-44b3c77ee474/12_devopslabs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Improving Productivity With Devops And Microsoft Teams]]></video:title>
+        <video:description><![CDATA[Find out how to integrate Microsoft Teams and Azure DevOps to stay up to date as well as complete your workflows right in the ambience of Teams. Jump To:  [04:31] Demo Start Learn More:   Workplace&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7657/f5a2394c-2e9b-443c-b4a2-348042787657/12_devopslabs_mid.mp4</video:content_loc>
+        <video:duration>642</video:duration>
+        <video:publication_date>2020-05-19T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Integrating-with-Azure-DevOps-and-DAS-Deployer</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2f71/8c4ad427-c84d-4c8c-9a35-f53e0c352f71/13_DevopsLabs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Integrating with Azure DevOps and DAS Deployer!]]></video:title>
+        <video:description><![CDATA[Damian sits down with Martin Woodward at Microsoft Ignite 2019 to talk about interoperability with Azure DevOps in the coolest way possible. The DAS Deployer is a fun project using a Raspberry Pi,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/26e8/6120b42a-d405-4926-adea-d5335f1426e8/13_DevopsLabs_mid.mp4</video:content_loc>
+        <video:duration>443</video:duration>
+        <video:publication_date>2020-05-12T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Testing-a-DevOps-World-with-Sofy</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f39c/733e61bf-35b0-4bd9-a7dd-075a8260f39c/DevOpsLabsSofy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Shifting Left: Testing in a DevOps world with SOFY]]></video:title>
+        <video:description><![CDATA[Trying to maintain both quality and speed is a real challenge, and testing methodologies can either aid or downshift the acceleration rapid application development. See how using right tools,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5370/dee000a6-5ee5-45a3-b3f9-478beda95370/DevOpsLabsSofy_mid.mp4</video:content_loc>
+        <video:duration>1473</video:duration>
+        <video:publication_date>2020-05-05T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-with-Logzio</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6df3/8c5ec7d2-af4b-43bd-9e37-4d0407a26df3/DevOpswithLogzIO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps with Logz.io]]></video:title>
+        <video:description><![CDATA[Abel Wang is joined by Asaf Yigal to discuss streamline observability with Logz.io&#39;s open source-based Cloud Observability platform. See how the platform unifies the best breed open source monitoring&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d624/4dcf3144-970c-41c5-931d-e1c43391d624/DevOpswithLogzIO_mid.mp4</video:content_loc>
+        <video:duration>774</video:duration>
+        <video:publication_date>2020-04-28T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-to-Azure-with-GitHub-Actions</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1f20/345d8c46-c998-4814-b518-1ff7e7951f20/11_DevopsLabs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying to Azure with GitHub Actions]]></video:title>
+        <video:description><![CDATA[GitHub Actions lets you take code in your GitHub repository and add automation around it.  You can create workflows that respond to issue comments, handle pull requests, or perform CI/CD on macOS,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2b7b/95dd6238-0829-455a-bc2a-a612d20b2b7b/11_DevopsLabs_mid.mp4</video:content_loc>
+        <video:duration>972</video:duration>
+        <video:publication_date>2020-04-21T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Easily-Track-Where-Your-Work-Item-Has-Been-Deployed-With-The-New-Deployments-Control</loc>
+      <lastmod>2021-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b192/7ee2b1d2-65d6-4058-8394-14fcb9fdb192/DevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Easily Track Where Your Work Item Has Been Deployed With The New Deployments Control]]></video:title>
+        <video:description><![CDATA[Sean Ferguson joins Abel Wang to chat about a new added Deployment control that integrates work items with Releases. With this control, you can track where and when your completed work item is being&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9364/03d5d884-c9e2-43ce-9fad-32b175b89364/DevOps_mid.mp4</video:content_loc>
+        <video:duration>365</video:duration>
+        <video:publication_date>2020-04-14T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Testing-and-Monitoring-Systems-for-Confidence</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d2f4/e8087d21-0e71-436e-bb21-f4f78963d2f4/Todd_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Testing and Monitoring Systems for Confidence]]></video:title>
+        <video:description><![CDATA[Gaining confidence in your systems through monitoring and testing. Focus your efforts on giving yourself confidence in the parts of your system that are risky. Learn More:  Building Request&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dbef/3c609595-fb70-493c-a242-a6b65829dbef/Todd_mid.mp4</video:content_loc>
+        <video:duration>727</video:duration>
+        <video:publication_date>2020-04-07T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Zero-Downtime-Deployments-with-Azure-PaaS</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4bef/2d7f4395-bf60-4579-b63f-8e5b6f064bef/Marcel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Zero Downtime Deployments with Azure PaaS]]></video:title>
+        <video:description><![CDATA[How can I deploy my applications to Azure Platform-as-a-Service (PaaS) like Azure Kubernetes Service (AKS) without having any downtime? How can I automate this, and how can I ensure my customers won&#39;t&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8537/9ceb28fd-e7a4-4dfd-87e0-1d81e5708537/Marcel_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2020-03-31T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/A-Software-Engineers-Guide-to-DevOps</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1d7c/c87dc6ee-79f3-4ac5-a237-488305871d7c/Laurie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Software Engineer&#39;s Guide to DevOps]]></video:title>
+        <video:description><![CDATA[In this episode, Damien sits down with Laurie Barth to talk about Getting comfortable with DevOps as a developer. Software Engineers don&#39;t always understand how they fit into the DevOps pipeline and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e3f6/925a9a7a-56b1-44be-b8a2-487661e7e3f6/Laurie_mid.mp4</video:content_loc>
+        <video:duration>921</video:duration>
+        <video:publication_date>2020-03-24T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Growing-an-Effective-QA-Practice</loc>
+      <lastmod>2020-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/57f4/6e710a10-16d0-46ee-b8e4-c32957e857f4/ALison_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Growing an Effective QA Practice]]></video:title>
+        <video:description><![CDATA[In this episode, Damien sits down with Alison Hawke, QA practice lead, World Wide Technology, to talk about how changing the way your team does testing can improve your software, and make your lives&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/48b1/d66989b6-9f20-4944-a230-049e677248b1/ALison_mid.mp4</video:content_loc>
+        <video:duration>688</video:duration>
+        <video:publication_date>2020-03-23T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Azure-DevOps-Lab-Terraform-using-GitHub-Actions</loc>
+      <lastmod>2021-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ee2c/22c8bb6c-d721-4fe7-9082-b67bbd35ee2c/DevOpsLabTerraformGitHubActions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure DevOps Lab- Terraform using GitHub Actions]]></video:title>
+        <video:description><![CDATA[In this episode, Abel sits down again with April Edwards to talk about using GitHub Actions to deploy infrastructure using Terraform. April walks through the process of taking code that is already&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2406/a722449c-d27c-42af-a015-aaea5be32406/DevOpsLabTerraformGitHubActions_mid.mp4</video:content_loc>
+        <video:duration>307</video:duration>
+        <video:publication_date>2020-02-27T20:13:41.6533805+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Terraform-and-Azure-DevOps-Delivering-a-continuous-and-automated-deployment</loc>
+      <lastmod>2021-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1486/dc4aa6b6-012b-4119-bce3-cf7c47151486/DevOpsLabTerraformDevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Terraform and Azure DevOps  Delivering a continuous and automated deployment]]></video:title>
+        <video:description><![CDATA[In this episode, Abel sits down again with April Edwards to talk about using Terraform to provision infrastructure through pipelines with the help of Azure DevOps By using Azure DevOps and Terraform,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/77d4/f97acd27-ddcb-4614-8d6d-cbc3177177d4/DevOpsLabTerraformDevOps_mid.mp4</video:content_loc>
+        <video:duration>549</video:duration>
+        <video:publication_date>2020-02-11T22:57:46.7248848+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Terraform-Modules-deploying-reusable-code</loc>
+      <lastmod>2021-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/24f8/15a91e4a-d6d2-4267-bafa-cbbe628924f8/DevOpsLabTerraformModules_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Terraform Modules  deploying reusable code]]></video:title>
+        <video:description><![CDATA[In this episode, Abel sits down again with April Edwards to talk about Terraform Modules and how to deploy reusable and repeatable code.  Testing code in multiple different environments can be&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3c9f/047ff5f7-deaa-42f1-9cbb-143731773c9f/DevOpsLabTerraformModules_mid.mp4</video:content_loc>
+        <video:duration>707</video:duration>
+        <video:publication_date>2020-02-05T16:44:28.6841874+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Terraform-State-File-Secure-and-scale-your-deployments</loc>
+      <lastmod>2021-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/88bc/f1f9af6c-004e-4948-9d50-57479b8388bc/DevOpsLabTerraformStateFile_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Terraform State File  Secure and scale your deployments]]></video:title>
+        <video:description><![CDATA[In this episode, Abel sits down again with April Edwards to talk about Terraform state files. Keeping track of what an environment should and does look like can be a challenge, particularly when it&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/dd63/b2b95afd-f2d8-4dd9-aa31-3e96cd6cdd63/DevOpsLabTerraformStateFile_mid.mp4</video:content_loc>
+        <video:duration>702</video:duration>
+        <video:publication_date>2019-12-17T00:51:50.8700115+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Doing-DevOps-with-SAP</loc>
+      <lastmod>2020-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8d22/d595df77-1126-4e65-b6cf-b80060bd8d22/DevOpsLabIntegratedApproachSAP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Doing DevOps with SAP]]></video:title>
+        <video:description><![CDATA[In this episode, Abel Wang chats down with Ram and Gopal about how you can do DevOps into SAP - a traditionally difficult task. SAP developers have unique challenges beyond what we find with other&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d87b/75011481-2575-4516-9773-81d41596d87b/DevOpsLabIntegratedApproachSAP_mid.mp4</video:content_loc>
+        <video:duration>1239</video:duration>
+        <video:publication_date>2019-11-20T06:01:01.6896409+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-to-on-premises-Windows-machines-with-Azure-DevOps-Part-3</loc>
+      <lastmod>2019-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ac28/8b7b2fc4-6ce9-4621-a719-8cd84c4fac28/DevOpsLabOnPremWinPart3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying to on-premises Windows machines with Azure DevOps - Part 3]]></video:title>
+        <video:description><![CDATA[In this series, Abel and Zachary Deptawa walk through deploying to on premises Windows servers behind firewalls using Azure DevOps. In part 3, we bring it all together. We&#39;ve shown you how to set up a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/717d/7d7c2611-95a3-43a3-8f40-5dbd30b5717d/DevOpsLabOnPremWinPart3_mid.mp4</video:content_loc>
+        <video:duration>817</video:duration>
+        <video:publication_date>2019-10-03T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-to-on-premises-Windows-machines-with-Azure-DevOps-Part-2</loc>
+      <lastmod>2020-05-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7afd/7fc3c692-4266-4603-8ccb-dddeb5a17afd/DevOpsLabOnPremWinPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying to on-premises Windows machines with Azure DevOps - Part 2]]></video:title>
+        <video:description><![CDATA[In this series, Abel and Zachary Deptawa walk through deploying to on premises Windows servers behind firewalls using Azure DevOps. In part two, we show how easy it is to set up Deployment Groups&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/424b/2d824f0f-9c93-49e9-a647-99cada16424b/DevOpsLabOnPremWinPart2_mid.mp4</video:content_loc>
+        <video:duration>377</video:duration>
+        <video:publication_date>2019-09-30T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-to-on-premises-Windows-machines-with-Azure-DevOps-Part-1</loc>
+      <lastmod>2020-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1614/81d97a19-f258-4d25-b098-471833c81614/DevOpsLabOnPremWinPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying to on-premises Windows machines with Azure DevOps - Part 1]]></video:title>
+        <video:description><![CDATA[In this series, Abel and Zachary Deptawa walk through deploying to on premises Windows servers behind firewalls using Azure DevOps. In part one, we walk through configuring a Build for a .NET&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ff0c/0464a4e8-b70f-40f7-86a5-b97acd86ff0c/DevOpsLabOnPremWinPart1_mid.mp4</video:content_loc>
+        <video:duration>543</video:duration>
+        <video:publication_date>2019-09-25T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Taking-Advantage-of-the-Azure-DevOps-Wiki-as-a-Developer</loc>
+      <lastmod>2020-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9f2a/1efa0352-3be0-44ce-b4f8-c332fddf9f2a/DevOpsLabAzureDevOpsWiki03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taking Advantage of the Azure DevOps Wiki as a Developer]]></video:title>
+        <video:description><![CDATA[In this episode, Abel sits down with Dipendra Namdeo to talk more about the Azure DevOps Wiki. As developers, we have special needs when it comes to wiki&#39;s and documentation. Specifically, we often&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1ef9/f893c53c-ad77-43e8-a6c6-cb383d2e1ef9/DevOpsLabAzureDevOpsWiki03_mid.mp4</video:content_loc>
+        <video:duration>561</video:duration>
+        <video:publication_date>2019-09-02T01:18:49.4440514+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Working-with-Azure-DevOps-using-the-Azure-DevOps-CLI</loc>
+      <lastmod>2020-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b835/11c87b2f-859e-4019-919f-2f7c5d8eb835/DevopsLabs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with Azure DevOps using the Azure DevOps CLI]]></video:title>
+        <video:description><![CDATA[In this episode, Damian speaks to George Verghese from the Azure DevOps team about the new Azure DevOps CLI. There are several ways to work with Azure DevOps, and if your goal is automation, the CLI&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6f73/12f216f6-4cb5-47cc-8602-95fcff4c6f73/DevopsLabs_mid.mp4</video:content_loc>
+        <video:duration>1071</video:duration>
+        <video:publication_date>2019-08-05T23:27:37.9063015+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Real-World-Scenario-Testing-using-Azure-DevOps-and-automated-UI-tests</loc>
+      <lastmod>2020-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8af6/b79181e7-1c74-41d1-b7e5-a8e243bd8af6/20190517AzureDevOpsV2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real World Scenario Testing using Azure DevOps and automated UI tests]]></video:title>
+        <video:description><![CDATA[In this episode, Abel Wang chats with Deepak Saini and Michael Ma to talk about scenario testing with automated UI tests. In the context of Azure Platform as a Service (PaaS), Web apps have a very&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1fd7/78906776-e32d-40df-bbc5-4a34cb9b1fd7/20190517AzureDevOpsV2_mid.mp4</video:content_loc>
+        <video:duration>1089</video:duration>
+        <video:publication_date>2019-07-16T01:09:16.5522116+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-your-Azure-Infrastructure-with-Terraform</loc>
+      <lastmod>2021-08-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/23e5/388e62a8-7c85-412f-9ec9-9e3fc9e023e5/20190617-DevOpsLab_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying your Azure Infrastructure with Terraform]]></video:title>
+        <video:description><![CDATA[Abel sits down with Technical Solutions Professional April Edwards to talk about using Terraform to deploy to Azure. In today&#39;s DevOps world, Infrastructure as Code is a vital component. ARM templates&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/76ec/764c0c8b-33c7-430b-8d06-bbe9a3e376ec/20190617-DevOpsLab_mid.mp4</video:content_loc>
+        <video:duration>1083</video:duration>
+        <video:publication_date>2019-07-04T01:03:52.0725066+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Adding-a-Wiki-to-your-Azure-DevOps-Project</loc>
+      <lastmod>2021-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e1d9/ed834f76-c881-4986-a745-a6845710e1d9/DevOpsLabAzureDevOpsWiki01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding a Wiki to your Azure DevOps Project]]></video:title>
+        <video:description><![CDATA[In this video, Abel talks to Dipendra Namdeo to find out about the Azure DevOps Wiki - an online wiki solution built into Azure DevOps. In a software project, there is a need to share information and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e1d9/ed834f76-c881-4986-a745-a6845710e1d9/DevOpsLabAzureDevOpsWiki01_mid.mp4</video:content_loc>
+        <video:duration>709</video:duration>
+        <video:publication_date>2019-05-31T00:18:42.0416232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Introducing-Azure-Boards-to-the-GitHub-Marketplace</loc>
+      <lastmod>2019-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4a07/f1793280-a5d1-4792-a72f-ad81770b4a07/MSBuild2019InstallingAzureBoardsToGitHub_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Azure Boards to the GitHub Marketplace ]]></video:title>
+        <video:description><![CDATA[Anisha Pindoria speaks with Alex Nichols about the introduction of the Azure Boards app to the GitHub Marketplace, a new way to integrate between the two services so that you can stay organized and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4a07/f1793280-a5d1-4792-a72f-ad81770b4a07/MSBuild2019InstallingAzureBoardsToGitHub_mid.mp4</video:content_loc>
+        <video:duration>705</video:duration>
+        <video:publication_date>2019-05-16T04:44:17.9263761+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Using-the-new-Basic-Process-in-Azure-DevOps</loc>
+      <lastmod>2019-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5509/b3ee4734-ccc3-4ad1-b0a1-911d438c5509/Devops2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using the new Basic Process in Azure DevOps]]></video:title>
+        <video:description><![CDATA[In this episode, Abel chats with Dan Hellem to walk through the details of the new Basic process in Azure DevOps and learn how it works. Azure DevOps has added a new Basic process to sit alongside&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5509/b3ee4734-ccc3-4ad1-b0a1-911d438c5509/Devops2_mid.mp4</video:content_loc>
+        <video:duration>497</video:duration>
+        <video:publication_date>2019-04-09T04:27:25.3598005+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Using-GitHub-Actions-to-Deploy-to-Azure</loc>
+      <lastmod>2020-08-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2be4/45503f62-24d9-4f69-9a35-e5ffa6fc2be4/Gopi-GitHub-Actions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using GitHub Actions to Deploy to Azure]]></video:title>
+        <video:description><![CDATA[Damian sits down with Product Manager Gopinath Chigakkagari to talk about deploying to Azure using GitHub Actions. Did you know the Azure Pipelines team is responsible not just for Azure Pipelines but&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2be4/45503f62-24d9-4f69-9a35-e5ffa6fc2be4/Gopi-GitHub-Actions_mid.mp4</video:content_loc>
+        <video:duration>787</video:duration>
+        <video:publication_date>2019-03-29T03:13:04.0883515+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Whats-new-for-Visual-Studio-2019-integrations-with-Azure-Boards</loc>
+      <lastmod>2019-04-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9f37/8fd1c6eb-a73e-4f0e-a400-174381bc9f37/Devops1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Whats New for Visual Studio 2019 Integrations with Azure Boards]]></video:title>
+        <video:description><![CDATA[In this video Abel catches up with Dan Hellem for a quick walk through of the new experience of Visual Studio 2019. In previous versions of Visual Studio, the work item experience was centered around&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9f37/8fd1c6eb-a73e-4f0e-a400-174381bc9f37/Devops1_mid.mp4</video:content_loc>
+        <video:duration>673</video:duration>
+        <video:publication_date>2019-03-13T05:21:33.4685675+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Using-Azure-Boards-with-GitHub</loc>
+      <lastmod>2020-12-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7d1d/3779bfc2-123c-46b4-a81a-e6c5b0de7d1d/20190208-DevOpsLabs_2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Azure Boards with GitHub]]></video:title>
+        <video:description><![CDATA[Damian speaks with Alex Nichols about how to integrate Azure Boards with your GitHub project. As your organization and projects grow it can get challenging to stay focused on what&#39;s most important&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7d1d/3779bfc2-123c-46b4-a81a-e6c5b0de7d1d/20190208-DevOpsLabs_2_mid.mp4</video:content_loc>
+        <video:duration>871</video:duration>
+        <video:publication_date>2019-02-20T18:26:24.3478119+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Verifying-your-Database-Deployment-with-Azure-DevOps</loc>
+      <lastmod>2020-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a73f/28ccef2a-8860-4ac3-bb17-659b074ea73f/dol-houssem-dellai_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Verifying your Database Deployment with Azure DevOps]]></video:title>
+        <video:description><![CDATA[While at Microsoft Ignite | The Tour in Berlin, Damian speaks to Microsoft MVP Houssem Dellai about some options for deploying your database alongside your application. Houssem shows a few different&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a73f/28ccef2a-8860-4ac3-bb17-659b074ea73f/dol-houssem-dellai_mid.mp4</video:content_loc>
+        <video:duration>1290</video:duration>
+        <video:publication_date>2019-01-23T09:32:58.4995322+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Running-your-First-Docker-Container-in-Azure</loc>
+      <lastmod>2019-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7a84/8269395e-c022-4672-8b43-3cf1b5d57a84/jay-gordon-docker-in-azure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Running your First Docker Container in Azure]]></video:title>
+        <video:description><![CDATA[Damian catches up with fellow Cloud Advocate Jay Gordon at Microsoft Ignite | The Tour in Berlin. Containers are still new for a lot of people and with the huge list of buzzwords, it&#39;s hard to know&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7a84/8269395e-c022-4672-8b43-3cf1b5d57a84/jay-gordon-docker-in-azure_mid.mp4</video:content_loc>
+        <video:duration>1074</video:duration>
+        <video:publication_date>2018-12-17T23:17:43.8811165+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Using-Azure-Pipelines-for-your-Open-Source-Project</loc>
+      <lastmod>2018-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/24dd3ee3-b7f2-4109-bb44-a983010d458e_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Azure Pipelines for your Open Source Project]]></video:title>
+        <video:description><![CDATA[Damian speaks to Edward Thomson about how to get started with Azure Pipelines - right from GitHub. The deep integration and GitHub Marketplace app for Azure Pipelines makes it incredibly easy to build&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0f7/cd547ac5-5c26-4123-b799-13a5b077d0f7/20181004-DevopsLabs_mid.mp4</video:content_loc>
+        <video:duration>823</video:duration>
+        <video:publication_date>2018-10-25T23:03:20.1005030+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Using-Structured-Logging-for-Production-Insight</loc>
+      <lastmod>2018-08-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/1de1489d-f964-48ac-aea7-a91f01631e1a_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Structured Logging for Production Insight]]></video:title>
+        <video:description><![CDATA[Damian speaks to Nick Blumhardt about structured logging. Trawling through logs is often painful, and it can be hard to discover exactly what events are related to what others. The problem is far&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b365/634f77d5-f7a6-485d-bff2-4380777db365/Using-Structured-Logging-for-Production-Insight_mid.mp4</video:content_loc>
+        <video:duration>1028</video:duration>
+        <video:publication_date>2018-08-22T22:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Azure-Automation-Runbooks-with-PowerShell</loc>
+      <lastmod>2018-07-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/c7dfe20d-4612-4a88-9468-a91f0163202f_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Automation Runbooks with PowerShell]]></video:title>
+        <video:description><![CDATA[Damian chats to MVP Thomas Rayner about Azure Automation Runbooks. You don&#39;t always need to jump into the portal to get things done in Azure. In this episode, Thomas walks us through how to configure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/683c/609c603f-407f-42a1-b82d-5588678e683c/Azure-Automation-Runbooks-with-PowerShell_mid.mp4</video:content_loc>
+        <video:duration>1353</video:duration>
+        <video:publication_date>2018-07-19T17:59:34.2555169+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-for-Data-Science</loc>
+      <lastmod>2020-02-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/79a3ca0c-0a60-4818-81f0-a9040044d16b_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps for Data Science]]></video:title>
+        <video:description><![CDATA[Damian talks to Microsoft&#39;s Paige Bailey as well as MVP Terry McCann about DevOps for Data Science. These two really popular fields are not often combined, but there are some fantastic opportunities&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22f8/4c68f1b5-dd27-4146-8a80-345f646e22f8/MachineLearning_mid.mp4</video:content_loc>
+        <video:duration>968</video:duration>
+        <video:publication_date>2018-06-20T01:33:46.6363668+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Continuous-Availability-LIVE-at-Build-2018</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/c64f48e3-9e53-4bba-9c0b-a8e30173bb3c_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Availability - LIVE at Build 2018]]></video:title>
+        <video:description><![CDATA[How Azure global monitoring team uses VSTS to deploy their Azure Cloud Collab dashboard  Damian sits down with Deepak Saini and Vinod Kumar to talk about Continuous Availability. Is it enough to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e5b/524f4a13-f07e-45da-916c-5ef94a605e5b/Build2018C9LRDevOpsShow_mid.mp4</video:content_loc>
+        <video:duration>773</video:duration>
+        <video:publication_date>2018-05-28T15:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Azure-Functions-with-VSTS</loc>
+      <lastmod>2019-07-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/3b8954a3-8606-4eb9-9514-a8d5002772af_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Azure Functions with VSTS]]></video:title>
+        <video:description><![CDATA[Damian is joined by fellow Aussie Simon Waight at the MVP Summit to talk about deploying Azure Functions with VSTS. Many Azure DevOps demos show how to deploy websites, but there are so many Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ef8c/6c3406fb-73a8-4dab-858c-d5fcea0fef8c/SimonVSTSAzureFunctions_mid.mp4</video:content_loc>
+        <video:duration>1264</video:duration>
+        <video:publication_date>2018-05-03T22:45:26.5084029+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Moving-your-Data-Warehouse-to-the-Cloud</loc>
+      <lastmod>2018-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/f45cf799-95b2-4aeb-9a82-a8c500736b6c_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Moving your Data Warehouse to the Cloud]]></video:title>
+        <video:description><![CDATA[Damian talks to Deepak Kaushik about moving data warehousing from on-premises servers to Azure SQL Data Warehouse. Data warehouses are traditionally hosted on physical servers located at central&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9da2/6106e0e1-bb7e-4df2-9f29-e2911d219da2/DeepakAzureDataWarehouse_mid.mp4</video:content_loc>
+        <video:duration>1226</video:duration>
+        <video:publication_date>2018-04-19T15:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Improving-Performance-for-Pwned-Passwords</loc>
+      <lastmod>2020-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/ea8669b7-fdbf-4a24-9558-a8b7017fe5dd_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Improving Performance for haveibeenpwned.com with Troy Hunt]]></video:title>
+        <video:description><![CDATA[Damian sits down with fellow Aussie and Microsoft Regional Director Troy Hunt to talk about dramatically improving performance for his new Pwned Passwords offering. Troy runs a popular high traffic&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d25/4463ce70-bef5-41d5-a2a7-a89d7b228d25/TroyHuntv2_mid.mp4</video:content_loc>
+        <video:duration>1929</video:duration>
+        <video:publication_date>2018-04-06T02:38:08.7875200+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Unit-Testing-your-Database-Changes</loc>
+      <lastmod>2018-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/fc5ee971-5606-4c55-81aa-a8b0004f0a30_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Unit Testing your Database Changes]]></video:title>
+        <video:description><![CDATA[Damian meets with Hamish Watson at the MVP Summit to talk about testing your database changes. Unit testing is vital in a good process but tests don&#39;t often extend to the database. Can it be done at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f1b9/afb6d64e-d161-4e1c-9d41-ef22976cf1b9/HamishTestingDatabases_mid.mp4</video:content_loc>
+        <video:duration>1670</video:duration>
+        <video:publication_date>2018-03-28T23:11:28.3588977+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Building-Security-into-your-DevOps-Pipeline</loc>
+      <lastmod>2018-09-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/b6893d46-b7ae-41a6-8bb6-a89d0004f41f_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Security into your DevOps Pipeline ]]></video:title>
+        <video:description><![CDATA[Damian talks to Dylan Smith about building security into your DevOps process. Now that we&#39;re deploying to production so regularly, what do the security teams do? How do we make sure none of our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2140/a8664f7f-125d-4f9a-a730-b48b471d2140/DevOpsLabBuildingSecurityintoyourDevOpsPipeline_mid.mp4</video:content_loc>
+        <video:duration>1040</video:duration>
+        <video:publication_date>2018-03-22T22:47:17.8408171+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Node-to-Docker-on-Azure</loc>
+      <lastmod>2018-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/697c/9cf294c3-d7e5-480d-a6c1-e9f2404a697c/VSCodeDeployingNodetoDockeronAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Node to Docker on Azure]]></video:title>
+        <video:description><![CDATA[Damian is joined by Brian Clark to show off some of the cross-platform support in VSTS and Azure. Can you use traditionally non-Microsoft languages and platforms with VSTS and Azure? You sure can! In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/697c/9cf294c3-d7e5-480d-a6c1-e9f2404a697c/VSCodeDeployingNodetoDockeronAzure_mid.mp4</video:content_loc>
+        <video:duration>473</video:duration>
+        <video:publication_date>2018-03-13T15:19:42.7548624+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Database-changes-alongside-your-code-with-SSDT-projects-and-VSTS</loc>
+      <lastmod>2020-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/d61c28b2-a14b-4033-a12b-a8780115cd0d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Database changes alongside your code with SSDT projects and VSTS]]></video:title>
+        <video:description><![CDATA[Damian is joined by Abel Wang to show us one way of tracking and deploying database changes alongside your code. The SQL Server Data Tools (SSDT) project type in Visual Studio allows you to keep an up&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d448/8e4042aa-62ef-4ea4-b1d7-2dd35bf4d448/Episode02Abel_mid.mp4</video:content_loc>
+        <video:duration>849</video:duration>
+        <video:publication_date>2018-03-01T18:18:44.4496634+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/DeployingtoOnPremisesServerswithVSTS</loc>
+      <lastmod>2020-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/17a9e342-4a39-4786-8a73-a878011521c1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying to On-Premises Servers with VSTS]]></video:title>
+        <video:description><![CDATA[Damian is joined by Abel Wang to walk through using Visual Studio Team Services (VSTS) to deploy applications to on-premises servers. As Cloud Developer Advocates, we focus so much on deploying to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e5c/69f366e1-874c-49dd-8ee6-cd018bee6e5c/Episode01Abel_mid.mp4</video:content_loc>
+        <video:duration>872</video:duration>
+        <video:publication_date>2018-02-22T22:24:56.4060681+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Customer-focus-and-making-production-visible-with-Raygun</loc>
+      <lastmod>2018-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b217/1f6e9a2b-e30e-4f1e-957b-769fd757b217/CustomerfocusandmakingproductionvisiblewithRaygun_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Customer focus and making production visible with Raygun]]></video:title>
+        <video:description><![CDATA[Damian talks to JD Trask about closing the loop in your software development cycle and focusing on how your customers use your software - the story doesn&#39;t end when your software hits production! JD&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b217/1f6e9a2b-e30e-4f1e-957b-769fd757b217/CustomerfocusandmakingproductionvisiblewithRaygun_mid.mp4</video:content_loc>
+        <video:duration>1445</video:duration>
+        <video:publication_date>2018-02-08T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/Real-World-Mobile-DevOps-with-VSTS-and-App-Center</loc>
+      <lastmod>2018-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/e08f3401-f606-42f2-b67e-a87701845320_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Real World Mobile DevOps with VSTS and App Center]]></video:title>
+        <video:description><![CDATA[Damian talks to James Montemagno about using Visual Studio Team Services (VSTS) and App Center to manage your mobile application DevOps process.  James explains how you can use both tools together,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90fe/4ceb4940-e992-4c3e-8be1-a35c8dae90fe/DevOpsLabRealWorldMobileDevOpswithVSTSandAppCente_mid.mp4</video:content_loc>
+        <video:duration>2084</video:duration>
+        <video:publication_date>2018-02-01T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOps-Lab/The-DevOps-Labs-Kickoff-Show-1--Connect-2017-Recap</loc>
+      <lastmod>2021-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/75ac/9c71bfea-98eb-404e-bd11-c684912775ac/DevOpsLabsVSTSConnect2017Update_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The DevOps Lab Kickoff Show #1  Connect(); 2017 Recap]]></video:title>
+        <video:description><![CDATA[In this episode Damian Brady sits down with Dmitry Lyalin to kickoff the brand new The DevOps Lab show! This new Channel 9 show will focus on all things DevOps at Microsoft and cover many product&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/75ac/9c71bfea-98eb-404e-bd11-c684912775ac/DevOpsLabsVSTSConnect2017Update_mid.mp4</video:content_loc>
+        <video:duration>1187</video:duration>
+        <video:publication_date>2017-12-14T18:32:50.2254583+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

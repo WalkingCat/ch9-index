@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Partner-Session-Luminary</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d669/587514af-6535-41e2-9994-d0d36ddbd669/Unity2013PartnerSessionLuminary_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Session: Luminary ]]></video:title>
+        <video:description><![CDATA[Luminary is one of the first companies that ported games to Windows Phone. In this session you will hear their lessons learned in porting a Unity game from other platform to Windows Phone. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d669/587514af-6535-41e2-9994-d0d36ddbd669/Unity2013PartnerSessionLuminary_mid.mp4</video:content_loc>
+        <video:duration>1795</video:duration>
+        <video:publication_date>2013-04-12T22:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Partner-Session-Coding-Jar-Studios</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e3d/8db084f7-8919-46e2-96d3-8807339c6e3d/Unity2013PartnerSessionCodingJaryStudios_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Session: Coding Jar Studios ]]></video:title>
+        <video:description><![CDATA[Coding Jar Studios started by writing Fling Theory for the Windows Store and quickly ported the game to Windows Phone.  In this session you will hear their lessons learned while writing the Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e3d/8db084f7-8919-46e2-96d3-8807339c6e3d/Unity2013PartnerSessionCodingJaryStudios_mid.mp4</video:content_loc>
+        <video:duration>2522</video:duration>
+        <video:publication_date>2013-04-12T22:57:23.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Partner-Session-Rogue-Rocket-Games</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7af6/0750461a-ce7c-4370-9715-46f9a5617af6/Unity2013PartnerSessionsRogueRocketGames_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Session: Rogue Rocket Games]]></video:title>
+        <video:description><![CDATA[Rogue Rocket games has released two games to the Windows Store:  GunPowder and SushiChop. In this session you will hear their lessons learned during their journey writing these two games. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7af6/0750461a-ce7c-4370-9715-46f9a5617af6/Unity2013PartnerSessionsRogueRocketGames_mid.mp4</video:content_loc>
+        <video:duration>1871</video:duration>
+        <video:publication_date>2013-04-12T22:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Introduction-to-building-games-with-Unity</loc>
+      <lastmod>2018-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0231/f7522d35-f357-417d-8328-cdc644620231/Unity2013IntrotobuildinggameswithUnity_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to building games with Unity]]></video:title>
+        <video:description><![CDATA[In this session, Carl Callewaert demos how to build a game using Unity Editor. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0231/f7522d35-f357-417d-8328-cdc644620231/Unity2013IntrotobuildinggameswithUnity_mid.mp4</video:content_loc>
+        <video:duration>6111</video:duration>
+        <video:publication_date>2013-04-12T19:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Sharing-code-Reuse-all-this-new-knowledge-on-the-Windows-Phone-platform</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d81/f7980d23-c0c4-41b9-8302-124af2033d81/Unity2013SharingcodeWindowsPhonePlatform_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sharing code: Reuse all this new knowledge on the Windows Phone platform]]></video:title>
+        <video:description><![CDATA[Most of what you learned so far on building Unity games for Windows 8 is applicable to Windows Phone too. In this session, we will highlight the few differences across the platforms; we will start&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d81/f7980d23-c0c4-41b9-8302-124af2033d81/Unity2013SharingcodeWindowsPhonePlatform_mid.mp4</video:content_loc>
+        <video:duration>1564</video:duration>
+        <video:publication_date>2013-04-06T18:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Differentiate-Integrate-your-game-with-Windows-8-platform-features-such-as-contracts-notifications-a</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e6e/ec64c333-08c6-4a43-a783-fc940ee71e6e/Unity2013IntegrateyourgamewithWindows8PlatformFea_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Differentiate: Integrate your game with Windows 8 platform features (such as contracts,&amp;#8230;]]></video:title>
+        <video:description><![CDATA[To have a truly great game, you will need to integrate with Windows 8 features like contracts, live tiles, and push notifications; in this session you will see coding examples and learn techniques for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e6e/ec64c333-08c6-4a43-a783-fc940ee71e6e/Unity2013IntegrateyourgamewithWindows8PlatformFea_mid.mp4</video:content_loc>
+        <video:duration>3213</video:duration>
+        <video:publication_date>2013-04-06T18:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Deep-dive-Tips-tricks-for-porting-games-from-other-platforms-to-Windows-8</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8007/0e20c3d9-0f75-486b-8ab6-5643534c8007/Unity2013Deepdivetipstricksforportinggames_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep dive: Tips &amp; tricks for porting games from other platforms to Windows 8]]></video:title>
+        <video:description><![CDATA[Go deep under the hood of Unity for Windows Store apps. After this session you will understand how the engine works, and the changes you will need to make to port a Unity game to run on the Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8007/0e20c3d9-0f75-486b-8ab6-5643534c8007/Unity2013Deepdivetipstricksforportinggames_mid.mp4</video:content_loc>
+        <video:duration>3178</video:duration>
+        <video:publication_date>2013-04-06T17:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/End-to-End-Develop-debug-and-deploy-a-Unity-game-for-the-Windows-Store</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05b7/838999fc-16d4-4f59-9bda-9586a1bd05b7/Unity2013EndtoEnd_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[End-to-End: Develop, debug and deploy a Unity game for the Windows Store]]></video:title>
+        <video:description><![CDATA[In this session, we will build a game using Unity Editor and then export it for usage in  a  Windows Store app. You will see the exporting of the unity player, the visual studio project and deploying&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05b7/838999fc-16d4-4f59-9bda-9586a1bd05b7/Unity2013EndtoEnd_mid.mp4</video:content_loc>
+        <video:duration>3508</video:duration>
+        <video:publication_date>2013-04-06T17:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Building-Windows-Games-with-Unity/Introduction-to-the-Windows-8-platform-and-the-Windows-Store</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c542/630f08ea-8283-4474-ae5e-b583f2bfc542/Unity2013IntroductiontoWindows8_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to the Windows 8 platform and the Windows Store]]></video:title>
+        <video:description><![CDATA[This session is a lightning tour of the Windows 8 experiences, and the most relevant improvements that game developers will run into when building a game for the Windows Store.  You will also get a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c542/630f08ea-8283-4474-ae5e-b583f2bfc542/Unity2013IntroductiontoWindows8_mid.mp4</video:content_loc>
+        <video:duration>2611</video:duration>
+        <video:publication_date>2013-04-06T17:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

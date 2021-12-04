@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ascend-Videos</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ascend-Videos/Ascend-POI-Labs--Heatmap-2</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6cf1/eb64b5e7-48f3-43b2-aec0-99ce54dd6cf1/POILabsHeatMap2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ascend+ POI Labs : Heatmap 2]]></video:title>
+        <video:description><![CDATA[Ascend&amp;#43; POI Labs : Heatmap 2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cf1/eb64b5e7-48f3-43b2-aec0-99ce54dd6cf1/POILabsHeatMap2_mid.mp4</video:content_loc>
+        <video:duration>22</video:duration>
+        <video:publication_date>2017-02-21T08:29:06.0858314+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ascend-Videos/Ascend-POI-Labs--Heatmap-1</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3469/fef0b727-e096-4bcf-a240-9ab0c72a3469/POILabsHeatMap1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ascend+ POI Labs : Heatmap 1]]></video:title>
+        <video:description><![CDATA[Ascend&amp;#43; POI Labs : Heatmap 1 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3469/fef0b727-e096-4bcf-a240-9ab0c72a3469/POILabsHeatMap1_mid.mp4</video:content_loc>
+        <video:duration>22</video:duration>
+        <video:publication_date>2017-02-21T08:28:52.2399712+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Ascend-Videos/Ascend-POI-Labs-Interview</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/44c5/4342905a-77be-4a65-9dab-0c8dca8d44c5/POILabsInterview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ascend+ POI Labs - Interview]]></video:title>
+        <video:description><![CDATA[Ascend&amp;#43; POI Labs - Interview ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44c5/4342905a-77be-4a65-9dab-0c8dca8d44c5/POILabsInterview_mid.mp4</video:content_loc>
+        <video:duration>105</video:duration>
+        <video:publication_date>2017-02-21T08:17:00.4437187+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

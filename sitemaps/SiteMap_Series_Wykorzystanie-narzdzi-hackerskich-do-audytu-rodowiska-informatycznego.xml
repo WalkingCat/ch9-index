@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/08-Zabezpieczamy-si</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1763/dde85440-87e5-409f-a4c9-bf72c4711763/zabezpieczemy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08| Zabezpieczamy si]]></video:title>
+        <video:description><![CDATA[Zabezpieczamy się przed działaniem oprogramowania hackerskiego – w przypadku nieautoryzowanego użycia. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1763/dde85440-87e5-409f-a4c9-bf72c4711763/zabezpieczemy_mid.mp4</video:content_loc>
+        <video:duration>625</video:duration>
+        <video:publication_date>2015-12-14T15:22:59.0414028+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/07-Testy-dziaania</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/76bb/192e7e59-6565-4629-a8b9-e88c9b7076bb/testy_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07| Testy dziaania]]></video:title>
+        <video:description><![CDATA[Testowanie wdrożonego rozwiązania w zakresie audytu I monitorowania stacji roboczych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/76bb/192e7e59-6565-4629-a8b9-e88c9b7076bb/testy_mid.mp4</video:content_loc>
+        <video:duration>694</video:duration>
+        <video:publication_date>2015-12-14T15:22:46.6908435+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/06-Generacja-Payload-i-wgranie-do-aplikacji</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d882/3d706b81-133c-4b67-a559-a6a8d241d882/generacja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06| Generacja Payload i wgranie do aplikacji]]></video:title>
+        <video:description><![CDATA[Wykorzystanie oprogramowania hackerskiego Metasploit do wgrania Payload do napisanej aplikacji. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d882/3d706b81-133c-4b67-a559-a6a8d241d882/generacja_mid.mp4</video:content_loc>
+        <video:duration>2238</video:duration>
+        <video:publication_date>2015-12-14T15:22:34.5617892+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/05-Napisanie-przykadowej-aplikacji-w-Visual-Studio</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1922/eaff05e2-16f3-4123-8773-99f5c7171922/napisanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05| Napisanie przykadowej aplikacji w Visual Studio]]></video:title>
+        <video:description><![CDATA[Napisanie Agenta audytującego Stacje Robocze. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1922/eaff05e2-16f3-4123-8773-99f5c7171922/napisanie_mid.mp4</video:content_loc>
+        <video:duration>216</video:duration>
+        <video:publication_date>2015-12-14T15:22:22.1844369+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/04-Przygotowanie-do-uycia-Visual-Studio-Community-Edition</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9d9e/5072b9e7-421c-4ce0-8684-fc14af249d9e/przygotowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04| Przygotowanie do uycia Visual Studio Community Edition]]></video:title>
+        <video:description><![CDATA[Instalacja Visual Studio i przygotowanie środowiska do napisania Agenta audytującego Stacje Robocze. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9d9e/5072b9e7-421c-4ce0-8684-fc14af249d9e/przygotowanie_mid.mp4</video:content_loc>
+        <video:duration>222</video:duration>
+        <video:publication_date>2015-12-14T15:22:05.9638010+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/03-Instalacja-Metasploit</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/497a/e33fcfe1-661a-4879-bc06-68626fe1497a/instalacja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Instalacja Metasploit]]></video:title>
+        <video:description><![CDATA[Instalacja narzędzia hackerskiego – Metasploit, wykorzystanego do audytowania Stacji Roboczych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/497a/e33fcfe1-661a-4879-bc06-68626fe1497a/instalacja_mid.mp4</video:content_loc>
+        <video:duration>633</video:duration>
+        <video:publication_date>2015-12-14T15:21:53.3354920+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/02-Przygotowanie-rodowiska-w-Microsoft-Azure</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5591/010da2b0-beb7-4f56-84b4-4d5b40a75591/przygotowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Przygotowanie rodowiska w Microsoft Azure]]></video:title>
+        <video:description><![CDATA[Przygotowanie maszyny wirtualnej w Microsoft Azure, kt&#243;ra będzie odpowiadała za audytowanie stacji roboczych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5591/010da2b0-beb7-4f56-84b4-4d5b40a75591/przygotowanie_mid.mp4</video:content_loc>
+        <video:duration>549</video:duration>
+        <video:publication_date>2015-12-14T15:21:42.3528300+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wykorzystanie-narzdzi-hackerskich-do-audytu-rodowiska-informatycznego/01-Wprowadzenie</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0425/ca540269-951b-406c-aa78-fe5196a40425/wprowadzenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Wprowadzenie]]></video:title>
+        <video:description><![CDATA[Om&#243;wienie sposobu osiągniecia celu I zastosowanych narzędzi do Audytowania Stacji Roboczych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0425/ca540269-951b-406c-aa78-fe5196a40425/wprowadzenie_mid.mp4</video:content_loc>
+        <video:duration>444</video:duration>
+        <video:publication_date>2015-12-14T15:21:24.4574065+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

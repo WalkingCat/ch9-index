@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/08--Virtual-Machine-networking-concepts</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d9ef/7bd846ed-bf7b-4e7d-b5bb-4a5d6878d9ef/08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 | Virtual Machine networking concepts]]></video:title>
+        <video:description><![CDATA[Virtual Machines are good in isolation, but they&#39;re even better when they work together. Azure&#39;s virtual network service allows you to both bring multiple machines together, as well as to connect them&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d9ef/7bd846ed-bf7b-4e7d-b5bb-4a5d6878d9ef/08_mid.mp4</video:content_loc>
+        <video:duration>3751</video:duration>
+        <video:publication_date>2015-12-21T13:13:56.9569514+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/07--Managing-Linux-VM-in-Azure-part-4-Cerebrata-Tools</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53ea/10e3adc4-88e2-498c-8aae-c01db71553ea/07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 | Managing Linux VM in Azure part 4: Cerebrata Tools]]></video:title>
+        <video:description><![CDATA[In this module you&#39;ll see how to manage Azure with 3rd party tools such as Cerebrata, Azure Explorer, Azure PowerShell and Azure Management Studio. All of these tools allow to work with Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53ea/10e3adc4-88e2-498c-8aae-c01db71553ea/07_mid.mp4</video:content_loc>
+        <video:duration>2154</video:duration>
+        <video:publication_date>2015-12-21T13:13:54.5662355+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/06--Managing-Linux-VM-in-Azure-part-3-Azure-Command-Line-interface</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/be51/c019c768-4618-455d-8459-bea896c8be51/06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 | Managing Linux VM in Azure part 3: Azure Command Line interface]]></video:title>
+        <video:description><![CDATA[This module shows basic principles how to work with command-line utilities for Azure. You&#39;ll learn how you can set up a command line utilities and how to connect them to your Azure subscription. Also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/be51/c019c768-4618-455d-8459-bea896c8be51/06_mid.mp4</video:content_loc>
+        <video:duration>2670</video:duration>
+        <video:publication_date>2015-12-21T13:13:52.8959050+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/05--Managing-Linux-VM-in-Azure-part-2-Azure-Powershell</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05cb/0e167971-cab1-4d36-8e82-5f24fde905cb/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Managing Linux VM in Azure part 2: Azure Powershell]]></video:title>
+        <video:description><![CDATA[This module describes PowerShell commands for managing Azure. In the module you&#39;ll learn how to set up PowerShell commands for managing Azure and how to connect them to your Azure subscription. You&#39;ll&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05cb/0e167971-cab1-4d36-8e82-5f24fde905cb/05_mid.mp4</video:content_loc>
+        <video:duration>3441</video:duration>
+        <video:publication_date>2015-12-21T13:13:51.8465980+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/04--Managing-Linux-VM-in-Azure-part-1-Azure-Management-Portal</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0851/b9604fed-5186-405f-9b31-fbac19e70851/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Managing Linux VM in Azure part 1: Azure Management Portal]]></video:title>
+        <video:description><![CDATA[This module discusses the basic principles of working with Azure Management Portal. The Azure Management Portal is a web application therefore you can use it from virtually any device. The main&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0851/b9604fed-5186-405f-9b31-fbac19e70851/04_mid.mp4</video:content_loc>
+        <video:duration>1822</video:duration>
+        <video:publication_date>2015-12-21T13:13:49.9740734+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/03--Working-with-Azure-Storage</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/749d/251af1eb-b3d3-4c8f-95b8-5ab1e1db749d/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Working with Azure Storage]]></video:title>
+        <video:description><![CDATA[One of the services that tightly integrates with Virtual Machines is Azure Storage. The storage service provides you with an accessible way of storing your data in persistent drives - either&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/749d/251af1eb-b3d3-4c8f-95b8-5ab1e1db749d/03_mid.mp4</video:content_loc>
+        <video:duration>4781</video:duration>
+        <video:publication_date>2015-12-21T13:13:48.9399507+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/02--Virtual-Machine-Infrastructure-Concepts</loc>
+      <lastmod>2019-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f02/89bf47be-17c3-422a-ab57-c6dc391f5f02/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Virtual Machine Infrastructure Concepts]]></video:title>
+        <video:description><![CDATA[Now that we went through the basics of virtual machine creation and management, the next step is to understand the main concepts related to it. The topics covered include ephemeral and reserved public&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f02/89bf47be-17c3-422a-ab57-c6dc391f5f02/02_mid.mp4</video:content_loc>
+        <video:duration>2749</video:duration>
+        <video:publication_date>2015-12-21T13:13:47.2506380+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Running-Linux-in-Microsoft-Azure/01--Linux-in-Azure--overview</loc>
+      <lastmod>2021-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0dfd/243db7f8-13f0-41ac-9eba-d72761f30dfd/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Linux in Azure  overview]]></video:title>
+        <video:description><![CDATA[In the first module, we&#39;re going to take a look at the Virtual Machines service in Azure and how you can quickly provision a Linux instance running your favorite distribution on it. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0dfd/243db7f8-13f0-41ac-9eba-d72761f30dfd/01_mid.mp4</video:content_loc>
+        <video:duration>2737</video:duration>
+        <video:publication_date>2015-12-21T13:13:44.3131846+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

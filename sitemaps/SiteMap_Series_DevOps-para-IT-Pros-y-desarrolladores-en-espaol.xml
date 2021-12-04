@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-para-IT-Pros-y-desarrolladores-en-espaol</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-para-IT-Pros-y-desarrolladores-en-espaol/Captulo-3-Implementacin-de-DevOps</loc>
+      <lastmod>2018-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea2e/1328d71e-d4e7-4d72-aa2d-adcc65f4ea2e/Cap3DevOps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cap&#237;tulo 3: Implementaci&#243;n de DevOps]]></video:title>
+        <video:description><![CDATA[En el tercer y &#250;ltimo cap&#237;tulo de esta serie, Alex Campos y Ra&#250;l Guerrero te mostrar&#225;n paso a paso c&#243;mo implementar en el backend ya configurado previamente todo tu proyecto en base a las mejores&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea2e/1328d71e-d4e7-4d72-aa2d-adcc65f4ea2e/Cap3DevOps_mid.mp4</video:content_loc>
+        <video:duration>2669</video:duration>
+        <video:publication_date>2015-12-01T18:10:45.1945188+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-para-IT-Pros-y-desarrolladores-en-espaol/Captulo-2-Diseo-del-modelo-operacional</loc>
+      <lastmod>2017-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d78c/8ecb5ada-1c4b-4009-b14f-9f68d36fd78c/Cap2Devops_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cap&#237;tulo 2: Dise&#241;o del modelo operacional]]></video:title>
+        <video:description><![CDATA[En el segundo cap&#237;tulo de esta serie, podr&#225;s ver a Ra&#250;l Guerrero y Alex Campos hablando acerca de c&#243;mo implementar la infraestructura requerida para poder implementar las pr&#225;cticas de DevOps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d78c/8ecb5ada-1c4b-4009-b14f-9f68d36fd78c/Cap2Devops_mid.mp4</video:content_loc>
+        <video:duration>2938</video:duration>
+        <video:publication_date>2015-12-01T16:39:58.9338677+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DevOps-para-IT-Pros-y-desarrolladores-en-espaol/Captulo-1-Introduccin-a-DevOps</loc>
+      <lastmod>2018-10-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4b5/3c7d7a8b-3692-4db6-8e46-27b27fa9b4b5/Cap1Devops_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cap&#237;tulo 1: Introducci&#243;n a DevOps]]></video:title>
+        <video:description><![CDATA[En este cap&#237;tulo Alex Campos y Omar Aviles te explicar&#225;n los conceptos b&#225;sicos y la definici&#243;n de qu&#233; es DevOps. C&#243;mo solventar los problemas que se presentan en los proyectos y poder tener entregas&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4b5/3c7d7a8b-3692-4db6-8e46-27b27fa9b4b5/Cap1Devops_mid.mp4</video:content_loc>
+        <video:duration>2485</video:duration>
+        <video:publication_date>2015-12-01T16:39:42.9618028+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

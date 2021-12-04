@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb/Modo-compatibilidad-de-IE8</loc>
+      <lastmod>2016-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/4/7/8/5/4/IE8Compatibilidad_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Modo compatibilidad de IE8]]></video:title>
+        <video:description><![CDATA[Por defecto Internet Explorer 8 interpretar&#225; las p&#225;ginas de acuerdo a los est&#225;ndares. La implementaci&#243;n que se hace de los est&#225;ndares es mucho m&#225;s avanzada de lo que se hac&#237;a con IE7, de modo que si&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/4/7/8/5/4/IE8Compatibilidad_ch9.mp4</video:content_loc>
+        <video:duration>588</video:duration>
+        <video:publication_date>2009-02-26T15:29:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb/IE8-con-herramientas-de-desarrollo-integradas</loc>
+      <lastmod>2017-11-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/6/4/6/5/4/IE8DevTools_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[IE8 con herramientas de desarrollo integradas]]></video:title>
+        <video:description><![CDATA[Eres desarrollador web?  En Internet Explorer 8 encontrar&#225;s una suite de herramientas orientadas a facilitar el desarrollo web en cliente, as&#237; como para dar los &#250;ltimos retoques de dise&#241;o a un sitio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/6/4/6/5/4/IE8DevTools_ch9.mp4</video:content_loc>
+        <video:duration>739</video:duration>
+        <video:publication_date>2009-02-23T12:27:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb/Depuracin-HTTP-con-Fiddler</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/6/4/6/5/4/IntroFiddler_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Depuraci&#243;n HTTP con Fiddler]]></video:title>
+        <video:description><![CDATA[Una herramienta vital para desarrolladores web, la funcionalidad b&#225;sica muestra el intercambio de datos entre el navegador y la aplicaci&#243;n web.
+
+Vemos las cabeceras, las cookies, los datos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/6/4/6/5/4/IntroFiddler_ch9.mp4</video:content_loc>
+        <video:duration>561</video:duration>
+        <video:publication_date>2009-02-23T12:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb/Generacion-de-mantenimientos-de-BBDD</loc>
+      <lastmod>2017-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/2/6/9/4/4/ASPNETDynamicData_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Generacion de mantenimientos de BBDD]]></video:title>
+        <video:description><![CDATA[ASP.NET Dynamic Data te permite crear sitios web a partir de una fuente de datos. En este screencast veremos la creaci&#243;n b&#225;sica de un sitio a partir de una Base de Datos y c&#243;mo podemos personalizarlo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/2/6/9/4/4/ASPNETDynamicData_ch9.mp4</video:content_loc>
+        <video:duration>1413</video:duration>
+        <video:publication_date>2009-01-07T14:38:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb/Trabajando-con-HTTP-GET-y-HTTP-POST</loc>
+      <lastmod>2016-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/2/6/9/4/4/GETPOST_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Trabajando con HTTP GET y HTTP POST]]></video:title>
+        <video:description><![CDATA[ASP.NET Web Forms encapsula muchas de las t&#233;cnicas tradicionales de desarrollo web. Enviar datos de un formulario a otro, trabajar sin eventos...
+
+En este screencast veremos cu&#225;l es la diferencia&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/2/6/9/4/4/GETPOST_ch9.mp4</video:content_loc>
+        <video:duration>849</video:duration>
+        <video:publication_date>2008-12-26T10:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/davidsb/Como-no-bloquear-el-Interfaz-de-Usuario</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/2/6/9/4/4/UIThread_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Como no bloquear el Interfaz de Usuario]]></video:title>
+        <video:description><![CDATA[Al desarrollar una aplicaci&#243;n de escritorio, algunas veces la interfaz se queda bloqueada esperando a que se ejecute una operaci&#243;n.
+
+Veremos t&#233;cnicas para hacer que los trabajos pesados se ejecuten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/2/6/9/4/4/UIThread_ch9.mp4</video:content_loc>
+        <video:duration>1062</video:duration>
+        <video:publication_date>2008-12-23T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/Robots-and-BizTalk-Services</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/84d8/59b983ba-9d52-4902-924a-be0ce81b84d8/Robots-and-BizTalk-Services_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Robots and BizTalk Services]]></video:title>
+        <video:description><![CDATA[
+The Identity Provider in BizTalk Services (http://biztalk.net) is pretty darn cool. In general, it makes it easy to delegate identity and access control to a hosted service.
+ In a more general&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/84d8/59b983ba-9d52-4902-924a-be0ce81b84d8/Robots-and-BizTalk-Services_mid.mp4</video:content_loc>
+        <video:duration>446</video:duration>
+        <video:publication_date>2008-02-28T18:48:52.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/BizTalk-Services-SDK-Echo-Sample</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ed7/86b6d0f6-9501-4cf6-b615-3973fb193ed7/BizTalk-Services-SDK-Echo-Sample_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BizTalk Services SDK Echo Sample]]></video:title>
+        <video:description><![CDATA[This screencast walks through the Echo Sample in the BizTalk Services SDK (R9). In a nutshell, the Echo Sample highlights how BizTalk Services makes it easy to expose services that are behind a NAT or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ed7/86b6d0f6-9501-4cf6-b615-3973fb193ed7/BizTalk-Services-SDK-Echo-Sample_mid.mp4</video:content_loc>
+        <video:duration>490</video:duration>
+        <video:publication_date>2007-11-27T23:53:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/Programming-JSON-with-WCF-in-NET-Framework-35</loc>
+      <lastmod>2018-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36ed/cc3076b1-d784-4406-b35d-5063642336ed/Programming-JSON-with-WCF-in-NET-Framework-35_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Programming JSON with WCF in .NET Framework 3.5]]></video:title>
+        <video:description><![CDATA[Technical Evangelist Matt Winkler meets up with Eugene Osovetsky and Ghenadie Plingau, a PM and developer, from the WCF team to talk about returning JSON from a WCF service. JSON (JavaScript Object&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36ed/cc3076b1-d784-4406-b35d-5063642336ed/Programming-JSON-with-WCF-in-NET-Framework-35_mid.mp4</video:content_loc>
+        <video:duration>1205</video:duration>
+        <video:publication_date>2007-08-21T00:28:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/WF-and-WCF-integration-in-NET-35</loc>
+      <lastmod>2013-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c297/af6f173b-74ff-48e1-a214-6bf30e33c297/WF-and-WCF-integration-in-NET-35_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WF and WCF integration in .NET 3.5]]></video:title>
+        <video:description><![CDATA[The technical evangelist for Windows Workflow Foundation, Matt Winkler, took some time to interview the team that worked to create the Workflow Services functionality inside of .NET 3.5.  Workflow&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c297/af6f173b-74ff-48e1-a214-6bf30e33c297/WF-and-WCF-integration-in-NET-35_mid.mp4</video:content_loc>
+        <video:duration>2344</video:duration>
+        <video:publication_date>2007-08-20T23:40:17.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/A-lap-around-Picture-Services</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f39/f8d570e1-8478-4ae7-ae84-83d551bc9f39/A-lap-around-Picture-Services_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A lap around Picture Services]]></video:title>
+        <video:description><![CDATA[Picture Services is a code sample that highlights the REST and syndication capabilities of WCF in the .NET Framework 3.5. In a nutshell, the projects in this code sample show how to syndicate pictures&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f39/f8d570e1-8478-4ae7-ae84-83d551bc9f39/A-lap-around-Picture-Services_mid.mp4</video:content_loc>
+        <video:duration>1235</video:duration>
+        <video:publication_date>2007-08-17T05:19:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/WCF-101-Demo-a-la-Notepad</loc>
+      <lastmod>2010-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The+EndPoint/Service-Oriented-Thinking</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

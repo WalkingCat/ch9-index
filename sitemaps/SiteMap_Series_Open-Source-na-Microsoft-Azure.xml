@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-na-Microsoft-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-na-Microsoft-Azure/03--Maszyny-wirtualne-z-Linux-rozszerzenia-VM-extensions</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/463e/9ecb8e44-e1b8-42d7-b23c-58c1bd4a463e/03OpenSource_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Maszyny wirtualne z Linux - rozszerzenia (VM extensions)]]></video:title>
+        <video:description><![CDATA[W module 3 dowiesz się, czym są i do czego służą rozszerzenia (VM extensions), kt&#243;re są dostępne w ramach technologii Microsoft Azure a dotyczą między innymi zarządzania maszynami wirtualnymi. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/463e/9ecb8e44-e1b8-42d7-b23c-58c1bd4a463e/03OpenSource_mid.mp4</video:content_loc>
+        <video:duration>359</video:duration>
+        <video:publication_date>2015-02-20T13:47:28.7683146+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-na-Microsoft-Azure/02--Uruchamianie-maszyny-wirtualnej-z-systemem-operacyjnym-Linux</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b370/f29016f8-98f3-4ba7-b32d-3dcc23f0b370/02OpenSource_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Uruchamianie maszyny wirtualnej z systemem operacyjnym Linux]]></video:title>
+        <video:description><![CDATA[W module 2 dowiesz się jak stworzyć i uruchomić maszynę wirtualną z systemem operacyjnym Linux, wykorzystując środowisko Microsoft Azure. Dowiesz się r&#243;wnież, jakie dystrybucje Linux`a są bezpośrednio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b370/f29016f8-98f3-4ba7-b32d-3dcc23f0b370/02OpenSource_mid.mp4</video:content_loc>
+        <video:duration>658</video:duration>
+        <video:publication_date>2015-02-20T13:47:25.8457001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Open-Source-na-Microsoft-Azure/01--Open-Source-na-Microsoft-Azure</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30d3/6f2cace7-a2f2-476d-8602-58f9351430d3/01OpenSource_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Open Source na Microsoft Azure]]></video:title>
+        <video:description><![CDATA[W module 1 dowiesz się, jakie produkty i technologie &amp;quot;open source&amp;quot;, są dostępne w ramach chmury publicznej Microsoft, ze szczeg&#243;lnym uwzględnieniem baz oraz system&#243;w operacyjnych&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30d3/6f2cace7-a2f2-476d-8602-58f9351430d3/01OpenSource_mid.mp4</video:content_loc>
+        <video:duration>359</video:duration>
+        <video:publication_date>2015-02-20T13:47:23.3868174+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

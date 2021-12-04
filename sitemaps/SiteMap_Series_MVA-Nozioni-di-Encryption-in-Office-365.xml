@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Nozioni-di-Encryption-in-Office-365</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Nozioni-di-Encryption-in-Office-365/4-SMIME</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c4a5/3439186b-b330-4868-9c63-3fe4c822c4a5/04mime_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 - S/MIME ]]></video:title>
+        <video:description><![CDATA[Esamina S/MIME, un metodo di crittografia basato su uno standard collaudato ed utilizzato da molte organizzazioni governative, universit&#224; ma non solo. L&#39;adozione di S/MIME richiede un processo di&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c4a5/3439186b-b330-4868-9c63-3fe4c822c4a5/04mime_mid.mp4</video:content_loc>
+        <video:duration>331</video:duration>
+        <video:publication_date>2015-10-22T15:11:38.3394989+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Nozioni-di-Encryption-in-Office-365/3-Office-365-Message-Encryption</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/700b/917a3c65-33b7-4cea-ad16-7172bf50700b/03messencryption_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 - Office 365 Message Encryption ]]></video:title>
+        <video:description><![CDATA[Per saperne di pi&#249; su Office 365 Message Encryption (specialmente nel modello B2C), che pu&#242; essere utilizzata per crittografare i messaggi e contenuti inviati a qualsiasi indirizzo di posta&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/700b/917a3c65-33b7-4cea-ad16-7172bf50700b/03messencryption_mid.mp4</video:content_loc>
+        <video:duration>712</video:duration>
+        <video:publication_date>2015-10-22T15:09:49.6180804+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Nozioni-di-Encryption-in-Office-365/2-Information-Rights-Management</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e5a1/49427b46-4b4c-4b3e-9b4b-868f1320e5a1/02IRM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 - Information Rights Management ]]></video:title>
+        <video:description><![CDATA[Acquisisci i dettagli sull&#39; Information Rights Management, che cripta il contenuto e ne limita l&#39;utilizzo agli utenti all&#39;interno delle proprie organizzazioni o a partner con relazioni di fiducia.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5a1/49427b46-4b4c-4b3e-9b4b-868f1320e5a1/02IRM_mid.mp4</video:content_loc>
+        <video:duration>389</video:duration>
+        <video:publication_date>2015-10-22T14:41:12.0115041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Nozioni-di-Encryption-in-Office-365/1-Introduzione-alla-cifratura-in-Office-365</loc>
+      <lastmod>2015-10-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ad6d/a247abe1-49e3-4fab-80d2-26e95a99ad6d/01Cifratura_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 - Introduzione alla cifratura in Office 365]]></video:title>
+        <video:description><![CDATA[Esamina le diverse possibilit&#224; di cifratura, utili a proteggere i dati sensibili dei clienti memorizzati in Office 365, e introduce alle metodologie di crittografia utilizzate per proteggere i dati&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ad6d/a247abe1-49e3-4fab-80d2-26e95a99ad6d/01Cifratura_mid.mp4</video:content_loc>
+        <video:duration>454</video:duration>
+        <video:publication_date>2015-10-22T14:41:02.3852970+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

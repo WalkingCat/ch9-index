@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Adding-events-to-childVuecomponents-16-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5831/1a68cf8d-f33f-48d7-a0ae-e956262b5831/AddingEventsToChildVueComponentsBeginnersSeriesTo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding events to child&#160;Vue&#160;components [16 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[While props allow you to send information into a child component, events allow you to pass data back up. Vue allows you to add custom events to a component, making it completely modular. This video&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/08ea/bf3a86dd-14af-414c-97eb-91c3606f08ea/AddingEventsToChildVueComponentsBeginnersSeriesTo_mid.mp4</video:content_loc>
+        <video:duration>244</video:duration>
+        <video:publication_date>2021-06-30T13:00:16.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/CreatingchildVuecomponents15-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9132/d96cf1cc-e0e5-4c7c-a1a1-ddcf58359132/CreatingChildVueComponentsBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating&#160;child&#160;Vue&#160;components&#160;[15 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[Components are used in Vue to create reusable modules. You can then use these modules as building blocks for your larger application. Components support props, which allow you to pass information&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/0155/54844308-6de0-40f3-b7ac-5a0d7f0d0155/CreatingChildVueComponentsBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>242</video:duration>
+        <video:publication_date>2021-06-30T13:00:15.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Creating-your-first-Vuesingle-filecomponent-14-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4173/0308505e-fc0c-48ef-bfcc-f31c0e204173/CreatingYourFirstVueSingleFileComponentBeginnersS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating your first Vue&#160;single file&#160;component [14 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[ A Vue single file component (SFC) contains the JavaScript, HTML and CSS needed to render and provide functionality for the user. You repurpose use all the same skills you would use if creating a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/af4e/57d10e0d-db0d-490c-8a97-567c4c65af4e/CreatingYourFirstVueSingleFileComponentBeginnersS_mid.mp4</video:content_loc>
+        <video:duration>200</video:duration>
+        <video:publication_date>2021-06-30T13:00:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/ExploringtheVue-starterproject13-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/36b7/9063eb59-93ee-408e-8d83-317a3da136b7/ExploringTheVueStarterProjectBeginnersSeriesToVue_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exploring&#160;the&#160;Vue starter&#160;project&#160;[13 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[The Vue CLI&#39;s create command will generate a starter application for you. As with any bootstrapping utility, you will have a series of files automatically created for you. This video will walk you&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6a7d/6df4decd-0ec4-4931-8053-5a2ec4766a7d/ExploringTheVueStarterProjectBeginnersSeriesToVue_mid.mp4</video:content_loc>
+        <video:duration>188</video:duration>
+        <video:publication_date>2021-06-30T13:00:13.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Introduction-to-components-andthe-Vue-CLI-12-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d2d9/1af04048-568c-4707-8539-5d3238efd2d9/IntroductionToComponentsAndTheVueCLIBeginnersSeri_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to components and&#160;the Vue CLI [12 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[As your Vue applications grow larger it can become tricky to manage everything by solely using JavaScript files. To help support reuse and modularity, Vue supports single file components or SFCs. SFCs&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3ebe/a530df98-f3b6-4b17-84fb-c5f871993ebe/IntroductionToComponentsAndTheVueCLIBeginnersSeri_mid.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2021-06-30T13:00:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Vue-computedvalues-11-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/51bf/c67d4921-cdb5-4d9f-9449-41f923a151bf/VueComputedValuesBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Vue computed&#160;values [11 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[A computed value usually consists of more than one field. The idea is to present a computation, a collection of fields that together form a specific meaning like the sum of a calculation or maybe&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7246/a8856b7a-7152-4a96-b9a5-c90b7f257246/VueComputedValuesBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>254</video:duration>
+        <video:publication_date>2021-06-30T13:00:11.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Validating-forms-in-Vue-10-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a888/7e2de687-6371-4fba-a004-567aaee4a888/ValidatingFormsInVueBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Validating forms in Vue [10 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[When you build your form, to collect information, you need to ensure the information is correct before sending it to be stored. To do this, you annotate the elements with various attributes with&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f56f/eb4a1f83-428d-422d-8d73-6359d613f56f/ValidatingFormsInVueBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>549</video:duration>
+        <video:publication_date>2021-06-30T13:00:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Managing-forms-withVue-9-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/62cd/2e52b2c8-61b6-495b-8a18-865188b262cd/ManagingFormsWithVueBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing forms with&#160;Vue [9 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[When you are looking to save a lot of information that go together, you use something called a form. To send all the information at once, you need a submit button. We&#39;ll see how we can create a form&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a455/11b3fbab-5600-44ed-854c-7cbebcaea455/ManagingFormsWithVueBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>486</video:duration>
+        <video:publication_date>2021-06-30T13:00:09.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Accepting-input-from-the-user-withVue-8-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ac4d/0f3c0b9c-5109-4455-a480-67736184ac4d/AcceptingInputFromTheUserWithVueBeginnersSeriesTo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Accepting input from the user with&#160;Vue [8 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[Collecting input from a user is a very important part of building an app. In HTML, you use input elements to do so. We&#39;ll show how to use the v-model directive to create a so-called double binding.&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2f64/16553761-4dcb-458d-b66b-ea8b51e12f64/AcceptingInputFromTheUserWithVueBeginnersSeriesTo_mid.mp4</video:content_loc>
+        <video:duration>392</video:duration>
+        <video:publication_date>2021-06-30T13:00:08.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Managing-events-in-Vue-7-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d0c5/dbd51754-4331-4104-aefd-e3b2a813d0c5/ManagingEventsInVueBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing events in Vue [7 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[There are many different events, mouse clicks, keyboard presses, scroll events and so on. Capturing these events means we are responding to user input and are able to change the application&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e701/2e1c3deb-fdb7-49da-a92b-aefbd43be701/ManagingEventsInVueBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>493</video:duration>
+        <video:publication_date>2021-06-30T13:00:07.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Looping-through-data-in-a-Vue-page6-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ff3a/91e21fb6-2d89-43d4-92c6-4cc7785aff3a/LoopingThroughDataInAVuePageBeginnersSeriesToVuej_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Looping through data in a Vue page&#160;[6 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[When you&#39;re working with a collection of data such as an array, you may need to display the items in a list or other format. With Vue you can add for loops to your page to display the contents of an&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b9ee/2935fb7a-693e-4ca8-8385-5397febdb9ee/LoopingThroughDataInAVuePageBeginnersSeriesToVuej_mid.mp4</video:content_loc>
+        <video:duration>280</video:duration>
+        <video:publication_date>2021-06-30T13:00:06.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Adding-Boolean-logic-to-a-Vue-page-5-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0fbb/15f64607-cb45-44c9-abd3-bbd5adfd0fbb/AddingBooleanLogicToAVuePageBeginnersSeriesToVuej_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding Boolean logic to a Vue page [5 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[Whenever you&#39;re working with a dynamic application you&#39;ll need the ability to work with Boolean logic. Vue allows you to add logic to your page by using a couple of special attributes to add classic&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/64e6/d3abe57b-b7c6-40ed-bf14-5ae9e7fa64e6/AddingBooleanLogicToAVuePageBeginnersSeriesToVuej_mid.mp4</video:content_loc>
+        <video:duration>315</video:duration>
+        <video:publication_date>2021-06-30T13:00:05.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Setting-style-dynamically-with-Vue-4-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5cf2/ccc8c09b-9a30-45b7-a938-1eefe38e5cf2/SettingStyleDynamicallyWithVueBeginnersSeriesToVu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Setting style dynamically with Vue [4 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[One of the most common ways to set display dynamically in any web application is by adding or removing CSS classes. In fact, it&#39;s so common Vue.js has a special syntax to bind to the class attribute&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b5ec/77faf453-a51c-4757-a9e7-e04980c4b5ec/SettingStyleDynamicallyWithVueBeginnersSeriesToVu_mid.mp4</video:content_loc>
+        <video:duration>243</video:duration>
+        <video:publication_date>2021-06-30T13:00:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Binding-data-to-attributes-in-Vue-3-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/da88/b03fcc3b-6b3e-410e-ba8f-a2584987da88/BindingDataToAttributesInVueBeginnersSeriesToVuej_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Binding data to attributes in Vue [3 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[Many HTML tags are configured via attributes - images have an src attribute, links have an href attribute, etc. Because we may need to set these dynamically when using a framework, Vue.js provides&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/331d/0b8f0993-97a1-483f-a65b-16a9ebac331d/BindingDataToAttributesInVueBeginnersSeriesToVuej_mid.mp4</video:content_loc>
+        <video:duration>231</video:duration>
+        <video:publication_date>2021-06-30T13:00:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Creating-a-Vue-application-2-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/504d/4c9a2a57-f09d-41bb-8dc8-461132c4504d/CreatingAVueApplicationBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a Vue application [2 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[The fastest way to add Vue to an application is to import the library via a content delivery network (CDN), as you would many JavaScript libraries. By adding in the script tag to load JavaScript, you&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e009/59ff7789-38c7-497e-adac-a7d2a462e009/CreatingAVueApplicationBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>478</video:duration>
+        <video:publication_date>2021-06-30T13:00:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs/Getting-started-with-Vue-1-of-16--Beginners-Series-to-Vuejs</loc>
+      <lastmod>2021-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d3a3/866b86ef-b57e-43b1-adb5-575676bed3a3/GettingStartedWithVueBeginnersSeriesToVuejs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with Vue [1 of 16] | Beginner&#39;s Series to: Vue.js]]></video:title>
+        <video:description><![CDATA[Vue has quickly become one of the most popular front-end JavaScript frameworks. Because of its progressive design, you can start adding Vue.js to your existing applications or start creating new ones&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c203/a2e2302b-2bc1-41e6-a5dd-56e6011dc203/GettingStartedWithVueBeginnersSeriesToVuejs_mid.mp4</video:content_loc>
+        <video:duration>187</video:duration>
+        <video:publication_date>2021-06-30T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

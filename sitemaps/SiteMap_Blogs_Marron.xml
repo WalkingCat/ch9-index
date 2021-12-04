@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Marron</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/Marron/Time-Travel-Debugging-for-JavaScriptHTML</loc>
+      <lastmod>2015-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f484/ae5049fe-fc5d-42d6-b8c2-be3d64fbf484/TimeTravelDebugger_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Time-Travel Debugging for JavaScript/HTML Applications]]></video:title>
+        <video:description><![CDATA[Have you ever set a breakpoint a few statements too late, or accidentally stepped over the function call that you wanted to step into, and wished that you could just reverse-execute the program in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f484/ae5049fe-fc5d-42d6-b8c2-be3d64fbf484/TimeTravelDebugger_mid.mp4</video:content_loc>
+        <video:duration>1168</video:duration>
+        <video:publication_date>2015-05-13T16:43:10.2681869+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

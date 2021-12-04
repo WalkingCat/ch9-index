@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/20-Podsumowanie</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/948e/0f4d1d97-30cc-4e61-bd89-d839e5df948e/20podsumowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[20  Podsumowanie]]></video:title>
+        <video:description><![CDATA[Podsumowanie całego cyklu. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/948e/0f4d1d97-30cc-4e61-bd89-d839e5df948e/20podsumowanie_mid.mp4</video:content_loc>
+        <video:duration>296</video:duration>
+        <video:publication_date>2016-02-26T10:09:04.5773269+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/19-Rozszerzenia-do-VSTS</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c432/34a6e44e-0708-4a38-8daf-843c748bc432/19rozszerzanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[19  Rozszerzenia do VSTS]]></video:title>
+        <video:description><![CDATA[Przegląd wybranych rozszerzeń do platformy VSTS – Estimate, TFS Timetracker oraz Work Item Visualisation. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c432/34a6e44e-0708-4a38-8daf-843c748bc432/19rozszerzanie_mid.mp4</video:content_loc>
+        <video:duration>705</video:duration>
+        <video:publication_date>2016-02-26T10:09:01.7335642+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/18-Raportowanie-z-VSTS</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed9b/127aa2b1-d75c-4493-9988-7490c962ed9b/18raortowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[18 Raportowanie z VSTS]]></video:title>
+        <video:description><![CDATA[Jak raportować postęp prac (i historię wykonania) przy użyciu kwerend WQL, list, wykres&#243;w, Excela i Power BI. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed9b/127aa2b1-d75c-4493-9988-7490c962ed9b/18raortowanie_mid.mp4</video:content_loc>
+        <video:duration>324</video:duration>
+        <video:publication_date>2016-02-26T10:08:15.6603689+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/17-Integracja-VSTS-z-zewntrznymi-narzdziami-jak-Slack</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/21f5/3db61846-9e1e-458e-8c5e-4b888f0621f5/17integracja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[17 Integracja VSTS z zewntrznymi narzdziami (jak Slack)]]></video:title>
+        <video:description><![CDATA[Sprawdź w jaki spos&#243;b używając WebHooks (Service Hooks) można integrować VSTS z innymi platformami / narzędziami. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/21f5/3db61846-9e1e-458e-8c5e-4b888f0621f5/17integracja_mid.mp4</video:content_loc>
+        <video:duration>422</video:duration>
+        <video:publication_date>2016-02-26T10:05:59.6176806+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/16-Demo-obsuga-bdu-Bug-w-procesie</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a42a/41979264-eac9-4366-9d84-f5f233b6a42a/16demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[16 Demo: obsuga bdu (Bug) w procesie]]></video:title>
+        <video:description><![CDATA[Sprawdź czym jest Bug, jak sobie poradzić z punktu widzenia procesu w VSTS oraz związki Task – Bug. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a42a/41979264-eac9-4366-9d84-f5f233b6a42a/16demo_mid.mp4</video:content_loc>
+        <video:duration>364</video:duration>
+        <video:publication_date>2016-02-26T10:05:52.1472906+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/15-Demo-Gazie-per-cecha-backlog-item-i-czenie-gazi</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b6a9/2f333c59-1643-43fc-bda7-a2c90b56b6a9/15demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[15 Demo: Gazie per cecha (backlog item) i czenie gazi]]></video:title>
+        <video:description><![CDATA[Dowiedz się więcej o tworzeniu zespołowych gałęzi per cecha (feature), pracy z gałęziami, merge (łączenie) gałęzi, pracy na prywatnej (lokalnej) gałęzi. &amp;quot;Brzydkie&amp;quot; – ale czasami niezbędne –&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6a9/2f333c59-1643-43fc-bda7-a2c90b56b6a9/15demo_mid.mp4</video:content_loc>
+        <video:duration>468</video:duration>
+        <video:publication_date>2016-02-25T23:26:57.8918879+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/14-Demo-Korzystanie-z-prywatnych-lokalnych-gazi-i-pull-request-Te--forma-Code-Review</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/893f/93486af8-a86b-471b-8a3c-f326f738893f/14demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[14 Demo: Korzystanie z prywatnych (lokalnych) gazi i pull request. Te  forma Code Review]]></video:title>
+        <video:description><![CDATA[W tym module zostanie om&#243;wiona koncepcja prywatnych gałęzi, mechanizm Pull Request, jak zrobić Code Review przy Git i jak zachować porządek przy rozproszonym zespole pracującym w dużym stopniu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/893f/93486af8-a86b-471b-8a3c-f326f738893f/14demo_mid.mp4</video:content_loc>
+        <video:duration>492</video:duration>
+        <video:publication_date>2016-02-25T23:25:37.0102021+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/13-Demo-Dalsza-praca--budowa-UI-i-konflikty-ich-rozwizywanie--w-stylu-scentralizowanym</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1beb/25362a73-9265-4d3c-857d-7f6750a41beb/13demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[13 Demo: Dalsza praca  budowa UI i konflikty (ich rozwizywanie)  w stylu &quot;scentralizowanym&quot;.]]></video:title>
+        <video:description><![CDATA[W tym module dowiesz się więcej o diagramie wypalania, wielu zadaniach realizowanych r&#243;wnocześnie, zmianie kodu, rozwiązywaniu konfliktu w kodzie (3-way merge).  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1beb/25362a73-9265-4d3c-857d-7f6750a41beb/13demo_mid.mp4</video:content_loc>
+        <video:duration>754</video:duration>
+        <video:publication_date>2016-02-25T23:24:26.2547319+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/12-Demo-Struktura-projektu-praca-z-VS-i-projektem-SLN-z-Git-em</loc>
+      <lastmod>2016-02-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b70d/a207cc3e-36a8-4974-bba1-510ee226b70d/12demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[12 Demo: Struktura projektu, praca z VS i projektem (SLN) z Git-em]]></video:title>
+        <video:description><![CDATA[Dowiedz się więcej o nowych rozwiązaniach, pliki .gitignore, CodeLens w praktyce, implementacji &amp;quot;dodawania&amp;quot;, co robić, gdy zmienią nam wymagania w trakcie realizacji zadania oraz o&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b70d/a207cc3e-36a8-4974-bba1-510ee226b70d/12demo_mid.mp4</video:content_loc>
+        <video:duration>473</video:duration>
+        <video:publication_date>2016-02-25T23:23:52.2324082+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/11-Demo-Podstawy-pracy-z-repozytorium-Git-na-VSTS</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/325c/9c52bfbe-34ba-4d95-a260-f95509fc325c/opcje_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[11 Demo: Podstawy pracy z repozytorium Git na VSTS]]></video:title>
+        <video:description><![CDATA[W tym module poznasz podstawy pracy z Git, linię poleceń, Git Extension do Explorera oraz jak pracować z Visual Studio i Git.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/325c/9c52bfbe-34ba-4d95-a260-f95509fc325c/opcje_mid.mp4</video:content_loc>
+        <video:duration>774</video:duration>
+        <video:publication_date>2016-02-25T23:23:08.2827078+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/10-Opcje-przechowywania-kodu-w-VSTS--GIT-oraz-TFVC</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6aeb/af4d145c-f646-435d-8bcf-446ca26c6aeb/opcje_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[10 Opcje przechowywania kodu w VSTS  GIT oraz TFVC]]></video:title>
+        <video:description><![CDATA[Sprawdź czym r&#243;żnią się (kr&#243;tko!) r&#243;żne typy repozytori&#243;w kodu źr&#243;dłowego oraz jak założyć w VSTS r&#243;żne repozytoria dla jednego projektu. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6aeb/af4d145c-f646-435d-8bcf-446ca26c6aeb/opcje_mid.mp4</video:content_loc>
+        <video:duration>517</video:duration>
+        <video:publication_date>2016-02-25T23:21:53.3362747+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/09-Demo-dostosowywanie-szablonu-projektu</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2644/d4b39a1a-a8de-424a-9305-495df1c62644/demo9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[09  Demo: dostosowywanie szablonu projektu]]></video:title>
+        <video:description><![CDATA[W tym module zostanie om&#243;wione tworzenie nowego szablonu, dodawanie nowych p&#243;l do szablonu Scrum oraz użycie ich na formatce, karcie, oraz w kwerendzie. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2644/d4b39a1a-a8de-424a-9305-495df1c62644/demo9_mid.mp4</video:content_loc>
+        <video:duration>663</video:duration>
+        <video:publication_date>2016-02-25T23:21:05.6987786+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/08-Praca-z-projektem-niemiertelny-Excel</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42a5/a1c63e7c-d985-4931-9f70-51ead3a242a5/praca_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 Praca z projektem niemiertelny Excel]]></video:title>
+        <video:description><![CDATA[Dowiedz się jak możesz wykorzystać Excel podczas pracy z projektem.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42a5/a1c63e7c-d985-4931-9f70-51ead3a242a5/praca_mid.mp4</video:content_loc>
+        <video:duration>375</video:duration>
+        <video:publication_date>2016-02-25T23:20:26.6159749+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/07-Demo-praca-z-zadaniami-w-Visual-Studio</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1080/6dd56fb4-9b74-4588-a4b9-5e37ec981080/7demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 Demo: praca z zadaniami w Visual Studio]]></video:title>
+        <video:description><![CDATA[Zobacz jak podłączyć Visual Studio do projektu oraz jak definiować kwerendy (własne) i pracować z workitem. Co więcej sprawdź dodatkowe elementy na dashboard projektu / w oknie Team Explorer w Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1080/6dd56fb4-9b74-4588-a4b9-5e37ec981080/7demo_mid.mp4</video:content_loc>
+        <video:duration>734</video:duration>
+        <video:publication_date>2016-02-25T23:20:04.2733089+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/06-Demo-planowanie-sprint-taskw-dla-programisty</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c0e/10568700-af82-441c-ae4c-2b6be92c7c0e/6demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06  Demo: planowanie sprint (task&#243;w dla programisty)]]></video:title>
+        <video:description><![CDATA[W tym module zostanie om&#243;wione: -definiowanie czasu pracy; -zadania (taski) dla programist&#243;w; -r&#243;żne obszary aktywności; -dostosowywanie interfejsu; -r&#243;żne widoki (grupowania) w tablicy Kanban;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c0e/10568700-af82-441c-ae4c-2b6be92c7c0e/6demo_mid.mp4</video:content_loc>
+        <video:duration>727</video:duration>
+        <video:publication_date>2016-02-25T23:19:31.1616199+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/05-Demo-planowanie-pracy-Backlog-Items</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e6b/0239def4-bc12-4034-a294-428d58d79e6b/5demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Demo: planowanie pracy (Backlog Items)]]></video:title>
+        <video:description><![CDATA[ Sprawdź w jaki spos&#243;b pracować z Backlog Items (jakie są gł&#243;wne pola do wypełnienia.oraz jak dostosowywać interfejs do swoich potrzeb). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e6b/0239def4-bc12-4034-a294-428d58d79e6b/5demo_mid.mp4</video:content_loc>
+        <video:duration>1488</video:duration>
+        <video:publication_date>2016-02-25T23:19:07.0995666+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/04-Demo-konfiguracja-wstpna-projektu--sprinty-release-zesp</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f6b/04f2b958-3a55-41f4-b64b-5199874e7f6b/4demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Demo: konfiguracja wstpna projektu  sprinty, release, zesp&#243;]]></video:title>
+        <video:description><![CDATA[Dowiedz się jak skonfigurować sprinty (iteracje) oraz jak definiować obszary (Areas). Sprawdź jak dodawać podzespoły w projekcie, ustawienia bezpieczeństwa oraz alerty (dla członk&#243;w zespołu). ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f6b/04f2b958-3a55-41f4-b64b-5199874e7f6b/4demo_mid.mp4</video:content_loc>
+        <video:duration>833</video:duration>
+        <video:publication_date>2016-02-25T23:18:42.1145177+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/03-Demo-jak-zaoy-nowe-konto-i-projekt-w-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a23/aa06292c-df3b-459e-a83a-6f81a3a79a23/jakzalozyc_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Demo: jak zaoy nowe konto (i projekt) w Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Zobacz jak założyć nowe, darmowe (do 5 członk&#243;w zespołu) konto w Visual Studio Team Services (ale – z nielimitowaną liczbą/rozmiarem prywatnych repozytori&#243;w) oraz jak założyć nowy projekt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a23/aa06292c-df3b-459e-a83a-6f81a3a79a23/jakzalozyc_mid.mp4</video:content_loc>
+        <video:duration>406</video:duration>
+        <video:publication_date>2016-02-25T23:18:27.3196311+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/02-Podstawowe-pojcia-uywane-przy-opisie-pracy-gwnie-Scrum</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6590/aec3b589-0495-4bde-9018-5cc05a4f6590/podstawowe_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Podstawowe pojcia uywane przy opisie pracy (g&#243;wnie Scrum)]]></video:title>
+        <video:description><![CDATA[Zobacz w jaki spos&#243;b używając workitem opisywana i planowana jest praca. Dowiedz się jakie są relacje pomiędzy workitemami, a także czym się r&#243;żni (kr&#243;tko!) Scrum, Agile (było – MSF Agile) i CMMI. O&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6590/aec3b589-0495-4bde-9018-5cc05a4f6590/podstawowe_mid.mp4</video:content_loc>
+        <video:duration>606</video:duration>
+        <video:publication_date>2016-02-25T23:17:50.8715382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jak-zorganizowac-prace-uzywajac-Scrum-i-GIT/01-Wstep-praca-grupowa-jakosc-potrzebne-narzedzia</loc>
+      <lastmod>2016-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c677/329eb7c0-d072-421a-87d7-e9019788c677/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wstp  praca grupowa, jako, potrzebne narzdzia]]></video:title>
+        <video:description><![CDATA[W tym module dowiesz się od czego (w og&#243;lności) zależy jakość oprogramowania oraz jak wygląda proces ALM (Application Lifecycle Management) w połączeniu z DevOps – czyli jak zorganizować wsp&#243;łprace&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c677/329eb7c0-d072-421a-87d7-e9019788c677/wstep_mid.mp4</video:content_loc>
+        <video:duration>1195</video:duration>
+        <video:publication_date>2016-02-25T23:14:42.0917116+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

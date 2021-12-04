@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask/06</loc>
+      <lastmod>2017-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3456/675d3300-a306-4906-bd85-a939eaef3456/645SQLPythonFlaskM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL, Python, and Flask: (06) Introduction to Bootstrap]]></video:title>
+        <video:description><![CDATA[Designing pages for multiple types of devices can be a challenge. Wrap up the course by addressing this issue with Bootstrap, plus take a look at core classes and the grid system. [03:26] - Theme&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3456/675d3300-a306-4906-bd85-a939eaef3456/645SQLPythonFlaskM06_mid.mp4</video:content_loc>
+        <video:duration>2949</video:duration>
+        <video:publication_date>2015-03-09T17:46:04.3348397+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask/05</loc>
+      <lastmod>2017-12-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c42b/81c7791a-889e-4545-875d-8c0d5072c42b/645SQLPythonFlaskM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL, Python, and Flask: (05) Layouts Using Jinja]]></video:title>
+        <video:description><![CDATA[Since one key to a successful web application is a consistent look and feel, see how to use Jinja template engine layouts to create consistency throughout your applications. [04:55] - Why use&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c42b/81c7791a-889e-4545-875d-8c0d5072c42b/645SQLPythonFlaskM05_mid.mp4</video:content_loc>
+        <video:duration>1561</video:duration>
+        <video:publication_date>2015-03-09T17:45:52.4051510+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask/04</loc>
+      <lastmod>2019-05-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2d3/ccb7d1c9-ea68-4d65-ad95-d7d5fd59f2d3/645SQLPythonFlaskM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL, Python, and Flask: (04) Connecting to Relational Databases]]></video:title>
+        <video:description><![CDATA[After creating the back end, turn your attention to the front end and examine how to connect to the newly created database. See the code needed to connect to SQL Server, along with how to best&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2d3/ccb7d1c9-ea68-4d65-ad95-d7d5fd59f2d3/645SQLPythonFlaskM04_mid.mp4</video:content_loc>
+        <video:duration>3477</video:duration>
+        <video:publication_date>2015-03-09T17:45:40.7006202+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask/03</loc>
+      <lastmod>2017-08-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7512/f72ed47e-195e-411d-93b2-44d7dc597512/645SQLPythonFlaskM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL, Python, and Flask: (03) Introduction to Relational Databases]]></video:title>
+        <video:description><![CDATA[Explore the concept of a relational database, and see how to create and configure SQL databases. Although key-value pair databases can work for simple applications and caching, they don&#39;t offer the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7512/f72ed47e-195e-411d-93b2-44d7dc597512/645SQLPythonFlaskM03_mid.mp4</video:content_loc>
+        <video:duration>3115</video:duration>
+        <video:publication_date>2015-03-09T17:45:28.9214238+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask/02</loc>
+      <lastmod>2019-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e540/51fc7e51-0b98-497d-b432-d38f3849e540/645SQLPythonFlaskM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL, Python, and Flask: (02) Designing Python Classes]]></video:title>
+        <video:description><![CDATA[Continue to dig into classes in Python, and see how constructors allow you to ensure that your objects are set up the right way and how you can use methods and properties to introduce functionality.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e540/51fc7e51-0b98-497d-b432-d38f3849e540/645SQLPythonFlaskM02_mid.mp4</video:content_loc>
+        <video:duration>3063</video:duration>
+        <video:publication_date>2015-03-09T17:45:18.0011795+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SQL-Python-and-Flask/01</loc>
+      <lastmod>2019-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f5ff/d7fbfd7f-84f0-4c01-a9b3-c2b89982f5ff/645SQLPythonFlaskM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL, Python, and Flask: (01) Design of a Flask Application]]></video:title>
+        <video:description><![CDATA[Learn best practices for designing Flask applications, and get an introduction to the concepts of classes. One of the biggest questions someone faces when looking at Flask is how to structure code, so&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f5ff/d7fbfd7f-84f0-4c01-a9b3-c2b89982f5ff/645SQLPythonFlaskM01_mid.mp4</video:content_loc>
+        <video:duration>3177</video:duration>
+        <video:publication_date>2015-03-09T17:45:04.8182960+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

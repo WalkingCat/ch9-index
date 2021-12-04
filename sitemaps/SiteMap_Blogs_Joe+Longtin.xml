@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-Manual-Query-Rewrites-vs-Indexed-View-Matching</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/4/3/6/7/4/ManualQueryRewritesvsQueryOpt_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server Manual Query Rewrites vs. Indexed View Matching]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. 
+  
+When should you manually rewrite queries to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/4/3/6/7/4/ManualQueryRewritesvsQueryOpt_ch9.mp4</video:content_loc>
+        <video:duration>165</video:duration>
+        <video:publication_date>2009-07-01T23:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-Star-Join-Query-to-Excel-Pivot-Table</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/5/3/6/7/4/StarJoinQuerytoExcelPivotTable_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server Star Join Query to Excel Pivot Table]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key data warehousing features and functions of SQL Server. 
+  
+In this screencast, Eric uses a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/5/3/6/7/4/StarJoinQuerytoExcelPivotTable_ch9.mp4</video:content_loc>
+        <video:duration>247</video:duration>
+        <video:publication_date>2009-07-01T23:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Partition-aligned-Indexed-Views</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/3/3/6/7/4/PartitionAlignedIndexedViews_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Partition-aligned Indexed Views]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. 
+
+Speed up query performance on very large fact&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/3/3/6/7/4/PartitionAlignedIndexedViews_ch9.mp4</video:content_loc>
+        <video:duration>518</video:duration>
+        <video:publication_date>2009-07-01T23:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-Aggregate-Query-Rewrites-with-Indexed-Views</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/4/3/6/7/4/AggregateQueryRewrites_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server Aggregate Query Rewrites with Indexed Views]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. 
+  
+This technique helps you to accelerate query&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/4/3/6/7/4/AggregateQueryRewrites_ch9.mp4</video:content_loc>
+        <video:duration>337</video:duration>
+        <video:publication_date>2009-07-01T23:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Grouping-Sets</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/0/3/6/7/4/GroupingSets_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Grouping Sets]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. 
+
+Simplify queries that require grouping or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/0/3/6/7/4/GroupingSets_ch9.mp4</video:content_loc>
+        <video:duration>325</video:duration>
+        <video:publication_date>2009-06-30T23:33:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-20002005-Few-Outer-Rows-Workaround</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/0/3/6/7/4/FewOuterRowsWorkaround_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2000/2005 Few Outer Rows Workaround]]></video:title>
+        <video:description><![CDATA[
+What can I do if I am using SQL Server 2000 or 2005, and I want to do a more efficient join between a date dimension and a large fact table?
+
+Eric Hanson, principal program manager for SQL Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/0/3/6/7/4/FewOuterRowsWorkaround_ch9.mp4</video:content_loc>
+        <video:duration>282</video:duration>
+        <video:publication_date>2009-06-30T23:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Few-Outer-Row-Joins</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/0/3/6/7/4/FewOuterRowJoins_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Few Outer Row Joins]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. 
+
+Automatically leverage parallel processing when&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/0/3/6/7/4/FewOuterRowJoins_ch9.mp4</video:content_loc>
+        <video:duration>223</video:duration>
+        <video:publication_date>2009-06-30T21:35:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Partitioned-Table-Parallelism</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/0/3/6/7/4/PartitionedTableParallelism_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Partitioned Table Parallelism]]></video:title>
+        <video:description><![CDATA[
+Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008.
+ 
+   
+Make the most of your available hardware&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/0/3/6/7/4/PartitionedTableParallelism_ch9.mp4</video:content_loc>
+        <video:duration>343</video:duration>
+        <video:publication_date>2009-06-30T21:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Star-Join-Query-Optimization</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/2/1/6/7/4/StarJoinQueryOpt_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Star Join Query Optimization]]></video:title>
+        <video:description><![CDATA[
+Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008.
+ 
+Get more performance out of your star schema&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/2/1/6/7/4/StarJoinQueryOpt_ch9.mp4</video:content_loc>
+        <video:duration>238</video:duration>
+        <video:publication_date>2009-06-30T21:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Change-Data-Capture</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/2/1/6/7/4/ChangeDataCapture_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Change Data Capture]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. Use Change Data Capture to easily capture changes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/2/1/6/7/4/ChangeDataCapture_ch9.mp4</video:content_loc>
+        <video:duration>452</video:duration>
+        <video:publication_date>2009-06-30T00:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-SQL-Server-2008-Data-Compression</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/4/5/5/7/4/DataCompression_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Data Compression]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. Watch video 3 to learn how data compression can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/4/5/5/7/4/DataCompression_ch9.mp4</video:content_loc>
+        <video:duration>411</video:duration>
+        <video:publication_date>2009-06-29T23:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-of-SQL-Server-2008-Enterprise-Backup-Compression</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/2/1/6/7/4/BackupCompression_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 Enterprise Backup Compression]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. Video 4 is on accelerating backups with easy Backup&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/2/1/6/7/4/BackupCompression_ch9.mp4</video:content_loc>
+        <video:duration>201</video:duration>
+        <video:publication_date>2009-06-29T23:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-of-SQL-Server-2008-DW-features-Configuring-tempdb-for-Data-Warehouse</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/4/5/5/7/4/ConfigureTempDBforDW_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 DW: Configuring tempdb for Data Warehouse]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. Video 2 is on configuring TempDB for data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/4/5/5/7/4/ConfigureTempDBforDW_ch9.mp4</video:content_loc>
+        <video:duration>305</video:duration>
+        <video:publication_date>2009-06-29T22:25:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Joe+Longtin/Demo-of-SQL-Server-2008-Data-Warehousing-Features</loc>
+      <lastmod>2012-05-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/9/3/5/7/4/ConfigureDataWarehouseStorage_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo SQL Server 2008 DW - Configure DW Storage]]></video:title>
+        <video:description><![CDATA[Eric Hanson, principal program manager for SQL Server data warehousing, walks through several of the key features and functions of SQL Server 2008. Video 1 is on configuring DW storage.
+
+If you&#39;re&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/9/3/5/7/4/ConfigureDataWarehouseStorage_ch9.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2009-06-29T22:19:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

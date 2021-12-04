@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure--Linux</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure--Linux/Azure-3-Linux-Hack-tc--web-vi-HHVM-trn-Web-server-Apache</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d4b8/0df64ff0-dc45-48c4-affd-a8324151d4b8/KhuongVideoVietnam_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure &lt;3 Linux: Hack tc  web vi HHVM tr&#234;n Web server Apache]]></video:title>
+        <video:description><![CDATA[&amp;quot;Người d&#249;ng ng&#224;y nay sử dụng c&#225;c dịch vụ web hằng ng&#224;y để phục vụ c&#244;ng việc. Một trang web c&#243; tốc độ xử l&#253;, đ&#225;p ứng nhanh nhu cầu khiến người d&#249;ng cảm thấy dễ chịu v&#224; ho&#224;n th&#224;nh c&#244;ng việc hiệu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4b8/0df64ff0-dc45-48c4-affd-a8324151d4b8/KhuongVideoVietnam_mid.mp4</video:content_loc>
+        <video:duration>2527</video:duration>
+        <video:publication_date>2017-02-23T09:08:59.3966784+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure--Linux/Azure-3-Linux-Ci-t-Web-Server-Nginx-LEMP</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/da31/e74fbd76-e4cc-4ca2-839d-2758af5bda31/KhuongVideoVietnam_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure &lt;3 Linux: C&#224;i t Web Server Nginx - LEMP]]></video:title>
+        <video:description><![CDATA[Ở b&#224;i trước, ch&#250;ng ta đ&#227; hiểu v&#224; thực h&#224;nh được c&#225;ch &amp;quot;C&#224;i đặt Web Server Apache&amp;quot;, để tăng th&#234;m sự lựa chọn trong qu&#225; tr&#236;nh l&#224;m việc, m&#236;nh sẽ gi&#250;p bạn t&#236;m hiểu th&#234;m về c&#225;ch &amp;quot;C&#224;i đặt Web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da31/e74fbd76-e4cc-4ca2-839d-2758af5bda31/KhuongVideoVietnam_mid.mp4</video:content_loc>
+        <video:duration>3377</video:duration>
+        <video:publication_date>2017-02-23T09:08:41.6252297+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Azure--Linux/Azure-3-Linux-Ci-t-Web-Server-Apache-LAMP</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/92d1/ff435b12-824d-407c-bb76-5406353692d1/KhuongVideoVietnam_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure &lt;3 Linux: C&#224;i t Web Server Apache - LAMP]]></video:title>
+        <video:description><![CDATA[Ch&#250;ng ta đ&#227; c&#243; thể tạo m&#225;y ảo với hệ điều h&#224;nh Linux cực kỳ đơn giản v&#224; nhanh ch&#243;ng, bạn c&#243; thể xem lại tại video tr&#234;n, m&#236;nh sẽ sử dụng hệ điều h&#224;nh CentOS 6.7 để thực hiện b&#224;i h&#244;m nay. Video kỳ n&#224;y,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92d1/ff435b12-824d-407c-bb76-5406353692d1/KhuongVideoVietnam_mid.mp4</video:content_loc>
+        <video:duration>3377</video:duration>
+        <video:publication_date>2017-02-23T09:08:26.4670519+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

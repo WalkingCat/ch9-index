@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start/06</loc>
+      <lastmod>2017-02-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c9ff/7e1e2181-6479-4410-a554-223548a6c9ff/659MEANStackM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN Stack Jump Start: (06) Deployment &amp; Conclusion]]></video:title>
+        <video:description><![CDATA[Deploy the app to Azure Websites, and get more resources for building on the MEAN stack. [01:30] - setting up mondgoDB in the cloud[07:21] - Configuring and deploying an express app[19:59] - other&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c9ff/7e1e2181-6479-4410-a554-223548a6c9ff/659MEANStackM06_mid.mp4</video:content_loc>
+        <video:duration>1745</video:duration>
+        <video:publication_date>2015-03-04T18:49:00.1258935+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start/05</loc>
+      <lastmod>2018-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eaed/5b721702-ce2b-4b76-b04c-3968d5dceaed/659MEANStackM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN Stack Jump Start: (05) Tying the App Together]]></video:title>
+        <video:description><![CDATA[Learn to connect the front-end Angular app to the Node server, and see how to display live data.​ [41:20] - Hosting the Front End[18:32] - Implementing and displaying Authentication[32:56] - Services]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eaed/5b721702-ce2b-4b76-b04c-3968d5dceaed/659MEANStackM05_mid.mp4</video:content_loc>
+        <video:duration>3144</video:duration>
+        <video:publication_date>2015-03-04T18:48:47.5078639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start/04</loc>
+      <lastmod>2018-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/46cc/54d6b496-aade-44b4-a8fd-b278abfa46cc/659MEANStackM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN Stack Jump Start: (04) MongoDB]]></video:title>
+        <video:description><![CDATA[Get the details on integrating MongoDB collections to your RESTful API. [01:20] - Intro to document oriented databases[02:30] - mongoDB[04:07] - mondgoDB and Node.js[09:06] - Implementing the Route&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/46cc/54d6b496-aade-44b4-a8fd-b278abfa46cc/659MEANStackM04_mid.mp4</video:content_loc>
+        <video:duration>3123</video:duration>
+        <video:publication_date>2015-03-04T18:48:34.4793230+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start/03</loc>
+      <lastmod>2018-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e59a/86e0414b-b0f7-4971-bf38-e4ccb932e59a/659MEANStackM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN Stack Jump Start: (03) Node.js and Express]]></video:title>
+        <video:description><![CDATA[Set up a server in JavaScript, and design a RESTful API. Plus, look at authentication. [00:49] - Why use Node[02:43] - Express[08:04] - routing]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e59a/86e0414b-b0f7-4971-bf38-e4ccb932e59a/659MEANStackM03_mid.mp4</video:content_loc>
+        <video:duration>3500</video:duration>
+        <video:publication_date>2015-03-04T18:48:22.8535982+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start/02</loc>
+      <lastmod>2018-01-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/345e/3c746164-e5e3-4310-ba29-9443cbc5345e/659MEANStackM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN Stack Jump Start: (02) AngularJS]]></video:title>
+        <video:description><![CDATA[Learn the basics of AngularJS, including app creation, data display, and routing between views. [03:03] - What&#39;s a front end framework?[11:40] - directives[13:53] - modules and controllers[26:53] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/345e/3c746164-e5e3-4310-ba29-9443cbc5345e/659MEANStackM02_mid.mp4</video:content_loc>
+        <video:duration>3025</video:duration>
+        <video:publication_date>2015-03-04T18:48:10.1499630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MEAN-Stack-Jump-Start/01</loc>
+      <lastmod>2017-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2328/d706abee-9b72-435e-9c9c-9fa8c5922328/659MEANStackM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MEAN Stack Jump Start: (01) What is MEAN?]]></video:title>
+        <video:description><![CDATA[Get an introduction to the various parts of the MEAN stack, and see how to set up your environment. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2328/d706abee-9b72-435e-9c9c-9fa8c5922328/659MEANStackM01_mid.mp4</video:content_loc>
+        <video:duration>1319</video:duration>
+        <video:publication_date>2015-03-04T18:48:00.1486801+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

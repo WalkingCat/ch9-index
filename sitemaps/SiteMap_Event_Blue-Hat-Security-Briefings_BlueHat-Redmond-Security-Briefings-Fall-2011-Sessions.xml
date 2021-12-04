@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions/v11-6</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8d5c/84d3fe10-45dc-4b76-a642-534741b68d5c/BH1106_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Security Trifecta  The Platforms, the Apps and the Stores]]></video:title>
+        <video:description><![CDATA[Given that application delivery is shifting rapidly toward a distributed model, particularly with regard to online/mobile app stores, the complexity of the application security landscape, including&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8d5c/84d3fe10-45dc-4b76-a642-534741b68d5c/BH1106_mid.mp4</video:content_loc>
+        <video:duration>3053</video:duration>
+        <video:publication_date>2012-09-18T20:26:12.1322160+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions/v11-5</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/93fd/5a2d06c3-7c58-4f06-ab1d-567beeda93fd/BH1105_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How To: Determine The Value Of Security]]></video:title>
+        <video:description><![CDATA[Jared Pfost, a former Blue Badge, shares techniques how to determine the right amount of security investment for IT, cloud services, or even the SDL. Jared challenges you to define what success really&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/93fd/5a2d06c3-7c58-4f06-ab1d-567beeda93fd/BH1105_mid.mp4</video:content_loc>
+        <video:duration>3102</video:duration>
+        <video:publication_date>2012-09-18T20:26:11.1560792+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions/v11-4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/815a/89b168b0-f32b-4f94-9acd-33880b25815a/BH1104_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You Spent All That Money and You Still Got Owned????]]></video:title>
+        <video:description><![CDATA[This talk will focus on practical methods of identifying and bypassing modern enterprise class security solutions such as Load Balancers, both Network and Host-based Intrusion Prevention Systems&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/815a/89b168b0-f32b-4f94-9acd-33880b25815a/BH1104_mid.mp4</video:content_loc>
+        <video:duration>3754</video:duration>
+        <video:publication_date>2012-09-18T20:26:10.0579361+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions/v11-3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f51/42b31ad0-25fe-41a4-8e28-2ee3a4dd5f51/BH1103_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Locking the Throne Room - ECMA Script 5, a Frozen DOM and the Eradication of XSS]]></video:title>
+        <video:description><![CDATA[Cross Site Scripting has been a topic in countless presentations over the last decade. That easy to grasp but hard to solve problem has been shaking the web and caused major trouble on hundreds to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f51/42b31ad0-25fe-41a4-8e28-2ee3a4dd5f51/BH1103_mid.mp4</video:content_loc>
+        <video:duration>3802</video:duration>
+        <video:publication_date>2012-09-18T20:26:09.2429088+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions/v11-2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c828/7c4ac0de-1567-4c38-a9b4-06c7c67ec828/BH1102_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Statistical Journey through the Web Application Security Landscape]]></video:title>
+        <video:description><![CDATA[Breaking news or stale information; the web can be a dangerous place. This afternoon block of BlueHat v11 will kick off with Jeremiah Grossman presenting a statistical analysis of the current state of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c828/7c4ac0de-1567-4c38-a9b4-06c7c67ec828/BH1102_mid.mp4</video:content_loc>
+        <video:duration>2511</video:duration>
+        <video:publication_date>2012-09-18T20:26:08.2156913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Blue-Hat-Security-Briefings/BlueHat-Redmond-Security-Briefings-Fall-2011-Sessions/v11-1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1885/10445d13-b533-427a-9258-c510ce691885/BH1101_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[BlueHat Kickoff!]]></video:title>
+        <video:description><![CDATA[When the idea of the first BlueHat was conceived, a mad brainchild of an idea to invite hackers behind the walls and bring their experience, expertise, and participate in the security entity that is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1885/10445d13-b533-427a-9258-c510ce691885/BH1101_mid.mp4</video:content_loc>
+        <video:duration>1330</video:duration>
+        <video:publication_date>2012-09-18T20:26:07.1035420+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/Common-TSQL-Mistakes</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a876/01bc713e-9d7a-40e9-839d-cb55b725a876/CommonTSQLMistakes_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Common TSQL Mistakes]]></video:title>
+        <video:description><![CDATA[We are going to examine a variety of oopsies MANY developers fall prey too - some obvious, some pretty subtle and some down right sneaky! Lots of code examples with the bad AND good code presented. I&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a876/01bc713e-9d7a-40e9-839d-cb55b725a876/CommonTSQLMistakes_mid.mp4</video:content_loc>
+        <video:duration>3741</video:duration>
+        <video:publication_date>2015-12-01T11:47:16.8864593+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/SQL-Azure-Database-Lecciones-aprendidas-desde-las-trincheras-con-V12</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e50/c0ae73ac-2c1a-4a4a-8bb1-7f9dae7b0e50/SQLAzureDatabase_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Azure Database - Lecciones aprendidas desde las trincheras con V12]]></video:title>
+        <video:description><![CDATA[Options such as the data partition, XML handling, FullText, contained databases, CLR integration, Elastic Database Pool, know the performance of the database using Query Data Store, etc . are, among&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e50/c0ae73ac-2c1a-4a4a-8bb1-7f9dae7b0e50/SQLAzureDatabase_mid.mp4</video:content_loc>
+        <video:duration>3624</video:duration>
+        <video:publication_date>2015-12-01T11:47:06.5420827+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/Como-leer-planes-de-ejecucion-Edicion-2015</loc>
+      <lastmod>2018-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f616/106433b1-62ad-4076-b0ad-df33f68cf616/Comoleerplanesdeejecucion_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Como leer planes de ejecuci&#243;n - Edici&#243;n 2015]]></video:title>
+        <video:description><![CDATA[Todo el mundo que trabaja con base de datos siempre se ha preguntado alguna vez qu&#233; son los planes de ejecuci&#243;n y como se leen. Saber leer un plan de ejecuci&#243;n nos va a dar informaci&#243;n valios&#237;sima de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f616/106433b1-62ad-4076-b0ad-df33f68cf616/Comoleerplanesdeejecucion_mid.mp4</video:content_loc>
+        <video:duration>3128</video:duration>
+        <video:publication_date>2015-12-01T11:46:54.1748148+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/Los-mejores-patrones-para-cargas-masivas-en-ETL</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/07bb/471f57dc-69cd-41cf-b017-f27f808607bb/Patronesparacargas_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Los mejores patrones para cargas masivas en ETL ]]></video:title>
+        <video:description><![CDATA[Despu&#233;s de hacer muchos proyectos de BI, en los que la parte m&#225;s tediosa y larga siempre es la extracci&#243;n transformaci&#243;n y carga de datos, nos damos cuenta que realmente usamos los mismos esquemas en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/07bb/471f57dc-69cd-41cf-b017-f27f808607bb/Patronesparacargas_mid.mp4</video:content_loc>
+        <video:duration>2519</video:duration>
+        <video:publication_date>2015-12-01T11:46:43.4076407+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/Arquitectura-sin-barreras-para-entornos-SQL</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5100/21fec923-acc8-4654-beee-c624ed375100/Arquitecturasinbarreras_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Arquitectura sin barreras para entornos SQL]]></video:title>
+        <video:description><![CDATA[Descubre las novedades de infraestructura que presenta Hewlett Packard Enterprise,   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5100/21fec923-acc8-4654-beee-c624ed375100/Arquitecturasinbarreras_mid.mp4</video:content_loc>
+        <video:duration>1432</video:duration>
+        <video:publication_date>2015-12-01T11:46:31.6519725+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/Sex-PowerBI-and-RockRoll</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/60a3/a5253055-fc9e-4f89-b8c8-9833828760a3/SexPowerBiRockandRoll_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sex, PowerBI and Rock&amp;Roll]]></video:title>
+        <video:description><![CDATA[In this session you will see the new Microsoft Business Intelligence Platform: Power BI. We will we will make a tour around the platform and in particular see how it connects with other services (both&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/60a3/a5253055-fc9e-4f89-b8c8-9833828760a3/SexPowerBiRockandRoll_mid.mp4</video:content_loc>
+        <video:duration>3278</video:duration>
+        <video:publication_date>2015-12-01T11:46:12.5834693+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/SQL-Saturday-Nov-15-459/No-todo-en-esta-vida-es-PowerBI-SSRS-2016--Datazen</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6c0a/fe4dc25d-f3a9-4866-9ec5-bb4fa57b6c0a/SSRS2016Datazen_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ No todo en esta vida es PowerBI: SSRS 2016 + Datazen ]]></video:title>
+        <video:description><![CDATA[En la corriente actual de que el usuario trabaje sus propios informes, queda un nicho amplio donde los informes se hacen complicados obligando al usuario a necesitar ayuda del personal de TI para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c0a/fe4dc25d-f3a9-4866-9ec5-bb4fa57b6c0a/SSRS2016Datazen_mid.mp4</video:content_loc>
+        <video:duration>3407</video:duration>
+        <video:publication_date>2015-12-01T11:45:51.2549318+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

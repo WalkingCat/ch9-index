@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/The-Hour-Of-Code--Microsoft-Madrid-Dec15</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/The-Hour-Of-Code--Microsoft-Madrid-Dec15/Taller-de-Minecraft</loc>
+      <lastmod>2015-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd04/d4d2a349-c4d7-406a-8388-6c2910c8dd04/HourOfCodeMinecraft_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taller de Minecraft]]></video:title>
+        <video:description><![CDATA[Utiliza bloques de c&#243;digo para llevar a Steve o Alex en una aventura a trav&#233;s del mundo de Minecraft. Aprende a programar, es f&#225;cil y muy divertido https://code.org/mc   No te pierdas el taller de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd04/d4d2a349-c4d7-406a-8388-6c2910c8dd04/HourOfCodeMinecraft_mid.mp4</video:content_loc>
+        <video:duration>303</video:duration>
+        <video:publication_date>2015-12-17T10:11:33.9576651+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/The-Hour-Of-Code--Microsoft-Madrid-Dec15/Taller-Star-Wars</loc>
+      <lastmod>2015-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e9be/a6867d60-d1a4-4e34-8300-138435d7e9be/StarWarsHoc_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Taller Star Wars]]></video:title>
+        <video:description><![CDATA[Aprende a programar, es f&#225;cil y muy divertido. Programa androides y crea tu juego star wars en una galaxia muy muy lejana.   https://code.org/starwars   No te pierdas el Taller de Minecraft ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e9be/a6867d60-d1a4-4e34-8300-138435d7e9be/StarWarsHoc_mid.mp4</video:content_loc>
+        <video:duration>586</video:duration>
+        <video:publication_date>2015-12-17T10:11:20.3578626+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Spain-Events/The-Hour-Of-Code--Microsoft-Madrid-Dec15/Keynote-La-hora-del-codigo-en-Microsoft</loc>
+      <lastmod>2015-12-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9555/ef241bea-7bf6-4548-95c4-6a7dbbe49555/KeynoteHOC_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote; La hora del c&#243;digo en Microsoft]]></video:title>
+        <video:description><![CDATA[Microsoft celebra la &amp;quot;Hora del C&#243;digo&amp;quot; dando acceso a los ni&#241;os al mundo de la programaci&#243;n Es una iniciativa que se celebra en todo el mundo y que promueve code.org para iniciar a los ni&#241;os&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9555/ef241bea-7bf6-4548-95c4-6a7dbbe49555/KeynoteHOC_mid.mp4</video:content_loc>
+        <video:duration>895</video:duration>
+        <video:publication_date>2015-12-11T12:42:32.4235844+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

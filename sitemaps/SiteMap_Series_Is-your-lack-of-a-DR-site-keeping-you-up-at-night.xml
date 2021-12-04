@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod4</loc>
+      <lastmod>2015-01-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1b4/a8d7d99b-8b5c-4db1-942a-f46787d8b1b4/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Create a Recovery Orchestration Plan &amp; Testing a Failover]]></video:title>
+        <video:description><![CDATA[In this module we will create our recovery plan, add some automation to the plan. We ill then test a compliance and real world failover, and look at how we fail back. This video is part of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1b4/a8d7d99b-8b5c-4db1-942a-f46787d8b1b4/Mod4_mid.mp4</video:content_loc>
+        <video:duration>1952</video:duration>
+        <video:publication_date>2014-12-19T13:04:21.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod3</loc>
+      <lastmod>2017-11-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a7c1/dd67ce71-5d6e-4e7f-8008-899856e8a7c1/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Configure Protection]]></video:title>
+        <video:description><![CDATA[In this module we will configure and enable protection for our on premises VMM cloud, and configure our network mappings for Microsoft Azure. This video is part of the Microsoft Virtual Academy (MVA).&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a7c1/dd67ce71-5d6e-4e7f-8008-899856e8a7c1/Mod3_mid.mp4</video:content_loc>
+        <video:duration>1375</video:duration>
+        <video:publication_date>2014-12-19T13:03:29.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod2</loc>
+      <lastmod>2015-01-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49fc/14b6f1f5-fcec-46fa-8ec6-5256867449fc/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Prepare your Site Recovery Vault and On-Premises Resources]]></video:title>
+        <video:description><![CDATA[In this module we will configure the necessary components to get started in Microsoft Azure, Provision a VMM cloud, and plan the network mappings for Microsoft Azure. This video is part of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49fc/14b6f1f5-fcec-46fa-8ec6-5256867449fc/Mod2_mid.mp4</video:content_loc>
+        <video:duration>1054</video:duration>
+        <video:publication_date>2014-12-19T13:02:53.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod1</loc>
+      <lastmod>2016-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e9d/17f20f29-23ed-4cb4-9dc7-4a7686395e9d/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Introduction and Overview of Site Recovery Manager]]></video:title>
+        <video:description><![CDATA[In this module we&#39;ll describe Azure Site Recovery manager, its key features, and the core Components needed to protect on premises infrastructure to Microsoft Azure. This video is part of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e9d/17f20f29-23ed-4cb4-9dc7-4a7686395e9d/Mod1_mid.mp4</video:content_loc>
+        <video:duration>645</video:duration>
+        <video:publication_date>2014-12-19T13:01:18.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

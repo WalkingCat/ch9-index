@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cortana-and-the-Speech-SDK</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cortana-and-the-Speech-SDK/02--Cortana-Integration</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/31d5/8da017c7-ab14-4878-9931-14732a0c31d5/02CortanaIntegration_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Cortana Integration]]></video:title>
+        <video:description><![CDATA[In diesem Modul wird gezeigt, wie man eigene Apps mit Cortana einbinden kann. Daf&#252;r muss man haupts&#228;chlich drei Schritten folgen: Eine Voice Command Definition (VCD) XML-Datei erstellen, die die&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/31d5/8da017c7-ab14-4878-9931-14732a0c31d5/02CortanaIntegration_mid.mp4</video:content_loc>
+        <video:duration>316</video:duration>
+        <video:publication_date>2015-04-16T16:08:17.8464272+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cortana-and-the-Speech-SDK/03--Speech-Synthesis</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3738/7e78997c-8e90-48d5-8d88-b99be8133738/03SpeechSynthesis_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Speech Synthesis]]></video:title>
+        <video:description><![CDATA[In diesem Modul lernen wir, wie man mittels SpeechSynthesis Text in Sprache umwandeln kann. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3738/7e78997c-8e90-48d5-8d88-b99be8133738/03SpeechSynthesis_mid.mp4</video:content_loc>
+        <video:duration>396</video:duration>
+        <video:publication_date>2015-04-16T16:07:27.2982257+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cortana-and-the-Speech-SDK/04--Speech-Recognition</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e1a/1ae9e19c-5bb4-442a-a5f2-1f40c5887e1a/04SpeechRecognition_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Speech Recognition]]></video:title>
+        <video:description><![CDATA[Dieses Modul zeigt, wie man Spracherkennung in Apps implementieren kann. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e1a/1ae9e19c-5bb4-442a-a5f2-1f40c5887e1a/04SpeechRecognition_mid.mp4</video:content_loc>
+        <video:duration>297</video:duration>
+        <video:publication_date>2015-04-16T16:06:46.0587879+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Cortana-and-the-Speech-SDK/01--Einfhrung</loc>
+      <lastmod>2015-04-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6826/6e113660-c849-4df2-bcc6-536a37a06826/01Einfuehrung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Einf&#252;hrung]]></video:title>
+        <video:description><![CDATA[Dieses Modul bietet eine Einf&#252;hrung in die Sprache als Interaktionsmodalit&#228;t und Cortana, Microsofts digitale Assistentin. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6826/6e113660-c849-4df2-bcc6-536a37a06826/01Einfuehrung_mid.mp4</video:content_loc>
+        <video:duration>544</video:duration>
+        <video:publication_date>2015-04-16T16:02:47.0749748+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

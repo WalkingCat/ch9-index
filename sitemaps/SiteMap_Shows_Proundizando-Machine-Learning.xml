@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Proundizando-Machine-Learning</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Proundizando-Machine-Learning/Mdulo-III-Machine-Learning-con-SQL-Server-2016</loc>
+      <lastmod>2018-08-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ebb/41327e48-e34b-4aa2-8376-c5df241b8ebb/MAchinelearningintMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Machine Learning con SQL Server 2016]]></video:title>
+        <video:description><![CDATA[Este m&#243;dulo muestra c&#243;mo se puede crear Soluciones de Machine Learning por medio de R Services en SQL Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ebb/41327e48-e34b-4aa2-8376-c5df241b8ebb/MAchinelearningintMod3_mid.mp4</video:content_loc>
+        <video:duration>1217</video:duration>
+        <video:publication_date>2017-06-23T20:27:25.7313661+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Proundizando-Machine-Learning/Mdulo-II-Invocando-Azure-Machine-Learning-desde-R-Studio</loc>
+      <lastmod>2018-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ba49/725680c2-8584-490b-9b90-60a2cff4ba49/MAchinelearningintMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Invocando Azure Machine Learning desde R Studio]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo vemos c&#243;mo se puede invocar soluciones de Azure Machine Learning desde R studio. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ba49/725680c2-8584-490b-9b90-60a2cff4ba49/MAchinelearningintMod2_mid.mp4</video:content_loc>
+        <video:duration>1072</video:duration>
+        <video:publication_date>2017-06-23T20:27:18.3008143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Proundizando-Machine-Learning/Mdulo-I-Repaso-de-Azure-Machine-Learning</loc>
+      <lastmod>2017-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45fa/70873c59-e7f9-4d33-bf7b-7527d61a45fa/MAchinelearningintMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Repaso de Azure Machine Learning]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo vemos los conceptos de Machine Learning y c&#243;mo se pueden aplicar a soluciones empresariales ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45fa/70873c59-e7f9-4d33-bf7b-7527d61a45fa/MAchinelearningintMod1_mid.mp4</video:content_loc>
+        <video:duration>817</video:duration>
+        <video:publication_date>2017-06-23T20:27:13.3625038+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

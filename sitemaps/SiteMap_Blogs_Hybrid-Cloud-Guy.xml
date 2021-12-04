@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud-Guy</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud-Guy/Deploy-Wordpress-To-Azure-App-Service-On-Linux</loc>
+      <lastmod>2018-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/852d/26a4fcf5-bcc0-4c0b-8e9d-6ad18667852d/azapplinux_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy Wordpress To Azure App Service On Linux]]></video:title>
+        <video:description><![CDATA[Quick walk-through of deploying Wordpress To Azure App Service On Linux. This service is currently in &amp;quot;Preview&amp;quot; with GA coming soon! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/852d/26a4fcf5-bcc0-4c0b-8e9d-6ad18667852d/azapplinux_mid.mp4</video:content_loc>
+        <video:duration>323</video:duration>
+        <video:publication_date>2017-07-13T01:57:28.1400158+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud-Guy/Azure-App-Service-On-Linux-Wordpress-Walkthrough</loc>
+      <lastmod>2017-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud-Guy/Do-I-Need-To-Backup-Azure-Virtual-Machines</loc>
+      <lastmod>2017-02-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1959/5221ed23-65a8-473c-88f5-81d2ba291959/azurebackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Do I Need To Backup Azure Virtual Machines?]]></video:title>
+        <video:description><![CDATA[Azure Backup is a simple and cost-effective backup-as-a-service solution that extends tried-and-trusted tools on-premises with rich and powerful tools in the cloud. It delivers protection for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1959/5221ed23-65a8-473c-88f5-81d2ba291959/azurebackup_mid.mp4</video:content_loc>
+        <video:duration>1045</video:duration>
+        <video:publication_date>2017-02-13T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Hybrid-Cloud-Guy/Docker-For-Windows</loc>
+      <lastmod>2018-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e05/03f9c56b-b901-483c-a2dc-b147a55f1e05/Docker4Windows_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Docker For Windows]]></video:title>
+        <video:description><![CDATA[Getting started with Docker containers has never been easier with Docker for Windows. In this video we discuss the Docker for Windows Beta and demo how to get started with it.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e05/03f9c56b-b901-483c-a2dc-b147a55f1e05/Docker4Windows_mid.mp4</video:content_loc>
+        <video:duration>567</video:duration>
+        <video:publication_date>2016-07-06T16:10:14.7479772+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Boosting-Challenges-Series</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Boosting-Challenges-Series/Reto-41-Un-as-bajo-la-manga</loc>
+      <lastmod>2016-07-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d5d0/b497dbbd-75a6-46b8-b668-5343774ed5d0/Reto41UnAsBajo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reto 41: Un as bajo la manga]]></video:title>
+        <video:description><![CDATA[Los code snippets son peque&#241;os fragmentos de c&#243;digo que puedes utilizar para incrementar tu productividad escribiendo menos c&#243;digo y d&#225;ndote la oportunidad de reutilizar fragmentos que sabes que&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d5d0/b497dbbd-75a6-46b8-b668-5343774ed5d0/Reto41UnAsBajo_mid.mp4</video:content_loc>
+        <video:duration>172</video:duration>
+        <video:publication_date>2016-02-14T23:45:13.5370525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Boosting-Challenges-Series/Reto-23-Ordena-tu-mundo</loc>
+      <lastmod>2016-02-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6258/2c10d522-16b2-45f4-9a67-8d36bb5e6258/Reto23OrdenaTuMundo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reto 23: Ordena tu mundo]]></video:title>
+        <video:description><![CDATA[LINQ es una de las herramientas m&#225;s poderosas que hay en .NET para trabajar con informaci&#243;n y no solo por consultas sino para controlar tu colecci&#243;n de muchas formas y justamente este reto te dar&#225; la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6258/2c10d522-16b2-45f4-9a67-8d36bb5e6258/Reto23OrdenaTuMundo_mid.mp4</video:content_loc>
+        <video:duration>144</video:duration>
+        <video:publication_date>2016-02-14T23:39:16.3791233+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Boosting-Challenges-Series/Reto-12-Copiando-en-el-exmen</loc>
+      <lastmod>2016-02-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7f7e/3ff45682-5586-44df-881d-905802eb7f7e/Reto12Copiando_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reto 12: Copiando en el ex&#225;men]]></video:title>
+        <video:description><![CDATA[&#161;Este reto es uno de los indispensables! Debes descargar un ejemplo (o todos) del centro de desarrolladores de Windows y ejecutar una  de las aplicaciones que vienen ah&#237;, todos esos proyectos son&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7f7e/3ff45682-5586-44df-881d-905802eb7f7e/Reto12Copiando_mid.mp4</video:content_loc>
+        <video:duration>122</video:duration>
+        <video:publication_date>2016-02-09T23:08:44.8554793+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Boosting-Challenges-Series/Reto-7-Dependo-de-ellas</loc>
+      <lastmod>2016-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1dd2/fe510b8f-6b8f-4c06-8223-b8213a011dd2/Reto7DependencyProperties_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reto 7: Dependo de ellas]]></video:title>
+        <video:description><![CDATA[Las propiedades de dependencia te permitir&#225;n establecer un enlazado de datos v&#237;a XAML de la misma manera que lo hace cualquier propiedad prefabricada de los controles de tipo UI. En este reto debes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1dd2/fe510b8f-6b8f-4c06-8223-b8213a011dd2/Reto7DependencyProperties_mid.mp4</video:content_loc>
+        <video:duration>221</video:duration>
+        <video:publication_date>2016-02-08T14:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

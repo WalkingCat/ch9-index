@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/JeffBarnes</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/JeffBarnes/Parallel-Extensions-for-the-NET-Framework-ParallelFX</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa35/9d832b8d-dc7f-4794-a66d-70c370caaa35/Parallel-Extensions-for-the-NET-Framework-Paralle_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parallel Extensions for the .NET Framework - ParallelFX]]></video:title>
+        <video:description><![CDATA[Jeff Barnes presents an Architect Point of View (arcPOV) presentation on
+ParallelFX - the Parallel extensions to the .NET framework currently in CTP.  In this segment, Jeff provides a brief oveview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa35/9d832b8d-dc7f-4794-a66d-70c370caaa35/Parallel-Extensions-for-the-NET-Framework-Paralle_mid.mp4</video:content_loc>
+        <video:duration>822</video:duration>
+        <video:publication_date>2008-01-22T00:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

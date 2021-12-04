@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/cloudcamp20150629</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/cloudcamp20150629/cloudcamp20150629-03</loc>
+      <lastmod>2015-07-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b493/1c455417-74e0-40ad-8418-36a816c7b493/cloudcamp2015062903_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Windows Server 2016 ]]></video:title>
+        <video:description><![CDATA[押さえておきたい Windows Server 2016 ～提供開始はまだ先だけど...～ 小塚 大介 氏 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b493/1c455417-74e0-40ad-8418-36a816c7b493/cloudcamp2015062903_mid.mp4</video:content_loc>
+        <video:duration>4733</video:duration>
+        <video:publication_date>2015-07-14T01:43:58.1944882+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/cloudcamp20150629/cloudcamp20150629-02</loc>
+      <lastmod>2015-07-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1268/71ced21a-ff8d-4466-a440-feca90c61268/cloudcamp2015062902_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build &amp; Ignite &amp; de:code Microsoft Azure 500+]]></video:title>
+        <video:description><![CDATA[Build &amp;amp; Ignite &amp;amp; de:code Microsoft Azure 500&amp;#43; 井上 大輔 日本マイクロソフト株式会社 デベロッパー エバンジェリズム統括本部エバンジェリスト ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1268/71ced21a-ff8d-4466-a440-feca90c61268/cloudcamp2015062902_mid.mp4</video:content_loc>
+        <video:duration>3636</video:duration>
+        <video:publication_date>2015-07-14T01:43:40.5349730+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/cloudcamp20150629/cloudcamp20150629-01</loc>
+      <lastmod>2015-07-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e80e/55790116-bde2-4d12-9072-4d8292e5e80e/cloudcamp2015062901_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Windows 10 Windows 10  1 ]]></video:title>
+        <video:description><![CDATA[押さえておきたい Windows 10 ～Windows 10 提供開始まであと 1 か月～ 田中 達彦 日本マイクロソフト株式会社 デベロッパー エバンジェリズム統括本部エバンジェリスト ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e80e/55790116-bde2-4d12-9072-4d8292e5e80e/cloudcamp2015062901_mid.mp4</video:content_loc>
+        <video:duration>3622</video:duration>
+        <video:publication_date>2015-07-14T01:43:20.5711998+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

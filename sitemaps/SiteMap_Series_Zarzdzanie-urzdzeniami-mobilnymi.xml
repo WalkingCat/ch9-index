@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Zarzdzanie-urzdzeniami-mobilnymi</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Zarzdzanie-urzdzeniami-mobilnymi/03-</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e45/b7386071-f01e-4199-972c-13a719c21e45/03Ochrona_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Ochrona danych i zarzdzanie dostpem]]></video:title>
+        <video:description><![CDATA[W module 3 zobacz jak można przydzielać dostępy oraz jak działa ochrona danych w Windows Intune. Dowiesz się r&#243;wnież jaka jest r&#243;żnica pomiędzy pełnym i selektywnym wymazywaniem. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e45/b7386071-f01e-4199-972c-13a719c21e45/03Ochrona_mid.mp4</video:content_loc>
+        <video:duration>1299</video:duration>
+        <video:publication_date>2015-02-17T12:31:23.2953919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Zarzdzanie-urzdzeniami-mobilnymi/02-</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4233/cd53224f-7e4d-48f9-9bab-030e88194233/02Zarzadzanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Zarzdzanie urzdzeniami i konfiguracja zabepiecze]]></video:title>
+        <video:description><![CDATA[W module 2 dowiesz się jak konfigurować zabezpieczenia w Windows Intune. Poszerzysz swoją wiedzę na temat haseł i blokad, a także ustawień urządzeń mobilny w Configuration Manager 2012 R2. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4233/cd53224f-7e4d-48f9-9bab-030e88194233/02Zarzadzanie_mid.mp4</video:content_loc>
+        <video:duration>1594</video:duration>
+        <video:publication_date>2015-02-17T12:31:15.3010355+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Zarzdzanie-urzdzeniami-mobilnymi/01-</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a4c/ba86d024-9abf-43fd-98ff-f1d1c2f56a4c/01Wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Wstp do zarzdzania urzdze mobilnych i Windows Intune]]></video:title>
+        <video:description><![CDATA[W module 1 dowiesz się, jak wybrać platformę zarządzania urządzeniami mobilnymi. Zdobędziesz wiedzę, czym jest Windows Intune, jak działa oraz jak rejestrować i dodawać urządzenia do tego rozwiązania. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a4c/ba86d024-9abf-43fd-98ff-f1d1c2f56a4c/01Wstep_mid.mp4</video:content_loc>
+        <video:duration>1597</video:duration>
+        <video:publication_date>2015-02-17T12:31:10.2889511+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

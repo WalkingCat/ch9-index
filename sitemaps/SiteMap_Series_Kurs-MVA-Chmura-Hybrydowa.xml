@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Chmura-Hybrydowa</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Chmura-Hybrydowa/03--Kurs-MVA-Chmura-hybrydowa</loc>
+      <lastmod>2015-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/429d/b5433250-6a94-42fe-a7e3-ded90cb8429d/Hybrid3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Kurs MVA - Chmura hybrydowa]]></video:title>
+        <video:description><![CDATA[Trzeci odcinek z serii Chmura Hybrydowa ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/429d/b5433250-6a94-42fe-a7e3-ded90cb8429d/Hybrid3_mid.mp4</video:content_loc>
+        <video:duration>1015</video:duration>
+        <video:publication_date>2015-02-02T14:59:32.2972472+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Chmura-Hybrydowa/02--Kurs-MVA-Chmura-hybrydowa</loc>
+      <lastmod>2015-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cbb6/e8df6207-f63d-4a63-bb1e-ae10006fcbb6/Hybrid2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Kurs MVA - Chmura hybrydowa]]></video:title>
+        <video:description><![CDATA[Drugi odcinek z serii Chmura Hybrydowa ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cbb6/e8df6207-f63d-4a63-bb1e-ae10006fcbb6/Hybrid2_mid.mp4</video:content_loc>
+        <video:duration>1218</video:duration>
+        <video:publication_date>2015-02-02T14:59:02.6674718+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Kurs-MVA-Chmura-Hybrydowa/01--Kurs-MVA-Chmura-hybrydowa</loc>
+      <lastmod>2015-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8a38/80766d46-6442-4ffa-9f21-ec535c4e8a38/Hybrid1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Kurs MVA - Chmura hybrydowa]]></video:title>
+        <video:description><![CDATA[Pierwszy odcinek z serii Chmura Hybrydowa ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8a38/80766d46-6442-4ffa-9f21-ec535c4e8a38/Hybrid1_mid.mp4</video:content_loc>
+        <video:duration>1321</video:duration>
+        <video:publication_date>2015-02-02T14:58:54.2895438+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Hour-of-Code/Hour-of-Code-Cusco-Peru</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Hour-of-Code/Hour-of-Code-Cusco-Peru/Demo-de-hora-de-cdigo</loc>
+      <lastmod>2016-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe14/e0adeb44-f61c-417e-b862-49a25738fe14/Demodehoradecodigo_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Demo de hora de c&#243;digo]]></video:title>
+        <video:description><![CDATA[Demo de hora de c&#243;digo ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe14/e0adeb44-f61c-417e-b862-49a25738fe14/Demodehoradecodigo_mid.mp4</video:content_loc>
+        <video:duration>7946</video:duration>
+        <video:publication_date>2016-08-02T15:45:20.6019276+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Hour-of-Code/Hour-of-Code-Cusco-Peru/Hora-de-codigo-en-Cusco-Peru-Resumen</loc>
+      <lastmod>2016-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/35e4/f2927979-a8bf-447e-b192-6fff9ef535e4/HourofCodeCuscoPeru_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hora de c&#243;digo en Cusco, Per&#250; Resumen]]></video:title>
+        <video:description><![CDATA[Una breve entrevista con los ni&#241;os que participaron en la hora del c&#243;digo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/35e4/f2927979-a8bf-447e-b192-6fff9ef535e4/HourofCodeCuscoPeru_mid.mp4</video:content_loc>
+        <video:duration>804</video:duration>
+        <video:publication_date>2016-08-02T15:44:59.9731161+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Self-forming-teams-in-Azure-DevOps-with-Aaron-Bjork</loc>
+      <lastmod>2019-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5d6c/d773001d-b29e-4d21-a16e-a3916fd25d6c/SelfformingTeamsWithArronBjork_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Self forming teams in Azure DevOps with Aaron Bjork]]></video:title>
+        <video:description><![CDATA[In this interview, Donovan Brown interviews Group Program Manager Aaron Bjork about self-forming teams and the yellow sticky exercise. Self-forming teams at scale by Brian Harry Blog:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5d6c/d773001d-b29e-4d21-a16e-a3916fd25d6c/SelfformingTeamsWithArronBjork_mid.mp4</video:content_loc>
+        <video:duration>1643</video:duration>
+        <video:publication_date>2019-02-02T23:21:04.1082394+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/How-the-Azure-DevOps-teams-plan-with-Arron-Bjork</loc>
+      <lastmod>2020-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8e34/e298459f-0699-4349-9e4e-f4e935988e34/AzureDevOpsPlanningWithArronBjork_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How the Azure DevOps teams plan with Aaron Bjork]]></video:title>
+        <video:description><![CDATA[In this interview, Donovan Brown interviews Group Program Manager Aaron Bjork about Agile Planning. Measure What Matters, by John Doer Blog: DonovanBrown.comFollow @DonovanBrown Follow @aaronbjork ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8e34/e298459f-0699-4349-9e4e-f4e935988e34/AzureDevOpsPlanningWithArronBjork_mid.mp4</video:content_loc>
+        <video:duration>2092</video:duration>
+        <video:publication_date>2019-01-03T16:44:56.4198786+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-TQ-Microservices-Versioning</loc>
+      <lastmod>2018-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/c2651b77-cd33-4daa-b7fb-a89b00f4d1e9_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How VSTS Builds &amp; Versions Their Own Microservices with TQ]]></video:title>
+        <video:description><![CDATA[In this interview, Visual Studio Team Services (VSTS) Architect TQ shows us how they designs and versions its own Microservices behind Microsoft Cloud-hosted DevOps service. [01:26] Versioning[04:12]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/88d9/ea80e2ea-7d51-43e0-b3d3-433892cb88d9/InterWithTQV2_mid.mp4</video:content_loc>
+        <video:duration>2267</video:duration>
+        <video:publication_date>2018-04-23T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/How-Windows-Windows-Store-Xbox--Surface-moved-their-350gig-source-repo-into-Git-hosted-on-VSTS</loc>
+      <lastmod>2018-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/f2ccdee7-1e4b-4ee5-a3a3-a8a80143f1b6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How Windows, Windows Store, Xbox &amp; Surface moved their 350gig source repo into Git hosted on VSTS]]></video:title>
+        <video:description><![CDATA[In this video Donovan Brown interviews Tony Seeley, Group Program Manager who works in the Windows and Devices Group (WDG), Engineering Systems team, overseeing the group managing the source control&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da3f/04860fdb-4dcd-4f68-842c-fca59b4cda3f/InterviewWithTony_mid.mp4</video:content_loc>
+        <video:duration>2095</video:duration>
+        <video:publication_date>2018-04-19T14:10:49.9107433+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/How-Windows-Windows-Store-Xbox-Surface-streamlined-their-planning-process-and-centralized-on-VSTS</loc>
+      <lastmod>2018-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/bdbd6501-9b5e-4036-96df-a8a80143b6d3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How Windows, Windows Store, Xbox and Surface streamlined their planning process and centralized on&amp;#8230;]]></video:title>
+        <video:description><![CDATA[In this video Donovan Brown interviews Jill Campbell, Group Program Manager who works in the Windows and Devices Group (WDG), Engineering Systems team, overseeing the process and tools Windows uses to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1e5/e17a79d1-a9c7-4cc5-8d96-27b85440b1e5/InterviewWithJill_mid.mp4</video:content_loc>
+        <video:duration>2846</video:duration>
+        <video:publication_date>2018-03-21T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Aaron-Bjork-Release-Notes</loc>
+      <lastmod>2019-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dd9f/f4bac988-e68e-4fb6-9f6a-487844f2dd9f/AaronReleaseNotes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Aaron Bjork (Release Notes)]]></video:title>
+        <video:description><![CDATA[In this interview, Principal DevOps Manager Donovan Brown interviews Principal Group Program Manager Aaron Bjork about how the release notes for VSTS are generated for each release. [00:50] Set the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd9f/f4bac988-e68e-4fb6-9f6a-487844f2dd9f/AaronReleaseNotes_mid.mp4</video:content_loc>
+        <video:duration>1067</video:duration>
+        <video:publication_date>2018-01-09T15:17:19.0284018+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Munil-Shah-Quality</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c800/cdb49329-d7ab-42b9-9f92-160ff772c800/munilshahquality_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Munil Shah (Quality)]]></video:title>
+        <video:description><![CDATA[In this interview, Director of Engineering Munil Shah returns to share insights on how our quality practices had to change to support of Visual Studio Team Services. [00:43] Quality in the Cloud&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c800/cdb49329-d7ab-42b9-9f92-160ff772c800/munilshahquality_mid.mp4</video:content_loc>
+        <video:duration>1896</video:duration>
+        <video:publication_date>2017-12-14T20:49:59.6413094+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Munil-Shah-Safe-Deployment-Questions-Answered</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1e4c/e8e77d98-8dc1-49cb-bdb9-8384d97e1e4c/munilshahSafeDeploymentII_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Munil Shah (Safe Deployment Questions Answered)]]></video:title>
+        <video:description><![CDATA[In this interview, Director of Engineering Munil Shah returns to answer the questions asked about Safe Deployment of Visual Studio Team Services. [00:32] Deployment Rings[05:39] RM Deployment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e4c/e8e77d98-8dc1-49cb-bdb9-8384d97e1e4c/munilshahSafeDeploymentII_mid.mp4</video:content_loc>
+        <video:duration>1383</video:duration>
+        <video:publication_date>2017-12-06T00:51:36.9839530+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Edward-Thomson-Git-in-VSTS</loc>
+      <lastmod>2018-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2a01/bee156de-3aea-4276-a6cf-cc7208592a01/DevOpsDamianBradyIgnite_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Edward Thomson (Git in VSTS)]]></video:title>
+        <video:description><![CDATA[In this interview, recorded live from Ignite 2017, Senior Cloud Developer Advocate Damian Brady interviews Senior Program Manager Edward Thomson about Git in Visual Studio Team Services. [00:19]&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a01/bee156de-3aea-4276-a6cf-cc7208592a01/DevOpsDamianBradyIgnite_mid.mp4</video:content_loc>
+        <video:duration>424</video:duration>
+        <video:publication_date>2017-11-22T17:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Munil-Shah-Safe-Deployment</loc>
+      <lastmod>2018-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/38d7/7b722681-9179-4529-a1fd-be73918238d7/munilShahSafeDeployment_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Munil Shah (Safe Deployment)]]></video:title>
+        <video:description><![CDATA[In this interview, Principal DevOps Manager Donovan Brown interviews Director of Engineering Munil Shah about Safe Deployment of Visual Studio Team Services. [00:40] Scale Units[03:54] Safe Deployment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/38d7/7b722681-9179-4529-a1fd-be73918238d7/munilShahSafeDeployment_mid.mp4</video:content_loc>
+        <video:duration>2204</video:duration>
+        <video:publication_date>2017-08-18T05:32:21.7909751+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Aaron-Bjork-Consistency</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/faca/375cc195-635b-410f-9b64-dcf438fefaca/aaronBjorkConsistency_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Aaron Bjork (Consistency)]]></video:title>
+        <video:description><![CDATA[In this interview, Principal DevOps Manager Donovan Brown interviews Principal Group Program Manager Aaron Bjork about UI and Architectural consistency across 50 feature teams and Feature Flags.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/faca/375cc195-635b-410f-9b64-dcf438fefaca/aaronBjorkConsistency_mid.mp4</video:content_loc>
+        <video:duration>1704</video:duration>
+        <video:publication_date>2017-07-30T02:52:39.9719467+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Damian-Brady</loc>
+      <lastmod>2018-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1cf1/c42288f1-a2e0-4dcb-87b0-8194702a1cf1/Damovisa_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Damian Brady (Best Practices)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Damian Brady about DevOps and Octopus Deploy. You can download the Octopus Deploy Build and Release Task here. Blog:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1cf1/c42288f1-a2e0-4dcb-87b0-8194702a1cf1/Damovisa_mid.mp4</video:content_loc>
+        <video:duration>1851</video:duration>
+        <video:publication_date>2016-11-24T14:28:33.7600606+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Thomas-Dohmke</loc>
+      <lastmod>2018-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/2fc7876a-7c4d-4867-9ffa-20d3de98808e.png</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Thomas Dohmke (Mobile)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Principal PM Manager Thomas Dohmke about Mobile DevOps. You can download the Test Recorder for Visual Studio here.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cff8/1bfc0090-a685-45c8-ac01-835d4795cff8/MobileDevOpsHockeyApp_mid.mp4</video:content_loc>
+        <video:duration>2215</video:duration>
+        <video:publication_date>2016-10-14T15:15:53.8705878+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Gopinath-Chigakkagari</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/28bd/ed7e7dae-8443-47c6-b7f9-72a2fc8d28bd/DevOps20160809_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Gopinath Chigakkagari (Testing)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Principal PM Manager Gopinath Chigakkagari about Testing. Blog: DonovanBrown.comFollow @DonovanBrown Follow @gopinach ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/28bd/ed7e7dae-8443-47c6-b7f9-72a2fc8d28bd/DevOps20160809_mid.mp4</video:content_loc>
+        <video:duration>2682</video:duration>
+        <video:publication_date>2016-08-11T17:02:09.9547844+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Aaron-Bjork</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/642a/9db0b6b2-0ee6-465a-b4e6-575bc6f0642a/aaronBjork_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Aaron Bjork (Agile)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Group Program Manager Aaron Bjork about Agile Planning and Feature Flags. [00:40] Why 3 weeks sprints[05:30] Customer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/642a/9db0b6b2-0ee6-465a-b4e6-575bc6f0642a/aaronBjork_mid.mp4</video:content_loc>
+        <video:duration>2458</video:duration>
+        <video:publication_date>2016-06-28T02:32:56.6912673+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Sam-Guckenheimer</loc>
+      <lastmod>2021-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2020/363f8099-a180-4967-9afa-4ae4dc0e2020/InterviewWithSam_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Sam Guckenheimer (Rugged &amp; Anti-patterns)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Partner PM Manager Sam Guckenheimer about Rugged DevOps and DevOps Anti-patterns. Blog: DonovanBrown.comFollow @DonovanBrown&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2020/363f8099-a180-4967-9afa-4ae4dc0e2020/InterviewWithSam_mid.mp4</video:content_loc>
+        <video:duration>3250</video:duration>
+        <video:publication_date>2016-06-14T05:46:27.2594553+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-David-Tesar</loc>
+      <lastmod>2018-03-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/98c7/020341ee-f822-446d-8a85-f0002a6098c7/DevOpsInterview03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with David Tesar (Infrastructure)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Senior Technical Evangelist David Tesar about Infrastructure as Code and Configuration as Code.  DevOps Dimension&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/98c7/020341ee-f822-446d-8a85-f0002a6098c7/DevOpsInterview03_mid.mp4</video:content_loc>
+        <video:duration>2328</video:duration>
+        <video:publication_date>2016-02-05T07:52:07.5962158+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Abel-Wang-and-Steven-St-Jean</loc>
+      <lastmod>2021-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7b94/9ce335f6-3f88-4708-abc2-7ca876577b94/DBrownInterviewsAbelWangandStevenStJean_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interview with Abel Wang and Steven St. Jean (Source Control)]]></video:title>
+        <video:description><![CDATA[In this interview, Senior DevOps Program Manager Donovan Brown interviews Senior ALM Consultant Steven St. Jean and Senior Technical Solutions Professional Abel Wang about source control structure and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b94/9ce335f6-3f88-4708-abc2-7ca876577b94/DBrownInterviewsAbelWangandStevenStJean_mid.mp4</video:content_loc>
+        <video:duration>2249</video:duration>
+        <video:publication_date>2016-02-02T02:15:25.8948757+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

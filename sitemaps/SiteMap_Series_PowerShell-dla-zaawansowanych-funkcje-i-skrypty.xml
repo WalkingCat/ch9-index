@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty/05-Podsumowanie</loc>
+      <lastmod>2016-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae2f/26eee524-d82b-4750-b0ce-f4ac74a3ae2f/PowerShellDlaZaaw05Podsumowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 Podsumowanie]]></video:title>
+        <video:description><![CDATA[Podsumowanie kursu. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae2f/26eee524-d82b-4750-b0ce-f4ac74a3ae2f/PowerShellDlaZaaw05Podsumowanie_mid.mp4</video:content_loc>
+        <video:duration>680</video:duration>
+        <video:publication_date>2016-10-18T08:17:40.1202209+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty/04-Kruczki-smaczki</loc>
+      <lastmod>2016-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a3b7/01960429-42ee-417c-993a-7bac8545a3b7/PowerShellDlaZaaw04KruczkiSmaczki_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Kruczki smaczki]]></video:title>
+        <video:description><![CDATA[Kilka ciekawych informacji, kt&#243;re nie do końca są związane z pisaniem funkcji lub rozszeżają wiedzę. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3b7/01960429-42ee-417c-993a-7bac8545a3b7/PowerShellDlaZaaw04KruczkiSmaczki_mid.mp4</video:content_loc>
+        <video:duration>1024</video:duration>
+        <video:publication_date>2016-10-18T08:17:35.9055639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty/03-Strumienie-Danych</loc>
+      <lastmod>2016-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/16ef/353ae230-cd9c-4778-b88e-424d433316ef/PowerShellDlaZaaw03StrumienieDanych_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Strumienie danych]]></video:title>
+        <video:description><![CDATA[Strumienie danych, czyli pipelining, jest najważniejszym mechanizmem PowerShell. Niniejszy moduł przedstawia jak pisać skrypty tak, aby potrafiły go wykorzystywać. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/16ef/353ae230-cd9c-4778-b88e-424d433316ef/PowerShellDlaZaaw03StrumienieDanych_mid.mp4</video:content_loc>
+        <video:duration>2637</video:duration>
+        <video:publication_date>2016-10-18T08:17:29.8216618+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty/02-Budowanie-funkcji-oraz-skryptw</loc>
+      <lastmod>2016-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cf7c/26609ca7-91e8-4433-80b8-ff2b5820cf7c/PowerShellDlaZaaw02BudowanieFunkcjiOrazSkryptow_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Budowanie funkcji oraz skrypt&#243;w]]></video:title>
+        <video:description><![CDATA[W tym module można znaleźć informacje o bardziej zaawansowanych technikach definiowania paramtetr&#243;w oraz dokumentacji kodu. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf7c/26609ca7-91e8-4433-80b8-ff2b5820cf7c/PowerShellDlaZaaw02BudowanieFunkcjiOrazSkryptow_mid.mp4</video:content_loc>
+        <video:duration>2367</video:duration>
+        <video:publication_date>2016-10-18T08:17:24.9158417+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty/01-Od-linii-polece-do-skryptu</loc>
+      <lastmod>2016-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e51/1c8a555f-30a4-4691-9970-6cf01d676e51/PowerShellDlaZaaw01OdLiniiPolecen_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Od linii polece do skryptu]]></video:title>
+        <video:description><![CDATA[Wprowadzenie do pisania funkcji, czym r&#243;żni się skrypt od funkcji, podstawowe zasady. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e51/1c8a555f-30a4-4691-9970-6cf01d676e51/PowerShellDlaZaaw01OdLiniiPolecen_mid.mp4</video:content_loc>
+        <video:duration>2612</video:duration>
+        <video:publication_date>2016-10-18T08:17:17.7144750+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-zaawansowanych-funkcje-i-skrypty/00-Wprowadzenie</loc>
+      <lastmod>2016-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/791f/bcd76e45-541b-4458-9787-e6da4303791f/PowerShellDlaZaaw00Wprowadzenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wprowadzenie]]></video:title>
+        <video:description><![CDATA[Wprowadzenie do kursu PowerShell dla początkujących - funkcje i skrypty. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/791f/bcd76e45-541b-4458-9787-e6da4303791f/PowerShellDlaZaaw00Wprowadzenie_mid.mp4</video:content_loc>
+        <video:duration>71</video:duration>
+        <video:publication_date>2016-10-18T08:17:10.3522717+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

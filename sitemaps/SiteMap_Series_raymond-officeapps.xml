@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/raymond-officeapps</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/raymond-officeapps/demo</loc>
+      <lastmod>2015-11-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f834/28dc1391-7b69-4168-95d6-9bc6ce2af834/DEMO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Office Apps ]]></video:title>
+        <video:description><![CDATA[破解守則第二條 - 實際操作如何開發 Office Apps 您可以參考 http://dev.office.com 以瞭解更多相關開發資訊，此網站有範例帶領您直接操作，線上修改程式碼直接 Build，微軟也進而提供網頁版 Office Napa 網頁版 IDE，讓開發者直接在網頁上 Codeing 或是 Run 所寫的 Apps，當然 Visual Studio 也可以開發 Office&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f834/28dc1391-7b69-4168-95d6-9bc6ce2af834/DEMO_mid.mp4</video:content_loc>
+        <video:duration>1155</video:duration>
+        <video:publication_date>2015-11-24T09:40:39.3778609+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/raymond-officeapps/overview</loc>
+      <lastmod>2015-12-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e58/4aa64e19-96e4-44f3-9ac4-3a9de9e75e58/officeoverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Office ]]></video:title>
+        <video:description><![CDATA[破解守則第一條 - 瞭解 Office Apps 開發平台 從過去一兩年前微軟開始推廣 Ofiice 平台到 Android 、 IOS 等跨平台系統上，已經累積超過 12 億的使用者早在 1990s 就已經使用 VBA 在開發 Office App，直到近代開放標準 API 使用開發工具以及使用原生 SDK 進行跨平台開發，Raymond Tsai 教您三種方式進入 Office Apps&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e58/4aa64e19-96e4-44f3-9ac4-3a9de9e75e58/officeoverview_mid.mp4</video:content_loc>
+        <video:duration>1377</video:duration>
+        <video:publication_date>2015-11-24T08:29:40.9766053+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

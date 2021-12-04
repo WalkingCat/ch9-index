@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/designcamp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/designcamp/DESC4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c21b/e788bfae-f4e8-4a61-b68b-6f839664c21b/DESC4_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Great Games for the Windows Store]]></video:title>
+        <video:description><![CDATA[Windows 8 provides unparalleled reach across a range of devices, from touch and pen-centered tablets with modern sensors to high-resolution laptops and desktop PCs. This reach offers a unique&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c21b/e788bfae-f4e8-4a61-b68b-6f839664c21b/DESC4_mid.mp4</video:content_loc>
+        <video:duration>3410</video:duration>
+        <video:publication_date>2013-03-05T20:25:54.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/designcamp/DESC1</loc>
+      <lastmod>2020-02-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1274/10c3394a-9b4d-446a-93cd-7641182c1274/DESC1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Microsoft Design Principles]]></video:title>
+        <video:description><![CDATA[Windows UI style design has a set of five guiding principles to help you make the best choices when designing your app. These principles are the foundation for building great Windows Store apps.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1274/10c3394a-9b4d-446a-93cd-7641182c1274/DESC1_mid.mp4</video:content_loc>
+        <video:duration>4492</video:duration>
+        <video:publication_date>2013-03-05T20:21:36.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/designcamp/DESC2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Developer-Movement/designcamp/DESC3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b19/152f46dd-d341-438b-acf4-e4d658635b19/DESC3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hands-on Windows 8 App Design with Paper Prototyping]]></video:title>
+        <video:description><![CDATA[You have all the tools at your disposal to design and build great quality Windows Store apps, so how do you start? Surprisingly it is simple, with paper and pencil. Sketching is a way to iterate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b19/152f46dd-d341-438b-acf4-e4d658635b19/DESC3_mid.mp4</video:content_loc>
+        <video:duration>2307</video:duration>
+        <video:publication_date>2013-03-05T20:20:39.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

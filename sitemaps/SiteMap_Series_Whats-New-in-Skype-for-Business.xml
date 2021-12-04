@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-in-Skype-for-Business</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-in-Skype-for-Business/Opportunities-with-the-Skype-Developer-Platform</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e1c/e086e89f-8a31-478d-9a28-34d16f8a1e1c/Skype6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Opportunities with the Skype Developer Platform]]></video:title>
+        <video:description><![CDATA[Introducing Skype Developer PlatformBuilding Skype Experience for the WebWhat developers can do with Lync, Skype for Business]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e1c/e086e89f-8a31-478d-9a28-34d16f8a1e1c/Skype6_mid.mp4</video:content_loc>
+        <video:duration>2388</video:duration>
+        <video:publication_date>2015-03-08T15:40:07.7062389+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-in-Skype-for-Business/Skype-for-Business-Ensuring-Media-Quality-in-the-Network</loc>
+      <lastmod>2015-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9964/2bdc48cb-ee49-4981-a853-ab18b8109964/Skype5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Skype for Business: Ensuring Media Quality in the Network]]></video:title>
+        <video:description><![CDATA[Network impairmentsCall quality methodologySoftware defined networking]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9964/2bdc48cb-ee49-4981-a853-ab18b8109964/Skype5_mid.mp4</video:content_loc>
+        <video:duration>3515</video:duration>
+        <video:publication_date>2015-03-06T22:48:20.5763524+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-in-Skype-for-Business/Skype-for-Business-New-Meeting-and-Video-Investments</loc>
+      <lastmod>2015-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/031e/96d55be6-ac3f-4308-a57b-a7b5ebd2031e/Skype3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Skype for Business: New Meeting and Video Investments]]></video:title>
+        <video:description><![CDATA[Meeting InvestmentsVideo Investments]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/031e/96d55be6-ac3f-4308-a57b-a7b5ebd2031e/Skype3_mid.mp4</video:content_loc>
+        <video:duration>2138</video:duration>
+        <video:publication_date>2015-03-06T22:43:16.8164101+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-in-Skype-for-Business/Skype-for-Business-Server-Core-and-Voice-Improvements</loc>
+      <lastmod>2015-03-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/885c/643ac09a-0cbc-43b6-bb84-ba785fc5885c/Skype4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Skype for Business: Server Core and Voice Improvements]]></video:title>
+        <video:description><![CDATA[Core server improvementsVoice improvements]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/885c/643ac09a-0cbc-43b6-bb84-ba785fc5885c/Skype4_mid.mp4</video:content_loc>
+        <video:duration>3629</video:duration>
+        <video:publication_date>2015-03-06T22:42:09.1572300+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Whats-New-in-Skype-for-Business/Servicing-the-Existing-Deployment-and-Upgrading-to-Skype-for-Business</loc>
+      <lastmod>2017-09-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd19/17773eb2-25f1-4265-a0ed-4d71e8d8bd19/Skype2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Servicing the Existing Deployment and Upgrading to Skype for Business]]></video:title>
+        <video:description><![CDATA[Upgrading to Skype for Business Server 2015 SQL Server improvements Server management ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd19/17773eb2-25f1-4265-a0ed-4d71e8d8bd19/Skype2_mid.mp4</video:content_loc>
+        <video:duration>4637</video:duration>
+        <video:publication_date>2015-03-06T22:39:43.2380575+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

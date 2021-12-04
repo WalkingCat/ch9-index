@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder/Microsoft-Commitment-to-C</loc>
+      <lastmod>2011-08-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/bdef/183a9795-09f1-48e5-adcc-9e3100cdbdef/MicrosoftCommitmentToNativeDevelopment_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft&#39;s Commitment to C++]]></video:title>
+        <video:description><![CDATA[ Just be back from TechEd Europe, where I had a couple good C&amp;#43;&amp;#43; Sessions in my Track. One thing people frequently asked us is what is Microsoft&#39;s Commitment to native C&amp;#43;&amp;#43; Developers? &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/bdef/183a9795-09f1-48e5-adcc-9e3100cdbdef/MicrosoftCommitmentToNativeDevelopment_high_ch9.mp4</video:content_loc>
+        <video:duration>563</video:duration>
+        <video:publication_date>2010-11-17T17:23:27.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder/Assemblies-mit-Team-Build-2010-automatisch-Versionieren</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/6/1/6/3/5/TeamBuild2010AssembliesVersionieren_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Assemblies mit Team Build 2010 automatisch Versionieren]]></video:title>
+        <video:description><![CDATA[Eine der h&#228;ufigsten Anforderungen von Teams ist die automatische Versionierung von Assemblies durch Team Build. Also in der Eigenschaften des Assemblies eine entsprechende File Version zu haben, durch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/6/1/6/3/5/TeamBuild2010AssembliesVersionieren_ch9.mp4</video:content_loc>
+        <video:duration>723</video:duration>
+        <video:publication_date>2010-03-10T12:09:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder/VS-2010-Coded-UI-Tests-Nutzen-und-Erweitern</loc>
+      <lastmod>2011-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/6/1/6/3/5/CodedUITestErweiternGrundlagen_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[VS 2010 Coded UI Tests Nutzen und Erweitern]]></video:title>
+        <video:description><![CDATA[Da in vielen Szenarien die Notwendigkeit besteht, den Coded UI Test zu erweitern, m&#246;chte ich hier kurz die Grundlagen beschreiben, welche die ersten Schritte erleichtern sollen. Mehr dazu hier
+ in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/6/1/6/3/5/CodedUITestErweiternGrundlagen_ch9.mp4</video:content_loc>
+        <video:duration>509</video:duration>
+        <video:publication_date>2010-03-10T11:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder/Demo-VSTS-2008-Database-Edition-General-Distribution-Release</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/8/1/3/6/4/VSTS2008DBProGDR_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Demo: VSTS 2008 Database Edition General Distribution Release]]></video:title>
+        <video:description><![CDATA[ 
+Frank Maar stellt in dieser Demo kompakt die VSTS 2008 Database Edition General Distribution Releases (kurz GDR) vor. Das Demo ist Teil eines Webcasts, den ich mit Frank zusammen gemacht habe,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/8/1/3/6/4/VSTS2008DBProGDR_ch9.mp4</video:content_loc>
+        <video:duration>1112</video:duration>
+        <video:publication_date>2009-04-01T06:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder/VSTS-2010-CTP-Architecture-Explorer</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/1/3/9/5/4/VSTS2010CTPArchitectureExplorerCbinder_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[VSTS 2010 CTP Architecture Explorer]]></video:title>
+        <video:description><![CDATA[Der Architecture Explorer hilft bestehende Solutions zu analysieren und visualisieren. Wer Lust hat, zu sehen, was mit den CTP bits geht, f&#252;r den gibts dieses Video. In der Demo schauen wir uns kurz&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/1/3/9/5/4/VSTS2010CTPArchitectureExplorerCbinder_ch9.mp4</video:content_loc>
+        <video:duration>1027</video:duration>
+        <video:publication_date>2009-03-02T15:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cbinder/VSTS2010-CTP-Camano-und-UICoded-Test</loc>
+      <lastmod>2010-11-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/1/3/9/5/4/VSTS2010CTPCamanoUICodedTestCbinder_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[VSTS2010 CTP Camano und UICoded Test]]></video:title>
+        <video:description><![CDATA[Im diesem Video seht Ihr Camano, den Manual Testrunner und einen CodeUI Test. Das Demo ist Teil eines Webcasts, wer sich die ganze Story ansehen m&#246;chte, kann sich die Webcasts
+&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/1/3/9/5/4/VSTS2010CTPCamanoUICodedTestCbinder_ch9.mp4</video:content_loc>
+        <video:duration>1101</video:duration>
+        <video:publication_date>2009-03-02T13:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

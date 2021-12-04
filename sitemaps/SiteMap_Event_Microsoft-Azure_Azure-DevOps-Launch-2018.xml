@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/K100</loc>
+      <lastmod>2018-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bdec/e7021c03-62c8-457e-b44b-b41de339bdec/AzureDevOpsKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure DevOps &amp; Azure Pipelines Launch Keynote]]></video:title>
+        <video:description><![CDATA[Join us for our Azure DevOps Launch keynote on Sept 11th 2018, live stream begins at 8:00AM Pacific Time (UTC -7). During this presentation you&#39;ll learn all about our announcement from hosts Jamie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bdec/e7021c03-62c8-457e-b44b-b41de339bdec/AzureDevOpsKeynote_mid.mp4</video:content_loc>
+        <video:duration>3903</video:duration>
+        <video:publication_date>2018-09-11T22:18:22.7979574+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/T100</loc>
+      <lastmod>2020-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A107</loc>
+      <lastmod>2018-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8388/50d8668a-58e3-4c1e-8946-91e483a18388/VSCodePRExtension_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing GitHub pull requests for Visual Studio Code]]></video:title>
+        <video:description><![CDATA[Over the past months we have been busy working on bringing you a new integrated pull request experience that enables you to collaborate, comment, review, and validate pull requests directly from&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8388/50d8668a-58e3-4c1e-8946-91e483a18388/VSCodePRExtension_mid.mp4</video:content_loc>
+        <video:duration>491</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A106</loc>
+      <lastmod>2019-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a82e/9b3c4e34-bb26-4fbf-8252-33988e2ca82e/GettingStartedWithPackageManagementusingAzureArti_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with package management using Azure Artifacts]]></video:title>
+        <video:description><![CDATA[Azure Artifacts helps you manage the software components you use by providing an intuitive UI, as well as helpful tools to ensure immutability and performance for the components you create or consume.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a82e/9b3c4e34-bb26-4fbf-8252-33988e2ca82e/GettingStartedWithPackageManagementusingAzureArti_mid.mp4</video:content_loc>
+        <video:duration>486</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A105</loc>
+      <lastmod>2021-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6f7f/424c1d79-4896-4b8e-9034-0aa80ecb6f7f/AzureBoards_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Plan your work with Azure Boards]]></video:title>
+        <video:description><![CDATA[Anyone who has worked on a software project knows that there are issues to track, manage and prioritize. Azure Boards has all the features your team needs to successfully manage your work. Visualize&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f7f/424c1d79-4896-4b8e-9034-0aa80ecb6f7f/AzureBoards_mid.mp4</video:content_loc>
+        <video:duration>364</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A104</loc>
+      <lastmod>2021-05-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/958f/170e5927-7a57-48e7-89a3-5504bcdc958f/AzureTestPlans_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Automated and Manual Testing with Azure Test Plan]]></video:title>
+        <video:description><![CDATA[Azure DevOps Test Plan provides all the tools you need to successfully test your applications. Create and run manual test plans, generate automated tests and collect feedback from users. In this video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/958f/170e5927-7a57-48e7-89a3-5504bcdc958f/AzureTestPlans_mid.mp4</video:content_loc>
+        <video:duration>329</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A103</loc>
+      <lastmod>2019-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2256/b7ff2ccb-c53c-427e-9d6b-968b40c82256/AzureReposEd_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Manage and store your code in Azure Repos]]></video:title>
+        <video:description><![CDATA[If you are writing code, then you need a place to store and manage that code with a reliable version control system like Git. Azure Repos provides a best in class Git solution. With Azure Repos you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2256/b7ff2ccb-c53c-427e-9d6b-968b40c82256/AzureReposEd_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A102</loc>
+      <lastmod>2019-04-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/81c6/6f7e3d41-8f8b-4705-b59b-1c1c9a5981c6/AzurePipelinesGitHubCIEd_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Builds with your GitHub projects using Azure Pipelines]]></video:title>
+        <video:description><![CDATA[In this longer training video you&#39;ll learn how to take a GitHub repo and add continuous builds using Azure Pipelines. We will walk you through each step in taking a Node.js GitHub project and adding&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81c6/6f7e3d41-8f8b-4705-b59b-1c1c9a5981c6/AzurePipelinesGitHubCIEd_mid.mp4</video:content_loc>
+        <video:duration>1187</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A101</loc>
+      <lastmod>2019-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cbb8/e0663a05-aef4-4b50-b1de-56033436cbb8/AzurePipelines_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building and Deploying your Code with Azure Pipelines]]></video:title>
+        <video:description><![CDATA[With Azure Pipelines you can build and deploy your code written in any language using any platform, no problem. In this video we will show why Azure Pipelines is the best tool on the planet for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cbb8/e0663a05-aef4-4b50-b1de-56033436cbb8/AzurePipelines_mid.mp4</video:content_loc>
+        <video:duration>536</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Azure-DevOps-Launch-2018/A100</loc>
+      <lastmod>2019-09-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b95d/e3ba29bd-4131-41a5-a2f2-ec2942b5b95d/AzureDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Azure DevOps ]]></video:title>
+        <video:description><![CDATA[In a single statement, Azure DevOps is everything you need to build your software product from beginning to end. Learn how Azure DevOps helps you plan your project with Agile tools, manages your code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b95d/e3ba29bd-4131-41a5-a2f2-ec2942b5b95d/AzureDevOps_mid.mp4</video:content_loc>
+        <video:duration>341</video:duration>
+        <video:publication_date>2018-09-10T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

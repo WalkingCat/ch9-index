@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Class-Inheritance</loc>
+      <lastmod>2021-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d8e4/4f07947b-a07f-4a60-ae39-1f76d6e8d8e4/PowerShell5ClassInheritance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Class Inheritance]]></video:title>
+        <video:description><![CDATA[Ed Wilson walks us through class inheritance in PowerShell 5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d8e4/4f07947b-a07f-4a60-ae39-1f76d6e8d8e4/PowerShell5ClassInheritance_mid.mp4</video:content_loc>
+        <video:duration>308</video:duration>
+        <video:publication_date>2015-10-30T15:23:48.2104667+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Intro-to-Error-Handling</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae3e/4e428b20-f5f7-45b7-95a6-42328aabae3e/PowerShell5IntroToErrorHandling_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Intro to Error Handling]]></video:title>
+        <video:description><![CDATA[Ed WIlson provides an introduction to error handling in PowerShell 5. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae3e/4e428b20-f5f7-45b7-95a6-42328aabae3e/PowerShell5IntroToErrorHandling_mid.mp4</video:content_loc>
+        <video:duration>402</video:duration>
+        <video:publication_date>2015-10-30T15:11:03.2459446+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Working-with-JSON</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ce0/966f6c40-a68c-4265-9370-e280b41e8ce0/PowerShell5WorkingWithJSON_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Working with JSON]]></video:title>
+        <video:description><![CDATA[Ed Wilson works with JSON data in PowerShell 5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ce0/966f6c40-a68c-4265-9370-e280b41e8ce0/PowerShell5WorkingWithJSON_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2015-10-30T15:10:52.3713689+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Non-Terminating-Errors</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a66d/fa842292-c610-4653-b255-4f1fba7fa66d/PowerShell5NonTerminatingErrors_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Non-Terminating Errors]]></video:title>
+        <video:description><![CDATA[Ed Wilson walks us through non-terminating errors in PowerShell 5. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a66d/fa842292-c610-4653-b255-4f1fba7fa66d/PowerShell5NonTerminatingErrors_mid.mp4</video:content_loc>
+        <video:duration>483</video:duration>
+        <video:publication_date>2015-10-30T15:10:40.1396120+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Class-Constructors</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8424/00788d35-f192-46a4-b67f-520475168424/PowerShell5ClassConstructors_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Class Constructors]]></video:title>
+        <video:description><![CDATA[Ed Wilson walks us through class constructors in PowerShell 5. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8424/00788d35-f192-46a4-b67f-520475168424/PowerShell5ClassConstructors_mid.mp4</video:content_loc>
+        <video:duration>449</video:duration>
+        <video:publication_date>2015-10-30T15:10:21.0450343+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Troubleshooting-WinRM-Part-2</loc>
+      <lastmod>2016-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9223/bfd0b285-ad46-4371-80a4-2374fec59223/PowerShell5TroubleshootingWinRMp2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Troubleshooting WinRM Part 2]]></video:title>
+        <video:description><![CDATA[Edi Wilson walks us through troubleshooting WinRM in part 2 of this series. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9223/bfd0b285-ad46-4371-80a4-2374fec59223/PowerShell5TroubleshootingWinRMp2_mid.mp4</video:content_loc>
+        <video:duration>492</video:duration>
+        <video:publication_date>2015-10-28T17:06:39.3653736+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-NetTrace-2</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/183b/623e5509-2444-41c4-a836-f232bd22183b/PowerShell5NetTrace2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - NetTrace 2]]></video:title>
+        <video:description><![CDATA[Ed Wilson walks us through NetTrace in PowerShell in the second part of this series. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/183b/623e5509-2444-41c4-a836-f232bd22183b/PowerShell5NetTrace2_mid.mp4</video:content_loc>
+        <video:duration>482</video:duration>
+        <video:publication_date>2015-10-28T17:06:06.9815928+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Beginners-Note-From-Ed</loc>
+      <lastmod>2017-11-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4618/4eba5c2f-b068-45ed-b343-769719754618/PowerShell5BeginnersNote_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Beginner&#39;s Note From Ed]]></video:title>
+        <video:description><![CDATA[Ed Wilson discusses why to learn PowerShell 5. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4618/4eba5c2f-b068-45ed-b343-769719754618/PowerShell5BeginnersNote_mid.mp4</video:content_loc>
+        <video:duration>304</video:duration>
+        <video:publication_date>2015-10-28T15:44:13.5750317+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-NetTrace-1</loc>
+      <lastmod>2017-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d108/e5555242-3892-4ef9-a476-e7b9f82bd108/PowerShell5NetTrace1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - NetTrace 1]]></video:title>
+        <video:description><![CDATA[Ed Wilson walks us through NetTrace in a two part series. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d108/e5555242-3892-4ef9-a476-e7b9f82bd108/PowerShell5NetTrace1_mid.mp4</video:content_loc>
+        <video:duration>453</video:duration>
+        <video:publication_date>2015-10-28T15:41:18.2459641+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Troubleshooting-WinRM-Part-1</loc>
+      <lastmod>2017-06-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bbee/f5a2997a-b5d0-4c4c-89f2-72391847bbee/PowerShell5TroubleshootingWinRMp1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Troubleshooting WinRM Part 1]]></video:title>
+        <video:description><![CDATA[Ed Wilson walks us through troubleshooting WinRM in this two part video series., ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bbee/f5a2997a-b5d0-4c4c-89f2-72391847bbee/PowerShell5TroubleshootingWinRMp1_mid.mp4</video:content_loc>
+        <video:duration>477</video:duration>
+        <video:publication_date>2015-10-28T15:34:04.3672938+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Push-and-Pull-from-a-Web-Page-Talk-Like-A-Pirate-sample</loc>
+      <lastmod>2015-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f2a/7b4332f9-8b0d-46bf-8772-b5fdb5fe9f2a/PowerShell5PushandPullFromWebPage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Push and Pull from a Web Page - Talk Like A Pirate sample]]></video:title>
+        <video:description><![CDATA[Join Ed Wilson as he shows how to push or pull data from a web page with PowerShell 5 in this great example where he uses the Talk Like A Pirate web page to submit some text and retrieve the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f2a/7b4332f9-8b0d-46bf-8772-b5fdb5fe9f2a/PowerShell5PushandPullFromWebPage_mid.mp4</video:content_loc>
+        <video:duration>455</video:duration>
+        <video:publication_date>2015-10-28T15:31:20.8532703+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-String-Null-or-Empty</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fbee/25b3c68d-5435-440c-bcb7-7f276dcdfbee/PowerShell5StringNullorEmpty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - String Null or Empty]]></video:title>
+        <video:description><![CDATA[Join Ed Wilson as he discusses how to handle Sting Null or Empty in PowerShell 5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fbee/25b3c68d-5435-440c-bcb7-7f276dcdfbee/PowerShell5StringNullorEmpty_mid.mp4</video:content_loc>
+        <video:duration>314</video:duration>
+        <video:publication_date>2015-10-27T17:50:40.0382710+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Module-Manifests</loc>
+      <lastmod>2021-08-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b17c/74ce0db4-4310-480b-a82a-d62cdea4b17c/Powershell5ModuleManifests_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Module Manifests]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through module manifests in PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b17c/74ce0db4-4310-480b-a82a-d62cdea4b17c/Powershell5ModuleManifests_mid.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2015-09-04T10:04:09.8380418+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Using-Enums-in-Classes</loc>
+      <lastmod>2015-09-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1210/a1a748b4-edd6-4aa3-8e82-62056cc01210/Powershell5UsingEnumsInClasses_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Using Enums in Classes]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through using enums in classes on PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1210/a1a748b4-edd6-4aa3-8e82-62056cc01210/Powershell5UsingEnumsInClasses_mid.mp4</video:content_loc>
+        <video:duration>338</video:duration>
+        <video:publication_date>2015-09-04T02:21:53.8764292+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Creating-an-Enum</loc>
+      <lastmod>2021-01-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/482e/dea7abd4-a26a-4441-ba9d-4e4ee49c482e/Powershell5Enums_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Creating an Enum]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through creating enums in PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/482e/dea7abd4-a26a-4441-ba9d-4e4ee49c482e/Powershell5Enums_mid.mp4</video:content_loc>
+        <video:duration>441</video:duration>
+        <video:publication_date>2015-09-04T02:18:51.1942797+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Converting-a-String</loc>
+      <lastmod>2015-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a9e8/be3379b3-5554-4f61-a597-87d0a94da9e8/PowerShell5ConvertingAString_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Converting a String]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us converting a string in PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a9e8/be3379b3-5554-4f61-a597-87d0a94da9e8/PowerShell5ConvertingAString_mid.mp4</video:content_loc>
+        <video:duration>220</video:duration>
+        <video:publication_date>2015-09-03T19:28:11.9850112+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Creating-a-Simple-Class</loc>
+      <lastmod>2015-11-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e10f/9d6c7a56-3918-4067-ae86-f75afe6ce10f/PowerShell5CreatingASimpleClass_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Creating a Simple Class]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through creating a simple class in PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e10f/9d6c7a56-3918-4067-ae86-f75afe6ce10f/PowerShell5CreatingASimpleClass_mid.mp4</video:content_loc>
+        <video:duration>447</video:duration>
+        <video:publication_date>2015-09-03T19:24:06.3831472+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Playing-with-Netstat</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/af90/265fd1e4-0b5e-4543-b4d1-a1cfff8caf90/Powershell5PlayingWithNetstat_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Playing with Netstat]]></video:title>
+        <video:description><![CDATA[Ed Wilson plays with netstat and PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/af90/265fd1e4-0b5e-4543-b4d1-a1cfff8caf90/Powershell5PlayingWithNetstat_mid.mp4</video:content_loc>
+        <video:duration>356</video:duration>
+        <video:publication_date>2015-09-03T19:23:15.4215457+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Importing-a-Module-and-Expanding-an-Archive</loc>
+      <lastmod>2019-05-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ed78/9aff9656-2953-4df6-8f31-94717ea7ed78/ImportingAModuleAndExpandingAnArchive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Importing a Module and Expanding an Archive]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us importing a module and expanding and archive with PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ed78/9aff9656-2953-4df6-8f31-94717ea7ed78/ImportingAModuleAndExpandingAnArchive_mid.mp4</video:content_loc>
+        <video:duration>525</video:duration>
+        <video:publication_date>2015-09-03T19:17:37.5713990+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/Introduction-to-PowerShell-5</loc>
+      <lastmod>2020-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/52e4/fb65f3af-dcde-49c3-b1a1-57e4567c52e4/IntroductiontoPowerShell5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to PowerShell 5]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through an introduction of PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/52e4/fb65f3af-dcde-49c3-b1a1-57e4567c52e4/IntroductiontoPowerShell5_mid.mp4</video:content_loc>
+        <video:duration>789</video:duration>
+        <video:publication_date>2015-09-03T18:13:03.1562774+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Adding-Methods-to-Classes</loc>
+      <lastmod>2015-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4a30/734cdd69-f64d-4b6f-b899-c2c349f34a30/oPowerShell5AddingMethodsToClasses_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Adding Methods to Classes]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through adding Methods to Classes in PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4a30/734cdd69-f64d-4b6f-b899-c2c349f34a30/oPowerShell5AddingMethodsToClasses_mid.mp4</video:content_loc>
+        <video:duration>387</video:duration>
+        <video:publication_date>2015-09-03T18:10:53.1538058+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Importing-a-Module-and-Compressing-an-Archive</loc>
+      <lastmod>2019-05-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6069/c6a8aa49-a320-47b4-ae24-90931a3f6069/ImportingAModuleAndCompressingAnArchive_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Importing a Module and Compressing an Archive]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us importing a module and compressing an archive in PowerShell 5.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6069/c6a8aa49-a320-47b4-ae24-90931a3f6069/ImportingAModuleAndCompressingAnArchive_mid.mp4</video:content_loc>
+        <video:duration>387</video:duration>
+        <video:publication_date>2015-09-03T18:05:16.9826108+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/The-Scripting-Guys/PowerShell-5-Introduction-to-PowerShell-Classes</loc>
+      <lastmod>2015-09-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6df4/1a2807cf-eb0f-4ee2-8283-602ff22f6df4/IntroductiontoPowerShell5Classes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell 5 - Introduction to PowerShell Classes]]></video:title>
+        <video:description><![CDATA[Ed Wilson takes us through an introduction of PowerShell 5 Classes.  @scriptingguys More of Ed&#39;s videos can be found here: https://aka.ms/edwilson For other great PowerShell videos also check out:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6df4/1a2807cf-eb0f-4ee2-8283-602ff22f6df4/IntroductiontoPowerShell5Classes_mid.mp4</video:content_loc>
+        <video:duration>497</video:duration>
+        <video:publication_date>2015-09-03T18:05:04.3350542+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

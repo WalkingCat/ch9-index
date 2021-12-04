@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VSO</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VSO/How-to-Buy-Visual-Studio-Online</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/23f9/6ff8364e-f013-441d-81f4-e63cdec223f9/HowToBuyVSO_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Buy Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Visual Studio Online (www.visualstudio.com) provides a growing set of cloud-hosted capabilities for software development teams to help them build, manage, test, deploy and operate their software&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23f9/6ff8364e-f013-441d-81f4-e63cdec223f9/HowToBuyVSO_mid.mp4</video:content_loc>
+        <video:duration>935</video:duration>
+        <video:publication_date>2014-08-27T16:03:17.1920243+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VSO/Cloud-Load-Testing-Service-with-Visual-Studio-Online</loc>
+      <lastmod>2014-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/423b/1f7d776f-0b12-416f-8f7a-80d3e46d423b/CloudLoadTestingWebinar12314_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Load Testing Service with Visual Studio Online]]></video:title>
+        <video:description><![CDATA[60 min webinar.  Cloud Load Testing Service and Application Insights with Visual Studio Ultimate and Visual Studio Online Questions?  Please email us at vsoloadtest@microsoft.com     ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/423b/1f7d776f-0b12-416f-8f7a-80d3e46d423b/CloudLoadTestingWebinar12314_mid.mp4</video:content_loc>
+        <video:duration>3765</video:duration>
+        <video:publication_date>2014-01-31T01:43:04.2175951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/VSO/Top-5-Reasons-to-Use-Visual-Studio-Online</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/4e83a07f-bb77-4640-afe3-4a2ad828909d.png</video:thumbnail_loc>
+        <video:title><![CDATA[Top 5 Reasons to Use Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Brian Keller, Microsoft Principal Technical Evangelist for Visual Studio, gives us his top 5 reasons for using Visual Studio Online.  This is a good overview of Microsoft&#39;s Cloud-based Developer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/393c/a2496c3a-3f09-459d-a646-628e813c393c/briankellertop5reasonsVSO_mid.mp4</video:content_loc>
+        <video:duration>125</video:duration>
+        <video:publication_date>2014-01-08T18:38:16.4856078+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

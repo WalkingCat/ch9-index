@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Taipei-Communication-Protocols-Plugfest-2012</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Taipei-Communication-Protocols-Plugfest-2012/Office-and-SharePoint-Protocol-Overview</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0f58/927de20d-a05e-4cd8-bbb1-a052016a0f58/SharePointProtocolsOverview_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office and SharePoint Protocol Overview]]></video:title>
+        <video:description><![CDATA[Michael Bowman, Program Manager of the Office Interoperability team provides a summary of the MS-OCPROTO (Office Client Protocols Overview) and MS-SPFEPO (SharePoint Front-End Protocols Overview)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f58/927de20d-a05e-4cd8-bbb1-a052016a0f58/TaipeiPlugfest2012_med_ch9.mp4</video:content_loc>
+        <video:duration>2223</video:duration>
+        <video:publication_date>2012-05-21T15:23:41.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Taipei-Communication-Protocols-Plugfest-2012/Office-Protocol-Test-Suites-and-Parsers</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94f9/c40350cb-d61b-4cc7-8863-a052016f94f9/OfficeTestSuitesAndParsersOverview_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office Protocol Test Suites and Parsers ]]></video:title>
+        <video:description><![CDATA[Hector Sandino, Senior Development Engineer in Test Lead, discusses the SharePoint and Exchange protocol test suites and network monitor parsers. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94f9/c40350cb-d61b-4cc7-8863-a052016f94f9/OfficeTestSuitesAndParsersOverview_med_ch9.mp4</video:content_loc>
+        <video:duration>1935</video:duration>
+        <video:publication_date>2012-05-21T15:22:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Taipei-Communication-Protocols-Plugfest-2012/SQL-Server-Interoperability-Overview-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3588/08caba8f-ac32-4583-8d72-505a8bc33588/SQLappinteropoverviewtaipei2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Server Interoperability Overview 2012]]></video:title>
+        <video:description><![CDATA[KB Badu-Antwi, Program Manager, delivered an overview of SQL Server Protocol Interoperability.   The evolution of SQL Server, an overview of SQL Server Interoperability and Protocols implemented in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3588/08caba8f-ac32-4583-8d72-505a8bc33588/SQLappinteropoverviewtaipei2012_mid.mp4</video:content_loc>
+        <video:duration>1838</video:duration>
+        <video:publication_date>2012-05-16T01:43:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Taipei-Communication-Protocols-Plugfest-2012/Windows-Protocol-Applied-Interoperability-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fc83/8d951988-cc62-4003-a2f4-14400152fc83/windowsappinteropoverviewtaipei2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Protocol Applied Interoperability 2012]]></video:title>
+        <video:description><![CDATA[Darryl Welch, Principal Program Manager, delivered an overview of the Applied Interoperability Resources available to developers implementing Microsoft Windows Protocols.     A number of test tools&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fc83/8d951988-cc62-4003-a2f4-14400152fc83/windowsappinteropoverviewtaipei2012_mid.mp4</video:content_loc>
+        <video:duration>2212</video:duration>
+        <video:publication_date>2012-05-16T01:42:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Open-Specifications-Plugfests/Taipei-Communication-Protocols-Plugfest-2012/RDP-Protocols-Overview-for-Windows-Server-2012</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2abb/0e674b5d-4878-4ad8-920a-a782bc0b2abb/rdpoverviewtaipei2012_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[RDP Protocols Overview for Windows Server 2012]]></video:title>
+        <video:description><![CDATA[Rob Williams, Principal Program Manager, delivered an overview of the Windows RDP Protocol functionality implemented in Windows Server 2012 and Windows 8.     He also demonstrated how Windows 8 RDP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2abb/0e674b5d-4878-4ad8-920a-a782bc0b2abb/rdpoverviewtaipei2012_mid.mp4</video:content_loc>
+        <video:duration>3377</video:duration>
+        <video:publication_date>2012-05-15T20:46:03.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

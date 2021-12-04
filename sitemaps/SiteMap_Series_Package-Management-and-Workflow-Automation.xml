@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Package-Management-and-Workflow-Automation</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Package-Management-and-Workflow-Automation/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ecc/eb8c0278-e05a-420f-b73f-8712e2b03ecc/763PackageMgmtWorkflowAutoM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Package Management and Workflow Automation: (05) Deployment and Continuous Integration with Azure&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Since a good developer knows a bit about deployment to the cloud and application operations and analytics, take a look at continuous integration (CI) with Azure. Turn this task into a joy, because it&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ecc/eb8c0278-e05a-420f-b73f-8712e2b03ecc/763PackageMgmtWorkflowAutoM05_mid.mp4</video:content_loc>
+        <video:duration>1180</video:duration>
+        <video:publication_date>2015-04-05T23:39:08.4987645+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Package-Management-and-Workflow-Automation/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b0e/7e1793b3-5217-444a-9696-dc202c392b0e/763PackageMgmtWorkflowAutoM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Package Management and Workflow Automation: (04) Workflow Automation in Node.js Applications]]></video:title>
+        <video:description><![CDATA[Implement good workflow management, now that you’ve all but finished your application’s core logic. Automate workflow scenarios, which may involve everything from design time code quality to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b0e/7e1793b3-5217-444a-9696-dc202c392b0e/763PackageMgmtWorkflowAutoM04_mid.mp4</video:content_loc>
+        <video:duration>2444</video:duration>
+        <video:publication_date>2015-04-05T23:38:52.0768187+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Package-Management-and-Workflow-Automation/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36ec/5e818cc0-288a-4a0b-a1da-22834ede36ec/763PackageMgmtWorkflowAutoM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Package Management and Workflow Automation: (03) Package Management in Node.js and Web Apps]]></video:title>
+        <video:description><![CDATA[Explore the powerful package managers which are available, like Bower for the website front end, and kpm for ASP.NET 5. See how the de facto package manager in Node.js apps, npm, can easily bring in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36ec/5e818cc0-288a-4a0b-a1da-22834ede36ec/763PackageMgmtWorkflowAutoM03_mid.mp4</video:content_loc>
+        <video:duration>3734</video:duration>
+        <video:publication_date>2015-04-05T23:38:36.5044272+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Package-Management-and-Workflow-Automation/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/63b8/2859b1ab-f543-4940-8069-826e63dd63b8/763PackageMgmtWorkflowAutoM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Package Management and Workflow Automation: (02) Package Management in .NET Applications]]></video:title>
+        <video:description><![CDATA[Learn how NuGet, the package manager for .NET applications, can help you locate, install, and deploy third-party code. If you can find a framework, library, or module that gets your project done&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/63b8/2859b1ab-f543-4940-8069-826e63dd63b8/763PackageMgmtWorkflowAutoM02_mid.mp4</video:content_loc>
+        <video:duration>2962</video:duration>
+        <video:publication_date>2015-04-05T23:38:19.7493223+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Package-Management-and-Workflow-Automation/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1774/221035ca-7e7a-4cf4-98b2-bc66734d1774/763PackageMgmtWorkflowAutoM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Package Management and Workflow Automation: (01) Machine Package Managers]]></video:title>
+        <video:description><![CDATA[Get an introduction to the course and to some of the basic terminology. Explore popular machine package managers in use on both Linux and Windows operating systems, from the perspective of a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1774/221035ca-7e7a-4cf4-98b2-bc66734d1774/763PackageMgmtWorkflowAutoM01_mid.mp4</video:content_loc>
+        <video:duration>3091</video:duration>
+        <video:publication_date>2015-04-05T23:38:04.6327729+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

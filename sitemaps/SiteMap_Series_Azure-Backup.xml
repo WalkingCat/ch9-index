@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Configure-application-consistent-backup-for-Linux-VMs-using-Azure-Backup</loc>
+      <lastmod>2018-11-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://rev9.blob.core.windows.net/thumbnail/f757f62f-ae78-456f-ba6c-a87b0107fbee_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configure application consistent backup for Linux VMs using Azure Backup]]></video:title>
+        <video:description><![CDATA[This video talks about how to configure application consistent backup for your Linux VMs running in Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/39bd/285da36f-8485-4b9a-bcb9-7f5b310539bd/finalv3_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2018-02-03T11:17:27.9002029+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Windows-Server-System-State-with-Azure-Backup-is-now-GA</loc>
+      <lastmod>2018-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4c4c/d2d9a288-9db1-452e-98fd-c02f4b5f4c4c/WindowsServerSystemStateWithAzureBackupGA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Server System State with Azure Backup is now GA]]></video:title>
+        <video:description><![CDATA[Windows Server System State backup to Azure with Azure Backup is generally available. Learn how to get started with backing up the System State directly to Azure using Azure Backup and protect your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c4c/d2d9a288-9db1-452e-98fd-c02f4b5f4c4c/WindowsServerSystemStateWithAzureBackupGA_mid.mp4</video:content_loc>
+        <video:duration>305</video:duration>
+        <video:publication_date>2017-11-09T20:29:16.6490930+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/SC-2016-DPM-UR4-Migrate-Backup-Storage-in-3-simple-steps</loc>
+      <lastmod>2018-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/49d9/ffcbc153-eaed-4e2b-8bb8-275037a949d9/DatasourceMigrationOnVolumes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SC 2016 DPM UR4: Migrate Backup Storage in 3 simple steps]]></video:title>
+        <video:description><![CDATA[Now, with Backup Storage Migration in SC 2016 DPM UR4, you can move your backups on-permises for more optimised storage management. For example, during storage upgrade, you can move certain&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49d9/ffcbc153-eaed-4e2b-8bb8-275037a949d9/DatasourceMigrationOnVolumes_mid.mp4</video:content_loc>
+        <video:duration>111</video:duration>
+        <video:publication_date>2017-10-25T05:35:38.8532597+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Backup-Private-cloud-deployments-on-WS-2016-using-SC-2016-DPM</loc>
+      <lastmod>2017-10-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/486c/e8cf2331-1f7c-43b5-a284-fad746b0486c/BackupPrivateCloudDeploymentsonWS2016usingDPM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup Private cloud deployments on WS 2016 using SC 2016 DPM]]></video:title>
+        <video:description><![CDATA[This video gives a brief overview of backing up private cloud deployments on Windows Server 2016 using SC 2016 DPM. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/486c/e8cf2331-1f7c-43b5-a284-fad746b0486c/BackupPrivateCloudDeploymentsonWS2016usingDPM_mid.mp4</video:content_loc>
+        <video:duration>298</video:duration>
+        <video:publication_date>2017-07-06T05:59:55.2391044+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Backup-file-server-on-WS2016-to-Azure</loc>
+      <lastmod>2018-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/520e/7e64b3ab-739f-4cea-ac75-90235da2520e/BackupFileServeronWS2016toAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup file server on WS2016 to Azure]]></video:title>
+        <video:description><![CDATA[This video gives a brief overview of how to backup files and folders on Windows Server 2016 to Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/520e/7e64b3ab-739f-4cea-ac75-90235da2520e/BackupFileServeronWS2016toAzure_mid.mp4</video:content_loc>
+        <video:duration>264</video:duration>
+        <video:publication_date>2017-07-06T05:55:43.2806090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Backup-Azure-IaaS-VMs-running-WS-2016</loc>
+      <lastmod>2017-12-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c1cd/3ee5e2cb-ceb8-4084-83cd-87692365c1cd/BackupIaaSVMsrunningWS2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup Azure IaaS VMs running WS 2016]]></video:title>
+        <video:description><![CDATA[This video gives a brief overview of backing up Azure IaaS VMs running Windows Server 2016. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c1cd/3ee5e2cb-ceb8-4084-83cd-87692365c1cd/BackupIaaSVMsrunningWS2016_mid.mp4</video:content_loc>
+        <video:duration>188</video:duration>
+        <video:publication_date>2017-07-06T05:55:29.6777370+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Backup-WS2016-with-WSB</loc>
+      <lastmod>2017-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b6a2/0b94c895-543d-44e8-800a-96850958b6a2/BackupWS2016withWSB_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup WS2016 with WSB]]></video:title>
+        <video:description><![CDATA[This video gives a brief overview of how to protect Windows Server 2016 using Windows Server Backup. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6a2/0b94c895-543d-44e8-800a-96850958b6a2/BackupWS2016withWSB_mid.mp4</video:content_loc>
+        <video:duration>170</video:duration>
+        <video:publication_date>2017-07-06T05:55:11.2494946+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Protect-Windows-Server-System-State-with-Azure-Backup</loc>
+      <lastmod>2017-11-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e13c/9320c3b4-ef47-4f7c-8ec3-65f20702e13c/SystemStateBackupwithAzureBackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protect Windows Server System State with Azure Backup]]></video:title>
+        <video:description><![CDATA[Learn how to get started with backing up the Windows Server System State directly to Azure using Azure Backup. Supported for Windows Server versions from Windows Server 2016 all the way down to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e13c/9320c3b4-ef47-4f7c-8ec3-65f20702e13c/SystemStateBackupwithAzureBackup_mid.mp4</video:content_loc>
+        <video:duration>322</video:duration>
+        <video:publication_date>2017-05-31T21:32:19.4018626+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Modern-Backup-Storage-with-Azure-Backup-Server-on-Windows-Server-2016-Part-2-of-2</loc>
+      <lastmod>2017-12-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a5c5/f8e7b57f-77ca-4a0a-8f1c-80970167a5c5/BackupusingAzureBackupServer2of2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern Backup Storage with Azure Backup Server on Windows Server 2016- Part 2 of 2]]></video:title>
+        <video:description><![CDATA[This is the second video in the 2 part video series that shows how Azure Backup Server on Windows Server 2016 uses Modern Backup Storage. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/efb1/03006b01-33ba-426e-be12-9265acbdefb1/MBS2of2withAzureBackupServer_mid.mp4</video:content_loc>
+        <video:duration>224</video:duration>
+        <video:publication_date>2017-05-30T15:08:46.6033065+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Protect-Windows-Server-2016-and-vCenterESXi-65-VMs-using-Azure-Backup-Server</loc>
+      <lastmod>2017-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d76/c1a52121-01f4-4bc0-be78-128f0fca2d76/AnnouncingAzureBackupServeronWindowsServer2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Protect Windows Server 2016 and vCenter/ESXi 6.5 VMs using Azure Backup Server]]></video:title>
+        <video:description><![CDATA[This announcement video shows how Azure Backup Server can now protect Server 2016 applications and Windows Server 2016 along with protection for vCenter/ESXi 6.5. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d76/c1a52121-01f4-4bc0-be78-128f0fca2d76/AnnouncingAzureBackupServeronWindowsServer2016_mid.mp4</video:content_loc>
+        <video:duration>143</video:duration>
+        <video:publication_date>2017-05-30T15:02:28.6211482+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Modern-Backup-Storage-with-Azure-Backup-Server-on-Windows-Server-2016-Part-1-of-2</loc>
+      <lastmod>2018-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b38b/e350826e-b730-4458-8ef1-94355bf3b38b/MBSPart1withAzureBackupServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Modern Backup Storage with Azure Backup Server on Windows Server 2016- Part 1 of 2]]></video:title>
+        <video:description><![CDATA[This is the first part of the 2 part video series on how to get started with Modern Backup Storage with Azure Backup Server on Windows Server 2016 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b38b/e350826e-b730-4458-8ef1-94355bf3b38b/MBSPart1withAzureBackupServer_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2017-05-29T12:54:45.7693073+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Introducing-Modern-Backup-Storage-with-Azure-Backup-Server-on-Windows-Server-2016</loc>
+      <lastmod>2018-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b5fc/46f60680-4574-4bff-8555-37a832f7b5fc/IntroMBSwithAzureBackupServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Modern Backup Storage with Azure Backup Server on Windows Server 2016]]></video:title>
+        <video:description><![CDATA[This video introduces Modern Backup Storage with Azure Backup Server on Windows Server 2016 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b5fc/46f60680-4574-4bff-8555-37a832f7b5fc/IntroMBSwithAzureBackupServer_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2017-05-29T12:53:55.5399849+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Backup-Pre-Checks-for-Azure-VM-Backup</loc>
+      <lastmod>2018-11-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0bdf/965ec319-d815-4b5a-8b86-b9ff8e520bdf/AzureBackupPreCheck_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Backup Pre-Checks for Azure VM Backup]]></video:title>
+        <video:description><![CDATA[Learn how to use Azure backup&#39;s Backup Pre-Check&#39;s to identify and resolve VM configuration issues to ensure successful backups. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0bdf/965ec319-d815-4b5a-8b86-b9ff8e520bdf/AzureBackupPreCheck_high.mp4</video:content_loc>
+        <video:duration>139</video:duration>
+        <video:publication_date>2017-03-23T15:29:18.3010021+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Application-consistent-backup-for-Linux-VMs-using-Azure-Backup</loc>
+      <lastmod>2017-03-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/ade830d8-77a9-4ae0-93e1-8f70ca09720a.png</video:thumbnail_loc>
+        <video:title><![CDATA[Application consistent backup for Linux VMs using Azure Backup]]></video:title>
+        <video:description><![CDATA[In this video we will describe how to take application consistent backup of Linux VMs running in Azure using Azure Backup pre and post script framework. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/333e/2c3cb54e-58be-444c-a162-7e991467333e/AzureLinuxAppConsistentBackup_mid.mp4</video:content_loc>
+        <video:duration>262</video:duration>
+        <video:publication_date>2017-03-22T20:07:28.1931107+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Announcing-application-consistent-backup-for-Linux-VMs-using-Azure-Backup</loc>
+      <lastmod>2017-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Cloud-First-Pitch-for-Azure-Backup</loc>
+      <lastmod>2018-05-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3fb1/64e7fcdc-05e9-487a-8912-32d9c4b23fb1/CloudFirstPitch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud-First Enterprise Backup : Why Architecture matters]]></video:title>
+        <video:description><![CDATA[This video describes the cloud first pitch for Azure Backup. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3fb1/64e7fcdc-05e9-487a-8912-32d9c4b23fb1/CloudFirstPitch_mid.mp4</video:content_loc>
+        <video:duration>457</video:duration>
+        <video:publication_date>2017-03-21T14:07:37.4053192+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/SC-2016-DPM-Security-Features</loc>
+      <lastmod>2017-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca9c/71a098a7-f7c5-46d9-a878-87f27370ca9c/SC2016DPMSecurityFeatures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SC 2016 DPM Security Features]]></video:title>
+        <video:description><![CDATA[Azure Backup now provides security capabilities to secure backups. These security features ensure that customers are able to secure their backups and recover data using cloud backups if production and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca9c/71a098a7-f7c5-46d9-a878-87f27370ca9c/SC2016DPMSecurityFeatures_mid.mp4</video:content_loc>
+        <video:duration>182</video:duration>
+        <video:publication_date>2017-02-28T16:58:16.8239427+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Instant-recovery-of-files-from-Azure-VM-backups-Linux</loc>
+      <lastmod>2018-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/7c59aa68-9bbc-46d9-b249-2c2cd419bba1.png</video:thumbnail_loc>
+        <video:title><![CDATA[Instant recovery of files from Azure VM backups (Linux)]]></video:title>
+        <video:description><![CDATA[This video describes how to instantly recover files from Azure VM Backups (Linux) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8518/c26de23b-9880-4197-9895-ce5f845e8518/InstantRecoveryofFilesfromLinuxAzureVMBackups_mid.mp4</video:content_loc>
+        <video:duration>159</video:duration>
+        <video:publication_date>2017-02-07T14:24:14.4145159+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Instant-Recovery-of-files-from-Azure-VM-Backups-Windows</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/71e2/155cd8a0-5e79-4cca-b7d5-33827d8071e2/InstantRecoveryofFilesFromAzureVMBackups_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instant Recovery of files from Azure VM Backups (Windows)]]></video:title>
+        <video:description><![CDATA[This video describes how to instantly recover files from Azure VM Backups (Windows) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/71e2/155cd8a0-5e79-4cca-b7d5-33827d8071e2/InstantRecoveryofFilesFromAzureVMBackups_mid.mp4</video:content_loc>
+        <video:duration>158</video:duration>
+        <video:publication_date>2017-02-07T14:21:45.3934015+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Instant-Recovery-of-files-with-Azure-Backup-Agent</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd08/e2842d98-c13a-4f24-8eda-2a8c020afd08/InstantRecoveryofFileswithMAB_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instant Recovery of files with Azure Backup Agent]]></video:title>
+        <video:description><![CDATA[This video describes how to instantly recover files from cloud recovery points using Azure Backup Agent. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd08/e2842d98-c13a-4f24-8eda-2a8c020afd08/InstantRecoveryofFileswithMAB_mid.mp4</video:content_loc>
+        <video:duration>286</video:duration>
+        <video:publication_date>2017-02-07T14:21:33.7646837+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Security-Features-with-MABS</loc>
+      <lastmod>2018-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05a6/26276b13-c9e3-43f1-bdaf-6e08044405a6/SecurityFeatureWithMABS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Security Features with MABS]]></video:title>
+        <video:description><![CDATA[The video demonstrates the security features customers can expect with MABS. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05a6/26276b13-c9e3-43f1-bdaf-6e08044405a6/SecurityFeatureWithMABS_mid.mp4</video:content_loc>
+        <video:duration>202</video:duration>
+        <video:publication_date>2017-02-03T07:36:47.9666050+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/SC-2016-DPM-Capacity-Planner</loc>
+      <lastmod>2018-06-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/d899efe1-ac4c-4021-8970-3930c3c066e7.png</video:thumbnail_loc>
+        <video:title><![CDATA[SC 2016 DPM Capacity Planner]]></video:title>
+        <video:description><![CDATA[SC 2016 DPM leverages the new Windows Server 2016 features to deliver Modern Backup Storage(MBS) which gives: 1. 50% Storage Savings 2. 3x Faster Backups 3. Workload Aware Storage Plan your storage&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b748/7551da3f-fe01-46d3-9892-1538b243b748/SC2016DPMCapacityPlanner_mid.mp4</video:content_loc>
+        <video:duration>336</video:duration>
+        <video:publication_date>2016-11-23T17:42:17.7574150+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Announcing-VMware-VM-Backup-with-Azure-Backup-Server</loc>
+      <lastmod>2017-02-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4cee/565d846b-1665-462c-a2d7-9d86ecb74cee/MABSAnnouncementVMwareBackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Announcing VMware VM Backup with Azure Backup Server]]></video:title>
+        <video:description><![CDATA[Now you can backup VMware VMs with Azure Backup Server.  Here are the highlights of VMware VM backup. Agentless BackupProtect using vCenter or ESXi serverBackup VMs at a folder levelBackup VMs stored&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4cee/565d846b-1665-462c-a2d7-9d86ecb74cee/MABSAnnouncementVMwareBackup_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2016-11-15T12:53:33.2030600+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/VMware-VM-Backup-with-Azure-Backup-Server-Part-4-of-4-Protect-VMware-VMs</loc>
+      <lastmod>2016-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0af3/c91a7958-7c21-4314-8892-4d147aa70af3/VMwareBackupWithAzureBackupServer4Of4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VMware VM Backup with Azure Backup Server: Part 4 of 4- Protect VMware VMs]]></video:title>
+        <video:description><![CDATA[This video explains how to set the protection policy for the VMware VMs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0af3/c91a7958-7c21-4314-8892-4d147aa70af3/VMwareBackupWithAzureBackupServer4Of4_mid.mp4</video:content_loc>
+        <video:duration>298</video:duration>
+        <video:publication_date>2016-11-14T05:23:09.4581357+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/VMware-VM-Backup-with-Azure-Backup-Server-Part-3-of-4-Connect-Azure-Backup-Server-to-VMware-Server</loc>
+      <lastmod>2019-11-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/10a5/f6df51db-2ce5-4070-bb5a-03fdb36610a5/VMwareBackupWithAzureBackupServer3Of4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VMware VM Backup with Azure Backup Server: Part 3 of 4- Connect Azure Backup Server to VMware Server]]></video:title>
+        <video:description><![CDATA[This video will give an overview of how to connect the VMware server to Azure Backup Server in order to protect the VMware VMs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/10a5/f6df51db-2ce5-4070-bb5a-03fdb36610a5/VMwareBackupWithAzureBackupServer3Of4_mid.mp4</video:content_loc>
+        <video:duration>168</video:duration>
+        <video:publication_date>2016-11-14T05:22:57.8122913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/VMware-VM-Backup-with-Azure-Backup-Server-Part-2-of-4-Share-VMware-Account-to-Azure-Backup-Server</loc>
+      <lastmod>2016-11-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c56/432b4b66-e254-412c-b3e9-d199770b4c56/VMwareBackupWithAzureBackupServer2Of4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VMware VM Backup with Azure Backup Server: Part 2 of 4- Share VMware Account to Azure Backup Server]]></video:title>
+        <video:description><![CDATA[This video will give an overview on how to create a new user account for the VMware server. This user account should have certain minimum privileges that will allow Azure Backup Server to connect with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c56/432b4b66-e254-412c-b3e9-d199770b4c56/VMwareBackupWithAzureBackupServer2Of4.mp4</video:content_loc>
+        <video:duration>331</video:duration>
+        <video:publication_date>2016-11-14T05:22:41.6202102+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/VMware-VM-Backup-with-Azure-Backup-Server-Part-1-of-4-Establish-Secure-Communication-Channel</loc>
+      <lastmod>2016-11-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/69e5/33c0fd79-f4ee-498a-8808-e9c51d9369e5/VMwareBackupWithAzureBackupServer1Of4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VMware VM Backup with Azure Backup Server: Part 1 of 4- Establish Secure Communication Channel]]></video:title>
+        <video:description><![CDATA[The secure HTTPS communication happens between Azure Backup Server and VMware server by installing a trusted certificate on VMware server and Azure Backup Server. This video will give a brief overview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69e5/33c0fd79-f4ee-498a-8808-e9c51d9369e5/VMwareBackupWithAzureBackupServer1Of4_mid.mp4</video:content_loc>
+        <video:duration>217</video:duration>
+        <video:publication_date>2016-11-14T05:05:29.7277551+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Azure-Backup-Security-Features</loc>
+      <lastmod>2016-11-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9935/b83a62e6-48bb-44cc-b765-c73a87709935/AzureBackupSecurityFeatures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Backup - Security Features]]></video:title>
+        <video:description><![CDATA[Azure Backup now provides security capabilities to secure backups. These security features ensure that customers are able to secure their backups and recover data using cloud backups if production and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9935/b83a62e6-48bb-44cc-b765-c73a87709935/AzureBackupSecurityFeatures_mid.mp4</video:content_loc>
+        <video:duration>214</video:duration>
+        <video:publication_date>2016-11-12T07:51:20.9084356+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Alerting--Monitoring-1-of-2-Introducing-Recovery-Services-Vault</loc>
+      <lastmod>2016-11-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/706d/dd5ea7d5-f9a7-4393-aaf7-f7d7c934706d/RecoveryServicesIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Alerting &amp; Monitoring 1 of 2 - Introducing Recovery Services Vault]]></video:title>
+        <video:description><![CDATA[Demonstration of creation of Recovery Services Vault, Setup backup for a machine. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/706d/dd5ea7d5-f9a7-4393-aaf7-f7d7c934706d/RecoveryServicesIntro_high.mp4</video:content_loc>
+        <video:duration>258</video:duration>
+        <video:publication_date>2016-11-10T19:10:25.7949073+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Whats-new-in-SC-DPM-2016</loc>
+      <lastmod>2016-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa1e/c0fa24ac-84f6-484d-952a-0549bc29aa1e/SCDPM2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Whats new in SC DPM 2016?]]></video:title>
+        <video:description><![CDATA[System Center 2016 DPM is now generally available.  DPM 2016 helps you in reducing overall backup TCO with Modern Backup Storage Technology.  DPM 2016&#39;s Modern Backup Storage technology   Reduces&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa1e/c0fa24ac-84f6-484d-952a-0549bc29aa1e/SCDPM2016_mid.mp4</video:content_loc>
+        <video:duration>175</video:duration>
+        <video:publication_date>2016-10-19T15:18:12.3706733+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Configure-Modern-Backup-Storage-in-DPM-2016</loc>
+      <lastmod>2016-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c123/0b86a3b8-81fd-447b-a001-1e918ff3c123/ConfigureDPMMBS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configure Modern Backup Storage in DPM 2016]]></video:title>
+        <video:description><![CDATA[With System Center DPM 2016, we announced Modern Backup Storage, delivering 50% Storage Savings, 3x faster backups, and efficient storage of backups with Workload Aware Storage! Here, we will talk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c123/0b86a3b8-81fd-447b-a001-1e918ff3c123/ConfigureDPMMBS_mid.mp4</video:content_loc>
+        <video:duration>167</video:duration>
+        <video:publication_date>2016-10-19T15:17:39.9624438+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Reduce-TCO-using-DPM-2016-Modern-Backup-Storage</loc>
+      <lastmod>2018-08-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2038/f6779846-c99d-40a1-9ba9-4a5d893f2038/DPMModernBackupStorage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reduce TCO using DPM 2016 Modern Backup Storage ]]></video:title>
+        <video:description><![CDATA[With System Center DPM 2016, we announced Modern Backup Storage, delivering 50% Storage Savings, 3x faster backups, and efficient storage of backups with Workload Aware Storage! Here, we will talk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2038/f6779846-c99d-40a1-9ba9-4a5d893f2038/DPMModernBackupStorage_mid.mp4</video:content_loc>
+        <video:duration>169</video:duration>
+        <video:publication_date>2016-10-19T15:16:43.5638928+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Configure-backup-using-DPM-2016-Modern-Backup-Storage</loc>
+      <lastmod>2018-08-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ecb/1ea3435b-a183-4442-92c1-eb75f1867ecb/BackupToDPMMBS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configure backup using DPM 2016 Modern Backup Storage]]></video:title>
+        <video:description><![CDATA[With System Center DPM 2016, we announced Modern Backup Storage, delivering 50% Storage Savings, 3x faster backups, and efficient storage of backups with Workload Aware Storage! Here, we will talk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ecb/1ea3435b-a183-4442-92c1-eb75f1867ecb/BackupToDPMMBS_mid.mp4</video:content_loc>
+        <video:duration>185</video:duration>
+        <video:publication_date>2016-10-19T15:15:44.0025385+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/DPM-VMWare-VM-backup-1of-4-Establish-Secure-Communication-Channel</loc>
+      <lastmod>2016-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/31ba/6d255c81-1060-4681-bc00-3285894531ba/ConfigureVMWareServerToDPMBackups_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DPM VMware VM backup 1of 4 - Establish Secure Communication Channel]]></video:title>
+        <video:description><![CDATA[The secure HTTPS communication happens between DPM and VMware server by installing a trusted certificate on VMware server and DPM server. This video will give a brief overview of how to establish a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/31ba/6d255c81-1060-4681-bc00-3285894531ba/ConfigureVMWareServerToDPMBackups_mid.mp4</video:content_loc>
+        <video:duration>219</video:duration>
+        <video:publication_date>2016-08-26T11:48:52.5330685+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/DPM-VMware-VM-backup-3-of-4-Connect-DPM-to-VMWare-Server</loc>
+      <lastmod>2016-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4dca/4b78eb98-95df-4d34-b0ad-68071f7b4dca/ConnectDPMtoVMwareServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DPM VMware VM backup 3 of 4 - Connect DPM to VMware Server]]></video:title>
+        <video:description><![CDATA[This video will give an overview of how to connect the VMware server to DPM in order to protect the VMware VMs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4dca/4b78eb98-95df-4d34-b0ad-68071f7b4dca/ConnectDPMtoVMwareServer_mid.mp4</video:content_loc>
+        <video:duration>165</video:duration>
+        <video:publication_date>2016-08-26T11:44:06.7180469+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/DPM-VMWare-VM-backup-2-of-4-Share-VMWare-Account-to-DPM</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a075/f8c3c439-43b6-453c-9ecc-e3874450a075/ShareVMWareAccountToDPM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DPM VMware VM backup 2 of 4 - Share VMware Account to DPM]]></video:title>
+        <video:description><![CDATA[This video will give an overview on how to create a new user account for the VMware server. This user account should have certain minimum privileges that will allow DPM to connect with the VMware&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a075/f8c3c439-43b6-453c-9ecc-e3874450a075/ShareVMWareAccountToDPM_mid.mp4</video:content_loc>
+        <video:duration>326</video:duration>
+        <video:publication_date>2016-08-26T11:42:59.7647565+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/DPM-VMware-VM-backup-4-of-4-Protect-VMware-VM</loc>
+      <lastmod>2016-08-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/25ca/274ded50-7744-4a7f-a9a4-5b78924525ca/DPMBackupVMwareVM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DPM VMware VM backup 4 of 4 - Protect VMware VM]]></video:title>
+        <video:description><![CDATA[This video explains how to set the protection policy for the VMware VMs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/25ca/274ded50-7744-4a7f-a9a4-5b78924525ca/DPMBackupVMwareVM_mid.mp4</video:content_loc>
+        <video:duration>330</video:duration>
+        <video:publication_date>2016-08-26T11:42:36.8366934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Announcing-VMware-VM-backup-with-System-Center-Data-Protection-Manager</loc>
+      <lastmod>2016-12-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb40/ffda6db2-2331-4cc6-ae76-4dfc449bfb40/VMwareVMbackupSCDPM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Announcing VMware VM backup with System Center Data Protection Manager]]></video:title>
+        <video:description><![CDATA[Starting with DPM 2012 R2 UR11, DPM can backup VMware VMs.  Here are the highlights of VMware VM backup. Agentless BackupProtect using vCenter or ESXi serverBackup VMs at a folder levelBackup VMs&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb40/ffda6db2-2331-4cc6-ae76-4dfc449bfb40/VMwareVMbackupSCDPM_mid.mp4</video:content_loc>
+        <video:duration>154</video:duration>
+        <video:publication_date>2016-08-26T11:42:21.9126374+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Alerting--Monitoring-2-of-2-Configure-Notifications</loc>
+      <lastmod>2018-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdec/2bc96ba7-4590-4667-b56b-98c79e2dcdec/BackupAlertingMonitoring_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Alerting &amp; Monitoring 2 of 2 - Configure Notifications]]></video:title>
+        <video:description><![CDATA[Demonstration of alerting and monitoring for Azure backups ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdec/2bc96ba7-4590-4667-b56b-98c79e2dcdec/BackupAlertingMonitoring_mid.mp4</video:content_loc>
+        <video:duration>270</video:duration>
+        <video:publication_date>2016-08-12T14:01:10.0412889+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Microsoft-Azure-Backup-Server-2-of-2-Install-Microsoft-Azure-Backup-Server</loc>
+      <lastmod>2015-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a52a/48842133-8438-47da-8b0c-99ba4ea9a52a/MABSInstall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Backup Server 2 of 2 - Install Microsoft Azure Backup Server]]></video:title>
+        <video:description><![CDATA[Azure Backup, a cloud backup solution which enables Operations Management Suite, provides full fidelity of workload backup. As an online backup solution, it provides backup for all key Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a52a/48842133-8438-47da-8b0c-99ba4ea9a52a/MABSInstall_mid.mp4</video:content_loc>
+        <video:duration>206</video:duration>
+        <video:publication_date>2015-11-30T17:23:30.1612118+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Microsoft-Azure-Backup-Server-1-of-2-Download-Microsoft-Azure-Backup-Server</loc>
+      <lastmod>2015-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b96/e47993f8-d81f-4ea7-a01a-187a4ee58b96/MABSDownload_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Backup Server 1 of 2 - Download Microsoft Azure Backup Server]]></video:title>
+        <video:description><![CDATA[Azure Backup, a cloud backup solution which enables Operations Management Suite, provides full fidelity of workload backup. As an online backup solution, it provides backup for all key Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b96/e47993f8-d81f-4ea7-a01a-187a4ee58b96/MABSDownload_mid.mp4</video:content_loc>
+        <video:duration>142</video:duration>
+        <video:publication_date>2015-11-30T17:22:27.1999935+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Introducing-Azure-Backup-Server</loc>
+      <lastmod>2019-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/87c98ded-f9f4-46dd-aea7-bd95291b6972.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Azure Backup Server]]></video:title>
+        <video:description><![CDATA[Azure Backup, a cloud backup solution which enables Operations Management Suite, provides full fidelity of workload backup. As an online backup solution, it provides backup for all key Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/819e/0a264156-d311-43cb-a669-a9c7ec5d819e/AzureBackupServer_mid.mp4</video:content_loc>
+        <video:duration>264</video:duration>
+        <video:publication_date>2015-11-23T21:49:56.1625956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/FAQs-on-DPM-and-Azure-Backup-at-MS-Ignite-2015</loc>
+      <lastmod>2015-05-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/75f4/8dfbc341-62d4-4d79-ab25-b76f740375f4/BoothVideoAtMSIgnite2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[FAQs on DPM and Azure Backup at MS Ignite 2015]]></video:title>
+        <video:description><![CDATA[This video captures most frequently asked questions around Azure Backup and SCDPM at MS Ignite 2015 Booth. - VMWare VM Backup? - New Azure Backup Pricing - Client Backup ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/75f4/8dfbc341-62d4-4d79-ab25-b76f740375f4/BoothVideoAtMSIgnite2015_mid.mp4</video:content_loc>
+        <video:duration>498</video:duration>
+        <video:publication_date>2015-05-12T09:47:10.7597488+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Microsoft-SCDPM-Protection-of-SharePoint-2-of-2-How-to-restore-a-SharePoint-item-from-disk</loc>
+      <lastmod>2015-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7936/45e2c0b5-2652-4be4-8dd1-24c16fd37936/RestoreSharePointItemfromDisk_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft SCDPM Protection of SharePoint - 2 of 2 - How to restore a SharePoint item from disk]]></video:title>
+        <video:description><![CDATA[Microsoft Azure Backup is a simple yet powerful service that empowers customers to backup Microsoft workloads to Azure. This video series will help you backup your Microsoft SharePoint to Azure using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7936/45e2c0b5-2652-4be4-8dd1-24c16fd37936/RestoreSharePointItemfromDisk_mid.mp4</video:content_loc>
+        <video:duration>370</video:duration>
+        <video:publication_date>2015-03-12T14:02:32.2137634+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Microsoft-SCDPM-Protection-of-SharePoint-1-of-2-How-to-create-a-SharePoint-Protection-Group</loc>
+      <lastmod>2015-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e24/4b193561-ae27-4469-96e2-bbd423990e24/CreationOfProtectionGroup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft SCDPM Protection of SharePoint - 1 of 2 - How to create a SharePoint Protection Group]]></video:title>
+        <video:description><![CDATA[Microsoft Azure Backup is a simple yet powerful service that empowers customers to backup Microsoft workloads to Azure. This video series will help you backup your Microsoft SharePoint to Azure using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e24/4b193561-ae27-4469-96e2-bbd423990e24/CreationOfProtectionGroup_mid.mp4</video:content_loc>
+        <video:duration>360</video:duration>
+        <video:publication_date>2015-03-12T14:01:57.8316072+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Getting-Started-with-Azure-Backup-3-of-3-Start-backing-up-your-production-server</loc>
+      <lastmod>2017-11-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/26ee/a452988e-728b-4f73-bf72-422bbfef26ee/BackupYourProductionServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Azure Backup 3 of 3 - Start backing up your production server]]></video:title>
+        <video:description><![CDATA[Microsoft Azure Backup is a simple yet powerful service that empowers customers to backup Microsoft workloads to Azure. This video series will help you backup your Windows Servers to Azure using Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/26ee/a452988e-728b-4f73-bf72-422bbfef26ee/BackupYourProductionServer_mid.mp4</video:content_loc>
+        <video:duration>285</video:duration>
+        <video:publication_date>2014-11-12T12:36:08.6888639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Getting-Started-with-Azure-Backup-2-of-3-Prepare-your-production-server-for-Azure-Backup</loc>
+      <lastmod>2017-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2a9/41f6cd7f-4e8a-4e05-926a-095fcb94b2a9/PrepareYourProductionServer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Azure Backup 2 of 3 - Prepare your production server for Azure Backup]]></video:title>
+        <video:description><![CDATA[Microsoft Azure Backup is a simple yet powerful service that empowers customers to backup Microsoft workloads to Azure. This video series will help you backup your Windows Servers to Azure using Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2a9/41f6cd7f-4e8a-4e05-926a-095fcb94b2a9/PrepareYourProductionServer_mid.mp4</video:content_loc>
+        <video:duration>186</video:duration>
+        <video:publication_date>2014-11-12T12:35:51.5581131+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Backup/Getting-Started-with-Azure-Backup-1-of-3-Set-up-a-backup-vault-on-Azure</loc>
+      <lastmod>2021-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/74fa/215dfe94-3d77-4447-801d-f971e79174fa/SetUpABackupVault_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Azure Backup 1 of 3 - Set up a backup vault on Azure]]></video:title>
+        <video:description><![CDATA[Microsoft Azure Backup is a simple yet powerful service that empowers customers to backup Microsoft workloads to Azure. This video series will help you backup your Windows Servers to Azure using Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/74fa/215dfe94-3d77-4447-801d-f971e79174fa/SetUpABackupVault_mid.mp4</video:content_loc>
+        <video:duration>214</video:duration>
+        <video:publication_date>2014-11-12T12:35:48.8969267+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

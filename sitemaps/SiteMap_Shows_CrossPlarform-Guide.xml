@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/CrossPlarform-Guide</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/CrossPlarform-Guide/crossplatformguide</loc>
+      <lastmod>2015-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/746a/2931581d-d0a7-48b3-9883-5101c163746a/CrossPlatform_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using C++ and Xamarin create Native Android Applicaton with Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[This is guildline for using C&amp;#43;&amp;#43; and Xamarin to create Native Android Application with Visual Studio 2015My Name is Kinfey. Lo . I come form China . I am Microsoft Windows Platform MVP . ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/746a/2931581d-d0a7-48b3-9883-5101c163746a/CrossPlatform_mid.mp4</video:content_loc>
+        <video:duration>547</video:duration>
+        <video:publication_date>2015-07-20T04:07:35.6052879+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students/Premire-page-web-dans-Microsoft-Azure-avec-Visual-Studio-Community-2015</loc>
+      <lastmod>2015-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db33/2bde0a09-1c2a-4986-ba4a-8b5d83e8db33/PremierepagewebdansMicrosoftAzureavecVisualStudio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Premi&#232;re page web dans Microsoft Azure avec Visual Studio Community 2015]]></video:title>
+        <video:description><![CDATA[Dans cette vid&#233;o, vous d&#233;couvrirez comment il est possible en quelques minutes seulement, de d&#233;ployer une page web dans Microsoft Azure, &#224; l&#39;aide de Visual Studio Community 2015 ! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db33/2bde0a09-1c2a-4986-ba4a-8b5d83e8db33/PremierepagewebdansMicrosoftAzureavecVisualStudio_mid.mp4</video:content_loc>
+        <video:duration>662</video:duration>
+        <video:publication_date>2015-10-04T22:19:56.9202025+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Students/Microsoft-Azure-pour-DreamSpark</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49f4/28ed217a-9529-4e16-b3b4-3259948549f4/MicrosoftAzurepourDreamSpark_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure pour DreamSpark]]></video:title>
+        <video:description><![CDATA[Microsoft permet &#224; tous les &#233;tudiants de cr&#233;er un compte Azure gratuitement afin d&#39;y h&#233;berger des applications et pages web ! Dans cette vid&#233;o, vous d&#233;couvrirez l&#39;offre Microsoft Azure pour DreamSpark&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49f4/28ed217a-9529-4e16-b3b4-3259948549f4/MicrosoftAzurepourDreamSpark_mid.mp4</video:content_loc>
+        <video:duration>843</video:duration>
+        <video:publication_date>2015-09-28T15:09:24.8429519+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

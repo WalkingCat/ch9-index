@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-for-Node-Developers</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-for-Node-Developers/Create-a-Nodejs-app-in-Azure-Quickstart</loc>
+      <lastmod>2019-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/13bf/8f17281a-7357-45c9-919d-d55af51813bf/AzureNodeQuickstart_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a Node.js app in Azure (Quickstart)]]></video:title>
+        <video:description><![CDATA[Only have a few moments?  How about creating your first Node.js app in Azure in a few of those minutes!  John Papa and Simona Cotin show you the easy steps to quickly get your first app created and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/13bf/8f17281a-7357-45c9-919d-d55af51813bf/AzureNodeQuickstart_mid.mp4</video:content_loc>
+        <video:duration>404</video:duration>
+        <video:publication_date>2017-08-01T15:32:31.0207369+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-for-Node-Developers/Welcome-to-the-Azure-for-Nodejs-Developer-Center</loc>
+      <lastmod>2019-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/20c2/6f0340a0-07fb-401b-b4a8-231f5d3520c2/AzureNodeDevCenterWelcome_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to the Azure for Node.js Developer Center]]></video:title>
+        <video:description><![CDATA[Welcome to the Azure for Node.js Developer Center.  Listen to John Papa, Simona Cotin, and Burke Holland give you a quick description of what resources are available and visit the Azure for Node.js&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/20c2/6f0340a0-07fb-401b-b4a8-231f5d3520c2/AzureNodeDevCenterWelcome_mid.mp4</video:content_loc>
+        <video:duration>204</video:duration>
+        <video:publication_date>2017-08-01T15:32:22.5990900+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

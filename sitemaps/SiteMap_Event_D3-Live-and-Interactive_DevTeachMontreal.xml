@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/D3-Live-and-Interactive/DevTeachMontreal</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/D3-Live-and-Interactive/DevTeachMontreal/DTM03</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/144b/76d537d6-8e9b-4166-9936-7638656c144b/DTM03_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Outtakes]]></video:title>
+        <video:description><![CDATA[The parts of the video that were edited out. [00:14] Because the camera isn&#39;t right there...Jonathan and Howard are interrupted when an attendee decides that there is no where else to walk but right&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/144b/76d537d6-8e9b-4166-9936-7638656c144b/DTM03_mid.mp4</video:content_loc>
+        <video:duration>199</video:duration>
+        <video:publication_date>2012-12-13T14:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/D3-Live-and-Interactive/DevTeachMontreal/DTM02</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3881/983d8ebe-ac6e-4ce7-af00-bc718a103881/DTM02_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Sit Down with Howard Dierking]]></video:title>
+        <video:description><![CDATA[Host Jonathan Rozenblit sits down with Howard Dierking, Program Manager on the ASP.NET and Windows Azure team, to find out what&#39;s new and exciting. Links and Resources Katana Project on CodePlex OWIN&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3881/983d8ebe-ac6e-4ce7-af00-bc718a103881/DTM02_mid.mp4</video:content_loc>
+        <video:duration>2184</video:duration>
+        <video:publication_date>2012-12-13T12:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/D3-Live-and-Interactive/DevTeachMontreal/DTM01</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/429c/77bdce88-0298-4b48-b4d2-dcf24e8a429c/BeyondVMs_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Beyond VMs: From Saving Money to Adding Value]]></video:title>
+        <video:description><![CDATA[Of course everyone wants to save money – right? But how true is this in practice when it comes to cloud computing? And more importantly, if the cloud is little more than a bunch of rented virtual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/429c/77bdce88-0298-4b48-b4d2-dcf24e8a429c/BeyondVMs_mid.mp4</video:content_loc>
+        <video:duration>3947</video:duration>
+        <video:publication_date>2012-12-13T02:57:02.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

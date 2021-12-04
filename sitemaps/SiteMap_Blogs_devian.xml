@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Creating-a-OneNote-Section-Template-in-under-Two-Minutes</loc>
+      <lastmod>2019-10-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a489/4116bc3d-f131-46e9-8290-e64968d2a489/OneNoteTemplates_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a OneNote Section Template in under Two Minutes]]></video:title>
+        <video:description><![CDATA[Here I&#39;m showing just how easy it is to create a OneNote template for you to reuse in a specific section of a notebook...   /ip ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a489/4116bc3d-f131-46e9-8290-e64968d2a489/OneNoteTemplates_mid.mp4</video:content_loc>
+        <video:duration>99</video:duration>
+        <video:publication_date>2016-01-29T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Logic-Apps-Twitter-to-Azure-Blob-Storage</loc>
+      <lastmod>2016-09-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ca3/00a3ffda-325e-4835-b2fb-71c74c900ca3/LogicAppTwitterBlob_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Logic Apps: Twitter to Azure Blob Storage]]></video:title>
+        <video:description><![CDATA[In this episode I create a Logic App that uses the Twitter and Blob storage connectors. [01:57] - Create Resource Group[03:07] - Setup Azure Blob Storage Connector[07:15] - Setup Twitter&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ca3/00a3ffda-325e-4835-b2fb-71c74c900ca3/LogicAppTwitterBlob_mid.mp4</video:content_loc>
+        <video:duration>1357</video:duration>
+        <video:publication_date>2015-10-14T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Teaser-More-Band-and-Robots</loc>
+      <lastmod>2021-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a38/f6c3828e-dff1-4846-93c5-3733826a9a38/bandbot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teaser: More Band and Robots...]]></video:title>
+        <video:description><![CDATA[I need to make a stand for the motors on the back... but you get the idea. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a38/f6c3828e-dff1-4846-93c5-3733826a9a38/bandbot_mid.mp4</video:content_loc>
+        <video:duration>89</video:duration>
+        <video:publication_date>2015-09-09T17:25:04.6590256+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/5-Minutes-with-Visual-Studio-2015-Community-Installer</loc>
+      <lastmod>2015-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d63/60ed03b5-f5cf-47b6-8800-eb2181905d63/5minVSInstall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 Minutes with Visual Studio 2015 Community Installer]]></video:title>
+        <video:description><![CDATA[A quick 5 minute-ish video about installing Visual Studio 2015 Community. [00:29] - Let&#39;s get started... [01:17] - Download the installer [01:57] - Available features [03:30] - Launch Visual Studio   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d63/60ed03b5-f5cf-47b6-8800-eb2181905d63/5minVSInstall_mid.mp4</video:content_loc>
+        <video:duration>310</video:duration>
+        <video:publication_date>2015-09-08T18:42:33.2733830+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Teaser-Microsoft-Band-and-Robots</loc>
+      <lastmod>2019-02-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5791/1caf608b-df4a-4d91-a342-dc14e24f5791/bandRobot_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teaser: Microsoft Band and Robots...]]></video:title>
+        <video:description><![CDATA[Jared Rhodes (IoT Guru) and I meet up for a quick hack session down at the Advanced Robotics Lab at Georgia Tech. While this doesn&#39;t necessarily put the &amp;quot;Advanced&amp;quot; in ARL @ GT it does&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5791/1caf608b-df4a-4d91-a342-dc14e24f5791/bandRobot_mid.mp4</video:content_loc>
+        <video:duration>64</video:duration>
+        <video:publication_date>2015-09-03T17:30:35.1885843+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/5-Minutes-with-Chocolatey</loc>
+      <lastmod>2015-12-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e827/7d5af261-8988-423e-bf38-0073f71ce827/choco_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 Minutes with Chocolatey]]></video:title>
+        <video:description><![CDATA[In this video, I cover Chocolatey package manager.  &amp;quot;Chocolatey is a package manager for Windows (like apt-get or yum but for Windows). It was designed to be a decentralized framework for quickly&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e827/7d5af261-8988-423e-bf38-0073f71ce827/choco_mid.mp4</video:content_loc>
+        <video:duration>300</video:duration>
+        <video:publication_date>2015-08-25T14:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/5-Minutes-with-Kibana-Overview-Dashboard</loc>
+      <lastmod>2018-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b8be/3b1480c5-2b40-425b-bf29-b74879bdb8be/5minKibanaOverviewDashboard_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 Minutes with Kibana - Overview Dashboard]]></video:title>
+        <video:description><![CDATA[Let&#39;s create some data visualizations using Kibana. Kibana is the &amp;quot;K&amp;quot; in the ELK stack. The ELK stack stands for: Elastic SearchLogstashKibanaI have a Windows Server running in Azure that is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b8be/3b1480c5-2b40-425b-bf29-b74879bdb8be/5minKibanaOverviewDashboard_mid.mp4</video:content_loc>
+        <video:duration>331</video:duration>
+        <video:publication_date>2015-08-20T20:25:17.3245885+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Part-One-StackExchange-Citizenship-with-Tom-Stringer</loc>
+      <lastmod>2017-09-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9137/8a471af9-9016-43da-a3d7-861c7cf69137/StacCitizen_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Part One - StackExchange Citizenship with Tom Stringer]]></video:title>
+        <video:description><![CDATA[In this video I interview Tom Stringer a Support Escalation Engineer in the CSS organization. We discuss topics around being a good citizen on the StackExchange network. [00:00] - StackExchange&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9137/8a471af9-9016-43da-a3d7-861c7cf69137/StacCitizen_mid.mp4</video:content_loc>
+        <video:duration>1516</video:duration>
+        <video:publication_date>2015-08-12T19:21:15.1282615+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Installing-Jenkins-in-Two-Minutes</loc>
+      <lastmod>2017-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4a55/4b2bae2a-6e62-464f-be9f-831b60f44a55/JenkinsUnderTwo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Installing Jenkins in Two Minutes...]]></video:title>
+        <video:description><![CDATA[So, you want to play with Jenkins CI... well you have to get it running first. This isn&#39;t the service installer setup, but launching from the cmd prompt. For experimenting with Jenkins this is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4a55/4b2bae2a-6e62-464f-be9f-831b60f44a55/JenkinsUnderTwo_mid.mp4</video:content_loc>
+        <video:duration>127</video:duration>
+        <video:publication_date>2015-07-15T14:44:29.6235315+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/devian/Cloud-Azure-DevOps-Love-and-Hate</loc>
+      <lastmod>2015-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/08-Podsumowanie--Release-Management</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09f2/128c79c5-0cba-4128-987f-f2b1780b09f2/08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[08 Podsumowanie  Release Management.]]></video:title>
+        <video:description><![CDATA[ Podsumowanie. Uwagi o utrzymaniu aplikacji. Kursy powiązane: https://channel9.msdn.com/Series/Visual-Studio-Application-Insights--jak-monitorowa-wasne-aplikacje-nie-tylko-Web-owe  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09f2/128c79c5-0cba-4128-987f-f2b1780b09f2/08_mid.mp4</video:content_loc>
+        <video:duration>244</video:duration>
+        <video:publication_date>2016-03-24T08:38:17.1191466+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/07-Scenariusz-II--wdroenie-na-rodowisku-on-premise-na-wasnych-serwerach-wydanie</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4f23/8bafebd1-65f9-483b-8eb0-e78075094f23/07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[07 Scenariusz II  wdroenie na rodowisku &quot;on premise&quot;, na wasnych serwerach - wydanie]]></video:title>
+        <video:description><![CDATA[Jak wykorzystać nową kolejkę do wykonywania operacji. Jak wygląda przepływ autoryzacji. Jak użyć zmiennych do bezpiecznego przechowywania haseł. Jak (i gdzie) będą wykonywane kolejne kroki z procesu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4f23/8bafebd1-65f9-483b-8eb0-e78075094f23/07_mid.mp4</video:content_loc>
+        <video:duration>403</video:duration>
+        <video:publication_date>2016-03-24T08:34:02.1096535+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/06-Scenariusz-II--wdroenie-na-rodowisku-on-premise-na-wasnych-serwerach-konfiguracja</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e867/755a54a6-6541-4536-9099-286dc184e867/06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 Scenariusz II  wdroenie na rodowisku &quot;on premise&quot;, na wasnych serwerach - konfiguracja]]></video:title>
+        <video:description><![CDATA[Jak można wykorzystać Visual Studio Team Services do wdrożenia kodu na własnych serwerach. &amp;quot;on premise&amp;quot;. Jak zarejestrować własnego agenta (dla Build Server i Release Management). Jak&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e867/755a54a6-6541-4536-9099-286dc184e867/06_mid.mp4</video:content_loc>
+        <video:duration>501</video:duration>
+        <video:publication_date>2016-03-24T08:33:48.3720648+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/05-Szybki-przegld-pozostaych-moliwoci-Release-z-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ae9/07d1aef3-9707-4d94-9a19-477de34e3ae9/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Szybki przegld pozostaych moliwoci Release z Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Bardzo szybki przegląd przez pozostałe możliwości jakie daje Release Management w VSTS.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ae9/07d1aef3-9707-4d94-9a19-477de34e3ae9/05_mid.mp4</video:content_loc>
+        <video:duration>637</video:duration>
+        <video:publication_date>2016-03-24T08:33:39.9800774+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/04-Scenariusz-I--strona-WWW--proces-wydania-wdroenia</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a5cc/1389f2c2-5188-4c0e-b697-a60b0a83a5cc/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Scenariusz I  strona WWW  proces wydania (wdroenia)]]></video:title>
+        <video:description><![CDATA[Tworzenie definicji wydania automatem, na podstawie wykonanej kompilacji przez Build Server. Klonowanie środowisk. Obserwowanie postęp&#243;w (i skutku) instalacji wydania. Ręczne potwierdzanie że proces&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a5cc/1389f2c2-5188-4c0e-b697-a60b0a83a5cc/04_mid.mp4</video:content_loc>
+        <video:duration>963</video:duration>
+        <video:publication_date>2016-03-24T08:33:14.8814277+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/03-Scenariusz-I--strona-WWW--konfiguracja-dostpu-do-subskrypcji-Azure-ASM</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3258/a6bb4116-e386-4dee-8222-bdc506353258/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Scenariusz I  strona WWW  konfiguracja dostpu do subskrypcji Azure (ASM) ]]></video:title>
+        <video:description><![CDATA[W jaki spos&#243;b skonfigurować dostęp do Azure tak by Release m&#243;gł zainstalować kod na Web App. Definiowanie r&#243;żnych slot&#243;w w Web App w kt&#243;re wgrywane będzie nasze rozwiązanie. Używany jest mechanizm&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3258/a6bb4116-e386-4dee-8222-bdc506353258/03_mid.mp4</video:content_loc>
+        <video:duration>297</video:duration>
+        <video:publication_date>2016-03-24T08:33:02.1414771+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/02-Scenariusz-I--strona-WWW--wykorzystanie-Build-Server</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de25/6badb42e-c615-44a1-a342-38616e97de25/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02  Scenariusz I  strona WWW  wykorzystanie Build Server ]]></video:title>
+        <video:description><![CDATA[W jaki spos&#243;b .Jak przygotować paczkę przy użyciu Build Server kt&#243;ra może być wdrożona mechanizmem WebDeploy. Jak wyglądają związki pomiędzy &amp;quot;commitami&amp;quot;, &amp;quot;workitemami&amp;quot; a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de25/6badb42e-c615-44a1-a342-38616e97de25/02_mid.mp4</video:content_loc>
+        <video:duration>530</video:duration>
+        <video:publication_date>2016-03-24T08:32:52.4608018+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-jako-wdrozenie-i-Build-Server/01-Wstp--co-dokadnie-da-nam-Release</loc>
+      <lastmod>2016-03-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7b59/dd2ecdf7-d279-4120-bb83-e544127e7b59/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wstp  co dokadnie da nam Release ]]></video:title>
+        <video:description><![CDATA[Do czego służy Release Management. Jak wpasowuje się w proces DevOps. Jakie są podstawowe kroki kt&#243;re należy wykonać by wdrożyć rozwiązanie. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7b59/dd2ecdf7-d279-4120-bb83-e544127e7b59/01_mid.mp4</video:content_loc>
+        <video:duration>510</video:duration>
+        <video:publication_date>2016-03-24T08:32:43.2574041+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

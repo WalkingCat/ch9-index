@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-Enterprise-Mobility--Security--Azure-Rights-Management</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-Enterprise-Mobility--Security--Azure-Rights-Management/Mdulo-IV-Habilitar-IRM-para-la-proteccin-de-bibliotecas-de-Sharepoint</loc>
+      <lastmod>2017-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/957b/e1f737e8-defd-4c6e-9762-6de0c89a957b/EMSARMMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Habilitar IRM para la protecci&#243;n de bibliotecas de Sharepoint]]></video:title>
+        <video:description><![CDATA[Habilitar bibliotecas que tendr&#225;n el servicio de RMS y revisar c&#243;mo funciona este. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/957b/e1f737e8-defd-4c6e-9762-6de0c89a957b/EMSARMMod4_mid.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2017-01-10T14:59:03.1100208+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-Enterprise-Mobility--Security--Azure-Rights-Management/Mdulo-III-Configuracin-de-Polticas-de-RMS</loc>
+      <lastmod>2017-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5345/d3e5d61c-c9d7-4858-816a-1e7740725345/EMSARMMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Configuraci&#243;n de Pol&#237;ticas de RMS]]></video:title>
+        <video:description><![CDATA[Creaci&#243;n de plantillas para aplicar las pol&#237;ticas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5345/d3e5d61c-c9d7-4858-816a-1e7740725345/EMSARMMod3_mid.mp4</video:content_loc>
+        <video:duration>1067</video:duration>
+        <video:publication_date>2017-01-10T14:58:38.0154832+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-Enterprise-Mobility--Security--Azure-Rights-Management/Mdulo-II-Habilitando-RMS</loc>
+      <lastmod>2018-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/156a/1e515ce2-0170-4d18-8b9c-d7407977156a/RMSMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Habilitando RMS  ]]></video:title>
+        <video:description><![CDATA[Explicaremos c&#243;mo se habilita el servicio de RMS y lo que se debe tener en cuenta antes de implementarlo. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/156a/1e515ce2-0170-4d18-8b9c-d7407977156a/RMSMod2_mid.mp4</video:content_loc>
+        <video:duration>1466</video:duration>
+        <video:publication_date>2017-01-10T14:58:21.8774555+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-Enterprise-Mobility--Security--Azure-Rights-Management/Mdulo-I-Qu-es-Azure-RMS</loc>
+      <lastmod>2019-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49ab/449003ad-1d70-4838-943b-f90dd49b49ab/EMSRMSMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - &#191;Qu&#233; es Azure RMS?]]></video:title>
+        <video:description><![CDATA[Introducci&#243;n al servicio de RMS, explicando en que consiste, los requisitos para trabajar con RMS, topolog&#237;as de RMS. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49ab/449003ad-1d70-4838-943b-f90dd49b49ab/EMSRMSMod1_mid.mp4</video:content_loc>
+        <video:duration>899</video:duration>
+        <video:publication_date>2017-01-10T14:57:58.8127896+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Interactive-Panel-2</loc>
+      <lastmod>2020-11-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Windows 8 Metro style apps with C++: Expert Panel]]></video:title>
+        <video:description><![CDATA[Chas Boyd, Sridhar Madhugiri,  Lukasz Chodorski, Rahul V. Patil, Geni Fernandes, Jim Hogg and Jesse Bishop answer questions from the audience ( both on premise and in the cloud  ) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2_mid.mp4</video:content_loc>
+        <video:duration>2925</video:duration>
+        <video:publication_date>2012-06-06T20:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Casablanca</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Casablanca]]></video:title>
+        <video:description><![CDATA[Casablanca is an incubation project available on MSDN DevLabs. Its primary purpose is to explore how to access and author REST services in modern C&amp;#43;&amp;#43; using best practices such as asynchronous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca_mid.mp4</video:content_loc>
+        <video:duration>1804</video:duration>
+        <video:publication_date>2012-06-05T02:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Porting-a-desktop-app-to-a-Metro-style-app</loc>
+      <lastmod>2020-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Porting a desktop app to a Metro style app]]></video:title>
+        <video:description><![CDATA[What does it take to port a desktop app to Metro? Learn about the common issues when porting and techniques to help address them. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar_mid.mp4</video:content_loc>
+        <video:duration>2038</video:duration>
+        <video:publication_date>2012-06-02T21:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Cpp-and-DirectX-for-Metro-Style-Games</loc>
+      <lastmod>2020-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9169/25c9f3ce-5ab4-4862-9391-5f0473079169/CppAndDirectXforMetroGames_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[C++ and DirectX for Metro Style Games]]></video:title>
+        <video:description><![CDATA[DirectX, the most popular 3-D game API, is directly accessible by Windows 8 metro-style applications in C&amp;#43;&amp;#43;. If you have a C&amp;#43;&amp;#43;/Direct3D codebase, or want to create a 3-D game, this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy_mid.mp4</video:content_loc>
+        <video:duration>3966</video:duration>
+        <video:publication_date>2012-05-30T16:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Async-made-simple-with-Cpp-PPL</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Async made simple with C++ PPL]]></video:title>
+        <video:description><![CDATA[The new Windows Runtime is adopting a heavily asynchronous programming model to ensure the responsiveness of Windows 8 client apps. This makes it more critical than ever to have great support for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL_mid.mp4</video:content_loc>
+        <video:duration>2126</video:duration>
+        <video:publication_date>2012-05-28T19:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Building-Apps-with-Cpp-XAML-and-DirectX</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ce0a/e4151487-bd0d-47a3-934a-2d65e074ce0a/CombiningXAMLDirectXforWin8Apps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Combining XAML and DirectX in Metro style apps]]></video:title>
+        <video:description><![CDATA[Windows 8 introduces the ability to use both XAML and DirectX in the same C&amp;#43;&amp;#43; Metro-style app, allowing you to combine the rich UI and interactivity of XAML with the power and control of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce0a/e4151487-bd0d-47a3-934a-2d65e074ce0a/CombiningXAMLDirectXforWin8Apps_mid.mp4</video:content_loc>
+        <video:duration>2430</video:duration>
+        <video:publication_date>2012-05-25T02:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Building-Metro-style-apps-with-XAML-and-Cpp</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b980/2c771d6f-b479-4726-96ec-8c5ce6b9b980/BuildingMetroStyleAppswithXAMLandCPPTimHeuer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Metro style apps with XAML and C++]]></video:title>
+        <video:description><![CDATA[With the introduction of Metro style apps for C&amp;#43;&amp;#43; developers, Microsoft now brings the XAML UI platform to native code!  I will take you through a lap around creating a Metro style app in XAML&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b980/2c771d6f-b479-4726-96ec-8c5ce6b9b980/BuildingMetroStyleAppswithXAMLandCPPTimHeuer_mid.mp4</video:content_loc>
+        <video:duration>4416</video:duration>
+        <video:publication_date>2012-05-23T15:35:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Getting-the-most-out-of-the-MSVC-compiler-AutoVectorizer</loc>
+      <lastmod>2016-05-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a90e/3369c950-486f-48ec-93cd-aaa6bd15a90e/Win8CppEventJimHoggAutoV_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting the most out of the C++ compiler]]></video:title>
+        <video:description><![CDATA[The C&amp;#43;&amp;#43; compiler in Visual Studio 11 includes a new feature, called auto-vectorization.  It analyses the loops in C&amp;#43;&amp;#43; code and tries to make them run faster by using the vector&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a90e/3369c950-486f-48ec-93cd-aaa6bd15a90e/Win8CppEventJimHoggAutoV_mid.mp4</video:content_loc>
+        <video:duration>814</video:duration>
+        <video:publication_date>2012-05-22T07:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/The-Windows-Runtime-Library-WRL-</loc>
+      <lastmod>2020-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/59ac/41401ae3-9839-4d44-bba3-3bfc61e659ac/TheWindowsRuntimeLibrarySridhar_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Windows Runtime Library (WRL)]]></video:title>
+        <video:description><![CDATA[What is WRL and how does it help you write Metro Apps? Learn what is involved in consuming and authoring WinRT objects with WRL. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/59ac/41401ae3-9839-4d44-bba3-3bfc61e659ac/TheWindowsRuntimeLibrarySridhar_mid.mp4</video:content_loc>
+        <video:duration>2562</video:duration>
+        <video:publication_date>2012-05-22T01:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Cpp-for-the-Windows-Runtime</loc>
+      <lastmod>2020-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/1bce6d6d-7282-4429-ad93-46f491a728e4.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Herb Sutter: Visual C++ for Windows 8]]></video:title>
+        <video:description><![CDATA[Want to know how to write cool tablet apps using Visual C&amp;#43;&amp;#43;? To kick off our day of Metro style programming in VC&amp;#43;&amp;#43;, this talk will begin with an overview of how the WinRT type system&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/21aa/f915d2c7-3673-4f6b-b794-e16d848b21aa/CPPfortheWindowsRuntimeHerbSutter_mid.mp4</video:content_loc>
+        <video:duration>3992</video:duration>
+        <video:publication_date>2012-05-22T01:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Building-Windows-Runtime-Components-with-Cpp</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/4bdbc12e-4f03-4aaa-a66c-37b9b1483023.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Windows Runtime Components with C++]]></video:title>
+        <video:description><![CDATA[The Windows Runtime enables developers from a variety of languages – JavaScript, C#, Visual Basic and C&amp;#43;&amp;#43; - to use the Windows APIs in a natural and familiar way. But did you know that you can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6d0/164a8996-e468-4cf5-a1e7-b03c4062a6d0/BuildingWindowsRunTimeComponentswithCPPHarryPiers_mid.mp4</video:content_loc>
+        <video:duration>2052</video:duration>
+        <video:publication_date>2012-05-21T21:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Blend-and-XAML</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/01c8/ae48b6e8-8fca-487f-b154-661551ca01c8/Win8CppEventXAMLBlendVS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Walkthrough: Designing Metro style apps with XAML Designer in VS and Blend]]></video:title>
+        <video:description><![CDATA[If you want your Metro style app to delight users you&#39;ll want to start with a great UX design. In this session, I will show you some of the key features of XAML designer in Visual Studio and Blend to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/374c/b7b9aee4-8e82-4796-8b0a-5fb8394c374c/BlendandXAMLWalkthroughNavitSaxena_mid.mp4</video:content_loc>
+        <video:duration>986</video:duration>
+        <video:publication_date>2012-05-21T19:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Interactive-Panel-1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8b2/da68a791-078f-4ca6-8aa9-05d4cedae8b2/InteractivePanel1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Interactive Panel #1]]></video:title>
+        <video:description><![CDATA[Herb Sutter, Vikas Bhatia, Sridhar Madhugiri, Tim Heuer and Harry Pierson answer questions from the audience ( both on premise and in the cloud  ) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8b2/da68a791-078f-4ca6-8aa9-05d4cedae8b2/InteractivePanel1_mid.mp4</video:content_loc>
+        <video:duration>1111</video:duration>
+        <video:publication_date>2012-05-15T02:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

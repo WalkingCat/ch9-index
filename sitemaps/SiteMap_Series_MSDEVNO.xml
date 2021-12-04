@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Stream-processing-with-Apache-Kafka-on-DCOS-on-Azure</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cad0/65b38243-9b1f-4ed2-9d00-2dab73cccad0/StreamprocessingKafkaDCOS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stream processing with Apache Kafka on DC/OS running on Azure]]></video:title>
+        <video:description><![CDATA[Would you like to learn how to do stream processing with Apache Kafka on DC/OS running on Azure? In this video Michael Hausenblas from Mesosphere walks us through a demo around financial transaction&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cad0/65b38243-9b1f-4ed2-9d00-2dab73cccad0/StreamprocessingKafkaDCOS_mid.mp4</video:content_loc>
+        <video:duration>2241</video:duration>
+        <video:publication_date>2016-12-19T16:08:59.3354975+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Patterns-and-Practices-on-LEAP</loc>
+      <lastmod>2016-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/298f/93a00146-be95-4000-889d-4148410b298f/Patprac_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Patterns and Practices on LEAP]]></video:title>
+        <video:description><![CDATA[In this short video, Christopher Bennage and Masashi Narumoto give a very brief talk about why it matters to stay up to date on technology, as part of their LEAP engagement in Norway. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/298f/93a00146-be95-4000-889d-4148410b298f/Patprac_mid.mp4</video:content_loc>
+        <video:duration>107</video:duration>
+        <video:publication_date>2016-12-06T07:00:21.2310885+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/LEAP-2017-Invitation</loc>
+      <lastmod>2016-09-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8aee/d39b89d8-e0bc-43b3-8e80-4e1a19868aee/leap2017promo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[LEAP 2017 Invitation]]></video:title>
+        <video:description><![CDATA[Lead Enterprise Architecture Program (LEAP) extends the knowledge and insights of experienced solution architects in Microsoft&#39;s software portfolio for the enterprise market. All footage in this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8aee/d39b89d8-e0bc-43b3-8e80-4e1a19868aee/leap2017promo_mid.mp4</video:content_loc>
+        <video:duration>74</video:duration>
+        <video:publication_date>2016-09-15T04:54:33.3293590+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Ta-i-bruk-Azure-storage-med-Java</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d4b7/a82a769f-7068-4d0a-bd6a-8bd4faded4b7/storage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ta i bruk Azure Storage i Java]]></video:title>
+        <video:description><![CDATA[Kjapp video p&#229; hvordan du kommer igang og bruker Azure Storage i dine Java-applikasjoner. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d4b7/a82a769f-7068-4d0a-bd6a-8bd4faded4b7/storage_mid.mp4</video:content_loc>
+        <video:duration>703</video:duration>
+        <video:publication_date>2016-06-01T10:20:28.5694290+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Invitasjon-for-ISVer-til-Worldwide-Partner-Conference-2016</loc>
+      <lastmod>2016-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2673/15b84643-8318-4705-9bfc-e7fe2f812673/arif_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Invitasjon for ISV&#39;er til Worldwide Partner Conference 2016]]></video:title>
+        <video:description><![CDATA[Microsoft inviterer deg som ISV partner til Worldwide Partner Conference 2016 i Toronto, Canada. WPC er stedet hvor man knytter nye kontakter, skaper nye muligheter og hvor &#171;Business gets done&#187;. Vi&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2673/15b84643-8318-4705-9bfc-e7fe2f812673/arif_mid.mp4</video:content_loc>
+        <video:duration>45</video:duration>
+        <video:publication_date>2016-05-02T08:39:10.3669062+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Kom-igang-med-Bizspark-og-Azure</loc>
+      <lastmod>2016-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05bc/dec441da-0949-4cef-9142-4022da0205bc/bizsparkandazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kom igang med Bizspark og Azure]]></video:title>
+        <video:description><![CDATA[L&#230;r deg hvordan du kommer igang med BizSpark og deployer virtuelle maskiner i Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05bc/dec441da-0949-4cef-9142-4022da0205bc/bizsparkandazure_mid.mp4</video:content_loc>
+        <video:duration>922</video:duration>
+        <video:publication_date>2016-04-25T14:42:48.9427529+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Bizspark-enrollment</loc>
+      <lastmod>2016-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cece/af56dd3c-81cd-4566-8686-ad1f3e41cece/BSreg_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bizspark enrollment]]></video:title>
+        <video:description><![CDATA[Kjapp video som viser hvordan du registrerer deg for BizSpark. Sjekk ogs&#229; guiden her: http://bretstateham.com/bizspark-enrollment-tutorial/   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cece/af56dd3c-81cd-4566-8686-ad1f3e41cece/BSreg_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2016-04-25T14:33:02.2523377+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Kom-igang-med-Azure-Management-Libs-for-Java</loc>
+      <lastmod>2017-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2194/340258eb-0b1a-407b-a368-72b76cb42194/javamgmtlibs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kom igang med Azure Management Libs for Java]]></video:title>
+        <video:description><![CDATA[Se hvordan du finner Azure Management Libraries p&#229; Maven og bruker disse for &#229; autentisere mot ditt Azure abonnement og printer ut en liste over tilgjengelige regioner hvor du kan deploye ressurser.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2194/340258eb-0b1a-407b-a368-72b76cb42194/javamgmtlibs_mid.mp4</video:content_loc>
+        <video:duration>928</video:duration>
+        <video:publication_date>2016-04-07T07:40:22.0978489+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Azure-deployment-direkte-fra-Eclipse</loc>
+      <lastmod>2016-04-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e36b/30b149a6-d20c-400f-8ea2-db2c60b8e36b/azuretoolkitforeclipse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure deployment direkte fra Eclipse]]></video:title>
+        <video:description><![CDATA[Se hvordan man enkelt deployer Java applikasjoner til Azure med Azure Toolkit for Eclipse. Denne videoen finnes ogs&#229; som bloggpost her. Hvis du ikke har et Azureabonnement kan du opprette ett p&#229; kun&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e36b/30b149a6-d20c-400f-8ea2-db2c60b8e36b/azuretoolkitforeclipse.mp4</video:content_loc>
+        <video:duration>721</video:duration>
+        <video:publication_date>2016-04-07T06:13:13.1085821+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Innovasjonscamp-med-Microsoft</loc>
+      <lastmod>2016-04-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b05/f1be7e96-4ae7-4d91-a3db-50960c0d8b05/blkr_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Innovasjonscamp med Microsoft]]></video:title>
+        <video:description><![CDATA[September 2015 arrangerte Ungt Entrepren&#248;rskap i samarbeid med Microsoft; en innovasjonscamp p&#229; Bleiker VGS for deres studenter! Se et utdrag fra vinnerteamene MicroDrone og Tira, og se hva de likte&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b05/f1be7e96-4ae7-4d91-a3db-50960c0d8b05/blkr_mid.mp4</video:content_loc>
+        <video:duration>254</video:duration>
+        <video:publication_date>2016-04-06T09:27:57.3985770+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Mvp-Nytt-Episode-1-Cathrine-Wilhelmsen</loc>
+      <lastmod>2017-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb20/2427804a-bcc3-4b43-b9d1-969bbc2ceb20/mvpnews01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mvp Nytt Episode 1 - Cathrine Wilhelmsen]]></video:title>
+        <video:description><![CDATA[Pedro har en hyggelig prat med v&#229;r MVP, Cathrine Wilhelmsen  om nytt rundt SQL Server 2016 Mer informasjon: Microsoft Data Platform User Group Norway (MDPUG)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb20/2427804a-bcc3-4b43-b9d1-969bbc2ceb20/mvpnews01_mid.mp4</video:content_loc>
+        <video:duration>903</video:duration>
+        <video:publication_date>2016-03-31T05:26:31.8493243+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Nettverksfundamenter</loc>
+      <lastmod>2016-04-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cd23/112471d5-f9c9-4eb6-b55f-82f00bc2cd23/Nettverksfundamenter_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Nettverksfundamenter]]></video:title>
+        <video:description><![CDATA[Nettverksfundamenter ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cd23/112471d5-f9c9-4eb6-b55f-82f00bc2cd23/Nettverksfundamenter_mid.mp4</video:content_loc>
+        <video:duration>954</video:duration>
+        <video:publication_date>2016-02-23T13:31:53.9874672+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Webcast-med-AIMS-Innovation</loc>
+      <lastmod>2016-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/197e/6cb332f1-712f-4f5c-a529-339faaf6197e/WebcastAIMS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Webcast med AIMS Innovation]]></video:title>
+        <video:description><![CDATA[BizTalk er for mange virksomheter krevende &#229; drifte samtidig som business krav til integrasjon internt og mot forretningspartnere &#248;ker eksplosivt.  Evnen til &#229; effektivt levere og drifte integrasjon&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/197e/6cb332f1-712f-4f5c-a529-339faaf6197e/WebcastAIMS_mid.mp4</video:content_loc>
+        <video:duration>2200</video:duration>
+        <video:publication_date>2016-02-04T21:03:24.1981958+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Berg-Hansen-Hackathon-2016</loc>
+      <lastmod>2016-04-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8fe9/02566479-053b-4999-b4ef-51bf30df8fe9/bgh_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Berg Hansen Hackathon 2016]]></video:title>
+        <video:description><![CDATA[Berg Hansen Hackathon 2016   MELD DEG P&#197;! Les mer og meld deg p&#229;:http://hackathon.berg-hansen.no eller via Facebook: https://www.facebook.com/events/1102156896502468/   NB: Hvert lag kan ha max fem&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8fe9/02566479-053b-4999-b4ef-51bf30df8fe9/bgh_mid.mp4</video:content_loc>
+        <video:duration>181</video:duration>
+        <video:publication_date>2016-01-27T23:01:36.7791063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/LED-to-Azure-Starter-Pack</loc>
+      <lastmod>2017-07-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a19e/6de2bc67-14f7-4c19-b5f0-cbafcbbba19e/led2azure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[LED to Azure Starter Pack]]></video:title>
+        <video:description><![CDATA[Tobias Kullblikk, MSP fra NTNU og Anders Gill; Technical Evagelist hos Microsoft viser deg hvordan du kan f&#229; en LED lampe til &#229; lyse gjennom Azure!Anders sin epostadresse: angill@microsoft.comTrykk p&#229;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a19e/6de2bc67-14f7-4c19-b5f0-cbafcbbba19e/led2azure_mid.mp4</video:content_loc>
+        <video:duration>726</video:duration>
+        <video:publication_date>2016-01-18T10:57:55.7266012+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Benny-the-intelligent-plant</loc>
+      <lastmod>2016-04-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0d4a/cdddf880-73db-42c5-adcd-ebc83f580d4a/HoB_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Benny, the intelligent plant]]></video:title>
+        <video:description><![CDATA[This is the history about Benny, a living room plant near death, and how his geeky patron made him intelligent by hooking him up with some sensors, and connecting him to Azure. The spoken language is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0d4a/cdddf880-73db-42c5-adcd-ebc83f580d4a/HoB_mid.mp4</video:content_loc>
+        <video:duration>488</video:duration>
+        <video:publication_date>2015-11-17T15:05:15.9014443+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Microsoft-Oxford-API-Gjr-din-app-smart-helt-gratis</loc>
+      <lastmod>2016-04-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d3c/e5259efe-9710-4f82-8e89-8d87cb0f6d3c/oxford_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Oxford API - Gj&#248;r din app smart, helt gratis!]]></video:title>
+        <video:description><![CDATA[Erlend Westbye (Lead Microsoft Student Partner fra HiOA) viser deg hva Project Oxford g&#229;r ut p&#229;, og hvordan du kan ta det i bruk til &#229; gj&#248;re din programvare smartere, helt gratis! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d3c/e5259efe-9710-4f82-8e89-8d87cb0f6d3c/oxford_mid.mp4</video:content_loc>
+        <video:duration>408</video:duration>
+        <video:publication_date>2015-11-10T22:38:46.6468247+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Hvordan-laste-opp-din-nettside-til-Azure-for-Dreamspark</loc>
+      <lastmod>2015-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7844/51f5f79c-05f5-4e33-8b23-f745d5867844/dreamsparkazurewebapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hvordan laste opp din nettside til Azure for Dreamspark]]></video:title>
+        <video:description><![CDATA[Her viser Anders deg hvordan du enkelt kan laste opp din nettside til Azure ved &#229; laste ned Publish Settings File. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7844/51f5f79c-05f5-4e33-8b23-f745d5867844/dreamsparkazurewebapp_mid.mp4</video:content_loc>
+        <video:duration>238</video:duration>
+        <video:publication_date>2015-10-29T16:34:07.2750292+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Windows-10-Devices-Event-Podcast</loc>
+      <lastmod>2015-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b41a/2a5c9496-e604-4f7a-b8f6-c5a5318bb41a/deviceswin10podcast_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 Devices Event Podcast]]></video:title>
+        <video:description><![CDATA[Windows 10 Devices Event Podcast hos Henning Mosand Stephansen med Anders Gill fra Microsoft ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b41a/2a5c9496-e604-4f7a-b8f6-c5a5318bb41a/deviceswin10podcast_mid.mp4</video:content_loc>
+        <video:duration>3451</video:duration>
+        <video:publication_date>2015-10-12T06:47:32.0238437+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Aspnet-5-gjennom-Visual-Studio-Code-p-Windows</loc>
+      <lastmod>2015-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/ce311d36-3c73-42e9-b393-9a1e0557be6d.png</video:thumbnail_loc>
+        <video:title><![CDATA[Asp.net 5 gjennom Visual Studio Code p&#229; Windows]]></video:title>
+        <video:description><![CDATA[Asp.net 5 gjennom Visual Studio Code p&#229; Windows Codelist: http://pastebin.com/N7iUBr72   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e57d/919d4946-6a69-440f-b28c-6c9397fde57d/AspnetVSC_mid.mp4</video:content_loc>
+        <video:duration>1043</video:duration>
+        <video:publication_date>2015-10-05T09:06:02.4755470+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/IoT-og-Raspberry-Pi-2-Kickstart-Guide</loc>
+      <lastmod>2015-10-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5339/55bfb6d9-5f14-4fc2-8feb-93a8a90e5339/IoT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[IoT og Raspberry Pi 2 Kickstart Guide]]></video:title>
+        <video:description><![CDATA[IoT og Raspberry Pi 2 Kickstart Guide Kode: http://pastebin.com/qDTihHH6   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5339/55bfb6d9-5f14-4fc2-8feb-93a8a90e5339/IoT_mid.mp4</video:content_loc>
+        <video:duration>518</video:duration>
+        <video:publication_date>2015-10-05T09:05:22.9527036+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Hvordan-aktivere-Azure-via-Dreamspark-p-to-minutter</loc>
+      <lastmod>2015-10-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a1eb/77a478c0-36f0-4401-9816-760a903aa1eb/DreamsparkActivateAzure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hvordan aktivere Azure via Dreamspark p&#229; to minutter]]></video:title>
+        <video:description><![CDATA[Hvordan aktivere Azure via Dreamspark p&#229; to minutter Dreamspark: Her. Trenger du kode? Send epost til angill@microsoft.com og sp&#248;r om kode.Trenger du hjelp til &#229; registrere Azure? Send epost til&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a1eb/77a478c0-36f0-4401-9816-760a903aa1eb/DreamsparkActivateAzure_mid.mp4</video:content_loc>
+        <video:duration>119</video:duration>
+        <video:publication_date>2015-10-05T09:04:58.0716514+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Lr-Azure-Machine-Learning-p-1-2-3</loc>
+      <lastmod>2015-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/6562713c-f965-44c6-819c-b550efb66c9e.png</video:thumbnail_loc>
+        <video:title><![CDATA[L&#230;r Azure Machine Learning p&#229; 1-2-3]]></video:title>
+        <video:description><![CDATA[Vi pr&#248;ver &#229; forutse inntekten til personer basert p&#229; alder og kj&#248;nn. Dataset: gender,age,incomem,26,500000m,27,600000f,25,550000m,29,744939f,29,434646m,34,646786m,49,999000f,30,670000 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f214/f513743f-a2e4-42c0-973c-d847e04ef214/ML_mid.mp4</video:content_loc>
+        <video:duration>462</video:duration>
+        <video:publication_date>2015-10-05T09:04:37.0764185+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Microsoft-Student-Hackathon-2015-Throwback</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4bbb/d6437d54-127e-4e83-b5d3-3ce309844bbb/hackser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Student Hackathon 2015 Throwback]]></video:title>
+        <video:description><![CDATA[Microsoft Student Hackathon 2015 Throwback Winner of Microsoft Student Hackathon 2015:http://finnderapp.azurewebsites.net/ Winner of Cloud performer:http://hiof.azurewebsites.net/ Student&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4bbb/d6437d54-127e-4e83-b5d3-3ce309844bbb/hackser_mid.mp4</video:content_loc>
+        <video:duration>173</video:duration>
+        <video:publication_date>2015-09-30T07:45:34.7408478+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Hvordan-laste-opp-din-CV-til-Azure-via-FTP</loc>
+      <lastmod>2015-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d7ec/9a16f758-7483-41a1-b38c-bb9c7391d7ec/cvviaftp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hvordan laste opp din CV til Azure via FTP]]></video:title>
+        <video:description><![CDATA[V&#229;r kj&#230;re Microsoft Student Partner (MSP), Erlend Westbye viser deg hvordan du enkelt kan laste opp din nettside (f.eks. din CV) opp i skyen i en webapp ved bruken av FIle Transfer Protocol (FTP).Et&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d7ec/9a16f758-7483-41a1-b38c-bb9c7391d7ec/cvviaftp_mid.mp4</video:content_loc>
+        <video:duration>267</video:duration>
+        <video:publication_date>2015-09-21T07:06:34.5929013+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/vs2015nor</loc>
+      <lastmod>2015-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8623/2b842e5a-63be-45e0-8241-5f7c775c8623/vs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Community Day Norge 2015 - presentasjon]]></video:title>
+        <video:description><![CDATA[Visual Studio Community Day Norge 2015 - presentasjonPS: Ingen lyd! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8623/2b842e5a-63be-45e0-8241-5f7c775c8623/vs_mid.mp4</video:content_loc>
+        <video:duration>311</video:duration>
+        <video:publication_date>2015-09-16T19:31:42.5616182+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/SC-Episode-6-Om-spillutvikling</loc>
+      <lastmod>2015-03-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afe4/ecb6ec6c-1c8a-4f05-95f5-fdde09acafe4/SCEpisode6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[S&amp;C Episode 6 - Om spillutvikling]]></video:title>
+        <video:description><![CDATA[Denne episoden snakker vi kun om game utvikling! Er du en dreven game utvikler og vil vite mer om Windows plattformen eller at du dr&#248;mmer &#229; komme i gang med spillutvikling og gi ut dine egne spill? Da&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afe4/ecb6ec6c-1c8a-4f05-95f5-fdde09acafe4/SCEpisode6_mid.mp4</video:content_loc>
+        <video:duration>1602</video:duration>
+        <video:publication_date>2014-12-09T10:05:15.5102577+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/S-C-Episode-5</loc>
+      <lastmod>2014-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e98c/0de92478-5f1b-41ee-a986-8e5f06cee98c/SCEpisode5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[S&amp;C Episode 5 Hvor kult er ASP.Net vNext egentlig?]]></video:title>
+        <video:description><![CDATA[I denne episoden har vi bes&#248;k av Claus S&#248;rensen fra Novanet. Han viser oss litt av det som kommer i ASP.Net vNext.  Nyhetene i denne episoden presenterer: Surface Pro 3Internet Explorer Developer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e98c/0de92478-5f1b-41ee-a986-8e5f06cee98c/SCEpisode5_mid.mp4</video:content_loc>
+        <video:duration>1215</video:duration>
+        <video:publication_date>2014-07-24T13:54:56.0255941+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/S-C-episode-4</loc>
+      <lastmod>2014-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ce47/929c077d-19c9-47a8-ae1f-9303ed56ce47/PodCast4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[S&amp;C episode 4 Er .net virkelig open source n&#229;?]]></video:title>
+        <video:description><![CDATA[Vi f&#229;r som vanlig litt nyheter f&#248;r Olav Nyb&#248; fra Novanet gjester oss. Han kikker litt p&#229; ASP.Net og snakker ogs&#229; litt om .Net Foundation og bruk av Git i Visual Studio.Med kode! Lenker til mer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce47/929c077d-19c9-47a8-ae1f-9303ed56ce47/PodCast4_mid.mp4</video:content_loc>
+        <video:duration>1265</video:duration>
+        <video:publication_date>2014-07-03T14:41:54.8030531+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Podast-episode-2-1337</loc>
+      <lastmod>2014-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7c90/20d55655-a1f1-4ca2-9153-d5c0f53b7c90/devcast2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Podast episode 2.1337 Kan man hoste Office 365 apper i Azure og Unity FTW!]]></video:title>
+        <video:description><![CDATA[I denne episoden g&#229;r vi gjennom siste nytt f&#248;r vi endelig f&#229;r se litt kode!!  F&#248;rst vil Arif demonstrere hvordan du enkelt kan opprette Office 365 apper som er hostet i Azure. Deretter tar Petri en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7c90/20d55655-a1f1-4ca2-9153-d5c0f53b7c90/devcast2_mid.mp4</video:content_loc>
+        <video:duration>1549</video:duration>
+        <video:publication_date>2014-05-30T12:53:20.6507050+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/PodCast-episode-1-1337-del-2</loc>
+      <lastmod>2015-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0987/bb142670-0daf-4744-877d-e99b904a0987/PodCast2II_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PodCast episode 1.1337 del 2 Mobile Service awesomness med Christer Aas]]></video:title>
+        <video:description><![CDATA[I del 2 av denne episoden f&#229;r du m&#248;te v&#229;r aller f&#248;rste gjest, Christer V. Aas (twitter: @CHRAAS) fra selskapet Making Waves Norway. Han viser oss litt av hva som er nytt innenfor Microsoft Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0987/bb142670-0daf-4744-877d-e99b904a0987/PodCast2II_mid.mp4</video:content_loc>
+        <video:duration>848</video:duration>
+        <video:publication_date>2014-05-02T13:56:19.3053331+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/PodCast-episode-1-1337</loc>
+      <lastmod>2014-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f742/18290ad9-d1f6-404c-9798-f72d01f8f742/PodCast1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PodCast episode 1.1337 Debug koden din fra en nettleser, Visual Studio Online]]></video:title>
+        <video:description><![CDATA[I denne episoden gir vi deg v&#229;re 4 topp forslag til navnekonkurransen(01:16) samt litt nyheter(03:15) f&#248;r Ronny Hansen forteller litt om hva Visual Studio Online er(07:15). Lenker Navnekonkurranse,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f742/18290ad9-d1f6-404c-9798-f72d01f8f742/PodCast1_mid.mp4</video:content_loc>
+        <video:duration>784</video:duration>
+        <video:publication_date>2014-05-02T10:51:21.0327517+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MSDEVNO/Podcast-episode-0</loc>
+      <lastmod>2018-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb95/71f06f11-42df-4d42-a150-ad2da093fb95/Episode0_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Podcast episode 0.1337 Kan vi virkelig lage norsk podcast? ]]></video:title>
+        <video:description><![CDATA[Vi introduserer v&#229;r podcast og gir samtidig en introduksjon til hvem vi er. I tillegg f&#229;r du noen ganske f&#229; smakebiter fra BUILD konferansen. Sist, men ikke minst, s&#229; trenger vi DIN hjelp til &#229; sette&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb95/71f06f11-42df-4d42-a150-ad2da093fb95/Episode0_mid.mp4</video:content_loc>
+        <video:duration>1310</video:duration>
+        <video:publication_date>2014-04-10T16:09:01.8086551+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

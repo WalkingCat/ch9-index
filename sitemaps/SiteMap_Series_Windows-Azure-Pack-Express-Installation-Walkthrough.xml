@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Pack-Express-Installation-Walkthrough</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Pack-Express-Installation-Walkthrough/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c041/81fd901e-bb8e-4145-bc1f-c157bc1bc041/696WinAzurePackExpressInstallM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Pack: Express Installation Walkthrough: (02) Preparing Images/Disks/Networks and&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Examine the tasks to prepare IaaS resources in VMM, and walk through acquiring gallery resources, importing resource extension, and preparing the virtual hard drive and data disk. With the Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c041/81fd901e-bb8e-4145-bc1f-c157bc1bc041/696WinAzurePackExpressInstallM02_mid.mp4</video:content_loc>
+        <video:duration>1543</video:duration>
+        <video:publication_date>2015-04-05T18:51:58.9821621+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Azure-Pack-Express-Installation-Walkthrough/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e56/589e08e7-ea9d-422e-81d2-a79395b95e56/696WinAzurePackExpressInstallM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Pack: Express Installation Walkthrough: (01) WAP Overview and Setting Up the IaaS&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Get a brief overview of the Windows Azure Pack product vision and architecture. Walk through demos that put essential Windows Azure Pack components in place, including application code, SPF, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e56/589e08e7-ea9d-422e-81d2-a79395b95e56/696WinAzurePackExpressInstallM01_mid.mp4</video:content_loc>
+        <video:duration>2483</video:duration>
+        <video:publication_date>2015-04-05T18:51:49.7664446+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/justinjsmith</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/justinjsmith/ACS-Labs-Walkthrough</loc>
+      <lastmod>2015-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4089/564089/ACSLabsWalkthrough_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[ACS Labs Walkthrough]]></video:title>
+        <video:description><![CDATA[This screencast walksthrough creating an ASP.NET MVC application that uses ACS to broker authentication with Windows Live ID, Google, and Yahoo!.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4089/564089/ACSLabsWalkthrough_ch9.mp4</video:content_loc>
+        <video:duration>779</video:duration>
+        <video:publication_date>2010-08-05T21:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/justinjsmith/Access-Control-Service-and-ADFS-v2-Integration</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/4/6/6/9/4/acsadfsv2demo_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Access Control Service and ADFS v2 Integration]]></video:title>
+        <video:description><![CDATA[Here&#39;s a quick demo offering a preview into how the pending version of the Access Control Service integrates with ADFS v2.
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/4/6/6/9/4/acsadfsv2demo_ch9.mp4</video:content_loc>
+        <video:duration>406</video:duration>
+        <video:publication_date>2009-10-07T11:38:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gaming-Services-on-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gaming-Services-on-Azure/4-Game-Analytics-with-Azure</loc>
+      <lastmod>2017-05-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/864d/00e31b29-9d77-4ade-975c-8c2a007d864d/04GameAnalytics_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4. Game Analytics with Azure]]></video:title>
+        <video:description><![CDATA[There is a huge trend for games to go towards a &amp;quot;Free to Play Model&amp;quot; where game revenue has to come from sources other than the traditional sale cost of the game. To understand and react to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/864d/00e31b29-9d77-4ade-975c-8c2a007d864d/04GameAnalytics_mid.mp4</video:content_loc>
+        <video:duration>2209</video:duration>
+        <video:publication_date>2017-02-07T11:59:04.0415497+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gaming-Services-on-Azure/3-Saved-Games-in-Azure</loc>
+      <lastmod>2018-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5346/87e025a2-c48c-4923-bb48-60a7e5395346/02GamingSavedGames_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3. Saved Games in Azure]]></video:title>
+        <video:description><![CDATA[In this third episode of Gaming Services on Azure, we dive into the how to persist game state on the server side of your game. There are many reasons why a game or a game developer wants to persist&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5346/87e025a2-c48c-4923-bb48-60a7e5395346/02GamingSavedGames_mid.mp4</video:content_loc>
+        <video:duration>1318</video:duration>
+        <video:publication_date>2017-02-07T11:25:47.9012583+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gaming-Services-on-Azure/2-Azure-Compute-for-Games</loc>
+      <lastmod>2019-11-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/170b/df7669bf-fa48-4475-8a8c-598cc561170b/02GamingAzureCompute_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2. Azure Compute for Games]]></video:title>
+        <video:description><![CDATA[While the first episode of the Azure Game Services series provided a generic overview of Azure and how it could be leveraged by game developers, this episode will cover compute scenarios for games,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/170b/df7669bf-fa48-4475-8a8c-598cc561170b/02GamingAzureCompute_mid.mp4</video:content_loc>
+        <video:duration>1288</video:duration>
+        <video:publication_date>2017-02-07T10:53:27.9884676+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Gaming-Services-on-Azure/1-Overview</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3673/785c1923-be00-4bf3-b67f-6156e0553673/01GamingOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1. Overview]]></video:title>
+        <video:description><![CDATA[Major titles like Halo, HITMAN, and The Walking Dead No Man&#39;s Land are leveraging Azure to build great experiences for their players. If you have an existing backend infrastructure or are planning to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3673/785c1923-be00-4bf3-b67f-6156e0553673/01GamingOverview_mid.mp4</video:content_loc>
+        <video:duration>3745</video:duration>
+        <video:publication_date>2017-02-03T19:22:38.5856775+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

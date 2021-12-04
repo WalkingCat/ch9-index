@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IoT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/IoT/Windows-10-IoT-Core-fast-start-on-Raspberry-Pi-2</loc>
+      <lastmod>2016-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eddf/06dc50aa-a1e9-4849-8108-fa9cbe78eddf/Windows10IoTCoreFastStart_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows 10 IoT Core fast start on Raspberry Pi 2]]></video:title>
+        <video:description><![CDATA[Windows 10 IoT Core fast start on Raspberry Pi 2 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eddf/06dc50aa-a1e9-4849-8108-fa9cbe78eddf/Windows10IoTCoreFastStart_mid.mp4</video:content_loc>
+        <video:duration>485</video:duration>
+        <video:publication_date>2016-03-15T16:24:18.0064351+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

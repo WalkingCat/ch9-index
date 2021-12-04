@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msedgedev</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msedgedev/Creating-CSS-Grid</loc>
+      <lastmod>2019-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/12ef/741995c1-1732-4ff5-95ff-04a2487012ef/CreatingCSSGrid_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating CSS Grid]]></video:title>
+        <video:description><![CDATA[A look at how CSS Grid Layout went from an idea to a reality shipping in all major browsers in 2017. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/12ef/741995c1-1732-4ff5-95ff-04a2487012ef/CreatingCSSGrid_mid.mp4</video:content_loc>
+        <video:duration>174</video:duration>
+        <video:publication_date>2017-09-21T00:19:19.9986616+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msedgedev/nolanlaw-web-perf-crisis</loc>
+      <lastmod>2018-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2a2/cd251b43-45d5-4f34-9985-b5cbb559f2a2/webperfcrisis_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Solving the&#160;Web Performance Crisis]]></video:title>
+        <video:description><![CDATA[Adapted from an internal Microsoft event - presented by Nolan Lawson. The slides for this presentation are available here. Recent research by DoubleClick shows that 53% of mobile sites are abandoned&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2a2/cd251b43-45d5-4f34-9985-b5cbb559f2a2/webperfcrisis_mid.mp4</video:content_loc>
+        <video:duration>2463</video:duration>
+        <video:publication_date>2017-01-12T22:44:12.2313178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msedgedev/The-Progress-of-Web-Apps</loc>
+      <lastmod>2016-12-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b258/19270222-30a6-418d-b85d-c8def8a8b258/pwas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Progress of Web Apps]]></video:title>
+        <video:description><![CDATA[News of the Web&#39;s death is greatly exaggerated: HTML, CSS, and JavaScript are more pervasive than ever, and have long since broken out of the browser and into standalone experiences with tools like&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b258/19270222-30a6-418d-b85d-c8def8a8b258/pwas_mid.mp4</video:content_loc>
+        <video:duration>2019</video:duration>
+        <video:publication_date>2016-11-18T00:08:16.1214583+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msedgedev/WebAssembly-AngryBots-Demo</loc>
+      <lastmod>2016-10-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2d1/20504f48-a05b-42ea-b7eb-81b12dd6e2d1/WebAsmBots_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WebAssembly AngryBots Demo]]></video:title>
+        <video:description><![CDATA[We&#39;ve been hard at work developing support for WebAssembly in Microsoft Edge at the open-source ChakraCore project repo. Microsoft Edge and ChakraCore are close to shipping the browser preview, which&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5809/fc672e67-732a-484c-b375-4445c27f5809/WebAssemblyAngryBots_mid.mp4</video:content_loc>
+        <video:duration>20</video:duration>
+        <video:publication_date>2016-10-31T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/msedgedev/Edge-14-overview</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b329/559509e1-8f4f-4ede-873c-488a022db329/Edge14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What&#39;s new in Edge 14]]></video:title>
+        <video:description><![CDATA[Join Helen Huang (an intern on the Web Platform Team) and Jonathan Sampson (a program manager on the Web Platform Team) for a quick tour of some highlights from Edge in the Windows 10 Anniversary&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b329/559509e1-8f4f-4ede-873c-488a022db329/Edge14_mid.mp4</video:content_loc>
+        <video:duration>919</video:duration>
+        <video:publication_date>2016-08-25T20:32:28.5798912+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

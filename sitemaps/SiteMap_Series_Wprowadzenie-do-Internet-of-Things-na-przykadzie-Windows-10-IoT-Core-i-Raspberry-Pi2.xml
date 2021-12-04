@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Internet-of-Things-na-przykadzie-Windows-10-IoT-Core-i-Raspberry-Pi2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Internet-of-Things-na-przykadzie-Windows-10-IoT-Core-i-Raspberry-Pi2/Instalacja-Windows-10-IoT-Core-na-urzadzeniu</loc>
+      <lastmod>2015-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ebe/d562f1cb-d452-49ae-8843-ddb59bbc0ebe/instalacja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instalacja Windows 10 IoT Core na urzdzeniu]]></video:title>
+        <video:description><![CDATA[Podczas tego modułu zostanie om&#243;wiona Instalacja Windows 10 IoT Core na Raspberry Pi2 z Windows 10 oraz z Windows 7/8.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ebe/d562f1cb-d452-49ae-8843-ddb59bbc0ebe/instalacja_mid.mp4</video:content_loc>
+        <video:duration>1220</video:duration>
+        <video:publication_date>2015-07-20T13:06:21.6726187+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Internet-of-Things-na-przykadzie-Windows-10-IoT-Core-i-Raspberry-Pi2/Kompilowanie-i-wgrywanie-aplikacji-do-Windows-10-IoT-Core</loc>
+      <lastmod>2015-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fd8c/38ead9c4-7755-49b4-966e-3a8cd8f5fd8c/kompilowanie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kompilowanie i wgrywanie aplikacji do Windows 10 IoT Core]]></video:title>
+        <video:description><![CDATA[Pierwsze kroki z Windows 10 IoT Core, podłączenie do zdalnego zarządzania, zmiana haseł i finalnie kompilowanie i wgrywanie aplikacji do Windows 10 IoT Core bezpośrednio z Visual Studio 2015.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fd8c/38ead9c4-7755-49b4-966e-3a8cd8f5fd8c/kompilowanie_mid.mp4</video:content_loc>
+        <video:duration>1977</video:duration>
+        <video:publication_date>2015-07-20T09:02:26.6496471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Wprowadzenie-do-Internet-of-Things-na-przykadzie-Windows-10-IoT-Core-i-Raspberry-Pi2/Internet-Rzeczy-i-Windows-10-IoT-Core</loc>
+      <lastmod>2015-07-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0811/888d4f16-9022-4907-81e7-9d4953de0811/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Internet Rzeczy i Windows 10 IoT Core]]></video:title>
+        <video:description><![CDATA[Wstęp do pojęcia Internet Rzeczy oraz do Windows 10 IoT Core – wraz z  opisem infrastruktury zewnętrznej. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0811/888d4f16-9022-4907-81e7-9d4953de0811/wstep_mid.mp4</video:content_loc>
+        <video:duration>585</video:duration>
+        <video:publication_date>2015-07-20T08:33:57.2645274+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Great-Performance-out-of-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Great-Performance-out-of-Azure/Mod4</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/99e2/39c59405-87bb-48f9-a171-591e5fbe99e2/Mod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 4) Monitoring Your Service]]></video:title>
+        <video:description><![CDATA[How well is your service really running? Is it scaling as it should? In this module we&#39;ll explore how to keep track of service performance and availability and how to get alerted to any issues that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/99e2/39c59405-87bb-48f9-a171-591e5fbe99e2/Mod4_mid.mp4</video:content_loc>
+        <video:duration>1407</video:duration>
+        <video:publication_date>2014-12-19T12:04:14.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Great-Performance-out-of-Azure/Mod3</loc>
+      <lastmod>2016-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3366/1738e15d-6e59-405b-991a-d9faec4b3366/Mod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 3) Building in Scale]]></video:title>
+        <video:description><![CDATA[In this module we learn how to add power on demand so our service can adapt to changes in load across every tier.This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3366/1738e15d-6e59-405b-991a-d9faec4b3366/Mod3_mid.mp4</video:content_loc>
+        <video:duration>1630</video:duration>
+        <video:publication_date>2014-12-19T12:03:36.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Great-Performance-out-of-Azure/Mod2</loc>
+      <lastmod>2017-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0ac/7969a39b-22a4-4848-a3c1-185de8a2d0ac/Mod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 2) Planning for Performance]]></video:title>
+        <video:description><![CDATA[There are often multiple ways to achieve the same goal in Azure but which one would give the best result? In this module we&#39;ll work through some common architecture choices and learn how to build for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0ac/7969a39b-22a4-4848-a3c1-185de8a2d0ac/Mod2_mid.mp4</video:content_loc>
+        <video:duration>1384</video:duration>
+        <video:publication_date>2014-12-19T12:02:29.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Getting-Great-Performance-out-of-Azure/Mod1</loc>
+      <lastmod>2015-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa43/e9aa1c45-0ab4-495e-a927-82f6e1fcaa43/Mod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(Module 1) Introduction]]></video:title>
+        <video:description><![CDATA[We&#39;ll start the course by taking a look what performance means, your role in keeping things running well and how cloud architecture allows us to deliver performance on demand.This video is part of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa43/e9aa1c45-0ab4-495e-a927-82f6e1fcaa43/Mod1_mid.mp4</video:content_loc>
+        <video:duration>646</video:duration>
+        <video:publication_date>2014-12-19T12:01:12.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

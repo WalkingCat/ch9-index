@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-19-Serious-Gaming-with-Microsoft-Band</loc>
+      <lastmod>2017-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/65d4/b82ccb58-1275-4af6-bbf6-3ea2d60365d4/GameDevShow19_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 19 - Serious Gaming with Microsoft Band]]></video:title>
+        <video:description><![CDATA[In this episode, Tech Evangelist Amanda Lange visits Plas.Md, a startup in Camden, to check out Bionautica, the game/app they are developing with Microsoft Band integration. Using the Microsoft Band,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/65d4/b82ccb58-1275-4af6-bbf6-3ea2d60365d4/GameDevShow19_mid.mp4</video:content_loc>
+        <video:duration>598</video:duration>
+        <video:publication_date>2016-06-22T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-18-Introduction-to-Git-LFS</loc>
+      <lastmod>2018-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/694e/67c4791a-8f50-46ed-b043-9ac7c88a694e/Gitlfs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 18 - Introduction to Git-LFS]]></video:title>
+        <video:description><![CDATA[How do you deal with large files, using Git? Before, you had to deal with bloated repos and mixing multiple version control systems. Now, you don&#39;t have to, you can use Git-LFS! Exactly what is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/694e/67c4791a-8f50-46ed-b043-9ac7c88a694e/Gitlfs_mid.mp4</video:content_loc>
+        <video:duration>997</video:duration>
+        <video:publication_date>2016-06-15T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/17</loc>
+      <lastmod>2016-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d654/43d4da2c-7f96-42fd-bca3-69f92dfad654/gamedev17_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 17 - From Motion Capture to Unity - Part 1]]></video:title>
+        <video:description><![CDATA[Follow @MobaCap Follow @AdamTuliper Ever wonder how motion capture is used in games and movies? There&#39;s extremely expensive equipment available (I&#39;ve heard of million dollar systems) which clearly&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d654/43d4da2c-7f96-42fd-bca3-69f92dfad654/gamedev17_mid.mp4</video:content_loc>
+        <video:duration>3185</video:duration>
+        <video:publication_date>2016-06-09T07:05:18.9203285+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-16-Introduction-to-Physics-in-Unity-Part-2</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9631/8f6f287d-1760-462e-adeb-94a637bc9631/gamedev16_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 16 - Introduction to Physics in Unity - Part 2]]></video:title>
+        <video:description><![CDATA[Follow @AdamTuliper This episode of the Game Dev Show brings you the second session of Adam&#39;s Intro to Physics in Unity. Physics in Unity can be a bit tricky to understand the components and how they&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9631/8f6f287d-1760-462e-adeb-94a637bc9631/gamedev16_mid.mp4</video:content_loc>
+        <video:duration>3591</video:duration>
+        <video:publication_date>2016-06-01T18:24:15.0314797+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/15</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8374/cf5ab578-38b1-4eff-a9ee-2ba904278374/gamedev15_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 15 - Building a Windows 10 (or Xbox) Game with Win2D, C# and XAML]]></video:title>
+        <video:description><![CDATA[In this episode of the Game Dev Show, I introduce you to Win2D – a powerful and easy-to-use Open Source library for immediate mode 2D graphics rendering with GPU acceleration. It is available to C#&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8374/cf5ab578-38b1-4eff-a9ee-2ba904278374/gamedev15_mid.mp4</video:content_loc>
+        <video:duration>1627</video:duration>
+        <video:publication_date>2016-05-25T12:46:17.9490825+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/14</loc>
+      <lastmod>2016-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8539/21934f11-7b51-49a1-a309-e24c92b28539/gamedev14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 14 - Physics in Unity]]></video:title>
+        <video:description><![CDATA[In this episode, we walk you through understanding 3D and 2D physics in Unity. Unity uses Box2D and Nvidia&#39;s PhysX engine for 2D &amp;amp; 3D physics. To understand how Unity works, we&#39;ll take a tour of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8539/21934f11-7b51-49a1-a309-e24c92b28539/gamedev14_mid.mp4</video:content_loc>
+        <video:duration>4519</video:duration>
+        <video:publication_date>2016-05-18T18:12:17.0490712+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/From-Race-Car-Driver-to-Games-Exec-Kiki-Wolfkills-Creative-Path-to-Success-in-Visual-Storytelling--G</loc>
+      <lastmod>2016-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1be0/e597d7b3-1d5a-46dc-aa1d-a9d97edd1be0/KikiWolfkill_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From Race Car Driver to Games Exec: Kiki Wolfkills Creative Path to Success in Visual Storytelling&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Executive Producer of 343 Industries, Kiki Wolfkill, shares her story at the Women in Data Bootcamp during the 2016 International Space Apps Challenge. With over 20 years in games, Kiki&#39;s mission at&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1be0/e597d7b3-1d5a-46dc-aa1d-a9d97edd1be0/KikiWolfkill.mp4</video:content_loc>
+        <video:duration>2134</video:duration>
+        <video:publication_date>2016-05-13T07:32:16.0785381+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/13</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd51/420303b0-003e-4f48-92e6-89808fa0bd51/livestream_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 13 - How to livestream]]></video:title>
+        <video:description><![CDATA[@DaveVoylesDo you ever watch people on Twitch.tv or YouTube livestream themselves playing a game, or put together really professional videos about &amp;quot;how to&amp;quot; do something? Well it&#39;s not&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd51/420303b0-003e-4f48-92e6-89808fa0bd51/livestream_mid.mp4</video:content_loc>
+        <video:duration>2544</video:duration>
+        <video:publication_date>2016-05-11T11:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Getting-Started-with-Unity-Building-a-Flappy-Bird-Clone</loc>
+      <lastmod>2016-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ef7/8a631835-e64f-421b-ae09-575224900ef7/unityintro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with Unity: Building a Flappy Bird Clone]]></video:title>
+        <video:description><![CDATA[Bro, do you even Unity? Have you heard how awesome building games with Unity is only to open the editor and realize you have no clue what you&#39;re doing? Well never fear, because this video is for you!&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ef7/8a631835-e64f-421b-ae09-575224900ef7/unityintro_mid.mp4</video:content_loc>
+        <video:duration>2839</video:duration>
+        <video:publication_date>2016-05-05T17:36:33.9124778+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Sometimes-Always-Monsters</loc>
+      <lastmod>2018-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/411e/c826159d-04b5-4507-9c85-d7e9c135411e/salways_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Sometimes Always Monsters]]></video:title>
+        <video:description><![CDATA[@DaveVoyles @Keadin I caught up with Justin Amirkhani, one of the developers behind Sometimes Always Monsters, a sequel to 2014&#39;s Always Sometimes Monsters. We discuss RPG Maker, advice for indies who&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/411e/c826159d-04b5-4507-9c85-d7e9c135411e/salways_mid.mp4</video:content_loc>
+        <video:duration>236</video:duration>
+        <video:publication_date>2016-05-02T14:14:38.6205776+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Through-the-Woods</loc>
+      <lastmod>2016-04-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a6e/bcce5ddf-34b9-41c5-9e1c-18c62abb5a6e/throughthewoods_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Through the Woods]]></video:title>
+        <video:description><![CDATA[@DaveVoyles I catch up with Torstein Vien, a programmer at Antagonist, the team behind Through the Woods, a third-person psychological horror experience about how far a mother would go to save her&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a6e/bcce5ddf-34b9-41c5-9e1c-18c62abb5a6e/throughthewoods_mid.mp4</video:content_loc>
+        <video:duration>176</video:duration>
+        <video:publication_date>2016-04-30T14:02:38.2778236+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Dan-and-Garry-Games</loc>
+      <lastmod>2016-04-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/621a/0303ffe2-8ce4-49e2-b432-01a4e9fa621a/danandgary_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Dan and Garry Games]]></video:title>
+        <video:description><![CDATA[@DaveVoyles At PAX East I had a chance to catch up with Gary Porter of Dan and Garry Games about Super Daryl Deluxe, which they launched on Kickstarter some time ago. Even better, they were the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/621a/0303ffe2-8ce4-49e2-b432-01a4e9fa621a/danandgary_mid.mp4</video:content_loc>
+        <video:duration>236</video:duration>
+        <video:publication_date>2016-04-30T13:51:18.8211574+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Creating-a-NES-game-today</loc>
+      <lastmod>2016-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6764/92b53f6a-c43c-49e5-b199-ef5a5a046764/nesgame_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Creating a NES game today]]></video:title>
+        <video:description><![CDATA[@DaveVoyles @RetrotainmentHQ NES game development is alive and well, as Retrotainment games illustrates in this interview with Zachary Curl. Retrotainment games is based out of Pittsburgh, PA, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6764/92b53f6a-c43c-49e5-b199-ef5a5a046764/nesgame_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2016-04-29T17:39:45.5341392+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Soda-Drinker-Pro</loc>
+      <lastmod>2016-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f9ac/878c4972-adec-4230-a31b-c989b7f7f9ac/sodadrinker_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Soda Drinker Pro]]></video:title>
+        <video:description><![CDATA[@Second_Truth @DaveVoyles In this episode, we talk with Will Brierly, creator of the soda drinking simulator Soda Drinker Pro. We talk about the long process of creating such an odd game, what it&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f9ac/878c4972-adec-4230-a31b-c989b7f7f9ac/sodadrinker_mid.mp4</video:content_loc>
+        <video:duration>197</video:duration>
+        <video:publication_date>2016-04-29T16:06:20.3979630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Dragon-Fin-Soup</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6a5a/bf9ba72e-57a9-49b0-a2e1-39c46dad6a5a/dragonfin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Dragon Fin Soup]]></video:title>
+        <video:description><![CDATA[@Second_Truth @DaveVoyles In this interview we talked with Ash Monif, one of the creators of Dragon Fin Soup! He talks about the new changes to the game for its upcoming release crossplatform, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6a5a/bf9ba72e-57a9-49b0-a2e1-39c46dad6a5a/dragonfin_mid.mp4</video:content_loc>
+        <video:duration>181</video:duration>
+        <video:publication_date>2016-04-29T16:05:41.4845490+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Ashley-Alicea-of-Unity</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fabe/07438b57-6d3c-45ad-8071-92cc483efabe/ashleyalicea_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Ashley Alicea of Unity]]></video:title>
+        <video:description><![CDATA[@Second_Truth @DaveVoyles @avashly We caught up with Ashley Alicea, who works at Unity as an Event Coordinator for the Americas. Even more, Ashley was previously a MSP, or Student Partner, for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fabe/07438b57-6d3c-45ad-8071-92cc483efabe/ashleyalicea_mid.mp4</video:content_loc>
+        <video:duration>183</video:duration>
+        <video:publication_date>2016-04-29T16:05:39.4356419+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Indie-Megabooth</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5814/12d447bb-054e-46e9-98bc-58816e695814/indiemegabooth_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Indie Megabooth]]></video:title>
+        <video:description><![CDATA[@Second_Truth @DaveVoyles @TheJessFloyd In this episode, we talk with Jess Floyd, one of the coordinators for the PAX Indie Megabooth! She talks about the Megabooth process, how the Megabooth got&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5814/12d447bb-054e-46e9-98bc-58816e695814/indiemegabooth_mid.mp4</video:content_loc>
+        <video:duration>179</video:duration>
+        <video:publication_date>2016-04-29T13:54:45.0371447+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Cuphead</loc>
+      <lastmod>2018-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6b07/781a4ac3-a810-41ec-8188-c1e800d76b07/cuphead_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Cuphead]]></video:title>
+        <video:description><![CDATA[@Second_Truth @DaveVoyles In this episode, we talk with Chad Moldenhauer of Studio MDHR, the makers of Cuphead! Cuphead is a highly anticipated game coming out for Xbox One with design based on 1930s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6b07/781a4ac3-a810-41ec-8188-c1e800d76b07/cuphead_mid.mp4</video:content_loc>
+        <video:duration>210</video:duration>
+        <video:publication_date>2016-04-29T13:54:41.6232665+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-at-PAX-East-Knee-Deep</loc>
+      <lastmod>2017-03-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8317/e6489402-c5eb-412e-91ee-8a85c3298317/kneedeep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini at PAX East - Knee Deep]]></video:title>
+        <video:description><![CDATA[@Second_Truth @DaveVoyles In this interview Amanda is talking with Colin Dwan, one of the developers of the game Knee Deep! He talks about the game and his team, and what it&#39;s like for a developer to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8317/e6489402-c5eb-412e-91ee-8a85c3298317/kneedeep_mid.mp4</video:content_loc>
+        <video:duration>111</video:duration>
+        <video:publication_date>2016-04-29T12:58:38.0668591+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/11</loc>
+      <lastmod>2016-06-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/a52471e5-ec0e-49e3-ba1f-dfddf052369c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 11 - Is 8-Bit Art Dead?]]></video:title>
+        <video:description><![CDATA[For the past 5 to 10 years, pixel art and retro style have been mainstay features of indie video games. Has 8-bit become a lazy clich&#233;, or are there new directions for this old-school style? Rachel&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b3b/4b006be1-d5b7-4fd6-bcc6-c5988a5e3b3b/gamedev11_mid.mp4</video:content_loc>
+        <video:duration>963</video:duration>
+        <video:publication_date>2016-04-28T06:52:55.0589607+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/10</loc>
+      <lastmod>2020-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cc97/6c572d13-22f0-4db3-a30a-faba0311cc97/HowToHireHelp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 10 - How to Hire Help]]></video:title>
+        <video:description><![CDATA[Every gamer knows &amp;quot;it&#39;s dangerous to go alone&amp;quot;, but how do you actually get others to help you create your game? The process can be more complicated than you think! There is a lot you need&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cc97/6c572d13-22f0-4db3-a30a-faba0311cc97/HowToHireHelp_mid.mp4</video:content_loc>
+        <video:duration>1365</video:duration>
+        <video:publication_date>2016-04-20T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/9</loc>
+      <lastmod>2016-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/742d/4fe9ea6a-fa53-4b2b-be2f-8350085f742d/gamedeveducation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 09 - Game Dev and Education]]></video:title>
+        <video:description><![CDATA[Gaming and education is a broad title. In this episode of the Game Dev Show, whether or not you&#39;re an educator, gamer, or just want to teach people your skills, this video will have content for you!  &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/742d/4fe9ea6a-fa53-4b2b-be2f-8350085f742d/gamedeveducation_mid.mp4</video:content_loc>
+        <video:duration>723</video:duration>
+        <video:publication_date>2016-04-13T21:20:27.6719562+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Intro3Danimation</loc>
+      <lastmod>2017-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/19fb/bac75f08-8a5d-4720-ba05-317daab319fb/3d_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini - Intro to 3D Animating and Rigging in Maya]]></video:title>
+        <video:description><![CDATA[This is a basic video walkthrough of the beginning steps of the animation process of rigging and skinning a 3D model in Maya, then importing to Unity. Here is a link to the mannequin model used in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/19fb/bac75f08-8a5d-4720-ba05-317daab319fb/3d_mid.mp4</video:content_loc>
+        <video:duration>943</video:duration>
+        <video:publication_date>2016-04-08T06:19:21.6139098+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/8</loc>
+      <lastmod>2016-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cd63/eed274c5-d329-4ad6-9e7e-aa5867bacd63/GameDevShow08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 08 - Basic Asset Creation for Unity 3D]]></video:title>
+        <video:description><![CDATA[In this episode of the Game Dev Show, Amanda Lange will explain the basic pipeline to create your own assets using 3D Studio Max and Unity 3D. This is a basic overview of art creation for someone who&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cd63/eed274c5-d329-4ad6-9e7e-aa5867bacd63/GameDevShow08_mid.mp4</video:content_loc>
+        <video:duration>1924</video:duration>
+        <video:publication_date>2016-04-06T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/7</loc>
+      <lastmod>2016-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e141/83ef99ac-7613-478a-a9fd-2f3144d2e141/9WaysToMarket_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 07 - 9 Ways to Market Your App Without a Budget]]></video:title>
+        <video:description><![CDATA[Marketing isn&#39;t just for developers with money! For any company to succeed they have to make as many people as possible aware of their product. But is there anything you can do if you don&#39;t have a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e141/83ef99ac-7613-478a-a9fd-2f3144d2e141/9WaysToMarket_mid.mp4</video:content_loc>
+        <video:duration>1158</video:duration>
+        <video:publication_date>2016-03-30T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/Game-Dev-Show-Mini-Drawing-2D-Characters-with-Inkscape</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3d72/490aa7ac-abbe-4371-8f75-5e517db73d72/GDSMini1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show Mini - Drawing 2D Characters with Inkscape]]></video:title>
+        <video:description><![CDATA[Have you ever wanted to try to draw your own characters for a game or just for fun and thought: &amp;quot;I can&#39;t draw&amp;quot;?  Well in this show I am here to tell you that you can.  After watching this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d72/490aa7ac-abbe-4371-8f75-5e517db73d72/GDSMini1_mid.mp4</video:content_loc>
+        <video:duration>1656</video:duration>
+        <video:publication_date>2016-03-28T22:00:46.5517595+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/6</loc>
+      <lastmod>2016-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2846/568bc96a-7655-4a58-896e-08f4c2922846/gamedev06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 06 - Fast 2D and 3D Facial Animation]]></video:title>
+        <video:description><![CDATA[In this episode of the Game Dev Show, Adam Tuliper (Microsoft) and James Martin (MobaCap &amp;amp; Reallusion Trainer) talk about the indie budget tools CrazyTalk 8 and iClone to create 2D and 3D facial&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2846/568bc96a-7655-4a58-896e-08f4c2922846/gamedev06_mid.mp4</video:content_loc>
+        <video:duration>5669</video:duration>
+        <video:publication_date>2016-03-23T14:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/5</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc07/01882cc8-fe7b-45d2-8a5f-994c43cbbc07/GameDevShow05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 05 - Polish and Particles in Unity]]></video:title>
+        <video:description><![CDATA[Welcome back for another episode of the Game Dev Show. In this episode, Katherine &amp;quot;Kat&amp;quot; Harris talks about polishing your game by showing you the ins and outs of Unity&#39;s Particle System. The&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc07/01882cc8-fe7b-45d2-8a5f-994c43cbbc07/GameDevShow05_mid.mp4</video:content_loc>
+        <video:duration>1901</video:duration>
+        <video:publication_date>2016-03-16T14:16:45.9669176+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/4</loc>
+      <lastmod>2017-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f677/4d6e926b-cf06-4abc-802a-ca78673ff677/gamedev04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 04 - Intro to PlayMaker in Unity]]></video:title>
+        <video:description><![CDATA[Welcome back for another episode of the Game Dev Show. In this episode, Adam Tuliper takes you on a tour of PlayMaker, a visual FSM (Finite State Machine) tool for creating logic in your Unity games.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f677/4d6e926b-cf06-4abc-802a-ca78673ff677/gamedev04_mid.mp4</video:content_loc>
+        <video:duration>2630</video:duration>
+        <video:publication_date>2016-03-09T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/3</loc>
+      <lastmod>2017-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd7d/f0b7eacf-fd99-4eb0-8f16-7902bd27bd7d/GGJ2016SF_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 03 - Global Game Jam]]></video:title>
+        <video:description><![CDATA[Microsoft teamed up with a number of Sponsors to host a Global Game Jam in San Francisco from January 29th-31st at the Microsoft Reactor Space! We filmed some highlights of the teams, interviews, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd7d/f0b7eacf-fd99-4eb0-8f16-7902bd27bd7d/GGJ2016SF_mid.mp4</video:content_loc>
+        <video:duration>430</video:duration>
+        <video:publication_date>2016-02-24T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/1</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4410/8dbece7e-4ddb-4a7b-92fe-dc5c37584410/gamedevshow01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 01 - Which Language Should I Program My Game In?]]></video:title>
+        <video:description><![CDATA[@DaveVoylesHello and welcome to the first episode of the Game Dev Show, I&#39;m @DaveVoyles. Throughout this series we&#39;ll have several Microsoft Technical Evangelists, as well as some guests, to introduce&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4410/8dbece7e-4ddb-4a7b-92fe-dc5c37584410/gamedevshow01_mid.mp4</video:content_loc>
+        <video:duration>1116</video:duration>
+        <video:publication_date>2016-02-21T07:11:50.5794252+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/gamedev/2</loc>
+      <lastmod>2018-01-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f2a/08821bb5-32fd-45cd-abf5-f64548265f2a/GameDevShow02UAPandgames_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Game Dev Show 02 - What Does a Universal Application Platform Mean for Game Devs?]]></video:title>
+        <video:description><![CDATA[Hi everyone - I&#39;m Amanda Lange. Welcome to Episode 2 of the Game Dev Show! Last week Remedy announced that Quantum Break, originally announced as an Xbox One Exclusive, will be coming to Windows 10 as&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f2a/08821bb5-32fd-45cd-abf5-f64548265f2a/GameDevShow02UAPandgames_mid.mp4</video:content_loc>
+        <video:duration>404</video:duration>
+        <video:publication_date>2016-02-17T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

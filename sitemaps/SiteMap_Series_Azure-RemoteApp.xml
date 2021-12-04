@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp/Azure-RemoteApp-Mod3</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd46/fa41e28e-e605-48e5-baf8-13c46da9dd46/AzureRemoteAppMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Azure RemoteApp - Hybrid Deployment]]></video:title>
+        <video:description><![CDATA[Modul 3 zeigt, wie ein Hybrid Deployment erstellt wird ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd46/fa41e28e-e605-48e5-baf8-13c46da9dd46/AzureRemoteAppMod3_mid.mp4</video:content_loc>
+        <video:duration>1138</video:duration>
+        <video:publication_date>2015-02-20T11:53:48.6631936+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp/Azure-RemoteApp-Mod2</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8412/f9f7cde1-2198-4122-b5fa-522defa68412/AzureRemoteAppMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Azure RemoteApp - Cloud Deployment]]></video:title>
+        <video:description><![CDATA[Modul 2 besch&#228;ftigt sich mit dem Cloud Deployment von Azure RemoteApp Sammlungen ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8412/f9f7cde1-2198-4122-b5fa-522defa68412/AzureRemoteAppMod2_mid.mp4</video:content_loc>
+        <video:duration>869</video:duration>
+        <video:publication_date>2015-02-20T11:53:44.3770940+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-RemoteApp/Azure-RemoteApp-Mod1</loc>
+      <lastmod>2015-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ef0/350a9c2a-0763-4299-99e7-554239c69ef0/AzureRemoteAppMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Azure RemoteApp - &#220;berblick]]></video:title>
+        <video:description><![CDATA[Modul 1 gibt Ihnen einen &#220;berblick, wie Azure RemoteApp IT Verantwortlichen dabei helfen kann, Herausforderungen welche durch Mobilit&#228;t, BYOD Szenarien und den Einsatz unterschiedlicher Plattformen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ef0/350a9c2a-0763-4299-99e7-554239c69ef0/AzureRemoteAppMod1_mid.mp4</video:content_loc>
+        <video:duration>879</video:duration>
+        <video:publication_date>2015-02-20T11:53:39.1726511+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

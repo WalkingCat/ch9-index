@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/JP-cross-platform</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/JP-cross-platform/session3</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8907/a595128e-2566-4610-acaf-6f19e78a8907/session3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[! iOS, Android, Windows  - 3/3]]></video:title>
+        <video:description><![CDATA[Visual Studioを活用した各社のクロスプラットフォーム開発推進  ※2015年9月11日に実施されたセミナーの録画です。   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8907/a595128e-2566-4610-acaf-6f19e78a8907/session3_mid.mp4</video:content_loc>
+        <video:duration>3578</video:duration>
+        <video:publication_date>2015-09-24T01:49:21.7324696+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/JP-cross-platform/session2</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c4ee/2608db8b-b370-405e-9f97-e6fed661c4ee/session2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[! iOS, Android, Windows  -2/3]]></video:title>
+        <video:description><![CDATA[Microsoft Azureで実現するユーザー動向を反映した継続的デリバリー  ※ 2015年9月11日に開催されたセミナーの録画です。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c4ee/2608db8b-b370-405e-9f97-e6fed661c4ee/session2_mid.mp4</video:content_loc>
+        <video:duration>3217</video:duration>
+        <video:publication_date>2015-09-24T01:48:10.1850478+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/JP-cross-platform/session1</loc>
+      <lastmod>2015-10-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d5b/e9db672e-a57c-4411-832c-ac9f3c3c6d5b/session1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[! iOS, Android, Windows  -1/3]]></video:title>
+        <video:description><![CDATA[イントロダクション ※ 2015年9月11日に開催されたセミナーの録画です。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d5b/e9db672e-a57c-4411-832c-ac9f3c3c6d5b/session1_mid.mp4</video:content_loc>
+        <video:duration>3114</video:duration>
+        <video:publication_date>2015-09-24T01:47:07.5157454+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

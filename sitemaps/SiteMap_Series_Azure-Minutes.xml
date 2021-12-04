@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Minutes</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Minutes/Azure-Minutes-2</loc>
+      <lastmod>2016-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/327b/4795ca0d-d6ec-4ce8-8e8d-23261f47327b/AzureMinutes2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Minutes #2]]></video:title>
+        <video:description><![CDATA[ピクシブの広告系エンジニアを経てアニメイトラボCTOに就任された小芝 敏明氏をお招きし、歴史あるサービス x 新しいチームという状況における開発運用やメンバーの体制についてや今後の開発運用における野望、さらにはサブカル界隈と Microsoft の関わりなどについて話しました。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/327b/4795ca0d-d6ec-4ce8-8e8d-23261f47327b/AzureMinutes2_mid.mp4</video:content_loc>
+        <video:duration>2708</video:duration>
+        <video:publication_date>2016-02-15T05:47:46.4633172+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Minutes/Azure-Minutes-1</loc>
+      <lastmod>2016-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a0a3/94f76650-d5e3-491e-9e54-f7ddeda0a0a3/AzureMinutes1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Minutes #1]]></video:title>
+        <video:description><![CDATA[日本 Java ユーザーグループの会長を務め、IT アーキテクトとして著名な鈴木 雄介氏をお招きし、IT アーキテクトの視点からみたシステムの設計の考え方から、マイクロサービスや DevOps に対する取り組み方の本質、さらにはエンジニアとして重要に考えるべきこと、若いエンジニアに取り組んで欲しいことなど、 さまざまな事を聞いてみました。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a0a3/94f76650-d5e3-491e-9e54-f7ddeda0a0a3/AzureMinutes1_mid.mp4</video:content_loc>
+        <video:duration>1572</video:duration>
+        <video:publication_date>2015-12-25T03:39:39.1446154+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Minutes/Azure-Minutes</loc>
+      <lastmod>2016-03-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9fdb/c16284b5-31ca-4ef5-889a-4a9c89989fdb/AzureMinutesVol1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You  MS ]]></video:title>
+        <video:description><![CDATA[これまでマイクロソフトのテクノロジーに慣れ親しんでこなかったエンジニアの面々が、「なぜ今マイクロソフトなのか」その理由を語ります。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9fdb/c16284b5-31ca-4ef5-889a-4a9c89989fdb/AzureMinutesVol1_mid.mp4</video:content_loc>
+        <video:duration>1910</video:duration>
+        <video:publication_date>2015-12-07T04:38:58.4825799+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

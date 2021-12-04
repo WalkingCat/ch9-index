@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mobile-Device-Management</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mobile-Device-Management/03--Mobile-Device-Management--Management</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b62/8181a368-a319-430b-87ba-56d85ca61b62/03Management_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Mobile Device Management  Management]]></video:title>
+        <video:description><![CDATA[Im dritten Modul wird gezeigt, wie man mit Hilfe von Windows Intune Software f&#252;r ein mobiles Ger&#228;t hinzuf&#252;gen und verwalten kann und wie man verbundene Ger&#228;te verwalten kann. Abschlie&#223;end wird ein&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b62/8181a368-a319-430b-87ba-56d85ca61b62/03Management_mid.mp4</video:content_loc>
+        <video:duration>782</video:duration>
+        <video:publication_date>2015-01-30T15:09:36.8439398+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mobile-Device-Management/02--Mobile-Device-Management--Windows-Intune</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c0c1/6737ce74-bb15-4972-b58a-267c89d4c0c1/01WindowsIntune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Mobile Device Management  Windows Intune]]></video:title>
+        <video:description><![CDATA[Im zweiten Modul wird gezeigt, wie man Windows Intune einrichtet und was in der eigenen Umgebung eingestellt werden muss, damit man mobile Ger&#228;te verwalten kann. Nach der erfolgreichen Einrichtung&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c0c1/6737ce74-bb15-4972-b58a-267c89d4c0c1/01WindowsIntune_mid.mp4</video:content_loc>
+        <video:duration>966</video:duration>
+        <video:publication_date>2015-01-30T15:09:31.6221873+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mobile-Device-Management/01--Mobile-Device-Management-Einfhrung</loc>
+      <lastmod>2016-06-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2093/007d36e3-41ab-40ea-a66f-d1610b5c2093/01Einfuehrung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Mobile Device Management - Einf&#252;hrung]]></video:title>
+        <video:description><![CDATA[Im ersten Modul wird eine kurze Einf&#252;hrung in das Thema Mobile Device Management gegeben. Es wird gezeigt, warum Mobile Device Management wichtig ist, was man hierbei alles beachten sollte, und welche&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2093/007d36e3-41ab-40ea-a66f-d1610b5c2093/01Einfuehrung_mid.mp4</video:content_loc>
+        <video:duration>700</video:duration>
+        <video:publication_date>2015-01-30T15:09:18.3456238+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

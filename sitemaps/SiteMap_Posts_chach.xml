@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/How-to-create-a-Virtual-Machine</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e65b/fed35037-7747-4c9e-9d3a-823de0bae65b/howtocreatevm_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to create a Virtual Machine]]></video:title>
+        <video:description><![CDATA[This video shows you how simple it is to create an Azure virtual machine in just a few minutes in the preview portal. We&#39;ll use a Windows Server 2012 R2 Datacenter image as an example to create the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e65b/fed35037-7747-4c9e-9d3a-823de0bae65b/howtocreatevm_mid.mp4</video:content_loc>
+        <video:duration>203</video:duration>
+        <video:publication_date>2016-02-01T18:30:16.1079663+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Chef--Microsoft-Automate-to-Migrate</loc>
+      <lastmod>2016-07-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5cc1/9a14ec73-444d-4aeb-8053-5aa78fef5cc1/automatetomigrate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Chef + Microsoft: Automate to Migrate]]></video:title>
+        <video:description><![CDATA[Following the Compliance &amp;lt;3s DevOps event, host of the upcoming Automate to Migrate event, Andre Elizondo, joined David Tesar and Justin Arbuckle in studio. Check out the video for a sneak preview&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5cc1/9a14ec73-444d-4aeb-8053-5aa78fef5cc1/automatetomigrate_mid.mp4</video:content_loc>
+        <video:duration>164</video:duration>
+        <video:publication_date>2016-01-13T00:42:28.7475454+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

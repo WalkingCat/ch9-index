@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Providing-disaster-recovery-and-high-availability-of-applications-and-services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Providing-disaster-recovery-and-high-availability-of-applications-and-services/02</loc>
+      <lastmod>2019-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a5b4/6740f709-c60b-435a-9683-b88bbf6ca5b4/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |  Hyper-V ]]></video:title>
+        <video:description><![CDATA[Кластеры виртуализации – один из способов обеспечения высокой доступности ВМ. В &amp;#1084;одуле расс&amp;#1084;атривается служба Failover Clustering и ее при&amp;#1084;енение для создания кластеров Hyper-V. Вы&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a5b4/6740f709-c60b-435a-9683-b88bbf6ca5b4/02_mid.mp4</video:content_loc>
+        <video:duration>2549</video:duration>
+        <video:publication_date>2015-03-25T14:50:55.9486123+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Providing-disaster-recovery-and-high-availability-of-applications-and-services/05</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/69ae/1f58681d-4a51-447c-bda8-8952378469ae/05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 |    Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[В заключительно&amp;#1084; &amp;#1084;одуле курса более подробно расс&amp;#1084;атривается облачная служба Azure Site Recovery. Вы узнаете, что собой представляет этот сервис, в каких сценариях он &amp;#1084;ожет&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69ae/1f58681d-4a51-447c-bda8-8952378469ae/05_mid.mp4</video:content_loc>
+        <video:duration>1794</video:duration>
+        <video:publication_date>2015-03-25T13:23:23.4433513+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Providing-disaster-recovery-and-high-availability-of-applications-and-services/04</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/214e/823ff228-0c5d-4d05-a905-006d2330214e/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 |  : Hyper-V Backup  Hyper-V Replica]]></video:title>
+        <video:description><![CDATA[Создание резервных копий остается обязательной составляющей ИТ-процессов. Windows Server Backup поддерживает VSS и добавочное копирование для ВМ, кро&amp;#1084;е того доступна интеграция с облако&amp;#1084;&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/214e/823ff228-0c5d-4d05-a905-006d2330214e/04_mid.mp4</video:content_loc>
+        <video:duration>1770</video:duration>
+        <video:publication_date>2015-03-25T13:23:19.7726826+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Providing-disaster-recovery-and-high-availability-of-applications-and-services/03</loc>
+      <lastmod>2015-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a389/94cfdf9f-d85d-4d50-86ac-a54dfd71a389/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |     Hyper-V]]></video:title>
+        <video:description><![CDATA[В &amp;#1084;одуле обсуждаются все воз&amp;#1084;ожности технологии дина&amp;#1084;ической &amp;#1084;играции (Live Migration), доступные в Windows Server 2012 R2, включая Shared Nothing Live Migration, использование&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a389/94cfdf9f-d85d-4d50-86ac-a54dfd71a389/03_mid.mp4</video:content_loc>
+        <video:duration>1617</video:duration>
+        <video:publication_date>2015-03-25T13:23:15.9719114+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Providing-disaster-recovery-and-high-availability-of-applications-and-services/01</loc>
+      <lastmod>2019-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81f0/f98f290b-62fd-41bc-a013-3a49870381f0/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | ]]></video:title>
+        <video:description><![CDATA[В &amp;#1084;одуле расс&amp;#1084;атриваются базовые понятие, такие как отказоустойчивость, высокая доступность, аварийное восстановление после сбоев, а также обсуждаются принципы проектирования&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81f0/f98f290b-62fd-41bc-a013-3a49870381f0/01_mid.mp4</video:content_loc>
+        <video:duration>1641</video:duration>
+        <video:publication_date>2015-03-25T13:23:07.0460065+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

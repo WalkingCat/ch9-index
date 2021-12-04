@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/AleBanzas</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/AleBanzas/BUILD-2016</loc>
+      <lastmod>2016-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3219/7406fa91-b771-42dd-9ab1-8ef7df0c3219/build2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[//BUILD 2016]]></video:title>
+        <video:description><![CDATA[No te pierdas el resumen de lo que paso en //BUILD2016   Adem&#225;s, seleccionamos lo mejor de cada d&#237;a: Dia 1: TODO Keynote: https://channel9.msdn.com/Events/Build/2016/KEY01 Linux Command Line on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3219/7406fa91-b771-42dd-9ab1-8ef7df0c3219/build2016_mid.mp4</video:content_loc>
+        <video:duration>462</video:duration>
+        <video:publication_date>2016-04-10T01:52:27.3999005+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/AleBanzas/azds</loc>
+      <lastmod>2016-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2299/31de9765-588d-4b7e-9afc-bd7349b32299/dreamsparkazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure en Dreamspark]]></video:title>
+        <video:description><![CDATA[Azure es gratis para estudiantes. Te explicamos como activarlo! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2299/31de9765-588d-4b7e-9afc-bd7349b32299/dreamsparkazure_mid.mp4</video:content_loc>
+        <video:duration>662</video:duration>
+        <video:publication_date>2015-11-16T21:28:14.0366987+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs/Parts-Unlimited-MRP-App-Continuous-Deployment-with-Chef</loc>
+      <lastmod>2017-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/87c7/dc0b2d9a-7688-4505-b897-587c5e5e87c7/PUMRPChef_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited MRP App Continuous Deployment with Chef]]></video:title>
+        <video:description><![CDATA[In this video, we walk you through some of the new features and capabilities of Deploying MRP App via Chef Server in Azure. This hands-on lab is designed to point out new features, discuss and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/87c7/dc0b2d9a-7688-4505-b897-587c5e5e87c7/PUMRPChef_mid.mp4</video:content_loc>
+        <video:duration>2160</video:duration>
+        <video:publication_date>2016-10-08T17:48:12.7542672+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs/Parts-Unlimited-MRP-App-Continuous-Integration</loc>
+      <lastmod>2017-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cba1/852700a1-762f-45a1-a6da-dc1ab3aacba1/PUMRPCI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited MRP App Continuous Integration]]></video:title>
+        <video:description><![CDATA[In this lab, we have an application called Parts Unlimited MRP. We want to set up Visual Studio Team Services to be able continuously integrate code into the master branch of code. This means that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cba1/852700a1-762f-45a1-a6da-dc1ab3aacba1/PUMRPCI_mid.mp4</video:content_loc>
+        <video:duration>1332</video:duration>
+        <video:publication_date>2016-10-08T17:46:43.9032949+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs/Parts-Unlimited-MRP-Application-Performance-Monitoring</loc>
+      <lastmod>2016-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/40b0/88282594-d5d0-49e0-aa58-5311f03a40b0/PUMRPAPM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited MRP Application Performance Monitoring]]></video:title>
+        <video:description><![CDATA[In this lab, we will walk through how to set up Application Insights telemetry, and drill down into performance monitoring data through Application Insights in the new Azure Portal. The hands-on lab&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/40b0/88282594-d5d0-49e0-aa58-5311f03a40b0/PUMRPAPM_mid.mp4</video:content_loc>
+        <video:duration>1300</video:duration>
+        <video:publication_date>2016-10-08T17:46:37.5123041+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs/Parts-Unlimited-MRP-App-Continuous-Deployment-with-Visual-Studio-Team-Services-Remote-Agent</loc>
+      <lastmod>2017-10-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0094/0d2d32b8-3739-4437-8eec-5a323dc50094/PUMRPCDwithRemoteAgent_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited MRP App Continuous Deployment with Visual Studio Team Services - Remote Agent]]></video:title>
+        <video:description><![CDATA[In this lab, we will walk through how to deploy the Parts Unlimited MRP App in an automated fashion onto a Linux VM using a hosted agent. After this lab, you will have a working, automated build in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0094/0d2d32b8-3739-4437-8eec-5a323dc50094/PUMRPCDwithRemoteAgent_mid.mp4</video:content_loc>
+        <video:duration>1164</video:duration>
+        <video:publication_date>2016-10-08T17:46:31.0056674+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs/Settting-up-Parts-Unlimited-MRP-with-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e14c/9001e4cf-966b-4505-9f0f-b43f0880e14c/SettingUpVSTSforPUMRP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Settting up Parts Unlimited MRP with Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[In this video, we will walk through the steps to set up the PartsUnlimited MRP VSTS team project as a pre-requisite for the Continuous Integration lab. Hands-on lab is available here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e14c/9001e4cf-966b-4505-9f0f-b43f0880e14c/SettingUpVSTSforPUMRP_mid.mp4</video:content_loc>
+        <video:duration>537</video:duration>
+        <video:publication_date>2016-10-08T17:46:24.1213371+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-MRP-Labs/Parts-Unlimited-MRP-App-Continuous-Deployment-with-Visual-Studio-Team-Services-Hosted-Agent</loc>
+      <lastmod>2017-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0066/74f6c1a9-5675-42f8-81ab-18cc66210066/PUMRPCDwithHostedAgent_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited MRP App Continuous Deployment with Visual Studio Team Services - Hosted Agent]]></video:title>
+        <video:description><![CDATA[In this lab, we will walk through the steps on how to deploy the Parts Unlimited MRP App in an automated fashion onto a Linux VM using a hosted agent. After this lab, you will have a working,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0066/74f6c1a9-5675-42f8-81ab-18cc66210066/PUMRPCDwithHostedAgent_mid.mp4</video:content_loc>
+        <video:duration>1306</video:duration>
+        <video:publication_date>2016-10-08T17:45:50.4317502+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

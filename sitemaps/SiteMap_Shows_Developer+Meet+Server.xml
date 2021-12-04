@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Application-Compatibility-Debugging</loc>
+      <lastmod>2016-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/029a/cba18531-376f-42f3-ab3b-5f539d62029a/Application-Compatibility-Debugging_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Compatibility - Debugging]]></video:title>
+        <video:description><![CDATA[In this video, we sit down (well, stand up actually) with Chris Jackson and Gov Maharaj to chat about debugging application compatibility issues (and some of the things Microsoft has done to mitigate&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/029a/cba18531-376f-42f3-ab3b-5f539d62029a/Application-Compatibility-Debugging_mid.mp4</video:content_loc>
+        <video:duration>2201</video:duration>
+        <video:publication_date>2008-01-28T22:37:30.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Application-Compatibility-MSI-Installer-Issues</loc>
+      <lastmod>2019-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9963/78e9b4e7-cdb2-41c2-9b3b-ba171d0f9963/Application-Compatibility-MSI-Installer-Issues_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Compatibility - MSI Installer Issues]]></video:title>
+        <video:description><![CDATA[
+In this video, we chat with Robert Flaming about application compatibility issues around Windows Installer for Windows Vista and Windows Server 2008. Mark Taylor, from our first Application&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9963/78e9b4e7-cdb2-41c2-9b3b-ba171d0f9963/Application-Compatibility-MSI-Installer-Issues_mid.mp4</video:content_loc>
+        <video:duration>1855</video:duration>
+        <video:publication_date>2008-01-18T18:35:49.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Application-Compatibility-Overview</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b525/ff022b4d-174f-4e80-9866-f75090ebb525/Application-Compatibility-Overview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Compatibility - Overview]]></video:title>
+        <video:description><![CDATA[In this video, our good friend 
+Jason Olson chats with Maarten Van De Bospoort, Mark Taylor, and Pat Altimore about Windows Server 2008 Application Compatibility.
+
+
+We discuss a bunch of topics in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b525/ff022b4d-174f-4e80-9866-f75090ebb525/Application-Compatibility-Overview_mid.mp4</video:content_loc>
+        <video:duration>2550</video:duration>
+        <video:publication_date>2008-01-09T21:05:32.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Screencast-Transactional-NTFS-and-WCF</loc>
+      <lastmod>2011-01-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Screencast-Transactional-NTFS</loc>
+      <lastmod>2011-01-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Lizenzierung-und-aktuelle-Sonderangebote</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Lizenzierung-und-aktuelle-Sonderangebote/01-Visual-Studio-2015-und-TFS-Lizenzierungsgrundlagen</loc>
+      <lastmod>2015-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/640d/b8269b6b-5285-43b1-a6f7-1c550116640d/VS2015undTFSLizenzierungsgrundlagen_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01-Visual Studio 2015 und TFS Lizenzierungsgrundlagen]]></video:title>
+        <video:description><![CDATA[In diesem Modul geht Paul Werner auf die verschiedenen Lizenzierungsmodelle im Rahmen von Visual Studio und Team Foundation Server ein. Zudem erkl&#228;rt Paul auf welche kostenlose Visual Studio Editionen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/640d/b8269b6b-5285-43b1-a6f7-1c550116640d/VS2015undTFSLizenzierungsgrundlagen_mid.mp4</video:content_loc>
+        <video:duration>517</video:duration>
+        <video:publication_date>2015-05-29T07:50:47.8075489+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Lizenzierung-und-aktuelle-Sonderangebote/03-Haeufig-gestellte-Fragen</loc>
+      <lastmod>2015-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5023/e309939a-ec9c-4272-ae03-b9369b425023/FAQsVS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03-H&#228;ufig gestellte Fragen]]></video:title>
+        <video:description><![CDATA[Paul Werner beantwortet in diesem Modul h&#228;ufig gestellte Fragen zur Lizenzierung von Visual Studio 2015, MSDN und Lizenzvergabe. Zudem geht er auf die Downgrade-Rechte von Lizenznehmern ein. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5023/e309939a-ec9c-4272-ae03-b9369b425023/FAQsVS_mid.mp4</video:content_loc>
+        <video:duration>311</video:duration>
+        <video:publication_date>2015-05-29T07:48:21.4311733+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Lizenzierung-und-aktuelle-Sonderangebote/02-Neuerungen-in-Visual-Studio-2015</loc>
+      <lastmod>2015-05-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41b4/cdbb6676-deec-46b7-a1cd-d043c6e741b4/NeuerungenVS2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02-Neuerungen in Visual Studio 2015]]></video:title>
+        <video:description><![CDATA[Mit Visual Studio 2015 wird Visual Studio Premium und Visual Studio Ultimate zu Visual Studio Enterprise 2015. Welche Auswirkungen dies auf die Lizenzierung hat und wie Lizenznehmer von aktuellen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41b4/cdbb6676-deec-46b7-a1cd-d043c6e741b4/NeuerungenVS2015_mid.mp4</video:content_loc>
+        <video:duration>326</video:duration>
+        <video:publication_date>2015-05-29T07:47:42.8020731+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

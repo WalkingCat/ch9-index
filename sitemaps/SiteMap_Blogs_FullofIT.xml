@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart6</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3ece/26569015-c287-4ca4-84b0-a35c3a043ece/ARMPart6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The PowerShell Script and completing the build (Part 6)]]></video:title>
+        <video:description><![CDATA[In this final part of our series we walk through the PowerShell script that connects to Azure, creates the resource group, and then launches the creation of the lab environment.  We also walk through&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3ece/26569015-c287-4ca4-84b0-a35c3a043ece/ARMPart6_mid.mp4</video:content_loc>
+        <video:duration>1478</video:duration>
+        <video:publication_date>2016-04-13T20:09:34.1529310+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart5</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e29f/edf5a957-a04d-4735-8d20-6cafce7ee29f/ARMPart5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Additional Automations (Part 5)]]></video:title>
+        <video:description><![CDATA[In the 6th part of our series we look at some of the remaining requirements for our lab environment, and how we automatically launched a PowerShell script on each of our virtual machines to perform&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e29f/edf5a957-a04d-4735-8d20-6cafce7ee29f/ARMPart5_mid.mp4</video:content_loc>
+        <video:duration>749</video:duration>
+        <video:publication_date>2016-04-13T20:01:24.6759151+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart3</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f5f3/1d5a10c1-f606-4254-99dc-3ca4b126f5f3/ARMPart3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Domain-Join the member servers (Part 3)]]></video:title>
+        <video:description><![CDATA[In the fourth part of our series we look at how to automatically join the three other virtual machines to the contoso.com domain, again using an custom extension in our Azure Resource Manager&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f5f3/1d5a10c1-f606-4254-99dc-3ca4b126f5f3/ARMPart3_mid.mp4</video:content_loc>
+        <video:duration>565</video:duration>
+        <video:publication_date>2016-04-13T20:00:44.5256733+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart4</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e47/8a48bcdf-8da2-4f63-ba7e-257fcc3d0e47/ARMPart4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Copy down files (Part 4)]]></video:title>
+        <video:description><![CDATA[Our lab environment requires that several sample scripts and other utilities be available on several of the member servers.  But how do we get those files onto the C: drive?  In this video I&#39;ll show&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e47/8a48bcdf-8da2-4f63-ba7e-257fcc3d0e47/ARMPart4_mid.mp4</video:content_loc>
+        <video:duration>337</video:duration>
+        <video:publication_date>2016-04-13T20:00:29.8992448+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart2</loc>
+      <lastmod>2016-04-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/114c/00408e70-49a4-4b74-9ab6-09c54a6f114c/ARMPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a Domain Controller (Part 2)]]></video:title>
+        <video:description><![CDATA[It&#39;s not enough just to create a new virtual machine.  Our lab environment requires a pre-configured domain, and so in part 2 we find and utilize and extension that automatically configures one of our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/114c/00408e70-49a4-4b74-9ab6-09c54a6f114c/ARMPart2_mid.mp4</video:content_loc>
+        <video:duration>1024</video:duration>
+        <video:publication_date>2016-04-13T19:58:52.1596257+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart1</loc>
+      <lastmod>2017-07-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/98d8/a63e9a28-b12f-41c3-ab0a-6c57378c98d8/ARMPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Working with JSON (Part 1)]]></video:title>
+        <video:description><![CDATA[In the second part of this series we discuss the components that make up the schema for JSON-based Azure Resource Manager templates.  We also look at some of the initial building blocks that our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/98d8/a63e9a28-b12f-41c3-ab0a-6c57378c98d8/ARMPart1_mid.mp4</video:content_loc>
+        <video:duration>1342</video:duration>
+        <video:publication_date>2016-04-13T19:58:07.1634709+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/FullofIT/ARMPart0</loc>
+      <lastmod>2017-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/146c/a29cb103-2f00-4b76-9820-937d01e1146c/ARMPart0_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How I automated a hands-on-lab infrastructure - Introduction (Part 0)]]></video:title>
+        <video:description><![CDATA[In part 0, I introduce the purpose for this series, which is a walk-through of how I learned to automate the creation of an Azure-hosted lab environment (Storage, 4 VMs, network, NICs, etc.) using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/146c/a29cb103-2f00-4b76-9820-937d01e1146c/ARMPart0_mid.mp4</video:content_loc>
+        <video:duration>1161</video:duration>
+        <video:publication_date>2016-04-13T19:56:44.9104866+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

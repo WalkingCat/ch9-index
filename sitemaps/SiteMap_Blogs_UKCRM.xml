@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/UKCRM</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/UKCRM/Dashboards-Made-Easy-With-Reporting-Services</loc>
+      <lastmod>2016-11-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/4/4/5/4/5/DashboardsMadeEasyWithReportingServices_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dashboards Made Easy With Reporting Services]]></video:title>
+        <video:description><![CDATA[A couple of months ago I spent some time getting to grips with SQL Server 2008 Reporting Services, and the new
+
+chart and 
+gauge controls that are available. 
+
+You can read more details on my&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/4/4/5/4/5/DashboardsMadeEasyWithReportingServices_ch9.mp4</video:content_loc>
+        <video:duration>1274</video:duration>
+        <video:publication_date>2010-04-30T16:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

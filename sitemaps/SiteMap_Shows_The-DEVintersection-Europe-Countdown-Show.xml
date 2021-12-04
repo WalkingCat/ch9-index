@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-DEVintersection-Europe-Countdown-Show</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-DEVintersection-Europe-Countdown-Show/DEVintersection-Europe-Countdown-Show-Yuknewicz</loc>
+      <lastmod>2018-09-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/62f7/9c3fb9a8-1c3a-4e38-a089-50c1bff562f7/DEVintersectionSwedenCountdownYuknewicz_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DEVintersection Europe Countdown Show on Azure with Paul Yuknewicz]]></video:title>
+        <video:description><![CDATA[Build modern cloud apps! Paul Yuknewicz talks to Richard Campbell about how Azure continues to evolve to empower developers to build their applications the way they always have, but also in the cloud!&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62f7/9c3fb9a8-1c3a-4e38-a089-50c1bff562f7/DEVintersectionSwedenCountdownYuknewicz_mid.mp4</video:content_loc>
+        <video:duration>172</video:duration>
+        <video:publication_date>2017-07-28T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-DEVintersection-Europe-Countdown-Show/DEVintersection-Europe-Countdown-Show-on-Artificial-Intelligence-with-Steve-Guggenheimer</loc>
+      <lastmod>2017-07-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d16f/dfb9bf43-893d-4e41-b77b-8c1ec11ad16f/DEVintersectionSweden2017Guggs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DEVintersection Europe Countdown Show on Artificial Intelligence with Steve Guggenheimer]]></video:title>
+        <video:description><![CDATA[Microsoft CVP Steve Guggenheimer and Richard Campbell talk about his upcoming keynote at the DEVintersection Europe conference in Stockholm, Sweden, Sept 18-20. Steve discusses his role in the new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d16f/dfb9bf43-893d-4e41-b77b-8c1ec11ad16f/DEVintersectionSweden2017Guggs_mid.mp4</video:content_loc>
+        <video:duration>161</video:duration>
+        <video:publication_date>2017-07-25T12:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/The-DEVintersection-Europe-Countdown-Show/DEVintersection-Europe-Countdown-Show-Hunter</loc>
+      <lastmod>2018-09-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/94e7/5d511828-e8a7-4eac-b763-db1fa61a94e7/DEVintersectionSwedenCountdownHunter_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DEVintersection Europe Countdown Show on .NET Core 2 with Scott Hunter]]></video:title>
+        <video:description><![CDATA[The next version of .NET Core is upon us! Scott Hunter, the leader of the .NET team, talks to Richard Campbell about the importance of Core 2 – adding the vast majority of the original .NET framework&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94e7/5d511828-e8a7-4eac-b763-db1fa61a94e7/DEVintersectionSwedenCountdownHunter_mid.mp4</video:content_loc>
+        <video:duration>161</video:duration>
+        <video:publication_date>2017-07-18T15:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

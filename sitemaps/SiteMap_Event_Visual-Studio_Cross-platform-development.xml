@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Cross-platform-development</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Cross-platform-development/Flexibel-bleiben-Teil-II-Das-Backend</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a12/7de72505-bc8b-43c4-9d72-42a9c9e29a12/flexibelbleibenbackend_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Flexibel bleiben, Teil II: Das Backend ]]></video:title>
+        <video:description><![CDATA[Azure als Cross-Plattform Werkzeug f&#252;r Backend und TestAzure als sichere und schnelle Backend-Datenbank f&#252;r WinPhone, Android und iOS einsetzenAzure nutzen, um Last auf Webanwendungen zu simulieren,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a12/7de72505-bc8b-43c4-9d72-42a9c9e29a12/flexibelbleibenbackend_mid.mp4</video:content_loc>
+        <video:duration>1348</video:duration>
+        <video:publication_date>2014-08-12T18:32:44.7369951+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Cross-platform-development/Flexibel-bleiben-Teil-I-Der-Client</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/634b/952c6e3e-114b-4ab0-ae0a-59b0778d634b/flexibelbleibenclient_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Flexibel bleiben, Teil I: Der Client ]]></video:title>
+        <video:description><![CDATA[Cross Platform Development mit Visual Studio und Xamarin.NET Kenntnisse nutzen, um Apps auf allen aktuellen Plattformen zu schreibenTime-to-Market reduzieren und Qualit&#228;t erh&#246;hen: Shared Code f&#252;r&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/634b/952c6e3e-114b-4ab0-ae0a-59b0778d634b/flexibelbleibenclient_mid.mp4</video:content_loc>
+        <video:duration>4571</video:duration>
+        <video:publication_date>2014-08-12T18:31:34.5005594+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Cross-platform-development/Let-s-work-together</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/245e/f5084fa5-de54-4d5d-8df3-babade4f245e/letsworktogether_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Lets work together]]></video:title>
+        <video:description><![CDATA[Einrichten und Administration von Visual Studio OnlineBacklog Management mit Visual Studio OnlineEinbinden aller Stakeholder mit Storyboards und Feedback ClientGit Repositories und Continuous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/245e/f5084fa5-de54-4d5d-8df3-babade4f245e/letsworktogether_mid.mp4</video:content_loc>
+        <video:duration>3368</video:duration>
+        <video:publication_date>2014-08-12T18:29:38.3644025+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/UKDX/Introducing-AI</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/UKDX/Introducing-AI/Deep-Learning</loc>
+      <lastmod>2017-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5d8/68d5b470-897a-42ec-93ec-d86b9ce5c5d8/DeepLearning_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Learning]]></video:title>
+        <video:description><![CDATA[How is the future going to look like? When are we going to reach true Artificial Intelligence? Is the Singularity going to happen? There is a lot of talk today about AI and what does it mean for the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5d8/68d5b470-897a-42ec-93ec-d86b9ce5c5d8/DeepLearning_mid.mp4</video:content_loc>
+        <video:duration>2650</video:duration>
+        <video:publication_date>2017-05-02T10:40:12.3005097+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/UKDX/Introducing-AI/Bots-and-Conversation-as-a-platform</loc>
+      <lastmod>2017-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/afa1/e9892832-60e3-4963-9d78-c1850a91afa1/bots_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bots and Conversation-as-a-platform]]></video:title>
+        <video:description><![CDATA[Conversation-as-a-platform is providing new ways to interact directly with companies, important data  and key services. In this session we ae going to walk through Microsoft&#39;s approach to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/afa1/e9892832-60e3-4963-9d78-c1850a91afa1/bots_mid.mp4</video:content_loc>
+        <video:duration>1764</video:duration>
+        <video:publication_date>2017-04-25T09:22:40.9269251+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/UKDX/Introducing-AI/Transforming-Data-into-Intelligent-Action</loc>
+      <lastmod>2017-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f96d/4698fa7c-bc17-4016-9cdd-66bdc685f96d/Data_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Transforming Data into Intelligent Action]]></video:title>
+        <video:description><![CDATA[The world and technology are once again transforming, the vast majority of the worlds data is now digital and customers who are harnessing the power of big data, the cloud and intelligent applications&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f96d/4698fa7c-bc17-4016-9cdd-66bdc685f96d/Data_mid.mp4</video:content_loc>
+        <video:duration>2838</video:duration>
+        <video:publication_date>2017-04-16T14:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/UKDX/Introducing-AI/Cognitive-Services</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f210/c6a9b429-0eed-49f6-917b-5cbbaa7ef210/CognitiveServices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cognitive Services]]></video:title>
+        <video:description><![CDATA[Microsoft Cognitive Services is a suite of 25 APIs th​at are built on Microsoft&#39;s Azure Machine Learning Service. These APIs do some very, very clever things like extract key phrases and sentiment&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f210/c6a9b429-0eed-49f6-917b-5cbbaa7ef210/CognitiveServices_mid.mp4</video:content_loc>
+        <video:duration>2874</video:duration>
+        <video:publication_date>2017-04-11T01:16:39.4576501+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/UKDX/Introducing-AI/AI-101</loc>
+      <lastmod>2019-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37a8/a7c1e4bf-da08-4b57-9803-d86a4d6d37a8/ai101_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[AI 101]]></video:title>
+        <video:description><![CDATA[This talk will answer some key questions you may have on Artificial Intelligence and Microsoft; What is artificial intelligence? Why has it exploded as the next big thing? What is Microsoft&#39;s approach&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37a8/a7c1e4bf-da08-4b57-9803-d86a4d6d37a8/ai101_mid.mp4</video:content_loc>
+        <video:duration>3623</video:duration>
+        <video:publication_date>2017-04-04T10:23:47.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

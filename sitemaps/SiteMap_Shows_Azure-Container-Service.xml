@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Container-Service</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Container-Service/Azure-Container-Service-How-to-create-an-SSH-Tunnel</loc>
+      <lastmod>2018-01-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cfef/02098ce5-0353-4789-9183-62b1bef9cfef/createsshtunnel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Container Service: How to create an SSH Tunnel ]]></video:title>
+        <video:description><![CDATA[Check out my latest video on how to create an SSH tunnel to connect to a Docker Swarm engine in Azure Container service In this video we review the following: - Review SSH tunnels and how they work -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cfef/02098ce5-0353-4789-9183-62b1bef9cfef/createsshtunnel_mid.mp4</video:content_loc>
+        <video:duration>1262</video:duration>
+        <video:publication_date>2017-03-17T14:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Container-Service/How-to-link-containers-on-ACS</loc>
+      <lastmod>2019-02-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/58a4/40cf70dc-867e-4090-b0f1-666a5abb58a4/acsdockerdemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to link containers on ACS]]></video:title>
+        <video:description><![CDATA[Check out my latest video on how to get started securely sharing data between multiple containers using Docker Swarm on Azure Container service. In this video we review the following: - Legacy&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58a4/40cf70dc-867e-4090-b0f1-666a5abb58a4/acsdockerdemo_mid.mp4</video:content_loc>
+        <video:duration>992</video:duration>
+        <video:publication_date>2017-02-22T16:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Container-Service/Azure-Container-Service-How-to-change-your-public-key</loc>
+      <lastmod>2018-04-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ba7/2d5527d6-94c3-4789-9482-c2d00e066ba7/ACSsshvideo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Container Service - How to change your public key]]></video:title>
+        <video:description><![CDATA[Hi guys! I thought I&#39;d do a quick how-to video on changing your public key in the event you forget your private key passphrase, or you simply lose your private key altogether. Feel free to leave&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ba7/2d5527d6-94c3-4789-9482-c2d00e066ba7/ACSsshvideo_mid.mp4</video:content_loc>
+        <video:duration>323</video:duration>
+        <video:publication_date>2017-01-19T23:51:47.8060801+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

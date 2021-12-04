@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerApps-and-Flow-Training</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerApps-and-Flow-Training/Hands-On-Lab</loc>
+      <lastmod>2019-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/20bf/6e0dd86d-a48a-4d2e-bbd8-efc7f25920bf/HOL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hands On Lab]]></video:title>
+        <video:description><![CDATA[Technical Hands on Lab for creating apps in PowerApps ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/20bf/6e0dd86d-a48a-4d2e-bbd8-efc7f25920bf/HOL_mid.mp4</video:content_loc>
+        <video:duration>4076</video:duration>
+        <video:publication_date>2016-11-11T21:31:13.6860524+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-DSC-Einsteigerkurs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-DSC-Einsteigerkurs/PowerShell-DSC-Einsteigerkurs-Modul-2</loc>
+      <lastmod>2018-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/647d/b3bb1bf5-224a-438e-9b55-1e175229647d/Modul2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell DSC Einsteigerkurs Modul 2]]></video:title>
+        <video:description><![CDATA[Im Modul 2 unseres PowerShell DSC-Kurses geht es um verschiedene kleinere Beispiel-Konfigurationen, an denen wir den Aufbau und die Funktionsweise einer DSC-Configuration erl&#228;utern. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/647d/b3bb1bf5-224a-438e-9b55-1e175229647d/Modul2_mid.mp4</video:content_loc>
+        <video:duration>1404</video:duration>
+        <video:publication_date>2017-01-17T10:46:32.9932311+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-DSC-Einsteigerkurs/PowerShell-DSC-Einsteigerkurs-Modul-3</loc>
+      <lastmod>2017-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b4b1/9ab18f25-e8dd-42e2-9ca4-4c0f2602b4b1/Modul3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell DSC Einsteigerkurs Modul 3]]></video:title>
+        <video:description><![CDATA[Im Modul 3 unseres PowerShell DSC Kurses geht es um das &amp;quot;enacten&amp;quot; - also das Umsetzen - der geschriebenen PowerShell Desired State Configuration. Dabei gehen wir auf den Workflow noch einmal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b4b1/9ab18f25-e8dd-42e2-9ca4-4c0f2602b4b1/Modul3_mid.mp4</video:content_loc>
+        <video:duration>793</video:duration>
+        <video:publication_date>2017-01-04T16:58:32.4239877+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-DSC-Einsteigerkurs/PowerShell-DSC-Einsteigerkurs-Modul-4</loc>
+      <lastmod>2017-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9818/3febcfbb-8484-4858-a184-fec28fd79818/Modul4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell DSC Einsteigerkurs Modul 4]]></video:title>
+        <video:description><![CDATA[Im Modul 4 unseres PowerShell DSC Einsteigerkurses besch&#228;ftigen wir uns mit der Frage, wie wir weitere Ressourcen aus externen Quellen beziehen und einbinden k&#246;nnen. Dabei verwenden wir einerseits&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9818/3febcfbb-8484-4858-a184-fec28fd79818/Modul4_mid.mp4</video:content_loc>
+        <video:duration>972</video:duration>
+        <video:publication_date>2017-01-04T16:58:23.0476372+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-DSC-Einsteigerkurs/PowerShell-DSC-Einsteigerkurs-Modul-1</loc>
+      <lastmod>2019-09-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5b48/f9c7505d-01ec-4f58-b527-eae7c1b35b48/Modul1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerShell DSC Einsteigerkurs Modul 1]]></video:title>
+        <video:description><![CDATA[Ein Einsteiger-Kurs f&#252;r die Windows PowerShell Desired State Configuration (DSC), erstellt von mir und Jan-Henrik Damaschke. Im Modul 1 geht es um die Vorstellung des Kurses sowie um die Grundlagen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5b48/f9c7505d-01ec-4f58-b527-eae7c1b35b48/Modul1_mid.mp4</video:content_loc>
+        <video:duration>1758</video:duration>
+        <video:publication_date>2016-12-16T12:08:09.0511950+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

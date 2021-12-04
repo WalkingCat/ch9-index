@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TravisHobrla</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TravisHobrla/Kurt-Kennett-Recovering-a-Windows-CE-callstack-after-a-jump-to-NULL</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/TravisHobrla/Porting-Drivers-to-Windows-CE-60</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/5/1/2/2/4/PortingDriversCE62500_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Porting Drivers to Windows CE 6.0]]></video:title>
+        <video:description><![CDATA[This session has been presented at various Windows CE events such as MEDC.  It walks you through getting drivers from CE 5.0 (or previous versions) to work in CE 6.0.  Using the WaveAPI driver as a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/5/1/2/2/4/PortingDriversCE62500_ch9.mp4</video:content_loc>
+        <video:duration>2681</video:duration>
+        <video:publication_date>2008-08-20T23:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Moliwosci-oferty-Microsoft-Azure-dla-studentow-i-uczniow</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Moliwosci-oferty-Microsoft-Azure-dla-studentow-i-uczniow/Visual-Studio-Online</loc>
+      <lastmod>2015-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/332f/fb198286-644b-458d-8298-01c53248332f/visual_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Online]]></video:title>
+        <video:description><![CDATA[Ostatni moduł wprowadzi Cię do usługi Visual Studio Online, kt&#243;ra pozwala na grupowe zarządzanie Twoim projektem w infrastrukturze chmury. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/332f/fb198286-644b-458d-8298-01c53248332f/visual_mid.mp4</video:content_loc>
+        <video:duration>351</video:duration>
+        <video:publication_date>2015-08-07T14:47:35.5801594+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Moliwosci-oferty-Microsoft-Azure-dla-studentow-i-uczniow/Application-Insights</loc>
+      <lastmod>2015-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d8f5/9e85a97e-9e34-4588-9a64-1b804c3cd8f5/application_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Application Insights]]></video:title>
+        <video:description><![CDATA[Moduł wprowadzi Cię do usługi Application Insights, kt&#243;ra pozwolala na diagnostyczne monitorowanie Twojej aplikacji w czasie rzeczywistym. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d8f5/9e85a97e-9e34-4588-9a64-1b804c3cd8f5/application_mid.mp4</video:content_loc>
+        <video:duration>162</video:duration>
+        <video:publication_date>2015-08-07T14:26:19.2228694+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Moliwosci-oferty-Microsoft-Azure-dla-studentow-i-uczniow/Microsoft-Azure-Web-Apps</loc>
+      <lastmod>2015-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45a7/5912c01c-97d4-4d07-a563-b3b1dec545a7/webapps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure - Web Apps]]></video:title>
+        <video:description><![CDATA[Podczas tego modułu dowiesz się jak w łatwy i przystępny spos&#243;b opublikować swoją aplikację sieci web dzięki usłudze Web Apps. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45a7/5912c01c-97d4-4d07-a563-b3b1dec545a7/webapps_mid.mp4</video:content_loc>
+        <video:duration>257</video:duration>
+        <video:publication_date>2015-08-07T14:20:02.6670348+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Moliwosci-oferty-Microsoft-Azure-dla-studentow-i-uczniow/Wprowadzenie-i-rejestracja</loc>
+      <lastmod>2015-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e99/0b33daf6-697a-4719-a335-4402be647e99/wprowadzenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wprowadzenie i rejestracja]]></video:title>
+        <video:description><![CDATA[Moduł wprowadzający w kt&#243;rym zapoznasz się z informacjami dt. autora oraz dowiesz się co czeka Cię podczas tego kursu. Kolejną częścią będzie rejestracja do programu Dreamspark oraz aktywacja usługi&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e99/0b33daf6-697a-4719-a335-4402be647e99/wprowadzenie_mid.mp4</video:content_loc>
+        <video:duration>286</video:duration>
+        <video:publication_date>2015-08-07T14:13:00.3207050+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

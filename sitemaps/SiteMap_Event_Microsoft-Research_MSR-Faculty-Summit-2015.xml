@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015/6</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015/5</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015/4</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/721d/5fa76226-0642-4719-a9cc-a70c4167721d/4FromDataCollection_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[From data collection to data analytics to data consumption]]></video:title>
+        <video:description><![CDATA[How might people use aggregated data and marketing intelligence to make decisions and allocate resources? Microsoft researcher David Rothschild shares thoughts from his work on polling, prediction&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/721d/5fa76226-0642-4719-a9cc-a70c4167721d/4FromDataCollection_mid.mp4</video:content_loc>
+        <video:duration>764</video:duration>
+        <video:publication_date>2015-08-26T21:51:55.1545532+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015/2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2c4/91451341-bc58-4272-8f0a-c4fb80d9e2c4/2ProgrammingModels_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Programming models for estimates and approximations]]></video:title>
+        <video:description><![CDATA[Learn about the challenges associated with modeling uncertainty in computational systems and how programming models are being used to improve systems, such as GPS. Kathryn McKinley, principal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2c4/91451341-bc58-4272-8f0a-c4fb80d9e2c4/2ProgrammingModels_mid.mp4</video:content_loc>
+        <video:duration>598</video:duration>
+        <video:publication_date>2015-08-26T21:51:11.9605915+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015/1B</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/22f5/2a456ed1-ee37-4919-bc74-3580cf5722f5/1BFutureofAI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Future of Artificial Intelligence]]></video:title>
+        <video:description><![CDATA[Eric Horvitz, managing director and distinguished scientist, Microsoft Research, as he describes AI as the crashing crest of the wave of computer science. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/22f5/2a456ed1-ee37-4919-bc74-3580cf5722f5/1BFutureofAI_mid.mp4</video:content_loc>
+        <video:duration>73</video:duration>
+        <video:publication_date>2015-08-26T21:50:46.8596375+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Research/MSR-Faculty-Summit-2015/1A</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45e4/a917493c-ea59-4de9-84d0-859807eb45e4/1AComputationalRationality_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Computational Rationality]]></video:title>
+        <video:description><![CDATA[Eric Horvitz, managing director and distinguished scientist, Microsoft Research, and Josh Tenenbaum, Professor, Massachusetts Institute of Technology, discuss putting a computational lens on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45e4/a917493c-ea59-4de9-84d0-859807eb45e4/1AComputationalRationality_mid.mp4</video:content_loc>
+        <video:duration>609</video:duration>
+        <video:publication_date>2015-08-26T21:49:54.9644869+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

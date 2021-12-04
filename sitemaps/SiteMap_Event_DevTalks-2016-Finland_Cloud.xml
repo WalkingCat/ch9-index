@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud/Azure-App-Services-kytnnss</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5956/59d896ee-7698-45c5-b3e8-c0e86eaf5956/Azureappserviceskaytannossa_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure App Services k&#228;yt&#228;nn&#246;ss&#228;]]></video:title>
+        <video:description><![CDATA[Azure App Services on Azuren kivijalka ja tulisi l&#246;yty&#228; jokaisen kehitt&#228;j&#228;n ty&#246;kalupakista. Miten Azure API Apps, We Apps ja Logic Apps otetaan k&#228;ytt&#246;&#246;n oikeissa projekteissa? Mit&#228; tulee huomioida&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5956/59d896ee-7698-45c5-b3e8-c0e86eaf5956/Azureappserviceskaytannossa_mid.mp4</video:content_loc>
+        <video:duration>3182</video:duration>
+        <video:publication_date>2016-04-18T10:03:17.6022793+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud/Containerit-ajoympristn</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3715/38546215-a3d3-4c8d-8816-0fb52ec43715/containeritajoymparistona_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Containerit ajoymp&#228;rist&#246;n&#228;]]></video:title>
+        <video:description><![CDATA[Miten kontit ja konttien hallintaj&#228;rjestelm&#228;t muuttavat sovelluskehityst&#228;? Mik&#228; on DCOS? Petrin mukana esityksess&#228; ovat Fujitsun Tomi Pietil&#228; ja Anders Aspn&#228;s. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3715/38546215-a3d3-4c8d-8816-0fb52ec43715/containeritajoymparistona_mid.mp4</video:content_loc>
+        <video:duration>2967</video:duration>
+        <video:publication_date>2016-04-18T10:02:31.0115016+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud/Azure-Service-Fabric-Microservices-done-right-yeah</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/33c4/251e7923-74c6-4ed0-8907-9f4d2f6533c4/Azureservicefabric_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Service Fabric - Microservices done right, yeah!]]></video:title>
+        <video:description><![CDATA[Teetp&#228; asioita perinteisen tilattomasti tai haluat sukeltaa tilallisiin toteutuksiin niin Service Fabric lupailee paljon. Mit&#228; sill&#228; voi tehd&#228; ja t&#228;ytt&#228;&#228;k&#246; se lupauksensa. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/33c4/251e7923-74c6-4ed0-8907-9f4d2f6533c4/Azureservicefabric_mid.mp4</video:content_loc>
+        <video:duration>3110</video:duration>
+        <video:publication_date>2016-04-18T10:02:13.0229476+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud/Azure-Resource-Manager</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3391/5364193b-7725-4f8e-aa54-6a8799323391/Azureresourcemanager_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Resource Manager]]></video:title>
+        <video:description><![CDATA[Kliksuttelu on synti&#228;. Resource Manager mahdollistaa Azure -palveluiden luonnin ja hallinnoinnin skriptien ja JSON -pohjaisten ymp&#228;rist&#246;mallien avulla. T&#228;ss&#228; esityksess&#228; opit, miten Azure Resource&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3391/5364193b-7725-4f8e-aa54-6a8799323391/Azureresourcemanager_mid.mp4</video:content_loc>
+        <video:duration>2796</video:duration>
+        <video:publication_date>2016-04-18T10:01:47.2869683+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud/Suojaa-salaisuutesi-Azure-Key-Vaultilla</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0877/65ae9e0f-00e4-4656-baa6-e336047f0877/suojaasalaisuutesiazurekeyvaultilla_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Suojaa salaisuutesi Azure Key Vaultilla]]></video:title>
+        <video:description><![CDATA[Sovelluksen arkaluontoisten asetusten hallinta on aina ongelmallista. Azure Key Vault on keskitetty ratkaisu sertifikaattien ja salaisuuksien hallintaan ja se tarjoaa hyv&#228;t rajapinnat ohjelmalliseen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0877/65ae9e0f-00e4-4656-baa6-e336047f0877/suojaasalaisuutesiazurekeyvaultilla_mid.mp4</video:content_loc>
+        <video:duration>2471</video:duration>
+        <video:publication_date>2016-04-18T10:01:24.4290423+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DevTalks-2016-Finland/Cloud/Power-BI--Modernin-sovelluksen-ReportViewer</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f573/5cfe3613-cbfc-4dae-ad84-2d070af0f573/PowerBImoderninsovelluksenreportviewer_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Power BI  Modernin sovelluksen ReportViewer!]]></video:title>
+        <video:description><![CDATA[Power BI sis&#228;lt&#228;&#228; ISV-moodin, jonka avulla t&#228;m&#228;n hetken n&#228;ytt&#228;vin visualisointi on sis&#228;llytett&#228;viss&#228; omiin sovelluksiin – kuten Report Viewer on ollut perinteisten sovellusten kohdalla. Power BI&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f573/5cfe3613-cbfc-4dae-ad84-2d070af0f573/PowerBImoderninsovelluksenreportviewer_mid.mp4</video:content_loc>
+        <video:duration>3277</video:duration>
+        <video:publication_date>2016-04-18T10:01:04.1012212+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

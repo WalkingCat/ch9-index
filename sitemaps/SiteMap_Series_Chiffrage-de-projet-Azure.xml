@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Chiffrage-de-projet-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Chiffrage-de-projet-Azure/Comment-chiffrer-un-projet-de-VM-avec-Azure</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0616/29f6e71b-88a4-4b2e-91f6-26b2c04d0616/VM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comment chiffrer un projet de VM avec Azure ]]></video:title>
+        <video:description><![CDATA[Ce troisi&#232;me sc&#233;nario montre comment chiffrer le d&#233;ploiement d&#39;une Machine Virtuelle (VM) dans Azure.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0616/29f6e71b-88a4-4b2e-91f6-26b2c04d0616/VM_mid.mp4</video:content_loc>
+        <video:duration>586</video:duration>
+        <video:publication_date>2016-10-18T17:31:00.7437823+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Chiffrage-de-projet-Azure/Comment-chiffrer-un-projet-de-backup-avec-Azure</loc>
+      <lastmod>2016-10-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d6c6/a94a9861-4e37-46bd-a929-58c10ee3d6c6/azurebackup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comment chiffrer un projet de backup avec Azure ]]></video:title>
+        <video:description><![CDATA[Dans cette vid&#233;o, William Matyas explique comment chiffrer Azure Backup &#224; travers diff&#233;rents sc&#233;narios.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d6c6/a94a9861-4e37-46bd-a929-58c10ee3d6c6/azurebackup_mid.mp4</video:content_loc>
+        <video:duration>493</video:duration>
+        <video:publication_date>2016-10-18T17:21:05.1398072+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Chiffrage-de-projet-Azure/Introduction</loc>
+      <lastmod>2016-10-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe88/d6f1a67b-3b3c-4084-ad66-98c34f18fe88/Introduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction]]></video:title>
+        <video:description><![CDATA[Dans cette vid&#233;o d&#39;introduction d&#233;di&#233;e &#224; Azure, Benoit Roumagere, Ing&#233;nieur Commercial Cloud et William Matyas, Sp&#233;cialiste Avant-Vente Partenaires TPE/PME nous pr&#233;sentent Azure et les 3 sc&#233;narios&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe88/d6f1a67b-3b3c-4084-ad66-98c34f18fe88/Introduction_mid.mp4</video:content_loc>
+        <video:duration>123</video:duration>
+        <video:publication_date>2016-10-18T17:20:30.0865495+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Chiffrage-de-projet-Azure/Pour-conclure-</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/23a5/926c89b9-4e05-482e-9d15-4ca3d20823a5/Conclusion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pour conclure !]]></video:title>
+        <video:description><![CDATA[Au cours de ces diff&#233;rentes vid&#233;os, vous avez pu voir les 3 sc&#233;narios cl&#233;s d&#39;Azure sur le segment TPE/PME : - Azure Backup  - Azure Site Recovery avec le PRA  - Azure Virtual Machine  Nous vous&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/23a5/926c89b9-4e05-482e-9d15-4ca3d20823a5/Conclusion_mid.mp4</video:content_loc>
+        <video:duration>73</video:duration>
+        <video:publication_date>2016-10-18T17:20:05.6303179+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Chiffrage-de-projet-Azure/Comment-chiffrer-un-projet-de-PRA-avec-Azure-Site-Recovery</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d7ee/88f11c8d-4e7f-4817-b060-56068d23d7ee/PRA_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comment chiffrer un projet de PRA avec Azure Site Recovery]]></video:title>
+        <video:description><![CDATA[Apr&#232;s le sc&#233;nario Azure Backup, voici le deuxi&#232;me sc&#233;nario : comment chiffrer un Plan de Reprise d&#39;Activit&#233; (PRA) avec Azure Site Recovery.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d7ee/88f11c8d-4e7f-4817-b060-56068d23d7ee/PRA_mid.mp4</video:content_loc>
+        <video:duration>752</video:duration>
+        <video:publication_date>2016-10-18T17:18:09.8748514+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

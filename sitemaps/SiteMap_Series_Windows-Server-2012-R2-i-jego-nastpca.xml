@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-2012-R2-i-jego-nastpca</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-2012-R2-i-jego-nastpca/03--Windows-Server-Technical-Preview</loc>
+      <lastmod>2015-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db13/ec388cbc-5e25-4151-9f21-05d6d8eadb13/MVAWS2012vNextM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Windows Server Technical Preview]]></video:title>
+        <video:description><![CDATA[Nowa wersja serwera została wydana w wersji testowej (Technical Preview) w październiku 2014 roku. Zobacz co potrafi zrobić już teraz i co zostało dodane i poprawione. Po obejrzeniu tego modułu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db13/ec388cbc-5e25-4151-9f21-05d6d8eadb13/MVAWS2012vNextM03_mid.mp4</video:content_loc>
+        <video:duration>3132</video:duration>
+        <video:publication_date>2015-03-13T10:42:51.6740758+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-2012-R2-i-jego-nastpca/02--Windows-Server-2012-R2</loc>
+      <lastmod>2015-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e69d/f4494b6d-d20b-4cdf-a594-caafd285e69d/MVAWS2012vNextM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Windows Server 2012 R2]]></video:title>
+        <video:description><![CDATA[Dowiedz się, co może i co potrafi już teraz zrobić system Windows Server 2012 R2. W tym module zobaczysz wybrane ciekawe nowości, kt&#243;re możesz wykorzystać w swojej infrastrukturze już dziś. Dema&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e69d/f4494b6d-d20b-4cdf-a594-caafd285e69d/MVAWS2012vNextM02_mid.mp4</video:content_loc>
+        <video:duration>3624</video:duration>
+        <video:publication_date>2015-03-13T10:27:26.9778395+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Windows-Server-2012-R2-i-jego-nastpca/01--Strategia-Microsoft-Datacenter-i-OS</loc>
+      <lastmod>2015-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c83/2d9a0821-3397-460b-b635-3fbce6314c83/MVAWS2012vNextM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Strategia Microsoft: Datacenter i OS]]></video:title>
+        <video:description><![CDATA[Dowiedz się, jakie wygląda strategia Microsoft dotycząca nowoczesnego datacenter oraz rozwoju serwerowych system&#243;w operacyjnych i jak w tą koncepcję wpisuje się istniejący Windows Server 2012 R2 oraz&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c83/2d9a0821-3397-460b-b635-3fbce6314c83/MVAWS2012vNextM01_mid.mp4</video:content_loc>
+        <video:duration>653</video:duration>
+        <video:publication_date>2015-03-13T10:26:49.4958980+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

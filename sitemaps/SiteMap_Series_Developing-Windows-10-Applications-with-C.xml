@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Windows-10-Applications-with-C</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Windows-10-Applications-with-C/Layouts</loc>
+      <lastmod>2016-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0670/f6276e49-896a-4de8-ad67-53d18f9b0670/win103_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Layouts]]></video:title>
+        <video:description><![CDATA[In this module we will discuss Grid, StackPanel, Canvas and RelativePanel user controls ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0670/f6276e49-896a-4de8-ad67-53d18f9b0670/win103_mid.mp4</video:content_loc>
+        <video:duration>1783</video:duration>
+        <video:publication_date>2016-02-26T02:53:12.9930520+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Windows-10-Applications-with-C/Introduction-to-XAML</loc>
+      <lastmod>2018-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9bc0/088879e9-c2c7-44b3-8166-9ea485da9bc0/xamlintro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to XAML]]></video:title>
+        <video:description><![CDATA[XAML (eXtensible Application Markup Language) is a special declarative language that is based on XML and is used primarily for creating interfaces. XAML was introduced in the .NET Framework 3.0 as a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9bc0/088879e9-c2c7-44b3-8166-9ea485da9bc0/xamlintro_mid.mp4</video:content_loc>
+        <video:duration>1781</video:duration>
+        <video:publication_date>2016-02-19T06:38:37.7998282+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Windows-10-Applications-with-C/What-is-the-Universal-Windows-Platform</loc>
+      <lastmod>2018-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b55e/310258c3-89fd-4f66-9f61-ab2390eeb55e/w101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is the Universal Windows Platform? ]]></video:title>
+        <video:description><![CDATA[Prior to Windows 10, you could develop applications for Windows desktops, tablets, phones, Xbox, and embedded devices, and usually you had to use different approaches for each type of device. For&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b55e/310258c3-89fd-4f66-9f61-ab2390eeb55e/w101_mid.mp4</video:content_loc>
+        <video:duration>1885</video:duration>
+        <video:publication_date>2016-02-18T02:43:12.5959801+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

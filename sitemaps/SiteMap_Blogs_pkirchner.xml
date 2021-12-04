@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Delete-Azure-Active-Directory</loc>
+      <lastmod>2016-01-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/12c2/e317296e-c97a-4bd9-bfc6-6c583e9b12c2/201601tippdeleteaad_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tipp: Azure Active Directory l&#246;schen trotz Fehler &quot;Directory has one or more subscriptions to&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Wer viel mit Azure Active Directory (AAD) testet, kennt das Problem, dass man das AAD nicht mehr l&#246;schen kann. Ein h&#228;ufige Fehlermeldung ist die folgende: Directory has one or more subscriptions to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/12c2/e317296e-c97a-4bd9-bfc6-6c583e9b12c2/201601tippdeleteaad_mid.mp4</video:content_loc>
+        <video:duration>537</video:duration>
+        <video:publication_date>2016-02-01T06:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Azure-Backup-in-Windows-10</loc>
+      <lastmod>2015-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/08b9/8d942241-7878-4864-94db-23b6daca08b9/20150825azurebackupwindows10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dateien mit Azure Backup in Windows 10 sichern]]></video:title>
+        <video:description><![CDATA[Azure Backup ist ein Dienst, der es Ihnen erm&#246;glicht zuverl&#228;ssig Offsite-Backups verschl&#252;sselt in die Cloud zu speichern. Am 18.08.2015 haben wir den offiziellen Support von Azure Backup f&#252;r Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/08b9/8d942241-7878-4864-94db-23b6daca08b9/20150825azurebackupwindows10_mid.mp4</video:content_loc>
+        <video:duration>1297</video:duration>
+        <video:publication_date>2015-08-25T14:21:30.9553649+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/WebDAV-PowerShell-Azure</loc>
+      <lastmod>2015-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c8d/8dc38140-fc0c-4b72-b462-732119e53c8d/201507webdav_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dateiserver in Azure per WebDAV via PowerShell bereitstellen]]></video:title>
+        <video:description><![CDATA[Mein amerikanischer Kollege Brian Lewis hat in einem schon &#228;lteren Blog-Post beschrieben, wie man einen WebDAV-Server in Microsoft Azure einrichtet, um diesen dann als Netzlaufwerk in Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c8d/8dc38140-fc0c-4b72-b462-732119e53c8d/201507webdav_mid.mp4</video:content_loc>
+        <video:duration>1632</video:duration>
+        <video:publication_date>2015-07-02T04:49:33.5979294+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Wo-ist-die-Windows-PowerShell-ISE-unter-Windows-8</loc>
+      <lastmod>2014-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f69/3a9638d3-ef4d-4f84-aa04-bfd0abe35f69/20140222WindowsPowerShellISEWin81_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Wo ist die Windows PowerShell ISE unter Windows 8 zu finden?]]></video:title>
+        <video:description><![CDATA[Die Windows PowerShell Integrated Scripting Environment (ISE) ist unter Windows 8 bereits vorinstalliert. Aber wo ist sie zu finden? Auch ich musste anfangs etwas suchen. Aber ich war mir sicher, dass&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f69/3a9638d3-ef4d-4f84-aa04-bfd0abe35f69/20140222WindowsPowerShellISEWin81_mid.mp4</video:content_loc>
+        <video:duration>93</video:duration>
+        <video:publication_date>2014-02-22T12:38:44.3686114+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Bring-Your-Own-App-Apps-f-r-Windows-8-1-entwickeln-Ein-Einstieg-in-20-Minuten-</loc>
+      <lastmod>2014-01-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/35e9/87cb3d72-c228-4cd2-b7fa-cba819cd35e9/20140116BringYourOwnApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Bring Your Own App! Apps f&#252;r Windows 8.1 entwickeln - Ein Einstieg in 20 Minuten!]]></video:title>
+        <video:description><![CDATA[In 20 Minuten zur eigenen App f&#252;r Windows 8.1! Ist das in 20 Minuten &#252;berhaupt m&#246;glich? Lasst Euch &#252;berraschen! In 20 Minuten erfahrt Ihr, welche Tools Ihr braucht und woher Ihr sie (kostenfrei)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/35e9/87cb3d72-c228-4cd2-b7fa-cba819cd35e9/20140116BringYourOwnApp_mid.mp4</video:content_loc>
+        <video:duration>1138</video:duration>
+        <video:publication_date>2014-01-22T11:23:42.2911688+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Tutorial-Backup-eines-Windows-Servers-mit-Windows-Azure-Backup</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94cb/a929b363-fb07-42b6-9795-e3095f2c94cb/201010tutorialwindowsazurebackupclient_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tutorial - Backup eines Windows Servers mit Windows Azure Backup]]></video:title>
+        <video:description><![CDATA[Dieses Video zeigt Ihnen, wie man einen Windows Server bei Windows Azure Backup registriert und Daten in der Cloud sichert sowie von dort wiederherstellt. Windows Azure Backup k&#246;nnen Sie f&#252;r Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94cb/a929b363-fb07-42b6-9795-e3095f2c94cb/201010tutorialwindowsazurebackupclient_mid.mp4</video:content_loc>
+        <video:duration>495</video:duration>
+        <video:publication_date>2013-10-11T11:37:12.7078399+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Tutorial-Erstellen-eines-Sicherungstresors-in-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1b47/3b4f7210-6db4-402b-a558-2930b5fe1b47/201010tutorialcreatebackupvault_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tutorial - Erstellen eines Sicherungstresors in Windows Azure]]></video:title>
+        <video:description><![CDATA[Dieses Video zeigt Ihnen, wie man einen Sicherungstresor in Windows Azure erstellt und konfiguriert. Sicherungstresore in Windows Azure k&#246;nnen verwendet werden, damit Backups von Windows Server sicher&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1b47/3b4f7210-6db4-402b-a558-2930b5fe1b47/201010tutorialcreatebackupvault_mid.mp4</video:content_loc>
+        <video:duration>724</video:duration>
+        <video:publication_date>2013-10-11T11:36:04.1257763+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Tutorial-Erstellen-einer-VM-in-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/56c9/cbef606e-ffbe-4254-9177-53f77ef256c9/20131009tutorialcreatevminwindowsazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tutorial - Erstellen einer VM in Windows Azure]]></video:title>
+        <video:description><![CDATA[In wenigen Minuten erstellen wir ein Speicherkonto (Storage) und eine virtuelle Maschine (VM) in Windows Azure. Dieses Tutorial f&#252;hrt Sie durch die wichtigen Schritte bis zur Verbindung auf die VM. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/56c9/cbef606e-ffbe-4254-9177-53f77ef256c9/20131009tutorialcreatevminwindowsazure_mid.mp4</video:content_loc>
+        <video:duration>418</video:duration>
+        <video:publication_date>2013-10-09T11:49:11.7502824+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pkirchner/Tutorial-Registrierung-fr-die-kostenfreie-Windows-Azure-Trial</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f20/1bf0d234-7b68-4564-afc5-ee5ba7f51f20/20130924tutorialwindowsazuretrial_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tutorial - Registrierung f&#252;r die kostenfreie Windows Azure Trial]]></video:title>
+        <video:description><![CDATA[In diesem Video zeige ich in knapp 6 Minuten, wie man sich f&#252;r ein kostenloses Windows Azure Testkonto anmeldet, welche Vorteile das Testkonto bietet und wie man die eigene Nutzung im Konto-Portal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f20/1bf0d234-7b68-4564-afc5-ee5ba7f51f20/20130924tutorialwindowsazuretrial_mid.mp4</video:content_loc>
+        <video:duration>363</video:duration>
+        <video:publication_date>2013-10-08T18:05:17.6077815+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

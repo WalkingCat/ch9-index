@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Migrando-Aplicaciones-Silverlight-a-Windows-Phone-7</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4776/564776/MigrarSLAppsToWP7_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Migrando Aplicaciones Silverlight a Windows Phone 7]]></video:title>
+        <video:description><![CDATA[
+La mayor&#237;a del c&#243;digo de aplicaciones Silverlight poder ser reutilizando en aplicaciones para Windows Phone 7, pero hay algunas consideraciones que debes de tener en mente. En este screencast&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4776/564776/MigrarSLAppsToWP7_ch9.mp4</video:content_loc>
+        <video:duration>741</video:duration>
+        <video:publication_date>2010-08-04T12:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Caracteristicas-de-Silverlight-para-Windos-Phone-7</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4706/564706/SLFeaturesxWP7_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Caracteristicas de Silverlight para Windos Phone 7]]></video:title>
+        <video:description><![CDATA[
+Silverlight para Windows Phone 7 se base en Silverlight 3, Algunas caracter&#237;sticas de Silverlight no est&#225;n presentes para la versi&#243;n de Windows Phone 7. En este webcasts aprender&#225;s las&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4706/564706/SLFeaturesxWP7_ch9.mp4</video:content_loc>
+        <video:duration>821</video:duration>
+        <video:publication_date>2010-08-04T02:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Usa-mapas-y-geolocalizacin-en-tu-aplicacin-con-Windows-Phone-7</loc>
+      <lastmod>2010-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4694/564694/SLControlMapsxWP7_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Usa mapas y geolocalizaci&#243;n en tu aplicaci&#243;n con Windows Phone 7]]></video:title>
+        <video:description><![CDATA[
+Con Windows Phone 7 tienes la capacidad de manejar mapas y geo-localizaci&#243;n para tus aplicaciones que est&#225; basado en la versi&#243;n de se utiliza para las aplicaciones web con  Silverlight con un poco&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4694/564694/SLControlMapsxWP7_ch9.mp4</video:content_loc>
+        <video:duration>788</video:duration>
+        <video:publication_date>2010-08-04T00:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Diferencias-entre-el-Silverligth-de-Web-y-el-Silverlight-de-Windwos-Phone-7</loc>
+      <lastmod>2011-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4721/564721/DifSLWebandSLWP7_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Diferencias entre el Silverligth de Web y el Silverlight de Windwos Phone 7]]></video:title>
+        <video:description><![CDATA[
+En este webcasts aprender&#225;s las diferencias entre Silverlight para Windows Phone y Silverlight 3 para otras plataformas.
+Ver m&#225;s detalle en:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4721/564721/DifSLWebandSLWP7_ch9.mp4</video:content_loc>
+        <video:duration>531</video:duration>
+        <video:publication_date>2010-08-04T00:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Control-WebBrowsing-para-Windows-Phone-7</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3057/563057/WebBrowsingWP7mex1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Control WebBrowsing para Windows Phone 7]]></video:title>
+        <video:description><![CDATA[
+Windows Phone 7 tiene un control de tipo WebBrowser que est&#225; basado en la versi&#243;n de controles web para  Silverlight con un poco de diferencias, aprende como utilizar este control e int&#233;gralo en tus&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3057/563057/WebBrowsingWP7mex1_ch9.mp4</video:content_loc>
+        <video:duration>563</video:duration>
+        <video:publication_date>2010-07-24T13:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/El-nuevo-emulador-de-Windows-Phone-7</loc>
+      <lastmod>2010-12-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2765/562765/EmuladorWP7mexv11_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[El nuevo emulador de Windows Phone 7]]></video:title>
+        <video:description><![CDATA[
+El nuevo emulador de Windows Phone 7 es una aplicaci&#243;n que simula un Sistema Operativo Windows Phone 7. Este un ambiente virtual en cual tu puedes publicar, depurar y probar aplicaciones. El&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2765/562765/EmuladorWP7mexv11_ch9.mp4</video:content_loc>
+        <video:duration>1203</video:duration>
+        <video:publication_date>2010-07-23T00:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Mi-primer-juego-con-XNA-para-WP7</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2363/562363/Myfirstxnaapponwp7ver1_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Mi primer juego con XNA para WP7]]></video:title>
+        <video:description><![CDATA[
+Microsoft XNA Framework es un conjunto de APIs, servicios y recursos para desarrollar juegos en Plataforma Microsoft. En este video, aprender&#225;s como usar XNA para construir juegos que puedas usar en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2363/562363/Myfirstxnaapponwp7ver1_ch9.mp4</video:content_loc>
+        <video:duration>1929</video:duration>
+        <video:publication_date>2010-07-22T23:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Mi-primera-aplicacin-para-Windows-Phone-7-usando-Silverlight</loc>
+      <lastmod>2010-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2364/562364/MyFirstSilApponWP7_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Mi primera aplicaci&#243;n para Windows Phone 7 usando Silverlight]]></video:title>
+        <video:description><![CDATA[
+El camino m&#225;s f&#225;cil para desarrollar con Windows Phone 7 es familiarizarse con la plataforma Silverlight, En este video aprender&#225;s como Windows Phone 7 soporta Silverlight y como usar XAML y .NET&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2364/562364/MyFirstSilApponWP7_ch9.mp4</video:content_loc>
+        <video:duration>1429</video:duration>
+        <video:publication_date>2010-07-22T22:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Como-conectarte-a-un-servidor-virtual</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/7/9/9/5/5/configserv_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como conectarte a un servidor virtual]]></video:title>
+        <video:description><![CDATA[Tal como lo pidieron, estoy grabando una serie de videos para que puedan conocer como conectarse a los servidores virtuales que les entregamos y como configurarlos, checa este video y si tienes alguna&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/7/9/9/5/5/configserv_ch9.mp4</video:content_loc>
+        <video:duration>352</video:duration>
+        <video:publication_date>2010-07-08T05:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Usando-GPS-con-Windows-Phone-65-para-mis-aplicaciones</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/8/4/6/5/5/wp65gps_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Usando GPS con Windows Phone 6.5 para mis aplicaciones]]></video:title>
+        <video:description><![CDATA[
+Muchas aplicaciones m&#243;viles se pueden beneficiar de servicios de localizaci&#243;n, en este webcast veras que f&#225;cil es usar GPS dentro de Windows Phone 6.5 
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/8/4/6/5/5/wp65gps_ch9.mp4</video:content_loc>
+        <video:duration>889</video:duration>
+        <video:publication_date>2010-06-18T07:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Introduccion-al-desarrollo-de-aplicaciones-para-Windows-Phone-65</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/1/4/6/5/5/wp65mx01_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introduccion al desarrollo de aplicaciones para Windows Phone 6.5]]></video:title>
+        <video:description><![CDATA[Una introducci&#243;n al desarrollo de aplicaciones para Windows Phone 6.5 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/1/4/6/5/5/wp65mx01_ch9.mp4</video:content_loc>
+        <video:duration>516</video:duration>
+        <video:publication_date>2010-06-18T06:06:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Uso-y-nuevas-caracteristicas-del-Emulador-para-Windows-Phone-65</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/1/4/6/5/5/wp65mx16_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Uso y nuevas caracteristicas del Emulador para Windows Phone 6.5]]></video:title>
+        <video:description><![CDATA[
+Los emuladores juegan un papel muy importante en el desarrollo de aplicaciones para Windows Phone al tener la capacidad de probar y no esperar a tener los dispositivos para iniciar el desarrollo de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/1/4/6/5/5/wp65mx16_ch9.mp4</video:content_loc>
+        <video:duration>889</video:duration>
+        <video:publication_date>2010-06-18T05:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Getting-Started-Windows-Mobile-65</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/1/4/6/5/5/wp65mx06_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Mi primera aplicacion en Windows Phone 6.5]]></video:title>
+        <video:description><![CDATA[
+Si eres un Nuevo desarrollador para Windows Phone, este es un buen webcast para iniciar. Aprender&#225;s sobre las herramientas y recursos de desarrollo (SDK) para construir y depurar aplicaci&#243;n para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/1/4/6/5/5/wp65mx06_ch9.mp4</video:content_loc>
+        <video:duration>1530</video:duration>
+        <video:publication_date>2010-06-18T05:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Integra-SMS-a-tus-aplicaciones-para-Windows-Phone-65</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/1/4/6/5/5/wp65mx05_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Integra SMS a tus aplicaciones para Windows Phone 6.5]]></video:title>
+        <video:description><![CDATA[
+En este webcast aprender&#225;s a enviar mensajes de tipo SMS y correo electr&#243;nico que ser&#225;n usados y controlados por tu aplicaci&#243;n 
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/1/4/6/5/5/wp65mx05_ch9.mp4</video:content_loc>
+        <video:duration>1655</video:duration>
+        <video:publication_date>2010-06-18T05:19:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Introduccion-al-API-de-Gesture-para-Windows-Phone-65</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/1/4/6/5/5/wp65mx04_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introduccion al API de Gesture para Windows Phone 6.5]]></video:title>
+        <video:description><![CDATA[
+Una de las nuevas caracter&#237;sticas m&#225;s notables en Windows Phone 6.5 es el soporte a touch o multi-touch en los dispositivos, en este webcast aprender&#225;s a controlar y responder a la iteraci&#243;n touch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/1/4/6/5/5/wp65mx04_ch9.mp4</video:content_loc>
+        <video:duration>1485</video:duration>
+        <video:publication_date>2010-06-18T03:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Usando-SQL-Server-CE-con-Windows-Phone-65</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/1/4/6/5/5/wp65mx03_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Usando SQL Server CE con Windows Phone 6.5]]></video:title>
+        <video:description><![CDATA[
+Almacenar datos es un requerimiento de la mayor&#237;a de las aplicaciones y las aplicaciones m&#243;viles no son la excepci&#243;n, En esta webcast aprender&#225;s las t&#233;cnicas b&#225;sicas de programaci&#243;n necesarias para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/1/4/6/5/5/wp65mx03_ch9.mp4</video:content_loc>
+        <video:duration>2344</video:duration>
+        <video:publication_date>2010-06-17T23:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Windows-Mobile-65-Sistema-de-Archivos</loc>
+      <lastmod>2020-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/1/4/6/5/5/wp65mx02_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Mobile 6.5 Sistema de Archivos]]></video:title>
+        <video:description><![CDATA[
+Las aplicaciones desarrolladas para Windows Phone frecuentemente necesitas tener acceso al sistema local de archivos para manejar fotos, m&#250;sica, videos o simplemente para almacenar informaci&#243;n o la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/1/4/6/5/5/wp65mx02_ch9.mp4</video:content_loc>
+        <video:duration>680</video:duration>
+        <video:publication_date>2010-06-17T22:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Windows-Phone-65-Security-Fundamentals</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/6/3/6/5/5/wp65mx07_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Phone 6.5 Fundamentos de Seguridad]]></video:title>
+        <video:description><![CDATA[La seguridad en los dispositivos m&#243;viles es esencial y no solo una caracter&#237;sticas. En este webcast aprender&#225;s como implementar seguridad en Windows Phone 6.5 para el dispositivo y tus aplicaciones
+]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/6/3/6/5/5/wp65mx07_ch9.mp4</video:content_loc>
+        <video:duration>1506</video:duration>
+        <video:publication_date>2010-06-17T21:09:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/13-Almacenamiento-Aislado</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/8/6/7/4/5/13storage_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[13 - Almacenamiento Aislado]]></video:title>
+        <video:description><![CDATA[
+Siempre es necesario que una aplicaci&#243;n guarde cierto tipo de informaci&#243;n de manera local para poder recordarla posteriormente.  Tal es el caso por ejemplo de par&#225;metros de configuraci&#243;n, la &#250;ltima&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/8/6/7/4/5/13storage_ch9.mp4</video:content_loc>
+        <video:duration>563</video:duration>
+        <video:publication_date>2010-05-03T10:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/14-Comportamientos</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/8/6/7/4/5/14COMPORTAMIENTOS_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[14 - Comportamientos]]></video:title>
+        <video:description><![CDATA[
+  
+Muchas veces repetimos ciertas acciones en nuestras aplicaciones, por ejemplo es bastante com&#250;n que un bot&#243;n invoque cierta funci&#243;n y otro bot&#243;n haga lo mismo.  Los Comportamientos en&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/8/6/7/4/5/14COMPORTAMIENTOS_ch9.mp4</video:content_loc>
+        <video:duration>847</video:duration>
+        <video:publication_date>2010-05-03T10:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/15-Aplicaciones-Fuera-del-Navegador</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/8/6/7/4/5/15outofbrowser_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[15 - Aplicaciones Fuera del Navegador]]></video:title>
+        <video:description><![CDATA[
+  
+Las aplicaciones en Silverlight ejecutan de manera predeterminada adentro de un navegador, pero no es el &#250;nico modelo de ejecuci&#243;n que tienen ya que tambi&#233;n pueden ser instaladas para ejecutar&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/8/6/7/4/5/15outofbrowser_ch9.mp4</video:content_loc>
+        <video:duration>646</video:duration>
+        <video:publication_date>2010-05-03T10:48:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/16-Usando-HTML-en-Silverlight</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/8/6/7/4/5/16html_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[16 - Usando HTML en Silverlight]]></video:title>
+        <video:description><![CDATA[
+Para cuando necesitemos desplegar contenido HTML en nuestras aplicaciones, por ejemplo una p&#225;gina externa, un archivo .html, etc., contamos en Silverlight con el control WebBrowser.  Este control&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/8/6/7/4/5/16html_ch9.mp4</video:content_loc>
+        <video:duration>450</video:duration>
+        <video:publication_date>2010-05-03T10:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/17-Notificaciones</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/8/6/7/4/5/17notificaciones_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[17 - Notificaciones]]></video:title>
+        <video:description><![CDATA[
+&#191;Qu&#233; har&#237;as para comunicarle al usuario de tu aplicaci&#243;n alg&#250;n mensaje informativo o de alerta?  Tradicionalmente utilizamos un MessageBox o controles de texto en las aplicaciones pero en este video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/8/6/7/4/5/17notificaciones_ch9.mp4</video:content_loc>
+        <video:duration>254</video:duration>
+        <video:publication_date>2010-05-03T10:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/18-Modelo-de-Actualizacin</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/8/6/7/4/5/18actualizaciones_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[18 - Modelo de Actualizaci&#243;n]]></video:title>
+        <video:description><![CDATA[
+Cuando una aplicaci&#243;n de Silverlight es instalada en el equipo del usuario, este puede utilizarla como cualquier otra aplicaci&#243;n de escritorio tradicional.  Pero, &#191;qu&#233; pasar&#237;a si quisieras desplegar&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/8/6/7/4/5/18actualizaciones_ch9.mp4</video:content_loc>
+        <video:duration>392</video:duration>
+        <video:publication_date>2010-05-03T10:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/19-Instalacin-Silenciosa</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/9/6/7/4/5/19instalacion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[19 - Instalaci&#243;n Silenciosa]]></video:title>
+        <video:description><![CDATA[
+  
+La manera tradicional para instalar una aplicaci&#243;n de Silverlight para que ejecute afuera del navegador es a trav&#233;s del men&#250; contextual del plugin de Silverlight o invocando el m&#233;todo Install()&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/9/6/7/4/5/19instalacion_ch9.mp4</video:content_loc>
+        <video:duration>251</video:duration>
+        <video:publication_date>2010-05-03T10:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/21-Atado-de-Datos</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/9/6/7/4/5/21atado_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[21 - Atado de Datos]]></video:title>
+        <video:description><![CDATA[
+  
+Una de las caracter&#237;sticas m&#225;s poderosas que tiene el lenguaje XAML es su capacidad de Enlace o Atado de Datos.  Gracias a esto, podemos crear Interfaces de Usuario robustas que se actualicen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/9/6/7/4/5/21atado_ch9.mp4</video:content_loc>
+        <video:duration>653</video:duration>
+        <video:publication_date>2010-05-03T10:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/22-Convertidores</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/9/6/7/4/5/22convertidores_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[22 - Convertidores]]></video:title>
+        <video:description><![CDATA[
+Complementando el concepto de Atado de Datos que vimos en un tema anterior, tenemos los Convertidores.  Los Convertidores son un mecanismo para transformar los datos que se est&#225;n enlazando en una&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/9/6/7/4/5/22convertidores_ch9.mp4</video:content_loc>
+        <video:duration>253</video:duration>
+        <video:publication_date>2010-05-03T10:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/20-Confianza-Elevada</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/9/6/7/4/5/20confianza_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[20 - Confianza Elevada]]></video:title>
+        <video:description><![CDATA[
+  
+Cuando tradicionalmente se comparaba a Silverlight con alguna otra tecnolog&#237;a de escritorio, como por ejemplo WPF, uno de los puntos m&#225;s importantes para decidir por esta &#250;ltima tecnolog&#237;a a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/9/6/7/4/5/20confianza_ch9.mp4</video:content_loc>
+        <video:duration>689</video:duration>
+        <video:publication_date>2010-05-03T10:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/23-Consumiendo-Servicios-Web</loc>
+      <lastmod>2010-09-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/9/6/7/4/5/23servicios_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[23 - Consumiendo Servicios Web]]></video:title>
+        <video:description><![CDATA[
+  
+Constantemente nuestras aplicaciones requieren obtener informaci&#243;n de una base de datos.  No obstante, Silverlight no est&#225; pensado para que desde tus aplicativos te conectes de manera directa a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/9/6/7/4/5/23servicios_ch9.mp4</video:content_loc>
+        <video:duration>537</video:duration>
+        <video:publication_date>2010-05-03T10:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/24-Serializacin-y-Deserializacin-en-JSON</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/9/6/7/4/5/24Serializacion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[24 - Serializaci&#243;n y Deserializaci&#243;n en JSON]]></video:title>
+        <video:description><![CDATA[
+  
+Es muy com&#250;n que nuestras aplicaciones requieran guardar alg&#250;n tipo de informaci&#243;n de manera local en el equipo del usuario.  En el tema de Almacenamiento Aislado en este mismo curso vimos c&#243;mo&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/9/6/7/4/5/24Serializacion_ch9.mp4</video:content_loc>
+        <video:duration>455</video:duration>
+        <video:publication_date>2010-05-03T10:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Valida-la-arquitectura-de-tu-aplicacin</loc>
+      <lastmod>2010-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/8/5/2/3/5/validatearch_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Valida la arquitectura de tu aplicaci&#243;n ]]></video:title>
+        <video:description><![CDATA[
+El impacto de no seguir la arquitectura original en la implementaci&#243;n de una aplicaci&#243;n puede generar graves problemas de mantenimiento y estabilidad, asi como problemas durante el propio ciclo de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/8/5/2/3/5/validatearch_ch9.mp4</video:content_loc>
+        <video:duration>861</video:duration>
+        <video:publication_date>2010-02-26T07:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/10a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/6/6/9/2/5/10asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[10a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Modificando datos de un DataSet
+Insertar registros: AddXxxRow
+Eliminar registros:RemoveXxxRow
+Marcar&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/6/6/9/2/5/10asesion_ch9.mp4</video:content_loc>
+        <video:duration>6602</video:duration>
+        <video:publication_date>2010-02-19T06:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/11a-Sesin-ADONET-35</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/6/6/9/2/5/11asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[11a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Introducci&#243;n a LINQ
+Definiendo una consulta LINQ
+Categor&#237;as de LINQ: LINQ to Objects, LINQ to DataSet, LINQ&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/6/6/9/2/5/11asesion_ch9.mp4</video:content_loc>
+        <video:duration>6270</video:duration>
+        <video:publication_date>2010-02-19T06:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/12a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/6/6/9/2/5/12asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[12a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Definiendo clases entidad (Entity Classes)
+Obteniendo datos utilizando una clase entidad (Entity Class) y el&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/6/6/9/2/5/12asesion_ch9.mp4</video:content_loc>
+        <video:publication_date>2010-02-19T06:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/13a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/7/6/9/2/5/sesion13_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[13a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Insertando nuevos registros con LINQ to SQL
+Modificar registros con LINQ to SQL
+Manejo de errores de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/7/6/9/2/5/sesion13_ch9.mp4</video:content_loc>
+        <video:duration>5816</video:duration>
+        <video:publication_date>2010-02-19T06:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/7a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/5/6/9/2/5/7asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[7a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Guardar im&#225;genes a una base de datos MS SQL o Access
+Mostrar im&#225;genes almacenadas en una base de datos MS SQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/5/6/9/2/5/7asesion_ch9.mp4</video:content_loc>
+        <video:duration>6175</video:duration>
+        <video:publication_date>2010-02-19T06:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/8a-Sesin-ADONET-35</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/6/6/9/2/5/8asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[8a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Introducci&#243;n a los DataSets
+Tipos de DataSet:
+    Dataset sin tipos (UnTyped DataSet)
+    Dataset con tipos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/6/6/9/2/5/8asesion_ch9.mp4</video:content_loc>
+        <video:duration>5438</video:duration>
+        <video:publication_date>2010-02-19T06:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/9a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/6/6/9/2/5/9asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[9a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+&#191;C&#243;mo llenar un DataSet?
+Typed TableAdapter
+UnTyped DataAdatpter
+Accediendo a los datos de un&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/6/6/9/2/5/9asesion_ch9.mp4</video:content_loc>
+        <video:duration>5002</video:duration>
+        <video:publication_date>2010-02-19T06:39:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/5a-Sesin-ADONET-35</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/5/6/9/2/5/5asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[5a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos platica de los siguientes temas y nos comparte los materiales:
+
+
+Ejecutando consultas que devuelven valores simples de forma&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/5/6/9/2/5/5asesion_ch9.mp4</video:content_loc>
+        <video:duration>6351</video:duration>
+        <video:publication_date>2010-02-19T06:38:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/6a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/5/6/9/2/5/6asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[6a. Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Creando y ejecutando comandos para insentar, modificar y eliminar datos
+Realizando operaciones Bulk Copy con&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/5/6/9/2/5/6asesion_ch9.mp4</video:content_loc>
+        <video:duration>5938</video:duration>
+        <video:publication_date>2010-02-19T06:38:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/2a-Sesin-ADO-NET-35</loc>
+      <lastmod>2015-11-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/5/6/9/2/5/2asesion2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[2a Sesi&#243;n ADO .NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA cubre los siguientes temas:
+
+&#191;Qu&#233; es ADO .NET 3.5?
+Proveedores de datos del .NET Framework
+Tecnolog&#237;as y t&#233;cnicas de ADO.NET 3.5
+Interfaces que&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/5/6/9/2/5/2asesion2_ch9.mp4</video:content_loc>
+        <video:duration>5428</video:duration>
+        <video:publication_date>2010-02-19T06:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/3a-sesin-ADO-NET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/5/6/9/2/5/3asesion2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[3a sesi&#243;n ADO .NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA cubre los siguientes temas:
+
+Manejo de excepciones de conexi&#243;n
+InvalidOperationException
+SqlException
+SqlError
+Ejecutar una consulta y&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/5/6/9/2/5/3asesion2_ch9.mp4</video:content_loc>
+        <video:duration>6073</video:duration>
+        <video:publication_date>2010-02-19T06:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/4a-Sesin-ADONET-35</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/5/6/9/2/5/4asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[4a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos explica los siguientes temas:
+
+Equivalencia de datos ente tipos MS SQL y Tipos de .NET
+Buenas pr&#225;cticas para desconectarse de una base de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/5/6/9/2/5/4asesion_ch9.mp4</video:content_loc>
+        <video:duration>6351</video:duration>
+        <video:publication_date>2010-02-19T06:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/1a-Sesin-ADONET-35</loc>
+      <lastmod>2016-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/5/6/9/2/5/1asesion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[1a Sesi&#243;n ADO.NET 3.5]]></video:title>
+        <video:description><![CDATA[En esta sesi&#243;n Miguel Mu&#241;oz, MVP y miembro de INETA nos platica de los objetivos y contenido del curso. Si quieres conocer mas de &#233;l checa la p&#225;gina de su comunidad&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/5/6/9/2/5/1asesion_ch9.mp4</video:content_loc>
+        <video:duration>6049</video:duration>
+        <video:publication_date>2010-02-19T03:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/MediaElement-8-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/3/9/6/2/5/mediaelement_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[MediaElement (8-13)]]></video:title>
+        <video:description><![CDATA[
+Silverlight ha sido utilizado como aplicaci&#243;n cliente en la transmisi&#243;n de importantes eventos en los &#250;ltimos meses: la toma de poder de Barack Obama, el Memorial de Michael Jackson, los Juegos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/3/9/6/2/5/mediaelement_ch9.mp4</video:content_loc>
+        <video:duration>381</video:duration>
+        <video:publication_date>2010-02-10T03:47:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Webcam-10-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/3/9/6/2/5/webcam_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Webcam (10-13)]]></video:title>
+        <video:description><![CDATA[
+Con la llegada de Silverlight 4 tambi&#233;n ha llegado a nosotros la posibilidad de implementar en nuestras aplicaciones la capacidad de tomar video a trav&#233;s de la Webcam y capturar audio por medio del&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/3/9/6/2/5/webcam_ch9.mp4</video:content_loc>
+        <video:duration>394</video:duration>
+        <video:publication_date>2010-02-10T03:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Impresin</loc>
+      <lastmod>2010-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/3/9/6/2/5/impresionsl4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Impresi&#243;n (9-13)]]></video:title>
+        <video:description><![CDATA[
+Una de las caracter&#237;sticas m&#225;s esperadas y solicitadas por la comunidad de Silverlight es el soporte de impresi&#243;n dentro de las aplicaciones, esto es, la capacidad de poder mandar a imprimir el&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/3/9/6/2/5/impresionsl4_ch9.mp4</video:content_loc>
+        <video:duration>375</video:duration>
+        <video:publication_date>2010-02-10T03:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Drag-and-Drop-11-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/3/9/6/2/5/dragdropmx_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Drag and Drop (11-13)]]></video:title>
+        <video:description><![CDATA[
+Silverlight 4 cuenta con soporte de arrastrar uno o varios archivos desde afuera de la aplicaci&#243;n hacia adentro de ella y soltarlo(s) para poder leer su informaci&#243;n y contenido.  Esta caracter&#237;stica&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/3/9/6/2/5/dragdropmx_ch9.mp4</video:content_loc>
+        <video:duration>361</video:duration>
+        <video:publication_date>2010-02-10T03:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/OpenFileDialog</loc>
+      <lastmod>2011-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/3/9/6/2/5/opendlgmx_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[OpenFileDialog (12-13)]]></video:title>
+        <video:description><![CDATA[
+De manera predeterminada, Silverlight requiere el permiso expl&#237;cito del usuario para poder leer el Sistema de Archivos ya que ejecuta en Confianza Parcial.  La caja de di&#225;logo OpenFileDialog nos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/3/9/6/2/5/opendlgmx_ch9.mp4</video:content_loc>
+        <video:duration>196</video:duration>
+        <video:publication_date>2010-02-10T03:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Clic-Derecho-13-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/3/9/6/2/5/clicderechomx_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Clic Derecho (13-13)]]></video:title>
+        <video:description><![CDATA[
+Tradicionalmente al hacer clic derecho sobre una aplicaci&#243;n de Silverlight nos muestra un men&#250; con la opci&#243;n de abrir la caja de di&#225;logo con informaci&#243;n del plugin (como la versi&#243;n, las cuotas para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/3/9/6/2/5/clicderechomx_ch9.mp4</video:content_loc>
+        <video:duration>249</video:duration>
+        <video:publication_date>2010-02-10T03:44:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Recursos-y-Estilos-6-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/3/9/6/2/5/recursossl4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Recursos y Estilos (6-13)]]></video:title>
+        <video:description><![CDATA[
+Los recursos son un concepto b&#225;sico para poder crear aplicaciones que reutilicen elementos ya que permiten ser un almacenaje de objetos de cualquier tipo para poder reusar en cualquier parte de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/3/9/6/2/5/recursossl4_ch9.mp4</video:content_loc>
+        <video:duration>423</video:duration>
+        <video:publication_date>2010-02-10T03:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Controles-y-Plantillas-7-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/3/9/6/2/5/contrplan_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Controles y Plantillas (7-13)]]></video:title>
+        <video:description><![CDATA[
+Silverlight cuenta con una gran cantidad de controles que podemos utilizar en nuestras aplicaciones y la gran mayor&#237;a soporta el cambio o modificaci&#243;n de su Plantilla.  En este cap&#237;tulo mostraremos&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/3/9/6/2/5/contrplan_ch9.mp4</video:content_loc>
+        <video:duration>426</video:duration>
+        <video:publication_date>2010-02-10T03:43:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Animaciones-4-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/2/9/6/2/5/animacionessl4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Animaciones  (4-13) ]]></video:title>
+        <video:description><![CDATA[Para darle vida a nuestras aplicaciones de Silverlight podemos hacer uso entre otras cosas de las Animaciones.  Las Animaciones son un mecanismo para cambiar el valor de las propiedades de los&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/2/9/6/2/5/animacionessl4_ch9.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2010-02-10T03:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Expression-Blend-5-13</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/2/9/6/2/5/expressionblendsl4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Expression Blend (5-13)]]></video:title>
+        <video:description><![CDATA[
+Todo desarrollador de Silverlight debe tener en su cintur&#243;n de herramientas Expression Blend, ya que nos ayuda de gran manera a hacer m&#225;s r&#225;pido, efectivo y divertido nuestro trabajo al momento de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/2/9/6/2/5/expressionblendsl4_ch9.mp4</video:content_loc>
+        <video:duration>1108</video:duration>
+        <video:publication_date>2010-02-10T03:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/XAML-Silverlight-4-3-13</loc>
+      <lastmod>2011-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/2/9/6/2/5/xamlsl4mx_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[XAML Silverlight 4 (3-13)]]></video:title>
+        <video:description><![CDATA[
+Xaml (acr&#243;nimo de Extensible Application Markup Language) es el lenguaje de marcaci&#243;n utilizado por Silverlight (y tambi&#233;n por su hermano mayor WPF) para poder definir las interfaces de usuario de&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/2/9/6/2/5/xamlsl4mx_ch9.mp4</video:content_loc>
+        <video:duration>560</video:duration>
+        <video:publication_date>2010-02-10T03:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Curso-Introduccin-a-Silverlight-4-1-de-13</loc>
+      <lastmod>2021-02-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/2/9/6/2/5/SL4intromx_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Curso Introducci&#243;n a Silverlight 4 (1 de 13)]]></video:title>
+        <video:description><![CDATA[
+Introducci&#243;n y Bienvenida al Curso de Introducci&#243;n de Silverlight 4 creado por Rodrigo D&#237;az Concha, MVP de ASP.NET, fundador de La Liga Silverlight, Orador de INETA Latam y Master Instructor del&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/2/9/6/2/5/SL4intromx_ch9.mp4</video:content_loc>
+        <video:duration>643</video:duration>
+        <video:publication_date>2010-02-10T03:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Fundamentos-Silverlight-4-2-13</loc>
+      <lastmod>2010-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/2/9/6/2/5/fundamentosSL4_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Fundamentos Silverlight 4 (2-13)]]></video:title>
+        <video:description><![CDATA[
+Una vez instaladas las herramientas de Silverlight para Visual Studio .NET es hora de poner manos a la obra, asimismo es muy importante tener en cuenta algunos conceptos fundamentales acerca de la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/2/9/6/2/5/fundamentosSL4_ch9.mp4</video:content_loc>
+        <video:duration>523</video:duration>
+        <video:publication_date>2010-02-10T03:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Como-crear-aplicaciones-en-Java-que-puedan-conectarse-con-NET</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/9/8/6/2/5/javainterop_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Como crear aplicaciones en Java que puedan conectarse con .NET ]]></video:title>
+        <video:description><![CDATA[
+Cuando platique con mi amigo 
+@xbenek sobre crear un puente de interoperabilidad entre tecnolog&#237;as Microsoft y Java, lo primero que me paso por la mente fue el pensar en los problemas hab&#237;a tenido&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/9/8/6/2/5/javainterop_ch9.mp4</video:content_loc>
+        <video:duration>764</video:duration>
+        <video:publication_date>2010-02-09T17:51:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Channel9Mexico/Introduccin-a-Windows-7</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/0/0/4/2/5/w7intro_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Introducci&#243;n a Windows 7 ]]></video:title>
+        <video:description><![CDATA[: En este video vamos a ver algunas de las nuevas herramientas y caracter&#237;sticas incluidas en el nuevo sistema operativo Windows 7. Taskbar, Jump Lists, Windows Photo Gallery, Windows Media Center y&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/0/0/4/2/5/w7intro_ch9.mp4</video:content_loc>
+        <video:duration>1941</video:duration>
+        <video:publication_date>2010-02-01T19:33:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

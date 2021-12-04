@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online/Simplifying-IoT-Hub-device-to-device-communication-with-Azure-Functions</loc>
+      <lastmod>2017-08-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f31/4789ea98-0fba-4d14-8f59-287e778a6f31/MVPTDSimplifyingioTHub_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Simplifying IoT Hub device-to-device communication with Azure Functions]]></video:title>
+        <video:description><![CDATA[Azure IoT Hub and IoT Suite enables streamlined device-to-cloud and cloud-to-device communication. Moving data up to the cloud and vice-versa via IoT Hub, Azure Stream Analytics, and various data&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f31/4789ea98-0fba-4d14-8f59-287e778a6f31/MVPTDSimplifyingioTHub_mid.mp4</video:content_loc>
+        <video:duration>2702</video:duration>
+        <video:publication_date>2017-02-21T22:55:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online/Cloud-Native-Applications-on-OpenShiftAzure-</loc>
+      <lastmod>2017-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5dcc/c1d0c0c8-aebc-463b-9a3f-4e6a60805dcc/MVLTDCloudNativeAppsOpenShift_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Native Applications on OpenShift/Azure  ]]></video:title>
+        <video:description><![CDATA[We all want to craft Cloud Native applications that are modern, scalable and resilient. We&#39;re all aware by now that we need centralized configuration, log aggregation, monitoring, healthchecking,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5dcc/c1d0c0c8-aebc-463b-9a3f-4e6a60805dcc/MVLTDCloudNativeAppsOpenShift_mid.mp4</video:content_loc>
+        <video:duration>2735</video:duration>
+        <video:publication_date>2017-02-21T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online/Introduction-to-Server-less-functions</loc>
+      <lastmod>2017-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/98ad/39e385fa-1ea0-408f-bfeb-9bf795c798ad/MVPLTDIntroductiontoServerLess_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Server less functions]]></video:title>
+        <video:description><![CDATA[There are lots of things you may want to put in the cloud, either because you want scalability or you need to protect an access key.  You may not want to spin up a full website to host it and your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/98ad/39e385fa-1ea0-408f-bfeb-9bf795c798ad/MVPLTDIntroductiontoServerLess_mid.mp4</video:content_loc>
+        <video:duration>2347</video:duration>
+        <video:publication_date>2017-02-21T21:28:17.3053286+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online/MVPTDUWPApps</loc>
+      <lastmod>2017-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f2f1/5e4adf88-b967-4ce9-ba00-5ed0dd83f2f1/TDMVPScallingUIAcceptance_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Scaling UI Acceptance Tests for web and UWP apps ]]></video:title>
+        <video:description><![CDATA[How to setup UI Testing automations and make then scalable with Azure Container Services. Making eligible to run hundreds of test cases in a few minutes, with web application as like Universal Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f2f1/5e4adf88-b967-4ce9-ba00-5ed0dd83f2f1/TDMVPScallingUIAcceptance_mid.mp4</video:content_loc>
+        <video:duration>2179</video:duration>
+        <video:publication_date>2017-02-21T21:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online/Getting-started-with-Azure-Container-Service</loc>
+      <lastmod>2017-02-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5bc/00121664-5120-4d22-bad6-f1a47a61c5bc/MVPTDAzureContainerService_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with Azure Container Service]]></video:title>
+        <video:description><![CDATA[Getting started with Azure Container Service You are most likely familiar with containers by now and more specifically, Docker. There are plenty of ways to run Docker containers but in this session we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5bc/00121664-5120-4d22-bad6-f1a47a61c5bc/MVPTDAzureContainerService_mid.mp4</video:content_loc>
+        <video:duration>4097</video:duration>
+        <video:publication_date>2017-02-21T19:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-Techdays-Online/Getting-started-with-DevOps</loc>
+      <lastmod>2017-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9475/89ef14c7-2a48-4db0-8790-bb524d7c9475/GettingStartedwithDevOps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting started with DevOps]]></video:title>
+        <video:description><![CDATA[In this session we&#39;ll introduce the 7 core practices of DevOps.  We&#39;ll then take a look at how we can take the code for a website and apply some of those practices.  This starts by putting the code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9475/89ef14c7-2a48-4db0-8790-bb524d7c9475/GettingStartedwithDevOps_mid.mp4</video:content_loc>
+        <video:duration>2306</video:duration>
+        <video:publication_date>2017-02-21T18:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

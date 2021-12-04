@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Learn-the-Ins-and-Outs-of-Azure-Automation-PowerShell-and-Desired-State-Configuration</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/701a/09bbdc09-9f1c-42c3-b0d4-e46a62ba701a/Day2LearntheInsandOutsofAzureAutomationJoeLevy_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learn the Ins and Outs of Azure Automation, PowerShell and Desired State Configuration]]></video:title>
+        <video:description><![CDATA[When transitioning your skillset from on-premises to a more hybrid cloud environment, you have to also transition your management techniques from GUI and One-Off solutions to a more reproducible&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/701a/09bbdc09-9f1c-42c3-b0d4-e46a62ba701a/Day2LearntheInsandOutsofAzureAutomationJoeLevy_mid.mp4</video:content_loc>
+        <video:duration>3320</video:duration>
+        <video:publication_date>2014-11-26T00:04:31.2284309+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Deep-Dive-into-Azure-Storage-Blobs-DisksFiles-Tables-and-Queues</loc>
+      <lastmod>2018-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a3a/83fe4662-8234-492a-ae2e-c33379293a3a/Day2DeepDiveAzureStorageBlobsKommineni_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Dive into Azure Storage Blobs, Disks, Files, Tables and Queues]]></video:title>
+        <video:description><![CDATA[Azure Storage is a highly scalable, available, and durable cloud storage system that stores 30&amp;#43; trillion objects and serves 3.5&amp;#43; million requests per second on average. It provides&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a3a/83fe4662-8234-492a-ae2e-c33379293a3a/Day2DeepDiveAzureStorageBlobsKommineni_mid.mp4</video:content_loc>
+        <video:duration>3495</video:duration>
+        <video:publication_date>2014-11-25T23:39:43.6165324+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Leveraging-SQL-In-Azure-for-Your-Solutions</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/016c/3f2e8933-27b9-46e0-aea9-7b2b2ec3016c/Day4LeveragingSQL_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Leveraging SQL In Azure for Your Solutions]]></video:title>
+        <video:description><![CDATA[Need a quick flexible solution to run SQL workloads in the cloud for production workloads or dev/test environments? Join us to learn about our offerings: IaaS (SQL Server on Azure VMs) and PasS (Azure&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/016c/3f2e8933-27b9-46e0-aea9-7b2b2ec3016c/Day4LeveragingSQL_mid.mp4</video:content_loc>
+        <video:duration>3280</video:duration>
+        <video:publication_date>2014-11-25T23:35:41.6033419+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Architecting-SharePoint-for-the-Cloud</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e24c/2c6e3858-a71d-4d27-941d-7f9a1680e24c/Day4ArchitecturingSharePointfortheCloud_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting SharePoint for the Cloud]]></video:title>
+        <video:description><![CDATA[Now that SharePoint is a supported workload on Azure IaaS, the next step is determining the design considerations and limitations that you need to be aware of before deploying your next SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e24c/2c6e3858-a71d-4d27-941d-7f9a1680e24c/Day4ArchitecturingSharePointfortheCloud_mid.mp4</video:content_loc>
+        <video:duration>3059</video:duration>
+        <video:publication_date>2014-11-14T02:30:50.3929110+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Azure-Websites-Manage-Your-Websites-not-Your-VMs</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/136d/9cd03dd6-4f38-40b3-9159-b3a5b488136d/Day4AzureWebsitesYochay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Websites: Manage Your Websites not Your VMs]]></video:title>
+        <video:description><![CDATA[As an IT Professional managing applications that are currently on premises, you understand what is involved in maintaining all the underpinnings to the IIS Application. What if you could take those&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/136d/9cd03dd6-4f38-40b3-9159-b3a5b488136d/Day4AzureWebsitesYochay_mid.mp4</video:content_loc>
+        <video:duration>3500</video:duration>
+        <video:publication_date>2014-11-14T02:24:00.6592529+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Identity-Solutions-Leveraging-Azure-Active-Directory--Active-Directory-Premium</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/38a8/18583b12-89d5-4843-b811-b7f0c2cf38a8/Day4IdentitySolutionsSimonMay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identity Solutions: Leveraging Azure Active Directory / Active Directory Premium]]></video:title>
+        <video:description><![CDATA[Identity which of your applications and services are critical in your on-premises environment. Leverage your investment in Active Directory (and other directories) and setup a synchronization with&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/38a8/18583b12-89d5-4843-b811-b7f0c2cf38a8/Day4IdentitySolutionsSimonMay_mid.mp4</video:content_loc>
+        <video:duration>3596</video:duration>
+        <video:publication_date>2014-11-14T02:20:06.1837187+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Creating-Large-Scale-Linux-Deployments-on-Azure</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/15a9/11022d1c-d1d0-4041-a66a-339f8f2415a9/Day3CreatingLargeScaleLinux_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating Large Scale Linux Deployments on Azure]]></video:title>
+        <video:description><![CDATA[Attend this session to learn how to leverage the scale and infrastructure of Azure to deploy large sets of Linux VMs in the cloud. If you are running a large Linux server farm and are wondering what&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/15a9/11022d1c-d1d0-4041-a66a-339f8f2415a9/Day3CreatingLargeScaleLinux_mid.mp4</video:content_loc>
+        <video:duration>3057</video:duration>
+        <video:publication_date>2014-11-14T02:18:11.4858075+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Implement-Containerization-with-Docker-to-Increase-Density-and-Performance-of-Virtual-Machine</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/58b2/1b4bcd45-43d5-4aad-bceb-62db96c158b2/Day3HowtoImplementContainerizationwithDocker_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Implement Containerization with Docker to Increase Density and Performance of Virtual&amp;#8230;]]></video:title>
+        <video:description><![CDATA[You might have heard about containerization technologies like Docker that allow you to achieve greater density and better performance than traditional full-fledged IaaS Virtual Machines. We recently&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58b2/1b4bcd45-43d5-4aad-bceb-62db96c158b2/Day3HowtoImplementContainerizationwithDocker_mid.mp4</video:content_loc>
+        <video:duration>3531</video:duration>
+        <video:publication_date>2014-11-14T02:14:55.3737171+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Leverage-Existing-Chef--Puppet-Toolsets-for-Management</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42b6/47a2c234-ef8f-4dda-822d-d702b84c42b6/Day3LeverageExistingChefPuppetKundanaPalagiri_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Leverage Existing Chef / Puppet Toolsets for Management &#160;]]></video:title>
+        <video:description><![CDATA[If you are a SysAdmin who already supports solutions on the Linux platform at scale, you are probably familiar with Chef and Puppet. Did you know they are also available in Azure for both Linux and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42b6/47a2c234-ef8f-4dda-822d-d702b84c42b6/Day3LeverageExistingChefPuppetKundanaPalagiri_mid.mp4</video:content_loc>
+        <video:duration>3348</video:duration>
+        <video:publication_date>2014-11-14T02:13:00.9505257+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Deploy-Linux-and-OSS-on-Azure</loc>
+      <lastmod>2018-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/83b7/2a48eaa6-af1d-47af-be51-2f6cd71583b7/Day3HowtoDeployLinuxMadhanArumugan_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Deploy Linux and OSS on Azure]]></video:title>
+        <video:description><![CDATA[Most people do not believe that Linux and OSS tools / application layers are first class citizens in our Azure services. We have come a long way in a short period of time to reverse that line of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/83b7/2a48eaa6-af1d-47af-be51-2f6cd71583b7/Day3HowtoDeployLinuxMadhanArumugan_mid.mp4</video:content_loc>
+        <video:duration>3770</video:duration>
+        <video:publication_date>2014-11-14T02:10:44.8899408+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Planning-Disaster-Recovery-Migration-and-More</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/518b/d70a7ee1-ada6-4cc1-bcb9-55c72b43518b/Day2PlanningDisasterRecoveryMcSpirit_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Planning Disaster Recovery, Migration and More]]></video:title>
+        <video:description><![CDATA[Disaster Recovery and OffSite replicas of critical workloads used to be a very costly and complex thing to orchestrate. With System Center and Microsoft Azure, you can leverage Azure Site Recovery to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/518b/d70a7ee1-ada6-4cc1-bcb9-55c72b43518b/Day2PlanningDisasterRecoveryMcSpirit_mid.mp4</video:content_loc>
+        <video:duration>3414</video:duration>
+        <video:publication_date>2014-11-14T01:32:10.9987398+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Designing-Networking-and-Hybrid-Connectivity-Infrastructure</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0be/261c768b-cb75-4ec9-9441-c9a08288d0be/Day2DesigningNetworkingYuShunWang_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Networking and Hybrid Connectivity Infrastructure]]></video:title>
+        <video:description><![CDATA[Your infrastructure in Azure can be isolated and purpose built for public consumption. How do you design your virtual networks and access controls to ensure everything is as desired? Now that you&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0be/261c768b-cb75-4ec9-9441-c9a08288d0be/Day2DesigningNetworkingYuShunWang_mid.mp4</video:content_loc>
+        <video:duration>3454</video:duration>
+        <video:publication_date>2014-11-14T01:27:11.8729367+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/View-from-the-CTO-Mark-Russinovich-Chief-Technology-Office-Azure</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/76fc/4a00c95e-1a8c-4806-93d8-2fd298fd76fc/Day1ViewfromtheCTOMarkRussinovich_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[View from the CTO: Mark Russinovich, Chief Technology Officer Azure]]></video:title>
+        <video:description><![CDATA[Mark Russinovich will share his vision on what Azure is today and where Microsoft is taking it in the future. As one of the most trusted Technical Fellows at Microsoft and with his new role as CTO for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/76fc/4a00c95e-1a8c-4806-93d8-2fd298fd76fc/Day1ViewfromtheCTOMarkRussinovich_mid.mp4</video:content_loc>
+        <video:duration>2880</video:duration>
+        <video:publication_date>2014-11-14T01:14:34.4454780+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Optimize-your-Windows-Server-Workloads-on-Azure</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b58c/8ec82e9d-e7d9-4c20-90d4-ca500fd6b58c/Day1OptimizeyourtWindowsServerDrewMcDaniel_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Optimize your Windows Server Workloads on Azure]]></video:title>
+        <video:description><![CDATA[Drew picks up where Corey left off, going even deeper. He&#39;ll focus on the specifics of how to get the most from your Windows workloads with Azure IaaS. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b58c/8ec82e9d-e7d9-4c20-90d4-ca500fd6b58c/Day1OptimizeyourtWindowsServerDrewMcDaniel_mid.mp4</video:content_loc>
+        <video:duration>3516</video:duration>
+        <video:publication_date>2014-11-14T01:10:39.8985849+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Azure-IaaS-Virtual-Machines-Inside-Out</loc>
+      <lastmod>2017-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2e2/913a2d94-3207-44ec-b36b-1a1fef82a2e2/Day1AzureIaaSVMInsideOutCoreySanders_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure IaaS Virtual Machines Inside Out]]></video:title>
+        <video:description><![CDATA[Who better than Corey Sanders to take us through the nuts and bolts of what Azure IaaS is and how it works for IT professionals. Corey leads the team that designed and created Azure IaaS and is very&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2e2/913a2d94-3207-44ec-b36b-1a1fef82a2e2/Day1AzureIaaSVMInsideOutCoreySanders_mid.mp4</video:content_loc>
+        <video:duration>3721</video:duration>
+        <video:publication_date>2014-11-14T01:09:59.5235662+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/Inside-IaaS-architecture-best-practices-and-management</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/264a/3891eeab-08dc-4af5-a396-7291b1fe264a/Day1InsideIaaSArchitectureBestPracticesDrewMcDani_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Inside IaaS Architecture Best Practices and Management]]></video:title>
+        <video:description><![CDATA[How do you design your IaaS implementations for optimal performance, maximum redundancy and geo-diversity? How do new machine series gain you better performance and leverage new hardware capabilities&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/264a/3891eeab-08dc-4af5-a396-7291b1fe264a/Day1InsideIaaSArchitectureBestPracticesDrewMcDani_mid.mp4</video:content_loc>
+        <video:duration>3504</video:duration>
+        <video:publication_date>2014-11-14T01:09:36.7072915+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework/6-Verwendung-des-Bot</loc>
+      <lastmod>2016-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f081/e090e621-2616-4e28-8f1f-e1eadf80f081/6Verwendunng_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[6 - Verwendung des Bots]]></video:title>
+        <video:description><![CDATA[In diesem letzten Video erfahrt ihr, wie ihr euren Bot in 2 Channels integrieren k&#246;nnt: Websites und Skype. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f081/e090e621-2616-4e28-8f1f-e1eadf80f081/6Verwendunng_mid.mp4</video:content_loc>
+        <video:duration>723</video:duration>
+        <video:publication_date>2016-04-11T14:21:06.5226096+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework/5-Publishing</loc>
+      <lastmod>2016-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0c1e/4f5fc8a8-5692-4638-b7b4-7be78b330c1e/5Publishing_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[5 - Publishing]]></video:title>
+        <video:description><![CDATA[Unser Bot wurde erstellt und nun wollen wir ihn publishen. Wie das geht, zeigt euch dieses Video. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0c1e/4f5fc8a8-5692-4638-b7b4-7be78b330c1e/5Publishing_mid.mp4</video:content_loc>
+        <video:duration>326</video:duration>
+        <video:publication_date>2016-04-11T12:59:27.2633961+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework/4-Erstellung-und-Anpassung</loc>
+      <lastmod>2016-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9202/17599be5-32de-426e-b3d0-8a1d2a2a9202/4ErstellungundAnpassung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 - Erstellung und Anpassung]]></video:title>
+        <video:description><![CDATA[Nach der Einf&#252;hrung in das Framework wird in diesem Video anhand eines Wetter Bots gezeigt, wie ein eigener Bot aufgebaut werden kann. Das Beispiel nutzt unter anderem auch LUIS, einen Cognitive&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9202/17599be5-32de-426e-b3d0-8a1d2a2a9202/4ErstellungundAnpassung_mid.mp4</video:content_loc>
+        <video:duration>1037</video:duration>
+        <video:publication_date>2016-04-10T08:18:15.3775701+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework/3-Bot-Grundlagen-Teil-2</loc>
+      <lastmod>2016-04-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7663/a6466c13-8313-44da-81f1-4c1233a97663/3BotGrundlagenTeil2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 - Bot Grundlagen Teil 2]]></video:title>
+        <video:description><![CDATA[Im zweiten Grundlagen Video geht es um gelenkte Konversationen mit Hilfe des Form Flows. Dieser erlaubt es, Optionen zur Auswahl bereitzustellen und den Ablauf eines Dialogs zu steuern. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7663/a6466c13-8313-44da-81f1-4c1233a97663/3BotGrundlagenTeil2_mid.mp4</video:content_loc>
+        <video:duration>745</video:duration>
+        <video:publication_date>2016-04-09T20:39:10.1845206+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework/2-Bot-Grundlagen-Teil-1</loc>
+      <lastmod>2016-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6358/0a644a83-b246-432a-b2bf-a7339f306358/2BotGrundlagenTeil1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 - Bot Grundlagen Teil 1]]></video:title>
+        <video:description><![CDATA[In diesem ersten von 2 Grundlagen Videos zum Bot Framework geht es um die Erstellung eines einfachen Bot mit Hilfe der Dialog Klasse. Au&#223;erdem wird LUIS und dessen Relevanz bei der Kommunikation mit&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6358/0a644a83-b246-432a-b2bf-a7339f306358/2BotGrundlagenTeil1_mid.mp4</video:content_loc>
+        <video:duration>1180</video:duration>
+        <video:publication_date>2016-04-09T16:21:24.9729615+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Bot-Framework/1-Einfhrung-und-Setup</loc>
+      <lastmod>2021-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8af1/86ca159d-5a9a-4a92-9e65-7551340b8af1/1EinfuehrungundSetup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 - Einf&#252;hrung und Setup]]></video:title>
+        <video:description><![CDATA[In diesem ersten Video zum Microsoft Bot Framework wird das Setup und die Motivation gekl&#228;rt und das Projekt wird in Visual Studio 2015 erstellt. Mehr unter:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8af1/86ca159d-5a9a-4a92-9e65-7551340b8af1/1EinfuehrungundSetup_mid.mp4</video:content_loc>
+        <video:duration>378</video:duration>
+        <video:publication_date>2016-04-08T06:23:14.1139037+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

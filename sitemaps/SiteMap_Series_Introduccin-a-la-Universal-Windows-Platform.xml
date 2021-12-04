@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-la-Universal-Windows-Platform</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-la-Universal-Windows-Platform/Adaptive-Code-en-Universal-Windows-Platform-UWP</loc>
+      <lastmod>2016-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3df9/e388f86f-70e1-41a2-bf11-ce9216ec3df9/AdaptiveCode_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adaptive Code en Universal Windows Platform]]></video:title>
+        <video:description><![CDATA[Este es un ejemplo corto sobre el funcionamiento de Adaptive Code dentro de Universal Windows Platform - UWP. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3df9/e388f86f-70e1-41a2-bf11-ce9216ec3df9/AdaptiveCode_mid.mp4</video:content_loc>
+        <video:duration>226</video:duration>
+        <video:publication_date>2016-01-13T15:01:09.6114864+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-la-Universal-Windows-Platform/Adaptive-UI-en-Universal-Windows-Platform</loc>
+      <lastmod>2016-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c3e5/abe29e93-a22b-4421-8afa-4aa49a4ac3e5/AdaptiveUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adaptive UI en Universal Windows Platform]]></video:title>
+        <video:description><![CDATA[Este es un ejemplo corto sobre el funcionamiento de Adaptive UI dentro de Universal Windows Platform - UWP. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c3e5/abe29e93-a22b-4421-8afa-4aa49a4ac3e5/AdaptiveUI_mid.mp4</video:content_loc>
+        <video:duration>259</video:duration>
+        <video:publication_date>2016-01-13T15:00:29.1092766+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduccin-a-la-Universal-Windows-Platform/Introduccin-a-Universal-Windows-Platform</loc>
+      <lastmod>2016-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f5f/8e330ce2-37b3-4cd2-9c14-496b064b1f5f/IntroduccionalaUniversalWindowsPlatform_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Introducci&#243;n a Universal Windows Platform]]></video:title>
+        <video:description><![CDATA[En este video podr&#225;s ver una corta introducci&#243;n a los conceptos b&#225;sicos de Universal Windows Platform - UWP.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f5f/8e330ce2-37b3-4cd2-9c14-496b064b1f5f/IntroduccionalaUniversalWindowsPlatform_mid.mp4</video:content_loc>
+        <video:duration>187</video:duration>
+        <video:publication_date>2016-01-13T14:59:41.1391396+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

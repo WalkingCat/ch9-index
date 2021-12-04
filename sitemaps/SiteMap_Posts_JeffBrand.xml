@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Message-Based-Navigation-for-WP7-MVVM-Apps</loc>
+      <lastmod>2015-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d38f/c816a2d3-7b70-44bd-a91f-9ed00178d38f/MVVMNav_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Message Based Navigation for WP7 MVVM Apps]]></video:title>
+        <video:description><![CDATA[ Do you have an MVVM-based Windows Phone 7 application and you don&#39;t like having to hook into the RootFrame to navigate between pages?  Do you wish you could just &amp;quot;ask&amp;quot; to navigate to a new&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d38f/c816a2d3-7b70-44bd-a91f-9ed00178d38f/MVVMNav_high_ch9.mp4</video:content_loc>
+        <video:duration>672</video:duration>
+        <video:publication_date>2011-04-26T13:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Posts/Implementing-an-MVVM-MessageBus-with-XAML</loc>
+      <lastmod>2016-09-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0B9C/E18FB33C-EA1C-4242-918C-9E7100D50B9C/XamlMessageBus_512_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing an MVVM MessageBus with XAML]]></video:title>
+        <video:description><![CDATA[ Using a Messag Bus to communicate between ViewModels is a very common activity when building an application based on MVVM.  In this video, I show how you can build a Message Bus that can be created&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0B9C/E18FB33C-EA1C-4242-918C-9E7100D50B9C/XamlMessageBus_high_ch9.mp4</video:content_loc>
+        <video:duration>852</video:duration>
+        <video:publication_date>2011-01-20T14:52:20.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

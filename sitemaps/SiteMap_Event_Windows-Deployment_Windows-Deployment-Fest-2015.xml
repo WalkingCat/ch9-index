@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Windows-Imaging-and-Configuration-Designer-WICD</loc>
+      <lastmod>2015-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a1b/64c56d51-b6fe-45b2-b3c2-160cf8485a1b/WindowsICD_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Imaging and Configuration Designer (WICD)]]></video:title>
+        <video:description><![CDATA[See how to build Windows desktop and mobile images quickly from WICD. Topics include goals and benefits of WICD, determining whether the WICD tool is right for you, what you&#39;ll need to create an&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a1b/64c56d51-b6fe-45b2-b3c2-160cf8485a1b/WindowsICD_mid.mp4</video:content_loc>
+        <video:duration>3270</video:duration>
+        <video:publication_date>2015-05-11T20:35:06.8583096+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Runtime-provisioning</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fff6/0212dd2f-a9bd-4445-90d0-2322448afff6/WDF2015RedmondRutimeProvisioning_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Runtime provisioning]]></video:title>
+        <video:description><![CDATA[Reduce the costs and hassle of maintaining Windows images by instead packaging corporate-specific apps, policies, certificates, and other customizations into a provisioning package. Topics include&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fff6/0212dd2f-a9bd-4445-90d0-2322448afff6/WDF2015RedmondRutimeProvisioning_mid.mp4</video:content_loc>
+        <video:duration>1354</video:duration>
+        <video:publication_date>2015-05-11T20:34:48.6182050+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Recovery-solutions</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9f72/9c5b07c8-91e3-41ae-9f67-6648ed219f72/WDF2015RedmondRecoverySolutions_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Recovery solutions]]></video:title>
+        <video:description><![CDATA[Learn about the new Windows recovery model, including how to save space on low-cost devices, how to implement the new partition layout, how to customize the tools, and how to capture and implement&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9f72/9c5b07c8-91e3-41ae-9f67-6648ed219f72/WDF2015RedmondRecoverySolutions_mid.mp4</video:content_loc>
+        <video:duration>3045</video:duration>
+        <video:publication_date>2015-05-11T20:34:35.9135224+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Mobile-end-to-end</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/80bb/8cf35a8c-7804-4df6-a111-1f690fd480bb/WDF2015RedmondMobileEndtoEnd_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mobile end to end]]></video:title>
+        <video:description><![CDATA[Create and test customized Windows 10 images for phones and small screen tablets, and deploy them on a production line efficiently. Topics include: Customizing an image with the Windows Imaging and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/80bb/8cf35a8c-7804-4df6-a111-1f690fd480bb/WDF2015RedmondMobileEndtoEnd_mid.mp4</video:content_loc>
+        <video:duration>2776</video:duration>
+        <video:publication_date>2015-05-11T20:34:19.8148385+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Advanced-image-deployment</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/90d8/bde29b3f-8639-452b-a999-fbb766db90d8/WDF2015RedmondAdvancedImageDeployment_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Advanced image deployment]]></video:title>
+        <video:description><![CDATA[Create and test customized Windows 10 images for desktop PCs and devices, and deploy them on a production line efficiently. Topics include: Customizing an image with the Windows Imaging and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90d8/bde29b3f-8639-452b-a999-fbb766db90d8/WDF2015RedmondAdvancedImageDeployment_mid.mp4</video:content_loc>
+        <video:duration>1635</video:duration>
+        <video:publication_date>2015-05-11T20:34:07.2218138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Desktop-manufacturing-best-practices</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c830/ce7487af-c7f9-48af-bbcb-de0137f7c830/WDF2015RedmondDesktopManufacturingBestPractices_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Desktop manufacturing best practices]]></video:title>
+        <video:description><![CDATA[Learn imaging best practices for desktop PCs and devices. Topics include: Manufacturing phases, image size and partitions, setting hardware parameters, image creation and deployment processing,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c830/ce7487af-c7f9-48af-bbcb-de0137f7c830/WDF2015RedmondDesktopManufacturingBestPractices_mid.mp4</video:content_loc>
+        <video:duration>2959</video:duration>
+        <video:publication_date>2015-05-11T20:33:49.3755302+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Windows-Deployment/Windows-Deployment-Fest-2015/Office-deployment</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45df/b93f9239-a9bf-4afd-87cb-debbfcaf45df/WDF2015RedmondOfficeDeployment_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office deployment]]></video:title>
+        <video:description><![CDATA[Topics include Office coverage for devices with different screen sizes, Windows 10 scenarios, trial versions, Activation for Office scenarios, push-button reset, methods of reducing the images size.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45df/b93f9239-a9bf-4afd-87cb-debbfcaf45df/WDF2015RedmondOfficeDeployment_mid.mp4</video:content_loc>
+        <video:duration>1136</video:duration>
+        <video:publication_date>2015-05-11T20:33:17.0615337+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

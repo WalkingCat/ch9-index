@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Enterprise-Mobility-Suite</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Enterprise-Mobility-Suite/How-to-configure-and-deploy-mobile-device-security-policy-with-Microsoft-Intune</loc>
+      <lastmod>2018-03-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a546/8e2c461d-ef85-4495-9402-5f6c2ae6a546/ConfigAndDeployIntune_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to configure and deploy mobile device security policy with Microsoft Intune]]></video:title>
+        <video:description><![CDATA[Walk through a simple example of using Intune configuration policies to help secure a mobile device. Next Steps Learn: Microsoft Intune Core SkillsWatch: Azure videos on Microsoft MechanicsTry:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a546/8e2c461d-ef85-4495-9402-5f6c2ae6a546/ConfigAndDeployIntune_mid.mp4</video:content_loc>
+        <video:duration>196</video:duration>
+        <video:publication_date>2016-01-27T22:15:10.6424104+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Enterprise-Mobility-Suite/How-to-protect-emailed-files-with-Azure-RMS</loc>
+      <lastmod>2017-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1488/1bf57db5-3c0d-4ab9-bb3d-9ced29121488/ProtectEmailRMS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to protect emailed files with Azure RMS]]></video:title>
+        <video:description><![CDATA[Walk thru the steps for safely sharing documents via Email. Next Steps Learn: Azure Rights Management Core SkillsWatch: Azure videos on Microsoft MechanicsTry: Azure Rights Management as a part of the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1488/1bf57db5-3c0d-4ab9-bb3d-9ced29121488/ProtectEmailRMS_mid.mp4</video:content_loc>
+        <video:duration>231</video:duration>
+        <video:publication_date>2016-01-27T22:14:37.1009063+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Enterprise-Mobility-Suite/How-to-create-and-deploy-Mobile-Application-Management-MAM-Policies</loc>
+      <lastmod>2017-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c5d/77f9be59-eeab-43cb-b128-90f7d1164c5d/CreateDeployMAM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to create and deploy Mobile Application Management (MAM) policies]]></video:title>
+        <video:description><![CDATA[Walk through creating and deploying a Mobile App Management (MAM) policy using the Azure Portal and Microsoft Intune. Next Steps Learn: Microsoft Intune Core SkillsWatch: Azure videos on Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c5d/77f9be59-eeab-43cb-b128-90f7d1164c5d/CreateDeployMAM_mid.mp4</video:content_loc>
+        <video:duration>290</video:duration>
+        <video:publication_date>2016-01-26T22:47:00.3121548+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Enterprise-Mobility-Suite/Create-RMS-Custom-Template</loc>
+      <lastmod>2017-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e82f/88b15542-a7d4-4418-9165-7c7ae1aae82f/EMScreateRMScustomtemplate_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Create RMS custom templates]]></video:title>
+        <video:description><![CDATA[Walk through creating a custom template with Azure Rights Management Services. A policy template makes it easy for users to apply policies to sensitive files that restrict access to authorized users&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e82f/88b15542-a7d4-4418-9165-7c7ae1aae82f/EMScreateRMScustomtemplate_mid.mp4</video:content_loc>
+        <video:duration>168</video:duration>
+        <video:publication_date>2016-01-26T18:35:33.7347690+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Pit-Stop-Enterprise-Mobility-Suite/Activate-Azure-RMS</loc>
+      <lastmod>2017-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a229/50750e77-8224-417f-b5d9-3b8c9b1ea229/EMSactivateazurerms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to activate Azure RMS]]></video:title>
+        <video:description><![CDATA[You can activate Azure RMS in two places – the Office 365 admin center or the Azure portal. For this video we&#39;ll activate Azure RMS from the Azure portal. Next Steps Learn: Azure Rights Management&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a229/50750e77-8224-417f-b5d9-3b8c9b1ea229/EMSactivateazurerms_mid.mp4</video:content_loc>
+        <video:duration>117</video:duration>
+        <video:publication_date>2016-01-26T18:25:03.3675766+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

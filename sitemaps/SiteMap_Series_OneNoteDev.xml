@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Getting-Started-with-the-OneNote-API-Universal-App-Edition</loc>
+      <lastmod>2014-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae4a/52cf698a-5323-4663-9228-36cc9caaae4a/OneNoteAPIUniversalApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API: Universal App Edition]]></video:title>
+        <video:description><![CDATA[The new universal app model allows you to create a single app that runs on both Windows and Windows Phone. In this video, we will show you how to enable authentication for your users with Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae4a/52cf698a-5323-4663-9228-36cc9caaae4a/OneNoteAPIUniversalApp_mid.mp4</video:content_loc>
+        <video:duration>1134</video:duration>
+        <video:publication_date>2014-12-15T18:33:05.1076903+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Getting-Started-with-the-OneNote-API-Ruby-on-Rails-Edition</loc>
+      <lastmod>2014-12-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4559/28207b60-0fdb-41fb-bb38-35c4e0234559/OneNoteAPIRuby_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API: Ruby on Rails Edition]]></video:title>
+        <video:description><![CDATA[In this video, we will show you how to start using the OneNote API to create pages in OneNote. The video shows how to enable authentication with Microsoft Account, and walks though how to create a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4559/28207b60-0fdb-41fb-bb38-35c4e0234559/OneNoteAPIRuby_mid.mp4</video:content_loc>
+        <video:duration>828</video:duration>
+        <video:publication_date>2014-12-15T18:32:55.7933110+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Create-a-Page-in-a-specific-section-Windows-Phone-Edition</loc>
+      <lastmod>2014-08-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7ee9/a4f6fa50-76d5-4cbe-ab8d-287133e67ee9/CreatePageInSectionWinPhone_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create a Page in a specific section: Windows Phone Edition]]></video:title>
+        <video:description><![CDATA[This video shows how to use the notebooks and sections enumeration API, as well as the sectionName query parameter in the page create REST API, to create a page in a specific section in a Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7ee9/a4f6fa50-76d5-4cbe-ab8d-287133e67ee9/CreatePageInSectionWinPhone_mid.mp4</video:content_loc>
+        <video:duration>382</video:duration>
+        <video:publication_date>2014-08-12T16:42:12.6917498+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Enumerate-notebooks-list-and-sections-list-Windows-Phone-Edition</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2e0/aefa0290-8273-470b-8ed1-08028bfcb2e0/GetNoteBooksSections_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enumerate notebooks list and sections list: Windows Phone Edition]]></video:title>
+        <video:description><![CDATA[This video shows how to enumerate the user&#39;s list of notebooks and list of sections with the OneNote API. The video uses Windows Phone as the platform to demonstrate this, but you can use these APIs&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2e0/aefa0290-8273-470b-8ed1-08028bfcb2e0/GetNoteBooksSections_mid.mp4</video:content_loc>
+        <video:duration>970</video:duration>
+        <video:publication_date>2014-08-12T16:42:04.5881925+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Getting-Started-with-the-OneNote-API-ASP-NET-Edition</loc>
+      <lastmod>2017-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7da0/699ea130-117a-4fbe-9f25-3a36ddb67da0/GettingStartedASPNet_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API: ASP.NET Edition]]></video:title>
+        <video:description><![CDATA[In this video, we will show you how to start using the OneNote API to create pages in OneNote. The video will show you how to implement OAuth 2.0 to enable authentication for your users with Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7da0/699ea130-117a-4fbe-9f25-3a36ddb67da0/GettingStartedASPNet_mid.mp4</video:content_loc>
+        <video:duration>1391</video:duration>
+        <video:publication_date>2014-07-08T14:07:30.3848460+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/How-to-Create-Pages-Using-the-OneNote-API-Android-Edition</loc>
+      <lastmod>2017-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d11/99e5aba0-9b1b-4fd9-b0fd-a4dd33432d11/OneNoteCreatePageAndroid_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API: Android Edition]]></video:title>
+        <video:description><![CDATA[In this video, we will show you how to start using the OneNote API to create pages in OneNote. The video will show you how to enable authentication for your users with Microsoft Account and walk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d11/99e5aba0-9b1b-4fd9-b0fd-a4dd33432d11/OneNoteCreatePageAndroid_mid.mp4</video:content_loc>
+        <video:duration>1252</video:duration>
+        <video:publication_date>2014-06-24T17:58:23.6413859+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/How-to-Create-Pages-Using-the-OneNote-API-Windows-Store-App-Edition</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/10ff/56c3276c-88ba-441f-b180-cdb1142610ff/CreatePagesWithOneNoteAPIWinStore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API: Windows Store App Edition]]></video:title>
+        <video:description><![CDATA[In this video, we will show you how to start using the OneNote API to create pages in OneNote. The video will show you how to enable authentication for your users with Microsoft Account and walk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/10ff/56c3276c-88ba-441f-b180-cdb1142610ff/CreatePagesWithOneNoteAPIWinStore_mid.mp4</video:content_loc>
+        <video:duration>838</video:duration>
+        <video:publication_date>2014-06-10T16:41:06.3893759+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/How-to-Create-Pages-Using-the-OneNote-API-Windows-Phone-App-Edition</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/342e/695f61ec-284e-4a8d-a821-716bc6b9342e/OneNoteAPICreatePagesWinPhone_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API: Windows Phone App Edition]]></video:title>
+        <video:description><![CDATA[In this video, we will show you how to start using the OneNote API to create pages in OneNote. The video will show you how to enable authentication for your users with Microsoft Account and walk&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/342e/695f61ec-284e-4a8d-a821-716bc6b9342e/OneNoteAPICreatePagesWinPhone_mid.mp4</video:content_loc>
+        <video:duration>992</video:duration>
+        <video:publication_date>2014-06-10T16:40:19.1342012+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Getting-a-Client-ID-to-use-with-the-OneNote-API</loc>
+      <lastmod>2018-02-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d9f1/ef6d1851-911b-40d1-b50d-32254394d9f1/ClientIDNative_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting a Client ID to use with the OneNote API]]></video:title>
+        <video:description><![CDATA[In this short video, we will walk you through the process of obtaining a Client ID for calling the OneNote API. You can obtain a Client ID from the Microsoft account Developer site. You will need to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d9f1/ef6d1851-911b-40d1-b50d-32254394d9f1/ClientIDNative_mid.mp4</video:content_loc>
+        <video:duration>272</video:duration>
+        <video:publication_date>2014-06-10T16:40:02.1196843+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/OneNoteDev/Getting-Started-with-the-OneNote-API</loc>
+      <lastmod>2017-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53d4/4e1dbb2b-988e-4457-9b0f-db12a61553d4/GettingStartedWithOneNoteAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with the OneNote API]]></video:title>
+        <video:description><![CDATA[This video will walk you through the basics of using the OneNote REST API. It will briefly introduce OneNote, take you through various development resources, and show a bit of code sample at the end.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53d4/4e1dbb2b-988e-4457-9b0f-db12a61553d4/GettingStartedWithOneNoteAPI_mid.mp4</video:content_loc>
+        <video:duration>702</video:duration>
+        <video:publication_date>2014-06-10T16:39:37.2062464+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

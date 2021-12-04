@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/UK-Education</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/UK-Education/StorSimple-UK-Education</loc>
+      <lastmod>2015-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2de9/fcb972d8-b580-4425-81e6-d82f00e92de9/StorSimpleUKDec14_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[StorSimple UK Education]]></video:title>
+        <video:description><![CDATA[Cloud Integrated Storage  - Webinar This webinar was run in December 2014 for UK Education Customers. Cloud Integrated Storage provides on premise SAN like storage for fast access to local store. It&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2de9/fcb972d8-b580-4425-81e6-d82f00e92de9/StorSimpleUKDec14_mid.mp4</video:content_loc>
+        <video:duration>2336</video:duration>
+        <video:publication_date>2015-02-02T19:22:34.9812338+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/UK-Education/StorSimple</loc>
+      <lastmod>2014-06-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8653/6bd2e0a4-ef72-4862-aa29-75e8c1dd8653/StorSimple_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[StorSimple]]></video:title>
+        <video:description><![CDATA[Cloud Integrated Storage (CiS) provides on premise storage services with built in logic to archive less used data to Cloud storage. This saves space, cost and management of data storage. Microsoft&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8653/6bd2e0a4-ef72-4862-aa29-75e8c1dd8653/StorSimple_mid.mp4</video:content_loc>
+        <video:duration>3211</video:duration>
+        <video:publication_date>2014-06-18T14:41:10.7220025+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

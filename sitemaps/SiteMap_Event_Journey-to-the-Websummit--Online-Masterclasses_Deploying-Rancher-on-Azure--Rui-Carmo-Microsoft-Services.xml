@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Deploying-Rancher-on-Azure--Rui-Carmo-Microsoft-Services</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Deploying-Rancher-on-Azure--Rui-Carmo-Microsoft-Services/Scaling-Docker-Swarms-on-Azure--Rui-Carmo-Microsoft</loc>
+      <lastmod>2017-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f05/7283fc3b-6533-476b-b829-690c81228f05/ScalingDockerSwarms_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Scaling Docker Swarms on Azure | Rui Carmo - Microsoft]]></video:title>
+        <video:description><![CDATA[Did you miss the live session? You can now watch it on this page any time!   Know more about Rui Carmo | Microsoft Portugal http://twitter.com/rcarmo https://github.com/rcarmo Check out all upcoming&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f05/7283fc3b-6533-476b-b829-690c81228f05/ScalingDockerSwarms_mid.mp4</video:content_loc>
+        <video:duration>3900</video:duration>
+        <video:publication_date>2017-01-31T12:33:01.8907161+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

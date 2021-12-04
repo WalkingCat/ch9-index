@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ASPNET-5</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ASPNET-5/ASPNET-5</loc>
+      <lastmod>2018-12-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7aa/30a6c5ab-8d0e-425e-9eb9-b5c1ce88e7aa/ASP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET 5]]></video:title>
+        <video:description><![CDATA[歡迎收看由MVP 朱明中(小朱)錄製的ASP.NET 5快速入門線上課程。 歡迎追蹤台灣MVP的最新消息，請造訪我們的粉絲頁: https://www.facebook.com/twmvp/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7aa/30a6c5ab-8d0e-425e-9eb9-b5c1ce88e7aa/ASP_mid.mp4</video:content_loc>
+        <video:duration>1732</video:duration>
+        <video:publication_date>2016-01-27T08:27:34.2640913+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/ASPNET-5/aspnet5-mvc6-azureappservices</loc>
+      <lastmod>2015-10-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/338f/96c01d60-ea43-456f-8eae-56fab81d338f/AspNet5Mvc6AzureAppServices1080_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ASP.NET 5, MVC 6  Azure App Services]]></video:title>
+        <video:description><![CDATA[ASP.NET 5 是下一代的 ASP.NET 平台，它不但能執行在 Windows, 它也利用 .NET Core 的能力使它能執行在 Linux 或 Mac 的環境，MVC 6 則是 ASP.NET 5 上的重要 Web 應用程式開發框架，本課程是在 2015/6/6 舉辦的 Build Mini 研討會的上半場議程，介紹 .NET 4.6, .NET Core, ASP.NET 5,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/338f/96c01d60-ea43-456f-8eae-56fab81d338f/AspNet5Mvc6AzureAppServices1080_mid.mp4</video:content_loc>
+        <video:duration>7329</video:duration>
+        <video:publication_date>2015-06-22T04:02:57.3935063+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/minecraft</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/minecraft/Learning-through-playing-the-game-kids-love-Minecraft</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a6a2/302ca298-9e39-429e-8fd5-1953b9e5a6a2/Minecraftintheclassroom_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learning through playing the game kids love - Minecraft]]></video:title>
+        <video:description><![CDATA[In this webinar we will consider how teachers can begin to use Minecraft in their lessons and where they can find educational resources for this game.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a6a2/302ca298-9e39-429e-8fd5-1953b9e5a6a2/Minecraftintheclassroom_mid.mp4</video:content_loc>
+        <video:duration>2725</video:duration>
+        <video:publication_date>2016-05-11T17:29:06.2753685+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

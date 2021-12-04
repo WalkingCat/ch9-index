@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/TH25</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9409/bf5bdbb5-a521-477e-810d-3a0ead259409/VSLive16MakingSenseofMobile_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Making Sense of Mobile: A Panel Comparing Xamarin, Cordova and Native]]></video:title>
+        <video:description><![CDATA[Are you wondering how to approach modern mobile development? Are you trying to decide whether to go native, web, Cordova, or Xamarin? Then you really need to attend this panel discussion. We have&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9409/bf5bdbb5-a521-477e-810d-3a0ead259409/VSLive16MakingSenseofMobile_mid.mp4</video:content_loc>
+        <video:duration>4363</video:duration>
+        <video:publication_date>2016-07-22T07:19:41.4738257+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/TH17</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5e04/87a695cb-3dec-4b12-b960-8ce241705e04/VSLive16DeepDiveintoASPNETCore_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep Dive into ASP.NET Core]]></video:title>
+        <video:description><![CDATA[In this talk we will dive deep into the guts of ASP.NET Core. We&#39;ll look at how the HTTP request pipeline is constructed and how HTTP features are exposed. We&#39;ll look at how ASP.NET Core hosting works&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5e04/87a695cb-3dec-4b12-b960-8ce241705e04/VSLive16DeepDiveintoASPNETCore_mid.mp4</video:content_loc>
+        <video:duration>4709</video:duration>
+        <video:publication_date>2016-07-22T07:17:14.0616255+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/TH15</loc>
+      <lastmod>2017-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3749/7ba33974-c96f-4910-af09-b6a4da1b3749/VSLiveTheNextWaveofMobileApps_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Next Wave of Mobile Apps: TypeScript 2, Angular 2 + Ionic 2]]></video:title>
+        <video:description><![CDATA[For users already familiar with Ionic and Apache Cordova, this intermediate to advanced level session will explore some of the new design patterns, development workflows and... yes, even quirks in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3749/7ba33974-c96f-4910-af09-b6a4da1b3749/VSLiveTheNextWaveofMobileApps_mid.mp4</video:content_loc>
+        <video:duration>3978</video:duration>
+        <video:publication_date>2016-07-22T07:11:48.3869992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/TH08</loc>
+      <lastmod>2016-09-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/39e8/48363263-a12a-42be-8310-9781fc0539e8/VSLive16SecurityandAuthorization_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Security and Authorization in .NET Core World]]></video:title>
+        <video:description><![CDATA[ASP.NET Core has presented us with the opportunity to improve our security store, throw away or improve on of the mistakes of the past. ASP.NET now has a new authorization stack and different ways to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/39e8/48363263-a12a-42be-8310-9781fc0539e8/VSLive16SecurityandAuthorization_mid.mp4</video:content_loc>
+        <video:duration>4587</video:duration>
+        <video:publication_date>2016-07-22T07:08:01.2262683+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/TH02</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/88a4/0b7ceb77-32c4-4630-9873-a483aaa788a4/VSlive16BuildRealTimeWebsites_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build Real-Time Websites and Apps with SignalR]]></video:title>
+        <video:description><![CDATA[If you&#39;ve ever wanted to build a highly responsive app that leverages a real-time communications library, then SignalR is for you! Real-time Web functionality is the ability to have the server push&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/88a4/0b7ceb77-32c4-4630-9873-a483aaa788a4/VSlive16BuildRealTimeWebsites_mid.mp4</video:content_loc>
+        <video:duration>4461</video:duration>
+        <video:publication_date>2016-07-22T06:59:22.8828908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/W20</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d92c/b99d2ba8-44ca-4682-bdc9-4d22f401d92c/VSliveDay2DanielJacobson_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Universal Windows Platform and Azure to Build Connected Solutions]]></video:title>
+        <video:description><![CDATA[You&#39;ve seen it time and time again - the true power with the Universal Windows Platform is being able to write applications that target various devices and form factors. But how can you use this great&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d92c/b99d2ba8-44ca-4682-bdc9-4d22f401d92c/VSliveDay2DanielJacobson_mid.mp4</video:content_loc>
+        <video:duration>3608</video:duration>
+        <video:publication_date>2016-07-22T06:55:45.2975955+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/W15</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/621f/1b0ec0ac-56a7-491c-8ffe-e0d47fbf621f/VSliveDay2MarkWilsonThomas_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Future of Visual Studio 15]]></video:title>
+        <video:description><![CDATA[Visual Studio 2015 was a feature packed release with additional updates adding tons of value. But time waits for no one and the Visual Studio team knows it. Come to hear about the future of Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/621f/1b0ec0ac-56a7-491c-8ffe-e0d47fbf621f/VSliveDay2MarkWilsonThomas_mid.mp4</video:content_loc>
+        <video:duration>4811</video:duration>
+        <video:publication_date>2016-07-22T06:53:03.7001134+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/VSLive2016Keynote02</loc>
+      <lastmod>2017-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/43f1/efba597d-40da-4faa-ad46-ed04202c43f1/VSliveDay2DonovanBrown_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote: Zero to DevOps with VSTS]]></video:title>
+        <video:description><![CDATA[DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. Microsoft has a fantastic set of products that can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/43f1/efba597d-40da-4faa-ad46-ed04202c43f1/VSliveDay2DonovanBrown_mid.mp4</video:content_loc>
+        <video:duration>2936</video:duration>
+        <video:publication_date>2016-07-22T06:50:09.2488068+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/W07</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b7e6/25e02959-5c78-40f7-a0c6-d02067e1b7e6/VSliveDay2BenDay_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Get Good at DevOps: Feature Flag Deployments with ASP.NET, WebAPI, &amp; JavaScript]]></video:title>
+        <video:description><![CDATA[Want to get good at DevOps, but deployments are getting you down? Is the code integration process just plain driving you crazy? Well, maybe it&#39;s time to try out feature flags (aka &amp;quot;feature&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b7e6/25e02959-5c78-40f7-a0c6-d02067e1b7e6/VSliveDay2BenDay_mid.mp4</video:content_loc>
+        <video:duration>4261</video:duration>
+        <video:publication_date>2016-07-22T06:46:38.0891387+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/W03</loc>
+      <lastmod>2016-09-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92b1/c6bf2f9c-5bfc-4f58-9440-3b26761092b1/VSliveDay2Landry_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows for Makers: Raspberry Pi, Arduino &amp; IoT]]></video:title>
+        <video:description><![CDATA[Did you know that Windows 10 can run on a $35 Raspberry Pi 2 computer? Makers have taken the world by storm, creating countless gadgets and automated systems, connecting everything around them. This&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92b1/c6bf2f9c-5bfc-4f58-9440-3b26761092b1/VSliveDay2Landry_mid.mp4</video:content_loc>
+        <video:duration>4628</video:duration>
+        <video:publication_date>2016-07-22T06:43:36.3981321+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/T20</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eed4/a9e92308-197f-40ac-9799-87117cb8eed4/VSLive16BuildingSolutionsMSFTGraph_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Solutions with the Microsoft Graph SDKs]]></video:title>
+        <video:description><![CDATA[The Microsoft Graph is one endpoint to rule them all. Learn how easy it is to use the Microsoft Graph to build people and group centric applications that use the latest APIs from Azure AD, OneDrive,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eed4/a9e92308-197f-40ac-9799-87117cb8eed4/VSLive16BuildingSolutionsMSFTGraph_mid.mp4</video:content_loc>
+        <video:duration>3852</video:duration>
+        <video:publication_date>2016-07-22T06:38:09.0314967+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/T15</loc>
+      <lastmod>2019-10-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8970/93fcf433-9da3-4457-91b9-f28e93b98970/VSLive16AzurePortalLargestSPA_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Portal - The Largest SPA in the World]]></video:title>
+        <video:description><![CDATA[The Azure Portal is one of the biggest, and most complex Single Page Applications (SPA) in the World. Are you curious what&#39;s under the cover? Let&#39;s check what tools, frameworks, libraries and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8970/93fcf433-9da3-4457-91b9-f28e93b98970/VSLive16AzurePortalLargestSPA_mid.mp4</video:content_loc>
+        <video:duration>4294</video:duration>
+        <video:publication_date>2016-07-22T06:34:49.7139557+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/T07</loc>
+      <lastmod>2020-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1c84/829cb722-9d6a-478d-b8f0-f89ee0ce1c84/VSLive16TypescriptforCsharpDevelopers_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[TypeScript for C# Developers]]></video:title>
+        <video:description><![CDATA[Over the last few years, JavaScript has solidified itself as the universal language of the Web. All attempts to change this, like Flash and Silverlight, have failed. So you might as well accept that&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1c84/829cb722-9d6a-478d-b8f0-f89ee0ce1c84/VSLive16TypescriptforCsharpDevelopers_mid.mp4</video:content_loc>
+        <video:duration>4354</video:duration>
+        <video:publication_date>2016-07-22T06:29:31.0992218+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/T03</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f8c/359d6e70-f924-4bf3-9673-cc3ba1783f8c/VSLive16GoMobilewithCsharpXamarin_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Go Mobile with C#, Visual Studio, and Xamarin]]></video:title>
+        <video:description><![CDATA[Xamarin helps C# developers become native iOS, Android, and Windows mobile app developers overnight. In this session, you&#39;ll learn how to leverage your existing .NET and C# skills to create iOS and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f8c/359d6e70-f924-4bf3-9673-cc3ba1783f8c/VSLive16GoMobilewithCsharpXamarin_mid.mp4</video:content_loc>
+        <video:duration>4616</video:duration>
+        <video:publication_date>2016-07-22T06:24:53.5113532+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-Live-Redmond-2016/VSLive2016Keynote</loc>
+      <lastmod>2016-09-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7a74/ec04016f-5ad3-4bd6-912a-185fde887a74/VSLive16AmandaSilverTheOpenMSFTDeveloperPlatform_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote: The Open Microsoft Developer Platform]]></video:title>
+        <video:description><![CDATA[As a Microsoft developer, you&#39;ve built some great solutions for your customers. You&#39;ve solved business problems and made the world better. But the Microsoft Developer Platform as you know it is no&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7a74/ec04016f-5ad3-4bd6-912a-185fde887a74/VSLive16AmandaSilverTheOpenMSFTDeveloperPlatform_mid.mp4</video:content_loc>
+        <video:duration>3464</video:duration>
+        <video:publication_date>2016-07-22T06:20:53.3524349+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

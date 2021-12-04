@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio/Visual-Studio-How-to-Contribute</loc>
+      <lastmod>2019-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/afbb/43ecc267-f50f-4084-b5ac-01821474afbb/IntroVSCommunity_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio - How to Contribute [4 of 4]]]></video:title>
+        <video:description><![CDATA[.NET and Visual Studio have lively open source communities ranging from in-person meetups to live streams to conferences. Get involved here. Watch the entire series hereDownload Visual Studio 2019&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3660/364ffe84-5664-4da8-bbe5-bbe6f76b3660/IntroVSCommunity_mid.mp4</video:content_loc>
+        <video:duration>192</video:duration>
+        <video:publication_date>2019-09-23T15:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio/Visual-Studio-NET-productivity-in-5-minutes</loc>
+      <lastmod>2021-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/89f6/12524371-b372-4a17-afc3-4d19375989f6/IntroToVSdotNETProductivity5min_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio .NET productivity in 5 minutes [3 of 4]]]></video:title>
+        <video:description><![CDATA[Visual Studio is packed with features to help developers be more productive. You can spend hours learning about different features on this channel, but first here is a whirlwind tour of .NET features&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/e54f/3026ab5d-a1cb-4827-86df-8a07fd5ee54f/IntroToVSdotNETProductivity5min_mid.mp4</video:content_loc>
+        <video:duration>246</video:duration>
+        <video:publication_date>2019-09-23T15:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio/Install-Visual-Studio-and-run-CSharp-in-5-minutes</loc>
+      <lastmod>2021-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fa1a/49d71d64-bab8-4382-ad0f-b9e30c72fa1a/IntroVSStudioInstallVSRunCSharp5min_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Install Visual Studio and run C# in 5 minutes [2 of 4]]]></video:title>
+        <video:description><![CDATA[This tutorial takes you through installing a FREE copy of Visual Studio on your machine to create your first C# app, compile it, and debug it. Start downloading Visual Studio 2019 Community Watch the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/92e8/ad97aec5-8895-46a9-b4a6-1aadd3a692e8/IntroVSStudioInstallVSRunCSharp5min_mid.mp4</video:content_loc>
+        <video:duration>173</video:duration>
+        <video:publication_date>2019-09-23T15:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Intro-to-Visual-Studio/Intro-to-Visual-Studio-in-5-minutes</loc>
+      <lastmod>2021-06-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/00ff/26f4e38d-ae3b-41bf-9c98-04d9f18f00ff/IntrotoVSin5Mins_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to Visual Studio in 5 minutes [1 of 4]]]></video:title>
+        <video:description><![CDATA[What is Visual Studio? A quick look at the best features Visual Studio has to offer. Developers are all about code navigation, debugging, testing, code completion, and collaboration. Keep watching&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a576/00032435-3cc5-4eb5-8fd4-741ecc6aa576/IntrotoVSin5Mins_mid.mp4</video:content_loc>
+        <video:duration>270</video:duration>
+        <video:publication_date>2019-09-23T15:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

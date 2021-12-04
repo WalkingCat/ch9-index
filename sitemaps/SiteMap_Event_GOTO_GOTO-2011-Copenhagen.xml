@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Azure-without-SQL</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8934/00e95c85-f95a-4f8f-9722-9efa00908934/GOTO1205201105_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure without SQL]]></video:title>
+        <video:description><![CDATA[ by Mark Seemann, Just like on-premise web applications, most cloud-based applications are powered by data. In traditional on-premise architectures, a relational database such as SQL Server is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8934/00e95c85-f95a-4f8f-9722-9efa00908934/GOTO1205201105_high_ch9.mp4</video:content_loc>
+        <video:duration>3349</video:duration>
+        <video:publication_date>2011-06-23T08:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Architecting--Developing-for-Windows-Phone</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/750b/6509b47b-f05b-4b26-b818-9efa0090750b/GOTO1205201104_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Architecting &amp; Developing for Windows Phone]]></video:title>
+        <video:description><![CDATA[ by Philip Bauknecht, With Microsoft&#39;s Silverlight technology it&#39;s possible to rapidly design and develop Apps based on the .NET framework for the all new Windows Phone. Based on practical experience&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/750b/6509b47b-f05b-4b26-b818-9efa0090750b/GOTO1205201104_high_ch9.mp4</video:content_loc>
+        <video:duration>3704</video:duration>
+        <video:publication_date>2011-06-23T08:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Frictionless-Persistence-in-NET-with-MongoDB</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5f05/2252bcb4-0c67-4664-a709-9efa00905f05/GOTO1205201103_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Frictionless Persistence in .NET with MongoDB]]></video:title>
+        <video:description><![CDATA[ by Mogens Heller Grabe, Every day seems to offer yet another new technology in the NoSQL space, and they are usually all about being &amp;quot;web scale&amp;quot; and whatnot. There are other angles to NoSQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5f05/2252bcb4-0c67-4664-a709-9efa00905f05/GOTO1205201103_high_ch9.mp4</video:content_loc>
+        <video:duration>3679</video:duration>
+        <video:publication_date>2011-06-23T08:54:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/How-Graph-Databases-can-make-you-a-super-star</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d3e/b9f88c92-c738-4e12-8a03-9efa00904d3e/GOTO1205201102_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How Graph Databases can make you a super star]]></video:title>
+        <video:description><![CDATA[ by Tobias Ivarsson, Graph Databases can solve problems that your normal database struggle with. These can be hard problems, and not all of them were mentioned as graph problems in your CS classes.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d3e/b9f88c92-c738-4e12-8a03-9efa00904d3e/GOTO1205201102_high_ch9.mp4</video:content_loc>
+        <video:duration>4037</video:duration>
+        <video:publication_date>2011-06-23T08:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Introduction-to-iOS-Software-Development</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3b57/56de0bff-a798-486b-9195-9efa00903b57/GOTO1205201101_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to iOS Software Development]]></video:title>
+        <video:description><![CDATA[ by Patrick Linskey, The iPhone, the iPod touch and the iPad have had a strong impact in the mobile landscape in the past few years, generating hype but also introducing software developers to iOS, a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3b57/56de0bff-a798-486b-9195-9efa00903b57/GOTO1205201101_high_ch9.mp4</video:content_loc>
+        <video:duration>3583</video:duration>
+        <video:publication_date>2011-06-23T08:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Accessing-loosely-structured-data-from-F-and-C</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/285e/0527125c-50e3-4cc8-ac07-9efa0090285e/GOTO1105201105_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Accessing loosely structured data from F# and C#]]></video:title>
+        <video:description><![CDATA[ by Tomas Petricek, There are many data sources that have only a loosely defined structure. Examples include REST services and XML files. Using them from statically typed languages has always been&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/285e/0527125c-50e3-4cc8-ac07-9efa0090285e/GOTO1105201105_high_ch9.mp4</video:content_loc>
+        <video:duration>3855</video:duration>
+        <video:publication_date>2011-06-23T08:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Behavior</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0f29/c5ce130d-2c88-464a-a826-9efa00900f29/GOTO1105201104_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Behavior!]]></video:title>
+        <video:description><![CDATA[ by Greg Young Event Sourcing or the building of current state based on a replaying of previous behaviors is a pattern growing in popularity. The propensity of Event Sourcing and CQRS are also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0f29/c5ce130d-2c88-464a-a826-9efa00900f29/GOTO1105201104_high_ch9.mp4</video:content_loc>
+        <video:duration>3713</video:duration>
+        <video:publication_date>2011-06-23T08:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Intro-to-Monads</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0142/1c40116d-7480-415f-ab54-9efa00900142/GOTO1105201103_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intro to Monads]]></video:title>
+        <video:description><![CDATA[ by Mike Hadlow, Intro to Monads! http://gotocon.com/cph-2011/presentation/Intro%20to%20Monads ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0142/1c40116d-7480-415f-ab54-9efa00900142/GOTO1105201103_high_ch9.mp4</video:content_loc>
+        <video:duration>3255</video:duration>
+        <video:publication_date>2011-06-23T08:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/Practical-CQRS-with-Windows-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f05c/a303144e-3ebc-4657-a279-9efa008ff05c/GOTO1105201102_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Practical CQRS with Windows Azure]]></video:title>
+        <video:description><![CDATA[ CQRS architecture approaches are an emerging trend for building distributed systems. They bring together multiple time-proven patterns and practices of delivering scalable solutions with rich&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f05c/a303144e-3ebc-4657-a279-9efa008ff05c/GOTO1105201102_high_ch9.mp4</video:content_loc>
+        <video:duration>3471</video:duration>
+        <video:publication_date>2011-06-23T08:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/GOTO/GOTO-2011-Copenhagen/CPH-Aspect-Oriented-Programming-with-Dependency-Injection</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/da35/158bd9b4-c1ea-486d-9dc4-9efa008fda35/GOTO1105201101_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CPH Aspect-Oriented Programming with Dependency Injection]]></video:title>
+        <video:description><![CDATA[ by Mark Seemann, Cross-Cutting Concerns such as logging, auditing and security often present a difficult challenge because they must be applied to diverse components across an application. This can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da35/158bd9b4-c1ea-486d-9dc4-9efa008fda35/GOTO1105201101_high_ch9.mp4</video:content_loc>
+        <video:duration>3408</video:duration>
+        <video:publication_date>2011-06-23T08:52:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

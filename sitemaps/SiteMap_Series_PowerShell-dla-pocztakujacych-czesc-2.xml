@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztakujacych-czesc-2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztakujacych-czesc-2/01-Przypomnienie</loc>
+      <lastmod>2016-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e92/5b305d6c-474c-4951-a24a-e2c458077e92/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Przypomnienie]]></video:title>
+        <video:description><![CDATA[Powt&#243;rzenie element&#243;w prezentowanych w poprzedniej części kursu w rozszerzonym kontekście użycia. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e92/5b305d6c-474c-4951-a24a-e2c458077e92/01_mid.mp4</video:content_loc>
+        <video:duration>2881</video:duration>
+        <video:publication_date>2016-04-12T16:00:15.2366658+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztakujacych-czesc-2/05-Zakoczenie</loc>
+      <lastmod>2016-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eb88/cf6c77e9-46e0-40c2-bf3b-d901cd66eb88/zakonczenie_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Zakoczenie]]></video:title>
+        <video:description><![CDATA[Podsumowanie informacji ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eb88/cf6c77e9-46e0-40c2-bf3b-d901cd66eb88/zakonczenie_mid.mp4</video:content_loc>
+        <video:duration>173</video:duration>
+        <video:publication_date>2016-02-23T18:39:33.5271499+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztakujacych-czesc-2/04-Powershell-w-praktyce-czII</loc>
+      <lastmod>2020-07-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b37/a1af2ec0-249f-4109-a257-0a5363872b37/powershell2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Powershell w praktyce cz.II]]></video:title>
+        <video:description><![CDATA[Wprowadzenie do bardziej zaawansowanych możliwości – CIM/WMI, na podstawie praktycznego scenariusza, polegającego na zebraniu danych inwentaryzacyjnych. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b37/a1af2ec0-249f-4109-a257-0a5363872b37/powershell2_mid.mp4</video:content_loc>
+        <video:duration>1984</video:duration>
+        <video:publication_date>2016-02-23T18:38:22.1597048+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztakujacych-czesc-2/03-Powershell-w-praktyce-czI</loc>
+      <lastmod>2020-07-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1dac/a462c094-a30c-4708-b22b-738a9d701dac/powershell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Powershell w praktyce cz.I]]></video:title>
+        <video:description><![CDATA[Przedstawienie wszystkich element&#243;w w praktycznym scenariuszu – hurtowe zakładnie kont użytkownik&#243;w. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1dac/a462c094-a30c-4708-b22b-738a9d701dac/powershell_mid.mp4</video:content_loc>
+        <video:duration>2384</video:duration>
+        <video:publication_date>2016-02-23T18:20:58.9659322+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/PowerShell-dla-pocztakujacych-czesc-2/02-Konwersja-wynikw</loc>
+      <lastmod>2019-04-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a4c9/0ea22d77-77a8-4f74-b6c6-c995dad0a4c9/konwersja_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Konwersja wynik&#243;w]]></video:title>
+        <video:description><![CDATA[Więcej o filtrowaniu i reprezentacji wynik&#243;w. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a4c9/0ea22d77-77a8-4f74-b6c6-c995dad0a4c9/konwersja_mid.mp4</video:content_loc>
+        <video:duration>2536</video:duration>
+        <video:publication_date>2016-02-23T18:20:47.9321921+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

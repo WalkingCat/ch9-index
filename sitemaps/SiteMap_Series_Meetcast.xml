@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Meetcast</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Meetcast/Introduzione-alluso-di-OneNote-e-Office-365-per-una-didattica-innovativa</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/58ad/55d536f5-7a7d-4e08-a931-4d0b3a0358ad/OneNoteEOffice365PerLaDidattica_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduzione all&#39;uso di OneNote e Office 365 per una didattica innovativa ]]></video:title>
+        <video:description><![CDATA[Qualunque sia la tua didattica, che tu sia un insegnante innovativo o preferisca una didattica pi&#249; tradizionale, OneNote e Office 365 possono essere una risorsa importante. In questo meetup vedremo,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58ad/55d536f5-7a7d-4e08-a931-4d0b3a0358ad/OneNoteEOffice365PerLaDidattica_mid.mp4</video:content_loc>
+        <video:duration>4869</video:duration>
+        <video:publication_date>2017-06-04T15:08:08.4614873+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Meetcast/Le-novit-di-Visual-Studio-2017</loc>
+      <lastmod>2017-05-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4baa/e35a0da4-729b-40d5-85b7-c2a8fa5e4baa/NovitaVisualStudio2017_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Le novit&#224; di Visual Studio 2017]]></video:title>
+        <video:description><![CDATA[In questo webcast, Antonio Pierascenzi (Senior Consultant - React Consulting) illustrer&#224; le novit&#224; introdotte di recente nell&#39;ultima versione di Visual Studio pubblicata lo scorso 7 Marzo, in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4baa/e35a0da4-729b-40d5-85b7-c2a8fa5e4baa/NovitaVisualStudio2017_mid.mp4</video:content_loc>
+        <video:duration>3166</video:duration>
+        <video:publication_date>2017-05-11T09:52:59.1663162+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Meetcast/Reactive-Internet-of-Things--the-Vertx-way</loc>
+      <lastmod>2017-04-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c602/71cf9b87-b2c2-4848-974f-5ba74c72c602/ReactiveIotTheVertxWay_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reactive Internet of Things : the Vert.x way]]></video:title>
+        <video:description><![CDATA[Vert.x &#232; un toolkit noto per lo sviluppo di &amp;quot;reactive applications&amp;quot; eseguite su una JVM e che pu&#242; anche essere utilizzato per sviluppare soluzioni per l&#39;Internet of Things che hanno la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c602/71cf9b87-b2c2-4848-974f-5ba74c72c602/ReactiveIotTheVertxWay_mid.mp4</video:content_loc>
+        <video:duration>4389</video:duration>
+        <video:publication_date>2017-03-28T12:19:51.4146138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Meetcast/Hololens-la-frontiera-della-Mixed-Reality</loc>
+      <lastmod>2017-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/48c6/0d05394c-d255-4119-96f5-fb0e74d448c6/Hololens_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hololens, la frontiera della Mixed Reality!!]]></video:title>
+        <video:description><![CDATA[Durante questo meetup, parleremo insieme a Clemente Giorio (Microsoft MVP – Emerging Experiences, R&amp;amp;D - Crionet) di Mixed Reality e di Microsoft HoloLens. Dopo una rapida panoramica su Augmented&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/48c6/0d05394c-d255-4119-96f5-fb0e74d448c6/Hololens_mid.mp4</video:content_loc>
+        <video:duration>4234</video:duration>
+        <video:publication_date>2017-03-07T10:04:13.4684303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Meetcast/Cognitive-Services--LUIS</loc>
+      <lastmod>2017-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f36/9e595dad-edda-4641-8480-34a20d1e2f36/CognitiveServicesAndLUIS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cognitive Services &amp; LUIS]]></video:title>
+        <video:description><![CDATA[In questa puntata Massimo Bonanni (@massimobonanni), Microsoft SR Consultant Modern App Domain, ci parla di Cognitive Services e LUIS. Cognitive Services sono una serie di servizi&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f36/9e595dad-edda-4641-8480-34a20d1e2f36/CognitiveServicesAndLUIS_mid.mp4</video:content_loc>
+        <video:duration>4984</video:duration>
+        <video:publication_date>2017-02-10T09:38:20.7459791+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

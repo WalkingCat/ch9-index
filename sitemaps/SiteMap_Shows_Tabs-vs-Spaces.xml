@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/Windows-Package-Manager-Winget-v10</loc>
+      <lastmod>2021-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e3ec/13f5ee4b-da40-49af-bcbd-eb9d37d3e3ec/TabsVsSpacesWindowsPackageManager_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Package Manager: Winget v1.0]]></video:title>
+        <video:description><![CDATA[Windows Package Manager enables you to find and install apps with the winget command line tool, as well as a means of distributing apps and tools for publishers. Demitrius Nelon joins the show to tell&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/ce7b/85270f7a-cc73-408e-8555-be6661a2ce7b/TabsVsSpacesWindowsPackageManager_mid.mp4</video:content_loc>
+        <video:duration>921</video:duration>
+        <video:publication_date>2021-09-14T21:24:49.9328401+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/WSL-2-Run-Linux-GUI-Apps</loc>
+      <lastmod>2021-10-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/2b72b519-35c3-42ba-a869-08ff1258a669.png</video:thumbnail_loc>
+        <video:title><![CDATA[WSL: Run Linux GUI Apps]]></video:title>
+        <video:description><![CDATA[You can now run Linux apps that use a graphic user interface (or GUI) on Windows using WSL. In this episode, Craig Loewen will explain what this means, what you can do with it, show us some demos, and&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6fc6/aab905ee-133c-40b7-8f9e-98a636d26fc6/TvSWSL2SupportLinuxGUIApps_mid.mp4</video:content_loc>
+        <video:duration>1035</video:duration>
+        <video:publication_date>2021-07-07T08:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/Microsoft-Edge-Web-dev-tools-A11y-and-PWAs</loc>
+      <lastmod>2021-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3963/a0fb9ab2-eaad-449c-886c-bb8b25573963/MicrosoftEdgeWebdevtoolsA11yandPWAs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Edge: Web dev tools, A11y, and PWAs]]></video:title>
+        <video:description><![CDATA[The new Microsoft Edge Chromium-based web browser has all sorts of exciting new tools to assist web developers, features to improve accessibility (A11y), and support for building progressive web apps&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/42db/c53f3054-8f90-48d7-ab92-bd14299b42db/MicrosoftEdgeWebdevtoolsA11yandPWAs_mid.mp4</video:content_loc>
+        <video:duration>1601</video:duration>
+        <video:publication_date>2021-04-15T15:30:24.9014855+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/Windows-Dev-Tools-WSL-Terminal-Package-Manager-and-more</loc>
+      <lastmod>2021-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/02de/7cec874f-8740-4391-89d2-fd2eb44a02de/TvSUpdateOnDevToolsWSLTerminalPackageManagerAndMo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Dev Tools: WSL, Terminal, Package Manager, and more]]></video:title>
+        <video:description><![CDATA[Windows 10 provides a variety of tools to support developers in setting up their ideal coding environment. In this episode, we will hear from some of the PMs who support these tools about the latest&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/28ab/3bbeca81-006f-44be-88b4-64cee4f128ab/TvSUpdateOnDevToolsWSLTerminalPackageManagerAndMo_mid.mp4</video:content_loc>
+        <video:duration>1246</video:duration>
+        <video:publication_date>2021-03-19T19:08:13.7751009+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/Visual-Studio-Code-Remote-dev-with-Containers--Codespaces</loc>
+      <lastmod>2021-03-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fa90/12600987-6070-42ff-a9b6-31b34ea9fa90/TvSRemoteDevWithContainersAndCodespaces_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Code: Remote dev with Containers &amp; Codespaces]]></video:title>
+        <video:description><![CDATA[In part 2 of Remote Development with Visual Studio Code, Brigit Murtaugh, a PM with VS Code, will explain how to set up a remote development environment using either Docker containers or GitHub&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/2975/b4efd45b-47c5-430d-80df-78b6e2292975/TvSRemoteDevWithContainersAndCodespaces_mid.mp4</video:content_loc>
+        <video:duration>1653</video:duration>
+        <video:publication_date>2021-02-18T09:09:01.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/VS-Code-Remote-Development-with-SSH-VMs-and-WSL</loc>
+      <lastmod>2021-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e069/70871f01-6589-432a-af9a-b770a95fe069/TvSEP6WSL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VS Code: Remote Development with SSH, VMs, and WSL]]></video:title>
+        <video:description><![CDATA[Visual Studio Code Remote Development allows you to use a container, remote machine, or the Windows Subsystem for Linux (WSL) as a full-featured development environment. Develop on the same operating&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b509/567a7ebf-1a8b-46ed-aaf2-895eab95b509/TvSEP6WSL_mid.mp4</video:content_loc>
+        <video:duration>1773</video:duration>
+        <video:publication_date>2020-11-30T21:03:31.8131707+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/GPU-Accelerated-Machine-Learning-with-WSL-2</loc>
+      <lastmod>2020-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c89e/c2bdb55c-634d-43b0-931e-b2415317c89e/TABSVSSPACEEp5GPUACCELERATEDMLwithWSL_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[GPU Accelerated Machine Learning with WSL 2]]></video:title>
+        <video:description><![CDATA[Adding GPU compute support to Windows Subsystem for Linux (WSL) has been the #1 most requested feature since the first WSL release. Learn how Windows and WSL 2 now support GPU Accelerated Machine&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/49b5/47985830-0db6-43b0-9ccd-c898a0c149b5/TvSEpisodeFiveGPUAcceleratedML_mid.mp4</video:content_loc>
+        <video:duration>988</video:duration>
+        <video:publication_date>2020-10-08T08:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/PowerToys-Utilities-to-customize-Windows-10</loc>
+      <lastmod>2020-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8573/6142b1be-862e-4923-8af9-809aff228573/powertoys-tabsvspaces_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PowerToys: Utilities to customize Windows 10]]></video:title>
+        <video:description><![CDATA[Learn about Microsoft PowerToys, a set of utilities for power users to tune and streamline your Windows 10 experience for greater productivity.  Clint Rutkas will show you the current PowerToy&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8573/6142b1be-862e-4923-8af9-809aff228573/powertoys-tabsvspaces_mid.mp4</video:content_loc>
+        <video:duration>1060</video:duration>
+        <video:publication_date>2020-09-17T15:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/MSIX-Package-desktop-apps-for-Windows-10-Replace-outdated-installers</loc>
+      <lastmod>2020-08-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c262/05f27753-349c-4a9a-86d1-7d3b81a9c262/tabs-vs-spaces-ep3-msix_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MSIX: Package desktop apps for Windows 10. Replace outdated installers.]]></video:title>
+        <video:description><![CDATA[Tanaka Jimha tells us all about MSIX, the package format for installing Windows apps, including how to package your existing code with Visual Studio and how to deploy and distribute your app, via the&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5a8f/8107ec19-44e6-4f09-a33e-9d293e585a8f/tabs-vs-spaces-ep3-msix_mid.mp4</video:content_loc>
+        <video:duration>1082</video:duration>
+        <video:publication_date>2020-03-31T17:27:47.4467975+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/WSL2-Code-faster-on-the-Windows-Subsystem-for-Linux</loc>
+      <lastmod>2021-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/bf2c/113d1aee-0269-4d81-ae59-0f2ef9e2bf2c/TabsVsSpaces-WSL2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WSL2: Code faster on the Windows Subsystem for Linux!]]></video:title>
+        <video:description><![CDATA[Learn all about WSL2, the new version of the Windows Subsystem for Linux, and what changes have been made to improve performance. Craig Loewen will show you how to get things installed and set up a&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/025a/d445245e-7c9d-4bde-8591-45e730f0025a/TabsVsSpaces-WSL2_mid.mp4</video:content_loc>
+        <video:duration>822</video:duration>
+        <video:publication_date>2020-03-12T09:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Tabs-vs-Spaces/Windows-Terminal-the-secret-to-command-line-happiness</loc>
+      <lastmod>2020-09-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a7c0/2387b98f-3e1d-4405-a056-b26132e9a7c0/windowsterminal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Terminal: the secret to command line happiness!]]></video:title>
+        <video:description><![CDATA[Learn all about Windows Terminal and how it can improve your development workflow. If you&#39;re a developer (or IT professional) who likes to use the command line and appreciates an organized,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/f307/3b5629b9-0265-4ba0-8ba3-015bec5ef307/windowsterminal_mid.mp4</video:content_loc>
+        <video:duration>969</video:duration>
+        <video:publication_date>2020-02-25T18:34:20.7287533+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

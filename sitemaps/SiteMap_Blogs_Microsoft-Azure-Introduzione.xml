@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione/1--Azure-la-definizione</loc>
+      <lastmod>2017-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c0c/15eb3cf9-8659-41e2-97c5-edab92ab4c0c/Intro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[1 | Azure, la definizione]]></video:title>
+        <video:description><![CDATA[Come definire Microsoft Azure e in quali contesti pu&#242; essere utilizzato. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c0c/15eb3cf9-8659-41e2-97c5-edab92ab4c0c/Intro_mid.mp4</video:content_loc>
+        <video:duration>2254</video:duration>
+        <video:publication_date>2016-02-22T19:56:29.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione/2--Demo-come-creare-la-prima-macchina-virtuale-in-Azure</loc>
+      <lastmod>2016-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/78ae/764b1c1a-4d46-425f-9a08-a46e8a5a78ae/demo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[2 | Demo: come creare la prima macchina virtuale in Azure]]></video:title>
+        <video:description><![CDATA[Video che illustra i passi necessari per creare una macchina virtuale in Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78ae/764b1c1a-4d46-425f-9a08-a46e8a5a78ae/demo_mid.mp4</video:content_loc>
+        <video:duration>477</video:duration>
+        <video:publication_date>2016-02-22T18:17:43.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione/3--Introduzione-di-Azure-Web-App</loc>
+      <lastmod>2016-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d2b3/6a203c32-458e-4deb-854a-91acdf96d2b3/webapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[3 | Introduzione di Azure Web App]]></video:title>
+        <video:description><![CDATA[Introduzione del servizio Web App di Azure. Partendo dalla creazione di una Web App dal portale e dalla configurazione delle impostazioni, vedremo come distribuire il codice con due esempi pratici. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d2b3/6a203c32-458e-4deb-854a-91acdf96d2b3/webapp_mid.mp4</video:content_loc>
+        <video:duration>1644</video:duration>
+        <video:publication_date>2016-02-22T17:45:10.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Microsoft-Azure-Introduzione/4--I-servizi-di-Gestione-Dati-di-Azure</loc>
+      <lastmod>2016-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/864b/c6ad08a9-40c1-4d2e-a1bc-b8bc8ec7864b/dati_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[4 | I servizi di Gestione Dati di Azure]]></video:title>
+        <video:description><![CDATA[Breve introduzione teorica dei diversi servizi che Azure fornisce in ambito di Gestione Dati  e un esempio pratico di come utilizzarli nelle applicazioni web. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/864b/c6ad08a9-40c1-4d2e-a1bc-b8bc8ec7864b/dati_mid.mp4</video:content_loc>
+        <video:duration>1651</video:duration>
+        <video:publication_date>2016-02-22T15:49:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

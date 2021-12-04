@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/TechNetUK</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/TechNetUK/Managing-Windows-Containers-and-Hyper-V-Containers-using-PowerShell</loc>
+      <lastmod>2017-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/942a/4f36de7b-42bb-419c-bef0-6102120f942a/ukcontainers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Windows Containers and Hyper-V Containers using PowerShell]]></video:title>
+        <video:description><![CDATA[This How-to  session will walk the viewer through all that is required to create, amend and deploy Windows Containers and Hyper-V containers and Container Images. In this session the viewer will learn&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/942a/4f36de7b-42bb-419c-bef0-6102120f942a/ukcontainers_mid.mp4</video:content_loc>
+        <video:duration>1286</video:duration>
+        <video:publication_date>2016-03-18T11:16:53.2770721+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/TechNetUK/Server-Management-Tools-Preview-Azure-management-of-Windows-Server-2016-TP4-nano-server</loc>
+      <lastmod>2016-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f88/129a44a8-2af0-44a9-965f-6e672a9b1f88/SMT1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Server Management Tools (Preview) - Azure management of Windows Server 2016 TP4 nano server]]></video:title>
+        <video:description><![CDATA[In this video we explore how-to make use of the new Server Management Tools (SMT) preview service. The 25 minute session will guide you through the following steps 1.creating Azure Virtual Machines to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f88/129a44a8-2af0-44a9-965f-6e672a9b1f88/SMT1_mid.mp4</video:content_loc>
+        <video:duration>1552</video:duration>
+        <video:publication_date>2016-03-17T18:52:28.7710595+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

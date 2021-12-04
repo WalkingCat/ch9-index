@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen/06-Coded-UI-Tests</loc>
+      <lastmod>2015-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/177a/8c3c8633-b998-42f5-8b47-e04f81d0177a/06CodedUITests_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[06 | Coded UI Tests]]></video:title>
+        <video:description><![CDATA[Unit Tests dienen der Pr&#252;fung bestimmter Logikbl&#246;cke unserer Anwendung, sie bieten aber meist nicht die M&#246;glichkeit auch die Funktion der Benutzeroberfl&#228;che zu pr&#252;fen. Hier unterst&#252;tzt uns das Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/177a/8c3c8633-b998-42f5-8b47-e04f81d0177a/06CodedUITests_mid.mp4</video:content_loc>
+        <video:duration>1592</video:duration>
+        <video:publication_date>2015-01-09T15:06:34.1761757+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen/05-Unit-Testing-mit-Javascript</loc>
+      <lastmod>2015-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c7af/50af6cdf-ce91-4788-98b7-ea612821c7af/05UnitTestingMitJavascript_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 | Unit Testing mit Javascript]]></video:title>
+        <video:description><![CDATA[Universal Apps k&#246;nnen nicht nur mit C#, sondern auch mit Javascript erstellt werden. Standartm&#228;&#223;ig besitzt das Visual Studio jedoch keine Funktionalit&#228;t zum Testen von Javascript. In diesem Modul wird&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c7af/50af6cdf-ce91-4788-98b7-ea612821c7af/05UnitTestingMitJavascript_mid.mp4</video:content_loc>
+        <video:duration>1534</video:duration>
+        <video:publication_date>2015-01-09T15:06:25.7411035+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen/04-Testisolation-mit-Csharp</loc>
+      <lastmod>2015-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1bd8/dc98efd5-b170-4f78-9d8a-c069429e1bd8/04TestisolationMitCsharp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Testisolation mit C#]]></video:title>
+        <video:description><![CDATA[Um m&#246;glichst schnell ausf&#252;hrbare und wartbare Tests zu erhalten sollten diese voneinander und von aufw&#228;ndigen Fremdsystemen entkoppelt werden. Dies ist f&#252;r Universal Apps leider etwas aufw&#228;ndiger als&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1bd8/dc98efd5-b170-4f78-9d8a-c069429e1bd8/04TestisolationMitCsharp_mid.mp4</video:content_loc>
+        <video:duration>1616</video:duration>
+        <video:publication_date>2015-01-09T15:06:14.1549636+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen/03-Unit-Testing-mit-Csharp</loc>
+      <lastmod>2015-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e54c/01548402-a754-46f1-a846-27be1170e54c/03UnitTestingMitCsharp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Unit Testing mit C#]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die Funktionen des Testframeworks betrachtet, welches standardm&#228;&#223;ig im Visual Studio integriert ist. Hierbei wir anhand eines Beispiels gezeigt wie Tests geschrieben,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e54c/01548402-a754-46f1-a846-27be1170e54c/03UnitTestingMitCsharp_mid.mp4</video:content_loc>
+        <video:duration>1902</video:duration>
+        <video:publication_date>2015-01-09T15:06:01.5524322+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen/02-Architektur-einer-Universal-App-mit-Csharp</loc>
+      <lastmod>2015-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/62c7/08ca1de9-7b64-4e86-b0ef-933473a162c7/02ArchitekturEinerUniversalAppMitCsharp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Architektur einer Universal App mit C#]]></video:title>
+        <video:description><![CDATA[Da bei Universal Apps die gleiche Anwendungslogik &#252;ber verschiedene Benutzeroberfl&#228;chen angesprochen werden, ist f&#252;r diese eine bestimmte Form der Anwendungsarchitektur absolut notwendig. Wir sehen&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/62c7/08ca1de9-7b64-4e86-b0ef-933473a162c7/02ArchitekturEinerUniversalAppMitCsharp_mid.mp4</video:content_loc>
+        <video:duration>816</video:duration>
+        <video:publication_date>2015-01-09T15:05:45.6318876+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Universal-Apps-automatisch-testen/01-Visual-Studio-und-die-Testautomatisierung</loc>
+      <lastmod>2015-01-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/09d2/2d896cf2-2e58-4371-9da5-c33599cd09d2/01VisualStudioUndDieTestautomatisierung_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Visual Studio &amp; die Testautomatisierung]]></video:title>
+        <video:description><![CDATA[Bevor es an die Spezifika der Universal Apps geht, wird zun&#228;chst eine &#220;bersicht &#252;ber die M&#246;glichkeiten der Testautomatisierung mit Visual Studio gegeben. Dabei gehen wir kurz auf Unit, Last,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/09d2/2d896cf2-2e58-4371-9da5-c33599cd09d2/01VisualStudioUndDieTestautomatisierung_mid.mp4</video:content_loc>
+        <video:duration>802</video:duration>
+        <video:publication_date>2015-01-09T15:05:28.3484504+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

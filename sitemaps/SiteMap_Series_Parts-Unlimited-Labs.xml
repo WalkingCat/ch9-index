@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-Labs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-Labs/Parts-Unlimited-HOL-Continuous-Deployment</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5c0c/861dc3dd-4156-489d-bd5c-2f6d26e65c0c/PULabsCD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited HOL - Continuous Deployment]]></video:title>
+        <video:description><![CDATA[In this lab, you have an application called PartsUnlimited, committed to a Git repo in Visual Studio Team Services (VSTS) and a Continuous Integration build that builds the app and runs unit tests&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5c0c/861dc3dd-4156-489d-bd5c-2f6d26e65c0c/PULabsCD_mid.mp4</video:content_loc>
+        <video:duration>1537</video:duration>
+        <video:publication_date>2016-12-31T23:47:39.6520386+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-Labs/Parts-Unlimited-HOL-Prerequisites</loc>
+      <lastmod>2016-12-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e482/4720ba0e-82cd-4cc3-9f7a-1cdb0f51e482/PULabsPreReq_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited HOL - Prerequisites]]></video:title>
+        <video:description><![CDATA[Prerequisites about Parts Unlimited HOL either if you are on Windows, Mac or Linux. The hands-on lab is available here. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e482/4720ba0e-82cd-4cc3-9f7a-1cdb0f51e482/PULabsPreReq_mid.mp4</video:content_loc>
+        <video:duration>237</video:duration>
+        <video:publication_date>2016-12-26T20:01:38.0931007+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Parts-Unlimited-Labs/Parts-Unlimited-Continuous-Integration</loc>
+      <lastmod>2018-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/973e/af1dca07-5910-4041-af23-cfc496c2973e/PULabsCI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Parts Unlimited HOL - Continuous Integration]]></video:title>
+        <video:description><![CDATA[In this lab we have an application called PartsUnlimited. We want to set up Visual Studio Team Services to be able continuously integrate code into the master branch of code. This means that whenever&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/973e/af1dca07-5910-4041-af23-cfc496c2973e/PULabsCI_mid.mp4</video:content_loc>
+        <video:duration>673</video:duration>
+        <video:publication_date>2016-12-26T19:50:20.9721014+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2013</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2013/Redireccionamiento-de-OWA--Exchange-2013</loc>
+      <lastmod>2021-10-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/58aa/f4ca3f4b-9687-45da-8c6c-45fb044a58aa/redireccionamiento_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Redireccionamiento de OWA | Exchange 2013]]></video:title>
+        <video:description><![CDATA[Un video simple donde muestro como hacen un redireccionamiento de OWA en Exchange 2013   Por Geovany Acevedo MCPS MCDST MCTS MCITP MCSA MCSE MCT MVP:Exchange Server ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/58aa/f4ca3f4b-9687-45da-8c6c-45fb044a58aa/redireccionamiento_mid.mp4</video:content_loc>
+        <video:duration>1040</video:duration>
+        <video:publication_date>2015-08-09T02:05:01.7993605+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Exchange-Server-2013/Grupos-de-distribucin-Dinamicos--Exchange-Server-2013</loc>
+      <lastmod>2015-08-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/39ca/27e36572-ec64-4f5a-b968-d16450ab39ca/GruposD2013_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Grupos de distribuci&#243;n Dinamicos | Exchange Server 2013]]></video:title>
+        <video:description><![CDATA[En este simple y corto video les muestro que es un grupo de distribucion dinamico y como crearlos en Exchange Server 2013   Por Geovany Acevedo MCPS MCDST MCTS MCITP MCSA MCSE MCT MVP:Exchange Server ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/39ca/27e36572-ec64-4f5a-b968-d16450ab39ca/GruposD2013_mid.mp4</video:content_loc>
+        <video:duration>552</video:duration>
+        <video:publication_date>2015-08-05T05:27:08.4214052+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DNTChannel/VideoTips</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DNTChannel/VideoTips/VSTS002-Deploy-su-Azure-di-una-Web-App-con-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1a27/8c86e052-d74d-47da-b5ff-9ffb29861a27/VSTS002_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploy su Azure di una Web App con Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[In questo video, secondo della serie, vedremo come pubblicare in maniera semplice la nostra Web Application su Azure, aggiungendo un nuovo task alla Build definition che abbiamo creato&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1a27/8c86e052-d74d-47da-b5ff-9ffb29861a27/VSTS002_mid.mp4</video:content_loc>
+        <video:duration>358</video:duration>
+        <video:publication_date>2016-12-06T07:37:34.2861866+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DNTChannel/VideoTips/VSTS001-Build-di-una-Web-App-Aspnet-con-Visual-Studio-Team-Services</loc>
+      <lastmod>2016-11-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/767e/8ea2dfa8-4432-4f9a-a0b0-1bf012fb767e/VSTS001BuilddiunaWebAppAspnetconVisualStudioTeamS_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Build di una Web App Asp.net con Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Vediamo come impostare una Build di una Web App ASP.NET direttamente da Visual Studio Team Services Twitter: @davidebenvegnuLinkedIn: www.linkedin.com/in/davidebenvegnu Website: www.davidebenvegnu.com ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/767e/8ea2dfa8-4432-4f9a-a0b0-1bf012fb767e/VSTS001BuilddiunaWebAppAspnetconVisualStudioTeamS_mid.mp4</video:content_loc>
+        <video:duration>431</video:duration>
+        <video:publication_date>2016-10-31T07:36:21.8527893+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DNTChannel/VideoTips/Riconoscimento-delle-emozioni-con-i-Cognitive-Services-e-Xamarin-Forms</loc>
+      <lastmod>2016-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f41e/8bc09f1d-254c-4263-b5ee-46384242f41e/COG002_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Riconoscimento delle emozioni con i Cognitive Services e Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[In questo nuovo video dedicato all&#39;integrazione dei Cognitive Services in un&#39;applicazione Xamarin.Forms mostreremo come utilizzare le Emotion API per riconoscere le emozioni di una persona a partire&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f41e/8bc09f1d-254c-4263-b5ee-46384242f41e/COG002_mid.mp4</video:content_loc>
+        <video:duration>244</video:duration>
+        <video:publication_date>2016-07-25T06:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DNTChannel/VideoTips/COG001-Utilizzare-i-Cognitive-Services-con-Xamarin-Forms</loc>
+      <lastmod>2016-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/add6/200e7eb8-c231-4417-a20e-7bf4adfaadd6/COG001_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Utilizzare i Cognitive Services con Xamarin.Forms]]></video:title>
+        <video:description><![CDATA[In questo video mostreremo come integrare i Cognitive Services di Microsoft in un&#39;app Cross-Platform realizzata con Xamarin.Forms per scattare una foto ed ottenerne la descrizione in linguaggio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/add6/200e7eb8-c231-4417-a20e-7bf4adfaadd6/COG001_mid.mp4</video:content_loc>
+        <video:duration>374</video:duration>
+        <video:publication_date>2016-07-07T21:57:06.7941469+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

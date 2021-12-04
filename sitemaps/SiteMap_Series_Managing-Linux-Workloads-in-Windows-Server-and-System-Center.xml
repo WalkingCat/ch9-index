@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb8a/ecf7b95f-d626-44b4-a692-f4e45acbbb8a/699ManageLinuxWorkloadsM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Linux Workloads in Windows Server and System Center: (05) Orchestrator and Data Protection&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Learn about Orchestrator and Data Protection Manager and how to use them to implement automation in your datacenter, along with how to take backups of your Linux workloads. [00:19] - Orchestrator&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb8a/ecf7b95f-d626-44b4-a692-f4e45acbbb8a/699ManageLinuxWorkloadsM05_mid.mp4</video:content_loc>
+        <video:duration>903</video:duration>
+        <video:publication_date>2015-03-28T19:17:00.2355987+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fb27/1f18ac61-64f0-4ad3-ba59-82c620a3fb27/699ManageLinuxWorkloadsM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Linux Workloads in Windows Server and System Center: (04) Operations Manager]]></video:title>
+        <video:description><![CDATA[Hear about Operations Manager and how to use it to monitor Linux workloads in your datacenter. [00:19] - Operations Manager[05:16] - Demo: Operations Manager]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fb27/1f18ac61-64f0-4ad3-ba59-82c620a3fb27/699ManageLinuxWorkloadsM04_mid.mp4</video:content_loc>
+        <video:duration>854</video:duration>
+        <video:publication_date>2015-03-28T19:16:47.6701182+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/86a1/62ac2546-1055-4b55-97d3-b34b1dd586a1/699ManageLinuxWorkloadsM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Linux Workloads in Windows Server and System Center: (03) Configuration Manager]]></video:title>
+        <video:description><![CDATA[Get the details on Configuration Manager and how to use it to manage and configure your Linux endpoints. [04:08] - Demo: Configuration Manager]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/86a1/62ac2546-1055-4b55-97d3-b34b1dd586a1/699ManageLinuxWorkloadsM03_mid.mp4</video:content_loc>
+        <video:duration>884</video:duration>
+        <video:publication_date>2015-03-28T19:16:38.7762028+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/02</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/097a/60e2c441-4b20-4717-b083-4c6a261f097a/699ManageLinuxWorkloadsM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Linux Workloads in Windows Server and System Center: (02) Virtual Machine Manager and Azure&amp;#8230;]]></video:title>
+        <video:description><![CDATA[Learn about Virtual Machine Manager and Windows Azure Pack and how to use them to provision Linux workloads in your datacenter. [00:15] - Virtual Machine Manager[06:08] - Demo: Deploying Linux VMs in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/097a/60e2c441-4b20-4717-b083-4c6a261f097a/699ManageLinuxWorkloadsM02_mid.mp4</video:content_loc>
+        <video:duration>1319</video:duration>
+        <video:publication_date>2015-03-28T19:16:28.8825712+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a807/90854599-daa9-4fcb-9e69-445c9d7fa807/699ManageLinuxWorkloadsM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Linux Workloads in Windows Server and System Center: (01) Introduction]]></video:title>
+        <video:description><![CDATA[Get an overview of Microsoft solutions for Linux in the private and hybrid cloud. And learn about Linux running on Hyper-V and the Linux management capabilities in the Azure Pack, Configuration&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a807/90854599-daa9-4fcb-9e69-445c9d7fa807/699ManageLinuxWorkloadsM01_mid.mp4</video:content_loc>
+        <video:duration>1025</video:duration>
+        <video:publication_date>2015-03-28T19:16:12.0535867+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

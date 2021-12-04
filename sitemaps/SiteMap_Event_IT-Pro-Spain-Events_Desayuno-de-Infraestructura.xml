@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Pro-Spain-Events/Desayuno-de-Infraestructura</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Pro-Spain-Events/Desayuno-de-Infraestructura/Identidad-los-misterios-del-metaverso-con-Forefront-Identity-Manager</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/61e5/0cb54c0c-95df-4d2d-9fb5-58bf655461e5/IdentidadLosMisteriosDelMetaversoConFIM_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identidad: los misterios del metaverso con Forefront Identity Manager]]></video:title>
+        <video:description><![CDATA[Forefront Identity Manager (FIM), futuro Microsoft Identity Manager (MIM), es una soluci&#243;n integral de gesti&#243;n de identidad cuyo motor constituye la base de DirSync y AAD Sync en Azure Active&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/61e5/0cb54c0c-95df-4d2d-9fb5-58bf655461e5/IdentidadLosMisteriosDelMetaversoConFIM_mid.mp4</video:content_loc>
+        <video:duration>3791</video:duration>
+        <video:publication_date>2015-03-04T17:50:34.9578792+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Pro-Spain-Events/Desayuno-de-Infraestructura/Identidad-hibrida-con-Azure-Active-Directory</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae3b/dff80f6a-872e-4ea5-881e-bb69b653ae3b/IdentidadHibridaConAzureActiveDirectory_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Identidad h&#237;brida con Azure Active Directory]]></video:title>
+        <video:description><![CDATA[No concebimos hablar a d&#237;a de hoy de identidad sin hablar de Azure Active Directory (AAD), la identidad como servicio de Microsoft ofrecida directamente desde la nube. Con m&#225;s de 2.000 aplicaciones y&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae3b/dff80f6a-872e-4ea5-881e-bb69b653ae3b/IdentidadHibridaConAzureActiveDirectory_mid.mp4</video:content_loc>
+        <video:duration>2921</video:duration>
+        <video:publication_date>2015-03-04T17:50:30.2504403+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Pro-Spain-Events/Desayuno-de-Infraestructura/Cross-premises-integrando-redes-e-infraestructura-con-Microsoft-Azure</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f721/901d989c-fc6e-4010-8ec0-e810db01f721/CrossPremisesIntegrandoRedesEInfraestructuraConMi_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cross-premises: integrando redes e infraestructura con Microsoft Azure]]></video:title>
+        <video:description><![CDATA[&#191;Pensando en beneficiarte de las m&#250;ltiples ventajas de Azure sin renunciar a las ventajas de tu intraestrucutra on-premises actual? &#161;Las implementaciones h&#237;bridas o cross-premises son la soluci&#243;n!&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f721/901d989c-fc6e-4010-8ec0-e810db01f721/CrossPremisesIntegrandoRedesEInfraestructuraConMi_mid.mp4</video:content_loc>
+        <video:duration>3619</video:duration>
+        <video:publication_date>2015-03-04T17:27:17.9634803+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Pro-Spain-Events/Desayuno-de-Infraestructura/Single-Sign-On-e-IdPs-Active-Directory-Federation-Services-ADFS</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d57f/06718105-5d5b-4530-8f67-a6413ea8d57f/SingleSignOnEIdpsActiveDirectoryFederationService_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Single Sign On e IdPs: Active Directory Federation Services (ADFS)]]></video:title>
+        <video:description><![CDATA[Gracias a FIM tenemos nuestra identidad sincronizada en todos los sistemas de nuestra infraestructura y, a pesar de usar las mismas credenciales en todos ellos, tenemos que estar escribi&#233;ndolas cuando&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d57f/06718105-5d5b-4530-8f67-a6413ea8d57f/SingleSignOnEIdpsActiveDirectoryFederationService_mid.mp4</video:content_loc>
+        <video:duration>4100</video:duration>
+        <video:publication_date>2015-03-04T17:26:43.6432222+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/IT-Pro-Spain-Events/Desayuno-de-Infraestructura/Presentacion-pasado-presente-y-futuro-de-la-infraestructura</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff06/bcaf4d13-aff4-44fe-aad4-2cbd36d1ff06/PresentacionPasadoPresenteYFuturoDeLaInfraestruct_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Presentaci&#243;n: pasado, presente y futuro de la infraestructura.]]></video:title>
+        <video:description><![CDATA[Durante esta sesi&#243;n introductoria nos presentaremos todos los integrantes del equipo y haremos un repaso r&#225;pido a lo que ha sido el mundo de la infraestructura y su evoluci&#243;n a lo largo de los a&#241;os.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff06/bcaf4d13-aff4-44fe-aad4-2cbd36d1ff06/PresentacionPasadoPresenteYFuturoDeLaInfraestruct_mid.mp4</video:content_loc>
+        <video:duration>1147</video:duration>
+        <video:publication_date>2015-03-04T17:23:24.2317507+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

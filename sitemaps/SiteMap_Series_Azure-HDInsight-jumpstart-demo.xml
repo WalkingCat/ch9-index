@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-HDInsight-jumpstart-demo</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-HDInsight-jumpstart-demo/03</loc>
+      <lastmod>2015-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d565/2353717e-7548-4e47-85ba-887ef893d565/AzureHDInsight03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(03)  HBase ]]></video:title>
+        <video:description><![CDATA[當您要存取應用程式資料時，有兩種作法，使用 HBase Shell 建立 Table，或是用 HBase Client 存取 HBase，本單元將實際 demo 操作這兩種作法供您選擇。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d565/2353717e-7548-4e47-85ba-887ef893d565/AzureHDInsight03_mid.mp4</video:content_loc>
+        <video:duration>1197</video:duration>
+        <video:publication_date>2015-03-16T09:02:02.3789841+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-HDInsight-jumpstart-demo/02</loc>
+      <lastmod>2015-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/14eb/3639b4a2-a5a7-4f19-893f-2b11c99314eb/AzureHDInsight02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(02) ]]></video:title>
+        <video:description><![CDATA[Hive 是建立在 Hadoop 上提供資料管理、查詢及分析的工具，使用類&amp;#20284;於 SQL 的語言「HiveQL」來進行查詢。本單元將介紹如何使用 HiveQL 查詢轉換成 MapReduce 的 Job，來處理 HDInsight 上的資料。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/14eb/3639b4a2-a5a7-4f19-893f-2b11c99314eb/AzureHDInsight02_mid.mp4</video:content_loc>
+        <video:duration>425</video:duration>
+        <video:publication_date>2015-03-16T07:07:39.7160574+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-HDInsight-jumpstart-demo/01</loc>
+      <lastmod>2015-03-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ab63/c2f73616-5ef2-45ca-bd5a-ec8294d0ab63/AzureHDInsight01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(01)  Azure HDInsight ]]></video:title>
+        <video:description><![CDATA[本單元適合初學者，將帶您從無到有於 Azure 上建立屬於自己的 HDInsight 叢集服務。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ab63/c2f73616-5ef2-45ca-bd5a-ec8294d0ab63/AzureHDInsight01_mid.mp4</video:content_loc>
+        <video:duration>363</video:duration>
+        <video:publication_date>2015-03-16T07:07:21.1435984+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

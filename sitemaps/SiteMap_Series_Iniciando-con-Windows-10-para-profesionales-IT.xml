@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT/Mdulo-I-Aplicaciones-y-administracin-de-dispositivos-mviles-MDM</loc>
+      <lastmod>2016-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5394/7b7cac33-b1da-4984-b8ec-4a264fb05394/AplicacionesyAdminitracion_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Aplicaciones y administraci&#243;n de dispositivos m&#243;viles (MDM)]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se profundizar&#225; en los desaf&#237;os de MDM de hoy en d&#237;a, a trav&#233;s de las capacidades de administraci&#243;n de dispositivos m&#225;s granulares. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5394/7b7cac33-b1da-4984-b8ec-4a264fb05394/AplicacionesyAdminitracion_mid.mp4</video:content_loc>
+        <video:duration>1277</video:duration>
+        <video:publication_date>2016-04-29T17:58:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT/Mdulo-II-Opciones-de-administracin-en-Windows-10</loc>
+      <lastmod>2016-05-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/57ff/fb7050a4-e903-475d-97c4-c1f1459957ff/Opcionesdeadministracionenwindows10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Opciones de administraci&#243;n en Windows 10]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se explorar&#225; la administraci&#243;n tradicional, directivas de grupo, System Center y componentes relacionados, as&#237; como la gesti&#243;n de dispositivos m&#243;viles, desde lo a&#241;adido en Windows 8.1 y&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/57ff/fb7050a4-e903-475d-97c4-c1f1459957ff/Opcionesdeadministracionenwindows10_mid.mp4</video:content_loc>
+        <video:duration>1458</video:duration>
+        <video:publication_date>2016-04-29T17:57:37.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT/Mdulo-III-Tiempos-de-ejecucin-en-aprovisionamiento</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1f4/dc891600-998a-4e0c-bb09-e4512fc4b1f4/Tiempodeejecucionenaprovisionamiento_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Tiempos de ejecuci&#243;n en aprovisionamiento ]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se ver&#225;n los mecanimos para acelerar la implementaci&#243;n de Windows 10 con respecto a las caracter&#237;sticas actuales de nuestro ecosistema IT, seg&#250;n nuestras configuraciones actuales. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1f4/dc891600-998a-4e0c-bb09-e4512fc4b1f4/Tiempodeejecucionenaprovisionamiento_mid.mp4</video:content_loc>
+        <video:duration>783</video:duration>
+        <video:publication_date>2016-04-28T15:41:18.6342305+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT/Mdulo-IV-Administracin-de-dispositivos</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dcd2/699bd362-6d9a-4cd3-875d-3eff14e2dcd2/Administraciondedispositivos_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Administraci&#243;n de dispositivos]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo sobre MDM, y el soporte en el nuevo sistema operativo Windows 10. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dcd2/699bd362-6d9a-4cd3-875d-3eff14e2dcd2/Administraciondedispositivos_mid.mp4</video:content_loc>
+        <video:duration>1114</video:duration>
+        <video:publication_date>2016-04-28T15:41:13.4960884+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT/Mdulo-V-Fuga-de-datos</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b84/3c5664d0-eede-43ff-a800-26d2ca962b84/Fugadedatos_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo V - Fuga de datos ]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se realizar&#225; un an&#225;lisis de seguridad en nuestro entorno IT, utlizando las nuevas herramientas y caracter&#237;sticas con Windows 10. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b84/3c5664d0-eede-43ff-a800-26d2ca962b84/Fugadedatos_mid.mp4</video:content_loc>
+        <video:duration>853</video:duration>
+        <video:publication_date>2016-04-28T15:41:08.5539215+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT/Mdulo-VI-La-evolucin-de-los-ataques</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3348/63fae0b3-1f3e-41a8-97ce-006a0f573348/Laevoluciondelosataques_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo VI - La evoluci&#243;n de los ataques]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se ver&#225; Windows 10 como un Servicio, donde se mostrar&#225;n las herramientas de los administradores IT para prepararse a ataques en cualquier frente inform&#225;tico desde la planeaci&#243;n de la&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3348/63fae0b3-1f3e-41a8-97ce-006a0f573348/Laevoluciondelosataques_mid.mp4</video:content_loc>
+        <video:duration>903</video:duration>
+        <video:publication_date>2016-04-28T15:41:03.3283878+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

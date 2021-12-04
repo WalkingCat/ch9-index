@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Premium</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Premium/03--Synchronizacja-z-lokalnym-AD</loc>
+      <lastmod>2015-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3389/b74ef254-0ca0-4f4a-9369-57c5235c3389/MVAAzureAD03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Synchronizacja z lokalnym AD]]></video:title>
+        <video:description><![CDATA[Gdy już wiesz czym jest Azure AD, to w tym module dowiesz się jak możesz zsynchronizować dane z Twojego lokalnego AD do tego w chmurze. W demo przekonasz się, że to bardzo łatwe zadanie, a sama&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3389/b74ef254-0ca0-4f4a-9369-57c5235c3389/MVAAzureAD03_mid.mp4</video:content_loc>
+        <video:duration>1347</video:duration>
+        <video:publication_date>2015-02-26T09:25:11.5281974+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Premium/02--Microsoft-Azure-Active-Directory-Premium</loc>
+      <lastmod>2015-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b548/97837065-745a-4993-b988-7a37bff4b548/MVAAzureAD02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Microsoft Azure Active Directory Premium]]></video:title>
+        <video:description><![CDATA[Zobacz czym jest Azure Active Directory Premium i czym się r&#243;żni od klasycznego lokalnego AD. Dowiedz się jakie są możliwości i scenariusze zastosowań dla Azure AD. Zobaczysz też jakie są edycje oraz&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b548/97837065-745a-4993-b988-7a37bff4b548/MVAAzureAD02_mid.mp4</video:content_loc>
+        <video:duration>2638</video:duration>
+        <video:publication_date>2015-02-26T09:21:11.9903938+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Premium/01--Tosamo-w-czasach-chmur</loc>
+      <lastmod>2015-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7875/df5efab1-beb2-4716-94cd-6f98a2297875/MVAAzureAD01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Tosamo w czasach chmur]]></video:title>
+        <video:description><![CDATA[W dzisiejszych czasach użytkownicy korzystają już nie tylko z wewnętrznych aplikacji firmowych, ale coraz częściej wykorzystują r&#243;żne inne aplikacje i systemy zewnętrzne (często dostarczane w modelu&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7875/df5efab1-beb2-4716-94cd-6f98a2297875/MVAAzureAD01_mid.mp4</video:content_loc>
+        <video:duration>638</video:duration>
+        <video:publication_date>2015-02-26T09:18:10.0643705+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Technical-Sessions</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Technical-Sessions/power-up-your-dev-skills</loc>
+      <lastmod>2016-04-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42fc/f3ad8f19-a973-40de-9f63-6f63713642fc/PowerUpYourDevSkills_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   ]]></video:title>
+        <video:description><![CDATA[Technical Session on different tools, products, and topics delivered by our technical expert Microsoft Student Partners. Topic: Power Up Your Dev Skills! Speaker: Eman AlFarra   Learn more through our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42fc/f3ad8f19-a973-40de-9f63-6f63713642fc/PowerUpYourDevSkills_mid.mp4</video:content_loc>
+        <video:duration>5863</video:duration>
+        <video:publication_date>2016-04-24T11:20:05.8310934+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Technical-Sessions/Introduction-to-Xamarin</loc>
+      <lastmod>2016-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e5f7/956ac97e-7773-43ef-91b8-430d7657e5f7/IntroductiontoXamarin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Xamarin]]></video:title>
+        <video:description><![CDATA[Technical Session on different tools, products, and topics delivered by our technical expert Microsoft Student Partners. Topic: Introduction to Xamarin Speaker: Mohammed Almawsami   Learn more through&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5f7/956ac97e-7773-43ef-91b8-430d7657e5f7/IntroductiontoXamarin_mid.mp4</video:content_loc>
+        <video:duration>13585</video:duration>
+        <video:publication_date>2016-04-24T10:00:55.5995726+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

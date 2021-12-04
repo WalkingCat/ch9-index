@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2/Active-Directory-dans-Azure-IaaS</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1af7/21375c49-da47-43e5-89db-4188306e1af7/activedirectorydansazureiaas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Active Directory dans Azure IaaS]]></video:title>
+        <video:description><![CDATA[Ce module revoit les points fondamentaux &#224; respecter pour mettre en œuvre un Active Directory au sein des machines virtuelles dans Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1af7/21375c49-da47-43e5-89db-4188306e1af7/activedirectorydansazureiaas_mid.mp4</video:content_loc>
+        <video:duration>1520</video:duration>
+        <video:publication_date>2016-04-19T12:07:55.7548330+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2/Stockage-dans-Azure</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b62a/cef293b6-b72f-405c-96c9-8bd742c1b62a/azurestorage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Stockage dans Azure]]></video:title>
+        <video:description><![CDATA[Ce module pr&#233;sente les differentes options de stockage et redondance des donn&#233;es dans Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b62a/cef293b6-b72f-405c-96c9-8bd742c1b62a/azurestorage_mid.mp4</video:content_loc>
+        <video:duration>3491</video:duration>
+        <video:publication_date>2016-04-19T12:07:52.8751287+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2/Services-rseau</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e0a5/bf582c74-aaed-4bda-8dcb-a9fabe8ae0a5/servicereseau_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Services r&#233;seau]]></video:title>
+        <video:description><![CDATA[Ce module aborde les diff&#233;rents aspects de la mise en r&#233;seau pour les machines virtuelles dans Azure ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e0a5/bf582c74-aaed-4bda-8dcb-a9fabe8ae0a5/servicereseau_mid.mp4</video:content_loc>
+        <video:duration>3639</video:duration>
+        <video:publication_date>2016-04-19T12:07:49.6285138+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2/Machines-virtuelles</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/812a/d3e4e5fa-440b-4018-b2db-dfbb5026812a/VM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Machines virtuelles]]></video:title>
+        <video:description><![CDATA[Le module VM permet d&#39;&#233;tudier les diff&#233;rents machines virtuelles, leur fonctionnement et leur administration. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/812a/d3e4e5fa-440b-4018-b2db-dfbb5026812a/VM_mid.mp4</video:content_loc>
+        <video:duration>4846</video:duration>
+        <video:publication_date>2016-04-19T09:30:52.8703422+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2/Outils-dadministration</loc>
+      <lastmod>2020-07-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e4d/37a4226a-e57b-4969-8cb7-21f4da082e4d/outilsadministrationazure_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Outils d&#39;administration]]></video:title>
+        <video:description><![CDATA[Ce module revoit les diff&#233;rents outils qui permettent d&#39;administrer Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e4d/37a4226a-e57b-4969-8cb7-21f4da082e4d/outilsadministrationazure_mid.mp4</video:content_loc>
+        <video:duration>1845</video:duration>
+        <video:publication_date>2016-04-19T09:30:49.5936983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Introduction--Azure-IaaSv2/Introduction--Azure-IaaS</loc>
+      <lastmod>2016-04-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6ba/a2e82e4f-ce87-4072-a8ce-4e011452e6ba/introazureiaas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction &#224; Azure IaaS]]></video:title>
+        <video:description><![CDATA[Ce module permet d&#39;&#233;tudier les &#233;l&#233;ments de base d&#39;Azure en mode infrastructure.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6ba/a2e82e4f-ce87-4072-a8ce-4e011452e6ba/introazureiaas_mid.mp4</video:content_loc>
+        <video:duration>901</video:duration>
+        <video:publication_date>2016-04-19T09:30:46.1801923+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

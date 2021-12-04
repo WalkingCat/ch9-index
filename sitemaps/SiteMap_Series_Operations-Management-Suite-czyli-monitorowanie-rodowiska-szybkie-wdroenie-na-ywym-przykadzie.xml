@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Operations-Management-Suite-czyli-monitorowanie-rodowiska-szybkie-wdroenie-na-ywym-przykadzie</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Operations-Management-Suite-czyli-monitorowanie-rodowiska-szybkie-wdroenie-na-ywym-przykadzie/05-Raportowanie</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/acd2/2429cb61-06ed-46f2-a4ec-4ac1c90cacd2/5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[05 Raportowanie ]]></video:title>
+        <video:description><![CDATA[Zapoznamy się z Raportowaniem, kt&#243;re nie jest przeładowane błędami i wyłuskuje błędy w konfiguracji, zawiera raporty dotyczące wydajności i bezpieczeństwa monitorowanych system&#243;w.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/acd2/2429cb61-06ed-46f2-a4ec-4ac1c90cacd2/5_mid.mp4</video:content_loc>
+        <video:duration>438</video:duration>
+        <video:publication_date>2016-06-16T11:05:30.3342973+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Operations-Management-Suite-czyli-monitorowanie-rodowiska-szybkie-wdroenie-na-ywym-przykadzie/04-Azure-Automation</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/035b/efdd2c6c-4bb3-4b0a-9f2f-129330a5035b/4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 Azure Automation ]]></video:title>
+        <video:description><![CDATA[Wykorzystanie Azure Automation do zarządzania monitorowanym środowiskiem wraz z tworzeniem przykładowego runbook&#39;a. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/035b/efdd2c6c-4bb3-4b0a-9f2f-129330a5035b/4_mid.mp4</video:content_loc>
+        <video:duration>764</video:duration>
+        <video:publication_date>2016-06-16T11:05:14.4464171+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Operations-Management-Suite-czyli-monitorowanie-rodowiska-szybkie-wdroenie-na-ywym-przykadzie/03-Instalacja-Agenta-na-Windows-Linux</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d95c/7782dc59-8d74-419e-aa21-4ee24b87d95c/3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Instalacja Agenta na Windows, Linux ]]></video:title>
+        <video:description><![CDATA[Instalacja Agenta Operations Management Suite na systemach Windows i Linux. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d95c/7782dc59-8d74-419e-aa21-4ee24b87d95c/3_mid.mp4</video:content_loc>
+        <video:duration>449</video:duration>
+        <video:publication_date>2016-06-16T11:05:06.8854188+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Operations-Management-Suite-czyli-monitorowanie-rodowiska-szybkie-wdroenie-na-ywym-przykadzie/02-Konfiguracja-Konta-Operations-Management-Suite</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd97/0d29a838-6c37-4052-9e22-d23d5a0bbd97/2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Konfiguracja Konta Operations Management Suite ]]></video:title>
+        <video:description><![CDATA[Konfiguracja Konta Operations Management Suite – from zero to hero. Dodanie rozwiązań (Solutions), konfiguracja Log&#243;w. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd97/0d29a838-6c37-4052-9e22-d23d5a0bbd97/2_mid.mp4</video:content_loc>
+        <video:duration>469</video:duration>
+        <video:publication_date>2016-06-16T11:04:58.2744411+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Operations-Management-Suite-czyli-monitorowanie-rodowiska-szybkie-wdroenie-na-ywym-przykadzie/01-Wprowadzenie</loc>
+      <lastmod>2016-06-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6480/02ce3038-d945-45b5-9ad5-7a41d7896480/1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wprowadzenie ]]></video:title>
+        <video:description><![CDATA[Wprowadzenie do monitorowania i Microsoft Operations Management Suite. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6480/02ce3038-d945-45b5-9ad5-7a41d7896480/1_mid.mp4</video:content_loc>
+        <video:duration>243</video:duration>
+        <video:publication_date>2016-06-16T11:04:50.3513610+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Best-of-Microsoft-Build</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Best-of-Microsoft-Build/Teams-and-M365</loc>
+      <lastmod>2021-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ae55/77020cf0-7c6d-4ec6-83fa-a2e69e1aae55/m356_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Teams and M365]]></video:title>
+        <video:description><![CDATA[Check out what&#39;s new in Teams and M365! Build the next generation of collaborative apps for hybrid work with Vesa Juvonen and Waldek Mastykarz Get all the links at: https://theurlist.com/best-of-build ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3793/dec34e5d-e9a2-4c41-a74b-5f1150d23793/BESTOFBUILDM365_mid.mp4</video:content_loc>
+        <video:duration>1671</video:duration>
+        <video:publication_date>2021-06-23T22:34:11.8163557+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Best-of-Microsoft-Build/Build-cloud-native-applications-that-run-anywhere</loc>
+      <lastmod>2021-06-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/75f0/45f4c846-0486-4b69-8c00-a4d8c3cf75f0/cloudnative_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cloud Native]]></video:title>
+        <video:description><![CDATA[Build cloud-native applications that run anywhere with Frank Boucher and Laurent Bugnion Find all the Azure samples (and more) here: https://docs.microsoft.com/en-us/samples/browseWeb Socket:&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/75f0/45f4c846-0486-4b69-8c00-a4d8c3cf75f0/cloudnative_mid.mp4</video:content_loc>
+        <video:duration>1779</video:duration>
+        <video:publication_date>2021-06-23T17:12:16.2424025+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Best-of-Microsoft-Build/Increase-Developer-Velocity-with-Microsofts-end-to-end-developer-stack</loc>
+      <lastmod>2021-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fafb/a5891c9b-eb2f-4269-ab51-d12c100afafb/DeveloperVelocity_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developer Velocity]]></video:title>
+        <video:description><![CDATA[Increase Developer Velocity with Microsoft&#39;s end-to-end developer stack with Anthony Chu and Burke Holland Get all the links at: https://theurlist.com/best-of-build ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fafb/a5891c9b-eb2f-4269-ab51-d12c100afafb/DeveloperVelocity_mid.mp4</video:content_loc>
+        <video:duration>1913</video:duration>
+        <video:publication_date>2021-06-23T17:12:03.2517379+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Build/Best-of-Microsoft-Build/Deliver-new-intelligent-cloud-native-applications-by-harnessing-the-power-of-Data-and-AI</loc>
+      <lastmod>2021-06-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/83fb/b22b04c0-acc3-45a6-8a6e-4733790083fb/BESTOFBUILDAI_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conversational AI]]></video:title>
+        <video:description><![CDATA[Deliver new intelligent cloud-native applications by harnessing the power of Data and AI with Amy Boyd, Aysegul Yonet, Gary Pretty, Cassie Breviu and Henk Boelman. Conversational AIOn-demand Build&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/83fb/b22b04c0-acc3-45a6-8a6e-4733790083fb/BESTOFBUILDAI_mid.mp4</video:content_loc>
+        <video:duration>1584</video:duration>
+        <video:publication_date>2021-06-23T17:11:34.4015530+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

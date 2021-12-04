@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/family-introduction</loc>
+      <lastmod>2017-01-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5788/2e2e4ccf-9c00-49c0-9b8f-b5ab06215788/XamarinFamily_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Xamarin ]]></video:title>
+        <video:description><![CDATA[本課程將介紹 Xamarin 跨平台開發的挑戰 ，以及 Xamarin 家族介紹，其中包含 Xamarin.iOS &amp;amp; Xamarin.Android、Xamarin.Forms、好用的 plugins 及 packages，引導您了解 Xamarin 的運作及原理喔！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5788/2e2e4ccf-9c00-49c0-9b8f-b5ab06215788/XamarinFamily_mid.mp4</video:content_loc>
+        <video:duration>1950</video:duration>
+        <video:publication_date>2017-01-10T07:03:11.7684120+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/Hybird-Native-App</loc>
+      <lastmod>2017-05-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e97f/c5fd5076-f098-4b76-90d4-29a47ae8e97f/XamarinHybirdNativeApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Xamarin  Hybird  Native App ]]></video:title>
+        <video:description><![CDATA[台灣多數的中小型企業客戶常在有限的資源下，要如何讓 Xamarin 技術結合過去累積的 Web 經驗，產出一個 Hybrid 跨平台行動 App，但又能擁有 Native App 的行動化能力的 App 呢? 本次課程將讓各位體驗實質的開發技巧，暢意遊走 Hybrid 與 Native App之間。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e97f/c5fd5076-f098-4b76-90d4-29a47ae8e97f/XamarinHybirdNativeApp_mid.mp4</video:content_loc>
+        <video:duration>2295</video:duration>
+        <video:publication_date>2017-01-10T07:02:17.1120942+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/WebView-Cordova</loc>
+      <lastmod>2017-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac3e/b91234c3-d79e-4474-94f6-7363b6d1ac3e/WebViewCordova_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ WebView  Cordova]]></video:title>
+        <video:description><![CDATA[在行動裝置成為人們主要的接觸資訊路徑之前，Web 領域累積大家很多奮戰的成果與血淚。在新世代來臨時，我們要丟棄這些成果嗎？當然不用，因為我們能在 Xamarin 中透過 WebView 元件直接來處理這些既有成果的。因此我們就來看看 Cordova 這類技術能做到了什麼? 並從 Cordova 開源碼中來進行觀察，直接剖析其功能的缺陷與侷限。透過這樣的比較，讓各位更能了解Xamarin&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac3e/b91234c3-d79e-4474-94f6-7363b6d1ac3e/WebViewCordova_mid.mp4</video:content_loc>
+        <video:duration>1803</video:duration>
+        <video:publication_date>2017-01-10T06:57:38.5331956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/XamarinForms-UI</loc>
+      <lastmod>2017-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/37f8/63a7dc26-4ae0-485b-86e7-6486c8f937f8/XamarinFormsUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Xamarin.Forms  UI ]]></video:title>
+        <video:description><![CDATA[一個長期接觸 .NET 開發的老手成了一位 Xamarin 初心者，如何把過去在 UWP/WPF 上揉捻 XAML 的經驗，套用在 Xamarin.Forms 的 XAML UI 設計上? 絕對不可錯過的一堂 Xamarin.Forms UI 超實用介紹！ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/37f8/63a7dc26-4ae0-485b-86e7-6486c8f937f8/XamarinFormsUI_mid.mp4</video:content_loc>
+        <video:duration>3909</video:duration>
+        <video:publication_date>2017-01-10T06:55:28.3195935+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/crossplatform</loc>
+      <lastmod>2017-05-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/77b2/48ead667-1418-4be5-8866-60759f1d77b2/XamarinApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Xamarin ]]></video:title>
+        <video:description><![CDATA[本課程將詳細解說 Xamarin.Forms 架構及原理，並帶您一起操作 Xamarin.Forms，實際開發跨平台的 App（iOS 和 Android）。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/77b2/48ead667-1418-4be5-8866-60759f1d77b2/XamarinApp_mid.mp4</video:content_loc>
+        <video:duration>3450</video:duration>
+        <video:publication_date>2017-01-10T06:53:42.4989218+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/XamarinForms-Azure-App-Service</loc>
+      <lastmod>2016-12-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e95/e882997a-9cb6-4bd2-9cdf-9e9856039e95/XamarinAppsAzureMobileApps_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Xamarin.Forms + Azure App Service ]]></video:title>
+        <video:description><![CDATA[本課程由 Ian Chen 主講 [01:15] Xamarin 架構 [05:28] Xamarin.Forms 架構 [08:35] Xamarin Apps &amp;#43; 後端服務 [10:14] 為什麼使用 Azure 雲端解決方案？ [18:00] DEMO_整合資料存取 [24:05] Push Notifications 推播服務 [31:40] DEMO_Push&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e95/e882997a-9cb6-4bd2-9cdf-9e9856039e95/XamarinAppsAzureMobileApps_mid.mp4</video:content_loc>
+        <video:duration>2552</video:duration>
+        <video:publication_date>2016-11-29T08:24:30.9396031+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/XamarinFormsDesign</loc>
+      <lastmod>2016-11-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9537/768b08ec-fee3-4082-88eb-456d89ba9537/XamarinForms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Xamarin.Forms ]]></video:title>
+        <video:description><![CDATA[本課程由 Microsoft MVP 白俊毅 主講 [01:55] Xamarin.Forms 表單設計 [08:50] DEMO_Xamarin &amp;#43; Xamarin.Forms [20:20] DEMO_Xamarin.Forms 表單設計 [25:34] 類別庫程式碼的共用與分享 [29:15] DEMO_類別庫程式碼的共用與分享 [29:59] Xamarin.Forms 的依賴服務&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9537/768b08ec-fee3-4082-88eb-456d89ba9537/XamarinForms_mid.mp4</video:content_loc>
+        <video:duration>2601</video:duration>
+        <video:publication_date>2016-11-29T08:23:25.6394521+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Xamarin-Dev-Days/overview</loc>
+      <lastmod>2016-11-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/46b8/26d33a94-af11-47f3-a318-43d987de46b8/IntroductionToXamarin_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ APP  Xamarin]]></video:title>
+        <video:description><![CDATA[本課程由 微軟 Visual Studio and Development Technologies MVP - 蔡景翔 James Tsai 主講 Xamarin 是一個行動 App 開發平台，提供跨平台開發能力，開發人員透過 Xamarin 開發工具與程式語言，即可開發出 iOS、Android 與 Windows 等平台的原生應用程式。 [02:34] Xamarin 全方位的 Mobile&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/46b8/26d33a94-af11-47f3-a318-43d987de46b8/IntroductionToXamarin_mid.mp4</video:content_loc>
+        <video:duration>3053</video:duration>
+        <video:publication_date>2016-11-29T08:22:20.0612312+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

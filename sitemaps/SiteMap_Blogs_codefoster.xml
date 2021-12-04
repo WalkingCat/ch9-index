@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/codefoster</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/codefoster/033highlights</loc>
+      <lastmod>2015-08-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e95/6a7be02c-12cc-4e29-b28c-84ff79cc6e95/codechat033highlights_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CodeChat 033 Highlights for DocumentDB]]></video:title>
+        <video:description><![CDATA[Highlights for CodeChat episode 033. To view the episode in its entirety, visit http://codefoster.com/codechat/033 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e95/6a7be02c-12cc-4e29-b28c-84ff79cc6e95/codechat033highlights_mid.mp4</video:content_loc>
+        <video:duration>311</video:duration>
+        <video:publication_date>2015-08-25T19:30:43.4722469+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/codefoster/codeplex</loc>
+      <lastmod>2014-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/50b6/1db7e0d8-a87b-4dfe-a15d-431b485250b6/codeplex_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CodePlex, Git, and Visual Studio]]></video:title>
+        <video:description><![CDATA[CodePlex is a public source control and team collaboration site that allows you to use Git as the source control. The latest editions of Visual Studio have really great UI for Git projects, and the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/50b6/1db7e0d8-a87b-4dfe-a15d-431b485250b6/codeplex_mid.mp4</video:content_loc>
+        <video:duration>1088</video:duration>
+        <video:publication_date>2014-04-18T07:52:12.2046232+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/codefoster/xhrfetch</loc>
+      <lastmod>2020-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d2c/e5cfbdd9-1f20-4d98-8c0c-e284701e7d2c/XHRFetch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Retrieving remote data using xhr]]></video:title>
+        <video:description><![CDATA[You know the story. A call to a website used to be little more than a single request with its single response. But times have changed. The web is all grown up and any given visit to a website is often&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d2c/e5cfbdd9-1f20-4d98-8c0c-e284701e7d2c/XHRFetch_mid.mp4</video:content_loc>
+        <video:duration>588</video:duration>
+        <video:publication_date>2012-10-01T17:17:11.8190084+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Der-Nachfolger-von-Premium-und-Ultimate</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Der-Nachfolger-von-Premium-und-Ultimate/01-IDE-und-Debugging</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/43ab/34b8ff5e-a92f-4f94-8eba-09893b4143ab/IDEundDebugging_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01-IDE und Debugging]]></video:title>
+        <video:description><![CDATA[In diesem Modul werden die wichtigsten Features von Visual Studio Enterprise innerhalb der IDE und rund um das Thema Debugging vorgestellt. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/43ab/34b8ff5e-a92f-4f94-8eba-09893b4143ab/IDEundDebugging_mid.mp4</video:content_loc>
+        <video:duration>2040</video:duration>
+        <video:publication_date>2015-05-26T07:53:05.0957016+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Der-Nachfolger-von-Premium-und-Ultimate/02-Architecture-Tools</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/361b/1fac821e-dede-47fd-aa80-14194422361b/ArchitectureTools_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02-Architecture Tools]]></video:title>
+        <video:description><![CDATA[In diesem Modul erhalten Sie einen &#220;berblick &#252;ber die Architektur-Features von Visual Studio Enterprise. Hier werden unter anderem die Layerdiagramme, die UML Diagramme und die Architekturvalidierung&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/361b/1fac821e-dede-47fd-aa80-14194422361b/ArchitectureTools_mid.mp4</video:content_loc>
+        <video:duration>568</video:duration>
+        <video:publication_date>2015-05-26T07:52:57.2889085+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Visual-Studio-2015-Enterprise-Der-Nachfolger-von-Premium-und-Ultimate/03-Testing</loc>
+      <lastmod>2015-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5961/6e643f91-069b-4a0a-8640-d82addd95961/Testing_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03-Testing]]></video:title>
+        <video:description><![CDATA[In diesem Modul erhalten Sie einen &#220;berblick &#252;ber M&#246;glichkeiten mit Visual Studio Enterprise Software Tests durchzuf&#252;hren. Dies beinhaltet Webtests, Coded-UI Tests als auch die Ausf&#252;hrung von Tests&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5961/6e643f91-069b-4a0a-8640-d82addd95961/Testing_mid.mp4</video:content_loc>
+        <video:duration>1014</video:duration>
+        <video:publication_date>2015-05-26T07:52:42.6910696+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

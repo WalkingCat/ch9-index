@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-aplikacji-do-Windows-10</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-aplikacji-do-Windows-10/03--Migracja-aplikacji-Windows-Phone-Silverlight-do-UWP-w-praktyce</loc>
+      <lastmod>2016-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a978/a4bd0d52-442a-4436-8271-ed1e1a07a978/EntryWindow10Migration03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Migracja aplikacji Windows Phone Silverlight do UWP w praktyce]]></video:title>
+        <video:description><![CDATA[Migracja aplikacji do Windows 10 to materiał przygotowany z myślą o Microsoft Virtual Academy. Na pokazanym materiale zostanie przedstawione jak wygląda w praktyce przeprowadzenie migracji aplikacji&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a978/a4bd0d52-442a-4436-8271-ed1e1a07a978/EntryWindow10Migration03_mid.mp4</video:content_loc>
+        <video:duration>4198</video:duration>
+        <video:publication_date>2016-01-14T08:08:37.2299200+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-aplikacji-do-Windows-10/02--Migracja-aplikacji-WinRT-XAML-81-do-UWP-w-praktyce</loc>
+      <lastmod>2016-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d84/b84fefa6-973c-4653-8749-315617621d84/EntryWindow10Migration02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Migracja aplikacji WinRT XAML 8.1 do UWP w praktyce]]></video:title>
+        <video:description><![CDATA[Migracja aplikacji do Windows 10 to materiał przygotowany z myślą o Microsoft Virtual Academy. Na pokazanym materiale zostanie przedstawione jak wygląda w praktyce przeprowadzenie migracji aplikacji&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d84/b84fefa6-973c-4653-8749-315617621d84/EntryWindow10Migration02_mid.mp4</video:content_loc>
+        <video:duration>1789</video:duration>
+        <video:publication_date>2016-01-14T08:08:24.7382688+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Migracja-aplikacji-do-Windows-10/01--Wprowadzenie-do-kursu-i-omwienie-migracji-aplikacji-do-Windows-10</loc>
+      <lastmod>2016-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/56d0/7629e83f-8a7d-4a9f-b508-3d08b8e756d0/EntryWindow10Migration01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Wprowadzenie do kursu i om&#243;wienie migracji aplikacji do Windows 10]]></video:title>
+        <video:description><![CDATA[Migracja aplikacji do Windows 10 to materiał przygotowany z myślą o Microsoft Virtual Academy.  Z pokazanego na filmie materiału dowiesz się jak można migrować aplikacje do Windows 10, po co to robić,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/56d0/7629e83f-8a7d-4a9f-b508-3d08b8e756d0/EntryWindow10Migration01_mid.mp4</video:content_loc>
+        <video:duration>1430</video:duration>
+        <video:publication_date>2016-01-14T08:08:04.0870064+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

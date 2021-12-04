@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Toub</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Toub/Stephen-Toub-Parallel-Patterns-using-NET-4</loc>
+      <lastmod>2018-01-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8378/568378/ParallelPatterns2010EngineeringForum_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Stephen Toub - Implementing Parallel Patterns using .NET 4]]></video:title>
+        <video:description><![CDATA[Stephen Toub presents on implementing parallel patterns using .NET 4.  This 45-minute presentation&#39;s material is pulled from Stephen&#39;s
+
+parallel patterns paper. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8378/568378/ParallelPatterns2010EngineeringForum_ch9.mp4</video:content_loc>
+        <video:duration>2861</video:duration>
+        <video:publication_date>2010-08-20T15:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

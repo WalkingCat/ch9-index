@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/Machine-Learning</loc>
+      <lastmod>2017-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/33fa/29b80aab-d33c-4792-88ea-e432734033fa/ml_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Machine Learning]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer info: https://azure.microsoft.com/en-us/services/machine-learning/ Azure ML Cheat Sheet:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/33fa/29b80aab-d33c-4792-88ea-e432734033fa/ml_mid.mp4</video:content_loc>
+        <video:duration>1697</video:duration>
+        <video:publication_date>2016-04-08T08:58:06.7063537+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/Notification-Hubs</loc>
+      <lastmod>2016-04-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e7f/cbe60c1f-0721-4f34-bf19-35f6baf80e7f/notific_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Notification Hubs]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer om Notification Hubs: https://azure.microsoft.com/en-us/services/notification-hubs/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e7f/cbe60c1f-0721-4f34-bf19-35f6baf80e7f/notific_mid.mp4</video:content_loc>
+        <video:duration>958</video:duration>
+        <video:publication_date>2016-04-06T14:19:06.7225160+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/PaaS-SQL-DB</loc>
+      <lastmod>2016-06-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3411/c466d43a-2c98-447a-87d8-a644a9003411/sql_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PaaS SQL DB]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer om Azure PaaS SQL: https://azure.microsoft.com/en-us/services/sql-database/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3411/c466d43a-2c98-447a-87d8-a644a9003411/sql_mid.mp4</video:content_loc>
+        <video:duration>1284</video:duration>
+        <video:publication_date>2016-04-06T14:18:39.9042183+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/Mobile-App-Service</loc>
+      <lastmod>2017-01-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b92/c657de7d-6602-46ea-b9b6-f420ac9f8b92/mobileapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mobile App Service]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer om Mobile App Service: https://azure.microsoft.com/en-us/services/app-service/mobile/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b92/c657de7d-6602-46ea-b9b6-f420ac9f8b92/mobileapp_mid.mp4</video:content_loc>
+        <video:duration>738</video:duration>
+        <video:publication_date>2016-04-06T12:23:40.7493032+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/Storage-Queue</loc>
+      <lastmod>2016-04-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/10b1/293ea8d9-1029-47ea-a777-4ebf15e810b1/sq_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Queue]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer om Storage Queue: https://azure.microsoft.com/en-us/services/storage/queues/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/10b1/293ea8d9-1029-47ea-a777-4ebf15e810b1/sq_mid.mp4</video:content_loc>
+        <video:duration>833</video:duration>
+        <video:publication_date>2016-04-06T12:23:28.9664549+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/Azure-Web-App</loc>
+      <lastmod>2017-05-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b754/4e7879d0-11b4-40c3-affb-346b07bcb754/webapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Web App]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer om Azure Web App: https://azure.microsoft.com/en-us/services/app-service/web/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b754/4e7879d0-11b4-40c3-affb-346b07bcb754/webapp_mid.mp4</video:content_loc>
+        <video:duration>726</video:duration>
+        <video:publication_date>2016-04-06T12:23:15.6721656+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/Visual-Studio-Team-Services</loc>
+      <lastmod>2018-01-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/30e9/5d42c975-5165-45cb-8f3e-105acf7830e9/vsts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Team Services]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Process templates: https://msdn.microsoft.com/en-us/library/vs/alm/work/guidance/choose-process Mer om VSTS:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30e9/5d42c975-5165-45cb-8f3e-105acf7830e9/vsts_mid.mp4</video:content_loc>
+        <video:duration>727</video:duration>
+        <video:publication_date>2016-04-06T12:23:03.2395060+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Fundamentals/API-App</loc>
+      <lastmod>2018-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6265/ec7f0533-3e0a-4fa4-b1f7-ebec869f6265/apiapp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[API App]]></video:title>
+        <video:description><![CDATA[Kode: https://github.com/msdevno/Azure-Fundamentals Mer om API App: https://azure.microsoft.com/en-us/services/app-service/api/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6265/ec7f0533-3e0a-4fa4-b1f7-ebec869f6265/apiapp_mid.mp4</video:content_loc>
+        <video:duration>938</video:duration>
+        <video:publication_date>2016-04-06T12:22:48.5513462+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

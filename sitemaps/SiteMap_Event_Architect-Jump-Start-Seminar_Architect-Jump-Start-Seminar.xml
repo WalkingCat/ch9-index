@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/Architect-Jump-Start-Seminar</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/Architect-Jump-Start-Seminar/All_session</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7dae/e8830286-7275-46c4-9513-b028c8217dae/All_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(All Session) &#215;10 ]]></video:title>
+        <video:description><![CDATA[Architect Jump Start Seminar 　～クラウド時代 &#215;10 年後を見据えたアプリケーション設計原則を紐解く～ 「クラウドによって変化しつつあるアプリケーション設計の在り方」をテーマとして、長期的視野に立ったクラウド時代のアーキテクチャー設計原則を事例を交えながらご紹介し、また、日々進化を遂げているクラウド分野におけるテクノロジー最新情報をお届けいたします。 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7dae/e8830286-7275-46c4-9513-b028c8217dae/All_mid.mp4</video:content_loc>
+        <video:duration>10073</video:duration>
+        <video:publication_date>2014-10-01T06:01:23.6529950+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/Architect-Jump-Start-Seminar/Session3</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d38/ea2767f6-f690-4adc-bc9c-c46070dc2d38/Session3_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[クラウドを支える並列処理の最新動向 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d38/ea2767f6-f690-4adc-bc9c-c46070dc2d38/Session3_mid.mp4</video:content_loc>
+        <video:duration>3499</video:duration>
+        <video:publication_date>2014-10-01T06:00:42.3698856+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/Architect-Jump-Start-Seminar/Session2</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4d40/bdc95216-1b3c-49de-8e0c-221027f34d40/Session2_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure ]]></video:title>
+        <video:description><![CDATA[担当者が語る、Azure システム構築運用のポイント ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4d40/bdc95216-1b3c-49de-8e0c-221027f34d40/Session2_mid.mp4</video:content_loc>
+        <video:duration>2930</video:duration>
+        <video:publication_date>2014-10-01T05:52:16.7993318+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/Architect-Jump-Start-Seminar/Architect-Jump-Start-Seminar/Session1</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f7a8/0b69e9c8-6b36-4e3a-9833-1f1dff99f7a8/Session1_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[]]></video:title>
+        <video:description><![CDATA[クラウド展開可能なアプリケーションのための設計原則 ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f7a8/0b69e9c8-6b36-4e3a-9833-1f1dff99f7a8/Session1_mid.mp4</video:content_loc>
+        <video:duration>3642</video:duration>
+        <video:publication_date>2014-10-01T05:51:55.0474277+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

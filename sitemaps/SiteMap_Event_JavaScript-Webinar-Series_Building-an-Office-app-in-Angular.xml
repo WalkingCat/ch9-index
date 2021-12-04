@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Building-an-Office-app-in-Angular</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Building-an-Office-app-in-Angular/Building-an-Office-app-in-Angular</loc>
+      <lastmod>2016-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49de/f17e3475-35f4-4eab-8cd4-3f2481e349de/officeappangular_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building an Office app in Angular]]></video:title>
+        <video:description><![CDATA[Hundreds of millions of people are using Microsoft Office on a daily basis, across multiple platforms. With Office apps you can actually extend the Office user experience with your own functionality.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49de/f17e3475-35f4-4eab-8cd4-3f2481e349de/officeappangular_mid.mp4</video:content_loc>
+        <video:duration>3464</video:duration>
+        <video:publication_date>2016-04-29T07:41:25.8971054+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-2003</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-2003/PDC-2003-Keynote-with-Gordon-Mangione</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-2003/PDC-2003-Keynote-with-Jim-Alchin</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/297d/2b26ae52-495a-41ce-b9dd-9ee0015c297d/PDC2003KeynotewithJimAlchin_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PDC 2003 Keynote with Jim Alchin]]></video:title>
+        <video:description><![CDATA[This PDC 2003 Keynote features Jim Alchin as he shows developers what they can do with Longhorn.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/297d/2b26ae52-495a-41ce-b9dd-9ee0015c297d/PDC2003KeynotewithJimAlchin_high_ch9.mp4</video:content_loc>
+        <video:duration>7243</video:duration>
+        <video:publication_date>2011-05-20T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-2003/PDC-2003-Keynote-with-Eric-Rudder</loc>
+      <lastmod>2015-10-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b795/0b957c84-98f5-4115-bc6b-9ee0013db795/PDC2003keynotewithEricRudder_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PDC 2003 Keynote with Eric Rudder]]></video:title>
+        <video:description><![CDATA[In this PDC 2003 Keynote, Eric Rudder thanks developers for the great work they do and talks about Yukon.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b795/0b957c84-98f5-4115-bc6b-9ee0013db795/PDC2003keynotewithEricRudder_high_ch9.mp4</video:content_loc>
+        <video:duration>5256</video:duration>
+        <video:publication_date>2011-05-20T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/PDC/PDC-2003/PDC-2003-Keynote-with-Bill-Gates</loc>
+      <lastmod>2016-03-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f256/76b05b5c-f67a-4afb-b96f-9ee0013af256/PDC2003BillGatesKeynote_220_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PDC 2003 Keynote with Bill Gates]]></video:title>
+        <video:description><![CDATA[In this PDC 2003 Keynote, Bill Gates opens up the &quot;Longhorn&quot; PDC. He also takes a walk down PDC memory lane.  ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f256/76b05b5c-f67a-4afb-b96f-9ee0013af256/PDC2003BillGatesKeynote_high_ch9.mp4</video:content_loc>
+        <video:duration>2237</video:duration>
+        <video:publication_date>2011-05-20T20:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

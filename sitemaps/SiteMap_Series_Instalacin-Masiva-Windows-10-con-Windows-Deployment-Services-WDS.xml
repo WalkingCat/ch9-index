@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS/Configuracin-DHCP-para-WDS</loc>
+      <lastmod>2016-01-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2b1/24f6ade6-7c59-421d-a657-a7f77782b2b1/configuracionDHCPparaWdS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuraci&#243;n DHCP para WDS ]]></video:title>
+        <video:description><![CDATA[Video 01 de 06: En este video se realiza la configuraci&#243;n del servicio DHCP para poder utilizar Windows Deployment Services en Windows Server 2016 TP4 integrado con el directorio active (AD) ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2b1/24f6ade6-7c59-421d-a657-a7f77782b2b1/configuracionDHCPparaWdS_mid.mp4</video:content_loc>
+        <video:duration>336</video:duration>
+        <video:publication_date>2015-12-28T21:32:13.0756234+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS/Instalacin-WDS-en-Windows-Server-2016</loc>
+      <lastmod>2017-12-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a2d/b234ddba-e66c-4fc4-98c0-5b27b39e2a2d/InstalacionWDSenWindowsServer2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instalaci&#243;n WDS en Windows Server 2016 ]]></video:title>
+        <video:description><![CDATA[Video 02 de 06: en este video se realiza la instalaci&#243;n y configuraci&#243;n de Windows Deployment Services para la instalaci&#243;n b&#225;sica de Windows 10 en Windows Server 2016 TP4. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a2d/b234ddba-e66c-4fc4-98c0-5b27b39e2a2d/InstalacionWDSenWindowsServer2016_mid.mp4</video:content_loc>
+        <video:duration>499</video:duration>
+        <video:publication_date>2015-12-28T21:32:09.7454972+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS/Instalacin-Limpia-Windows-10-con-Windows-Deployment-Services</loc>
+      <lastmod>2019-08-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9a4e/f982840c-b12e-43a5-ad4a-e5507eab9a4e/InstalacionWindows10conWindowsDeploymentServices_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instalaci&#243;n Limpia Windows 10 con Windows Deployment Services (WDS)  ]]></video:title>
+        <video:description><![CDATA[Video 03 de 06: En este video se realiza la instalaci&#243;n de Windows 10 utilizando Windows Deployment Services en Windows Server 2016 TP4. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9a4e/f982840c-b12e-43a5-ad4a-e5507eab9a4e/InstalacionWindows10conWindowsDeploymentServices_mid.mp4</video:content_loc>
+        <video:duration>484</video:duration>
+        <video:publication_date>2015-12-28T21:32:00.7485471+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS/Configuracin-Imagen-Captura-WDS</loc>
+      <lastmod>2019-09-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7cef/c0cc2ac4-74fd-4bf0-8087-66c690a57cef/ConfiguracionImagenCapturaWDS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Configuraci&#243;n Imagen Captura WDS ]]></video:title>
+        <video:description><![CDATA[Video 04 de 06: En este video se realiza la configuraci&#243;n de una imagen para poder capturar una instalaci&#243;n customizada de Windows 10 con Windows Deployment Services en Windows Server 2016 TP4. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7cef/c0cc2ac4-74fd-4bf0-8087-66c690a57cef/ConfiguracionImagenCapturaWDS_mid.mp4</video:content_loc>
+        <video:duration>227</video:duration>
+        <video:publication_date>2015-12-28T21:31:52.6593752+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS/Capturar-imagen-Windows-10-en-Servidor-WDS</loc>
+      <lastmod>2017-12-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ca29/0c1e66a3-c590-4cf3-9654-0aed68f5ca29/CapturarimagenWindows10enServidorWDS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Capturar imagen Windows 10 en Servidor WDS ]]></video:title>
+        <video:description><![CDATA[Video 05 de 06: en este video se realizan los pasos necesarios para preparar Windows 10 (Sysprep) con el fin de poder realizar la captura de una imagen customizada de Windows 10 con aplicaciones para&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ca29/0c1e66a3-c590-4cf3-9654-0aed68f5ca29/CapturarimagenWindows10enServidorWDS_mid.mp4</video:content_loc>
+        <video:duration>635</video:duration>
+        <video:publication_date>2015-12-28T21:31:46.4519530+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Instalacin-Masiva-Windows-10-con-Windows-Deployment-Services-WDS/Instalacin-imagen-customizada-utilizando-WDS-PXE</loc>
+      <lastmod>2018-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff95/88744a00-9915-4a9a-a570-f463b042ff95/InstalacionimagenCustomizadaUtilizandoWDS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Instalaci&#243;n imagen customizada utilizando WDS (PXE) ]]></video:title>
+        <video:description><![CDATA[Video 06 de 06: En este video se realiza la instalaci&#243;n de una imagen customizada de Windows 10 utilizando Windows Deployment Services en Windows Server 2016 TP4.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff95/88744a00-9915-4a9a-a570-f463b042ff95/InstalacionimagenCustomizadaUtilizandoWDS_mid.mp4</video:content_loc>
+        <video:duration>388</video:duration>
+        <video:publication_date>2015-12-28T21:31:37.4019280+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

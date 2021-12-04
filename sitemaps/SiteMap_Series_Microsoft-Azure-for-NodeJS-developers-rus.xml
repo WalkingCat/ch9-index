@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers-rus</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers-rus/04</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/64c9/9d1500da-3fec-45d2-b331-2a682af564c9/04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 |      Node.JS    Azure &amp;#8230;]]></video:title>
+        <video:description><![CDATA[Сначала &amp;#1084;ы поговори&amp;#1084; о реко&amp;#1084;ендуе&amp;#1084;ых практиках, и шаблонах разработки эластичного и &amp;#1084;асштабируе&amp;#1084;ого приложения с использование&amp;#1084; Node.Js. Во второй части&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/64c9/9d1500da-3fec-45d2-b331-2a682af564c9/04.mp4</video:content_loc>
+        <video:duration>3245</video:duration>
+        <video:publication_date>2015-12-28T14:41:18.1733112+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers-rus/03</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1420/c06e08a7-0ac8-4c25-9a8c-b62acf921420/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 |  Node.JS   Azure]]></video:title>
+        <video:description><![CDATA[Во вре&amp;#1084;я этого де&amp;#1084;о &amp;#1084;ы детально пройде&amp;#1084;ся по существующи&amp;#1084; способа&amp;#1084; развертывания NodeJS приложения на Azure Web Apps. Расс&amp;#1084;отри&amp;#1084; все доступные способы&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1420/c06e08a7-0ac8-4c25-9a8c-b62acf921420/03_mid.mp4</video:content_loc>
+        <video:duration>3122</video:duration>
+        <video:publication_date>2015-12-28T14:41:16.1108956+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers-rus/02</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/655b/d9bfcd10-bd98-476c-81ac-25f14ea3655b/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 |     Azure  Node.JS ]]></video:title>
+        <video:description><![CDATA[Здесь &amp;#1084;ы расс&amp;#1084;отри&amp;#1084; какие сервисы есть в Azure для хранения данных. Мы расс&amp;#1084;отри&amp;#1084; сервисы для реляционных данных, для хранения больших неструктурированных бинарных данных&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/655b/d9bfcd10-bd98-476c-81ac-25f14ea3655b/02_mid.mp4</video:content_loc>
+        <video:duration>3707</video:duration>
+        <video:publication_date>2015-12-28T14:41:14.1734801+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-for-NodeJS-developers-rus/01</loc>
+      <lastmod>2015-12-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8948/f32a091b-79c7-4af7-8666-e80632478948/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 |  Azure  Node.JS ]]></video:title>
+        <video:description><![CDATA[В начале &amp;#1084;ы расс&amp;#1084;отри&amp;#1084; какие сервисы в Azure &amp;#1084;огут быть интересны Node.Js разработчику, о разных способах раз&amp;#1084;ещения приложений в облаке, какие преи&amp;#1084;ущества они&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8948/f32a091b-79c7-4af7-8666-e80632478948/01_mid.mp4</video:content_loc>
+        <video:duration>4220</video:duration>
+        <video:publication_date>2015-12-28T14:41:12.4223906+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

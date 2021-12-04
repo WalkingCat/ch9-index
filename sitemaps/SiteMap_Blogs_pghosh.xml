@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pghosh</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/pghosh/The-NY-TimesSilverlight-Open-API-toolkit</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/8/3/5/7/4/NYTimesSLKitInterview_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[The NY Times/Silverlight Open API toolkit]]></video:title>
+        <video:description><![CDATA[
+Since The New York Times has just recently released a set of open news content APIs (NY Times APIs) and accompanying Silverlight kit
+ to the developer community at large we wanted the full story&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/8/3/5/7/4/NYTimesSLKitInterview_ch9.mp4</video:content_loc>
+        <video:duration>713</video:duration>
+        <video:publication_date>2009-06-25T17:36:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

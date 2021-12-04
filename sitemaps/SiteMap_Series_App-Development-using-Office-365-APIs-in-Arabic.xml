@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/App-Development-using-Office-365-APIs-in-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/App-Development-using-Office-365-APIs-in-Arabic/O365-Development-Fundamentals-in-Arabic</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a7f/744df4ae-69c2-4c58-8e4f-978778802a7f/O365DevFundamentalsArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[O365 Development Fundamentals in Arabic]]></video:title>
+        <video:description><![CDATA[Hello O365 dev world! This module starts with highlighting the dev opportunity on top of O365 platform then covers the available development scenarios, O365 dev platform, discovery services and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a7f/744df4ae-69c2-4c58-8e4f-978778802a7f/O365DevFundamentalsArabic_mid.mp4</video:content_loc>
+        <video:duration>1106</video:duration>
+        <video:publication_date>2016-02-22T11:47:22.8980739+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/App-Development-using-Office-365-APIs-in-Arabic/Authentication-using-Azure-Active-Directory-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/67c2/92b62221-5de8-43b9-b44e-493217d767c2/AuthenticationAzureDirectArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Authentication using Azure Active Directory in Arabic]]></video:title>
+        <video:description><![CDATA[The Office 365 API services use Azure Active Directory (Azure AD) to provide secure authentication and authorization to users&#39; Office 365 data. This module starts with highlighting Azure AD&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/67c2/92b62221-5de8-43b9-b44e-493217d767c2/AuthenticationAzureDirectArabic_mid.mp4</video:content_loc>
+        <video:duration>1553</video:duration>
+        <video:publication_date>2016-02-22T11:47:19.0668984+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/App-Development-using-Office-365-APIs-in-Arabic/O365-App-Development-using-Graph-REST-API--Part-1-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4543/0827f4ae-9d57-4314-8c5b-58aa75b04543/O365AppDevPart1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[O365 App Development using Graph REST API  Part 1 in Arabic]]></video:title>
+        <video:description><![CDATA[The Office 365 APIs enable you to provide access to your customer&#39;s Office 365 data like their mail, calendars, contacts, users and groups, files, and folders all right from within your app itself. In&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4543/0827f4ae-9d57-4314-8c5b-58aa75b04543/O365AppDevPart1_mid.mp4</video:content_loc>
+        <video:duration>1453</video:duration>
+        <video:publication_date>2016-02-22T11:47:16.7309359+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/App-Development-using-Office-365-APIs-in-Arabic/O365-App-Development-using-Graph-REST-API--Part-2-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/48aa/db1c1419-96ed-488e-9695-7c29848448aa/O365AppDevPart2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[O365 App Development using Graph REST API  Part 2 in Arabic]]></video:title>
+        <video:description><![CDATA[provide access to your customer&#39;s Office 365 data like their mail, calendars, contacts, users and groups, files, and folders all right from within your app itself. In this module, you will learn how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/48aa/db1c1419-96ed-488e-9695-7c29848448aa/O365AppDevPart2_mid.mp4</video:content_loc>
+        <video:duration>1087</video:duration>
+        <video:publication_date>2016-02-22T11:47:10.3268550+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/App-Development-using-Office-365-APIs-in-Arabic/O365-App-Development-using-SDKs-in-Arabic</loc>
+      <lastmod>2016-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/239b/085ec4bc-46c7-4fad-8aaf-494a8410239b/O365AppDevArabic_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[O365 App Development using SDKs in Arabic]]></video:title>
+        <video:description><![CDATA[Office 365 SDKs make app development easier! Let&#39;s learn how to build mobile apps using the client libraries instead of programming directly against the REST APIs. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/239b/085ec4bc-46c7-4fad-8aaf-494a8410239b/O365AppDevArabic_mid.mp4</video:content_loc>
+        <video:duration>722</video:duration>
+        <video:publication_date>2016-02-22T11:47:07.2051943+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

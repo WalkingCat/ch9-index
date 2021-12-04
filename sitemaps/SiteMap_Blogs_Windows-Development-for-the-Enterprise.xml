@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Development-for-the-Enterprise</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Development-for-the-Enterprise/Building-Apps-with-Microsoft-Azure-Active-Directory</loc>
+      <lastmod>2017-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3c37/a87015a3-ef16-47bd-b27e-0b8980093c37/AzureAD_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Apps with Microsoft Azure Active Directory]]></video:title>
+        <video:description><![CDATA[Learn how Azure Active Directory can enable authorization and authentication in your application. This video highlights a common Azure Active Directory integration scenario between your client&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3c37/a87015a3-ef16-47bd-b27e-0b8980093c37/AzureAD_mid.mp4</video:content_loc>
+        <video:duration>85</video:duration>
+        <video:publication_date>2017-02-22T19:39:47.8065286+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Development-for-the-Enterprise/Securing-Enterprise-Data-with-Windows-Information-Protection</loc>
+      <lastmod>2017-06-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e58/063fca6e-c3b4-4c14-900f-1ecfc3ec6e58/WindowsInformationProtection_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Securing Enterprise Data with Windows Information Protection]]></video:title>
+        <video:description><![CDATA[Learn about Windows Information Protection. It&#39;s a new security feature in Windows 10, and this video will show you how administrators use it to protect organizational data on devices.  Also learn how&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e58/063fca6e-c3b4-4c14-900f-1ecfc3ec6e58/WindowsInformationProtection_mid.mp4</video:content_loc>
+        <video:duration>123</video:duration>
+        <video:publication_date>2017-01-12T19:58:19.6214162+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Windows-Development-for-the-Enterprise/Using-Microsoft-Graph-with-Cortana</loc>
+      <lastmod>2017-11-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8de/2db830e1-6b81-4f88-ac2c-79790a50e8de/MSGraphWithCortana_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Microsoft Graph with Cortana]]></video:title>
+        <video:description><![CDATA[The MeetingBot sample shows how to integrate Microsoft Graph capabilities into an app that uses Cortana voice commands.  Watch the video to see an overview of the sample and then check out the source&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8de/2db830e1-6b81-4f88-ac2c-79790a50e8de/MSGraphWithCortana_mid.mp4</video:content_loc>
+        <video:duration>110</video:duration>
+        <video:publication_date>2016-10-25T20:38:46.7241817+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

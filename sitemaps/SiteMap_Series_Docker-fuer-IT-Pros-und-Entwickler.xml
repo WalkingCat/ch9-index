@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-fuer-IT-Pros-und-Entwickler</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-fuer-IT-Pros-und-Entwickler/03-Vernetzen-und-Publizieren</loc>
+      <lastmod>2015-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f152/54db4005-3cac-46cd-96cf-4c51244bf152/VernetzenUndPublizieren_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Vernetzen und Publizieren]]></video:title>
+        <video:description><![CDATA[Wir erstellen vernetzte Container images und linken das lokale Dateisystem in einen Container. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f152/54db4005-3cac-46cd-96cf-4c51244bf152/VernetzenUndPublizieren_mid.mp4</video:content_loc>
+        <video:duration>2025</video:duration>
+        <video:publication_date>2015-02-23T12:22:41.4006928+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-fuer-IT-Pros-und-Entwickler/02-Arbeiten-mit-Containern</loc>
+      <lastmod>2015-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3a6b/34f12f5f-b001-4334-8cbc-63ae12a33a6b/ArbeitenMitContainern_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Arbeiten mit Containern]]></video:title>
+        <video:description><![CDATA[Wir laden Images und erstellen erste Container mit denen wir arbeiten. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3a6b/34f12f5f-b001-4334-8cbc-63ae12a33a6b/ArbeitenMitContainern_mid.mp4</video:content_loc>
+        <video:duration>1202</video:duration>
+        <video:publication_date>2015-02-23T12:22:28.4206596+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Docker-fuer-IT-Pros-und-Entwickler/01-Docker-Grundlagen</loc>
+      <lastmod>2015-02-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f192/865dcf66-3e1e-474e-adad-96440ebbf192/DockerGrundlagen_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Docker Grundlagen]]></video:title>
+        <video:description><![CDATA[Dieses Modul zeigt die Problematik die es heute beim Anwendungsdeployment gibt und wie die Container Technologie hier helfen kann. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f192/865dcf66-3e1e-474e-adad-96440ebbf192/DockerGrundlagen_mid.mp4</video:content_loc>
+        <video:duration>1908</video:duration>
+        <video:publication_date>2015-02-23T12:22:04.3367735+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

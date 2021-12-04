@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Storys-mit-Twine-und-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Storys-mit-Twine-und-Azure/04--Bilder-und-CSS</loc>
+      <lastmod>2015-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1f5c/6eec818f-8e88-47b2-96c8-26fa3a191f5c/BilderCSS_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[04 | Bilder und CSS]]></video:title>
+        <video:description><![CDATA[Zu guter Letzt f&#252;gen wir Bild- und Tonmaterial zu unserer Geschichte hinzu und lernen, wie wir das Format einer kompletten Geschichte anpassen k&#246;nnen. Dazu verwenden wir CSS. Das Erlernte setzen wir&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1f5c/6eec818f-8e88-47b2-96c8-26fa3a191f5c/BilderCSS_mid.mp4</video:content_loc>
+        <video:duration>1746</video:duration>
+        <video:publication_date>2015-07-31T12:42:30.4048312+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Storys-mit-Twine-und-Azure/03--Speichern-und-Hochladen</loc>
+      <lastmod>2015-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2ea3/20ac0b0c-f86f-4fa5-888b-168261682ea3/SaveUpload_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 | Speichern und Hochladen]]></video:title>
+        <video:description><![CDATA[Unsere Geschichte kann sich schon sehen lassen! Beginnen wir, sie zu exportieren. Dann verwenden wir ein Konto auf Microsoft Azure, um einen Webspace zu erzeugen und unsere Geschichte dort&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2ea3/20ac0b0c-f86f-4fa5-888b-168261682ea3/SaveUpload_mid.mp4</video:content_loc>
+        <video:duration>664</video:duration>
+        <video:publication_date>2015-07-31T12:41:58.7533328+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Storys-mit-Twine-und-Azure/02--Texte-gestalten</loc>
+      <lastmod>2015-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/55df/ff06d275-f5ad-4311-8380-87063df555df/FormatText_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 | Texte gestalten]]></video:title>
+        <video:description><![CDATA[Wir haben die Texte geschrieben, m&#246;chten aber hier und da ein paar Stellen formatieren - hervorheben, aufz&#228;hlen, aufteilen. In diesem Kapitel geht es um einige grundlegende Formatierungsm&#246;glichkeiten. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/55df/ff06d275-f5ad-4311-8380-87063df555df/FormatText_mid.mp4</video:content_loc>
+        <video:duration>1093</video:duration>
+        <video:publication_date>2015-07-31T12:41:41.1546525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Interaktive-Storys-mit-Twine-und-Azure/01--Anlegen-und-Aufbau-der-Geschichte</loc>
+      <lastmod>2015-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7170/b7efbdd5-e4d0-4ff2-ad7e-e345b06e7170/CreateStory_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 | Anlegen und Aufbau der Geschichte]]></video:title>
+        <video:description><![CDATA[Im ersten Kapitel lernen wir die Umgebung von Twine kennen. Wir erstellen eine erste kleine Geschichte mit unterschiedlichen Verzweigungen und Handlungsstr&#228;ngen, die miteinander verkn&#252;pft sind. Damit&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7170/b7efbdd5-e4d0-4ff2-ad7e-e345b06e7170/CreateStory_mid.mp4</video:content_loc>
+        <video:duration>1396</video:duration>
+        <video:publication_date>2015-07-31T12:41:17.9422689+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

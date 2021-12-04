@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC/06</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6d83/8e8a81f2-c3e8-41f7-be4e-d5b6fb906d83/507ManagingExchangeEACPSRBACM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Exchange Server 2013 Using EAC, PowerShell, &amp; RBAC: (06) Auditing in Exchange Server 2013]]></video:title>
+        <video:description><![CDATA[Take a look at the two primary forms of auditing in Exchange Server 2013: administrator audit logging and mailbox audit logging. For the former, review what gets audited and how audit logging is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6d83/8e8a81f2-c3e8-41f7-be4e-d5b6fb906d83/507ManagingExchangeEACPSRBACM06_mid.mp4</video:content_loc>
+        <video:duration>1983</video:duration>
+        <video:publication_date>2014-12-16T18:14:31.0518477+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC/05</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36d9/6d1323a6-16cb-4b10-b137-1d77a64e36d9/507ManagingExchangeEACPSRBACM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Exchange Server 2013 Using EAC, PowerShell, &amp; RBAC: (05) Troubleshooting RBAC]]></video:title>
+        <video:description><![CDATA[Find out the most effective questions to ask and what data you should gather to help troubleshoot RBAC issues. Address these concerns, and explore how to solve the most common RBAC problems&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36d9/6d1323a6-16cb-4b10-b137-1d77a64e36d9/507ManagingExchangeEACPSRBACM05_mid.mp4</video:content_loc>
+        <video:duration>2589</video:duration>
+        <video:publication_date>2014-12-16T18:14:12.6738489+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC/04</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e952/2c532616-f98b-43e2-a390-a582428de952/507ManagingExchangeEACPSRBACM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Exchange Server 2013 Using EAC, PowerShell, &amp; RBAC: (04) Putting RBAC Together]]></video:title>
+        <video:description><![CDATA[Analyze the RBAC triangle of power, with a review of the built-in management role groups, where they are stored, and organization-wide enforcement. In addition, take a look at required Active&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e952/2c532616-f98b-43e2-a390-a582428de952/507ManagingExchangeEACPSRBACM04_mid.mp4</video:content_loc>
+        <video:duration>2594</video:duration>
+        <video:publication_date>2014-12-16T18:13:55.7845455+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC/03</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/148f/9df39031-b64d-41f8-8ac0-54be3e26148f/507ManagingExchangeEACPSRBACM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Exchange Server 2013 Using EAC, PowerShell, &amp; RBAC: (03) RBAC Components]]></video:title>
+        <video:description><![CDATA[Build on your basic foundation of RBAC knowledge with a look at RBAC components, including roles, role entries, role groups, role assignment policy, scope, custom role groups, explicit scope filters,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/148f/9df39031-b64d-41f8-8ac0-54be3e26148f/507ManagingExchangeEACPSRBACM03_mid.mp4</video:content_loc>
+        <video:duration>2674</video:duration>
+        <video:publication_date>2014-12-16T18:13:41.8560851+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC/02</loc>
+      <lastmod>2017-07-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e29/437fffac-d091-4b20-8c33-c38951769e29/507ManagingExchangeEACPSRBACM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Exchange Server 2013 Using EAC, PowerShell, &amp; RBAC: (02) What is RBAC?]]></video:title>
+        <video:description><![CDATA[Review the challenges of maintaining management roles prior to Exchange 2010. Get an introduction to RBAC and the RBAC triangle of power, explore the advantages of using RBAC to manage Exchange Server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e29/437fffac-d091-4b20-8c33-c38951769e29/507ManagingExchangeEACPSRBACM02_mid.mp4</video:content_loc>
+        <video:duration>2394</video:duration>
+        <video:publication_date>2014-12-16T18:13:29.9521970+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Managing-Exchange-Server-2013-Using-EAC-PowerShell--RBAC/01</loc>
+      <lastmod>2018-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe53/49c71220-9c0c-4e3b-b02d-81846de7fe53/507ManagingExchangeEACPSRBACM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Exchange Server 2013 Using EAC, PowerShell, &amp; RBAC: (01) Exchange Management Tools]]></video:title>
+        <video:description><![CDATA[Examine the evolution of Exchange Server managements tools, including the Exchange Administration Center (EAC) and Exchange Management Shell (PowerShell). Students who are new to PowerShell get a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe53/49c71220-9c0c-4e3b-b02d-81846de7fe53/507ManagingExchangeEACPSRBACM01_mid.mp4</video:content_loc>
+        <video:duration>3288</video:duration>
+        <video:publication_date>2014-12-16T18:13:13.1775656+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

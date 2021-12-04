@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Publicando-um-WebSite-no-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Publicando-um-WebSite-no-Azure/Publicando-um-Website-no-Azure-Parte-2</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1786/4d626681-5b52-4abc-a2e6-304d69061786/PublicandoumWebsitenoAzureParte2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publicando um Website no Azure - Parte 2]]></video:title>
+        <video:description><![CDATA[Publicando um projeto existente no Azure Web Sites a partir do Visual Studio. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1786/4d626681-5b52-4abc-a2e6-304d69061786/PublicandoumWebsitenoAzureParte2_mid.mp4</video:content_loc>
+        <video:duration>450</video:duration>
+        <video:publication_date>2017-01-25T22:51:27.5231505+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Publicando-um-WebSite-no-Azure/Publicando-um-Website-no-Azure-Parte-1</loc>
+      <lastmod>2020-06-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/dbee/06fcd9b2-28cd-499c-88f1-c8196009dbee/PublicandoAzureParte1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Publicando um Website no Azure - Parte 1]]></video:title>
+        <video:description><![CDATA[Este v&#237;deo explica como criar e publicar um WebSite no Azure usando o Visual Studio ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dbee/06fcd9b2-28cd-499c-88f1-c8196009dbee/PublicandoAzureParte1_mid.mp4</video:content_loc>
+        <video:duration>676</video:duration>
+        <video:publication_date>2017-01-25T14:58:25.6488019+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/officedev-raw-tech</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/officedev-raw-tech/Jamespot-Demo</loc>
+      <lastmod>2020-06-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/f3be/bf23ac03-2cbf-432a-89f8-30014561f3be/JamespotConnecteur_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Jamespot-Demo]]></video:title>
+        <video:description><![CDATA[Jamespot est une offre 100% SaaS et 100% d&#233;di&#233;e &#224; la r&#233;ussite d&#39;un projet collaboratif.  Jamespot est hautement configurable selon des contextes m&#233;tiers gr&#226;ce &#224; un catalogue compos&#233; de plus de 80&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f3be/bf23ac03-2cbf-432a-89f8-30014561f3be/JamespotConnecteur_mid.mp4</video:content_loc>
+        <video:duration>141</video:duration>
+        <video:publication_date>2016-12-19T13:13:53.4307216+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

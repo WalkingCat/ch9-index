@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/Release-Management-demo</loc>
+      <lastmod>2020-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8087/c10e1aaa-de5d-48cd-bd28-8631727c8087/DevOpsUA07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Release Management (demo)]]></video:title>
+        <video:description><![CDATA[При&amp;#1084;ер настройки Release Management на базе Visual Studio Team Services. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8087/c10e1aaa-de5d-48cd-bd28-8631727c8087/DevOpsUA07_mid.mp4</video:content_loc>
+        <video:duration>245</video:duration>
+        <video:publication_date>2016-10-19T13:56:24.4240357+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/Release-Management</loc>
+      <lastmod>2020-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2d78/34217ef0-7e2f-4e00-b10d-eb1e1d6f2d78/DevOpsUA06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Release Management]]></video:title>
+        <video:description><![CDATA[Не&amp;#1084;ного о практике Release Management. Что она из себя представляет, какие вопросы позволит решить и че&amp;#1084; отличается от Continuous Deployment. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d78/34217ef0-7e2f-4e00-b10d-eb1e1d6f2d78/DevOpsUA06_mid.mp4</video:content_loc>
+        <video:duration>402</video:duration>
+        <video:publication_date>2016-10-19T13:55:12.3488256+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/Enabling-DevTest-in-Azure-demo</loc>
+      <lastmod>2020-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/e5d9/83c8555e-3d09-4ffe-8c00-29e4dafce5d9/DevOpsUA05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enabling DevTest in Azure (demo)]]></video:title>
+        <video:description><![CDATA[Практика настройки DevTest лабораторий в облаке Microsoft Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e5d9/83c8555e-3d09-4ffe-8c00-29e4dafce5d9/DevOpsUA05_mid.mp4</video:content_loc>
+        <video:duration>748</video:duration>
+        <video:publication_date>2016-10-19T13:33:31.0217161+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/Enabling-DevTest-in-Azure</loc>
+      <lastmod>2020-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2fb4/0e262b6c-f36e-467f-93d3-cc86ee802fb4/DevOpsUA04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enabling DevTest in Azure]]></video:title>
+        <video:description><![CDATA[Не&amp;#1084;ного о то&amp;#1084;, что такое DevTest лаборатории и как они &amp;#1084;огут по&amp;#1084;очь на&amp;#1084; в процессе разработки и тестировании приложений. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2fb4/0e262b6c-f36e-467f-93d3-cc86ee802fb4/DevOpsUA04_mid.mp4</video:content_loc>
+        <video:duration>1179</video:duration>
+        <video:publication_date>2016-10-19T13:32:32.5171827+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/Continuous-Deployment-demo</loc>
+      <lastmod>2020-06-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5d08/3013548f-f166-4165-a5f5-04c9108d5d08/DevOpsUA03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Deployment (demo)]]></video:title>
+        <video:description><![CDATA[Настройка Continuous Deployment используя Visual Studio Team Services. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d08/3013548f-f166-4165-a5f5-04c9108d5d08/DevOpsUA03_mid.mp4</video:content_loc>
+        <video:duration>588</video:duration>
+        <video:publication_date>2016-10-19T13:29:41.2673831+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/Continuous-Deployment</loc>
+      <lastmod>2017-02-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2b57/58918432-2b59-4e0b-a658-9a2234192b57/DevOpsUA02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Continuous Deployment]]></video:title>
+        <video:description><![CDATA[Не&amp;#1084;ного про практику Continuous Deployment. В че&amp;#1084; она заключается, какие задачи позволяет решить и как из&amp;#1084;ерить успешность внедрения практики на проекте. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2b57/58918432-2b59-4e0b-a658-9a2234192b57/DevOpsUA02_mid.mp4</video:content_loc>
+        <video:duration>436</video:duration>
+        <video:publication_date>2016-10-19T13:26:45.6491076+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/DevOpsUA/DevOps-story</loc>
+      <lastmod>2019-01-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/01c2/bb251f84-14c2-48ed-a315-9b404d9c01c2/DevOpsUA01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[DevOps story]]></video:title>
+        <video:description><![CDATA[Что такое DevOps в цело&amp;#1084; и поче&amp;#1084;у это важно. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/01c2/bb251f84-14c2-48ed-a315-9b404d9c01c2/DevOpsUA01_mid.mp4</video:content_loc>
+        <video:duration>1059</video:duration>
+        <video:publication_date>2016-10-19T13:22:58.9450183+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Deploying-Angular-to-Azure</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Deploying-Angular-to-Azure/Deploying-Angular-to-Azure</loc>
+      <lastmod>2017-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6c79/5422e812-536f-4dc2-b41d-6b516f5d6c79/angulartoazure_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deploying Angular to Azure]]></video:title>
+        <video:description><![CDATA[Microsoft Azure is a cloud computing platform that allows you to host web applications without having to deal with the underlying infrastructure. Whether you prefer running your site on a Linux or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6c79/5422e812-536f-4dc2-b41d-6b516f5d6c79/angulartoazure_mid.mp4</video:content_loc>
+        <video:duration>2280</video:duration>
+        <video:publication_date>2016-03-18T14:55:54.7691558+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

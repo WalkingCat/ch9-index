@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Philo589</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Philo589/Dimension-Security-in-SQL-Server-Analysis-Services</loc>
+      <lastmod>2017-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Philo589/InfoPath-and-SharePoint</loc>
+      <lastmod>2013-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8f2e/03b3c62d-e7ce-4868-9e61-19ad11a68f2e/InfoPath-and-SharePoint_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[InfoPath and SharePoint]]></video:title>
+        <video:description><![CDATA[After some concerns that connecting InfoPath to a database table was going too far for non-IT power users, I&#39;m following up showing InfoPath integration with SharePoint - no database&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8f2e/03b3c62d-e7ce-4868-9e61-19ad11a68f2e/InfoPath-and-SharePoint_mid.mp4</video:content_loc>
+        <video:duration>522</video:duration>
+        <video:publication_date>2007-09-28T04:59:18.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Philo589/Overview-of-Analysis-Services-whats-in-it-for-me</loc>
+      <lastmod>2017-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a3fa/56cf078e-446f-470e-85b3-56807412a3fa/Overview-of-Analysis-Services-whats-in-it-for-me_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Overview of Analysis Services - what&#39;s in it for me?]]></video:title>
+        <video:description><![CDATA[SQL Server Analysis Services is a very powerful tool, which was introduced with SQL Server 2000. In SQL Server 2005 it is far more powerful, but still underappreciated by a lot of developers. This is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a3fa/56cf078e-446f-470e-85b3-56807412a3fa/Overview-of-Analysis-Services-whats-in-it-for-me_mid.mp4</video:content_loc>
+        <video:duration>542</video:duration>
+        <video:publication_date>2007-09-24T17:27:59.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Philo589/Using-InfoPath-to-design-database-forms</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a463/fccc94cf-2b80-4536-a5ac-5cb6350da463/Using-InfoPath-to-design-database-forms_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using InfoPath to design database forms]]></video:title>
+        <video:description><![CDATA[
+Microsoft introduced InfoPath 
+in 2003, yet it seems to have escaped the notice of a lot of folks. In this short screencast I show how easy it is to connect InfoPath to a database for basic CRUD&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a463/fccc94cf-2b80-4536-a5ac-5cb6350da463/Using-InfoPath-to-design-database-forms_mid.mp4</video:content_loc>
+        <video:duration>487</video:duration>
+        <video:publication_date>2007-09-20T15:33:31.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

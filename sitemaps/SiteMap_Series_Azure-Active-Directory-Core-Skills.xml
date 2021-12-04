@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills/06</loc>
+      <lastmod>2018-04-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/49cd/3a82624f-9c5f-4bde-9e04-9953dbc849cd/730AzureADCoreSkillsM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory Core Skills: (06) Azure AD MFA]]></video:title>
+        <video:description><![CDATA[Learn how to enable, configure, and manage Multi-Factor Authentication (MFA) from Azure AD. Explore how to configure advanced options, and gain an understanding of how MFA can help secure your users.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/49cd/3a82624f-9c5f-4bde-9e04-9953dbc849cd/730AzureADCoreSkillsM06_mid.mp4</video:content_loc>
+        <video:duration>1441</video:duration>
+        <video:publication_date>2015-03-27T22:36:18.5742784+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills/05</loc>
+      <lastmod>2018-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4b5a/ba93dd1b-8df7-40ea-8598-fbb8a6244b5a/730AzureADCoreSkillsM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory Core Skills: (05) Azure AD Apps (Including Proxy)]]></video:title>
+        <video:description><![CDATA[Find out why applications are such an important part of an identity strategy and how to enable single sign-on to thousands of applications. Simon and Nasos uncover some of the more interesting types&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4b5a/ba93dd1b-8df7-40ea-8598-fbb8a6244b5a/730AzureADCoreSkillsM05_mid.mp4</video:content_loc>
+        <video:duration>1775</video:duration>
+        <video:publication_date>2015-03-27T22:36:07.8018914+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f650/84e974fd-8f4b-49b2-b3ef-90c3f075f650/730AzureADCoreSkillsM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory Core Skills: (04) Azure AD Sync Service]]></video:title>
+        <video:description><![CDATA[Learn about the options for syncing your on-premises Windows Server Active Directory to Azure AD. Hear what&#39;s involved with sync and how you can have granular control over which users and attributes&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f650/84e974fd-8f4b-49b2-b3ef-90c3f075f650/730AzureADCoreSkillsM04_mid.mp4</video:content_loc>
+        <video:duration>1196</video:duration>
+        <video:publication_date>2015-03-27T22:35:57.4338869+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4b8c/bcdbdabd-afe0-48b2-8b2d-971a46b94b8c/730AzureADCoreSkillsM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory Core Skills: (03) Azure AD Users, Groups, and Authentication]]></video:title>
+        <video:description><![CDATA[Walk step by step with your hosts, Simon May and Nasos Kladakis, through user accounts and groups in Azure AD. Find out how you can build a solid foundation by consolidating on Azure AD. [03:43] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4b8c/bcdbdabd-afe0-48b2-8b2d-971a46b94b8c/730AzureADCoreSkillsM03_mid.mp4</video:content_loc>
+        <video:duration>1813</video:duration>
+        <video:publication_date>2015-03-27T22:35:47.9112748+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4dc8/110eb5ae-a9fa-41c8-a8b8-e644cd7b4dc8/730AzureADCoreSkillsM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory Core Skills: (02) Brad Anderson Keynote and Solution Demo]]></video:title>
+        <video:description><![CDATA[Your host, Simon May, is joined by Brad Anderson, Microsoft CVP Enterprise Client and Mobility. Brad helps you understand some of the fundamental reasons that your mobility strategy needs identity and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4dc8/110eb5ae-a9fa-41c8-a8b8-e644cd7b4dc8/730AzureADCoreSkillsM02_mid.mp4</video:content_loc>
+        <video:duration>2930</video:duration>
+        <video:publication_date>2015-03-27T22:35:38.3332053+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Azure-Active-Directory-Core-Skills/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cf87/f0f196a4-5d7b-41a2-b79a-3d8715d6cf87/730AzureADCoreSkillsM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Active Directory Core Skills: (01) Instructor-Led v-Lab]]></video:title>
+        <video:description><![CDATA[Experience configuring synchronization from an on-premises Windows Server Active Directory to Azure AD, using the Azure AD Sync Service. Configure apps in Azure AD for authentication. Virtual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf87/f0f196a4-5d7b-41a2-b79a-3d8715d6cf87/730AzureADCoreSkillsM01_mid.mp4</video:content_loc>
+        <video:duration>3280</video:duration>
+        <video:publication_date>2015-03-27T22:35:28.6937858+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

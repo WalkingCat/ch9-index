@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SCCM-2012-R2-Verteilung-von-Clients-Software-und-Microsoft-Updates</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SCCM-2012-R2-Verteilung-von-Clients-Software-und-Microsoft-Updates/03-Integration-von-WSUS-in-SCCM</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6aa1/8fb1c02b-13b9-4dda-9143-121567e76aa1/03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03| Integration von WSUS in SCCM]]></video:title>
+        <video:description><![CDATA[Im dritten Modul wird ein WSUS in den Configuration Manager integriert werden und aufgezeigt werden, was dabei beachtet werden sollte. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6aa1/8fb1c02b-13b9-4dda-9143-121567e76aa1/03_mid.mp4</video:content_loc>
+        <video:duration>1041</video:duration>
+        <video:publication_date>2015-11-26T13:54:49.8806409+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SCCM-2012-R2-Verteilung-von-Clients-Software-und-Microsoft-Updates/02-Software-Center</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bd15/98c39613-cc3b-49ac-b646-afe503febd15/02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02| Software Center]]></video:title>
+        <video:description><![CDATA[Im zweiten Modul wird es um die Verteilung von Software &#252;ber das Software Center gehen und wie diese &#252;ber den Configuration Manager bereitgestellt werden kann. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bd15/98c39613-cc3b-49ac-b646-afe503febd15/02_mid.mp4</video:content_loc>
+        <video:duration>984</video:duration>
+        <video:publication_date>2015-11-26T13:54:15.9308681+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SCCM-2012-R2-Verteilung-von-Clients-Software-und-Microsoft-Updates/01-Verteilung-von-Configuration-Manager-Clients</loc>
+      <lastmod>2016-05-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/98d9/c619082e-ac4a-4ef8-8d2c-dfdb01c498d9/01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01| Verteilung von Configuration Manager Clients]]></video:title>
+        <video:description><![CDATA[Im ersten Modul wird erkl&#228;rt was ein Client ist und macht und wie er auf den Zielger&#228;ten verteilt werden kann. Anschlie&#223;end wird die &#220;berwachung des Clientstatus thematisiert. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/98d9/c619082e-ac4a-4ef8-8d2c-dfdb01c498d9/01_mid.mp4</video:content_loc>
+        <video:duration>1291</video:duration>
+        <video:publication_date>2015-11-26T13:53:43.9527505+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

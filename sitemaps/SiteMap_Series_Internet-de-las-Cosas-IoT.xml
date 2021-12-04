@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT/Prueba-de-concepto-final</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/323f/360a9784-c08c-4c27-a28c-2123c495323f/PruebaDeConceptoFinal_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Prueba de concepto final]]></video:title>
+        <video:description><![CDATA[Se crear&#225; un Sistema de Internet de las Cosas con un ejemplo real. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/323f/360a9784-c08c-4c27-a28c-2123c495323f/PruebaDeConceptoFinal_mid.mp4</video:content_loc>
+        <video:duration>1142</video:duration>
+        <video:publication_date>2016-10-18T16:03:04.6001754+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT/Desarrollando-aplicaciones-Universales-con-Intel-Galileo</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdbc/4bcab905-adbc-4bea-9cec-618a973fcdbc/DesarrollandoAplicacionesUniversalesConIntelGalil_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Desarrollando aplicaciones Universales con Intel Galileo]]></video:title>
+        <video:description><![CDATA[Se ver&#225; a Windows 10 Core en acci&#243;n con el Internet de las Cosas y su paralelo con Raspberry Pi. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdbc/4bcab905-adbc-4bea-9cec-618a973fcdbc/DesarrollandoAplicacionesUniversalesConIntelGalil_mid.mp4</video:content_loc>
+        <video:duration>1191</video:duration>
+        <video:publication_date>2016-10-18T16:02:53.1205497+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT/Ordenadores-reducidos-y-Raspberry-Pi</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/03b5/f3a88fda-e24d-43f4-b517-36944b3a03b5/OrdenadoresReducidosyRaspberryPi_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Ordenadores reducidos y Raspberry Pi]]></video:title>
+        <video:description><![CDATA[Se dar&#225; una introducci&#243;n a Raspberry Pi, desde temas b&#225;sicos hasta temas especializados usando el sistema operativo Raspbian. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/03b5/f3a88fda-e24d-43f4-b517-36944b3a03b5/OrdenadoresReducidosyRaspberryPi_mid.mp4</video:content_loc>
+        <video:duration>1173</video:duration>
+        <video:publication_date>2016-10-18T16:02:12.0128137+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT/Comencemos-a-interconectar-dispositivos</loc>
+      <lastmod>2016-11-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7283/daa237ee-cd25-4163-8a8f-84a5a26d7283/ComencemosAInterconectarDispositivos_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Comencemos a interconectar dispositivos]]></video:title>
+        <video:description><![CDATA[Es necesario interconectar nuestros dispositivos mediante plataformas altamente escalables, as&#237; que conoceremos Microsoft Azure para poder ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7283/daa237ee-cd25-4163-8a8f-84a5a26d7283/ComencemosAInterconectarDispositivos_mid.mp4</video:content_loc>
+        <video:duration>612</video:duration>
+        <video:publication_date>2016-10-18T16:01:57.2578151+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT/Primeros-acercamientos-con-Arduino</loc>
+      <lastmod>2017-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8779/832c6662-fac3-400b-912d-21e903e08779/PrimerosAcercamientosConArduino_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Primeros acercamientos con Arduino]]></video:title>
+        <video:description><![CDATA[Con Arduino se podr&#225; realizar un muy buen acercamiento al Internet de las cosas, dado que no se requiere de grandes conocimientos para dominar el tema. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8779/832c6662-fac3-400b-912d-21e903e08779/PrimerosAcercamientosConArduino_mid.mp4</video:content_loc>
+        <video:duration>1805</video:duration>
+        <video:publication_date>2016-10-18T16:01:44.0572808+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Internet-de-las-Cosas-IoT/Conceptos-bsicos-del-Internet-de-las-cosas</loc>
+      <lastmod>2016-10-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5dd1/3565a2a1-b1ba-4653-bbe2-ef18faeb5dd1/ConceptosbasicosdelInternetdelascosas_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Conceptos b&#225;sicos del Internet de las cosas]]></video:title>
+        <video:description><![CDATA[Breve introducci&#243;n a todos los conceptos y a la historia del Internet de las cosas. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5dd1/3565a2a1-b1ba-4653-bbe2-ef18faeb5dd1/ConceptosbasicosdelInternetdelascosas_mid.mp4</video:content_loc>
+        <video:duration>1159</video:duration>
+        <video:publication_date>2016-10-18T16:01:26.2943730+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

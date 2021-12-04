@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Migrating-Hyper-V-with-PowerShell-Arabic</loc>
+      <lastmod>2015-09-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ae3f/010840fe-a6d7-41e9-a72b-e211b179ae3f/MigratingHyperVwithPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Migrating Hyper-V with PowerShell (Arabic)]]></video:title>
+        <video:description><![CDATA[This module walkthrough accessing Azure account using PowerShell and how to migrate local VHDs to Azure blobs in order to attach it as a disk in your virtual machine. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ae3f/010840fe-a6d7-41e9-a72b-e211b179ae3f/MigratingHyperVwithPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1171</video:duration>
+        <video:publication_date>2015-07-02T15:02:24.3167819+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Closer-look-on-Virtual-Networks-Arabic</loc>
+      <lastmod>2015-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5a53/b478d66f-b50e-473e-9617-f3db71085a53/CloserLookonVirtualNetworks_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Closer look on Virtual Networks (Arabic)]]></video:title>
+        <video:description><![CDATA[This module walkthrough creating private virtual network fully contained in the cloud and in the second part, it walkthrough creating cross-premises network whether site-to-site or point-to-site. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5a53/b478d66f-b50e-473e-9617-f3db71085a53/CloserLookonVirtualNetworks_mid.mp4</video:content_loc>
+        <video:duration>2355</video:duration>
+        <video:publication_date>2015-07-02T15:02:15.1068859+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Virtual-Networks-Arabic</loc>
+      <lastmod>2015-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0473/8bd63f21-cf38-487e-a2ba-1bf00be20473/VirtualNetworks_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Virtual Networks (Arabic)]]></video:title>
+        <video:description><![CDATA[This module covers the fundamentals of Azure Virtual Networks including communication scenarios, name resolution and traffic manager. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0473/8bd63f21-cf38-487e-a2ba-1bf00be20473/VirtualNetworks_mid.mp4</video:content_loc>
+        <video:duration>1864</video:duration>
+        <video:publication_date>2015-07-02T15:02:04.2937581+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Storage-Arabic</loc>
+      <lastmod>2015-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0e01/7e0ed7f0-a7fd-4f85-894f-c68e29e00e01/Storage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage (Arabic)]]></video:title>
+        <video:description><![CDATA[This module explains Azure storage concepts and walkthrough creating storage account, container and blob. The second part of the module walkthrough how to attach/detach disks to virtual machines in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0e01/7e0ed7f0-a7fd-4f85-894f-c68e29e00e01/Storage_mid.mp4</video:content_loc>
+        <video:duration>2991</video:duration>
+        <video:publication_date>2015-07-02T15:01:55.1123752+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Closer-look-on-Azure-Virtual-Machines-Arabic</loc>
+      <lastmod>2015-11-16</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a82/6ccb8849-62e6-4058-a746-5931d18f2a82/CloserlookonAzureVirtuslMachines_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Closer look on Azure Virtual Machines (Arabic)]]></video:title>
+        <video:description><![CDATA[This module walkthrough creating multiple virtual machines in the same cloud service and how to apply load balancing for performance purpose using load-balanced set &amp;amp; fault tolerance using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a82/6ccb8849-62e6-4058-a746-5931d18f2a82/CloserlookonAzureVirtuslMachines_mid.mp4</video:content_loc>
+        <video:duration>2350</video:duration>
+        <video:publication_date>2015-07-02T15:01:42.9900056+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Azure-Virtual-Machine-Arabic</loc>
+      <lastmod>2018-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f0f8/1d3809e3-45bc-4a8a-9eca-5a464190f0f8/AzureVirtualMachines_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Virtual Machine (Arabic)]]></video:title>
+        <video:description><![CDATA[This module covers Cloud Computing concept and Microsoft Azure platform in brief then shows how to get started with Azure Virtual Machines. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f0f8/1d3809e3-45bc-4a8a-9eca-5a464190f0f8/AzureVirtualMachines_mid.mp4</video:content_loc>
+        <video:duration>3128</video:duration>
+        <video:publication_date>2015-07-02T15:01:28.3867619+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

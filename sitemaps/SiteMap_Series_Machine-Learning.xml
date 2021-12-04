@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Machine-Learning</loc>
+      <lastmod>2021-10-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Machine-Learning/03-Machine-Learning-na-codzien</loc>
+      <lastmod>2016-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9620/348dd809-d7ac-4cb8-a711-06aebc1e9620/codzien_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[03 Machine Learning na co dzie ]]></video:title>
+        <video:description><![CDATA[W module 3 dowiesz się, gdzie może mieć zastosowanie proces uczenia maszynowego w typowych, codziennych sytuacjach.   W trakcie demonstracji zostanie przybliżone środowisko Machine Learning Studio&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9620/348dd809-d7ac-4cb8-a711-06aebc1e9620/codzien_mid.mp4</video:content_loc>
+        <video:duration>562</video:duration>
+        <video:publication_date>2015-07-13T07:56:43.4834284+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Machine-Learning/02-Machine-Learning-w-zastosowaniach-biznesowych</loc>
+      <lastmod>2016-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e8cc/f36a84b3-e4f0-4f26-b0b5-187cdecde8cc/biznes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[02 Machine Learning w zastosowaniach biznesowych ]]></video:title>
+        <video:description><![CDATA[W module 2 dowiesz się, jakie zastosowania biznesowe zostały zidentyfikowane dla Machine Learning  W trakcie demonstracji zostanie zbudowany pierwszy eksperyment uczenia maszynowego, w kt&#243;rym pokażę,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e8cc/f36a84b3-e4f0-4f26-b0b5-187cdecde8cc/biznes_mid.mp4</video:content_loc>
+        <video:duration>1288</video:duration>
+        <video:publication_date>2015-07-13T07:55:36.2167731+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Machine-Learning/01-Wstp-do-tematyki-Machine-Learning</loc>
+      <lastmod>2016-07-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/42fe/97cb19d8-96cf-43a8-a59a-87212b9642fe/wstep_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Wstp do tematyki Machine Learning  ]]></video:title>
+        <video:description><![CDATA[W module 1 dowiesz się co to jest Machine Learning i dlaczego ta tematyka jest bardzo ważna. Pokazane zostaną istniejące rozwiązania oparte o proces uczenia maszynowego. Dowiesz się r&#243;wnież, z  jakich&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/42fe/97cb19d8-96cf-43a8-a59a-87212b9642fe/wstep_mid.mp4</video:content_loc>
+        <video:duration>859</video:duration>
+        <video:publication_date>2015-07-13T07:54:04.5077194+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

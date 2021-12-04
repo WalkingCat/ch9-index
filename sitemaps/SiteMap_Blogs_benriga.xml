@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Self-Service-Dynamics-CRM-solutions-fly-on-Windows-Azure</loc>
+      <lastmod>2021-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/4/9/9/4/5/SelfServiceDynamicsCRMsolutionsflyonWindowsAzure_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Self-Service Dynamics CRM solutions fly on Windows Azure]]></video:title>
+        <video:description><![CDATA[
+As I mentioned in 
+my previous post, I’ve been working with 
+Shan McArthur from 
+ADXSTUDIO to develop a demo that would illustrate how self-service web sites can connect directly to Dynamics CRM&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/4/9/9/4/5/SelfServiceDynamicsCRMsolutionsflyonWindowsAzure_ch9.mp4</video:content_loc>
+        <video:duration>477</video:duration>
+        <video:publication_date>2010-05-13T17:10:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-Dominos-Pizza</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/9/3/4/1/5/AzureLessonsLearnedDominos_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Domino&#39;s Pizza]]></video:title>
+        <video:description><![CDATA[
+In this final &amp;quot;Azure Lessons Learned&amp;quot; post I chat with 
+Jim Vitek, Director of Ecommerce for 
+Domino’s Pizza. Domino’s is one of the largest ecommerce site out there. In 2009, Domino’s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/9/3/4/1/5/AzureLessonsLearnedDominos_ch9.mp4</video:content_loc>
+        <video:duration>1061</video:duration>
+        <video:publication_date>2010-04-22T18:29:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-Archetype</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/8/0/7/1/5/AzureLessonsLearnedArchetype_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Archetype]]></video:title>
+        <video:description><![CDATA[
+In this episode I talk to Danny Riddell and Luigi Rosso, CEO and CTO of 
+Archetype.  Archetype is a rich internet application (RIA) development and design shop.  They provide both products and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/8/0/7/1/5/AzureLessonsLearnedArchetype_ch9.mp4</video:content_loc>
+        <video:duration>1371</video:duration>
+        <video:publication_date>2010-03-27T00:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-Sitemasher</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/8/0/7/1/5/AzureLessonsLearnedSitemasher_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Sitemasher]]></video:title>
+        <video:description><![CDATA[
+In this episode of Azure Lessons Learned I chat with Phil Calvin, CTO of 
+Sitemasher.  Sitemasher is a web site platform for service providers.  They have an interactive environment for web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/8/0/7/1/5/AzureLessonsLearnedSitemasher_ch9.mp4</video:content_loc>
+        <video:duration>1594</video:duration>
+        <video:publication_date>2010-03-26T22:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-RiskMetrics</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/8/0/7/1/5/AzureLessonsLearnedRiskMetrics_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned:  RiskMetrics]]></video:title>
+        <video:description><![CDATA[
+In this episode of “Azure Lessons Learned” 
+Rob Fraser from 
+RiskMetrics talks about the work they’ve done with Windows Azure to scale some of their heavy computational workloads out to thousands&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/8/0/7/1/5/AzureLessonsLearnedRiskMetrics_ch9.mp4</video:content_loc>
+        <video:duration>1008</video:duration>
+        <video:publication_date>2010-01-27T18:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/SQL-Azure-Lessons-Learned-ESRI</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/3/0/7/1/5/AzureLessonsLearnedESRI_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Azure Lessons Learned: ESRI]]></video:title>
+        <video:description><![CDATA[
+In this episode of Lessons Learned I chat with Rex Hansen of 
+ESRI.  Rex works on 
+MapIt; a product for visualizing enterprise data on maps.  This was recently released as a on-premises product&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/3/0/7/1/5/AzureLessonsLearnedESRI_ch9.mp4</video:content_loc>
+        <video:duration>1028</video:duration>
+        <video:publication_date>2010-01-22T07:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/SQL-Azure-Lessons-Learned-Telerik</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/0/0/7/1/5/AzureLessonsLearnedTelerik_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Azure Lessons Learned: Telerik]]></video:title>
+        <video:description><![CDATA[
+Telerik is one of the more popular component vendors building good stuff for ASP.NET, Silverlight, and WPF.  I was intrigued by the interest they have taken in the Windows Azure
+ Platform. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/0/0/7/1/5/AzureLessonsLearnedTelerik_ch9.mp4</video:content_loc>
+        <video:duration>713</video:duration>
+        <video:publication_date>2010-01-06T19:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-Quest-Software</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4/7/7/6/1/5/AzureLessonsLearnedQuest_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Quest Software]]></video:title>
+        <video:description><![CDATA[
+In this episode of Azure Lessons Learned I chat with Dmitry Sotnikov, new product research manager with Quest Software.  Quest, as you probably know, is a huge global ISV focused primarily on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4/7/7/6/1/5/AzureLessonsLearnedQuest_ch9.mp4</video:content_loc>
+        <video:duration>1425</video:duration>
+        <video:publication_date>2010-01-06T01:24:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-CCH</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0b45/9a793dfd-da30-48e5-b21a-f8bcd64e0b45/Windows-Azure-Lessons-Learned-CCH_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: CCH]]></video:title>
+        <video:description><![CDATA[
+In this episode of Lessons Learned we talk with Jones Pavan and Gurleen Randhawa of CCH about tax and accounting!  No wait stick around, that stuff can be exciting too.  Yes, really!   
+The good&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b45/9a793dfd-da30-48e5-b21a-f8bcd64e0b45/Windows-Azure-Lessons-Learned-CCH_mid.mp4</video:content_loc>
+        <video:duration>896</video:duration>
+        <video:publication_date>2009-12-30T22:27:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-Active-Web-Solutions</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/3/7/6/1/5/AzureLessonsLearnedAWS_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Active Web Solutions]]></video:title>
+        <video:description><![CDATA[
+There are not many solutions that can claim to have saved lives.  In this episode of Lessons Learned I chat with
+
+Richard Prodger of 
+Active Web Solutions about the Windows Azure project they’ve&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/3/7/6/1/5/AzureLessonsLearnedAWS_ch9.mp4</video:content_loc>
+        <video:duration>742</video:duration>
+        <video:publication_date>2009-12-29T23:32:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-GoGrid</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/3/2/5/1/5/AzureLessonsLearnedGoGrid_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: GoGrid]]></video:title>
+        <video:description><![CDATA[
+One question that is often asked is how hosters can benefit from the Windows Azure Platform.  While the platform can be used to deploy many types of web apps we expect many partners including&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/3/2/5/1/5/AzureLessonsLearnedGoGrid_ch9.mp4</video:content_loc>
+        <video:duration>1009</video:duration>
+        <video:publication_date>2009-12-22T19:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Windows-Azure-Lessons-Learned-Invensys</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/8/3/4/1/5/AzureLessonsLearnedInvensys_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Invensys]]></video:title>
+        <video:description><![CDATA[In this episode of Windows Azure Lessons Learned I chat with Paul Forney, System Architect for
+Invensys and
+Aleksey Savateyev, Senior Architect in Microsoft’s Global ISV group working with Invensys.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/8/3/4/1/5/AzureLessonsLearnedInvensys_ch9.mp4</video:content_loc>
+        <video:duration>1327</video:duration>
+        <video:publication_date>2009-12-21T23:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Azure-Lessons-Learned-Embarcadero</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/3/0/4/1/5/AzureLessonsLearnedEmbarcadero_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[SQL Azure Lessons Learned: Embarcadero]]></video:title>
+        <video:description><![CDATA[
+Database tooling is important for many developers and DBAs as they manage numerous databases across the enterprise and the cloud.  In this episode of Azure Lessons Learned I chat with Scott Walz,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/3/0/4/1/5/AzureLessonsLearnedEmbarcadero_ch9.mp4</video:content_loc>
+        <video:duration>845</video:duration>
+        <video:publication_date>2009-12-18T16:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Azure-Lessons-Learned-Outback-Steakhouse-Facebook-App</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/3/8/0/1/5/AzureLessonsLearnedThuzi_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Outback Steakhouse Facebook App]]></video:title>
+        <video:description><![CDATA[
+I’m back with another episode of Azure Lessons Learned.  In this one I discuss building apps that need to be able to scale very highly very quickly. 
+
+Jim Zimmerman, the CTO and Lead Developer for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/3/8/0/1/5/AzureLessonsLearnedThuzi_ch9.mp4</video:content_loc>
+        <video:duration>1176</video:duration>
+        <video:publication_date>2009-12-16T17:04:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Azure-Lessons-Learned-Quark-Software</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/3/8/0/1/5/AzureLessonsLearnedQuark_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Quark Software]]></video:title>
+        <video:description><![CDATA[
+In this episode of Azure Lessons Learned I chat with Stephan Friedl, Chief Architect at
+Quark Software.  Quark (of
+
+Quark XPress fame) has been built a new business called 
+Quark Promote for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/3/8/0/1/5/AzureLessonsLearnedQuark_ch9.mp4</video:content_loc>
+        <video:duration>1253</video:duration>
+        <video:publication_date>2009-12-15T17:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Azure-Lessons-Learned-Kelley-Blue-Book</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/3/8/0/1/5/AzureLessonsLearnedKelleyBlueBook_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Windows Azure Lessons Learned: Kelley Blue Book]]></video:title>
+        <video:description><![CDATA[
+As I mentioned, over the past few months I’ve been working on a number of activities related to the Windows Azure Platform.  In particular, I’ve been working with several partners as we prepared for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/3/8/0/1/5/AzureLessonsLearnedKelleyBlueBook_ch9.mp4</video:content_loc>
+        <video:duration>1179</video:duration>
+        <video:publication_date>2009-12-08T01:16:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Catching-Up-and-PDC09-So-many-sessions-so-little-time</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/9/7/8/0/1/5/PDCdiscussion_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Catching Up and PDC09: So many sessions; so little time]]></video:title>
+        <video:description><![CDATA[
+I’ve been busy.  For the past 5 months or so I’ve been working on something completely different.  I moved out of the Dynamics world  and into the Azure world  . 
+In July I was asked to help out&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/9/7/8/0/1/5/PDCdiscussion_ch9.mp4</video:content_loc>
+        <video:duration>824</video:duration>
+        <video:publication_date>2009-12-07T17:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/PDC09-Backstage-during-the-keynote</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/7/2/2/0/1/5/PDC09KeynoteBackstage_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[PDC09 Backstage during the keynote]]></video:title>
+        <video:description><![CDATA[Sitting in the audience of the keynote I never had any idea how much work and how many people were involved in pulling together that one event. This year at PDC, when Ray
+ Ozzie&#39;s keynote kicked off,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/7/2/2/0/1/5/PDC09KeynoteBackstage_ch9.mp4</video:content_loc>
+        <video:duration>285</video:duration>
+        <video:publication_date>2009-12-04T02:07:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Dynamics-Duo-Silverlight-and-Jazz-Hands</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/9/8/2/7/4/DynamicsDuoWWI5_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics Duo: Silverlight and Jazz Hands]]></video:title>
+        <video:description><![CDATA[
+Ok; so maybe I got a little overexcited in the final installment to this 5-part series.  &amp;lt;Jazz Hands!&amp;gt; This time around we spend time talking about how to use Silverlight to build experiences&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/9/8/2/7/4/DynamicsDuoWWI5_ch9.mp4</video:content_loc>
+        <video:duration>907</video:duration>
+        <video:publication_date>2009-06-19T04:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Dynamics-Duo-Composition-with-Third-Party-Web-Services</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/1/8/2/7/4/DynamicsDuoWWI4_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics Duo: Composition with Third-Party Web Services]]></video:title>
+        <video:description><![CDATA[
+In this episode we talk about a variety of topics including using Silverlight for UI, composing using 3rd party web services and storing complex information in Dynamics CRM. 
+We spend most of our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/1/8/2/7/4/DynamicsDuoWWI4_ch9.mp4</video:content_loc>
+        <video:duration>988</video:duration>
+        <video:publication_date>2009-06-18T04:41:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Dynamics-Duo-Wide-World-Importers-Code</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/1/8/2/7/4/DynamicsDuoWWI3_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics Duo: Wide World Importers Code]]></video:title>
+        <video:description><![CDATA[
+In this episode we dive into some of the real code behind Wide World Importers Conference site.  Girish walks us through the code-behind for the contact/profile and conference registration options&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/1/8/2/7/4/DynamicsDuoWWI3_ch9.mp4</video:content_loc>
+        <video:duration>650</video:duration>
+        <video:publication_date>2009-06-17T04:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Dynamics-Duo-Everybody-needs-an-Identity</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/6/7/2/7/4/DynamicsDuoWWI2_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics Duo: Everybody needs an Identity]]></video:title>
+        <video:description><![CDATA[
+In yesterday’s episode we very briefly touched the identity and authentication part of the demo where, on the self-service site, the attendee registers using Windows Live ID.   In this episode we go&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/6/7/2/7/4/DynamicsDuoWWI2_ch9.mp4</video:content_loc>
+        <video:duration>850</video:duration>
+        <video:publication_date>2009-06-16T04:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Dynamics-Duo-Rides-again</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/8/5/2/7/4/DynamicsDuoWWI1_large_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics Duo Rides again]]></video:title>
+        <video:description><![CDATA[
+Girish and I dropped in to the new 
+Channel 9 Studio (formerly Monaco) to record a few Channel 9 episodes around some demo code we’ve been working on for a few months. 
+ 
+In this series we’ll&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/8/5/2/7/4/DynamicsDuoWWI1_ch9.mp4</video:content_loc>
+        <video:duration>1480</video:duration>
+        <video:publication_date>2009-06-15T14:45:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Using-Touch-in-Line-of-Business-Apps</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/6/6/6/5/4/ConvergenceSurfaceDemo_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Touch in Line-of-Business Apps]]></video:title>
+        <video:description><![CDATA[
+I was mesmerized by this simple but cool Microsoft Surface demo at last fall’s
+
+Convergence conference in Copenhagen.  
+Lachlan Cash was kind enough to let me post the video here as a great&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/6/6/6/5/4/ConvergenceSurfaceDemo_ch9.mp4</video:content_loc>
+        <video:duration>598</video:duration>
+        <video:publication_date>2009-02-25T00:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Its-Not-Easy-Bein-Green</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/0/7/6/6/5/4/EnvironmentalSustainabilityDash_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Its Not Easy Bein Green]]></video:title>
+        <video:description><![CDATA[
+I couldn’t help but think about the old 
+Kermit the frog tune while chatting with Jennifer Pollard (Product Manager) and Neil Huizenga (Software Developer) last week about the new
+
+Environmental&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/7/6/6/5/4/EnvironmentalSustainabilityDash_ch9.mp4</video:content_loc>
+        <video:duration>1553</video:duration>
+        <video:publication_date>2009-02-10T03:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Dynamics-AX-Version-Control</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/2/1/5/5/4/DynamicsAX2009VersionControl_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Dynamics AX Version Control]]></video:title>
+        <video:description><![CDATA[
+While at the Convergence conference a while back I bumped into Michael Fruergaard Pontoppidan (Principal SDE) and Morten Jensen (Program Manager) from the
+Dynamics AX team.  Both Michael and Morten&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/2/1/5/5/4/DynamicsAX2009VersionControl_ch9.mp4</video:content_loc>
+        <video:duration>1171</video:duration>
+        <video:publication_date>2009-01-28T01:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/CRM-5--Secure-Code-on-the-Server</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/5/1/7/3/4/CRM5ServerCode_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CRM 5  Secure Code on the Server]]></video:title>
+        <video:description><![CDATA[
+In this video I chat with 
+Andy Bybee (Principal Program Manager Lead), Allen Hafezipour (Senior Program Manager) and Nirav Shah (Senior Dev Lead).  These are some of the folks on the Dynamics CRM&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/5/1/7/3/4/CRM5ServerCode_ch9.mp4</video:content_loc>
+        <video:duration>1658</video:duration>
+        <video:publication_date>2008-12-17T02:53:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Learning-to-build-on-Azure-One-ISVs-Experience</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/0/2/2/4/4/ADXstudioCloudMigrationLearnings_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Learning to build on Azure: One ISV&#39;s Experience]]></video:title>
+        <video:description><![CDATA[
+While at PDC back in October, Ryan Dunn and I had a chance to sit down with Shan McArthur from gold ISV partner
+ADXSTUDIO to discuss what he&#39;d learned from his experiences with the
+Azure Services&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/0/2/2/4/4/ADXstudioCloudMigrationLearnings_ch9.mp4</video:content_loc>
+        <video:duration>1898</video:duration>
+        <video:publication_date>2008-12-16T03:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/CRM-5-Deploying-Line-Of-Business-Solutions</loc>
+      <lastmod>2011-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/6/4/6/6/3/4/CRM5Solutions_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CRM &quot;5&quot;: Deploying Line-Of-Business Solutions]]></video:title>
+        <video:description><![CDATA[
+In yesterday’s video I chatted with a few PMs on the CRM platform team.  We talked at a high level about some of the problems they’re trying to solve as they think about CRM “5.  In today’s video we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/4/6/6/3/4/CRM5Solutions_ch9.mp4</video:content_loc>
+        <video:duration>2287</video:duration>
+        <video:publication_date>2008-10-29T21:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/CRM-5-Chatting-with-the-platform-team</loc>
+      <lastmod>2011-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/4/2/5/5/3/4/CRM5PDCOverview_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CRM &quot;5&quot;: Chatting with the platform team]]></video:title>
+        <video:description><![CDATA[
+This week at PDC the Dynamics CRM team is taking the wraps off a few select platform features coming in the next major release of CRM.  A few weeks before PDC I sat down with some of the program&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/2/5/5/3/4/CRM5PDCOverview_ch9.mp4</video:content_loc>
+        <video:duration>1931</video:duration>
+        <video:publication_date>2008-10-28T19:49:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/WCF-and-AIF-in-Dynamics-2009-Chatting-with-Michael-Merz</loc>
+      <lastmod>2010-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/9/5/9/5/2/4/DynamicsAX2009AIFMichaelMerz_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WCF and AIF in Dynamics 2009: Chatting with Michael Merz]]></video:title>
+        <video:description><![CDATA[
+In this video I’m back on the Advanta campus chatting with Michael Merz, Program Manager for
+
+Application Integration Framework (AIF) on the Dynamics AX team. 
+AIF is a standards-based framework&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/5/9/5/2/4/DynamicsAX2009AIFMichaelMerz_ch9.mp4</video:content_loc>
+        <video:duration>2081</video:duration>
+        <video:publication_date>2008-09-29T23:56:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/The-Dynamics-Duo-talk-about-CRM-and-Silverlight</loc>
+      <lastmod>2010-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/7/1/5/1/2/4/DynamicsDuoCRMSilverlight_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Dynamics Duo talk about CRM and Silverlight]]></video:title>
+        <video:description><![CDATA[
+In yesterday’s video we talked about WPF and showed off some mind-altering 2D and 3D animations .  As we said then, WPF provides
+ access to local data and resources as well as access to bare metal&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/1/5/1/2/4/DynamicsDuoCRMSilverlight_ch9.mp4</video:content_loc>
+        <video:duration>1047</video:duration>
+        <video:publication_date>2008-08-15T19:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/The-Dynamics-Duo-talk-about-CRM-and-WPF</loc>
+      <lastmod>2010-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/2/3/3/1/2/4/DynamicsDuoCRMWPF_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Dynamics Duo talk about CRM and WPF]]></video:title>
+        <video:description><![CDATA[
+In this episode The Dynamics Duo dive into the deep rich coolness that is WPF.  We also spend some time talking about the offline data framework that Dynamics CRM provides developers. 
+ 
+In past&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/3/3/1/2/4/DynamicsDuoCRMWPF_ch9.mp4</video:content_loc>
+        <video:duration>1512</video:duration>
+        <video:publication_date>2008-08-15T04:05:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/The-Dynamics-Duo-talk-about-CRM-and-Office-Business-Applications-OBA</loc>
+      <lastmod>2010-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/fefe8140-af80-4ca2-a93a-96c1d1588a73.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Dynamics Duo talk about CRM and Office Business Applications (OBA)]]></video:title>
+        <video:description><![CDATA[
+In the 
+last episode we talked about Microsoft Office SharePoint Server; in this one we talk about Microsoft Office on the client side. 
+CRM actually integrates really really well with Microsoft&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/9/2/1/2/4/DynamicsDuoCRMOfficeBusinessApp_ch9.mp4</video:content_loc>
+        <video:duration>713</video:duration>
+        <video:publication_date>2008-08-13T23:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/The-Dynamics-Duo-talk-about-Dynamics-CRM-and-SharePoint</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/7063f754-6729-4657-8f40-4d1b89e69b4b.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Dynamics Duo talk about Dynamics CRM and SharePoint]]></video:title>
+        <video:description><![CDATA[
+In this segment Girish and I talk about how Dynamics CRM integrates with SharePoint.  We begin with a little guidance for where you might use one over the other and where they work well together. &amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/9/0/1/2/4/DynamicsDuoDynamicsCRMSharePoint_ch9.mp4</video:content_loc>
+        <video:duration>1357</video:duration>
+        <video:publication_date>2008-08-13T00:46:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/The-Dynamics-Duo-talk-about-Dynamics-CRM-Customization</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/e4af7f8b-0498-4001-90b0-5cce35e4aee9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The Dynamics Duo talk about Dynamics CRM Customization]]></video:title>
+        <video:description><![CDATA[
+Girish on my team has been working on a demo that demonstrates the capabilities of the Dynamics CRM platform.  We figured it would be a lot more interesting to get some of that on video in the form&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/8/9/0/2/4/DynamicsDuoCRMCustomization_ch9.mp4</video:content_loc>
+        <video:duration>939</video:duration>
+        <video:publication_date>2008-08-12T00:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Reporting-and-Analytics-in-Dynamics-AX-2009</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/ee8055e4-df46-459e-88c2-c8d75be308c8.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Reporting and Analytics in Dynamics AX 2009]]></video:title>
+        <video:description><![CDATA[I spent some time with Manoj Nuthakki on the Dynamics team chatting about how we take full advantage of SQL Server Reporting Services (SSRS) and SQL Server Analysis Services (SSAS) in the recently&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/7/7/8/1/4/AX2009ReportingBIwithManoj_ch9.mp4</video:content_loc>
+        <video:duration>1870</video:duration>
+        <video:publication_date>2008-08-11T19:14:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Partner-Conference-CRM-Mobility-with-CWR</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/4f73279b-9c49-4c9e-8b42-13a86773af00.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Conference: CRM Mobility with CWR]]></video:title>
+        <video:description><![CDATA[Another Dynamics CRM ISV that caught my attention at last week&#39;s Microsoft Worldwide Partner Conference was
+CWR Mobility.  Mobility is something I spend a lot of time thinking about and the Windows&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/7/5/5/1/4/WPCCWRmobility_ch9.mp4</video:content_loc>
+        <video:duration>1349</video:duration>
+        <video:publication_date>2008-07-16T01:03:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Partner-Conference-SalesCentric-Silverlight-CRM-Relationships</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/d5f717a1-831a-4c4f-8b12-5d152f996150.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Partner Conference: SalesCentric Silverlight CRM Relationships]]></video:title>
+        <video:description><![CDATA[I spent most of last week in hot and humid Houston at the annual Microsoft Worldwide Partner Conference.  I did get to a few sessions but mostly I hung out with ISV partners in 1:1 meetings or in the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/6/5/5/1/4/WPCSalesCentric_ch9.mp4</video:content_loc>
+        <video:duration>730</video:duration>
+        <video:publication_date>2008-07-16T00:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/benriga/Hal Howard, Mike Ehrenberg, Sukumar Rathnam chat about Dynamics AX 2009</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/18792d2b-16cd-49d4-acda-9aa2c39d7e91.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hal Howard, Mike Ehrenberg, Sukumar Rathnam chat about Dynamics AX 2009]]></video:title>
+        <video:description><![CDATA[
+Last week the Dynamics AX team announced general availability of Microsoft Dynamics AX 2009.  While the team was basking in the glow of a job well done I grabbed a few folks for a chat.  In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/3/1/9/0/4/AX2009InterviewHalMikeSukumar2_ch9.mp4</video:content_loc>
+        <video:duration>1702</video:duration>
+        <video:publication_date>2008-06-13T00:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

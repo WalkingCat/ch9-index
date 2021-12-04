@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Visual-Studio-Tipps--Tricks-Teil-2</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Visual-Studio-Tipps--Tricks-Teil-2/MVA-Visual-Studio-Tipps--Tricks-Teil-2-Modul-4-Debugging</loc>
+      <lastmod>2015-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/93eb/d70f1014-0be4-4718-8dc2-ffff01c293eb/mvavstt2m4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Visual Studio Tipps &amp; Tricks, Teil 2, Modul 4 - Debugging]]></video:title>
+        <video:description><![CDATA[In diesem Modul zeigt Daniel Meixner die wichtigsten Shortcuts beim Debuggen und zeigt dabei Tracepoints ebenso wie den JSON Viewer und gepinnte Werte. Mehr Tipps und Tricks finden Sie auf Daniels&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/93eb/d70f1014-0be4-4718-8dc2-ffff01c293eb/mvavstt2m4_mid.mp4</video:content_loc>
+        <video:duration>917</video:duration>
+        <video:publication_date>2015-03-02T16:12:54.3697554+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Visual-Studio-Tipps--Tricks-Teil-2/MVA-Visual-Studio-Tipps--Tricks-Teil-2-Modul-3-Fensterlayout</loc>
+      <lastmod>2015-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5005/65fa17c5-47a4-4409-8a53-c0a2adfa5005/mvavstt2m3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Visual Studio Tipps &amp; Tricks, Teil 2, Modul 3 - Fensterlayout]]></video:title>
+        <video:description><![CDATA[In diesem Modul zeigt Daniel Meixner, welche M&#246;glichkeiten es gibt mit mehreren Fenstern in Visual Studio zu arbeiten, beispielsweise um sich ein Multimonitorsetup einzurichten oder um eine Datei&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5005/65fa17c5-47a4-4409-8a53-c0a2adfa5005/mvavstt2m3_mid.mp4</video:content_loc>
+        <video:duration>698</video:duration>
+        <video:publication_date>2015-03-02T16:12:14.5167639+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Visual-Studio-Tipps--Tricks-Teil-2/MVA-Visual-Studio-Tipps--Tricks-Teil-2-Modul-2-Noch-mehr-Shortcuts-im-Editor</loc>
+      <lastmod>2015-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2e77/87006e4f-917b-4e41-a8f0-c71776e32e77/mvavstt2m2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Visual Studio Tipps &amp; Tricks, Teil 2, Modul 2 - Noch mehr Shortcuts im Editor]]></video:title>
+        <video:description><![CDATA[In diesem Modul zeigt Daniel Meixner weitere Tipps im Editor. Dies beinhaltet den legend&#228;ren Zwischenablagering sowie automatisches „Umgeben“ von Codefragmenten mit Codesnippets.   Mehr Tipps und&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2e77/87006e4f-917b-4e41-a8f0-c71776e32e77/mvavstt2m2_mid.mp4</video:content_loc>
+        <video:duration>991</video:duration>
+        <video:publication_date>2015-03-02T16:12:03.4998281+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/MVA-Visual-Studio-Tipps--Tricks-Teil-2/MVA-Visual-Studio-Tipps--Tricks-Teil-2-Modul-1-Shortcuts-im-Editor</loc>
+      <lastmod>2015-03-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/023d/3f297179-43f2-46c1-ab3d-c83db191023d/mvavstt2m1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MVA - Visual Studio Tipps &amp; Tricks, Teil 2, Modul 1 - Shortcuts im Editor]]></video:title>
+        <video:description><![CDATA[In diesem Modul zeigt Daniel Meixner die wichtigsten Tipps im Editor. Das beinhaltet Shortcuts zum Refactoring ebenso wie das effizientere Arbeiten mit Intellisense.   Mehr Tipps und Tricks finden Sie&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/023d/3f297179-43f2-46c1-ab3d-c83db191023d/mvavstt2m1_mid.mp4</video:content_loc>
+        <video:duration>822</video:duration>
+        <video:publication_date>2015-03-02T16:11:46.1038266+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

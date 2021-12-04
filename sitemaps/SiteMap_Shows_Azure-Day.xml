@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-azure-ps-cmdlets</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e72/0948d36a-274b-4005-9126-1a4052b63e72/azureday2015topic08_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[      Azure Service Management Cmdlets.]]></video:title>
+        <video:description><![CDATA[Денис Холод / Деплой&amp;#1084;ент инфраструктуры и сервисов с использование&amp;#1084; Azure Service Management Cmdlets. В это&amp;#1084; докладе я поделюсь опыто&amp;#1084; использования Azure Service Management&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e72/0948d36a-274b-4005-9126-1a4052b63e72/azureday2015topic08_mid.mp4</video:content_loc>
+        <video:duration>2370</video:duration>
+        <video:publication_date>2016-01-28T23:23:56.4948258+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-ps-dsc</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/046f/266e9545-853e-4608-ae43-c19b96be046f/azureday2015topic09_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[   Azure   PowerShell  Desired State Configuration.]]></video:title>
+        <video:description><![CDATA[Олег Чёрный / Управление релиза&amp;#1084;и в Azure окружении используя PowerShell и Desired State Configuration. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/046f/266e9545-853e-4608-ae43-c19b96be046f/azureday2015topic09_mid.mp4</video:content_loc>
+        <video:duration>1877</video:duration>
+        <video:publication_date>2016-01-28T23:23:39.5252689+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-sqlazure</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/38e0/0517d1a8-8882-4d86-8ceb-7a1b0fe338e0/azureday2015topic07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[    Azure.   ?]]></video:title>
+        <video:description><![CDATA[Денис Резник / Масштабирование реляционной БД в Azure. Миф или реальность? Масштабируе&amp;#1084;ость приложения стала критически&amp;#1084; эле&amp;#1084;енто&amp;#1084; дизайна после перехода от &amp;#1084;одели&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/38e0/0517d1a8-8882-4d86-8ceb-7a1b0fe338e0/azureday2015topic07_mid.mp4</video:content_loc>
+        <video:duration>3553</video:duration>
+        <video:publication_date>2016-01-28T23:23:24.4775403+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-wp-cloud-copy</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aa39/399a9ef8-cbc7-4b36-9cac-1fa6c437aa39/azureday2015topic06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ .    Windows Phone.]]></video:title>
+        <video:description><![CDATA[Влади&amp;#1084;ир Без&amp;#1084;алый / Мобильная кри&amp;#1084;иналистика. Анализ резервных копий Windows Phone. Сегодня большое значение приобретает работа кри&amp;#1084;иналиста по восстановлению доказательств с&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aa39/399a9ef8-cbc7-4b36-9cac-1fa6c437aa39/azureday2015topic06_mid.mp4</video:content_loc>
+        <video:duration>2809</video:duration>
+        <video:publication_date>2016-01-28T23:23:02.1904382+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-azureML</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1da7/549449c5-d740-4c1f-b388-40edc3f11da7/azureday2015topic05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  Azure Machine Learning     .]]></video:title>
+        <video:description><![CDATA[Виктор Цикунов / Алгорит&amp;#1084;ы в Azure Machine Learning и где их лучше при&amp;#1084;енять. Azure Machine Learning – сервис, который позволит использовать &amp;#1084;ощности искусственного интеллекта на&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1da7/549449c5-d740-4c1f-b388-40edc3f11da7/azureday2015topic05_mid.mp4</video:content_loc>
+        <video:duration>2637</video:duration>
+        <video:publication_date>2016-01-28T23:22:40.7653723+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-docker</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8597/b0ec7244-5db9-4b89-86ac-d28af2f28597/azureday2015topic04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[ Docker        Azure.]]></video:title>
+        <video:description><![CDATA[Олег Чёрный / Использование Docker контейнеров для обеспечения работы распределенного приложения в Azure. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8597/b0ec7244-5db9-4b89-86ac-d28af2f28597/azureday2015topic04_mid.mp4</video:content_loc>
+        <video:duration>2604</video:duration>
+        <video:publication_date>2016-01-28T23:19:31.4756541+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-StreamAnalytics</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4717/c7170de7-e4cd-4e0a-a720-7a93ad804717/azureday2015topic03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Stream Analytics     .]]></video:title>
+        <video:description><![CDATA[Сергей Поплавский / Azure Stream Analytics для обработки большого объе&amp;#1084;а событий. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4717/c7170de7-e4cd-4e0a-a720-7a93ad804717/azureday2015topic03_mid.mp4</video:content_loc>
+        <video:duration>1789</video:duration>
+        <video:publication_date>2016-01-28T23:18:39.7186777+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-azuread-deepdive</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1194/06a3828a-ce91-4b10-ad6e-02b4bd191194/azureday2015topic02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[  Azure Active Directory - deep dive.]]></video:title>
+        <video:description><![CDATA[Александр Ткаченко / Синхронизация каталогов Azure Active Directory - deep dive. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1194/06a3828a-ce91-4b10-ad6e-02b4bd191194/azureday2015topic02_mid.mp4</video:content_loc>
+        <video:duration>1930</video:duration>
+        <video:publication_date>2016-01-28T23:18:24.6515630+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/Azure-Day/azureday2015-websites-kudu</loc>
+      <lastmod>2016-01-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e2cc/7cd735ca-350f-42aa-9151-2cfe2b0ae2cc/azureday2015topic01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[    Azure Web Sites    build  Kudu.]]></video:title>
+        <video:description><![CDATA[Антон Бойко / Публикация веб приложений на Azure Web Sites при по&amp;#1084;ощи встроенного build сервера Kudu. Все &amp;#1084;ы знае&amp;#1084;, что &amp;#1084;ожно легко настроить публикацию нашего приложения на&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e2cc/7cd735ca-350f-42aa-9151-2cfe2b0ae2cc/azureday2015topic01_mid.mp4</video:content_loc>
+        <video:duration>1924</video:duration>
+        <video:publication_date>2016-01-28T23:18:00.5618149+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

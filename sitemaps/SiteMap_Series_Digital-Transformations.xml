@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Digital-Transformations</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Digital-Transformations/Digital-Transformations</loc>
+      <lastmod>2018-07-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9970/0b06bfa5-d21c-4bc4-bd1f-c6186a219970/DigitalTransformations_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Digital Transformations]]></video:title>
+        <video:description><![CDATA[Lets talk about the Windows Eco-System. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9970/0b06bfa5-d21c-4bc4-bd1f-c6186a219970/DigitalTransformations_mid.mp4</video:content_loc>
+        <video:duration>436</video:duration>
+        <video:publication_date>2016-06-08T13:09:27.6204389+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

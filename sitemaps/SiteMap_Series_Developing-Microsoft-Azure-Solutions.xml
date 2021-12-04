@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions/06</loc>
+      <lastmod>2018-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d70/ab1adddc-865d-47a4-a59a-75d60b9d7d70/461DevelopingMSAzureSolutionsM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft Azure Solutions: (06) Application Architecture]]></video:title>
+        <video:description><![CDATA[Learn about the necessary services you can use to connect application components and to finalize your application for production. See demos of Azure Active Directory, Service Bus, and Redis Cache.​&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d70/ab1adddc-865d-47a4-a59a-75d60b9d7d70/461DevelopingMSAzureSolutionsM06_mid.mp4</video:content_loc>
+        <video:duration>3638</video:duration>
+        <video:publication_date>2015-01-07T17:01:59.4209343+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f286/91aa6741-0265-4a5c-b975-7f6e9387f286/461DevelopingMSAzureSolutionsM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft Azure Solutions: (05) Azure Storage]]></video:title>
+        <video:description><![CDATA[Azure Storage is often the most used but least understood service in the platform. Explore, through demos, the Blob, Queue, and Table services and how they can be used with the REST endpoint or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f286/91aa6741-0265-4a5c-b975-7f6e9387f286/461DevelopingMSAzureSolutionsM05_mid.mp4</video:content_loc>
+        <video:duration>3475</video:duration>
+        <video:publication_date>2015-01-07T17:01:46.1542448+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions/04</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4643/efa91a6a-86f9-45b3-970c-e71995204643/461DevelopingMSAzureSolutionsM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft Azure Solutions: (04) Azure SQL Database]]></video:title>
+        <video:description><![CDATA[Take a deep look into the relational database-as-a-service option available in Azure: SQL Database. See demos of many of the features unique to this database service.​ [01:47] - Azure SQL Database&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4643/efa91a6a-86f9-45b3-970c-e71995204643/461DevelopingMSAzureSolutionsM04_mid.mp4</video:content_loc>
+        <video:duration>2809</video:duration>
+        <video:publication_date>2015-01-07T17:01:31.2982520+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions/03</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/45a8/97bfab26-92ef-408a-8d02-e5a2f36a45a8/461DevelopingMSAzureSolutionsM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft Azure Solutions: (03) Azure Virtual Machines]]></video:title>
+        <video:description><![CDATA[If you have a new idea or need to test an application, deploy a Linux or Windows instance in minutes on the shared Azure Virtual Machines compute platform. Review the various options for OS images and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/45a8/97bfab26-92ef-408a-8d02-e5a2f36a45a8/461DevelopingMSAzureSolutionsM03_mid.mp4</video:content_loc>
+        <video:duration>2958</video:duration>
+        <video:publication_date>2015-01-07T17:01:17.7230415+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c2a2/40146b66-cc04-4a1f-b24f-b3af51f8c2a2/461DevelopingMSAzureSolutionsM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft Azure Solutions: (02) Azure Cloud Services]]></video:title>
+        <video:description><![CDATA[Imagine a highly available and infinitely scalable platform to host your next big breakout web app! Review the rich platform that Azure Cloud Services provides, letting you focus on your application&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c2a2/40146b66-cc04-4a1f-b24f-b3af51f8c2a2/461DevelopingMSAzureSolutionsM02_mid.mp4</video:content_loc>
+        <video:duration>3587</video:duration>
+        <video:publication_date>2015-01-07T17:01:02.0461772+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Developing-Microsoft-Azure-Solutions/01</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d64e/413ed233-6a07-4aa1-9d43-a18c84cdd64e/461DevelopingMSAzureSolutionsM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Developing Microsoft Azure Solutions: (01) Azure Websites]]></video:title>
+        <video:description><![CDATA[Take a look at the least-friction method of hosting web applications in Azure: Websites. Learn about the deployment model, web jobs, and scaling options for Azure Websites.​ [09:38] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d64e/413ed233-6a07-4aa1-9d43-a18c84cdd64e/461DevelopingMSAzureSolutionsM01_mid.mp4</video:content_loc>
+        <video:duration>3601</video:duration>
+        <video:publication_date>2015-01-07T17:00:49.6803620+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

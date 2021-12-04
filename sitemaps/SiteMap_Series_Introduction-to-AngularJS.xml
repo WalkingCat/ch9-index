@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS/06</loc>
+      <lastmod>2018-07-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b715/60b2c0fe-61c5-4b00-9901-e9366ee6b715/592IntroToAngularJSM06_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to AngularJS: (06) Factory, Provider, Services]]></video:title>
+        <video:description><![CDATA[Understand the basic differences between providers, services, and factories. See how to load an external json file and how to grab the data from a server. [02:33] - Getting External Data[14:23] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b715/60b2c0fe-61c5-4b00-9901-e9366ee6b715/592IntroToAngularJSM06_mid.mp4</video:content_loc>
+        <video:duration>2374</video:duration>
+        <video:publication_date>2015-01-24T22:39:43.2630396+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS/05</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ff58/c94b1c9e-fd15-4b25-828f-4906a7a8ff58/592IntroToAngularJSM05_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to AngularJS: (05) Routing, View Management, and UI-Router]]></video:title>
+        <video:description><![CDATA[Since most frameworks have routing capabilities, get a look at the built-in capabilities Angular provides for routing, plus explore an external library UI-Router for view management.​ [01:53] -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ff58/c94b1c9e-fd15-4b25-828f-4906a7a8ff58/592IntroToAngularJSM05_mid.mp4</video:content_loc>
+        <video:duration>2181</video:duration>
+        <video:publication_date>2015-01-24T22:39:29.8609404+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS/04</loc>
+      <lastmod>2019-07-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/da10/feb7da95-2b5d-4475-b06d-b4b29c58da10/592IntroToAngularJSM04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to AngularJS: (04) Directives]]></video:title>
+        <video:description><![CDATA[Look at Directives, one of the unique features of Angular. Find out what they are, how to use them, and how to create a custom one. [01:56] - What are Directives in AngularJS[06:46] - Built in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da10/feb7da95-2b5d-4475-b06d-b4b29c58da10/592IntroToAngularJSM04_mid.mp4</video:content_loc>
+        <video:duration>2226</video:duration>
+        <video:publication_date>2015-01-24T22:39:19.4642398+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS/03</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bed3/b98efa2f-d345-4a20-8892-6d1a1221bed3/592IntroToAngularJSM03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to AngularJS: (03) Expressions &amp; Filters]]></video:title>
+        <video:description><![CDATA[Look at expressions and filters in Angular, and explore the capabilities and creation of a custom filter. [01:26] - What is an Expression?[07:11] - What can you do in an Expression?[10:43] - Using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bed3/b98efa2f-d345-4a20-8892-6d1a1221bed3/592IntroToAngularJSM03_mid.mp4</video:content_loc>
+        <video:duration>2436</video:duration>
+        <video:publication_date>2015-01-24T22:39:08.4674767+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS/02</loc>
+      <lastmod>2017-04-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7214/083a0d9c-7127-4c53-9b8a-a27e06f77214/592IntroToAngularJSM02_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to AngularJS: (02) Angular Controllers]]></video:title>
+        <video:description><![CDATA[Learn about Angular controllers, what they are, when you use them, and how to create them, along with using multiple and/or nested controllers. [03:04] - What is a Controller[05:52] - Creating a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7214/083a0d9c-7127-4c53-9b8a-a27e06f77214/592IntroToAngularJSM02_mid.mp4</video:content_loc>
+        <video:duration>3172</video:duration>
+        <video:publication_date>2015-01-24T22:38:55.2000249+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Introduction-to-AngularJS/01</loc>
+      <lastmod>2020-08-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9511/e6e11d7b-f457-401e-a0b2-034f20f89511/592IntroToAngularJSM01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to AngularJS: (01) Getting Started: About AngularJS, Binding, and Modules]]></video:title>
+        <video:description><![CDATA[Explore what Angular is, and look at its defining features and functionality as a framework. See how it works, and get started creating the first Angular building block (the module). [08:16] - The Why&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9511/e6e11d7b-f457-401e-a0b2-034f20f89511/592IntroToAngularJSM01_mid.mp4</video:content_loc>
+        <video:duration>3222</video:duration>
+        <video:publication_date>2015-01-24T22:37:35.5446920+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

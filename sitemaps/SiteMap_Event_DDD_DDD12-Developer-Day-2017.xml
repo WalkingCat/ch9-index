@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/Azure-Functions</loc>
+      <lastmod>2017-07-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e1f/c9f72f67-a8e5-4c6c-b79e-3acffcf26e1f/functions_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Azure Functions]]></video:title>
+        <video:description><![CDATA[Rik is joined by Christos Matskas to show what sorts of things are possible with Azure Functions. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e1f/c9f72f67-a8e5-4c6c-b79e-3acffcf26e1f/functions_mid.mp4</video:content_loc>
+        <video:duration>1208</video:duration>
+        <video:publication_date>2017-06-13T21:28:53.4923722+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/Giving-the-Dev-a-Pager</loc>
+      <lastmod>2017-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/349a/39ac2af0-363d-4b4b-a194-b89f9501349a/odell_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Giving the Dev a Pager]]></video:title>
+        <video:description><![CDATA[Rik chats to Chris O&#39;Dell (@ChrisAnnODell) about her DDD talk: Giving the dev a pager. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/349a/39ac2af0-363d-4b4b-a194-b89f9501349a/odell_mid.mp4</video:content_loc>
+        <video:duration>1035</video:duration>
+        <video:publication_date>2017-06-13T21:10:37.2758193+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/Markov-Trump-and-Counter-Radicalization</loc>
+      <lastmod>2017-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cdfc/cabe345e-5530-4f58-acf1-bf6d82dacdfc/trump_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Markov, Trump and Counter Radicalization]]></video:title>
+        <video:description><![CDATA[Rik is joined by Gary Short to look at his DDD grok talk Markov, Trump and Counter Radicalization. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cdfc/cabe345e-5530-4f58-acf1-bf6d82dacdfc/trump_mid.mp4</video:content_loc>
+        <video:duration>1717</video:duration>
+        <video:publication_date>2017-06-13T20:53:43.0594309+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/UWP-for-Enterpise-Apps</loc>
+      <lastmod>2018-06-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/90cf/373e3f91-01d1-46d3-b9b4-bbb421c890cf/uwp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[UWP for Enterpise Apps]]></video:title>
+        <video:description><![CDATA[James Croft and Rik Hepworth talk about Universal Windows Platform apps and why they are good for Enterprise apps. Windows Template Studio: https://github.com/Microsoft/WindowsTemplateStudio/ ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/90cf/373e3f91-01d1-46d3-b9b4-bbb421c890cf/uwp_mid.mp4</video:content_loc>
+        <video:duration>1341</video:duration>
+        <video:publication_date>2017-06-13T18:48:38.1668510+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/Streaming-Large-Volumes-of-Data-into-SQL</loc>
+      <lastmod>2017-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/94a5/6d9cdb18-4c3e-4fc5-940b-6e843cf494a5/sqldata_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Streaming Large Volumes of Data into SQL]]></video:title>
+        <video:description><![CDATA[Rik is joined by Dave Mateer to discuss his talk at DDD about streaming large volumes of data into SQL. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/94a5/6d9cdb18-4c3e-4fc5-940b-6e843cf494a5/sqldata_mid.mp4</video:content_loc>
+        <video:duration>1159</video:duration>
+        <video:publication_date>2017-06-13T16:23:36.0768554+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/What-is-an-MVP</loc>
+      <lastmod>2017-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec79/5543d521-aaa4-4c9b-ae04-e7964815ec79/mvp_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is an MVP]]></video:title>
+        <video:description><![CDATA[Claire talks to Robert Hogg About MVP&#39;s and Regional Directors. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec79/5543d521-aaa4-4c9b-ae04-e7964815ec79/mvp_mid.mp4</video:content_loc>
+        <video:duration>905</video:duration>
+        <video:publication_date>2017-06-13T15:57:03.2404061+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/DDD/DDD12-Developer-Day-2017/What-is-a-DDD</loc>
+      <lastmod>2017-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/78a2/ac261807-ecde-4142-abb5-c1f71c8178a2/ddd12_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[What is a DDD]]></video:title>
+        <video:description><![CDATA[Rik Hepworth and Robert Hogg discuss DDD and how it&#39;s organised ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/78a2/ac261807-ecde-4142-abb5-c1f71c8178a2/ddd12_mid.mp4</video:content_loc>
+        <video:duration>1263</video:duration>
+        <video:publication_date>2017-06-13T15:53:47.1615877+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

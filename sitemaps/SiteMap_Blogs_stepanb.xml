@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/stepanb</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/stepanb/Kontinualni-nasazen-na-Microsoft-Azure-Web-Sites</loc>
+      <lastmod>2014-11-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1881/945676ce-51a9-4575-aa37-9c9e70b31881/kontinualninasazeni_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Kontinu&#225;ln&#237; nasazen&#237; na Microsoft Azure Web Sites]]></video:title>
+        <video:description><![CDATA[Ve screencastu se nauč&#237;te, jak nastavit kontinu&#225;ln&#237; nasazen&#237; na Microsoft Azure Web Sites pomoc&#237; Visual Studio Online. Co uvid&#237;te: Vytvořen&#237; t&#253;mov&#233;ho projektu na Visual Studio OnlinePropojen&#237; Visual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1881/945676ce-51a9-4575-aa37-9c9e70b31881/kontinualninasazeni_high.mp4</video:content_loc>
+        <video:duration>1287</video:duration>
+        <video:publication_date>2014-06-24T12:12:40.9958112+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/stepanb/Microsoft-Azure-Virtual-Machines-101</loc>
+      <lastmod>2014-06-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ded5/eae60831-6522-4670-9b66-bcbc0be6ded5/MicrosoftAzureVirtualMashines101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure Virtual Machines 101]]></video:title>
+        <video:description><![CDATA[Toto v&#253;ukov&#233; video je věnov&#225;no vytv&#225;řen&#237; virtu&#225;ln&#237;ch strojů na službě Microsoft Azure. nauč&#237;te se vytvořit virtu&#225;ln&#237; stroj z galerie, dozv&#237;te se z&#225;kladn&#237; informace o cen&#225;ch a o zabezpečen&#237;. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ded5/eae60831-6522-4670-9b66-bcbc0be6ded5/MicrosoftAzureVirtualMashines101_high.mp4</video:content_loc>
+        <video:duration>674</video:duration>
+        <video:publication_date>2014-06-12T15:21:58.4349966+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Co-daje-subskrypcja-MSDN-programiscie</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Co-daje-subskrypcja-MSDN-programiscie/01-Co-daje-subskrypcja-MSDN-programicie</loc>
+      <lastmod>2016-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/69f4/6c52da93-0f6e-4a2a-a6bc-abefd56169f4/codaje_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[01 Co daje subskrypcja MSDN programicie?]]></video:title>
+        <video:description><![CDATA[W tym kr&#243;tkim materiale pokażę co w praktyce daje subskrypcja MSDN: dodatkowe materiały edukacyjne (kursy Pluralsight, oraz Microsoft Official Courses, tzw MOC),darmowe zasoby w chmurze (Azure, Office&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/69f4/6c52da93-0f6e-4a2a-a6bc-abefd56169f4/codaje_mid.mp4</video:content_loc>
+        <video:duration>967</video:duration>
+        <video:publication_date>2016-02-18T19:18:50.9140361+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

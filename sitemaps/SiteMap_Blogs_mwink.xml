@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Introduction-to-Workflow-Services-building-WCF-Services-with-WF</loc>
+      <lastmod>2011-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Dynamically-Creating-Service-Contracts-using-Workflow-Services-in-NET-35</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4ff9/ef09fef9-7498-40ef-81cc-8cded9c04ff9/Dynamically-Creating-Service-Contracts-using-Work_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[	Dynamically Creating Service Contracts using Workflow Services in .NET 3.5]]></video:title>
+        <video:description><![CDATA[In this screencast, we show how we can use a workflow first design pattern to dynamically create a service contract when we are building workflow services. 
+
+
+For more information, check out my&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ff9/ef09fef9-7498-40ef-81cc-8cded9c04ff9/Dynamically-Creating-Service-Contracts-using-Work_mid.mp4</video:content_loc>
+        <video:duration>410</video:duration>
+        <video:publication_date>2007-08-02T23:07:30.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Creating-a-Workflow-Service-in-Approximately-60-Seconds</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d254/1d5596df-a304-4089-896b-9f63c679d254/Creating-a-Workflow-Service-in-Approximately-60-S_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a Workflow Service in Approximately 60 Seconds]]></video:title>
+        <video:description><![CDATA[Got VS 2008 Beta 2?  In this screencast, we walk through the new project templates to rapidly create a WCF service that is implemented in WF using the Send and Receive activities in .NET 3.5.  This is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d254/1d5596df-a304-4089-896b-9f63c679d254/Creating-a-Workflow-Service-in-Approximately-60-S_mid.mp4</video:content_loc>
+        <video:duration>181</video:duration>
+        <video:publication_date>2007-07-30T19:49:55.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/BizTalk-Server-2006-Extensions-for-WF</loc>
+      <lastmod>2020-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Building-WCF-Windows-Communication-Foundation-Services-with-WF-Windows-Workflow-Foundation</loc>
+      <lastmod>2013-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f8cd/8e86e99d-8e15-4e3d-9452-a10ecc02f8cd/Building-WCF-Windows-Communication-Foundation-Ser_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building WCF (Windows Communication Foundation) Services with WF (Windows Workflow Foundation)]]></video:title>
+        <video:description><![CDATA[
+I often liken WF and WCF to long lost siblings separated at birth.  Almost every customer I talk to wants to use these two technologies together.  In V1, one could certainly use the two together,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f8cd/8e86e99d-8e15-4e3d-9452-a10ecc02f8cd/Building-WCF-Windows-Communication-Foundation-Ser_mid.mp4</video:content_loc>
+        <video:duration>4832</video:duration>
+        <video:publication_date>2007-06-26T17:07:04.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Introduction-to-the-Windows-Workflow-Foundation-Pageflow-sample</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Rules-Driven-UI-using-WF</loc>
+      <lastmod>2019-05-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/mwink/Workflow-Manager-Application</loc>
+      <lastmod>2010-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

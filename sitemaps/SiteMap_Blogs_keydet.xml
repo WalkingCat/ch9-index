@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Welcome-to-OGDI</loc>
+      <lastmod>2011-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/8/0/6/2/4/5/OgdiWelcomeVideoR2_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Welcome to the Open Government Data Initiative (OGDI)]]></video:title>
+        <video:description><![CDATA[
+The Open Government Data Initiative (OGDI) is an initiative led by Microsoft
+
+Public Sector Developer Evangelism team. OGDI uses the 
+Windows Azure Platform to make it easier to publish and use a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/8/0/6/2/4/5/OgdiWelcomeVideoR2_ch9.mp4</video:content_loc>
+        <video:duration>870</video:duration>
+        <video:publication_date>2010-04-09T12:34:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Improving-perceived-WPF-app-startup-performance-with-MEF-and-a-Splash-Screen</loc>
+      <lastmod>2010-09-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5/7/4/1/4/5/WpfMefStartupTipsTricks_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Improving perceived WPF app startup performance with MEF and a Splash Screen]]></video:title>
+        <video:description><![CDATA[In this screencast, 
+Marc highlights some tips and tricks for improving perceived startup performance of Windows Presentation Foundation (WPF) applications using the Managed Extensibility Framework&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5/7/4/1/4/5/WpfMefStartupTipsTricks_ch9.mp4</video:content_loc>
+        <video:duration>742</video:duration>
+        <video:publication_date>2010-04-05T15:21:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Running-Reporting-Services-Reports-in-Windows-Azure</loc>
+      <lastmod>2014-04-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/0/1/0/2/3/5/ReportViewerWindowsAzureWithCallout_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Running Reporting Services Reports in Windows Azure]]></video:title>
+        <video:description><![CDATA[In this screencast, 
+Marc shows you how to run a SQL Server Reporting Services 2008 report in Windows Azure using the ReportViewer control that ships with Visual Studio 2010.  As an added bonus, he&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/0/1/0/2/3/5/ReportViewerWindowsAzureWithCallout_ch9.mp4</video:content_loc>
+        <video:duration>984</video:duration>
+        <video:publication_date>2010-02-23T22:01:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Implementing-Single-Touch-Gestures-with-MouseGestureTrigger</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/7/7/8/2/5/MouseGestureTrigger_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Implementing Single Touch Gestures with MouseGestureTrigger]]></video:title>
+        <video:description><![CDATA[
+A common need for Windows 7 touch user interfaces is to react to a touch gesture.  In this screencast,
+Marc demonstrates a very simple and easy way to interpret single touch gestures using&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/7/7/8/2/5/MouseGestureTrigger_ch9.mp4</video:content_loc>
+        <video:duration>333</video:duration>
+        <video:publication_date>2010-02-14T22:00:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Managing-Browser-History-Using-Client-Script-Without-ScriptManager</loc>
+      <lastmod>2011-02-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/6/2/0/7/2/5/AjaxHistoryNoScriptManager_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Managing Browser History Using Client Script Without ScriptManager]]></video:title>
+        <video:description><![CDATA[
+ASP.NET Ajax has a great feature that helps make it easy to enable back/forward button and bookmarking support in your Ajax applications.  However, most people think you need ASP.NET WebForms
+ and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/6/2/0/7/2/5/AjaxHistoryNoScriptManager_ch9.mp4</video:content_loc>
+        <video:duration>735</video:duration>
+        <video:publication_date>2010-02-09T18:11:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/US-Public-Sector-Developer-Dinner-for-Partners-Implementing-Modern-User-Experiences-with-Expression-</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/01ec/95adeeaa-e6ad-45da-a152-888ecdf801ec/US-Public-Sector-Developer-Dinner-for-Partners-Im_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[US Public Sector Developer Dinner for Partners - Implementing Modern User Experiences with&amp;#8230;]]></video:title>
+        <video:description><![CDATA[This is a recording of the US Public Sector Developer Dinner for Partners covering &amp;quot;Implementing Modern User Experiences with Expression Blend &amp;amp; Silverlight&amp;quot; held on January 27, 2009 in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/01ec/95adeeaa-e6ad-45da-a152-888ecdf801ec/US-Public-Sector-Developer-Dinner-for-Partners-Im_mid.mp4</video:content_loc>
+        <video:duration>5727</video:duration>
+        <video:publication_date>2009-02-10T11:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/US-Public-Sector-Developer-Dinner-for-Partners-Silverlight-Business-Applications</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d5d/82ec14da-4109-4b39-b36c-59e9d8467d5d/US-Public-Sector-Developer-Dinner-for-Partners-Si_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[US Public Sector Developer Dinner for Partners - Silverlight Business Applications]]></video:title>
+        <video:description><![CDATA[
+This is a recording of the US Public Sector Developer Dinner for Partners covering &amp;quot;Building Business-Focused Applications Using Silverlight 2 and Beyond&amp;quot; held on January 15, 2009 in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d5d/82ec14da-4109-4b39-b36c-59e9d8467d5d/US-Public-Sector-Developer-Dinner-for-Partners-Si_mid.mp4</video:content_loc>
+        <video:duration>6559</video:duration>
+        <video:publication_date>2009-01-26T12:23:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/US-Public-Sector-Developer-Dinner-for-Partners-NET-Framework-35-SP1</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/8/6/1/9/4/4/USPSDEVDINNER0820200835SP1_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[US Public Sector Developer Dinner for Partners - .NET Framework 3.5 SP1]]></video:title>
+        <video:description><![CDATA[This is a recording of the US Public Sector Developer Dinner for Partners covering .NET Framework 3.5 SP1 held on August 20, 2008 in Reston, Va.
+
+This presentation is a demo focused walkthrough of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/8/6/1/9/4/4/USPSDEVDINNER0820200835SP1_ch9.mp4</video:content_loc>
+        <video:duration>6317</video:duration>
+        <video:publication_date>2009-01-23T11:15:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/US-Public-Sector-Developer-Dinner-for-Partners-ASPNET-MVC</loc>
+      <lastmod>2012-05-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/5/6/1/9/4/4/USPSDEVDINNER10152008ASPNETMVC_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[US Public Sector Developer Dinner for Partners - ASP.NET MVC]]></video:title>
+        <video:description><![CDATA[
+This is a recording of the US Public Sector Developer Dinner for Partners covering ASP.NET MVC held on October 15, 2008 in Reston, Va. 
+ASP.NET MVC enables you to build Model View Controller (MVC)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/6/1/9/4/4/USPSDEVDINNER10152008ASPNETMVC_ch9.mp4</video:content_loc>
+        <video:duration>5116</video:duration>
+        <video:publication_date>2008-12-22T08:58:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Rendering-Polygons-from-SQL-Server-2008-on-Virtual-Earth</loc>
+      <lastmod>2015-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/122f/2d54abb3-a3fc-45c9-8007-ee7d2106122f/Rendering-Polygons-from-SQL-Server-2008-on-Virtua_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Rendering Polygons from SQL Server 2008 on Virtual Earth]]></video:title>
+        <video:description><![CDATA[Marc Schweigert builds off of the concepts shown in his previous screencast and shows you how to render a polygon on a Virtual Earth map using REST, Windows Communication Foundation (WCF), LINQ to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/122f/2d54abb3-a3fc-45c9-8007-ee7d2106122f/Rendering-Polygons-from-SQL-Server-2008-on-Virtua_mid.mp4</video:content_loc>
+        <video:duration>954</video:duration>
+        <video:publication_date>2008-07-18T18:08:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Saving-Virtual-Earth-Polygons-to-SQL-Server-2008</loc>
+      <lastmod>2015-04-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3f43/b96e32ff-71e5-445f-8454-05da5e0e3f43/Saving-Virtual-Earth-Polygons-to-SQL-Server-2008_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Saving Virtual Earth Polygons to SQL Server 2008]]></video:title>
+        <video:description><![CDATA[Marc Schweigert shows you how to draw a polygon on a Virtual Earth map and save it using ASP.NET AJAX, Windows Communication Foundation (WCF), LINQ to SQL, and the new geography data type in SQL&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3f43/b96e32ff-71e5-445f-8454-05da5e0e3f43/Saving-Virtual-Earth-Polygons-to-SQL-Server-2008_mid.mp4</video:content_loc>
+        <video:duration>954</video:duration>
+        <video:publication_date>2008-07-18T17:12:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Using-Virtual-Earth-in-a-WPF-Application</loc>
+      <lastmod>2010-12-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Hosting-a-Workflow-in-a-Local-Executable-using-Workflow-Services-Part-I</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/18e1/8393b07e-3e87-482b-8565-2910aabb18e1/Hosting-a-Workflow-in-a-Local-Executable-using-Wo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hosting a Workflow in a Local Executable using Workflow Services Part I]]></video:title>
+        <video:description><![CDATA[
+When the Windows Workflow Foundation (WF) was first introduced in the .NET Framework 3.0, the only way to host a workflow in a client application was to use the
+WorkflowRuntime class&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/18e1/8393b07e-3e87-482b-8565-2910aabb18e1/Hosting-a-Workflow-in-a-Local-Executable-using-Wo_mid.mp4</video:content_loc>
+        <video:duration>574</video:duration>
+        <video:publication_date>2008-04-17T23:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Hosting-a-Workflow-in-a-Local-Executable-using-Workflow-Services-Part-II</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f068/2be64efc-24e2-431a-b83a-585d7403f068/Hosting-a-Workflow-in-a-Local-Executable-using-Wo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hosting a Workflow in a Local Executable using Workflow Services Part II]]></video:title>
+        <video:description><![CDATA[
+When the Windows Workflow Foundation (WF) was first introduced in the .NET Framework 3.0, the only way to host a workflow in a client application was to use the
+WorkflowRuntime class&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f068/2be64efc-24e2-431a-b83a-585d7403f068/Hosting-a-Workflow-in-a-Local-Executable-using-Wo_mid.mp4</video:content_loc>
+        <video:duration>2062</video:duration>
+        <video:publication_date>2008-04-17T23:30:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Hosting-a-Workflow-in-a-Local-Executable-using-Workflow-Services-Part-III</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7db5/b093b06d-7cea-451a-9d70-7e422ce77db5/Hosting-a-Workflow-in-a-Local-Executable-using-Wo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hosting a Workflow in a Local Executable using Workflow Services Part III]]></video:title>
+        <video:description><![CDATA[
+When the Windows Workflow Foundation (WF) was first introduced in the .NET Framework 3.0, the only way to host a workflow in a client application was to use the
+WorkflowRuntime class&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7db5/b093b06d-7cea-451a-9d70-7e422ce77db5/Hosting-a-Workflow-in-a-Local-Executable-using-Wo_mid.mp4</video:content_loc>
+        <video:duration>708</video:duration>
+        <video:publication_date>2008-04-17T22:22:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/ExposingConsuming-RSSATOM-using-WCF-35-amp-Silverlight-2</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc13/907d4110-f089-48de-8ae4-c6e5be0cbc13/ExposingConsuming-RSSATOM-using-WCF-35-amp-Silver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Exposing/Consuming RSS/ATOM using WCF 3.5 &amp;amp; Silverlight 2]]></video:title>
+        <video:description><![CDATA[Marc Schweigert shows you how easy it is to expose RSS and Atom feeds using the new
+
+Web Programming Model (REST) features, classes in the new 
+System.ServiceModel.Syndication namespace, and 
+LINQ&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc13/907d4110-f089-48de-8ae4-c6e5be0cbc13/ExposingConsuming-RSSATOM-using-WCF-35-amp-Silver_mid.mp4</video:content_loc>
+        <video:duration>943</video:duration>
+        <video:publication_date>2008-04-11T20:40:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Silverlight-2-DIGG-Sample-Part-I</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4afa/b666582c-3be6-4908-835f-38f5269c4afa/Silverlight-2-DIGG-Sample-Part-I_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight 2 DIGG Sample Part I]]></video:title>
+        <video:description><![CDATA[
+Scott Guthrie has a great eight part series titled
+
+First Look at Silverlight 2 where he walks you through building a Silverlight 2 sample app from scratch.  The walkthrough highlights almost all&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4afa/b666582c-3be6-4908-835f-38f5269c4afa/Silverlight-2-DIGG-Sample-Part-I_mid.mp4</video:content_loc>
+        <video:duration>803</video:duration>
+        <video:publication_date>2008-04-04T01:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Silverlight-2-DIGG-Sample-Part-II</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6ae0/cf042668-ca65-4f8a-b882-14efa7d76ae0/Silverlight-2-DIGG-Sample-Part-II_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight 2 DIGG Sample Part II]]></video:title>
+        <video:description><![CDATA[
+Scott Guthrie has a great eight part series titled
+
+First Look at Silverlight 2 where he walks you through building a Silverlight 2 sample app from scratch.  The walkthrough highlights almost all&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6ae0/cf042668-ca65-4f8a-b882-14efa7d76ae0/Silverlight-2-DIGG-Sample-Part-II_mid.mp4</video:content_loc>
+        <video:duration>862</video:duration>
+        <video:publication_date>2008-04-04T01:17:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Silverlight-2-DIGG-Sample-Part-III</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f86b/b48fbb7d-74fa-4bbe-bd16-fe074ab3f86b/Silverlight-2-DIGG-Sample-Part-III_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Silverlight 2 DIGG Sample Part III]]></video:title>
+        <video:description><![CDATA[
+Scott Guthrie has a great eight part series titled
+
+First Look at Silverlight 2 where he walks you through building a Silverlight 2 sample app from scratch.  The walkthrough highlights almost all&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f86b/b48fbb7d-74fa-4bbe-bd16-fe074ab3f86b/Silverlight-2-DIGG-Sample-Part-III_mid.mp4</video:content_loc>
+        <video:duration>1027</video:duration>
+        <video:publication_date>2008-04-04T00:31:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/JavaScript-Intellisense-for-the-Virtual-Earth-Map-Control</loc>
+      <lastmod>2013-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d0cc/1561a895-30bb-4b49-b017-487041dcd0cc/JavaScript-Intellisense-for-the-Virtual-Earth-Map_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[JavaScript Intellisense for the Virtual Earth Map Control]]></video:title>
+        <video:description><![CDATA[UPDATE:  Folks are experiencing issues sending to the contribution email address.  This has been fixed.  Details
+
+here.
+
+Have you ever wished you could get JavaScript Intellisense for the Virtual&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d0cc/1561a895-30bb-4b49-b017-487041dcd0cc/JavaScript-Intellisense-for-the-Virtual-Earth-Map_mid.mp4</video:content_loc>
+        <video:duration>612</video:duration>
+        <video:publication_date>2008-02-26T16:02:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Adding-Closed-Captioning-to-video-using-Silverlight-ASPNET-AJAX-WCF-and-an-external-data-source</loc>
+      <lastmod>2010-09-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Adding-Closed-Captioning-to-video-using-Expression-Media-Encoder-and-Silverlight</loc>
+      <lastmod>2013-08-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3cee/ef4153d5-d6f5-4fb7-b598-06e62b7f3cee/Adding-Closed-Captioning-to-video-using-Expressio_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Adding Closed Captioning to video using Expression Media Encoder and Silverlight]]></video:title>
+        <video:description><![CDATA[Do you have a need to produce cross browser video with Closed Captioning that targets both Windows and the Mac?  If so, then you stumbled upon the right screencast!  I&#39;ll show you how in a little over&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3cee/ef4153d5-d6f5-4fb7-b598-06e62b7f3cee/Adding-Closed-Captioning-to-video-using-Expressio_mid.mp4</video:content_loc>
+        <video:duration>390</video:duration>
+        <video:publication_date>2007-07-31T05:50:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Using-the-UpdatePanel-and-tab-controls-from-the-AJAX-Control-Toolkit-to-build-an-quotin-placequot</loc>
+      <lastmod>2010-12-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Simplifying-XMLHTTP-programming-with-ASPNET-Atlas-part-II</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Simplifying-XMLHTTP-programming-with-ASPNET-Atlas-part-I</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Examining-the-quotAtlasquot-Control-Toolkit</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/AJAX-Enabling-ASPNET-20-Web-Parts-with-quotAtlasquot</loc>
+      <lastmod>2010-11-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Attaching-Client-Functionality-to-ASPNET-Server-Controls-using-ASPNET-quotAtlasquot</loc>
+      <lastmod>2010-11-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Enabling-Partial-Page-Updates-with-the-ASPNET-Atlas-UpdatePanel</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Mashup-101-Virtual-Earth-and-ASPNET-Atlas-Part-II</loc>
+      <lastmod>2010-09-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Mashup-101-Virtual-Earth-Map-Control-and-AJAX-Part-I</loc>
+      <lastmod>2011-02-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Easy-Multithreaded-Programming-Using-BackgroundWorker</loc>
+      <lastmod>2016-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Writing-Provider-Independent-Data-Access-Code</loc>
+      <lastmod>2013-01-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Creating-an-Accessible-Web-Page</loc>
+      <lastmod>2015-12-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/keydet/Creating-a-Native-XML-Web-Service-in-SQL-Server-2005</loc>
+      <lastmod>2013-01-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

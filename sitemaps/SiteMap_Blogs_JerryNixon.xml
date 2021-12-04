@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/JerryNixon</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/JerryNixon/Building-Warp-Drive-with-Windows-10-XAML</loc>
+      <lastmod>2018-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1e58/9096112e-b9b7-41b3-a4e6-af1bc7601e58/Video_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building Warp Drive with Windows 10 XAML]]></video:title>
+        <video:description><![CDATA[Jerry Nixon creates that iconic stretch and rainbow star field that Captain Picard enjoys while engaging the FTL. The trick of course is the new Transform3D capabilities introduced in Windows 10. So&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1e58/9096112e-b9b7-41b3-a4e6-af1bc7601e58/Video_mid.mp4</video:content_loc>
+        <video:duration>1059</video:duration>
+        <video:publication_date>2016-01-26T22:19:35.5008314+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

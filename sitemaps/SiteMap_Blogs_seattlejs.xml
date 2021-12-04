@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/Monthly-Meetup-February-2016-Topic-2-Nothing-Sounds-Quite-Like-An-ng808</loc>
+      <lastmod>2016-02-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44b2/07bd2786-302a-4754-9b54-849167a344b2/2016021102_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup February 2016 - Topic 2: Nothing Sounds Quite Like An (ng)808]]></video:title>
+        <video:description><![CDATA[Topic 1: Nothing Sounds Quite Like An (ng)808 by Leigh Caplan @texel | gh texel   abstract:: Do you like JavaScript? How about music? No? Ok, you should leave now. For the rest of you hi, thanks for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44b2/07bd2786-302a-4754-9b54-849167a344b2/2016021102_mid.mp4</video:content_loc>
+        <video:duration>2209</video:duration>
+        <video:publication_date>2016-02-27T03:21:22.5549783+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/2016021101</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1799/4f00fea1-07a0-4c2f-bc12-909b89011799/2016021101_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup February 2016 - Topic 1: Speech Recognition in the Browser]]></video:title>
+        <video:description><![CDATA[Topic 1: Speech Recognition in the Browser by Jakub Jedryszek @JakubJedryszek| gh jj09  abstract:: Mouse and keyboard are not the only ways how we can communicate with our devices. We already talk to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1799/4f00fea1-07a0-4c2f-bc12-909b89011799/2016021101_mid.mp4</video:content_loc>
+        <video:duration>2360</video:duration>
+        <video:publication_date>2016-02-27T03:20:11.6862317+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02</loc>
+      <lastmod>2016-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/527f/82bec193-97d3-45ea-9e69-2a839061527f/2016011402_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup January 2016 - Topic 2: Hiking Through the JavaScript Forest by Jamund Ferguson]]></video:title>
+        <video:description><![CDATA[Jamund Ferguson (@xjamundx) describes how to turn your JavaScript code into an AST (Abstract Syntax Tree) and then manipulate your code in its new form in a variety of exciting ways. You can use AST&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/527f/82bec193-97d3-45ea-9e69-2a839061527f/2016011402_mid.mp4</video:content_loc>
+        <video:duration>1895</video:duration>
+        <video:publication_date>2016-02-17T13:45:32.5683892+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-01</loc>
+      <lastmod>2018-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eee0/45fd92e3-c95f-4b3b-911d-65aaadb8eee0/2016011401_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup January 2016 - Topic 1: Observables Everywhere by Jeremy Foster]]></video:title>
+        <video:description><![CDATA[Many developers have yet to look into FRP (functional reactive programming) in general or observable pattern implementations like ReactiveX (reactivex.io) specifically, and they haven&#39;t seen the power&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eee0/45fd92e3-c95f-4b3b-911d-65aaadb8eee0/2016011401.mp4</video:content_loc>
+        <video:duration>2065</video:duration>
+        <video:publication_date>2016-02-17T13:36:20.9757841+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/2015-12-14-03</loc>
+      <lastmod>2016-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/80381d8c-e5c7-4b39-ae56-a4a08c116149.png</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup Dec 2015 - Topic 3: You Don&#39;t Know npm!]]></video:title>
+        <video:description><![CDATA[Topic 3: You Don&#39;t Know npm! by Ashley Williams @ag_dubs | gh: ashleygwilliams  bio:: Ashley Williams is the developer community and content manager at npm, Inc. In so many words, it&#39;s her problem&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0a64/51524eff-290d-4ed7-b780-da9759420a64/SeattleJS2015Williams_mid.mp4</video:content_loc>
+        <video:duration>1229</video:duration>
+        <video:publication_date>2016-01-13T17:45:31.5278831+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/2015-12-14-01</loc>
+      <lastmod>2017-01-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/afd0e172-a511-4cae-9243-987868753f80.png</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup Dec 2015 - Topic 1: Exponent and React Native]]></video:title>
+        <video:description><![CDATA[Topic 1: Exponent and React Native by Charlie Cheever @ccheever | gh: ccheever  bio:: Charlie grew up in Pittsburgh and is a Harvard graduate. He has worked for Amazon.com as an SDE and as an engineer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe73/8da0d5ce-5819-4f9c-a471-ca010cb0fe73/SeattleJS2015Cheever_mid.mp4</video:content_loc>
+        <video:duration>1894</video:duration>
+        <video:publication_date>2016-01-13T16:38:17.8588525+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/seattlejs/2015-12-14-02</loc>
+      <lastmod>2016-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/1792ffd5-5b22-4434-8650-33d24e9e9ecf.png</video:thumbnail_loc>
+        <video:title><![CDATA[Monthly Meetup Dec 2015 - Topic 2: Node.js + Visual Studio + Bobbleheads = AWESOME]]></video:title>
+        <video:description><![CDATA[Topic 2: Node.js &amp;#43; Visual Studio &amp;#43; Bobbleheads = AWESOME  by Sara Itani @mousetraps | gh: mousetraps  bio:: Sara works on Node.js tools at Microsoft and contributes to many of Microsoft&#39;s&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9693/c76823ca-621d-4557-b4eb-e5d2b63e9693/SeattleJS2015Itani_mid.mp4</video:content_loc>
+        <video:duration>1099</video:duration>
+        <video:publication_date>2016-01-13T16:31:36.4442863+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

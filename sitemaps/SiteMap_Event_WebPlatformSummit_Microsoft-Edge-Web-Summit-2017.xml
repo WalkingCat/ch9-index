@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES04</loc>
+      <lastmod>2017-11-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/250b/8f24a003-e51b-4446-845d-7eadbb7c250b/EdgeSummit17PWAHWAElectron_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PWA, HWA, Electron, oh my! Making sense of the evolving web app landscape]]></video:title>
+        <video:description><![CDATA[We all love web code, but there is only so much you can do in the browser. Native apps allow you to do more, but trying to shoehorn web code into a native experience historically hasn&#39;t served our&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/250b/8f24a003-e51b-4446-845d-7eadbb7c250b/EdgeSummit17PWAHWAElectron_mid.mp4</video:content_loc>
+        <video:duration>2048</video:duration>
+        <video:publication_date>2017-09-19T17:19:48.8897559+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES10</loc>
+      <lastmod>2017-10-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7d12/1338e653-8750-4b69-b9b8-1861b5f87d12/WhatsNewandBeyondForTheMicrosoftEdgeDevTools_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Whats new and beyond for the Microsoft Edge DevTools]]></video:title>
+        <video:description><![CDATA[In the Fall Creator&#39;s Update, we&#39;ve begun a effort to overhaul Microsoft Edge&#39;s DevTools - from our underlying debugging components to the user experience to new tools based on user feedback. In this&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d12/1338e653-8750-4b69-b9b8-1861b5f87d12/WhatsNewandBeyondForTheMicrosoftEdgeDevTools_mid.mp4</video:content_loc>
+        <video:duration>1260</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES09</loc>
+      <lastmod>2017-10-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6686/00e98f8f-c815-46d5-a468-aa2a79d56686/PayTheWebForward_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pay the Web Forward: Making payments simpler on the Modern Web]]></video:title>
+        <video:description><![CDATA[Buying things on the web can be tedious, frustrating and painfully archaic. Enter the W3C Payment Request API, a standardized API to build simpler checkout experiences powered by a native front-end,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6686/00e98f8f-c815-46d5-a468-aa2a79d56686/PayTheWebForward_mid.mp4</video:content_loc>
+        <video:duration>1659</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08</loc>
+      <lastmod>2017-09-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b1b7/d76140fa-fa67-4a9f-b23b-4b9bf4d3b1b7/CSSGrid_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CSS Grid: Bringing true two-dimensional layout to the web]]></video:title>
+        <video:description><![CDATA[CSS Grid Layout promises to revolutionize layout on the web, bringing true two-dimensional layout to the web for the first time. We&#39;ll show how Grid Layout got started at Microsoft in XAML, and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1b7/d76140fa-fa67-4a9f-b23b-4b9bf4d3b1b7/CSSGrid_mid.mp4</video:content_loc>
+        <video:duration>1787</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES07</loc>
+      <lastmod>2017-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/defe/45f02f54-fb6a-4d67-9f4a-50054bc7defe/SonarANewLintingToolForTheWeb_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[sonar: A new linting tool for the web]]></video:title>
+        <video:description><![CDATA[sonar is a new linting tool for the web that helps developers identify best practices throughout the development process. Web development is hard: In addition to the &amp;quot;basics&amp;quot; of HTML, CSS,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/defe/45f02f54-fb6a-4d67-9f4a-50054bc7defe/SonarANewLintingToolForTheWeb_mid.mp4</video:content_loc>
+        <video:duration>945</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES06</loc>
+      <lastmod>2017-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/ce8c/761da947-c1f2-4268-88e1-f9f0f0b8ce8c/Edge17JavaScriptthatScaleswithChakraCore_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[JavaScript that Scales with ChakraCore and TypeScript]]></video:title>
+        <video:description><![CDATA[ChakraCore, the open-source cross-platform core component of the Chakra JavaScript engine in Microsoft Edge, continues to improve on its industry leading architecture delivering further performance&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ce8c/761da947-c1f2-4268-88e1-f9f0f0b8ce8c/Edge17JavaScriptthatScaleswithChakraCore_mid.mp4</video:content_loc>
+        <video:duration>2129</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES05</loc>
+      <lastmod>2017-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/2173/692be090-cbd6-4305-ba58-9f002eee2173/ServiceWorkerGoingBeyondThePage_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Service Worker: Going beyond the page]]></video:title>
+        <video:description><![CDATA[Service workers provide web apps and sites a way to stretch themselves outside the document-centric web. They provide a model fully prescribed in standards-based JavaScript to both intercept resource&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2173/692be090-cbd6-4305-ba58-9f002eee2173/ServiceWorkerGoingBeyondThePage_mid.mp4</video:content_loc>
+        <video:duration>1810</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES03</loc>
+      <lastmod>2017-10-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3d36/327d91cb-590b-403d-9790-789c59f33d36/BuildingASaferBrowser_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a safer browser: Four guards to keep users safe]]></video:title>
+        <video:description><![CDATA[The web evolves fast, but nimble attackers are just as fast at adapting their techniques in order to steal your data and get their code running on your computer. At Edge we research the most common&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3d36/327d91cb-590b-403d-9790-789c59f33d36/BuildingASaferBrowser_mid.mp4</video:content_loc>
+        <video:duration>1561</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES01</loc>
+      <lastmod>2018-08-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/cf74/76a2eefd-1d3c-4241-a480-c7116487cf74/EdgeWebSummitKeynote_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Keynote]]></video:title>
+        <video:description><![CDATA[Charles Morris kicks off Microsoft Edge Web Summit 2017 with a whirlwind tour of what&#39;s new in Microsoft Edge in EdgeHTML 16, and some exciting announcements about what&#39;s in store for the year ahead.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cf74/76a2eefd-1d3c-4241-a480-c7116487cf74/EdgeWebSummitKeynote_mid.mp4</video:content_loc>
+        <video:duration>3856</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6250042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES15</loc>
+      <lastmod>2017-10-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7cd1/2879ec8e-70f8-48ae-9694-5f2abf837cd1/WebPerformanceInTheRealWorld_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Web performance in the real world: how to make fast websites]]></video:title>
+        <video:description><![CDATA[There is boundless advice out there on how to improve web performance. Some folks will tell you to avoid complex CSS selectors, others will tell you to reduce your JavaScript bundle size, and others&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7cd1/2879ec8e-70f8-48ae-9694-5f2abf837cd1/WebPerformanceInTheRealWorld_mid.mp4</video:content_loc>
+        <video:duration>1762</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6093143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES14</loc>
+      <lastmod>2019-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/0d82/baf2a177-a24d-4093-ad72-7ff2fb720d82/BuildingAFasterBrowser_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Building a faster browser: Behind the scenes improvements in Microsoft Edge]]></video:title>
+        <video:description><![CDATA[Have you ever experienced a web page that doesn&#39;t run as quickly as you&#39;d like? The web moves at lightning speed, and so do we. In this session, you&#39;ll get a behind the scenes view of how the browser&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0d82/baf2a177-a24d-4093-ad72-7ff2fb720d82/BuildingAFasterBrowser_mid.mp4</video:content_loc>
+        <video:duration>1597</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6093143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES13</loc>
+      <lastmod>2017-09-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d2a3/4778e51e-481b-4579-9432-8c73a71cd2a3/TheJourneyToAMoreAccessibleWebPlatform_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The journey to a more accessible Web Platform]]></video:title>
+        <video:description><![CDATA[One of our core philosophies is that the Web should just work for everyone, regardless of ability. In this session, we&#39;ll look at how Microsoft Edge empowers users through accessibility and inclusive&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d2a3/4778e51e-481b-4579-9432-8c73a71cd2a3/TheJourneyToAMoreAccessibleWebPlatform_mid.mp4</video:content_loc>
+        <video:duration>1689</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6093143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES12</loc>
+      <lastmod>2017-11-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/51f9/331af768-329b-4e54-92bb-1436480c51f9/MixedRealityInMicrosoftEdge_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Mixed Reality in Microsoft Edge with WebVR]]></video:title>
+        <video:description><![CDATA[WebVR is the open standard bringing Virtual Reality and Mixed Reality to the web! Join us to learn how WebVR can enhance your existing sites with experiences that work cross-platform and launch&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/51f9/331af768-329b-4e54-92bb-1436480c51f9/MixedRealityInMicrosoftEdge_mid.mp4</video:content_loc>
+        <video:duration>1735</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6093143+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES11</loc>
+      <lastmod>2017-09-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/79b2/60d1d74c-e86a-4a50-82b5-f8f5000679b2/HowWePlanAtMicrosoftEdge_220.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Decisions, Decisions, Decisions: How we plan at Microsoft Edge]]></video:title>
+        <video:description><![CDATA[Like most engineering teams, we have limited time and resources. We&#39;re passionate about making the Web work for everyone, and delivering the innovative new features that enable truly next-generation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/79b2/60d1d74c-e86a-4a50-82b5-f8f5000679b2/HowWePlanAtMicrosoftEdge_mid.mp4</video:content_loc>
+        <video:duration>1517</video:duration>
+        <video:publication_date>2017-09-12T18:19:44.6093143+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

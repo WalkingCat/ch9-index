@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Norske-utviklere</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Norske-utviklere/Christian-Falch-om-DevOps-med-Xamarin</loc>
+      <lastmod>2017-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2250/6dd72065-4b5f-4dbc-88f9-9aa487292250/FalchTT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Christian Falch om DevOps med Xamarin]]></video:title>
+        <video:description><![CDATA[Christian Falch er r&#229;dgiver og konsulent innen mobile l&#248;sninger. Han forteller om hvordan Team Foundation Server og Visual Studio Team Services kan effektivisere dine utviklingsprosesser med hjelp av&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2250/6dd72065-4b5f-4dbc-88f9-9aa487292250/FalchTT_mid.mp4</video:content_loc>
+        <video:duration>73</video:duration>
+        <video:publication_date>2017-05-03T08:04:35.9511627+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Norske-utviklere/Christian-Falch-om-mobilutvikling-i-Azure</loc>
+      <lastmod>2017-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ac9b/61a10c74-891d-4c23-89a8-d1a2b348ac9b/Falch_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Christian Falch om mobilutvikling i Azure]]></video:title>
+        <video:description><![CDATA[Christian Falch er r&#229;dgiver og konsulent innen mobile l&#248;sninger. Han forteller om hvordan Visual Studio, Xamarin og Azure forenkler hans hverdag som utvikler. Les mer om kryss-platform mobilutvikling&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ac9b/61a10c74-891d-4c23-89a8-d1a2b348ac9b/Falch_mid.mp4</video:content_loc>
+        <video:duration>57</video:duration>
+        <video:publication_date>2017-04-21T12:09:03.6155227+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Norske-utviklere/Harald-Fianbakken-om-PowerShell-og-API-Management</loc>
+      <lastmod>2017-03-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c054/106d1f8a-2ce5-44fc-bc63-6d3a8651c054/ForseTT_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Harald Fianbakken om PowerShell og API Management]]></video:title>
+        <video:description><![CDATA[Harald Fianbakken forteller om sine favoritter i Azure: PowerShell via kommandolinje-grensesnittet og API Management for publisering, eksponering og versjonering av APIer. Nyttige lenker: API&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c054/106d1f8a-2ce5-44fc-bc63-6d3a8651c054/ForseTT_mid.mp4</video:content_loc>
+        <video:duration>60</video:duration>
+        <video:publication_date>2017-03-30T07:16:17.1283146+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Norske-utviklere/Harald-Fianbakken-om-sikkerhet-og-DevOps</loc>
+      <lastmod>2017-03-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c4a7/0a69784c-672a-4ece-bcce-249a3bf8c4a7/Forse_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Harald Fianbakken om sikkerhet og DevOps]]></video:title>
+        <video:description><![CDATA[Harald Fianbakken forteller om innebygget sikkerhet med Azure AD og optimalisering av utviklingsprosesser med Visual Studio Team Services. Nyttige lenker:  DevOps self-assessment, er din organisasjon&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c4a7/0a69784c-672a-4ece-bcce-249a3bf8c4a7/Forse_mid.mp4</video:content_loc>
+        <video:duration>68</video:duration>
+        <video:publication_date>2017-03-07T11:01:55.3864960+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

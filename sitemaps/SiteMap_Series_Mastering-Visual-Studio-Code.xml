@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code/Debug-Nodejs-App</loc>
+      <lastmod>2018-06-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f705/d058b3da-e236-43be-ac41-76f1baa3f705/DebugNodejsApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VSCode:  Node.js ]]></video:title>
+        <video:description><![CDATA[Visual Studio Code 除了拿來編寫程式碼之外，也可以執行 Node.js 或 ASP.NET 5 的應用程式，並且提供一些基本的除錯功能。 活用 Visual Studio Code 系列： Visual Studio Code 簡介VSCode: 基本編輯器操作VSCode: 進階的編輯器功能VSCode: 使用 Git 版本控制VSCode: 執行並偵錯 Node.js 應用程式]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f705/d058b3da-e236-43be-ac41-76f1baa3f705/DebugNodejsApp_mid.mp4</video:content_loc>
+        <video:duration>352</video:duration>
+        <video:publication_date>2015-11-09T17:01:05.1802933+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code/Using-Git-Version-Control</loc>
+      <lastmod>2016-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b1e3/b6d91015-c455-46ab-a942-9e515d85b1e3/VSCodeGit_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VSCode:  Git ]]></video:title>
+        <video:description><![CDATA[這部影片將介紹 Visual Studio Code 所整合的 Git 版本控制功能，瞭解如何操作並使用 Git 的功能。 活用 Visual Studio Code 系列： Visual Studio Code 簡介VSCode: 基本編輯器操作VSCode: 進階的編輯器功能VSCode: 使用 Git 版本控制VSCode: 執行並偵錯 Node.js 應用程式]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b1e3/b6d91015-c455-46ab-a942-9e515d85b1e3/VSCodeGit_mid.mp4</video:content_loc>
+        <video:duration>530</video:duration>
+        <video:publication_date>2015-09-24T03:44:14.8352070+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code/Advanced-Editor-Features</loc>
+      <lastmod>2016-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a2e8/d3481348-86e7-46db-a738-d9103b1ea2e8/VSCodeAdvancedEditorFeatures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VSCode: ]]></video:title>
+        <video:description><![CDATA[這部影片介紹如何使用 Visual Studio Code 中許多關於程式開發的進階功能： 大括號（或任何需要配對的標籤）配對多重游標同時修改。快速程式碼選取程式碼提示功能（IntelliSense）快速產生程式碼片段（code snippets）查找定義活用 Visual Studio Code 系列： Visual Studio Code 簡介VSCode: 基本編輯器操作VSCode:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a2e8/d3481348-86e7-46db-a738-d9103b1ea2e8/VSCodeAdvancedEditorFeatures_mid.mp4</video:content_loc>
+        <video:duration>758</video:duration>
+        <video:publication_date>2015-09-20T16:41:32.9084992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code/Basic-Editor-Features</loc>
+      <lastmod>2016-08-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b48/eb4d9e23-4fa1-4ac7-8474-61fb458a8b48/VSCodeBasicEditorFeature_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[VSCode: ]]></video:title>
+        <video:description><![CDATA[這部影片介紹 Visual Studio Code 編輯器的一些簡單操作方式，包含開啟方式、Side-by-side 編輯、搜尋、設定等功能。 [00:08] 使用拖拉目錄的方式開啟 Visual Studio Code。[00:31] 使用命令列模式開啟 Visual Studio Code。[01:11] 專案總管的顯示及操作。[02:03] 分割編輯器區域，做 side-by-side&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b48/eb4d9e23-4fa1-4ac7-8474-61fb458a8b48/VSCodeBasicEditorFeature_mid.mp4</video:content_loc>
+        <video:duration>361</video:duration>
+        <video:publication_date>2015-09-20T09:48:14.6695955+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code/VSCode-Overview</loc>
+      <lastmod>2019-03-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/cebd/27f7e82c-f3af-4f0c-92c3-f529efa0cebd/VSCodeOverview_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Visual Studio Code ]]></video:title>
+        <video:description><![CDATA[簡介 Visual Studio Code 以及基本的操作與編寫程式碼的體驗。 活用 Visual Studio Code 系列： Visual Studio Code 簡介VSCode: 基本編輯器操作VSCode: 進階操作VSCode: Git 版本控制VSCode: 執行並偵錯 Node.js 應用程式]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/cebd/27f7e82c-f3af-4f0c-92c3-f529efa0cebd/VSCodeOverview_mid.mp4</video:content_loc>
+        <video:duration>250</video:duration>
+        <video:publication_date>2015-09-19T16:21:22.0652342+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

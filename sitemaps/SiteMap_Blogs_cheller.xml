@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cheller</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cheller/Sensor-Network-Research-at-the-EMIC</loc>
+      <lastmod>2010-09-09</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/1/9/4/7/3/4/20080905EMICSensorNetwork_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Sensor Network Research at the EMIC]]></video:title>
+        <video:description><![CDATA[
+What do limping cows and elderly home care have in common?  It turns out, they&#39;re both the target of research projects involving sensor networks at the
+European Microsoft Innovation Center (EMIC)&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/1/9/4/7/3/4/20080905EMICSensorNetwork_ch9.mp4</video:content_loc>
+        <video:duration>1596</video:duration>
+        <video:publication_date>2008-11-03T08:37:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/cheller/A-Look-at-the-NET-Micro-Framework</loc>
+      <lastmod>2010-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/7/1/0/3/4/20080801NETMF_large_ch9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[A Look at the .NET Micro Framework]]></video:title>
+        <video:description><![CDATA[
+Built from the ground up, the .NET Micro Framework is a platform for resource-constrained devices that extends Microsoft’s embedded offering to smaller, simpler “sub-CE”  devices  (i.e. devices&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/7/1/0/3/4/20080801NETMF_ch9.mp4</video:content_loc>
+        <video:duration>2233</video:duration>
+        <video:publication_date>2008-10-14T08:18:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

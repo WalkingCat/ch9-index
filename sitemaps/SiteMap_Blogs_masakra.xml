@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/masakra</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/masakra/Internet-Explorer-8-Bezpieczestwo</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/1/6/4/8/3/5/IE8StudBezpieczenstwo_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Internet Explorer 8: Bezpieczestwo]]></video:title>
+        <video:description><![CDATA[
+Film przedstawia możliwości oraz użycie filtru Smart Screen, przykład sprawdzania bezpieczeństwa dowolnej witryny sieci WEB, kt&#243;re są por&#243;wnywane z bazą Microsoftu.
+
+Przedstawione zostało r&#243;wnież&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/1/6/4/8/3/5/IE8StudBezpieczenstwo_ch9.mp4</video:content_loc>
+        <video:duration>156</video:duration>
+        <video:publication_date>2010-04-01T21:28:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/masakra/Internet-Explorer-8-Prywatno</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/6/4/8/3/5/IE8StudPrywatnosc_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Internet Explorer 8: Prywatno]]></video:title>
+        <video:description><![CDATA[
+W filmie pokazano jak korzystać z trybu InPrivate, om&#243;wiono i przedstawiono konfigurację filtrowania InPrivate. Zaprezentowano przykład generowania raport&#243;w bezpieczeństwa na temat danej witryny,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/6/4/8/3/5/IE8StudPrywatnosc_ch9.mp4</video:content_loc>
+        <video:duration>285</video:duration>
+        <video:publication_date>2010-04-01T21:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/masakra/Internet-Explorer-8-Niezawodno</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/6/4/8/3/5/IE8StudNiezawodnosc_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Internet Explorer 8: Niezawodno]]></video:title>
+        <video:description><![CDATA[
+Film omawia możliwość pracy programu Internet Explorer 8 w wielu procesach. Każdy proces może zawierać kilka kart w zależności od konfiguracji sprzętowej komputera. Umożliwia to łatwe i efektywne&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/6/4/8/3/5/IE8StudNiezawodnosc_ch9.mp4</video:content_loc>
+        <video:duration>54</video:duration>
+        <video:publication_date>2010-03-29T08:42:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/masakra/Internet-Explorer-8-Narzdzia-deweloperskie</loc>
+      <lastmod>2012-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/2/1/7/7/3/5/IE8StudDevTools_512_ch9.png</video:thumbnail_loc>
+        <video:title><![CDATA[Internet Explorer 8: Narzdzia deweloperskie]]></video:title>
+        <video:description><![CDATA[
+Film omawia narzędzia przydatne dla tw&#243;rc&#243;w stron, kt&#243;re umożliwiają m.in. podgląd i edycję plik&#243;w źr&#243;dłowych, przykład dostosowania aplikacji pod danego użytkownika, określenie czasu wykonania&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/2/1/7/7/3/5/IE8StudDevTools_ch9.mp4</video:content_loc>
+        <video:duration>371</video:duration>
+        <video:publication_date>2010-03-29T08:38:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MSDN-News-GiGi-Time</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MSDN-News-GiGi-Time/MSDN-News-Aug-2014</loc>
+      <lastmod>2014-08-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/79b9/4059158b-4ab1-48f9-b057-f030ec2c79b9/MSDNNewsAug2014_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[MSDN News - ]]></video:title>
+        <video:description><![CDATA[最近好多令人振奮的好消息~ 除了揪十個朋友觀看MVA微軟虛擬學院線上課程，就有機會抽 Surface 2(活動資訊請看: https://aka.ms/MVA-surface2 ) Surface Pro 3 八月底在台灣上市，XBOX ONE 九月在台灣上市9/9- 9/11 微軟一年一度的技術盛會 TechDays 2014 也已經開始報名~ 請上 techdays.com 而久違的 MSDN&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/79b9/4059158b-4ab1-48f9-b057-f030ec2c79b9/MSDNNewsAug2014_mid.mp4</video:content_loc>
+        <video:duration>111</video:duration>
+        <video:publication_date>2014-08-14T03:31:27.2731352+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Shows/MSDN-News-GiGi-Time/Microsoft-Azure-API-Managment-Henry-Wu</loc>
+      <lastmod>2014-08-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b633/1054573c-3bd7-4a21-9316-70971385b633/MicrosoftAzureAPIManagementHenryWu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Microsoft Azure API Managment  -  Henry Wu]]></video:title>
+        <video:description><![CDATA[上任不久熱騰騰的微軟技術傳教士 Henry Wu 要幫大家介紹雲端功能!10 分鐘了解 Microsoft Azure API Managment 相關功能 誠懇又詳細的介紹，大家千萬別錯過! ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b633/1054573c-3bd7-4a21-9316-70971385b633/MicrosoftAzureAPIManagementHenryWu_mid.mp4</video:content_loc>
+        <video:duration>619</video:duration>
+        <video:publication_date>2014-08-14T03:20:04.2166873+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

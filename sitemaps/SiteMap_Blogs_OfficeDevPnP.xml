@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint--Office-365-Dev-Patterns--Practices-September-2016-Community-Call</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/500a/7da81a94-e665-4b79-8234-46c812cb500a/PnPMonthlyCallSep2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint / Office 365 Dev Patterns &amp; Practices - September 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) September 2016 community call kept on 13th of September 2016. Thanks everyone who participated and let&#39;s continue discussion in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/500a/7da81a94-e665-4b79-8234-46c812cb500a/PnPMonthlyCallSep2016_mid.mp4</video:content_loc>
+        <video:duration>4177</video:duration>
+        <video:publication_date>2016-09-19T12:23:27.0041153+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Webcast-Getting-started-with-SharePoint-Webhook</loc>
+      <lastmod>2017-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/27ff/cfe498ef-b94b-4f4d-a746-02f3bebc27ff/webhooktutorial_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Webcast - Getting started with SharePoint Webhook]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on showing how to get started with upcoming SharePoint Webhooks. SharePoint Webhooks allow developers to build service integration which subscribe to receive&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/27ff/cfe498ef-b94b-4f4d-a746-02f3bebc27ff/webhooktutorial_mid.mp4</video:content_loc>
+        <video:duration>2011</video:duration>
+        <video:publication_date>2016-09-05T10:26:02.3875590+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Framework-Tutorial-6-Using-Office-UI-Fabric-Components</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0721/8c13eb81-d03a-4af8-87db-8c629f110721/SPFxTutorials6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Framework Tutorial 6 - Using Office UI Fabric Components]]></video:title>
+        <video:description><![CDATA[This tutorial will guide you in building a simple web part that uses one of the Office UI Fabric components, DocumentCard. You can find written version of this tutorial from following location -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0721/8c13eb81-d03a-4af8-87db-8c629f110721/SPFxTutorials6_mid.mp4</video:content_loc>
+        <video:duration>719</video:duration>
+        <video:publication_date>2016-09-01T06:49:14.3619113+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Framework-Tutorial-5-jQueryUI-Accordion-WebPart</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b72b/9822d8c0-ba6a-4c62-927b-bab7f6afb72b/SPFxTutorials5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Framework Tutorial 5 - jQueryUI Accordion WebPart]]></video:title>
+        <video:description><![CDATA[In this tutorial, lets add the jQueryUI Accordion to our web part project. We will build on top of the skills from previous tutorials, but will create a new web part for it. You can find written&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b72b/9822d8c0-ba6a-4c62-927b-bab7f6afb72b/SPFxTutorials5_mid.mp4</video:content_loc>
+        <video:duration>949</video:duration>
+        <video:publication_date>2016-09-01T06:43:35.7119936+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Framework-Tutorial-4-HelloWorld-Deploy-to-CDN</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9883/73b90681-cff5-4ae0-8782-8da584379883/SPFxTutorials4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Framework Tutorial 4 - HelloWorld, Deploy to CDN]]></video:title>
+        <video:description><![CDATA[In this tutorial, we will deploy the HelloWorld assets to a remote CDN instead of using the local environment. We will use an Azure Storage account integrated with CDN to deploy our assets. SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9883/73b90681-cff5-4ae0-8782-8da584379883/SPFxTutorials4_mid.mp4</video:content_loc>
+        <video:duration>1170</video:duration>
+        <video:publication_date>2016-09-01T06:41:27.5014310+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Framework-Tutorial-3-HelloWorld-Serving-in-SharePoint-Page</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0ad1/f0f32110-327d-4efe-b835-aa0c7b5d0ad1/SPFxTutorials3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Framework Tutorial 3 - HelloWorld, Serving in SharePoint Page]]></video:title>
+        <video:description><![CDATA[In this tutorial, we will deploy the client-side web part to SharePoint and see it working on a classic SharePoint server-side page. You can find written version of this tutorial from following&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0ad1/f0f32110-327d-4efe-b835-aa0c7b5d0ad1/SPFxTutorials3.mp4</video:content_loc>
+        <video:duration>694</video:duration>
+        <video:publication_date>2016-09-01T06:40:33.7192258+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Framework-Tutorial-2-HelloWorld-Talking-to-SharePoint</loc>
+      <lastmod>2018-02-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6e00/2a2a1d6d-fa0c-4a41-a5a7-72b60cc76e00/SPFxTutorials2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Framework Tutorial 2 - HelloWorld, Talking to SharePoint]]></video:title>
+        <video:description><![CDATA[In this tutorial, we will continue with the web part project we created in the previous tutorial and modify that to use REST APIs for connecting information in SharePoint You can find written version&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6e00/2a2a1d6d-fa0c-4a41-a5a7-72b60cc76e00/SPFxTutorials2_mid.mp4</video:content_loc>
+        <video:duration>881</video:duration>
+        <video:publication_date>2016-09-01T06:39:44.2050120+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Framework-Tutorial-1-HelloWorld-WebPart</loc>
+      <lastmod>2019-07-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8319/bdbcb92f-de1e-4336-85f5-edcc514b8319/SPFxTutorials1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Framework Tutorial 1 - HelloWorld WebPart]]></video:title>
+        <video:description><![CDATA[This tutorial will guide you in building a simple client-side web part using the SharePoint client-side development tools. You can find written version of this tutorial from following location -&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8319/bdbcb92f-de1e-4336-85f5-edcc514b8319/SPFxTutorials1_mid.mp4</video:content_loc>
+        <video:duration>1328</video:duration>
+        <video:publication_date>2016-09-01T06:39:11.6608725+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-PnP-Webcast--Building-Angular-SharePoint-Framework-Client-Web-Part</loc>
+      <lastmod>2016-10-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2aa7/0d89c6db-8f57-4c81-af03-800c694a2aa7/PnPWebCastAndularSPFx_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint PnP Webcast  Building Angular SharePoint Framework Client Web Part]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on covering how to use Angular in your SharePoint Framework client side web part. We go throught the steps on adding Angular on the SP Fx web part project and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2aa7/0d89c6db-8f57-4c81-af03-800c694a2aa7/PnPWebCastAndularSPFx.mp4</video:content_loc>
+        <video:duration>2318</video:duration>
+        <video:publication_date>2016-09-01T06:15:53.9130780+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Webcast-Building-simple-SharePoint-Framework-Client-Web-Part</loc>
+      <lastmod>2020-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/44ee/7f66a8b3-af12-46e9-8c0a-c8c1e43144ee/PnPWebcastBuildingSimpleSPFxWebPart_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Webcast - Building simple SharePoint Framework Client Web Part]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on covering how to use 3rd party JavaScript libraries with SharePoint Framework client side web parts. We&#39;ll use simple weather web part as the scenario on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/44ee/7f66a8b3-af12-46e9-8c0a-c8c1e43144ee/PnPWebcastBuildingSimpleSPFxWebPart_mid.mp4</video:content_loc>
+        <video:duration>1006</video:duration>
+        <video:publication_date>2016-08-22T13:33:03.4848740+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Webcast-PnP-PowerShell-Getting-started-with-latest-updates</loc>
+      <lastmod>2020-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/61fb/c7c91bf8-43ce-43be-9250-b841463f61fb/PnPWebCastPowerShell2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Webcast - PnP PowerShell - Getting started with latest updates]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the PnP PowerShell. Key objective was to explain why it exists, how to get started and cover some of the new commandlets which have been recently added to the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/61fb/c7c91bf8-43ce-43be-9250-b841463f61fb/PnPWebCastPowerShell2.mp4</video:content_loc>
+        <video:duration>1648</video:duration>
+        <video:publication_date>2016-08-15T10:40:03.9264983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Dev--SharePoint-Patterns--Practices-August-2016-Community-Call</loc>
+      <lastmod>2017-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/aac0/a617703b-3545-4375-9b25-c301eed7aac0/PnPMonthlyCallAugust2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Dev / SharePoint Patterns &amp; Practices - August 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) August 2016 community call kept on 9th of August 2016. Thanks everyone who participated and let&#39;s continue discussion in PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/aac0/a617703b-3545-4375-9b25-c301eed7aac0/PnPMonthlyCallAugust2016_mid.mp4</video:content_loc>
+        <video:duration>3967</video:duration>
+        <video:publication_date>2016-08-10T13:45:13.9147961+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Webcast-Integrating-Angular-v1x-to-SharePoint-Framework-client-side-web-part</loc>
+      <lastmod>2016-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9091/7ab5a9fe-f42f-4464-857b-d2a39f109091/PnPWebCastSPFxAngular_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Webcast - Integrating Angular v1.x to SharePoint Framework client side web part]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on how to start using Angular 1.x with SharePoint Framework client-side web parts. Web cast concentrates on a demo where we start from clean client-side web part&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9091/7ab5a9fe-f42f-4464-857b-d2a39f109091/PnPWebCastSPFxAngular_mid.mp4</video:content_loc>
+        <video:duration>1189</video:duration>
+        <video:publication_date>2016-08-08T10:20:12.4236921+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Converting-existing-JS-apps-to-SharePoint-Framework</loc>
+      <lastmod>2018-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/81ea/8122a0d7-5c19-473f-b663-218f5ae181ea/PnPWebCastConvertJSAppToSPFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Converting existing JS apps to SharePoint Framework]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on high level steps around converting your existing JavaScript application to SharePoint Framework or to be hosted in SharePoint Framework. Web cast uses existing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/81ea/8122a0d7-5c19-473f-b663-218f5ae181ea/PnPWebCastConvertJSAppToSPFramework_mid.mp4</video:content_loc>
+        <video:duration>3003</video:duration>
+        <video:publication_date>2016-06-20T11:49:45.3149582+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Provisioning-Engine-Introducing-PnP-file-type-for-template-handling</loc>
+      <lastmod>2016-07-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b0d0/7fc69e96-5e7b-4d47-a422-074c8e0ab0d0/PnPProvisioningPnPFileType_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Provisioning Engine - Introducing PnP file type for template handling]]></video:title>
+        <video:description><![CDATA[In this demo video Vesa Juvonen shows how to get started with PnP Provisioning Engine using PnP PowerShell and how to export and use the new PnP file type as the template container. Starting from PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b0d0/7fc69e96-5e7b-4d47-a422-074c8e0ab0d0/PnPProvisioningPnPFileType_mid.mp4</video:content_loc>
+        <video:duration>1133</video:duration>
+        <video:publication_date>2016-06-20T09:47:05.6594574+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer--SharePoint-Patterns-and-Practices-June-2016-Community-Call</loc>
+      <lastmod>2016-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f90/fe70baba-15a5-4d29-be56-ad33521e6f90/PnPMonthlyCommunityCallJune2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer &amp; SharePoint Patterns and Practices - June 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) June 2016 community call kept on 15th of June 2016. Thanks everyone who participated and let&#39;s continue discussion in PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f90/fe70baba-15a5-4d29-be56-ad33521e6f90/PnPMonthlyCommunityCallJune2016_mid.mp4</video:content_loc>
+        <video:duration>3630</video:duration>
+        <video:publication_date>2016-06-15T13:07:50.1343908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introducing-SharePoint-WebHooks</loc>
+      <lastmod>2017-04-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9372/41eeaf8d-1dbf-4737-b7cf-7e5139399372/PnPWebCastWebHooks_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introducing SharePoint WebHooks]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on upcoming SharePoint WebHooks capability. This is capability which will be available for first release tenants starting from summer 2016. WebHooks will provide&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9372/41eeaf8d-1dbf-4737-b7cf-7e5139399372/PnPWebCastWebHooks_mid.mp4</video:content_loc>
+        <video:duration>2286</video:duration>
+        <video:publication_date>2016-06-13T10:49:56.5024385+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-Microsoft-Graph-NET-SDK</loc>
+      <lastmod>2017-02-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/140b/ce33b8e3-cfd8-4dfd-8759-6240b0e1140b/PnPWebCastGraphSDK_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to Microsoft Graph .NET SDK]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on Microsoft Graph or more specifically covering how the .NET SDK for Microsoft Graph can be used in your customizations. .NET SDK for Microsoft Graph is great&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/140b/ce33b8e3-cfd8-4dfd-8759-6240b0e1140b/PnPWebCastGraphSDK_mid.mp4</video:content_loc>
+        <video:duration>2477</video:duration>
+        <video:publication_date>2016-06-06T10:43:25.9256269+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Preparing-for-SharePoint-Framework-What-should-I-learn</loc>
+      <lastmod>2017-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/490c/b6457325-5cf6-405f-b245-0396ea54490c/PnPWebCastSharePointFrameworkLearning_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Preparing for SharePoint Framework - What should I learn?]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on sharing how to get prepared for the upcoming SharePoint Framework. We are showing some of the tools used commonly with SharePoint Framework development and also&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/490c/b6457325-5cf6-405f-b245-0396ea54490c/PnPWebCastSharePointFrameworkLearning_mid.mp4</video:content_loc>
+        <video:duration>2903</video:duration>
+        <video:publication_date>2016-05-30T07:47:55.8141090+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-Bulk-UPA-Custom-Profile-Properties-Update-API</loc>
+      <lastmod>2016-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e7dd/bff86081-742e-41df-b51b-83b2adb5e7dd/PnPWebCastUPABuilkUpdateAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to Bulk UPA Custom Profile Properties Update API]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on Bulk UPA Custom Profile Properties Update API for SharePoint Online, which enables you to update custom profile properties of your end users in batch format.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e7dd/bff86081-742e-41df-b51b-83b2adb5e7dd/PnPWebCastUPABuilkUpdateAPI_mid.mp4</video:content_loc>
+        <video:duration>2331</video:duration>
+        <video:publication_date>2016-05-23T08:44:59.8809390+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Getting-started-with-SharePoint-Framework</loc>
+      <lastmod>2017-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/431d/cea064c0-65bf-4c4f-bf5d-02b476c7431d/PnPWebCastIntroductionSPFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Getting started with SharePoint Framework]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on showing in practice how to get started with upcoming SharePoint Framework. We demonstrated the preview tooling (*) for development and how the development cycle&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/431d/cea064c0-65bf-4c4f-bf5d-02b476c7431d/PnPWebCastIntroductionSPFramework_mid.mp4</video:content_loc>
+        <video:duration>2523</video:duration>
+        <video:publication_date>2016-05-16T11:30:51.9244908+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-May-2016-Community-Call</loc>
+      <lastmod>2017-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c589/9d6d1b9e-10b5-4e60-ac79-6e6ac607c589/PnPMay2016ConfCall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - May 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) May 2016 community call kept on 10th of May 2016. Thanks everyone who participated and let&#39;s continue discussion in PnP Yammer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c589/9d6d1b9e-10b5-4e60-ac79-6e6ac607c589/PnPMay2016ConfCall_mid.mp4</video:content_loc>
+        <video:duration>4736</video:duration>
+        <video:publication_date>2016-05-11T12:44:20.5820810+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Getting-started-with-web-stack-in-SharePoint-development</loc>
+      <lastmod>2016-06-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/91dd/34b303d1-ba1b-4474-b851-77d25b7591dd/PnPWebCastWebStack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Getting started with web stack in SharePoint development]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on getting started with general web stack in the context of SharePoint or Office 365. This recording was done before the SharePoint Framework announcements, so we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/91dd/34b303d1-ba1b-4474-b851-77d25b7591dd/PnPWebCastWebStack_mid.mp4</video:content_loc>
+        <video:duration>2943</video:duration>
+        <video:publication_date>2016-05-09T10:36:32.4310899+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Managing-your-app-principals-in-Office-365-Tooling-and-Scripts</loc>
+      <lastmod>2016-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c53a/d757563b-5e4a-4312-8926-efcdc1fbc53a/PnPWebCastTIP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Managing your app principals in Office 365 - Tooling and Scripts]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on how to manage your app and service principals using either code or using PowerShell. App principals have by default life cycle of one year, which can be&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c53a/d757563b-5e4a-4312-8926-efcdc1fbc53a/PnPWebCastTIP_mid.mp4</video:content_loc>
+        <video:duration>2474</video:duration>
+        <video:publication_date>2016-05-02T11:13:46.5411071+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-JavaScript-and-Microsoft-Graph-Quick-Contacts-Sample</loc>
+      <lastmod>2017-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/349b/36833d53-e550-41d6-a2e2-7df12aa2349b/PnPWebCastsQuickContacts_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - JavaScript and Microsoft Graph (Quick Contacts Sample)]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on Quick Contacts PnP sample, which was originally released as part of the April 2016 monthly release. This sample shows how you could use the Microsoft Graph to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/349b/36833d53-e550-41d6-a2e2-7df12aa2349b/PnPWebCastsQuickContacts_mid.mp4</video:content_loc>
+        <video:duration>2382</video:duration>
+        <video:publication_date>2016-04-25T11:28:46.1156520+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-SharePoint-Client-Side-Object-Model-versioning-for-your-customizations</loc>
+      <lastmod>2017-07-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2425/2846aa55-d044-422d-8fa4-354fa7482425/PnPWebCastCSOMVersions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - SharePoint Client Side Object Model versioning for your customizations]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on SharePoint Client Side Object Model (CSOM) versioning and how you can take the different SharePoint target versions into account in your customization. With the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2425/2846aa55-d044-422d-8fa4-354fa7482425/PnPWebCastCSOMVersions_mid.mp4</video:content_loc>
+        <video:duration>2050</video:duration>
+        <video:publication_date>2016-04-18T10:13:02.1739330+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-April-2016-Community-Call</loc>
+      <lastmod>2017-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ad7/36d5b2ba-5777-423e-ac07-778ea9969ad7/PnPMonthlyCallApril2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - April 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) April 2016 community call kept on 12th of April 2016. Thanks everyone who participated and let&#39;s continue discussion in PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ad7/36d5b2ba-5777-423e-ac07-778ea9969ad7/PnPMonthlyCallApril2016_mid.mp4</video:content_loc>
+        <video:duration>3662</video:duration>
+        <video:publication_date>2016-04-13T10:14:37.1760006+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-Introduction</loc>
+      <lastmod>2018-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a33/2aa39e76-927c-4120-a42c-90280b372a33/PnPCoreComponentIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - Introduction]]></video:title>
+        <video:description><![CDATA[This is an introduction video for the PnP Core Component, which is available from Nuget Gallery and has monthly release cycle as part of the Office Dev Patterns and Practices (PnP) monthly releases.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a33/2aa39e76-927c-4120-a42c-90280b372a33/PnPCoreComponentIntro_mid.mp4</video:content_loc>
+        <video:duration>2746</video:duration>
+        <video:publication_date>2016-04-12T12:02:02.4903960+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-Basic-Operations</loc>
+      <lastmod>2019-02-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/157e/c9b264cc-450f-4cbd-a60d-c76947a6157e/PnPCoreComponentBasicOperations_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - Basic Operations]]></video:title>
+        <video:description><![CDATA[This video concentrates on using PnP Core Component for basic operations in your managed code (.NET). This could be in your provider hosted add-ins, Azure web jobs or for any code performing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/157e/c9b264cc-450f-4cbd-a60d-c76947a6157e/PnPCoreComponentBasicOperations_mid.mp4</video:content_loc>
+        <video:duration>1116</video:duration>
+        <video:publication_date>2016-04-12T12:01:46.8486770+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-Remote-Timer-Job-Framework</loc>
+      <lastmod>2017-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f58/42e664d6-e7bc-4aaf-81cd-30da4c246f58/PnPCoreComponentRemoteTimerJob_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - Remote Timer Job Framework]]></video:title>
+        <video:description><![CDATA[This is a video concentrating on the Remote Timer Job framework available from the PnP Core Component. PnP Core Component is open source component which simplifies remote developed with SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f58/42e664d6-e7bc-4aaf-81cd-30da4c246f58/PnPCoreComponentRemoteTimerJob_mid.mp4</video:content_loc>
+        <video:duration>1989</video:duration>
+        <video:publication_date>2016-04-12T12:01:28.8206963+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-Authentication-Manager</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ae0/6cf883be-8e9b-4973-bf39-99c050c48ae0/PnPCoreComponentAuthManager_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - Authentication Manager]]></video:title>
+        <video:description><![CDATA[This is a video concentrating on the Authentication Manager available from the PnP Core Component. PnP Core Component is open source component which simplifies remote developed with SharePoint Online&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ae0/6cf883be-8e9b-4973-bf39-99c050c48ae0/PnPCoreComponentAuthManager_mid.mp4</video:content_loc>
+        <video:duration>2106</video:duration>
+        <video:publication_date>2016-04-12T12:00:33.7770431+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-Site-Provisioning-Framework</loc>
+      <lastmod>2017-07-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dae4/bc17cf66-e6ff-4c6b-af1a-d5c9c390dae4/PnPCoreComponentSiteProvisioningFramework_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - Site Provisioning Framework]]></video:title>
+        <video:description><![CDATA[This is a video concentrating on the Site Provisioning Framework available from the PnP Core Component. PnP Core Component is open source component which simplifies remote developed with SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dae4/bc17cf66-e6ff-4c6b-af1a-d5c9c390dae4/PnPCoreComponentSiteProvisioningFramework_mid.mp4</video:content_loc>
+        <video:duration>2333</video:duration>
+        <video:publication_date>2016-04-12T12:00:13.4159817+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-PnP-PowerShell-for-scripting-with-Core-component</loc>
+      <lastmod>2018-05-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bc09/9ab6082e-7869-4879-82fc-31f0fbe6bc09/PnPCoreComponentPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - PnP PowerShell for scripting with Core component]]></video:title>
+        <video:description><![CDATA[This is a video concentrating on the PnP PowerShell CmdlLets, which enables you to take advantages of the PnP Core Component capabilities using PowerShell. PnP Core Component is open source component&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bc09/9ab6082e-7869-4879-82fc-31f0fbe6bc09/PnPCoreComponentPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1869</video:duration>
+        <video:publication_date>2016-04-12T11:59:52.1961500+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Core-Component-How-to-contribute-to-the-PnP-initiative</loc>
+      <lastmod>2018-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de47/3408a3ac-c215-4784-a579-535201b0de47/PnPCoreComponentHowToContributeToPnP_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Core Component - How to contribute to the PnP initiative]]></video:title>
+        <video:description><![CDATA[This is a video concentrating on the options to contribute back to Office Dev Patterns and Practices (PnP) initiative. PnP is open source community driven initiative, where community is sharing their&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de47/3408a3ac-c215-4784-a579-535201b0de47/PnPCoreComponentHowToContributeToPnP_mid.mp4</video:content_loc>
+        <video:duration>2057</video:duration>
+        <video:publication_date>2016-04-12T11:59:28.0107169+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introducing-PnP-JavaScript-Special-Interest-Group</loc>
+      <lastmod>2017-02-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/928c/830965c7-04f4-45e7-929b-81fcc7da928c/PnPWebCastIntroJSSIG_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introducing PnP JavaScript Special Interest Group]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the Office Developer Patterns and Practices (PnP) Special Interest Group (SIG) for JavaScript. This is relatively new SIG and virtual team in the PnP initiative&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/928c/830965c7-04f4-45e7-929b-81fcc7da928c/PnPWebCastIntroJSSIG_mid.mp4</video:content_loc>
+        <video:duration>1841</video:duration>
+        <video:publication_date>2016-04-11T10:58:25.5228057+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introducing-Bulk-UPA-Custom-Profile-Properties-Update-API</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc3d/a858f86b-ee1d-42f0-bcc3-56517ed0dc3d/DemoBulkUPAUpdateAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introducing Bulk UPA Custom Profile Properties Update API]]></video:title>
+        <video:description><![CDATA[In this video we&#39;ll demonstrate the new Bulk UPA Custom Profile Properties Update API, which enables you to import easily and efficiently additional attributes to SharePoint Online user profiles. You&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc3d/a858f86b-ee1d-42f0-bcc3-56517ed0dc3d/DemoBulkUPAUpdateAPI.mp4</video:content_loc>
+        <video:duration>989</video:duration>
+        <video:publication_date>2016-04-08T13:27:10.1105458+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-How-to-get-started-with-Office-Dev-PnP</loc>
+      <lastmod>2018-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f17/8286e0a3-efd3-48cd-87fe-647e0fc32f17/PnPWebCastHowToGetStarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - How to get started with Office Dev PnP?]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we wanted to do a high level introduction on what the Office Dev Patterns and Practices (PnP) initiative is all about and what are all the different resources avaialble for the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f17/8286e0a3-efd3-48cd-87fe-647e0fc32f17/PnPWebCastHowToGetStarted_mid.mp4</video:content_loc>
+        <video:duration>4007</video:duration>
+        <video:publication_date>2016-04-04T09:49:57.2793480+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-How-to-contribute-to-Office-Dev-PnP-initiative</loc>
+      <lastmod>2017-08-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/eeb0/6bb71baa-a7c5-48b4-acd0-a612adadeeb0/PnPWebCastHowToContribute_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - How to contribute to Office Dev PnP initiative?]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on covering in practice how to contribute for the Office Dev Patterns and Practices (PnP) initiative for the benefit of others in the community. Presentation&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/eeb0/6bb71baa-a7c5-48b4-acd0-a612adadeeb0/PnPWebCastHowToContribute_mid.mp4</video:content_loc>
+        <video:duration>2409</video:duration>
+        <video:publication_date>2016-03-28T13:33:37.3910818+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Responsive-UI-Package-for-SharePoint-2013-and-2016</loc>
+      <lastmod>2016-05-24</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1846/62fd4016-b958-4d50-942f-8c9df0a81846/PnPWebCastResponsiveUIPackage_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Responsive UI Package for SharePoint 2013 and 2016]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the Responsive UI Package for SharePoint 2013 and SharePoint 2016, which was recently released in the PnP-Tools repository. Presentation concentrates on&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1846/62fd4016-b958-4d50-942f-8c9df0a81846/PnPWebCastResponsiveUIPackage_mid.mp4</video:content_loc>
+        <video:duration>2010</video:duration>
+        <video:publication_date>2016-03-21T11:29:24.8149552+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introducing-Widget-Wrangler-for-SharePoint-development</loc>
+      <lastmod>2018-02-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2c93/9539d5a5-8bff-447f-9fd4-a4811d432c93/PnPWebCastWidgetWranger_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introducing Widget Wrangler for SharePoint development]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on one great contributions from the community called Widget Wrangler. Widget Wrangler is a JavaScript library which will help to implement embedded JavaScript&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2c93/9539d5a5-8bff-447f-9fd4-a4811d432c93/PnPWebCastWidgetWranger_mid.mp4</video:content_loc>
+        <video:duration>1981</video:duration>
+        <video:publication_date>2016-03-14T11:42:57.2455079+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-March-2016-Community-Call</loc>
+      <lastmod>2016-03-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b6bd/710bb372-ce1a-4ba5-b9cf-a7d6bcb4b6bd/PnPMonthlyCommunityCallMarch2016_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - March 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) March 2016 community call kept on 8th of March 2016. Thanks everyone who participated and let&#39;s continue discussion in PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b6bd/710bb372-ce1a-4ba5-b9cf-a7d6bcb4b6bd/PnPMonthlyCommunityCallMarch2016_mid.mp4</video:content_loc>
+        <video:duration>3720</video:duration>
+        <video:publication_date>2016-03-09T12:06:12.5166289+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-SharePoint-Client-Side-Development-and-Cross-Origin-Resource-Sharing-CORS</loc>
+      <lastmod>2016-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b2d8/d908ea05-cc40-41b0-823a-b63f08bcb2d8/PnPWebCastCORSandSharePoint_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - SharePoint Client Side Development and Cross-Origin Resource Sharing (CORS)]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the Cross-Origin Resources Sharing (CORS) considerations in JavaScript development with SharePoint customization&#39;s. Web cast concentrates on explaining the&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b2d8/d908ea05-cc40-41b0-823a-b63f08bcb2d8/PnPWebCastCORSandSharePoint_mid.mp4</video:content_loc>
+        <video:duration>1491</video:duration>
+        <video:publication_date>2016-03-07T12:18:29.4284992+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introduction-to-Outlook-Notifications-REST-API</loc>
+      <lastmod>2019-07-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c793/a8ddb685-a048-4b4c-8cc3-003b9f42c793/PnPOutlookRestAPI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Outlook Notifications REST API]]></video:title>
+        <video:description><![CDATA[In this demo video Simon J&#228;ger explains how you can build ASP.NET Web API for validating and responding to Outlook Notifications - created with the Outlook Notifications REST API. Video and provided&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c793/a8ddb685-a048-4b4c-8cc3-003b9f42c793/PnPOutlookRestAPI_mid.mp4</video:content_loc>
+        <video:duration>1045</video:duration>
+        <video:publication_date>2016-03-04T12:05:20.2757831+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Responsive-UI-Package-for-on-premises-SP-2013-and-SP-2016</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9e69/a9f3b404-e8a5-4f73-9d32-d2d2ab439e69/PnPSPResponsiveUI_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Responsive UI Package for on-premises (SP 2013 and SP 2016)]]></video:title>
+        <video:description><![CDATA[In this demo video Paolo Pialorsi explains how to get started on using SharePoint Responsive UI Package in your on-premises deployment. SharePoint Responsive UI Package is designed for both SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9e69/a9f3b404-e8a5-4f73-9d32-d2d2ab439e69/PnPSPResponsiveUI_mid.mp4</video:content_loc>
+        <video:duration>473</video:duration>
+        <video:publication_date>2016-03-03T12:09:46.3053457+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Preparing-your-on-premises-SharePoint-2013-or-2016-for-add-in-usage</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb03/687a2cbc-c9a9-4a6f-bd46-91c88531bb03/PnPWebCastLowTrustCSOMEnable_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Preparing your on-premises SharePoint 2013 or 2016 for add-in usage]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on additional configuration needed on the SharePoint on-premises farms when you start using add-in model based implementations. This is a follow up web cast for&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb03/687a2cbc-c9a9-4a6f-bd46-91c88531bb03/PnPWebCastLowTrustCSOMEnable_mid.mp4</video:content_loc>
+        <video:duration>2261</video:duration>
+        <video:publication_date>2016-02-29T15:14:07.3773702+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Provider-hosted-add-in-infrastructure-setup-for-SharePoint-on-premises</loc>
+      <lastmod>2016-04-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0d72/7b3646af-bb31-4bb8-aca8-82aba3e70d72/PnPWebCastAddInInfraForSPOnPrem_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Provider hosted add-in infrastructure setup for SharePoint on-premises]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrate on the different infrastructural options around setting up provider hosted add-in environment for SharePoint 2013 or SharePoint 2016. This time we do not have&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0d72/7b3646af-bb31-4bb8-aca8-82aba3e70d72/PnPWebCastAddInInfraForSPOnPrem_mid.mp4</video:content_loc>
+        <video:duration>2698</video:duration>
+        <video:publication_date>2016-02-22T11:51:33.3072315+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-Authentication-Manager-in-PnP-Core-Library</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f1f5/4fe5c163-191f-4b17-bc1f-1ce10bbbf1f5/PnPWebCastAuthenticationManager_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to Authentication Manager in PnP Core Library]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrate on the Office 365 Dev PnP Core Component which is designed to increase the productivity of developers when you are developing applications for SharePoint Online or&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f1f5/4fe5c163-191f-4b17-bc1f-1ce10bbbf1f5/PnPWebCastAuthenticationManager_mid.mp4</video:content_loc>
+        <video:duration>2204</video:duration>
+        <video:publication_date>2016-02-15T13:05:38.6143905+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-February-2016-Community-Call</loc>
+      <lastmod>2016-03-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/feee/ad5f4694-4f4f-4414-aece-25657692feee/PnPFebruary2016MonthlyCall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - February 2016 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) February 2016 community call kept on 9th of February 2016. Thanks everyone who participated and let&#39;s continue discussion in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/feee/ad5f4694-4f4f-4414-aece-25657692feee/PnPFebruary2016MonthlyCall_mid.mp4</video:content_loc>
+        <video:duration>3692</video:duration>
+        <video:publication_date>2016-02-10T12:46:01.3431764+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-Microsoft-Graph-for-Office-365-developer</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bb05/36c5187e-85a1-45a3-9c0f-bfff7339bb05/PnPWebCastGraphIntroduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to Microsoft Graph for Office 365 developer]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrate on the Microsoft Graph and more specifically on how you can use that within your solutions to access user or company specific information when you are developing&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bb05/36c5187e-85a1-45a3-9c0f-bfff7339bb05/PnPWebCastGraphIntroduction_mid.mp4</video:content_loc>
+        <video:duration>1971</video:duration>
+        <video:publication_date>2016-02-08T13:35:07.7051773+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-oAuth-and-OpenID-Connect-for-Office-365-developer</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8311/0ddc5f75-7c26-4250-b0f9-c527cbe58311/PnPWebCastoAuthOpenIdConnect_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - oAuth and OpenID Connect for Office 365 developer]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrate on the Azure AD, oAuth and OpenID connect and how the plumbing actually works when you are using Azure Active Directory based authorization for yours add-ins/apps&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8311/0ddc5f75-7c26-4250-b0f9-c527cbe58311/PnPWebCastoAuthOpenIdConnect_mid.mp4</video:content_loc>
+        <video:duration>3140</video:duration>
+        <video:publication_date>2016-02-01T09:33:02.4863491+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Feature-framework-vs-Remote-Provisioning</loc>
+      <lastmod>2018-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0bf9/f77cb995-056b-4f46-aa7a-a813e0da0bf9/PnPWebCastFeaturesVsProvisioning_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - SharePoint feature framework vs Remote Provisioning]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrate on the classic discussion around the flexibility and future of the SharePoint feature framework based provisioning models comparing to remote provisioning patterns.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0bf9/f77cb995-056b-4f46-aa7a-a813e0da0bf9/PnPWebCastFeaturesVsProvisioning_mid.mp4</video:content_loc>
+        <video:duration>2463</video:duration>
+        <video:publication_date>2016-01-25T09:58:10.0851212+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Connecting-to-SharePoint-Online-from-console-application-with-Azure-AD-and-PnP-Core-Component</loc>
+      <lastmod>2021-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ec42/7c10ed59-585b-43bb-9f16-e66c7687ec42/PnPConsoleSPOAADNativeApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Connecting to SharePoint Online from console application with Azure ADAL and PnP Core Component]]></video:title>
+        <video:description><![CDATA[This video shows how to take advantage of the Active Directory Authentication Library (ADAL) and Office Dev PnP Core component to connect to SharePoint online using the common consent framework.You&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ec42/7c10ed59-585b-43bb-9f16-e66c7687ec42/PnPConsoleSPOAADNativeApp_mid.mp4</video:content_loc>
+        <video:duration>1131</video:duration>
+        <video:publication_date>2016-01-22T15:02:22.6887618+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-HelpDesk-application-with-Microsoft-Graph</loc>
+      <lastmod>2017-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/92de/1d26cd3b-0825-4942-ae50-5378a16192de/OfficeDevPnPBusinessHelpDesk_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - HelpDesk application with Microsoft Graph]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on HelpDesk web application solution available from the PnP sample/solution gallery. This solution demonstrates how to build single page app using ASP.net MVC&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/92de/1d26cd3b-0825-4942-ae50-5378a16192de/OfficeDevPnPBusinessHelpDesk_mid.mp4</video:content_loc>
+        <video:duration>1929</video:duration>
+        <video:publication_date>2016-01-18T11:50:35.2180765+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Using-TypeScript-in-a-Visual-Studio-Office-add-in-project</loc>
+      <lastmod>2017-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7970/54e6000c-e2d8-4807-95c1-983e6c157970/PnPOfficeAddinTypescript_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using TypeScript in a Visual Studio Office add-in project]]></video:title>
+        <video:description><![CDATA[In this demo video Simon J&#228;ger shows how to get started with TypeScript within Office add-in development. Simon walks through the steps on adjusting the Visual Studio 2015 template project to include&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7970/54e6000c-e2d8-4807-95c1-983e6c157970/PnPOfficeAddinTypescript_mid.mp4</video:content_loc>
+        <video:duration>1431</video:duration>
+        <video:publication_date>2016-01-15T12:08:26.4321832+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Property-bag-trick-for-CSOM-to-enable-additional-configurations</loc>
+      <lastmod>2016-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/00f7/5b9aa8e0-2a4e-4625-92fb-9436fee000f7/PnPWebCastPropertyBagTrick_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Property bag trick for CSOM to enable additional configurations]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on so called &amp;quot;property bag trick&amp;quot; with CSOM or REST to adjust and change additional settings in site or in list level. This is something which we have&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/00f7/5b9aa8e0-2a4e-4625-92fb-9436fee000f7/PnPWebCastPropertyBagTrick_mid.mp4</video:content_loc>
+        <video:duration>1669</video:duration>
+        <video:publication_date>2016-01-11T11:29:55.1786695+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Azure-AD-for-Office-365-developer</loc>
+      <lastmod>2016-01-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4fea/93389b5d-326a-4c2a-acf0-c13e36d24fea/PnPWebCastAADForOffice365Developer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Azure AD for Office 365 developer]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on Azure Active Directory from the Office 365 developer perspective. Azure Active Directory is used in numerous different ways as part of the cloud development and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4fea/93389b5d-326a-4c2a-acf0-c13e36d24fea/PnPWebCastAADForOffice365Developer_mid.mp4</video:content_loc>
+        <video:duration>1871</video:duration>
+        <video:publication_date>2016-01-04T10:52:09.2428608+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Throttling-mechanisms-in-SharePoint-Online</loc>
+      <lastmod>2016-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5c3c/62d82a9e-77f2-4c72-abe9-5ab8e38d5c3c/PnPWebCastThrottling_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Throttling mechanisms in SharePoint Online]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on SharePoint Online throttling and how to deal with it in your code. Code executed towards SharePoint IOnline can in certain scenarios get throttled if the code&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5c3c/62d82a9e-77f2-4c72-abe9-5ab8e38d5c3c/PnPWebCastThrottling_mid.mp4</video:content_loc>
+        <video:duration>1380</video:duration>
+        <video:publication_date>2015-12-28T06:49:40.0540780+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-PnP-Nuget-Package-and-Core-component</loc>
+      <lastmod>2016-09-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/b190/e6ecd94d-75ca-416f-9688-f34f8bc1b190/PnPWebCastNugetCore_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - SharePoint Nuget Packages and PnP Core Component]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the PnP Core Component and SharePoint related Nuget packages available from the Nuget gallery. Web cast concentrates on covering different available Nuget&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/b190/e6ecd94d-75ca-416f-9688-f34f8bc1b190/PnPWebCastNugetCore_mid.mp4</video:content_loc>
+        <video:duration>2225</video:duration>
+        <video:publication_date>2015-12-21T08:55:13.1724592+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Partner-Pack-Setup-and-configuration</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1d9c/2823104a-1de7-4cc9-9540-ccc53b1b1d9c/PnPPartnerPackSetup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Partner Pack - Setup and configuration]]></video:title>
+        <video:description><![CDATA[This video concentrates on the PnP Partner Pack and more specifically on the needed setup and configuration steps on installing that to be running in any Office 365 tenant with Azure subscription. PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1d9c/2823104a-1de7-4cc9-9540-ccc53b1b1d9c/PnPPartnerPackSetup_mid.mp4</video:content_loc>
+        <video:duration>2464</video:duration>
+        <video:publication_date>2015-12-21T08:15:42.0205781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Provisioning-engine-and-reference-solution-with-AngularJS</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d53f/2e776da3-6bcb-407a-baf1-9ba1c283d53f/PnPWebCastProvisioningUXApp_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Provisioning engine and reference solution with AngularJS]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we continued covering different remote site provisioning solutions in the Office 365 Dev PnP sample gallery. Since remote provisioning pattern is the recommended option to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d53f/2e776da3-6bcb-407a-baf1-9ba1c283d53f/PnPWebCastProvisioningUXApp_mid.mp4</video:content_loc>
+        <video:duration>3278</video:duration>
+        <video:publication_date>2015-12-14T11:53:59.4096194+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-December-2015-Community-Call</loc>
+      <lastmod>2018-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/34a1/0bd4c971-106d-4b0c-9c19-c635355e34a1/PnPMonthlyCallDec2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - December 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) December 2015 community call kept on 8th of December 2015. Thanks everyone who participated and let&#39;s continue discussion in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/34a1/0bd4c971-106d-4b0c-9c19-c635355e34a1/PnPMonthlyCallDec2015_mid.mp4</video:content_loc>
+        <video:duration>3927</video:duration>
+        <video:publication_date>2015-12-09T13:20:50.3361425+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-JavaScript-performance-considerations</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4196/78067d5d-2f2f-4b52-a3c8-ce89667f4196/PnPWebCastJSPerformance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - JavaScript performance considerations]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the JavaScript development performance considerations with SharePoint sites. There are many scenarios in the typical deployments with SharePoint add-in model&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4196/78067d5d-2f2f-4b52-a3c8-ce89667f4196/PnPWebCastJSPerformance_mid.mp4</video:content_loc>
+        <video:duration>2333</video:duration>
+        <video:publication_date>2015-12-07T08:45:50.7651140+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Asynchronous-operations-with-Office-365-using-Azure-WebJobs</loc>
+      <lastmod>2016-09-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e099/d7418858-e8ac-414b-8523-26418a4de099/PnPWebCastAsyncOperationsOffice365_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Asynchronous operations with Office 365 using Azure WebJobs]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on asynchronous operation pattern with Office 365 using Azure WebJobs. This is really powerful pattern for performing scheduled and on-demand operations, which is&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e099/d7418858-e8ac-414b-8523-26418a4de099/PnPWebCastAsyncOperationsOffice365_mid.mp4</video:content_loc>
+        <video:duration>2323</video:duration>
+        <video:publication_date>2015-11-30T10:01:49.7548289+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-branding-sharepoint-using-add-in-model-techniques</loc>
+      <lastmod>2016-08-07</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8cb1/7d627d61-19e4-4b38-8221-2d5b2d178cb1/PnPWebCastBrandingAddinModel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Branding SharePoint using add-in model techniques]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on covering different recommendations around applying custom branding to SharePoint sites using add-in/app model techniques. This is relatively classic discussion&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8cb1/7d627d61-19e4-4b38-8221-2d5b2d178cb1/PnPWebCastBrandingAddinModel_mid.mp4</video:content_loc>
+        <video:duration>2430</video:duration>
+        <video:publication_date>2015-11-23T09:44:08.5197868+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-install-add-inapp-to-SharePoint-sites-using-CSOM</loc>
+      <lastmod>2018-04-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d07e/3a23b462-b91e-4a27-98f9-dc6ae871d07e/AppInstallationWithCSOM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to install add-in/app to SharePoint sites using CSOM ]]></video:title>
+        <video:description><![CDATA[This video shows how to install or deploy your add-ins/apps to SharePoint sites using either &amp;quot;app stapling&amp;quot; or with CSOM. There are some pre-requisites for the add-ins/apps which are&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d07e/3a23b462-b91e-4a27-98f9-dc6ae871d07e/AppInstallationWithCSOM_mid.mp4</video:content_loc>
+        <video:duration>1417</video:duration>
+        <video:publication_date>2015-11-20T06:36:57.1352966+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-JavaScript-development-patterns-with-SharePoint</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/10fc/4db4c7e5-0e2b-42f7-b905-cd20a54310fc/PnPWebCastJSIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - JavaScript development patterns with SharePoint]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the JavaScript development models with SharePoint sites. There are many scenarios in the typical deployments with SharePoint add-in model where you&#39;d take&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/10fc/4db4c7e5-0e2b-42f7-b905-cd20a54310fc/PnPWebCastJSIntro_mid.mp4</video:content_loc>
+        <video:duration>2229</video:duration>
+        <video:publication_date>2015-11-16T10:41:10.3014256+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-November-2015-Community-Call</loc>
+      <lastmod>2018-04-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9292/01c09c9c-54a9-480c-9128-56146d1b9292/PnPMonthlyCallNov2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - November 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) November 2015 community call kept on 10th of November 2015. Thanks everyone who participated and let&#39;s continue discussion in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9292/01c09c9c-54a9-480c-9128-56146d1b9292/PnPMonthlyCallNov2015_mid.mp4</video:content_loc>
+        <video:duration>3739</video:duration>
+        <video:publication_date>2015-11-11T17:50:07.5734699+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-PnP-Partner-Pack</loc>
+      <lastmod>2018-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/66f4/d63e0a61-6b32-4512-9ba7-e9928e4366f4/PnPPartnerPack_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to PnP Partner Pack]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the PnP Partner Pack, which was released as part of the Office 365 Developer Patterns and Practices (PnP) November 2015 release. PnP Partner Pack is reference&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/66f4/d63e0a61-6b32-4512-9ba7-e9928e4366f4/PnPPartnerPack_mid.mp4</video:content_loc>
+        <video:duration>2834</video:duration>
+        <video:publication_date>2015-11-09T13:41:49.3330244+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-Office-365-Dev-PnP-provisioning-engine</loc>
+      <lastmod>2016-08-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/adce/88ecb129-ff56-46f6-a6f6-8d81e0a4adce/PnPWebCastPnPEngineIntroduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to Office 365 Dev PnP provisioning engine]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on the PnP Remote Provisioning engine, which is part of the PnP Core component and can be used to remotely extract and provision standardized sites based on remote&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/adce/88ecb129-ff56-46f6-a6f6-8d81e0a4adce/PnPWebCastPnPEngineIntroduction_mid.mp4</video:content_loc>
+        <video:duration>2870</video:duration>
+        <video:publication_date>2015-11-02T17:50:44.3849662+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Introduction-to-Office-365-PnP-PowerShell</loc>
+      <lastmod>2021-01-27</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/210d/283426c6-f699-4dcc-96c7-83856e51210d/PnPWebCastPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Introduction to Office 365 PnP PowerShell]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on PnP PowerShell CmdLets which will let you to manage Office 365 SharePoint sites or on-premises SharePoint remotely. PnP PowerShell can help you to create&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/210d/283426c6-f699-4dcc-96c7-83856e51210d/PnPWebCastPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1798</video:duration>
+        <video:publication_date>2015-10-26T11:53:32.7497802+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-Building-remote-timer-jobs-with-SharePoint-add-in-model</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/bf48/7e12394a-0bdc-4e87-9381-3c46a5acbf48/PnPTimerJobs_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - Building remote timer jobs with SharePoint add-in model]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on how to build scheduled or on-demand tasks with add-in model. This refers to the model around how to perform similar tasks as with the classic SharePoint server&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/bf48/7e12394a-0bdc-4e87-9381-3c46a5acbf48/PnPTimerJobs_mid.mp4</video:content_loc>
+        <video:duration>2202</video:duration>
+        <video:publication_date>2015-10-19T07:54:15.6670126+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-October-2015-Community-Call</loc>
+      <lastmod>2017-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5671/9233db1f-74e9-4954-aa2f-89c1e6575671/PnPOct2015CommunityCall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - October 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Skype recording of the Office 365 Developer Patterns and Practices (PnP) October 2015 community call kept on 13th of October 2015. Thanks everyone who participated and let&#39;s continue discussion in PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5671/9233db1f-74e9-4954-aa2f-89c1e6575671/PnPOct2015CommunityCall_mid.mp4</video:content_loc>
+        <video:duration>3755</video:duration>
+        <video:publication_date>2015-10-14T10:38:29.4915072+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-OneDrive-for-Business-customizations</loc>
+      <lastmod>2018-07-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2a4c/fd0bc67c-39bd-4a3d-bbd2-edc466fc2a4c/PnPWebCastOD4B_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Web Cast - OneDrive for Business customizations]]></video:title>
+        <video:description><![CDATA[In this PnP Web Cast we concentrated on explaining the impact of new OneDrive for Business experience for customization options around the actual personal sites in OneDrive for Business service. New&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2a4c/fd0bc67c-39bd-4a3d-bbd2-edc466fc2a4c/PnPWebCastOD4B_mid.mp4</video:content_loc>
+        <video:duration>1694</video:duration>
+        <video:publication_date>2015-10-12T15:15:24.3029356+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-7-User-Personalization-and-One-Drive-for-Business-operatio</loc>
+      <lastmod>2016-07-02</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f1f6/9d84373c-3f58-4e51-8704-890e70b4f1f6/PnPTraning07_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 7: User Personalization and One Drive for Business&amp;#8230;]]></video:title>
+        <video:description><![CDATA[This is module 7 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. In this module we concentrate on user profile based solutions and how the user profile service can&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f1f6/9d84373c-3f58-4e51-8704-890e70b4f1f6/PnPTraning07_mid.mp4</video:content_loc>
+        <video:duration>3095</video:duration>
+        <video:publication_date>2015-09-28T06:17:24.8965481+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-4-Building-UX-components-with-add-in-model</loc>
+      <lastmod>2016-04-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5367/524e6076-8d86-4122-925c-f302c6355367/OfficeDevPnPUX04_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 4: Building UX components with add-in model]]></video:title>
+        <video:description><![CDATA[This is module 4 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. Introduction on how to build typical user interface functionalities using add-in model&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5367/524e6076-8d86-4122-925c-f302c6355367/OfficeDevPnPUX04_mid.mp4</video:content_loc>
+        <video:duration>2307</video:duration>
+        <video:publication_date>2015-09-28T06:10:24.5824282+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-September-2015-Community-Call</loc>
+      <lastmod>2017-05-12</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/fe65/da7b872c-27fa-435d-a3cd-42bbb61cfe65/OfficeDevPnPSep2015MonthlyCall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - September 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices (PnP) September 2015 community call kept on 8th of September 2015. Thanks everyone who participated and let&#39;s continue discussion in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/fe65/da7b872c-27fa-435d-a3cd-42bbb61cfe65/OfficeDevPnPSep2015MonthlyCall_mid.mp4</video:content_loc>
+        <video:duration>3492</video:duration>
+        <video:publication_date>2015-09-10T07:37:01.0691954+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-August-2015-Community-Call</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2437/e818831b-d2c9-41f8-bddf-710ac2012437/OfficeDevPnP2015August_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - August 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices (PnP) August 2015 community call kept on 11th of August 2015. Thanks everyone who participated and let&#39;s continue discussion in PnP&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2437/e818831b-d2c9-41f8-bddf-710ac2012437/OfficeDevPnP2015August_mid.mp4</video:content_loc>
+        <video:duration>3596</video:duration>
+        <video:publication_date>2015-08-12T10:29:39.3606663+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introduction-to-PnP-Transformation-Process</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9ba0/5f0b58b7-2fd2-46c6-bc66-8853e4789ba0/PnPTransformationProcessIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to PnP Transformation Process]]></video:title>
+        <video:description><![CDATA[PnP Transformation process originates from the work we originally did internally at Microsoft and also from the work we did along with our global enterprise customers towards add-in model transition.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9ba0/5f0b58b7-2fd2-46c6-bc66-8853e4789ba0/PnPTransformationProcessIntro_mid.mp4</video:content_loc>
+        <video:duration>2082</video:duration>
+        <video:publication_date>2015-06-18T13:48:41.9773295+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-1-Introduction</loc>
+      <lastmod>2018-03-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9151/4b27aa8e-10e9-46bc-97b5-5a5777c39151/PnPTraining1Introduction_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 1: Introduction]]></video:title>
+        <video:description><![CDATA[This is module 1 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. This is the introduction module for the general add-in model transformation or transition. We&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9151/4b27aa8e-10e9-46bc-97b5-5a5777c39151/PnPTraining1Introduction_mid.mp4</video:content_loc>
+        <video:duration>2795</video:duration>
+        <video:publication_date>2015-06-17T13:19:19.1974931+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-Module-2-Managing-site-settings-using-add-in-model</loc>
+      <lastmod>2017-01-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/ebb5/699d7da8-6be4-4b50-ab30-d6551661ebb5/PnPFTCToAppModule2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training Module 2: Managing site settings using add-in model]]></video:title>
+        <video:description><![CDATA[This is module 2 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. Introduction to generic site management operations using the add-in model. We cover capabilities&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/ebb5/699d7da8-6be4-4b50-ab30-d6551661ebb5/PnPFTCToAppModule2_mid.mp4</video:content_loc>
+        <video:duration>3139</video:duration>
+        <video:publication_date>2015-06-17T13:19:02.9970178+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-3-Branding-with-add-in-model</loc>
+      <lastmod>2016-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7e24/8f0468d9-cb91-46a7-bf8a-233e2e4d7e24/BrandingWithAddInModel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 3: Branding with add-in model]]></video:title>
+        <video:description><![CDATA[This is module 3 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. Introduction to different branding capabilities using the add-in model techniques. We cover&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7e24/8f0468d9-cb91-46a7-bf8a-233e2e4d7e24/BrandingWithAddInModel_mid.mp4</video:content_loc>
+        <video:duration>3422</video:duration>
+        <video:publication_date>2015-06-17T13:18:41.4830350+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-5-Remote-timer-events</loc>
+      <lastmod>2017-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0b39/268a29c5-da37-4bb9-984e-6f9ed4200b39/PnpFTCToAppModule5_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 5: Using Remote Event Receivers and Remote Timer Jobs]]></video:title>
+        <video:description><![CDATA[This is module 5 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. This module covers two very important topics for the add-in model development, which are remote&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0b39/268a29c5-da37-4bb9-984e-6f9ed4200b39/PnpFTCToAppModule5_mid.mp4</video:content_loc>
+        <video:duration>3104</video:duration>
+        <video:publication_date>2015-06-17T13:18:27.5304436+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-6-Site-provisioning-with-add-in-model</loc>
+      <lastmod>2017-10-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4c7a/60092567-02bf-49f2-b1ba-190856164c7a/SiteProvisioning6_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 6: Site provisioning with add-in model]]></video:title>
+        <video:description><![CDATA[This is module 6 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. SharePoint has always been about site provisioning. Before you can start collaborating or before&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4c7a/60092567-02bf-49f2-b1ba-190856164c7a/SiteProvisioning6_mid.mp4</video:content_loc>
+        <video:duration>4393</video:duration>
+        <video:publication_date>2015-06-17T13:17:26.7704813+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-module-8-Enterprise-Content-Management</loc>
+      <lastmod>2016-03-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5d8f/25a9c0fb-c7cc-4b28-9856-b5479e735d8f/ECMWithAddInModel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training module 8: Using Enterprise Content Management Capabilities with&amp;#8230;]]></video:title>
+        <video:description><![CDATA[This is module 8 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. Module covers different patterns for enabling or implementation enterprise content management&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5d8f/25a9c0fb-c7cc-4b28-9856-b5479e735d8f/ECMWithAddInModel_mid.mp4</video:content_loc>
+        <video:duration>2993</video:duration>
+        <video:publication_date>2015-06-17T13:16:23.9601852+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-In-Transformation-Training-Module-9-Using-Search-Capabilities-with-add-in-model</loc>
+      <lastmod>2018-12-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dbc2/0ae0a858-2979-44f9-889a-94503e1bdbc2/SearchWithAddInModel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-In Transformation Training Module 9: Using Search Capabilities with add-in model]]></video:title>
+        <video:description><![CDATA[This is module 9 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. This module concentrates on using SharePoint Enterprise Search capabilities with the add-in model.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dbc2/0ae0a858-2979-44f9-889a-94503e1bdbc2/SearchWithAddInModel_mid.mp4</video:content_loc>
+        <video:duration>4069</video:duration>
+        <video:publication_date>2015-06-17T13:16:12.5374942+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Add-in-Transformation-Training-Module-10-Transformation-Guideance-from-Farm-Solutions</loc>
+      <lastmod>2016-03-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3e80/29411213-cb1f-464e-bc99-fa450b483e80/PNPTransformation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[PnP Add-in Transformation Training Module 10: Transformation guidance from farm solutions to add-in&amp;#8230;]]></video:title>
+        <video:description><![CDATA[This is module 10 of the &amp;quot;Transforming SharePoint customizations to add-in model&amp;quot; training. This module concentrates on the actual transformation process and covers more detailed different&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3e80/29411213-cb1f-464e-bc99-fa450b483e80/PNPTransformation_mid.mp4</video:content_loc>
+        <video:duration>2969</video:duration>
+        <video:publication_date>2015-06-17T13:15:55.2106983+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-customize-a-Search-Center-with-SharePoint-add-ins</loc>
+      <lastmod>2015-12-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d940/d2b158b9-361a-480a-8bcd-fcb02177d940/O365809Demo3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to customize a Search Center with SharePoint add-ins]]></video:title>
+        <video:description><![CDATA[This video demonstrates how to customize a Search Center site with a SharePoint add-in combining both declarative and programmatic approaches The video shows following topics: How apply search&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d940/d2b158b9-361a-480a-8bcd-fcb02177d940/O365809Demo3_mid.mp4</video:content_loc>
+        <video:duration>499</video:duration>
+        <video:publication_date>2015-06-17T10:23:46.8264573+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-build-SharePoint-add-ins-that-leverage-search</loc>
+      <lastmod>2017-05-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0727/d5b11905-90f3-4172-8735-01f636f70727/O365809Demo4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to build SharePoint add-ins that leverage search]]></video:title>
+        <video:description><![CDATA[This video shows how to build SharePoint add-ins that leverage search. The video shows following topics: How to use MVC project type as your provider hosted add-insHow to set permissions to access to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0727/d5b11905-90f3-4172-8735-01f636f70727/O365809Demo4_mid.mp4</video:content_loc>
+        <video:duration>309</video:duration>
+        <video:publication_date>2015-06-17T10:16:09.0144575+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-perform-personalized-search-queries-with-CSOM</loc>
+      <lastmod>2015-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/27c6/1cfb6842-4439-4e92-ac24-80150a4e27c6/O365809Demo2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to perform personalized search queries with CSOM]]></video:title>
+        <video:description><![CDATA[This video shows how to perform SharePoint search queries with CSOM and personalize the results based on information on the users profile. The video shows following topics: Use Search APIs from&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/27c6/1cfb6842-4439-4e92-ac24-80150a4e27c6/O365809Demo2_mid.mp4</video:content_loc>
+        <video:duration>476</video:duration>
+        <video:publication_date>2015-06-17T10:07:14.0163651+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-Export-and-Import-Search-Configurations-with-CSOM</loc>
+      <lastmod>2015-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/de51/6f5bf8a5-1561-47ce-a836-6195b6c1de51/O365809Demo1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to Export and Import Search Configurations with CSOM]]></video:title>
+        <video:description><![CDATA[This demonstration outlines the PnP sample to Export and Import Search Configurations with CSOM. The video shows following topics: How to connect to Office 365 using account and password from console&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/de51/6f5bf8a5-1561-47ce-a836-6195b6c1de51/O365809Demo1_mid.mp4</video:content_loc>
+        <video:duration>249</video:duration>
+        <video:publication_date>2015-06-17T05:32:12.5789909+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Asynchronous-remote-provisioning-solution-for-self-service-site-collection-creation</loc>
+      <lastmod>2016-01-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d076/136ca066-8e6a-4ea3-81e7-2c9b5c47d076/PnPDemoSiteCollectionAsyncProvisioning_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Asynchronous remote provisioning solution for self service site collection creation]]></video:title>
+        <video:description><![CDATA[This video shows how to take advantage of &amp;quot;remote provisioning&amp;quot; pattern also for sub site creation by overriding the end user sub site creation experience with provider hosted app. The video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d076/136ca066-8e6a-4ea3-81e7-2c9b5c47d076/PnPDemoSiteCollectionAsyncProvisioning_mid.mp4</video:content_loc>
+        <video:duration>999</video:duration>
+        <video:publication_date>2015-06-17T05:18:42.1037808+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Using-remote-provisioning-pattern-for-sub-site-creation</loc>
+      <lastmod>2017-06-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5045/aadc8170-cd7b-4e96-9cec-468f6ca75045/PnPDemoSubSiteOverride_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using remote provisioning pattern for sub site creation]]></video:title>
+        <video:description><![CDATA[This video shows how to take advantage of &amp;quot;remote provisioning&amp;quot; pattern also for sub site creation by overriding the end user sub site creation experience with provider hosted app. The video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5045/aadc8170-cd7b-4e96-9cec-468f6ca75045/PnPDemoSubSiteOverride_mid.mp4</video:content_loc>
+        <video:duration>604</video:duration>
+        <video:publication_date>2015-06-17T05:17:03.6829834+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Using-Office-365-themes-to-provide-branding-elements-in-Office-365</loc>
+      <lastmod>2017-12-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4539/7d844d1d-04af-44c8-b8c0-5d1feb884539/DemoOffice365Theme_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Office 365 themes to provide branding elements in Office 365]]></video:title>
+        <video:description><![CDATA[This video shows how you can use Office 365 themes to apply branding settings cross different services in your Office 365 tenant. The video shows following topics: How to access Office 365 theme&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4539/7d844d1d-04af-44c8-b8c0-5d1feb884539/DemoOffice365Theme_mid.mp4</video:content_loc>
+        <video:duration>190</video:duration>
+        <video:publication_date>2015-06-17T05:16:22.4848126+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Applying-and-using-custom-SharePoint-themes-with-add-in-model</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4393/872f4fe9-12a1-4ec5-9b37-c4ad2c1d4393/PnPDemoCustomTheme_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Applying and using custom SharePoint themes with add-in model]]></video:title>
+        <video:description><![CDATA[This video shows how to upload custom theme and how to apply it to the SharePoint site with add-in model techniques. The video shows following topics: How to using remote APIs to start using out of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4393/872f4fe9-12a1-4ec5-9b37-c4ad2c1d4393/PnPDemoCustomTheme_mid.mp4</video:content_loc>
+        <video:duration>554</video:duration>
+        <video:publication_date>2015-06-17T05:15:29.8451091+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Using-alternate-CSS-for-providing-custom-branding-in-SharePoint-site</loc>
+      <lastmod>2018-11-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d27f/661176c1-79fb-431c-96ab-8c701b01d27f/PnPAlternateCssProperty_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using alternate CSS for providing custom branding in SharePoint site]]></video:title>
+        <video:description><![CDATA[This video shows how you can take advance of alternate CSS property in web object to provide custom branding to SharePoint sites without a need to create custom mater page. The video shows following&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d27f/661176c1-79fb-431c-96ab-8c701b01d27f/PnPAlternateCssProperty_mid.mp4</video:content_loc>
+        <video:duration>360</video:duration>
+        <video:publication_date>2015-06-17T05:14:30.5513919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-use-Azure-Service-Bus-to-debug-your-remote-event-receivers</loc>
+      <lastmod>2015-09-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7d42/945ec4f6-2495-4002-a65e-7da2c2647d42/PnPDebugRemoteEventReceiver_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to use Azure Service Bus to debug your remote event receivers]]></video:title>
+        <video:description><![CDATA[This video shows how you can leverage Azure Service Bus for debugging your remote event receivers. The video shows following topics: How to setup Azure Service BusHow to hookup Azure Service Bus in&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7d42/945ec4f6-2495-4002-a65e-7da2c2647d42/PnPDebugRemoteEventReceiver_mid.mp4</video:content_loc>
+        <video:duration>524</video:duration>
+        <video:publication_date>2015-06-10T14:54:59.8890880+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/How-to-use-remote-event-receivers-for-your-SharePoint-add-ins</loc>
+      <lastmod>2017-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6cca/b48c1311-24d1-422f-8085-15ded7416cca/PnPRemoteEventReceiverDemo_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to use remote event receivers for your SharePoint add-ins]]></video:title>
+        <video:description><![CDATA[This video shows how remote event receivers can be used in your SharePoint add-ins. The video shows following topics: How to configure your solution to use app installed and app uninstalled remote&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6cca/b48c1311-24d1-422f-8085-15ded7416cca/PnPRemoteEventReceiverDemo_mid.mp4</video:content_loc>
+        <video:duration>481</video:duration>
+        <video:publication_date>2015-06-10T14:53:03.3059763+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/You-can-still-have-timer-jobs-using-the-add-in-model</loc>
+      <lastmod>2015-11-10</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/29b5/e38d7124-ff40-4bff-9c8d-a57704df29b5/PnPSimpleTimerJob_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[You can still have timer jobs using the add-in model]]></video:title>
+        <video:description><![CDATA[This video shows how a simple timer job can be created using the add-in model. The video shows following topics: How to obtain a client ID, client secret pair via deploying a provider hosted&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/29b5/e38d7124-ff40-4bff-9c8d-a57704df29b5/PnPSimpleTimerJob_mid.mp4</video:content_loc>
+        <video:duration>458</video:duration>
+        <video:publication_date>2015-06-10T14:44:33.8490510+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Client-side-caching-demo</loc>
+      <lastmod>2017-02-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a41f/99eb38fb-2ab0-4b02-bd3d-8f35ab57a41f/PnPClientSideCaching_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to use client side caching to optimize the performance of your add-ins]]></video:title>
+        <video:description><![CDATA[This video shows how client side caching using HTML 5 local storage will help improve your add-in performance. The video shows following topics: How to retrieve data from the user profile serviceHow&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a41f/99eb38fb-2ab0-4b02-bd3d-8f35ab57a41f/PnPClientSideCaching_mid.mp4</video:content_loc>
+        <video:duration>446</video:duration>
+        <video:publication_date>2015-06-10T12:02:37.2920191+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/JavaScript-embedding-demo</loc>
+      <lastmod>2017-06-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f9e9/1bc38476-7471-4543-ac93-fd295614f9e9/PnPJavaScriptEmbedding_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to update your SharePoint pages via the embedding of JavaScript ]]></video:title>
+        <video:description><![CDATA[This video shows how to you can use JavaScript embedding to update SharePoint pages. The video shows following topics: How to hookup your JavaScript so that it gets executed on all pages in a siteHow&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f9e9/1bc38476-7471-4543-ac93-fd295614f9e9/PnPJavaScriptEmbedding_mid.mp4</video:content_loc>
+        <video:duration>539</video:duration>
+        <video:publication_date>2015-06-10T11:52:20.0492718+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Page-manipulation-demo</loc>
+      <lastmod>2015-06-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c45b/641dec3c-9979-4787-8a9c-ab8e552dc45b/PnPPageManipulation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to modify wiki pages using the add-in model]]></video:title>
+        <video:description><![CDATA[This video shows how to you can use the add-in model and the PnP core library to modify wiki pages. The video covers following topics: How to add HTML to a wiki pageHow to create wiki pages using a&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c45b/641dec3c-9979-4787-8a9c-ab8e552dc45b/PnPPageManipulation_mid.mp4</video:content_loc>
+        <video:duration>579</video:duration>
+        <video:publication_date>2015-06-10T11:45:44.6155235+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-June-2015-Community-Call</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6bb/39b651ac-a791-49db-bffb-3a74cbe6e6bb/OfficeDevPnPJuneCommunityCallRecording_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - June 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices June 2015 community call kept on 9th of June 2015. Thanks everyone who participated and let&#39;s continue discussion in PnP Yammer group.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6bb/39b651ac-a791-49db-bffb-3a74cbe6e6bb/OfficeDevPnPJuneCommunityCallRecording_mid.mp4</video:content_loc>
+        <video:duration>3700</video:duration>
+        <video:publication_date>2015-06-09T18:26:44.5970001+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introduction-to-PnP-PowerShell-Cmdlets</loc>
+      <lastmod>2020-12-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/05f8/c3d2865e-d90c-4108-a94b-7c816c6905f8/IntroductionToPnPPowerShell_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to PnP PowerShell Cmdlets]]></video:title>
+        <video:description><![CDATA[This video shows how to get started with the Office 365 Developer Patterns PowerShell Cmdlets to remotely manage your Office 365 or on-premises site collections and sites. Author of the video: Erwin&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/05f8/c3d2865e-d90c-4108-a94b-7c816c6905f8/IntroductionToPnPPowerShell_mid.mp4</video:content_loc>
+        <video:duration>1322</video:duration>
+        <video:publication_date>2015-05-27T06:26:53.8691071+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Deep-dive-to-PnP-provisioning-engine-schema</loc>
+      <lastmod>2020-01-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/0928/4b043656-673e-4eef-981a-48a611640928/InsideOfThePnPProvisioningSchema_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Deep dive to PnP provisioning engine schema]]></video:title>
+        <video:description><![CDATA[This video shows how to get started with the Office 365 Developer Patterns and Practices provisioning engine schema. Author of the video: Paolo Pialorsi @PaoloPia. Video shows following topics Schema&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/0928/4b043656-673e-4eef-981a-48a611640928/InsideOfThePnPProvisioningSchema_mid.mp4</video:content_loc>
+        <video:duration>1173</video:duration>
+        <video:publication_date>2015-05-25T07:24:29.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Getting-Started-with-PnP-Provisioning-Engine</loc>
+      <lastmod>2021-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8b34/a1523011-2d13-4a78-beab-a82536478b34/PnPProvisioningEngineGettingStarted_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Getting Started with PnP Provisioning Engine]]></video:title>
+        <video:description><![CDATA[This video shows how to get started with the Office 365 Developer Patterns and Practices (PnP) provisioning engine and how you can take advantage of this engine in your own code. Author of the video:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8b34/a1523011-2d13-4a78-beab-a82536478b34/PnPProvisioningEngineGettingStarted_mid.mp4</video:content_loc>
+        <video:duration>1357</video:duration>
+        <video:publication_date>2015-05-25T05:58:05.1126730+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-May-2015-Community-Call</loc>
+      <lastmod>2017-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/1fec/3db34ed7-a60c-4af9-adbf-24b198941fec/PnPMay2015CommunityCall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - May 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices May 2015 community call kept on 12th of May 2015. Thanks everyone who participated and let&#39;s continue discussion in PnP Yammer group.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/1fec/3db34ed7-a60c-4af9-adbf-24b198941fec/PnPMay2015CommunityCall_mid.mp4</video:content_loc>
+        <video:duration>3603</video:duration>
+        <video:publication_date>2015-05-12T19:34:05.4425034+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introduction-to-PnP-site-remote-provisioning-engine</loc>
+      <lastmod>2016-04-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/88d3/ea53dd25-a9b4-4e48-8eae-1aa3d82988d3/Office365DevPnPEngineIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to PnP remote site provisioning engine]]></video:title>
+        <video:description><![CDATA[This solution shows how to use Office 365 Dev PnP remote provisioning engine in context of provider hosted app. Engine can be used from managed code or using PowerShell and the exact UX is dependent&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/88d3/ea53dd25-a9b4-4e48-8eae-1aa3d82988d3/Office365DevPnPEngineIntro_mid.mp4</video:content_loc>
+        <video:duration>1551</video:duration>
+        <video:publication_date>2015-04-28T05:49:42.0296771+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-April-2015-Community-Call</loc>
+      <lastmod>2017-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/41be/075b534d-e360-484b-8dfe-8c5e61f441be/OfficeDevPnPCommunityCallApril2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - April 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices April 2015 community call kept on 14th of April 2015. Thanks everyone who participated and let&#39;s continue discussion in PnP Yammer&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/41be/075b534d-e360-484b-8dfe-8c5e61f441be/OfficeDevPnPCommunityCallApril2015_mid.mp4</video:content_loc>
+        <video:duration>3396</video:duration>
+        <video:publication_date>2015-04-14T17:27:21.9752509+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-March-2015-Community-Call</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a457/c3355096-352c-47aa-a179-437d4df9a457/PnPMarchCommunityCall_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - March 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices March 2015 community call. Thanks everyone who participated. Content 25 minutes - Slides for released capabilities and where are we&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a457/c3355096-352c-47aa-a179-437d4df9a457/PnPMarchCommunityCall_mid.mp4</video:content_loc>
+        <video:duration>2573</video:duration>
+        <video:publication_date>2015-03-11T05:13:23.6308397+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introduction-to-the-PnP-timer-job-framework</loc>
+      <lastmod>2016-07-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dd4a/5bf610c8-5d24-499d-9d3b-c9b999dcdd4a/TimerJobIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to the PnP timer job framework]]></video:title>
+        <video:description><![CDATA[In this video we&#39;ll introduce the PnP Timer Job framework to you. You&#39;ll learn about why timer jobs are important in app model developments, what the main features are of the timer job framework and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dd4a/5bf610c8-5d24-499d-9d3b-c9b999dcdd4a/TimerJobIntro_mid.mp4</video:content_loc>
+        <video:duration>1156</video:duration>
+        <video:publication_date>2015-03-10T15:34:45.6341507+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Self-service-site-collection-provisioning-to-Office-365-with-Azure-WebJob</loc>
+      <lastmod>2019-08-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c5a3/63d53042-edc8-4939-bd72-2e0a8d9cc5a3/SiteColProvisioningWebJob_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Self service site collection provisioning to Office 365 with Azure WebJob ]]></video:title>
+        <video:description><![CDATA[This sample shows how to perform self service site collection request processing on-demand with Azure WebJobs as continuously running operation, which will handle incoming requests from Azure Storage&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c5a3/63d53042-edc8-4939-bd72-2e0a8d9cc5a3/SiteColProvisioningWebJob_mid.mp4</video:content_loc>
+        <video:duration>1703</video:duration>
+        <video:publication_date>2015-03-04T18:18:40.9091679+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Asynchronous-on-demand-operations-with-Azure-storage-queues-and-WebJobs</loc>
+      <lastmod>2019-05-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/d700/ab27ad5c-74d6-47bf-89b0-8041b37ad700/O365AzureWebJobOnDemand_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Asynchronous on-demand operations in Office 365 with Azure storage queues and WebJobs]]></video:title>
+        <video:description><![CDATA[This sample shows how to perform operations on-demand with Azure WebJobs as continuously running operation, which will handle incoming requests from Azure Storage Queue. This can be really easily&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/d700/ab27ad5c-74d6-47bf-89b0-8041b37ad700/O365AzureWebJobOnDemand_mid.mp4</video:content_loc>
+        <video:duration>2462</video:duration>
+        <video:publication_date>2015-03-02T12:09:04.0208959+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Hybrid-site-collection-provisioning-from-Azure-to-on-premises</loc>
+      <lastmod>2017-02-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/5fb5/7a21bd0e-8bb6-4194-8d6f-44c9d98b5fb5/HybridSiteCollectionProvisioning_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Hybrid site collection provisioning from Azure to on-premises]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how to host provider hosted app in Microsoft Azure and provision site collections asynchronously to Office 365 or to&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/5fb5/7a21bd0e-8bb6-4194-8d6f-44c9d98b5fb5/HybridSiteCollectionProvisioning_mid.mp4</video:content_loc>
+        <video:duration>3394</video:duration>
+        <video:publication_date>2015-02-19T17:37:35.7628652+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/User-profile-CSOM-for-reading-and-updates</loc>
+      <lastmod>2018-04-06</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/6f26/034cfdc0-8968-4d54-a164-1427bfbb6f26/UserProfileCSOM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[User profile CSOM for reading and updates]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how to use user profile client side object model (CSOM) to read and update user profile property values in SharePoint&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/6f26/034cfdc0-8968-4d54-a164-1427bfbb6f26/UserProfileCSOM_mid.mp4</video:content_loc>
+        <video:duration>669</video:duration>
+        <video:publication_date>2015-02-18T11:37:56.8578303+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Integrate-Yammer-feeds-to-SharePoint-sites</loc>
+      <lastmod>2019-04-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/dc9d/6533208a-5b37-4532-a3bb-2f363787dc9d/YammerWithSharePointSites_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Integrate Yammer feeds to SharePoint sites]]></video:title>
+        <video:description><![CDATA[This video demonstrates how to integrate Yammer feeds to SharePoint sites using embedding capability and how to get started with the app development in the Yammer. Key topics demonstrated in the video&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/dc9d/6533208a-5b37-4532-a3bb-2f363787dc9d/YammerWithSharePointSites_mid.mp4</video:content_loc>
+        <video:duration>1061</video:duration>
+        <video:publication_date>2015-02-18T11:34:51.5496947+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Information-management-policy-wtih-app-model</loc>
+      <lastmod>2017-06-25</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8c9e/b54d121f-3fc3-4f11-a74a-9316baab8c9e/InformationManagementPolicyGovernance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Information management policy with app model]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how to create typical information management policy processes with app model. You can use this similar approach for any&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8c9e/b54d121f-3fc3-4f11-a74a-9316baab8c9e/InformationManagementPolicyGovernance_mid.mp4</video:content_loc>
+        <video:duration>597</video:duration>
+        <video:publication_date>2015-02-18T11:34:37.3265795+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Document-and-list-templates-with-app-model</loc>
+      <lastmod>2017-09-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7219/6868b405-234b-43e6-873d-72dd8dff7219/DocumentTemplatesWithAppModel_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Document and list templates with app model]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how to provide document library template capability using app model techniques. Provide UI where end users can request&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7219/6868b405-234b-43e6-873d-72dd8dff7219/DocumentTemplatesWithAppModel_mid.mp4</video:content_loc>
+        <video:duration>313</video:duration>
+        <video:publication_date>2015-02-18T11:34:16.4542229+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Creating-content-types-and-site-columns-with-CSOM</loc>
+      <lastmod>2018-03-05</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4314/32d51125-f2da-4fbe-b8b8-0b5cc26e4314/CreateContentTypesAndSiteColumnsWithCSOM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating content types and site columns with CSOM]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how to use client side object model to create content types and site columns without feature framework. Create content&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4314/32d51125-f2da-4fbe-b8b8-0b5cc26e4314/CreateContentTypesAndSiteColumnsWithCSOM_mid.mp4</video:content_loc>
+        <video:duration>984</video:duration>
+        <video:publication_date>2015-02-18T11:33:38.7246059+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Introduction-to-Managed-Metadata-CSOM</loc>
+      <lastmod>2017-09-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/da95/80afd295-aa76-4035-a26e-32315611da95/ManagedMetadataCSOM_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Introduction to Managed Metadata CSOM]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how to use client side object model for managed metadata. How to connect to Office 365How to create groups, term sets and&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/da95/80afd295-aa76-4035-a26e-32315611da95/ManagedMetadataCSOM_mid.mp4</video:content_loc>
+        <video:duration>545</video:duration>
+        <video:publication_date>2015-02-18T11:33:25.7592756+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-February-2015-Community-Call</loc>
+      <lastmod>2017-02-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/9604/b6c6663b-8e9d-433e-ad34-aa05391d9604/PnPCommunityCallFebruary2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - February 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices February 2015 community call. Thanks everyone who participated. Call consists from 30 minutes in slides with latest updates and then&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/9604/b6c6663b-8e9d-433e-ad34-aa05391d9604/PnPCommunityCallFebruary2015_mid.mp4</video:content_loc>
+        <video:duration>3898</video:duration>
+        <video:publication_date>2015-02-10T19:59:39.8505959+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Office-365-Developer-Patterns-and-Practices-January-2015-Community-Call</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/7a9b/add40969-05c2-4912-8f84-7e749d2a7a9b/PnPCommunityCallJanuary2015_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - January 2015 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices January 2015 community call. Thanks everyone who participated. This is one of the most interesting starts of a recording we have heard&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/7a9b/add40969-05c2-4912-8f84-7e749d2a7a9b/PnPCommunityCallJanuary2015_mid.mp4</video:content_loc>
+        <video:duration>3757</video:duration>
+        <video:publication_date>2015-01-13T21:54:01.9827167+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Customizing-OneDrive-for-Business-sites-with-app-model</loc>
+      <lastmod>2015-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/053b/3496f324-dc88-4e1f-937f-e1a177fc053b/OD4BCustomizer_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Customizing OneDrive for Business sites with app model ]]></video:title>
+        <video:description><![CDATA[Notice. This model only works with so called classic UI experience on OneDrive for Business sites. More information on the difference and changes introduced during October 2015 from following web&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/053b/3496f324-dc88-4e1f-937f-e1a177fc053b/OD4BCustomizer_mid.mp4</video:content_loc>
+        <video:duration>2032</video:duration>
+        <video:publication_date>2015-01-05T19:40:51.2809094+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Cross-site-collection-navigation</loc>
+      <lastmod>2018-01-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/53e4/9f0ad006-9ae9-4a6d-85c6-6b5c7e0453e4/CrossSiteNavigation_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cross site collection navigation]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how you can use JS injection techniques to provide cross site collection navigation to site level. How to use user custom&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/53e4/9f0ad006-9ae9-4a6d-85c6-6b5c7e0453e4/CrossSiteNavigation_mid.mp4</video:content_loc>
+        <video:duration>622</video:duration>
+        <video:publication_date>2014-12-17T19:04:09.4886947+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/SharePoint-Apps-and-client-side-caching</loc>
+      <lastmod>2018-02-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/804e/a2b8a1d3-982f-4cf1-bd4f-a125dd56804e/ClientSideCaching_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[SharePoint Apps and client side caching]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how you should be using client side caching for improving performance within your apps and to avoid unnecessary remote&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/804e/a2b8a1d3-982f-4cf1-bd4f-a125dd56804e/ClientSideCaching_mid.mp4</video:content_loc>
+        <video:duration>495</video:duration>
+        <video:publication_date>2014-12-17T17:03:08.2117413+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/Client-Side-Rendering</loc>
+      <lastmod>2020-10-13</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/076e/5ee28215-1cc9-402c-b0db-277d0117076e/ClientSideRendering_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Client Side Rendering]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how you can alternate SharePoint list rendering using app model techniques. Here&#39;s key topics showed in this video. How&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/076e/5ee28215-1cc9-402c-b0db-277d0117076e/ClientSideRendering_mid.mp4</video:content_loc>
+        <video:duration>673</video:duration>
+        <video:publication_date>2014-12-17T15:35:52.1005032+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/App-Dialogs</loc>
+      <lastmod>2018-01-17</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/17f7/19ce69c8-ea07-4a27-831d-ab4d9e9e17f7/AppDialog_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[App Dialogs]]></video:title>
+        <video:description><![CDATA[This is a demonstration of Office 365 Patterns and Practices code, which shows how you can surface your apps using a app dialog model where app is shown in modal dialog for example in the context of&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/17f7/19ce69c8-ea07-4a27-831d-ab4d9e9e17f7/AppDialog_mid.mp4</video:content_loc>
+        <video:duration>474</video:duration>
+        <video:publication_date>2014-12-17T14:55:09.7532781+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/blogs/OfficeDevPnP/OfficeDevPnP-Dec-2014-CC</loc>
+      <lastmod>2015-10-14</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c775/89cbfad2-ab0c-4505-ad09-e3ed4e07c775/PnPCommunityCallDecember2014_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Office 365 Developer Patterns and Practices - December 2014 Community Call]]></video:title>
+        <video:description><![CDATA[Lync recording of the Office 365 Developer Patterns and Practices December 2014 community call. Thanks everyone who participated. You can find used presentation from PnP section under docs.com service&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c775/89cbfad2-ab0c-4505-ad09-e3ed4e07c775/PnPCommunityCallDecember2014_mid.mp4</video:content_loc>
+        <video:duration>3647</video:duration>
+        <video:publication_date>2014-12-17T13:29:41.1405247+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

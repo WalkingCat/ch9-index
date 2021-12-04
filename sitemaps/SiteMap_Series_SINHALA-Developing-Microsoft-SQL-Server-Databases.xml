@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Configure-Microsoft-SQL-Server-Databases-Sinhala</loc>
+      <lastmod>2019-04-28</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/30d3/a6c4eefe-c418-4394-a4f8-009b7b7730d3/ConfigureMSSQLDatabases_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(1) - Tables  Views   -(Implementing Tables and Views)]]></video:title>
+        <video:description><![CDATA[data types සහ constraints ද යොදාගනිමින් disk-based tables නිර්මාණය කරන ආකාරය ඉගෙන ගනිමු. එලෙසම variables, temporary tables සහ common table expressions යොදාගනිමින් table objects සාදමු. ඒ පමණක් නොව&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/30d3/a6c4eefe-c418-4394-a4f8-009b7b7730d3/ConfigureMSSQLDatabases_mid.mp4</video:content_loc>
+        <video:duration>3731</video:duration>
+        <video:publication_date>2016-03-18T03:46:40.8857327+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Implementing-Indexes-Sinhala</loc>
+      <lastmod>2020-09-22</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/8ef3/e2fffc4e-01e3-4850-b765-d7abd5398ef3/ImplementingIndexes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(2) - Indexes   -(Implementing-Indexes)]]></video:title>
+        <video:description><![CDATA[Heaps, clustered indexes සහ non-clustered indexes අතර වෙනස දැනගන්න. clustered සහ non-clustered indexes සමග සලකමින් filtered indexes, data types, page density නිර්මාණය සහ ක්‍රියාත්මක කිරීමේ ආකාරය සහ&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/8ef3/e2fffc4e-01e3-4850-b765-d7abd5398ef3/ImplementingIndexes_mid.mp4</video:content_loc>
+        <video:duration>1700</video:duration>
+        <video:publication_date>2016-03-18T03:46:27.7830042+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Implementing-Stored-Procedures-and-Functions</loc>
+      <lastmod>2018-01-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/36ee/2e00124e-fda8-467f-b302-f2b58a4236ee/ImplementingStoredProcedures_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(3) - Stored Procedure  Functions   - (Implementing Stored Procedures and Functions)]]></video:title>
+        <video:description><![CDATA[stored procedures නිර්මාණය හා ක්‍රියාක්මක කිරීම, execution context, parameters සහ return values ඇතුලත්ව ගවේෂණය කරන්න. එසේ ම වෙනස් ආකාරවල functions නිර්මාණය කිරීම ඉගෙන ගන්නා ආකාරය ද මේ මොඩියුලයට&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/36ee/2e00124e-fda8-467f-b302-f2b58a4236ee/ImplementingStoredProcedures_mid.mp4</video:content_loc>
+        <video:duration>1995</video:duration>
+        <video:publication_date>2016-03-18T03:46:20.6004996+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Managing-Transactions-Sinhala</loc>
+      <lastmod>2016-06-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/008b/ff83b657-8cdf-463c-9e88-5f247d17008b/ManageTransactions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(4) - Transactions  - (Managing Transactions)]]></video:title>
+        <video:description><![CDATA[මෙම මොඩියුලය මගින් Transactions සහ isolation concepts පිළිබඳ හැඳින්වීමක් ලබා ගැනීමටල transactions, සහ errors හඳුනාගැනීම, isolation මට්ටම් ස්ථාපිත කිරීම සහ database objects නිර්මාණය කිරීම ඉගෙන ගත හැක.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/008b/ff83b657-8cdf-463c-9e88-5f247d17008b/ManageTransactions_mid.mp4</video:content_loc>
+        <video:duration>1969</video:duration>
+        <video:publication_date>2016-03-18T03:46:12.5179260+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/In-Memory-Objects--Implementing-In-Memory-Objects</loc>
+      <lastmod>2016-05-21</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/3539/3e4347ef-3a05-4dfd-b235-9cb7ffbc3539/InMemoryObjects_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(5) - In-Memory Objects  - (Implementing In-Memory Objects)]]></video:title>
+        <video:description><![CDATA[මෙම මොඩියුලය මගින් disk-based tables වල clustered සහ non-clustered column store indexes ක්‍රියාත්මක වන ආකාරය සොයා බලීමටත්, in-memory tables සහ stored procedures ක්‍රියාත්මක කල යුතු සුදුසුම අවස්ථාවන්&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/3539/3e4347ef-3a05-4dfd-b235-9cb7ffbc3539/InMemoryObjects_mid.mp4</video:content_loc>
+        <video:duration>1668</video:duration>
+        <video:publication_date>2016-03-18T03:46:06.7036155+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Optimizing-and-Troubleshooting-Queries-Sinhala</loc>
+      <lastmod>2017-10-19</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c43e/f047a532-8d3a-42cd-99ab-f98d94c1c43e/OptimizingQueriesAndTroubleshooting_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(6) - Queries Optimize Troubleshoot  - (Optimizing and Troubleshooting Queries)]]></video:title>
+        <video:description><![CDATA[දුර්වල කාර්යක්ෂමතාවයක් පෙන්වන queries කෙසේද කාර්යක්ෂම කරන්නේ? එලෙසම කාර්යක්ෂමතාව සහ query සම්බන්ධ සුලබ ගැටලු සදහා ඇති විසදුම් මොනවාද? මේ ආකාරයේ සුලබ ගැටලු සහ විසදුම් සහිතව මෙම මොඩියුලය නිර්මාණව වී ඇත.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c43e/f047a532-8d3a-42cd-99ab-f98d94c1c43e/OptimizingQueriesAndTroubleshooting_mid.mp4</video:content_loc>
+        <video:duration>843</video:duration>
+        <video:publication_date>2016-03-18T03:45:55.6225942+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Connecting-To-A-Remote-Database</loc>
+      <lastmod>2016-10-04</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/a7dd/0b84ce72-a1da-4daa-aac7-d014dad1a7dd/ConnectingToARemoteDatabase_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[(7) - Remote Database    - (Connecting to a remote database)]]></video:title>
+        <video:description><![CDATA[මෙම මොඩියුලය මගින් Remote Database එකකට සම්බන්ධ වන ආකාරය ඉගෙන ගනිමු. එමගින් ඔබ මේ වන තෙක් උගත් පාඩම් නව ආකාරයකට අත්හදා බැලිමට හැකියාව ඇත. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/a7dd/0b84ce72-a1da-4daa-aac7-d014dad1a7dd/ConnectingToARemoteDatabase_mid.mp4</video:content_loc>
+        <video:duration>822</video:duration>
+        <video:publication_date>2016-03-18T03:45:51.0257003+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Storage-Spaces-Deep-Dive</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Lessons-from-the-Field</loc>
+      <lastmod>2015-05-03</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/db4b/4bd4b337-c31b-44f6-a0cf-03d7cbd0db4b/LessonsFromTheField_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Spaces: Lessons from the Field]]></video:title>
+        <video:description><![CDATA[In the last part of our Storage Spaces deep dive we share some lessons from the field. To get in touch with Ola, Mikael or Markus, please send an e-mail:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/db4b/4bd4b337-c31b-44f6-a0cf-03d7cbd0db4b/LessonsFromTheField_mid.mp4</video:content_loc>
+        <video:duration>2371</video:duration>
+        <video:publication_date>2015-04-23T13:34:00.2646919+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Performance</loc>
+      <lastmod>2015-05-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4179/092048f4-7ad9-446b-81a8-6dc95bcc4179/Performance_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Spaces: Performance]]></video:title>
+        <video:description><![CDATA[In the third part of our Storage Spaces deep dive we look at how to measure performance and how to configure for, and how to troubleshoot, performance. To get in touch with Ola, Mikael or Markus,&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4179/092048f4-7ad9-446b-81a8-6dc95bcc4179/Performance_mid.mp4</video:content_loc>
+        <video:duration>1986</video:duration>
+        <video:publication_date>2015-04-23T13:15:04.5248384+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Design</loc>
+      <lastmod>2015-05-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/f56a/bfe4029f-03be-4846-b513-b69c0860f56a/Design_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Spaces: Design]]></video:title>
+        <video:description><![CDATA[In the second part of our Storage Spaces deep dive we look at the design of our Storage Pools and virtual disks. To get in touch with Ola, Mikael or Markus, please send an e-mail:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/f56a/bfe4029f-03be-4846-b513-b69c0860f56a/Design_mid.mp4</video:content_loc>
+        <video:duration>2180</video:duration>
+        <video:publication_date>2015-04-23T13:14:40.9343711+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Architecture</loc>
+      <lastmod>2015-05-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/c045/2545b807-565d-40d9-9b2f-4bbda27ac045/Architecture_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Storage Spaces: Architecture]]></video:title>
+        <video:description><![CDATA[In the first part of our Storage Spaces  deep dive we look at some different architectures for building storage solutions. To get in touch with Ola, Mikael or Markus, please send an e-mail:&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/c045/2545b807-565d-40d9-9b2f-4bbda27ac045/Architecture_mid.mp4</video:content_loc>
+        <video:duration>1188</video:duration>
+        <video:publication_date>2015-04-23T13:13:24.9561818+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

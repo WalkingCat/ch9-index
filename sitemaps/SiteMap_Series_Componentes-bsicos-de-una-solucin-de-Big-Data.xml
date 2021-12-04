@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data/Mdulo-IV-Introduccin-a-Sqoop-y-Oozie</loc>
+      <lastmod>2016-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/121a/ab05cb83-27d2-46e7-8290-df2cd16f121a/BigDataMod4_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo IV - Introducci&#243;n a Sqoop y Oozie]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan algunas tecnolog&#237;as adicionales disponibles en la soluci&#243;n de Big Data como Sqoop y Oozie. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/121a/ab05cb83-27d2-46e7-8290-df2cd16f121a/BigDataMod4_mid.mp4</video:content_loc>
+        <video:duration>586</video:duration>
+        <video:publication_date>2016-12-23T17:25:45.1561737+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data/Mdulo-III-Introduccin-a-Pig</loc>
+      <lastmod>2016-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/93a5/86d07a3a-54c5-447c-b3b6-84c9b01193a5/BigDataMod3_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo III - Introducci&#243;n a Pig]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las caracter&#237;sticas de Pig y la forma de analizar y transformar los datos utilizando esta tecnolog&#237;a.   ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/93a5/86d07a3a-54c5-447c-b3b6-84c9b01193a5/BigDataMod3_mid.mp4</video:content_loc>
+        <video:duration>1786</video:duration>
+        <video:publication_date>2016-12-23T17:12:05.8119966+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data/Mdulo-II-Introduccin-a-Hive</loc>
+      <lastmod>2019-07-31</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2d1d/ce1156f4-9afa-488c-8be9-999063772d1d/BigDataMod2_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo II - Introducci&#243;n a Hive]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan las caracter&#237;sticas de Hive y la forma de consultar datos utilizando el lenguaje HiveQL. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2d1d/ce1156f4-9afa-488c-8be9-999063772d1d/BigDataMod2_mid.mp4</video:content_loc>
+        <video:duration>2325</video:duration>
+        <video:publication_date>2016-12-23T17:11:49.6436384+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data/Mdulo-I-Componentes-de-una-solucin-de-Big-Data</loc>
+      <lastmod>2016-12-23</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/e6eb/2c9e014b-35f2-4f6f-a19c-cea9a57ee6eb/BigDataMod1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M&#243;dulo I - Componentes de una soluci&#243;n de Big Data]]></video:title>
+        <video:description><![CDATA[En este m&#243;dulo se presentan los principales componentes de una soluci&#243;n de Big Data. Entre ellos HDFS, MapReduce / Tez, YARN. ]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/e6eb/2c9e014b-35f2-4f6f-a19c-cea9a57ee6eb/BigDataMod1_mid.mp4</video:content_loc>
+        <video:duration>1729</video:duration>
+        <video:publication_date>2016-12-23T17:11:27.8441566+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 

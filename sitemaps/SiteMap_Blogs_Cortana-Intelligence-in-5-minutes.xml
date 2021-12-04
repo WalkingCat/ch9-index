@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Cortana-Intelligence-in-5-minutes</loc>
+      <lastmod>2021-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Cortana-Intelligence-in-5-minutes/Creating-a-Resource-Group-with-Azure</loc>
+      <lastmod>2017-03-29</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/4ad8/8bf3ecfb-9616-4866-98f1-c0cac2234ad8/NewResourceGroup_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Creating a Resource Group with Azure]]></video:title>
+        <video:description><![CDATA[Resource Groups are an excellent technique for managing the various products you use within Azure. You can create a new resource group for: Each project Each teamAny other way you want to manage your&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/4ad8/8bf3ecfb-9616-4866-98f1-c0cac2234ad8/NewResourceGroup_mid.mp4</video:content_loc>
+        <video:duration>209</video:duration>
+        <video:publication_date>2017-01-04T15:26:00.0000000+00:00</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Blogs/Cortana-Intelligence-in-5-minutes/Create-and-Run-a-Bot-in-6-Minutes</loc>
+      <lastmod>2017-04-11</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ch9/2f17/fde2fa04-eaeb-421d-958c-a44419ca2f17/BotIn5Minutes_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Create and Run a Bot in 6 Minutes]]></video:title>
+        <video:description><![CDATA[Do you want to create and run your first bot with the Microsoft Bot Framework? This quick video will walk you through the steps. I was hoping to accomplish this in 5 minutes but it took 6 minutes.&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ch9/2f17/fde2fa04-eaeb-421d-958c-a44419ca2f17/BotIn5Minutes_mid.mp4</video:content_loc>
+        <video:duration>367</video:duration>
+        <video:publication_date>2016-12-20T03:15:04.7904913+00:00</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 
