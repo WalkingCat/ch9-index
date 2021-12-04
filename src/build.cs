@@ -1,7 +1,7 @@
 ﻿using System.Xml;
-
+var filter = args.FirstOrDefault("");
 var index_files = new Dictionary<string, StreamWriter>();
-foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", args.FirstOrDefault(""))) {
+foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
     var filename = Path.GetFileNameWithoutExtension(path);
     var name_start = filename.IndexOf("_", 8);
     var cat = filename.Substring(8, name_start - 8);
@@ -12,12 +12,15 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", args.FirstOrDefau
     var xml = new XmlDocument();
     xml.Load(path);
 
-    using var content = new StreamWriter($"..\\docs\\{cat}_{name}.html", false, System.Text.Encoding.UTF8);
     var index_name = $"..\\docs\\{cat}.html";
-    if (!index_files.ContainsKey(index_name)) {
-        index_files[index_name] = new StreamWriter(index_name, false, System.Text.Encoding.UTF8);
+    if (string.IsNullOrEmpty(filter)) {
+        if (!index_files.ContainsKey(index_name)) {
+            index_files[index_name] = new StreamWriter(index_name, false, System.Text.Encoding.UTF8);
+        }
     }
     var index = index_files[index_name];
+
+    using var content = new StreamWriter($"..\\docs\\{cat}_{name}.html", false, System.Text.Encoding.UTF8);
 
     var first = true;
     var urls = xml.GetElementsByTagName("url");
@@ -25,19 +28,21 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", args.FirstOrDefau
         var video = elem.GetElementsByTagName("video:video").Item(0) as XmlElement;
         var loc = elem.GetElementsByTagName("loc").Item(0)?.InnerText;
         if (first) {
-            if (index.BaseStream.Position == 0) {
-                index.WriteLine(
-                    "<head><link rel='stylesheet' href='styles.css'></head>"
-                );
-            }
-            index.WriteLine(
-                "<nobr>" +
-                $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                $"<a href='{cat}_{name}.html' target='content'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})" +
-                "</nobr><br/>"
-            );
-            index.Flush();
             first = false;
+            if (index is object) {
+                if (index.BaseStream.Position == 0) {
+                    index.WriteLine(
+                        "<head><link rel='stylesheet' href='styles.css'></head>"
+                    );
+                }
+                index.WriteLine(
+                    "<nobr>" +
+                    $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                    $"<a href='{cat}_{name}.html' target='content'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})" +
+                    "</nobr><br/>"
+                );
+                index.Flush();
+            }
 
             content.WriteLine(
                 "<head><link rel='stylesheet' href='styles.css'></head>"
