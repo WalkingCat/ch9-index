@@ -82,7 +82,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
             content.WriteLine(
                 "<nobr>" +
                 $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                ((v_loc is object) ? $"<a href='{v_loc}' target='_blank'>{System.Web.HttpUtility.HtmlDecode(v_title)}</a> " : $"{System.Web.HttpUtility.HtmlDecode(v_title)} ") +
+                (string.IsNullOrEmpty(v_loc) ? $"{System.Web.HttpUtility.HtmlDecode(v_title)} " : $"<a href='{v_loc}' target='_blank'>{System.Web.HttpUtility.HtmlDecode(v_title)}</a> ") +
                 ((v_time >= 0) ? $"[{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}] " : "") +
                 ((v_date is object) ? DateTime.Parse(v_date).ToString("[yyyy/MM/dd]") : "") +
                 "</nobr><br/>" +
