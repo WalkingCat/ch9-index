@@ -6,7 +6,6 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
     var name_start = filename.IndexOf("_", 8);
     var cat = filename.Substring(8, name_start - 8);
     var name = filename.Substring(name_start + 1);
-    var title = name.Replace('+', ' ');
     Console.WriteLine($"{cat} {name}");
 
     var xml = new XmlDocument();
@@ -27,6 +26,11 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
     foreach (XmlElement elem in urls) {
         var video = elem.GetElementsByTagName("video:video").Item(0) as XmlElement;
         var loc = elem.GetElementsByTagName("loc").Item(0)?.InnerText;
+        var title = elem.GetElementsByTagName("title").Item(0)?.InnerText;
+        if (string.IsNullOrEmpty(title)) { title = name.Replace('+', ' '); }
+        var thumb = elem.GetElementsByTagName("thumbnail_loc").Item(0)?.InnerText;
+        var desc = elem.GetElementsByTagName("description").Item(0)?.InnerText;
+
         if (first) {
             first = false;
             if (index is object) {
@@ -52,12 +56,20 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                     $"<nobr><h2>{cat} - {title}</h2></nobr><br/>"
                 );
             } else {
-                content.WriteLine(
+                content.Write(
                     "<nobr><h2>" +
                     $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                     $"{cat} - {title}" +
-                    "</h2></nobr><br/>"
+                    "</h2></nobr>"
                 );
+                if (!(string.IsNullOrEmpty(thumb) && string.IsNullOrEmpty(desc))) {
+                    content.Write(
+                        ((thumb is object) ? $"<img class='thumb' src='{thumb}'/>" : "") +
+                        $"<div class='desc'>{(System.Web.HttpUtility.HtmlDecode(desc))}</div>" +
+                        "<br clear='right'/>"
+                    );
+                }
+                content.WriteLine("<br/>");
                 continue;
             }
         }

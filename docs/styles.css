@@ -1,15 +1,17 @@
 * {
 	font-family: "Segoe UI";
 }
-img.vthumb {
+img.vthumb, img.thumb {
 	width: 256px;
 	height: 144px;
 	display: inline-block;
 	outline: 1px solid black;
-	margin-right: 8px;
-	margin-top: 8px;
-	float: left;
+	
 }
-div.vdesc {
+
+img.vthumb { margin-right: 8px; float: left; }
+img.thumb {	margin-left: 8px; float: right; }
+
+img.vthumb, div.vdesc {
 	margin-top: 8px;
 }
