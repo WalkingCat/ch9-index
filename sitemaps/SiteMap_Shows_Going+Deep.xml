@@ -5,6 +5,9 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title><![CDATA[Going Deep]]></title>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/e05c9f6a-7bda-4ccc-a16d-0804bd07cda9.jpg</thumbnail_loc>
+      <description><![CDATA[Charles Torre travels around Microsoft to meet the company’s leading Architects and Engineers to discuss the inner workings of our core technologies. Going Deep is primarily concerned with how things &amp;#8230;]]></description>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/Going+Deep/How-WSL-accesses-Linux-files-from-Windows</loc>
@@ -3088,13 +3091,27 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
       <lastmod>2010-09-20</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/48a8e770-49d7-4d7a-a87b-870962e7ae3c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Oughtness, Isness and the world of systems management]]></video:title>
+        <video:description><![CDATA[&amp;quot;Oughtness&amp;quot;? &amp;quot;Isness&amp;quot;? What?We recently caught up with Anders Vinberg, Architect and one of the leaders of Microsoft's Management infrastructure team (technologies like MOM, WU, et&amp;#8230;]]></video:description>
+        <video:content_loc></video:content_loc>
+        <video:publication_date>2006-04-06 19:02:59Z</video:publication_date>
+      </video:video>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/Going+Deep/WPF-Imaging</loc>
       <lastmod>2010-11-03</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
-   </url>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/48a8e770-49d7-4d7a-a87b-870962e7ae3c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[WPF Imaging]]></video:title>
+        <video:description><![CDATA[Recently, Tim Sneath, a Channel 9 correspondent and Technical Evangelist took us over to the WPF imaging team to learn about some of the great work that's been done in that area. Substantial (and in&amp;#8230;]]></video:description>
+        <video:content_loc></video:content_loc>
+        <video:publication_date>2006-03-06 21:04:55Z</video:publication_date>
+      </video:video>
+    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/Going+Deep/Virtualization</loc>
       <lastmod>2013-12-15</lastmod>
@@ -3185,6 +3202,13 @@ Advanced Strategies group at Microsoft. Here,&amp;#8230;]]></video:description>
       <lastmod>2013-01-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/df692b53-618d-49bb-ba5b-babdef73372c.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Singularity Revisited]]></video:title>
+        <video:description><![CDATA[Charles Torre again sits down with some of the people behind MSR's Singularity research OS. This time, we drill down into the architecture of Singularity and discuss design decisions, usage of safe &amp;#8230;]]></video:description>
+        <video:content_loc></video:content_loc>
+        <video:publication_date>2005-12-02 00:10:21Z</video:publication_date>
+      </video:video>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/Going+Deep/Windows-NT-Object-Manager</loc>
