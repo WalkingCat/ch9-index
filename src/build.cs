@@ -43,7 +43,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                     $"<nobr id='{name}'>" +
                     $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                     $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
-					$"<a class='permalink' href='https://walkingcat.github.io/ch9-index/?p={cat}_{name}' target='_top'>#</a>" +
+					$"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
                     "</nobr><br/>"
                 );
                 index.Flush();
@@ -65,9 +65,9 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                 );
                 if (!(string.IsNullOrEmpty(thumb) && string.IsNullOrEmpty(desc))) {
                     content.Write(
-                        ((thumb is object) ? $"<img class='thumb' src='{thumb}'/>" : "") +
+                        (string.IsNullOrEmpty(thumb) ? "" : $"<img class='thumb' src='{thumb}'/>") +
                         $"<div class='desc'>{(System.Web.HttpUtility.HtmlDecode(desc))}</div>" +
-                        "<br clear='right'/>"
+                        (string.IsNullOrEmpty(thumb) ? "" : "<br clear='right'/>")
                     );
                 }
                 content.WriteLine("<br/>");
