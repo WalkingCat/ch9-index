@@ -42,7 +42,8 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                 index.WriteLine(
                     $"<nobr id='{name}'>" +
                     $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                    $"<a href='{cat}_{name}.html' target='content'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})" +
+                    $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
+					$"<a class='permalink' href='https://walkingcat.github.io/ch9-index/?p={cat}_{name}' target='_top'>#</a>" +
                     "</nobr><br/>"
                 );
                 index.Flush();

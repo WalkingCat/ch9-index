@@ -1,6 +1,23 @@
 * {
 	font-family: "Segoe UI";
 }
+
+.title, .permalink {
+	vertical-align: top;
+}
+
+.permalink {
+	position: sticky;
+	left: 100%;
+	right: 0px;
+	text-decoration: none;
+	-background: #F0F0F0A0;
+	width: 8px;
+	margin-left: 4px;
+	margin-right: 0px;
+	text-align: center;
+}
+
 img.vthumb, img.thumb {
 	width: 256px;
 	height: 144px;
