@@ -40,7 +40,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                     );
                 }
                 index.WriteLine(
-                    "<nobr>" +
+                    $"<nobr id='{name}'>" +
                     $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                     $"<a href='{cat}_{name}.html' target='content'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})" +
                     "</nobr><br/>"
