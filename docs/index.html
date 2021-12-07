@@ -1,11 +1,26 @@
 <!DOCTYPE html>
-<html charset='utf-8'>
+<html>
 <head>
+<meta charset="UTF-8">
 <title>Channel 9</title>
 <link rel="icon" href="favicon.ico"/>
-<link rel="stylesheet" href="styles.css"> 
+<link rel="stylesheet" href="styles.css">
 </head>
 <body style='margin:0px;height:calc(100vh - 0px);overflow:hidden;'>
+	<script type='module'>
+			const page = new URLSearchParams(window.location.search).get('p');
+			if (page) {
+				const sep = page.indexOf('_');
+				if (sep > 1) {
+					const index = page.substring(0, sep);
+					const content = page.substring(sep + 1).replace(' ', '+');
+					if (['Shows', 'Series', 'Blogs', 'Posts', 'Events', 'EventRegion', 'Extras'].indexOf(index) > 0) {
+						window.open(index + '.html#' + content, 'index');
+						window.open(index + '_' + content + '.html', 'content');
+					}
+				}
+			}
+	</script>
 	<nobr>
 	<div style='display:inline-block;width:45%;height:100%;'>
 		<div style='display:flex;justify-content:space-evenly;padding:8px;height:24px;border-bottom:4px solid #e4a000;'>
