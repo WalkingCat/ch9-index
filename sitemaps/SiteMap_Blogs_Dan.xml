@@ -1649,7 +1649,14 @@ catch it here. Bill sat down with us right after the Keynote to talk about the K
       <lastmod>2010-09-09</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
-   </url>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/aa72688b-c3eb-443c-bd56-7b3d7cb12635.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Embedding Multimedia-Rich Content onto Office Documents]]></video:title>
+        <video:description><![CDATA[&amp;#65279;This screencast shows how you can combine a set of Microsoft applications/tools and technologies to author, develop and host media content that can be embedded into any Microsoft Office docume&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/llnwd/ch9/0/RichContentInOffice.wmv</video:content_loc>
+        <video:publication_date>2008-05-05 19:22:13Z</video:publication_date>
+      </video:video>
+    </url>
   <url>
       <loc>https://channel9.msdn.com/Blogs/Dan/Adam-Nathan-and-Suzanne-Hansen-First-Look-at-Popfly-Game-Creator-Alpha</loc>
       <lastmod>2013-07-30</lastmod>
