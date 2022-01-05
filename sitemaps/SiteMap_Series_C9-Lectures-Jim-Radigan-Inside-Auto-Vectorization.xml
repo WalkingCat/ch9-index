@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/C9-Lectures-Jim-Radigan-Inside-Auto-Vectorization</loc>
+      <title><![CDATA[C9 Lectures: Jim Radigan - Inside Auto-Vectorization]]></title>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/b22fd3ce-d4dd-4d9b-82e0-9113dc07f49b.png</thumbnail_loc>
+      <description><![CDATA[Auto-vectorization is a powerful compiler feature that ships in Visual Studio 2012. It's the result of outstanding engineering by a few folks on the Microsoft Visual C++ compiler team. It's an&amp;#8230;]]></description>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/C9-Lectures-Jim-Radigan-Inside-Auto-Vectorization</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/410a/614b87c7-8711-4596-8452-6588b500410a/JimradiganMSVAutoVectorizerParallelizerP1_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Jim Radigan: Inside Auto-Vectorization, 1 of n]]></video:title>
+        <video:description><![CDATA[The VC&amp;#43;&amp;#43; 2012 auto-vectorizer tries to make loops in your code run faster by automatically vectorizing your code using the SSE instructions available in all current mainline Intel and AMD chip&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/410a/614b87c7-8711-4596-8452-6588b500410a/JimradiganMSVAutoVectorizerParallelizerP1_Source.wmv</video:content_loc>
+        <video:publication_date>2012-06-19 17:17:10Z</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 
