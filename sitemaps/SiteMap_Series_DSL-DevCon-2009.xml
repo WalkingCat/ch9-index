@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009</loc>
+      <title><![CDATA[DSL DevCon 2009]]></title>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/ff3fb17d-03c7-4133-b5ab-c7727af796ea.jpg</thumbnail_loc>
+      <description><![CDATA[The goal of the DSL Developer's Conference is to cut away all the unessential conference baggage and concentrate on why we're spending time at a conference in the first place -- the talks by industry &amp;#8230;]]></description>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Martin-Fowler-Introducing-Domain-Specific-Languages</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/8f7f/8e8f5c5f-0f13-4e64-b4a8-201616fb8f7f/DSLCon2009IntroMartinFowler_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Martin Fowler: Introducing Domain-Specific Languages]]></video:title>
+        <video:description><![CDATA[As Martin Fowler begins to see the light at the end of the tunnel on drafting his DSL book, he's been prone to give more talks introducing DSLs. While he wouldn't consider it appropriate to give such &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/8f7f/8e8f5c5f-0f13-4e64-b4a8-201616fb8f7f/DSLCon2009IntroMartinFowler_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:31:57Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/JavaScript-DSLs-for-the-Client-Side</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/4811/322371f7-4d2d-4fd0-b7a9-bf95fdf34811/DSLCon2009JavaScriptDSLs_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[JavaScript DSLs for the Client Side]]></video:title>
+        <video:description><![CDATA[This presentation will feature introductory material on JavaScript Metaprogramming, how these concepts map to the popular toolkits and frameworks (jQuery, Dojo, etc) and future directions for this wor&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/4811/322371f7-4d2d-4fd0-b7a9-bf95fdf34811/DSLCon2009JavaScriptDSLs_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:32:03Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Pixel-Bender-A-DSL-for-Image-Processing</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/261b/c00dec3d-2179-469e-829f-2b8ab7ca261b/DSLCon2009PixelBender_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Pixel Bender: A DSL for Image Processing]]></video:title>
+        <video:description><![CDATA[Pixel Bender is a domain specific language for image processing algorithms (cool effects). The most important part of a Pixel Bender program is a function which given a location returns the color and &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/261b/c00dec3d-2179-469e-829f-2b8ab7ca261b/DSLCon2009PixelBender_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:32:09Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Gilad-Bracha-Embedding-DSLs-in-Newspeak-EBNF-Hopscotch-and-NewShell</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/7b29/c95cb684-3ed7-4ef6-97ba-a3f7b2827b29/DSLCon2009GiladBrachaNewspeakEDSL_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Gilad Bracha: Embedding DSLs in Newspeak - EBNF, Hopscotch, and NewShell]]></video:title>
+        <video:description><![CDATA[Newspeak is a new programming language particularly suited to supporting DSLs, both internal and external. Newspeak's syntax is a natural fit for internal DSLs, which can leverage the language's power&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/7b29/c95cb684-3ed7-4ef6-97ba-a3f7b2827b29/DSLCon2009GiladBrachaNewspeakEDSL_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:32:15Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Practical-Groovy-Domain-Specific-Languages</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3eea/f5221789-499b-4f6b-a32c-1b09dd983eea/DSLCon2009GroovyDSL_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Practical Groovy Domain Specific Languages]]></video:title>
+        <video:description><![CDATA[Groovy's a JVM-based dynamic language, with a Java-like syntax that was made pretty flexible for DSLs. &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3eea/f5221789-499b-4f6b-a32c-1b09dd983eea/DSLCon2009GroovyDSL_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:32:34Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Intentional-Software</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1bf5/dc05e26d-9136-4698-a71e-a26ba3441bf5/DSLCon2009IntentionalSoftware_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Intentional Software]]></video:title>
+        <video:description><![CDATA[Intentional Software is pioneering a radical new software approach that separates business domain knowledge from software engineering knowledge. This approach accelerates software creation and mainten&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1bf5/dc05e26d-9136-4698-a71e-a26ba3441bf5/DSLCon2009IntentionalSoftware_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:33:09Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Textual-DSLs-and-Code-Generation-with-Eclipse-Tools</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/70e0/317b4e50-7ca8-45ad-9a7e-7ff7ef3970e0/DSLCon2009TextualDSLs_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Textual DSLs and Code Generation with Eclipse Tools]]></video:title>
+        <video:description><![CDATA[As part of the Eclipse Modeling Project, a number of tools for defining DSLs and generating code have been developed over the last couple of years. In this talk, Markus will show a subset of these too&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/70e0/317b4e50-7ca8-45ad-9a7e-7ff7ef3970e0/DSLCon2009TextualDSLs_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:33:22Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/M-DSLs-Deep-Dive</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/578e/f02f1628-43ba-485d-9390-948e6aee578e/DSLCon2009MDSLs_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[M DSLs: Deep Dive]]></video:title>
+        <video:description><![CDATA[A deep dive into the &amp;quot;M&amp;quot; parser generator and may even have some new features to talk about as well. ]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/578e/f02f1628-43ba-485d-9390-948e6aee578e/DSLCon2009MDSLs_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:33:29Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Language-Oriented-Programming-in-F</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/16aa/a5861908-0475-493d-b775-b96e423016aa/DSLCon2009LanguageOrientedProgramming_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Language Oriented Programming in F#]]></video:title>
+        <video:description><![CDATA[Roger Costillo will present one approach to Language Oriented Programming in F#, a technique in which software designers borrow techniques from language design to organize software architectures. In t&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/16aa/a5861908-0475-493d-b775-b96e423016aa/DSLCon2009LanguageOrientedProgramming_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:33:43Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Behavioral-Testing-DSLs-for-Automated-Trading-Systems</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9469/22763fd1-d0b7-43c6-8668-ad8815af9469/DSLCon2009BehavioralTestingDSLs_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Behavioral Testing DSLs for Automated Trading Systems]]></video:title>
+        <video:description><![CDATA[Equity and Equity Options exchanges (NYSE, NASDAQ, CBOE, etc.) support a version of the FIX messaging standard for sending market quotes and orders. While the mechanics of creating, sending, and respo&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9469/22763fd1-d0b7-43c6-8668-ad8815af9469/DSLCon2009BehavioralTestingDSLs_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:33:46Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/DSL-DevCon-2009/Functional-vs-Dynamic-DSLs-The-Smackdown</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/03db/4fc647bb-9340-4c2b-be7d-36a411d603db/DSLCon2009DynamicVsFunctional_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Functional vs. Dynamic DSLs: The Smackdown]]></video:title>
+        <video:description><![CDATA[With the growing adoption of DSLs and DSL terminology into the mainstream has come a controversy over &amp;quot;external&amp;quot; (parser/AST/code-gen based) vs &amp;quot;internal&amp;quot; (hosted inside another pr&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/03db/4fc647bb-9340-4c2b-be7d-36a411d603db/DSLCon2009DynamicVsFunctional_Source.wmv</video:content_loc>
+        <video:publication_date>2013-05-06 19:33:55Z</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 
