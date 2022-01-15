@@ -5,13 +5,22 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title><![CDATA[Inside Channel 9]]></title>
+      <description><![CDATA[Updates, code walkthroughs and general technical discussions from the dev team behind Channel 9.]]></description>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/InsideChannel9/403645-The-Channel-9-beta-has-been-updated</loc>
       <lastmod>2016-04-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
-   </url>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[The Channel 9 beta has been updated...]]></video:title>
+        <video:description><![CDATA[I know you've heard it before, but we are heading down the final path to ship.... really we are  
+As part of that path, we've been working hard for the past few months focused on making sure that o&amp;#8230;]]></video:description>
+        <video:content_loc></video:content_loc>
+        <video:publication_date>2008-05-15 20:30:12Z</video:publication_date>
+      </video:video>   </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/InsideChannel9/Dev-Diary-for-April-23</loc>
       <lastmod>2013-07-30</lastmod>
@@ -24,7 +33,7 @@
 
 
 Sampy talking about SQL optimization using indexed views Erik covering a relatively simple, but useful, web control&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/1e15/070bcf22-262c-4081-b8e5-8556d3ba1e15/Dev-Diary-for-April-23_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/1e15/070bcf22-262c-4081-b8e5-8556d3ba1e15/Dev-Diary-for-April-23_high.mp4</video:content_loc>
         <video:duration>1690</video:duration>
         <video:publication_date>2008-04-23T22:43:01.0000000+00:00</video:publication_date>
       </video:video>
@@ -39,7 +48,7 @@ Sampy talking about SQL optimization using indexed views Erik covering a relativ
         <video:title><![CDATA[Dev Diary for April 15th]]></video:title>
         <video:description><![CDATA[
 Just a quick, and poorly filmed, update from the dev team on what we worked on during the last sprint and what we are building right now. Yes the filming is shoddy, and yes the screens are hard to&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/3027/43551280-2324-456a-9372-ab8c1b473027/Dev-Diary-for-April-15th_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/3027/43551280-2324-456a-9372-ab8c1b473027/Dev-Diary-for-April-15th_high.mp4</video:content_loc>
         <video:duration>1075</video:duration>
         <video:publication_date>2008-04-15T23:36:12.0000000+00:00</video:publication_date>
       </video:video>
@@ -53,7 +62,7 @@ Just a quick, and poorly filmed, update from the dev team on what we worked on d
         <video:thumbnail_loc>http://video.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[The Channel 9 beta has been updated]]></video:title>
         <video:description><![CDATA[Hey folks, it has been awhile since we first published the Channel 9 beta site and we thought you might be wondering where we are with the whole &#39;new Channel 9&#39; project. Well, we have been moving&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_high.mp4</video:content_loc>
         <video:duration>30</video:duration>
         <video:publication_date>2007-09-29T09:42:48.0000000+00:00</video:publication_date>
       </video:video>
@@ -68,7 +77,7 @@ Just a quick, and poorly filmed, update from the dev team on what we worked on d
         <video:title><![CDATA[Building a Silverlight player for Channel 9]]></video:title>
         <video:description><![CDATA[
 Mike Sampson, your friendly-neighborhood media-encoding and SCRUM specialist, lives in the office right next to mine.  I managed to walk the 12 steps over there and talk to him about what he&#39;s&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/38cf/b7a7d399-ad67-4323-be34-b806101e38cf/Building-a-Silverlight-player-for-Channel-9_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/38cf/b7a7d399-ad67-4323-be34-b806101e38cf/Building-a-Silverlight-player-for-Channel-9_high.mp4</video:content_loc>
         <video:duration>889</video:duration>
         <video:publication_date>2007-09-26T20:08:50.0000000+00:00</video:publication_date>
       </video:video>
@@ -78,11 +87,28 @@ Mike Sampson, your friendly-neighborhood media-encoding and SCRUM specialist, li
       <lastmod>2010-09-08</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/5e5c73e2-04ca-4050-8df1-d23b97d08150.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Channel9 Version 4: 3 Minutes with the dev team]]></video:title>
+        <video:description><![CDATA[We're working hard but we'll take three quick minutes to let you know what we're up to.
+
+Enjoy.]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/llnwd/ch9/9/9/5/5/9/2/Ch9v4%20Update.wmv</video:content_loc>
+        <video:publication_date>2007-03-27 21:46:48Z</video:publication_date>
+      </video:video>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/InsideChannel9/Shipping-the-10-update</loc>
       <lastmod>2010-09-08</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/09c4a89a-2da9-4935-a839-d26dc4e505ed.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Shipping the 10 update]]></video:title>
+        <video:description><![CDATA[Last week we shipped out an update to 10 that not only refreshed the design but set up the EvNet platform to support Channel9.
+You've seen us before and you'll see us again as we move forward with th&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/llnwd/ch9/7/6/6/8/3/2/ShippingTheUpdate_ch9.wmv</video:content_loc>
+        <video:publication_date>2006-09-27 21:26:29Z</video:publication_date>
+      </video:video>
    </url>
 </urlset> 
