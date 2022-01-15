@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment</loc>
+      <title><![CDATA[.NET Debugging for the Production Environment]]></title>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/5f848354-c03b-4c0b-92ce-9cf8cca5bdca.png</thumbnail_loc>
+      <description><![CDATA[This series was created based off of a thread on the Channel 9 Site Feedback forum. Read the original post here. We heard what you wanted, so we created the first .NET Debugging Starter Kit series. Wi&amp;#8230;]]></description>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Diagnosing-Application-Issues-01</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5411/99b0bb0b-e67c-4bad-9c58-f34d89c85411/NetDebuggingDiagnosingApplicationIssues01_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Diagnosing Application Issues - 01]]></video:title>
+        <video:description><![CDATA[Download PPTX slide here: Part 1  You can't troubleshoot a problem effectively until you first know what the problem is. When applications encounter stability or performance issues in the production e&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5411/99b0bb0b-e67c-4bad-9c58-f34d89c85411/NetDebuggingDiagnosingApplicationIssues01_Source.wmv</video:content_loc>
+        <video:publication_date>2012-05-01 22:54:20Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Using-Perfmon-to-Diagnose-Application-Issues-02</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/d589/6cfe560f-a042-4998-a8d4-3a4ebd3dd589/NetDebuggingusingPerfmontoDiagnoseApplicationIssu_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Using Perfmon to Diagnose Application Issues - 02]]></video:title>
+        <video:description><![CDATA[Download PPTX slide here: Part 2 Performance Monitor is oftentimes an overlooked tool when troubleshooting application issues.  But in the production environment, it can be invaluable to helping you d&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/d589/6cfe560f-a042-4998-a8d4-3a4ebd3dd589/NetDebuggingusingPerfmontoDiagnoseApplicationIssu_Source.wmv</video:content_loc>
+        <video:publication_date>2012-05-01 22:55:19Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Windbg--SOS-03</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fd99/1aaa6e86-74d5-46ec-9117-b863ba11fd99/NetDebuggingWindbgSOS03_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Windbg &amp; SOS - 03]]></video:title>
+        <video:description><![CDATA[Download PPTX slide here: Part 3 Ever try to load SOS/psscor into your debugging session and get a &amp;quot;Failed to load data access dll&amp;quot; error?  It's not uncommon, especially when you first start&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fd99/1aaa6e86-74d5-46ec-9117-b863ba11fd99/NetDebuggingWindbgSOS03_Source.wmv</video:content_loc>
+        <video:publication_date>2012-05-01 22:55:37Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Common-Debugging-Commands-04</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/b833/c8e7f088-d8f2-41e4-9ab3-fd90403cb833/NetDebuggingCommonDebuggingCommands_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Common Debugging Commands - 04 ]]></video:title>
+        <video:description><![CDATA[Download PPTX slide here: Part 4 &amp;quot;I got my first dump.  Now where do I begin?&amp;quot; I get this question a lot from customers and fellow Premier Field Engineers who are learning how to debug post-&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/b833/c8e7f088-d8f2-41e4-9ab3-fd90403cb833/NetDebuggingCommonDebuggingCommands_Source.wmv</video:content_loc>
+        <video:publication_date>2012-05-01 22:55:51Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/High-CPU-Hangs-05</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/3565/1429bba2-1b56-41f4-ae9e-585aa2ff3565/NetDebuggingHighCPUHang_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[High CPU Hangs - 05 ]]></video:title>
+        <video:description><![CDATA[Download PPTX slide here: Part 5   If you've spent any time developing applications, it's likely you've encountered a high cpu hang at some point.  Troubleshooting this problem in the dev environment &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/3565/1429bba2-1b56-41f4-ae9e-585aa2ff3565/NetDebuggingHighCPUHang_Source.wmv</video:content_loc>
+        <video:publication_date>2012-05-01 22:56:15Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Managed-Exceptions-06</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/326a/2c93e2c5-d4b0-49c4-9b26-172cdef2326a/NetDebuggingManagedExceptions_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Managed Exceptions - 06]]></video:title>
+        <video:description><![CDATA[Download PPTX slide here: Part 6 Some exceptions don't cause your application to crash.  Some do.  Either way, developers should work to rid their applications of exceptions for both stability and per&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/326a/2c93e2c5-d4b0-49c4-9b26-172cdef2326a/NetDebuggingManagedExceptions_Source.wmv</video:content_loc>
+        <video:publication_date>2012-05-01 22:57:22Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/VM-Primer-10</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/90b0/ddcde96a-381f-46e9-8056-6f7380ae90b0/NetDebuggingVMPrimer10_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Preparing to troubleshoot memory pressure issues: a primer on virtual memory - 10]]></video:title>
+        <video:description><![CDATA[In Part1 of this series, we discussed how most every application issue in production can be listed in one of three buckets: exceptions, non-responsiveness, and performance issues.  This last bucket in&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/90b0/ddcde96a-381f-46e9-8056-6f7380ae90b0/NetDebuggingVMPrimer10_Source.wmv</video:content_loc>
+        <video:publication_date>2012-08-27 21:27:26Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Analyzing-a-dump-of-a-process-under-memory-pressure-11</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/90c6/0e467261-9396-4562-a224-a376bd0f90c6/NetDebugging11_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Analyzing a dump of a process under memory pressure - 11]]></video:title>
+        <video:description><![CDATA[You may wish to watch the video using one of the high quality links on the right so the text is readable. This episode is the second of three which introduces viewers to the topic of troubleshooting m&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/90c6/0e467261-9396-4562-a224-a376bd0f90c6/NetDebugging11_Source.wmv</video:content_loc>
+        <video:publication_date>2012-09-05 23:51:01Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Putting-it-all-together-finding-root-cause-of-high-memory-pressure-12</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a39f/2097061e-3ff4-460e-8201-ed0839d0a39f/NetDebugging12_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Putting it all together: finding root cause of high memory pressure - 12]]></video:title>
+        <video:description><![CDATA[You may wish to watch the video using one of the high quality links on the right so the text is readable. This episode is the last of a trio which introduces viewers to the topic of troubleshooting me&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a39f/2097061e-3ff4-460e-8201-ed0839d0a39f/NetDebugging12_Source.wmv</video:content_loc>
+        <video:publication_date>2012-09-15 19:50:51Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/Case-Study-Debugging-the-Load-Test</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/114d/9dc58d86-f583-4b5d-b3ee-2aa612fc114d/dotNetDebugging7_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Case Study: Debugging the Load Test - 07]]></video:title>
+        <video:description><![CDATA[You may wish to watch the video using one of the high quality links on the right so the tool output in the case study is readable.   Ever have a situation in which your load test isn't passing the SLA&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/114d/9dc58d86-f583-4b5d-b3ee-2aa612fc114d/dotNetDebugging7_Source.wmv</video:content_loc>
+        <video:publication_date>2012-10-08 15:10:33Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/How-to-Identify-CLR-threads-in-a-dump-08</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/fc7c/9148de11-cc27-401c-a1a8-10b53c2ffc7c/dotNETDebugging8_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[How to identify CLR threads in a dump - 08]]></video:title>
+        <video:description><![CDATA[You may wish to watch the video using one of the high quality links on the right so the debug output is easily readable. In this episode, we'll discuss the different types of CLR threads (.e.g., GC th&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/fc7c/9148de11-cc27-401c-a1a8-10b53c2ffc7c/dotNETDebugging8_Source.wmv</video:content_loc>
+        <video:publication_date>2012-10-16 13:45:12Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment/The-basics-of-dumping-out-a-manged-object-09</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/9e9f/65a03585-a1ae-4365-8bf4-e1d0f2899e9f/dotNetDebugging09_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[The basics of dumping out a manged object - 09]]></video:title>
+        <video:description><![CDATA[One of the first things you need to know in order to debug managed applications with a native debugger such as cdb, windbg, etc., is how to dump a managed object. This is a task you'll repeat often if&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/9e9f/65a03585-a1ae-4365-8bf4-e1d0f2899e9f/dotNetDebugging09_Source.wmv</video:content_loc>
+        <video:publication_date>2012-12-05 04:15:42Z</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 
