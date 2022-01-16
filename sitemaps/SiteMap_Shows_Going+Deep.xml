@@ -18,7 +18,7 @@
         <video:thumbnail_loc>https://sec.ch9.ms/ch9/bf65/483cb9db-1e4d-42c6-95a2-f472a41ebf65/WSLAccessLinuxFilesFromWindows_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[How WSL accesses Linux files from Windows]]></video:title>
         <video:description><![CDATA[Sven Groot explains how the Windows Subsystem for Linux (WSL) can access and modify Linux files from Windows applications, going into deep dive level details on the underlying architecture and how it&amp;#8230;]]></video:description>
-        <video:content_loc>https://sec.ch9.ms/ch9/bf65/483cb9db-1e4d-42c6-95a2-f472a41ebf65/WSLAccessLinuxFilesFromWindows_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/bf65/483cb9db-1e4d-42c6-95a2-f472a41ebf65/WSLAccessLinuxFilesFromWindows_high.mp4</video:content_loc>
         <video:duration>1499</video:duration>
         <video:publication_date>2019-05-30T20:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -32,7 +32,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/cbda/5ccc35ce-7338-4000-b025-8dba5e53cbda/GDBartDeSmetRxCortana_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Bart De Smet: Rx and Cortana]]></video:title>
         <video:description><![CDATA[It&#39;s always great to spend some time geeking out with Bart De Smet. As usual, he has a lot of technical details to share and only so much whiteboard real estate. Bart is still deeply engaged with Rx&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/cbda/5ccc35ce-7338-4000-b025-8dba5e53cbda/GDBartDeSmetRxCortana_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/cbda/5ccc35ce-7338-4000-b025-8dba5e53cbda/GDBartDeSmetRxCortana_high.mp4</video:content_loc>
         <video:duration>3394</video:duration>
         <video:publication_date>2014-09-10T03:41:55.0741078+00:00</video:publication_date>
       </video:video>
@@ -46,7 +46,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/d34e/4959f159-1f4c-438a-bf54-8e21ad8ad34e/GDInsideNETNative_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside .NET Native]]></video:title>
         <video:description><![CDATA[What happens when .NET code is statically compiled to machine code (versus runtime compiled via JIT) by the VC&amp;#43;&amp;#43; back end compiler? You get highly optimized binaries that load and run faster&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d34e/4959f159-1f4c-438a-bf54-8e21ad8ad34e/GDInsideNETNative_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d34e/4959f159-1f4c-438a-bf54-8e21ad8ad34e/GDInsideNETNative_high.mp4</video:content_loc>
         <video:duration>2374</video:duration>
         <video:publication_date>2014-04-02T18:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -60,7 +60,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/2ad0/b720c58e-33bf-47c6-a163-ef92c9242ad0/InsideCodeDiggerRiSE_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Nikolai Tillmann and Peli de Halleux: Inside Code Digger]]></video:title>
         <video:description><![CDATA[Code Digger is a lightweight version of Pex that allows you to explore public .NET methods in Portable Libraries directly from the Visual Studio 2012 code editor. It&#39;s a highly simplified and nifty&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/2ad0/b720c58e-33bf-47c6-a163-ef92c9242ad0/InsideCodeDiggerRiSE_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/2ad0/b720c58e-33bf-47c6-a163-ef92c9242ad0/InsideCodeDiggerRiSE_high.mp4</video:content_loc>
         <video:duration>1964</video:duration>
         <video:publication_date>2013-05-07T12:45:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -74,7 +74,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/e185/bd413c4a-0bb8-45fa-b545-c7baaa4de185/InsideImmutableCollectionsRedux_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[ Immo Landwerth and Andrew Arnott: Inside Immutable Collections]]></video:title>
         <video:description><![CDATA[Immutable Collections are a new set of immutable types for .NET. We covered the high level aspects of this new technology a few months back when Erik Meijer interrogated (in his friendly way) the PM&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e185/bd413c4a-0bb8-45fa-b545-c7baaa4de185/InsideImmutableCollectionsRedux_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e185/bd413c4a-0bb8-45fa-b545-c7baaa4de185/InsideImmutableCollectionsRedux_high.mp4</video:content_loc>
         <video:duration>3258</video:duration>
         <video:publication_date>2013-03-19T18:08:54.4047967+00:00</video:publication_date>
       </video:video>
@@ -88,7 +88,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/3118/94587557-efda-4bb4-b9f0-6fc113853118/InsideActorFx_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Programming the Cloud with Actors: Inside ActorFx]]></video:title>
         <video:description><![CDATA[ActorFx is an MSOpenTech open source project with the goal of providing a non-prescriptive, language-independent model of dynamic distributed objects. This will in turn provide a framework and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/3118/94587557-efda-4bb4-b9f0-6fc113853118/InsideActorFx_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/3118/94587557-efda-4bb4-b9f0-6fc113853118/InsideActorFx_high.mp4</video:content_loc>
         <video:duration>2691</video:duration>
         <video:publication_date>2013-02-20T17:20:39.5959004+00:00</video:publication_date>
       </video:video>
@@ -102,7 +102,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/0b96/086be40b-912f-4cd7-a038-d09612ee0b96/CB2012SessionHerbSutterAtomicP2_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2012: Herb Sutter - atomic&amp;lt;&amp;gt; Weapons, 2 of 2]]></video:title>
         <video:description><![CDATA[Herb Sutter presents atomic&amp;lt;&amp;gt; Weapons, 2 of 2. This was filmed at C&amp;#43;&amp;#43; and Beyond 2012. As the title suggests, this is a two part series (given the depth of treatment and complexity of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0b96/086be40b-912f-4cd7-a038-d09612ee0b96/CB2012SessionHerbSutterAtomicP2_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0b96/086be40b-912f-4cd7-a038-d09612ee0b96/CB2012SessionHerbSutterAtomicP2_high.mp4</video:content_loc>
         <video:duration>5553</video:duration>
         <video:publication_date>2013-02-11T16:30:35.0097532+00:00</video:publication_date>
       </video:video>
@@ -116,7 +116,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/aa79/4a4e75bd-46c5-4674-bc6f-34d740f9aa79/CB2012SessionHerbSutterAtomicP1_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2012: Herb Sutter - atomic&amp;lt;&amp;gt; Weapons, 1 of 2]]></video:title>
         <video:description><![CDATA[Herb Sutter presents atomic&amp;lt;&amp;gt; Weapons, 1 of 2. This was filmed at C&amp;#43;&amp;#43; and Beyond 2012. As the title suggests, this is a two part series (given the depth of treatment and complexity of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/aa79/4a4e75bd-46c5-4674-bc6f-34d740f9aa79/CB2012SessionHerbSutterAtomicP1_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/aa79/4a4e75bd-46c5-4674-bc6f-34d740f9aa79/CB2012SessionHerbSutterAtomicP1_high.mp4</video:content_loc>
         <video:duration>4872</video:duration>
         <video:publication_date>2013-02-11T16:30:10.4472400+00:00</video:publication_date>
       </video:video>
@@ -130,7 +130,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/742d/633e18c3-c38c-4faf-916e-3b0f333f742d/InsideWindows8Boot_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside Windows 8: Chris Stevens - Boot Environment]]></video:title>
         <video:description><![CDATA[Chris Stevens is a software developer on the Windows kernel team working on the Windows boot environment. Windows 8 boots faster than any other version of Windows. Why? How? Chris begins with the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/742d/633e18c3-c38c-4faf-916e-3b0f333f742d/InsideWindows8Boot_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/742d/633e18c3-c38c-4faf-916e-3b0f333f742d/InsideWindows8Boot_high.mp4</video:content_loc>
         <video:duration>2474</video:duration>
         <video:publication_date>2013-01-14T18:02:53.8114114+00:00</video:publication_date>
       </video:video>
@@ -144,7 +144,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b43a/1f4ebe22-3ecc-4ee0-b635-0497925bb43a/InsideWindows8DAM_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside Windows 8: Jon Berry - Desktop Activity Moderator and Connected Standby]]></video:title>
         <video:description><![CDATA[Jon Berry, a veteran Windows engineer, digs into the new way Windows 8 manages processes to support the brave new world of Windows running on various CPU architectures including ARM and ATOM, which&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b43a/1f4ebe22-3ecc-4ee0-b635-0497925bb43a/InsideWindows8DAM_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b43a/1f4ebe22-3ecc-4ee0-b635-0497925bb43a/InsideWindows8DAM_high.mp4</video:content_loc>
         <video:duration>2750</video:duration>
         <video:publication_date>2013-01-07T13:55:24.6950641+00:00</video:publication_date>
       </video:video>
@@ -158,7 +158,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/cc1d/a16f0452-ff02-4f2d-989a-bc5a2268cc1d/CB2012HerbSutterStandardCppConcurrency_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2012: Herb Sutter - C++ Concurrency]]></video:title>
         <video:description><![CDATA[Herb Sutter presents C&amp;#43;&amp;#43; Concurrency. This was filmed at C&amp;#43;&amp;#43; and Beyond 2012. Get Herb&#39;s slides for this session. Herb says: I&#39;ve spoken and written on these topics before. Here&#39;s&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/cc1d/a16f0452-ff02-4f2d-989a-bc5a2268cc1d/CB2012HerbSutterStandardCppConcurrency_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/cc1d/a16f0452-ff02-4f2d-989a-bc5a2268cc1d/CB2012HerbSutterStandardCppConcurrency_high.mp4</video:content_loc>
         <video:duration>4538</video:duration>
         <video:publication_date>2013-01-04T15:42:32.6393852+00:00</video:publication_date>
       </video:video>
@@ -172,7 +172,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/4414/fda2df6d-f130-4eea-98b0-1a7120ef4414/YOW2012MarkoRodriguez_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[YOW! 2012: Marko Rodriguez - Graph Systems and Databases]]></video:title>
         <video:description><![CDATA[Dr. Marko A. Rodriguez is the Founder and CEO of the graph technology firm Aurelius and creator of the graph traversal language Gremlin. He has focused his academic and commercial career on graph&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/4414/fda2df6d-f130-4eea-98b0-1a7120ef4414/YOW2012MarkoRodriguez_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/4414/fda2df6d-f130-4eea-98b0-1a7120ef4414/YOW2012MarkoRodriguez_high.mp4</video:content_loc>
         <video:duration>2612</video:duration>
         <video:publication_date>2012-12-20T20:21:57.8778725+00:00</video:publication_date>
       </video:video>
@@ -186,7 +186,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b96d/e3883b8c-d5b0-4241-a40b-376afdcfb96d/GregColomboInsideHeapManager_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside Windows 8: Greg Colombo - Heap Manager]]></video:title>
         <video:description><![CDATA[The Windows heap manager has been around as long as Windows has, evolving with each release, getting faster, more reliable, and more secure. In Windows 8, the heap manager improves in two major areas:&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b96d/e3883b8c-d5b0-4241-a40b-376afdcfb96d/GregColomboInsideHeapManager_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b96d/e3883b8c-d5b0-4241-a40b-376afdcfb96d/GregColomboInsideHeapManager_high.mp4</video:content_loc>
         <video:duration>2488</video:duration>
         <video:publication_date>2012-12-18T18:09:07.6308632+00:00</video:publication_date>
       </video:video>
@@ -200,7 +200,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/31e0/0220c632-8fd7-490e-843e-c54caee331e0/CB2012AndreiAlexandrescuSystematicErrorHandling_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2012: Andrei Alexandrescu - Systematic Error Handling in C++]]></video:title>
         <video:description><![CDATA[Andrei Alexandrescu presents &amp;quot;Systematic Error Handling in C&amp;#43;&amp;#43;&amp;quot;. This was filmed at C&amp;#43;&amp;#43; and Beyond 2012 Abstract: Writing code that is resilient upon errors (API failures,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/31e0/0220c632-8fd7-490e-843e-c54caee331e0/CB2012AndreiAlexandrescuSystematicErrorHandling_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/31e0/0220c632-8fd7-490e-843e-c54caee331e0/CB2012AndreiAlexandrescuSystematicErrorHandling_high.mp4</video:content_loc>
         <video:duration>5198</video:duration>
         <video:publication_date>2012-12-10T14:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -214,7 +214,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/afd9/9fa624da-bc10-4157-817f-85d4e9f6afd9/PedroTeixeiraWin8ThreadPool_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside Windows 8: Pedro Teixeira - Thread pools]]></video:title>
         <video:description><![CDATA[Continuing with our series of conversations with engineers in Windows, we meet Pedro Teixeira, a software developer on the Windows kernel team (aka core OS) who has improved the Windows thread pools&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/afd9/9fa624da-bc10-4157-817f-85d4e9f6afd9/PedroTeixeiraWin8ThreadPool_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/afd9/9fa624da-bc10-4157-817f-85d4e9f6afd9/PedroTeixeiraWin8ThreadPool_high.mp4</video:content_loc>
         <video:duration>3944</video:duration>
         <video:publication_date>2012-12-07T05:21:14.0835125+00:00</video:publication_date>
       </video:video>
@@ -228,7 +228,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/c352/0277afdb-2b6b-4347-bd4a-8b90e96ac352/InsideWin8ArunKishanAppModel_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside Windows 8: Arun Kishan - Windows App Model]]></video:title>
         <video:description><![CDATA[Arun Kishan digs into the low level details of Windows 8&#39;s new application model. How has Process Lifetime Management (PLM) been reimagined in Windows 8? How does app suspension work, exactly, or,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c352/0277afdb-2b6b-4347-bd4a-8b90e96ac352/InsideWin8ArunKishanAppModel_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c352/0277afdb-2b6b-4347-bd4a-8b90e96ac352/InsideWin8ArunKishanAppModel_high.mp4</video:content_loc>
         <video:duration>4063</video:duration>
         <video:publication_date>2012-11-21T20:08:51.7449438+00:00</video:publication_date>
       </video:video>
@@ -242,7 +242,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/74bb/1a307129-4c4a-483e-a8f1-3b7f1f4174bb/WP8NETCloudCompiler_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Mani Ramaswamy and Peter Sollich: Inside Compiler in the Cloud and MDIL]]></video:title>
         <video:description><![CDATA[By now you&#39;ve learned that the CLR, Windows Phone Client, and Windows Phone Services teams got together to develop &amp;quot;Compiler in the Cloud&amp;quot;. All Windows Phone 8 apps written in .NET&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/74bb/1a307129-4c4a-483e-a8f1-3b7f1f4174bb/WP8NETCloudCompiler_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/74bb/1a307129-4c4a-483e-a8f1-3b7f1f4174bb/WP8NETCloudCompiler_high.mp4</video:content_loc>
         <video:duration>3062</video:duration>
         <video:publication_date>2012-11-06T17:45:45.5493217+00:00</video:publication_date>
       </video:video>
@@ -256,7 +256,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/e6aa/354bf580-9c93-4383-bab3-cb6a3ddae6aa/GOTO12BakLuccoV8ChakraJSPerf_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Lars Bak and Steve Lucco: Chakra, V8, JavaScript, Open Source]]></video:title>
         <video:description><![CDATA[Technical Fellow Steve Lucco (architect and lead engineer of IE&#39;s Chakra JS VM) and Google&#39;s V8 and Dart architect Lars Bak discuss JavaScript, from a virtual machine perspective (implementer&#39;s view&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e6aa/354bf580-9c93-4383-bab3-cb6a3ddae6aa/GOTO12BakLuccoV8ChakraJSPerf_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e6aa/354bf580-9c93-4383-bab3-cb6a3ddae6aa/GOTO12BakLuccoV8ChakraJSPerf_high.mp4</video:content_loc>
         <video:duration>2572</video:duration>
         <video:publication_date>2012-10-16T23:40:17.4780404+00:00</video:publication_date>
       </video:video>
@@ -270,7 +270,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/3469/ca7c7a77-6c08-4fc2-b794-08db0eae3469/HejlsbergBakTSJSDart_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Anders Hejlsberg and Lars Bak: TypeScript, JavaScript, and Dart]]></video:title>
         <video:description><![CDATA[TypeScript, a typed superset of JavaScript that compiles to idiomatic (normal) JavaScript, is designed to make it easier to write cross-platform, application scale, JavaScript that runs in any browser&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/3469/ca7c7a77-6c08-4fc2-b794-08db0eae3469/HejlsbergBakTSJSDart_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/3469/ca7c7a77-6c08-4fc2-b794-08db0eae3469/HejlsbergBakTSJSDart_high.mp4</video:content_loc>
         <video:duration>2593</video:duration>
         <video:publication_date>2012-10-11T16:10:17.3300391+00:00</video:publication_date>
       </video:video>
@@ -284,7 +284,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7759/1f50612f-094e-44bc-86e2-2843a3dd7759/CB2012ScottMeyersUniversalReferences_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2012: Scott Meyers - Universal References in C++11]]></video:title>
         <video:description><![CDATA[Scott Meyers presents &amp;quot;Universal References in C&amp;#43;&amp;#43;11&amp;quot;. This was filmed at C&amp;#43;&amp;#43; and Beyond 2012. This is the full session in all of its splendor. Huge thanks to Scott for&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7759/1f50612f-094e-44bc-86e2-2843a3dd7759/CB2012ScottMeyersUniversalReferences_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7759/1f50612f-094e-44bc-86e2-2843a3dd7759/CB2012ScottMeyersUniversalReferences_high.mp4</video:content_loc>
         <video:duration>5023</video:duration>
         <video:publication_date>2012-10-09T13:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -298,7 +298,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b9a8/44953fa1-c8ee-442f-8cc5-a45de97fb9a8/CppBeyond2012PanelAskUsAnything_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2012: Alexandrescu, Meyers, and Sutter - Ask Us Anything]]></video:title>
         <video:description><![CDATA[Here is the Ask Us Anything panel from C&amp;#43;&amp;#43; and Beyond 2012. Andrei Alexandrescu, Scott Meyers and Herb Sutter take questions from attendees. As expected, great questions and answers! Tune in!&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b9a8/44953fa1-c8ee-442f-8cc5-a45de97fb9a8/CppBeyond2012PanelAskUsAnything_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b9a8/44953fa1-c8ee-442f-8cc5-a45de97fb9a8/CppBeyond2012PanelAskUsAnything_high.mp4</video:content_loc>
         <video:duration>3516</video:duration>
         <video:publication_date>2012-09-18T19:55:25.9524233+00:00</video:publication_date>
       </video:video>
@@ -312,7 +312,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b0b0/86dd3553-2a43-44c6-a875-6da10055b0b0/AndreiHerbScottCB2012C9Interview_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Alexandrescu, Meyers, Sutter: On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming]]></video:title>
         <video:description><![CDATA[Channel 9 was invited to this year&#39;s C&amp;#43;&amp;#43; and Beyond to film some sessions (that will appear on C9 over the coming months!) and have a chat with the &amp;quot;Big Three&amp;quot;: Andrei Alexandrescu,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b0b0/86dd3553-2a43-44c6-a875-6da10055b0b0/AndreiHerbScottCB2012C9Interview_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b0b0/86dd3553-2a43-44c6-a875-6da10055b0b0/AndreiHerbScottCB2012C9Interview_high.mp4</video:content_loc>
         <video:duration>3195</video:duration>
         <video:publication_date>2012-08-21T12:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -326,7 +326,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/958c/459d4978-8bcd-4a08-8794-8553954c958c/BartDeSmetRxV2RTW_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Bart De Smet: Rx 2.0 RTM and RTW]]></video:title>
         <video:description><![CDATA[Rx 2.0 is RTW! Get it here. I caught up with Bart at his whiteboard (of course) to discuss the significance of this release as well address some of the great additions to Rx as outlined below (many of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/958c/459d4978-8bcd-4a08-8794-8553954c958c/BartDeSmetRxV2RTW_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/958c/459d4978-8bcd-4a08-8794-8553954c958c/BartDeSmetRxV2RTW_high.mp4</video:content_loc>
         <video:duration>3646</video:duration>
         <video:publication_date>2012-08-16T21:11:03.5210498+00:00</video:publication_date>
       </video:video>
@@ -340,7 +340,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9f08/67721df5-8ad0-4497-bf34-d0daefb59f08/BartDeSmetRxV20DeepDive_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Bart De Smet: Rx v2.0 Release Candidate - Time, Error Handling, Event Subscription]]></video:title>
         <video:description><![CDATA[Bart De Smet is back and he&#39;s going to go deep into improvements made to Rx 2.0 RC (so, Rx 2.0 getting close to coming out of the oven!). As you&#39;d expect, Bart and company have been very busy since Rx&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9f08/67721df5-8ad0-4497-bf34-d0daefb59f08/BartDeSmetRxV20DeepDive_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9f08/67721df5-8ad0-4497-bf34-d0daefb59f08/BartDeSmetRxV20DeepDive_high.mp4</video:content_loc>
         <video:duration>4833</video:duration>
         <video:publication_date>2012-06-21T21:25:11.2594059+00:00</video:publication_date>
       </video:video>
@@ -354,7 +354,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/01ad/2ca509cc-d410-4663-8679-6ece29cd01ad/LangNEXT2012HewittMeijerSzyperkiActors_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know, but were afraid to ask)]]></video:title>
         <video:description><![CDATA[At Lang.NEXT 2012, several conversations happened in the &amp;quot;social room&amp;quot;, which was right next to the room where sessions took place. Our dear friend, Erik Meijer, led many interesting&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/01ad/2ca509cc-d410-4663-8679-6ece29cd01ad/LangNEXT2012HewittMeijerSzyperkiActors_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/01ad/2ca509cc-d410-4663-8679-6ece29cd01ad/LangNEXT2012HewittMeijerSzyperkiActors_high.mp4</video:content_loc>
         <video:duration>2554</video:duration>
         <video:publication_date>2012-04-09T12:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -410,7 +410,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/5c4a/9402094f-ed44-44d4-a433-ccc41bb25c4a/C-and-Beyond-2011-Scott-Andrei-and-Herb-Ask-Us-An_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and Beyond 2011: Scott, Andrei and Herb - Ask Us Anything]]></video:title>
         <video:description><![CDATA[I was able to attend C&amp;#43;&amp;#43; and Beyond 2011 and it was a tremendous experience. I captured some great footage from the event for C9, like this end-of-last-day panel - Ask Us Anything - with&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5c4a/9402094f-ed44-44d4-a433-ccc41bb25c4a/C-and-Beyond-2011-Scott-Andrei-and-Herb-Ask-Us-An_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/3333/1b3d92d2-a8fb-48c2-a621-9f4201703333/CB2011AskAnythingPanel_high_ch9.mp4</video:content_loc>
         <video:duration>3153</video:duration>
         <video:publication_date>2012-01-03T15:55:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -452,7 +452,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/fbd1/819c0e89-3963-40ba-a719-d3c8fa51fbd1/CB-2011-Panel-Herb-Sutter-Andrei-Alexandrescu-and_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C&amp;B 2011 Panel: Herb Sutter, Andrei Alexandrescu and Scott Meyers - Concurrency and Parallelism]]></video:title>
         <video:description><![CDATA[I was able to attend C&amp;#43;&amp;#43; and Beyond 2011 and it was a tremendous experience. The technical depth and C&amp;#43;&amp;#43; goodness was profound and lasted for 3 whole days (and two evenings). Thanks&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/fbd1/819c0e89-3963-40ba-a719-d3c8fa51fbd1/CB-2011-Panel-Herb-Sutter-Andrei-Alexandrescu-and_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/28f6/fc9b793f-cd7d-4280-b4cb-9f42016f28f6/CppBeyond11ConcurrencyPanel_high_ch9.mp4</video:content_loc>
         <video:duration>2446</video:duration>
         <video:publication_date>2011-11-15T14:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -774,7 +774,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8d06/0bc39fea-5e7a-4b22-8f3a-34ab7fab8d06/Verve-A-Type-Safe-Operating-System_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Verve: A Type Safe Operating System]]></video:title>
         <video:description><![CDATA[   The Singularity project (an OS written in managed code used for research purposes) has provided several very useful research results and opened new avenues for exploration in operating system&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8d06/0bc39fea-5e7a-4b22-8f3a-34ab7fab8d06/Verve-A-Type-Safe-Operating-System_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ecn/ch9/a16a/2af56b37-a9e8-499c-849b-9e400130a16a/ChrisHawblitzelMSRVerveOS_high_ch9.mp4</video:content_loc>
         <video:duration>4490</video:duration>
         <video:publication_date>2010-12-07T17:01:28.0000000+00:00</video:publication_date>
       </video:video>
@@ -788,7 +788,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9f62/a6defa5b-8725-4fcf-b596-b4b2b2429f62/Project-Orleans-A-Cloud-Computing-Framework_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Orleans: A Framework for Scalable Client+Cloud Computing ]]></video:title>
         <video:description><![CDATA[ Orleans is a Microsoft Research (MSR) project and managed (.NET) software framework for building client &amp;#43; cloud applications. As outlined in the recently released paper on the topic: Orleans&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9f62/a6defa5b-8725-4fcf-b596-b4b2b2429f62/Project-Orleans-A-Cloud-Computing-Framework_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ecn/ch9/4c28/6888baa3-def2-424e-a63b-9e4000154c28/ProjectOrleansCloudComputingFramework_high_ch9.mp4</video:content_loc>
         <video:duration>3776</video:duration>
         <video:publication_date>2010-12-02T23:07:10.0000000+00:00</video:publication_date>
       </video:video>
@@ -802,7 +802,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b922/7138818d-0b25-40fe-a5a8-884d7a1eb922/Mark-Russinovich-Windows-Azure-Cloud-Operating-Sy_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Mark Russinovich: Windows Azure, Cloud Operating Systems and Platform as a Service]]></video:title>
         <video:description><![CDATA[Mark Russinovich is a Technical Fellow working on the Windows Azure team. His focus is on solving hard problems related to the Fabric Controller, which is in some sense the Windows Azure operating&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b922/7138818d-0b25-40fe-a5a8-884d7a1eb922/Mark-Russinovich-Windows-Azure-Cloud-Operating-Sy_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ecn/ch9/53ab/1789b1e6-0690-4728-8ecb-9e38013a53ab/MarkRussinovichInsideWindowsAzure_high_ch9.mp4</video:content_loc>
         <video:duration>2675</video:duration>
         <video:publication_date>2010-11-25T19:30:45.0000000+00:00</video:publication_date>
       </video:video>
@@ -816,7 +816,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f0a4/30df808e-bedf-41ca-96b1-d617af3df0a4/Bart-De-Smet-LINQ-to-Z3_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Bart De Smet: LINQ to Z3]]></video:title>
         <video:description><![CDATA[   Bart De Smet is one of the highly talented software engineers on Erik Meijer&#39;s team and the chief architect of the LINQ to Anything dream. You should watch his excellent PDC10 session on this&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f0a4/30df808e-bedf-41ca-96b1-d617af3df0a4/Bart-De-Smet-LINQ-to-Z3_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ecn/ch9/a260/5b562119-0a81-4f61-b182-9e300187a260/BartDeSmetLINQtoZ3_high_ch9.mp4</video:content_loc>
         <video:duration>4616</video:duration>
         <video:publication_date>2010-11-23T21:06:09.0000000+00:00</video:publication_date>
       </video:video>
@@ -830,7 +830,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/01bd/b0ad452b-3310-46ad-9b6e-f84cee9d01bd/Rx-Update-Async-support-IAsyncEnumerable-and-more_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Rx Update: Async support, IAsyncEnumerable and more with Jeff and Wes]]></video:title>
         <video:description><![CDATA[ At PDC10, you were introduced to Async (new async and await language keywords), a new language feature in C# and VB.NET. At the same time, the Rx team shipped the latest version of their software,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/01bd/b0ad452b-3310-46ad-9b6e-f84cee9d01bd/Rx-Update-Async-support-IAsyncEnumerable-and-more_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/01bd/b0ad452b-3310-46ad-9b6e-f84cee9d01bd/Rx-Update-Async-support-IAsyncEnumerable-and-more_mid.mp4</video:content_loc>
         <video:duration>2158</video:duration>
         <video:publication_date>2010-11-15T21:00:34.0000000+00:00</video:publication_date>
       </video:video>
@@ -844,7 +844,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/c6f3/017eabf3-edb8-4a27-ac31-5fb57f92c6f3/E2E-Concurrent-Programming-with-Revisions_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[E2E: Concurrent Programming with Revisions]]></video:title>
         <video:description><![CDATA[     Building applications that are responsive and can exploit parallel hardware poses an important challenge. In particular, enabling applications to execute various tasks in parallel can be&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c6f3/017eabf3-edb8-4a27-ac31-5fb57f92c6f3/E2E-Concurrent-Programming-with-Revisions_mid.mp4</video:content_loc>
+        <video:content_loc>https://sec.ch9.ms/ch9/c6f3/017eabf3-edb8-4a27-ac31-5fb57f92c6f3/E2E-Concurrent-Programming-with-Revisions_mid.mp4</video:content_loc>
         <video:duration>4238</video:duration>
         <video:publication_date>2010-11-11T17:54:37.0000000+00:00</video:publication_date>
       </video:video>
@@ -914,7 +914,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b2d1/d78c2c32-5bbb-4414-920a-70210231b2d1/Landy-Wang-Windows-Memory-Manager_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Landy Wang - Windows Memory Manager]]></video:title>
         <video:description><![CDATA[Charles Torre (interviewer) and Michael Lehman (cameraman) continue the &amp;quot;Going Deep: Windows&amp;quot; series with a discussion with Landy Wang, a developer of the oh so important Windows Memory&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b2d1/d78c2c32-5bbb-4414-920a-70210231b2d1/Landy-Wang-Windows-Memory-Manager_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b2d1/d78c2c32-5bbb-4414-920a-70210231b2d1/Landy-Wang-Windows-Memory-Manager_high.mp4</video:content_loc>
         <video:duration>2124</video:duration>
         <video:publication_date>2010-09-29T18:24:12.0000000+00:00</video:publication_date>
       </video:video>
@@ -942,7 +942,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/66b5/d624c309-2a4d-48b8-87d5-9125893966b5/Allen-Wirfs-Brock-and-Chris-Wilson-EcmaScript-5_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Allen Wirfs-Brock and Chris Wilson: EcmaScript, JavaScript and the Web]]></video:title>
         <video:description><![CDATA[ECMAScript is object-based: basic language and host facilities are provided by objects, and an ECMAScript program is a cluster of communicating objects. An ECMAScript object is a collection of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/66b5/d624c309-2a4d-48b8-87d5-9125893966b5/Allen-Wirfs-Brock-and-Chris-Wilson-EcmaScript-5_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/66b5/d624c309-2a4d-48b8-87d5-9125893966b5/Allen-Wirfs-Brock-and-Chris-Wilson-EcmaScript-5_high.mp4</video:content_loc>
         <video:duration>2429</video:duration>
         <video:publication_date>2010-09-21T18:03:15.0000000+00:00</video:publication_date>
       </video:video>
@@ -973,7 +973,7 @@ In part 3 of the Advanced Functional Programming lecture series, Dr. L&#228;mmel
         <video:description><![CDATA[
 The latest release of Rx includes new tools for testing reactive programs as well as virtual scheduling. In this video, Jeffrey
  and Wes discuss virtual time and virtual schedulers and how they can&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8bb7/49938c6f-8a75-4c95-8305-290ba3238bb7/Wes-Dyer-and-Jeffrey-Van-Gogh-Inside-Rx-Virtual-T_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8bb7/49938c6f-8a75-4c95-8305-290ba3238bb7/Wes-Dyer-and-Jeffrey-Van-Gogh-Inside-Rx-Virtual-T_high.mp4</video:content_loc>
         <video:duration>2661</video:duration>
         <video:publication_date>2010-08-27T20:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -989,7 +989,7 @@ The latest release of Rx includes new tools for testing reactive programs as wel
         <video:description><![CDATA[
 &amp;quot;Visual Studio LightSwitch is a new tool aimed at easily building data-driven applications, such as an inventory system or a basic customer relationship
  management system.&amp;quot;Typically,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/2400/592543ed-9aa6-43b2-98fb-532f9f162400/Steve-Anonsen-and-John-Rivard-Inside-LightSwitch_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/2400/592543ed-9aa6-43b2-98fb-532f9f162400/Steve-Anonsen-and-John-Rivard-Inside-LightSwitch_high.mp4</video:content_loc>
         <video:duration>3974</video:duration>
         <video:publication_date>2010-08-25T20:08:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1048,7 +1048,7 @@ https://preview.channel9.msdn.com. Please file any bugs or suggestions on Connec
         <video:thumbnail_loc>http://video.ch9.ms/ch9/10aa/f8a30467-1df5-4000-8666-c01b045410aa/Andrew-Nurse-Inside-Razor_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Andrew Nurse: Inside &quot;Razor&quot;]]></video:title>
         <video:description><![CDATA[ASP.NET&#39;s latest MVC view engine, &amp;quot;Razor,&amp;quot; is optimized for HTML generation using a code-focused templating approach. Razor minimizes the number of characters and keystrokes required in a&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/10aa/f8a30467-1df5-4000-8666-c01b045410aa/Andrew-Nurse-Inside-Razor_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/10aa/f8a30467-1df5-4000-8666-c01b045410aa/Andrew-Nurse-Inside-Razor_high.mp4</video:content_loc>
         <video:duration>3385</video:duration>
         <video:publication_date>2010-07-15T20:10:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1079,7 +1079,7 @@ Greg Meredith, a mathematician and computer scientist. It&#39;s&amp;#8230;]]></v
         <video:title><![CDATA[E2E: Brian Beckman and Erik Meijer - Co/Contravariance in Physics and Programming, 3 of n]]></video:title>
         <video:description><![CDATA[Part 3 of the Beckman Meijer Co/Contravariance in Physics and Programming Hypothesis/Challenge has finally arrived, Niners!  You learned about Brian Beckman&#39;s perspective on 
 covariance and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5c34/a0547269-1ee3-490c-9b9a-3ef48e415c34/E2E-Brian-Beckman-and-Erik-Meijer-CoContravarianc_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5c34/a0547269-1ee3-490c-9b9a-3ef48e415c34/E2E-Brian-Beckman-and-Erik-Meijer-CoContravarianc_high.mp4</video:content_loc>
         <video:duration>2162</video:duration>
         <video:publication_date>2010-05-25T17:12:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1109,7 +1109,7 @@ covariance and&amp;#8230;]]></video:description>
         <video:title><![CDATA[STL: Some Underlying Algorithms, Data Structures, and More with Stephan T. Lavavej]]></video:title>
         <video:description><![CDATA[With the recent release of Visual Studio 2010 and .NET 4/Silverlight 4 (Managed 4), I figured it was time to learn a thing or two about some new
 native functionality, specifically in the STL&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6ef2/014ffb46-d194-4c7f-99c0-374947136ef2/STL-Some-Underlying-Algorithms-Data-Structures-an_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6ef2/014ffb46-d194-4c7f-99c0-374947136ef2/STL-Some-Underlying-Algorithms-Data-Structures-an_high.mp4</video:content_loc>
         <video:duration>3107</video:duration>
         <video:publication_date>2010-05-04T19:59:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1126,7 +1126,7 @@ native functionality, specifically in the STL&amp;#8230;]]></video:description>
 Wolfram Schulte, 
 Herman Venter, Nikolai Tillmann, and Manuel Fahndrich join Erik
  Meijer for an Expert to Expert deep dive into the theory and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9fd7/22ebfdad-ea99-4449-8cc8-fc28a0369fd7/E2E-Tracing-JIT-and-SPUR_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9fd7/22ebfdad-ea99-4449-8cc8-fc28a0369fd7/E2E-Tracing-JIT-and-SPUR_high.mp4</video:content_loc>
         <video:duration>3030</video:duration>
         <video:publication_date>2010-04-15T19:32:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1142,7 +1142,7 @@ Herman Venter, Nikolai Tillmann, and Manuel Fahndrich join Erik
         <video:description><![CDATA[The IE9 Platform Preview includes the first release of the
 
 new JavaScript engine. This new engine compiles JavaScript source code into high-quality native machine code. It also has a new fast&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6733/b2988753-5b20-4947-980e-68a4b16c6733/Inside-IE-9s-High-Performance-JavaScript-Engine_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6733/b2988753-5b20-4947-980e-68a4b16c6733/Inside-IE-9s-High-Performance-JavaScript-Engine_high.mp4</video:content_loc>
         <video:duration>1853</video:duration>
         <video:publication_date>2010-04-09T17:45:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1173,7 +1173,7 @@ likes to say, JavaScript is both the world&#39;s most popular programming langua
         <video:title><![CDATA[E2E: Erik Meijer and Leslie Lamport - Mathematical Reasoning and Distributed Systems]]></video:title>
         <video:description><![CDATA[A distributed system is one in which the failure of a computer you didn&#39;t even know existed can render your own computer unusable. -Leslie Lamport.
 Leslie Lamport is a computer scientist and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/96f5/0aeb4a46-2cf4-4786-b28d-ed8e0bf696f5/E2E-Erik-Meijer-and-Leslie-Lamport-Mathematical-R_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/96f5/0aeb4a46-2cf4-4786-b28d-ed8e0bf696f5/E2E-Erik-Meijer-and-Leslie-Lamport-Mathematical-R_high.mp4</video:content_loc>
         <video:duration>3371</video:duration>
         <video:publication_date>2010-03-09T20:06:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1187,7 +1187,7 @@ Leslie Lamport is a computer scientist and&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/329f/f1061673-8a28-4200-8eae-006efb25329f/Erik-Meijer-and-Team-Cloud-Data-Programmability-C_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Erik Meijer and Team: Cloud Data Programmability - Connecting the Distributed Dots]]></video:title>
         <video:description><![CDATA[When Sven Groot was in town a while ago (this summer?) we dropped by Erik Meijer&#39;s world and got a look at what he and his team of superdevelopers are up to (thus there really is no out-of-date&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/329f/f1061673-8a28-4200-8eae-006efb25329f/Erik-Meijer-and-Team-Cloud-Data-Programmability-C_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/329f/f1061673-8a28-4200-8eae-006efb25329f/Erik-Meijer-and-Team-Cloud-Data-Programmability-C_high.mp4</video:content_loc>
         <video:duration>2012</video:duration>
         <video:publication_date>2010-01-22T20:11:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1202,7 +1202,7 @@ Leslie Lamport is a computer scientist and&amp;#8230;]]></video:description>
         <video:title><![CDATA[E2E: Brian Beckman and Erik Meijer - Co/Contravariance in Physics and Programming, 2 of 3]]></video:title>
         <video:description><![CDATA[Happy new year! It&#39;s hard to believe that it&#39;s 2010. To start off the new year, how about some Beckman and Meijer? You recently learned about Dr. Beckman&#39;s perspective on 
 covariance and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/59a1/98702768-34ae-43eb-a4dc-5cde7dfc59a1/E2E-Brian-Beckman-and-Erik-Meijer-CoContravarianc_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/59a1/98702768-34ae-43eb-a4dc-5cde7dfc59a1/E2E-Brian-Beckman-and-Erik-Meijer-CoContravarianc_high.mp4</video:content_loc>
         <video:duration>3890</video:duration>
         <video:publication_date>2010-01-03T16:24:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1231,7 +1231,7 @@ covariance and&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/be55/b0b444f1-8854-439d-b896-b8d87c93be55/Jeffrey-Van-Gogh-and-Bart-De-Smet-Inside-SystemIn_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Jeffrey Van Gogh and Bart De Smet: Inside System.Interactive]]></video:title>
         <video:description><![CDATA[ With the recent release of the Reactive Extensions for .NET (Rx) on DevLabs, you’ll hear quite a bit about reactive programming, based on the IObservable&amp;lt;T&amp;gt; and IObserver&amp;lt;T&amp;gt; interfaces. A&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/be55/b0b444f1-8854-439d-b896-b8d87c93be55/Jeffrey-Van-Gogh-and-Bart-De-Smet-Inside-SystemIn_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/be55/b0b444f1-8854-439d-b896-b8d87c93be55/Jeffrey-Van-Gogh-and-Bart-De-Smet-Inside-SystemIn_high.mp4</video:content_loc>
         <video:duration>2095</video:duration>
         <video:publication_date>2009-12-29T16:41:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1246,7 +1246,7 @@ covariance and&amp;#8230;]]></video:description>
         <video:title><![CDATA[C9 Lectures: Dr. Brian Beckman - Covariance and Contravariance in Physics 1 of 1]]></video:title>
         <video:description><![CDATA[By now, you know Brian Beckman given how many times he&#39;s been featured on Channel 9 and, well, just how amazing he is. Brian is an astrophysicist and software
  architect currently working on a&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/062c/bfa6a40a-c496-4f86-9219-8553b874062c/C9-Lectures-Brian-Beckman-Covariance-and-Contrava_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/062c/bfa6a40a-c496-4f86-9219-8553b874062c/C9-Lectures-Brian-Beckman-Covariance-and-Contrava_high.mp4</video:content_loc>
         <video:duration>2671</video:duration>
         <video:publication_date>2009-11-25T18:22:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1261,7 +1261,7 @@ covariance and&amp;#8230;]]></video:description>
         <video:title><![CDATA[E2E: Erik Meijer and Patrick Dussud - Inside Garbage Collection]]></video:title>
         <video:description><![CDATA[Patrick Dussud is a Technical Fellow at Microsoft who is the author of .NET&#39;s garbage collector (GC) - the automatic memory management
  infrastructure that makes up most of what is managed in managed&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6a19/9be004f0-65f6-4e2d-a143-197a1c986a19/E2E-Erik-Meijer-and-Patrick-Dussud-Inside-Garbage_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6a19/9be004f0-65f6-4e2d-a143-197a1c986a19/E2E-Erik-Meijer-and-Patrick-Dussud-Inside-Garbage_high.mp4</video:content_loc>
         <video:duration>3422</video:duration>
         <video:publication_date>2009-11-13T16:30:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1276,7 +1276,7 @@ covariance and&amp;#8230;]]></video:description>
         <video:title><![CDATA[E2E: Erik Meijer and Burton Smith - Concurrency, Parallelism and Programming]]></video:title>
         <video:description><![CDATA[The great 
 Burton Smith, Microsoft Technical Fellow and an international leader in high-performance computer architecture and programming languages for parallel computing joins functional programming&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9c6f/9978b584-04b6-46a3-b60d-2acecc6e9c6f/E2E-Erik-Meijer-and-Burton-Smith-Concurrency-Para_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9c6f/9978b584-04b6-46a3-b60d-2acecc6e9c6f/E2E-Erik-Meijer-and-Burton-Smith-Concurrency-Para_high.mp4</video:content_loc>
         <video:duration>3854</video:duration>
         <video:publication_date>2009-11-03T16:19:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1291,7 +1291,7 @@ Burton Smith, Microsoft Technical Fellow and an international leader in high-per
         <video:title><![CDATA[E2E: Erik Meijer and Don Box - Perspectives on SOAP, Programming Data and M]]></video:title>
         <video:description><![CDATA[Don Box is a Distinguished Engineer at Microsoft and has a rich history in the general purpose programming world. You remember SOAP, right? Don was one of the Gang
  of Four who designed SOAP. Don was&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6b41/92ae310d-9f7b-44b2-bc96-5dd99b3b6b41/E2E-Erik-Meijer-and-Don-Box-Perspectives-on-SOAP-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6b41/92ae310d-9f7b-44b2-bc96-5dd99b3b6b41/E2E-Erik-Meijer-and-Don-Box-Perspectives-on-SOAP-_high.mp4</video:content_loc>
         <video:duration>2678</video:duration>
         <video:publication_date>2009-10-28T16:52:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1305,7 +1305,7 @@ Burton Smith, Microsoft Technical Fellow and an international leader in high-per
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6507/2e597341-b16f-47eb-8924-1556ea256507/Mark-Russinovich-Inside-Windows-7-Redux_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Mark Russinovich: Inside Windows 7 Redux]]></video:title>
         <video:description><![CDATA[Windows 7 is here, available to all for purchase and ships today with new PCs! To celebrate this momentous occasion for Windows and Microsoft, Technical Fellow Mark Russinovich joins me in a&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6507/2e597341-b16f-47eb-8924-1556ea256507/Mark-Russinovich-Inside-Windows-7-Redux_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6507/2e597341-b16f-47eb-8924-1556ea256507/Mark-Russinovich-Inside-Windows-7-Redux_high.mp4</video:content_loc>
         <video:duration>3185</video:duration>
         <video:publication_date>2009-10-22T16:30:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1320,7 +1320,7 @@ Burton Smith, Microsoft Technical Fellow and an international leader in high-per
         <video:title><![CDATA[Visualizing Concurrency: VS 2010 Beta 2 - Parallel Performance Profiling Advancements]]></video:title>
         <video:description><![CDATA[
 In Visual Studio 2010 Beta 1, you were introduced to new analysis and profiling capabilities (Parallel Profiling and Performance Tools) designed to make concurrency understandable and, ultimately,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e1c9/3de8cd63-c882-4e68-a9c2-de2c4f4ae1c9/Visualizing-Concurrency-Inside-the-Concurrency-Vi_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e1c9/3de8cd63-c882-4e68-a9c2-de2c4f4ae1c9/Visualizing-Concurrency-Inside-the-Concurrency-Vi_high.mp4</video:content_loc>
         <video:duration>2807</video:duration>
         <video:publication_date>2009-10-19T17:21:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1335,7 +1335,7 @@ In Visual Studio 2010 Beta 1, you were introduced to new analysis and profiling 
         <video:title><![CDATA[Stephan T. Lavavej: Everything you ever wanted to know about nullptr]]></video:title>
         <video:description><![CDATA[
 In C&amp;#43;&amp;#43;, 0 is an abused integer. It is used to reflect, well, 0 as a value of type int and it is also used to represent a null pointer... The latter has led to many bugs and confusion over&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c3bc/5d0ed353-66f2-4f03-a44b-1ff170b5c3bc/Stephan-T-Lavavej-Everything-you-ever-wanted-to-k_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c3bc/5d0ed353-66f2-4f03-a44b-1ff170b5c3bc/Stephan-T-Lavavej-Everything-you-ever-wanted-to-k_high.mp4</video:content_loc>
         <video:duration>3704</video:duration>
         <video:publication_date>2009-10-19T16:39:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1364,7 +1364,7 @@ In C&amp;#43;&amp;#43;, 0 is an abused integer. It is used to reflect, well, 0 a
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7fca/ab732fd3-a965-45ea-b592-3d703b047fca/E2E-Erik-Meijer-and-Wes-Dyer-Reactive-Framework-R_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[E2E: Erik Meijer and Wes Dyer - Reactive Framework (Rx) Under the Hood 2 of 2]]></video:title>
         <video:description><![CDATA[Software Developer extraordinaire and language compiler geek Wes Dyer and programming language design guru and LINQ co-creator Erik Meijer dig into the Reactive Framework (Rx). This is part 2 of 2.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7fca/ab732fd3-a965-45ea-b592-3d703b047fca/E2E-Erik-Meijer-and-Wes-Dyer-Reactive-Framework-R_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7fca/ab732fd3-a965-45ea-b592-3d703b047fca/E2E-Erik-Meijer-and-Wes-Dyer-Reactive-Framework-R_high.mp4</video:content_loc>
         <video:duration>2267</video:duration>
         <video:publication_date>2009-09-28T15:50:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1380,7 +1380,7 @@ In C&amp;#43;&amp;#43;, 0 is an abused integer. It is used to reflect, well, 0 a
         <video:description><![CDATA[You&#39;ve already learned a great deal about Erik Meijer&#39;s latest programming creation, Rx, right here on Channel 9 (here
 and 
 here, to be precise). Well, wouldn&#39;t it be great to get the two key minds&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/334f/fd18ef0c-011f-460d-80b7-e6497fb8334f/E2E-Erik-Meijer-and-Wes-Dyer-Reactive-Framework-R_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/334f/fd18ef0c-011f-460d-80b7-e6497fb8334f/E2E-Erik-Meijer-and-Wes-Dyer-Reactive-Framework-R_high.mp4</video:content_loc>
         <video:duration>2587</video:duration>
         <video:publication_date>2009-09-28T15:47:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1396,7 +1396,7 @@ here, to be precise). Well, wouldn&#39;t it be great to get the two key minds&am
         <video:description><![CDATA[This is a very special episode of 
 Expert to Expert. We were very fortunate to get some time with renowned computer scientist and Microsoft Technical Fellow Butler Lampson. Butler&#39;s impact
  on&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7583/f4578ac6-8c7a-49b2-8c00-d9cc05197583/E2E-Erik-Meijer-and-Butler-Lampson-Abstraction-Se_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7583/f4578ac6-8c7a-49b2-8c00-d9cc05197583/E2E-Erik-Meijer-and-Butler-Lampson-Abstraction-Se_high.mp4</video:content_loc>
         <video:duration>3584</video:duration>
         <video:publication_date>2009-09-17T16:09:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1410,7 +1410,7 @@ Expert to Expert. We were very fortunate to get some time with renowned computer
         <video:thumbnail_loc>http://video.ch9.ms/ch9/1527/f9b5e95d-6bbe-4e30-b605-c323ca321527/RADAR-Windows-Automatic-Memory-Leak-Detection_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inside Windows 7: RADAR - Windows Automatic Memory Leak Detection]]></video:title>
         <video:description><![CDATA[RADAR is a memory leak detection technology built into Windows 7 and integrated with Watson (error reporting) and AutoBug (automatic bug filing). It allows Microsoft product teams and third parties to&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/1527/f9b5e95d-6bbe-4e30-b605-c323ca321527/RADAR-Windows-Automatic-Memory-Leak-Detection_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/1527/f9b5e95d-6bbe-4e30-b605-c323ca321527/RADAR-Windows-Automatic-Memory-Leak-Detection_high.mp4</video:content_loc>
         <video:duration>3772</video:duration>
         <video:publication_date>2009-09-15T15:29:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1425,7 +1425,7 @@ Expert to Expert. We were very fortunate to get some time with renowned computer
         <video:title><![CDATA[Melur Raghuraman: Inside Windows 7 - Diagnostics and Troubleshooting]]></video:title>
         <video:description><![CDATA[Windows Development Manager Melur Raghuraman and team have taken troubleshooting and diagnostics to a
 whole new level in Windows 7. For one thing, Windows 7 uses managed code &amp;quot;natively&amp;quot; as&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/fa17/decb4d4b-417b-45b2-949c-c95418a7fa17/Inside-Windows-7-Diagnostics-and-Troubleshooting_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/fa17/decb4d4b-417b-45b2-949c-c95418a7fa17/Inside-Windows-7-Diagnostics-and-Troubleshooting_high.mp4</video:content_loc>
         <video:duration>3192</video:duration>
         <video:publication_date>2009-09-03T16:41:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1439,7 +1439,7 @@ whole new level in Windows 7. For one thing, Windows 7 uses managed code &amp;qu
         <video:thumbnail_loc>http://video.ch9.ms/ch9/df38/33460196-8405-449e-b6d4-e170948ddf38/Silviu-Calinoiu-Inside-Windows-7-Fault-Tolerant-H_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Silviu Calinoiu: Inside Windows 7 - Fault Tolerant Heap]]></video:title>
         <video:description><![CDATA[The Fault Tolerant Heap (FTH) is a subsystem of Windows 7 responsible for monitoring application crashes and autonomously applying mitigations to prevent future crashes on a per application basis. For&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/df38/33460196-8405-449e-b6d4-e170948ddf38/Silviu-Calinoiu-Inside-Windows-7-Fault-Tolerant-H_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/df38/33460196-8405-449e-b6d4-e170948ddf38/Silviu-Calinoiu-Inside-Windows-7-Fault-Tolerant-H_high.mp4</video:content_loc>
         <video:duration>3412</video:duration>
         <video:publication_date>2009-08-25T05:35:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1453,7 +1453,7 @@ whole new level in Windows 7. For one thing, Windows 7 uses managed code &amp;qu
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7511/8d7ee24e-8b1c-4b40-b082-c7097a6d7511/Elliot-H-Omiya-Larry-Osterman-and-Frank-Yerrace-I_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Elliot H Omiya, Larry Osterman and Frank Yerrace: Inside Windows 7 - Audio Stack]]></video:title>
         <video:description><![CDATA[One of the central engineering and design themes of Windows 7 is efficiency: efficiency in user experience (things work as and when expected, reliably), efficiency in processing, execution,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7511/8d7ee24e-8b1c-4b40-b082-c7097a6d7511/Elliot-H-Omiya-Larry-Osterman-and-Frank-Yerrace-I_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7511/8d7ee24e-8b1c-4b40-b082-c7097a6d7511/Elliot-H-Omiya-Larry-Osterman-and-Frank-Yerrace-I_high.mp4</video:content_loc>
         <video:duration>3852</video:duration>
         <video:publication_date>2009-08-11T14:44:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1470,7 +1470,7 @@ whole new level in Windows 7. For one thing, Windows 7 uses managed code &amp;qu
 You&#39;ve learned about many of the new features of the latest version of the Windows kernel in the
 
 Mark Russinovich Inside Windows 7 conversation here on Channel 9. One of Mark’s favorite kernel&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/96dd/ad626ae3-081e-49e7-b4c8-e58d050496dd/ArunKishanWin7DispatcherLock_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/96dd/ad626ae3-081e-49e7-b4c8-e58d050496dd/ArunKishanWin7DispatcherLock_high.mp4</video:content_loc>
         <video:duration>3548</video:duration>
         <video:publication_date>2009-08-06T17:28:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1501,7 +1501,7 @@ recently learned about Erik Meijer&#39;s latest innovation, Rx, here on Channel 
         <video:description><![CDATA[Microsoft Research recently announced the availability, under 
 Academic Licensing, of 
 Dryad, an infrastructure which allows a programmer to use the resources of a computer cluster or a data center&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f324/9e32c1e9-82ec-4e00-9deb-a39bbb7af324/Expert-to-Expert-Erik-Meijer-and-Michael-Isard-In_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f324/9e32c1e9-82ec-4e00-9deb-a39bbb7af324/Expert-to-Expert-Erik-Meijer-and-Michael-Isard-In_high.mp4</video:content_loc>
         <video:duration>3993</video:duration>
         <video:publication_date>2009-07-21T15:55:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1515,7 +1515,7 @@ Dryad, an infrastructure which allows a programmer to use the resources of a com
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f981/08e6f645-6cb0-478a-879f-493dcd0af981/Expert-to-Expert-Brian-Beckman-and-Erik-Meijer-In_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Expert to Expert: Brian Beckman and Erik Meijer - Inside the .NET Reactive Framework (Rx)]]></video:title>
         <video:description><![CDATA[Erik Meijer and team (developer Wes Dyer, in particular) have created a profound and beautiful .NET library that will take managed event based programming to new levels. Of course, many of you wish&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f981/08e6f645-6cb0-478a-879f-493dcd0af981/Expert-to-Expert-Brian-Beckman-and-Erik-Meijer-In_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f981/08e6f645-6cb0-478a-879f-493dcd0af981/Expert-to-Expert-Brian-Beckman-and-Erik-Meijer-In_high.mp4</video:content_loc>
         <video:duration>4383</video:duration>
         <video:publication_date>2009-07-09T18:36:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1533,7 +1533,7 @@ Flapjax is a new programming language designed around the demands of modern, cli
  
 
 Event-driven, reactive evaluation An event-stream&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/16f6/ed3730d5-584e-41e1-b8e4-64a1fc3116f6/Expert-to-Expert-Web-Programming-with-Flapjax_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/16f6/ed3730d5-584e-41e1-b8e4-64a1fc3116f6/Expert-to-Expert-Web-Programming-with-Flapjax_high.mp4</video:content_loc>
         <video:duration>4344</video:duration>
         <video:publication_date>2009-06-23T18:21:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1547,7 +1547,7 @@ Event-driven, reactive evaluation An event-stream&amp;#8230;]]></video:descripti
         <video:thumbnail_loc>http://video.ch9.ms/ch9/4614/c14666a6-d737-4191-ab45-847ca75b4614/Expert-to-Expert-Gur-Kimchi-Inside-Bing-Maps_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Expert to Expert: Gur Kimchi - Inside Bing Maps (aka Virtual Earth)]]></video:title>
         <video:description><![CDATA[Erik Meijer and I paid a visit to Bing Maps infrastructure architect and Partner Development Manager Gur Kimchi for an Expert to Expert conversation about the design and architecture of Bing Maps. It&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/4614/c14666a6-d737-4191-ab45-847ca75b4614/Expert-to-Expert-Gur-Kimchi-Inside-Bing-Maps_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/4614/c14666a6-d737-4191-ab45-847ca75b4614/Expert-to-Expert-Gur-Kimchi-Inside-Bing-Maps_high.mp4</video:content_loc>
         <video:duration>3213</video:duration>
         <video:publication_date>2009-06-17T17:54:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1562,7 +1562,7 @@ Event-driven, reactive evaluation An event-stream&amp;#8230;]]></video:descripti
         <video:title><![CDATA[David LeBlanc: Inside SafeInt]]></video:title>
         <video:description><![CDATA[SafeInt is a C&amp;#43;&amp;#43; header containing the SafeInt class, non-throwing functions to check common operations, and the associated internal mechanisms. SafeInt is currently
  used extensively&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f5fe/34c29a16-529f-47a5-b14e-9962a32bf5fe/David-LeBlanc-Inside-SafeInt_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f5fe/34c29a16-529f-47a5-b14e-9962a32bf5fe/David-LeBlanc-Inside-SafeInt_high.mp4</video:content_loc>
         <video:duration>3064</video:duration>
         <video:publication_date>2009-06-16T16:34:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1577,7 +1577,7 @@ Event-driven, reactive evaluation An event-stream&amp;#8230;]]></video:descripti
         <video:title><![CDATA[Expert to Expert: Inside Bling - A C#-based library to simplify WPF programming]]></video:title>
         <video:description><![CDATA[Bling is a C#-based library for easily programming images, animations, interactions, and visualizations on Microsoft&#39;s WPF/.NET. Bling is oriented towards design
  technologists, i.e., designers who&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/81c0/4b565302-ecf4-49b2-b9a2-6c3e115781c0/Expert-to-Expert-Inside-Bling-A-C-based-library-t_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/81c0/4b565302-ecf4-49b2-b9a2-6c3e115781c0/Expert-to-Expert-Inside-Bling-A-C-based-library-t_high.mp4</video:content_loc>
         <video:duration>3132</video:duration>
         <video:publication_date>2009-06-08T21:45:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1592,7 +1592,7 @@ Event-driven, reactive evaluation An event-stream&amp;#8230;]]></video:descripti
         <video:title><![CDATA[Raja Krishnaswamy and Vance Morrison: CLR 4 - Inside Type Equivalence]]></video:title>
         <video:description><![CDATA[You recently learned about CLR 4&#39;s support for type equivalence in a 
 conversation right here on C9 with Raja Krishnaswamy and Jesse Kaplan. The idea of type equivalence and its potential usefulness&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c169/c2a58c2a-1d14-4508-9cd0-5ab3635dc169/Raja-Krishnaswamy-and-Vance-Morrison-CLR-4-Inside_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c169/c2a58c2a-1d14-4508-9cd0-5ab3635dc169/Raja-Krishnaswamy-and-Vance-Morrison-CLR-4-Inside_high.mp4</video:content_loc>
         <video:duration>3517</video:duration>
         <video:publication_date>2009-06-05T17:12:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1606,7 +1606,7 @@ conversation right here on C9 with Raja Krishnaswamy and Jesse Kaplan. The idea 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/ab10/514d1fa3-0391-486a-8855-1b2615b5ab10/CLR-4-Side-by-Side-In-Process-What-How-Why_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Rick Byers and Simon Hall: CLR 4 - Side-by-Side In-Process - What. How. Why.]]></video:title>
         <video:description><![CDATA[CLR hosting has always been a hot topic. Consider the case of Windows Shell Extensions and the inability to load more than one CLR version per process being the dagger in the heart of the very idea of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ab10/514d1fa3-0391-486a-8855-1b2615b5ab10/CLR-4-Side-by-Side-In-Process-What-How-Why_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ab10/514d1fa3-0391-486a-8855-1b2615b5ab10/CLR-4-Side-by-Side-In-Process-What-How-Why_high.mp4</video:content_loc>
         <video:duration>2988</video:duration>
         <video:publication_date>2009-06-03T19:16:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1621,7 +1621,7 @@ conversation right here on C9 with Raja Krishnaswamy and Jesse Kaplan. The idea 
         <video:title><![CDATA[Louis Lafreniere: Next Generation Buffer Overrun Protection with /GS++]]></video:title>
         <video:description><![CDATA[From 
 the C&amp;#43;&amp;#43; Team Blog: A lot of code written in C and C&amp;#43;&amp;#43; has vulnerabilities that leave their users open to buffer overrun attacks. There are two major reasons for this. One reason&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/141e/003d77fc-ebcb-46ec-bc99-ae51ab55141e/Louis-Lafreniere-Next-Generation-Buffer-Overrun-P_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/141e/003d77fc-ebcb-46ec-bc99-ae51ab55141e/Louis-Lafreniere-Next-Generation-Buffer-Overrun-P_high.mp4</video:content_loc>
         <video:duration>1919</video:duration>
         <video:publication_date>2009-06-02T16:34:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1635,7 +1635,7 @@ the C&amp;#43;&amp;#43; Team Blog: A lot of code written in C and C&amp;#43;&amp
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7280/04a634c0-0702-41cc-84a5-673c57d27280/Erika-Parsons-and-Eric-Eilebrecht--CLR-4-Inside-t_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Erika Parsons and Eric Eilebrecht : CLR 4 - Inside the Thread Pool]]></video:title>
         <video:description><![CDATA[General purpose thread pools are more complicated to get right than you may think. In CLR 4 (the next version of the VM that powers .NET), the thread pool has made some significant advances in&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7280/04a634c0-0702-41cc-84a5-673c57d27280/Erika-Parsons-and-Eric-Eilebrecht--CLR-4-Inside-t_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7280/04a634c0-0702-41cc-84a5-673c57d27280/Erika-Parsons-and-Eric-Eilebrecht--CLR-4-Inside-t_high.mp4</video:content_loc>
         <video:duration>2585</video:duration>
         <video:publication_date>2009-06-01T16:46:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1649,7 +1649,7 @@ the C&amp;#43;&amp;#43; Team Blog: A lot of code written in C and C&amp;#43;&amp
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7b04/4438f286-2786-4719-a0ea-45b229617b04/Maoni-Stephens-and-Andrew-Pardoe-CLR-4-Inside-Bac_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Maoni Stephens and Andrew Pardoe: CLR 4 Garbage Collector - Inside Background GC]]></video:title>
         <video:description><![CDATA[Maoni Stephens is a software developer who spends her time implementing .NET&#39;s GC. In fact, she&#39;s been working on the GC since the early days of .NET. Andrew Pardoe is the GC PM. The last time we&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7b04/4438f286-2786-4719-a0ea-45b229617b04/Maoni-Stephens-and-Andrew-Pardoe-CLR-4-Inside-Bac_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7b04/4438f286-2786-4719-a0ea-45b229617b04/Maoni-Stephens-and-Andrew-Pardoe-CLR-4-Inside-Bac_high.mp4</video:content_loc>
         <video:duration>2798</video:duration>
         <video:publication_date>2009-05-26T16:06:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1665,7 +1665,7 @@ the C&amp;#43;&amp;#43; Team Blog: A lot of code written in C and C&amp;#43;&amp
         <video:description><![CDATA[
 Visual Studio 2010 Beta 1 introduces a number of exciting new features for the C&amp;#43;&amp;#43; developer as we include a selection of goodies from
  the upcoming C&amp;#43;&amp;#43;0x Standard. We have already&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7fc8/7058959d-6bf8-49dc-bed1-5bec9a967fc8/VC-10-Stephan-T-Lavavej-and-Damien-Watkins-Inside_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7fc8/7058959d-6bf8-49dc-bed1-5bec9a967fc8/VC-10-Stephan-T-Lavavej-and-Damien-Watkins-Inside_high.mp4</video:content_loc>
         <video:duration>3593</video:duration>
         <video:publication_date>2009-05-21T15:43:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1679,7 +1679,7 @@ Visual Studio 2010 Beta 1 introduces a number of exciting new features for the C
         <video:thumbnail_loc>http://video.ch9.ms/ch9/0c46/e93e8b36-8716-4b70-98a4-c5c481310c46/Vance-Morrison-CLR-Through-the-Years_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Vance Morrison: CLR Through the Years]]></video:title>
         <video:description><![CDATA[CLR Architect Vance Morrison has been very busy working on the future of the CLR, especially as it relates to execution performance and the type system. Some of his latest work is present in the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0c46/e93e8b36-8716-4b70-98a4-c5c481310c46/Vance-Morrison-CLR-Through-the-Years_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0c46/e93e8b36-8716-4b70-98a4-c5c481310c46/Vance-Morrison-CLR-Through-the-Years_high.mp4</video:content_loc>
         <video:duration>2668</video:duration>
         <video:publication_date>2009-05-19T15:48:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1694,7 +1694,7 @@ Visual Studio 2010 Beta 1 introduces a number of exciting new features for the C
         <video:title><![CDATA[John Rose: Static Runtimes and Dynamic Byte Codes]]></video:title>
         <video:description><![CDATA[John Rose is a virtual machine expert who&#39;s been working on the Java Virtual Machine for several years. He&#39;s part of the team that is adding multi-language support to the JVM,
  specifically, dynamic&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d6c3/731ef218-8163-441c-9c44-e08855c9d6c3/John-Rose-Static-Managed-Runtimes-and-Dynamic-Byt_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d6c3/731ef218-8163-441c-9c44-e08855c9d6c3/John-Rose-Static-Managed-Runtimes-and-Dynamic-Byt_high.mp4</video:content_loc>
         <video:duration>2109</video:duration>
         <video:publication_date>2009-05-04T18:17:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1710,7 +1710,7 @@ Visual Studio 2010 Beta 1 introduces a number of exciting new features for the C
         <video:description><![CDATA[Lang.NET Symposium 2009 was held on Microsoft&#39;s campus (make sure you
 
 watch the talks, which are available for your viewing pleasure). We were of course there and conducted several interviews with&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7602/5638b1da-3116-4cce-8738-64e65ec97602/Gilad-Bracha-Inside-Newspeak_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7602/5638b1da-3116-4cce-8738-64e65ec97602/Gilad-Bracha-Inside-Newspeak_high.mp4</video:content_loc>
         <video:duration>1903</video:duration>
         <video:publication_date>2009-04-30T23:41:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1724,7 +1724,7 @@ watch the talks, which are available for your viewing pleasure). We were of cour
         <video:thumbnail_loc>http://video.ch9.ms/ch9/a2b3/643fe9c0-3253-47a2-8e56-af93564ca2b3/Expert-to-Expert-Erik-Meijer-and-Lars-Bak-Inside-_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Expert to Expert - Erik Meijer and Lars Bak: Inside V8 - A Javascript Virtual Machine]]></video:title>
         <video:description><![CDATA[Lars Bak is a virtual machine master. He and team have created a Javascript VM, V8, that takes Javascript syntax and produces optimized machine code directly. The result is very performant execution&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/a2b3/643fe9c0-3253-47a2-8e56-af93564ca2b3/Expert-to-Expert-Erik-Meijer-and-Lars-Bak-Inside-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/a2b3/643fe9c0-3253-47a2-8e56-af93564ca2b3/Expert-to-Expert-Erik-Meijer-and-Lars-Bak-Inside-_high.mp4</video:content_loc>
         <video:duration>3281</video:duration>
         <video:publication_date>2009-04-29T16:29:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1740,7 +1740,7 @@ watch the talks, which are available for your viewing pleasure). We were of cour
         <video:description><![CDATA[You first learned about Windows Azure and the
 
 Azure Services Platform at PDC08. Remember that? Yeah. It&#39;s been a while since we first unveiled our cloud computing offering. Now that the hysteria&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/af0f/2343909d-6842-4af7-bbee-09f20850af0f/Expert-to-Expert-Amitabh-Srivastava-Windows-Azure_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/af0f/2343909d-6842-4af7-bbee-09f20850af0f/Expert-to-Expert-Amitabh-Srivastava-Windows-Azure_high.mp4</video:content_loc>
         <video:duration>3647</video:duration>
         <video:publication_date>2009-04-14T15:51:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1754,7 +1754,7 @@ Azure Services Platform at PDC08. Remember that? Yeah. It&#39;s been a while sin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/ee5f/f8dc1fbe-2ad7-466d-ac72-13abec5bee5f/Expert-to-Expert-Gazelle-Operating-System-Archite_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Expert to Expert: Helen Wang and Alex Moshchuk - Inside Gazelle]]></video:title>
         <video:description><![CDATA[Microsoft Research was in the news not too long ago regarding the innovative, outside-the-box research being done by MSR scientists on display at the annual MSR TechFest event. One of the stars of the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ee5f/f8dc1fbe-2ad7-466d-ac72-13abec5bee5f/Expert-to-Expert-Gazelle-Operating-System-Archite_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ee5f/f8dc1fbe-2ad7-466d-ac72-13abec5bee5f/Expert-to-Expert-Gazelle-Operating-System-Archite_high.mp4</video:content_loc>
         <video:duration>3133</video:duration>
         <video:publication_date>2009-04-07T17:48:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1770,7 +1770,7 @@ Azure Services Platform at PDC08. Remember that? Yeah. It&#39;s been a while sin
         <video:description><![CDATA[
 Parallel Computing Platform team members Stephen Toub, Rick Molloy, Don McCrady and Dana Groff join me for a chat about the differences and similarities in their
  conceptual approach to designing&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/4ea9/fc752d16-3d48-4af2-b08c-44fdf5624ea9/Concurrency-and-Parallelism-Native-CC-and-Managed_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/4ea9/fc752d16-3d48-4af2-b08c-44fdf5624ea9/Concurrency-and-Parallelism-Native-CC-and-Managed_high.mp4</video:content_loc>
         <video:duration>3093</video:duration>
         <video:publication_date>2009-03-30T17:24:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1786,7 +1786,7 @@ Parallel Computing Platform team members Stephen Toub, Rick Molloy, Don McCrady 
         <video:description><![CDATA[Matthew Podwysocki is a senior consultant for Microsoft platform technologies in the D.C. area. He&#39;s been programming since he was a child and has a
 
 particular interest and passion for functional&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/835c/c06466b8-aa22-44f9-9ff4-4d9d8d6f835c/Erik-Meijer-and-Matthew-Podwysocki-Perspectives-o_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/835c/c06466b8-aa22-44f9-9ff4-4d9d8d6f835c/Erik-Meijer-and-Matthew-Podwysocki-Perspectives-o_high.mp4</video:content_loc>
         <video:duration>4061</video:duration>
         <video:publication_date>2009-03-24T15:50:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1800,7 +1800,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f3be/2783c371-f2be-45ff-bcd1-fc870b04f3be/Expert-to-Expert-Anders-Hejlsberg-The-Future-of-C_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Expert to Expert: Erik Meijer and Anders Hejlsberg - The Future of C#]]></video:title>
         <video:description><![CDATA[It&#39;s always a pleasure to get a chance to sit down and geek out with Anders Hejlsberg. Anders is a Microsoft Technical Fellow (a Technical Fellow is the highest ranking technical position at&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f3be/2783c371-f2be-45ff-bcd1-fc870b04f3be/Expert-to-Expert-Anders-Hejlsberg-The-Future-of-C_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f3be/2783c371-f2be-45ff-bcd1-fc870b04f3be/Expert-to-Expert-Anders-Hejlsberg-The-Future-of-C_high.mp4</video:content_loc>
         <video:duration>4232</video:duration>
         <video:publication_date>2009-03-03T20:16:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1818,7 +1818,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
 
 &amp;quot;Concurrent Basic extends Visual Basic with stylish asynchronous concurrency constructs derived from the join calculus. Our design advances earlier MSRC
  work on Polyphonic C#, Comega and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0874/4007e146-35ad-49c5-86d4-e707bb8b0874/Claudio-Russo-and-Lucian-Wischik-Inside-Concurren_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0874/4007e146-35ad-49c5-86d4-e707bb8b0874/Claudio-Russo-and-Lucian-Wischik-Inside-Concurren_high.mp4</video:content_loc>
         <video:duration>3582</video:duration>
         <video:publication_date>2009-02-25T23:09:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1833,7 +1833,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
         <video:title><![CDATA[Expert to Expert - Joe Duffy: Perspectives on Concurrent Programming and Parallelism]]></video:title>
         <video:description><![CDATA[Joe Duffy spends a lot of time thinking about the future of concurrent programming and parallelism. In his role as Lead Developer in the Parallel
  Computing Platform team, Joe is the creator of PLINQ&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/2849/2643acba-b69a-4616-9ebf-f3204a8b2849/Joe-Duffy-Perspectives-on-Concurrent-Programming-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/2849/2643acba-b69a-4616-9ebf-f3204a8b2849/Joe-Duffy-Perspectives-on-Concurrent-Programming-_high.mp4</video:content_loc>
         <video:duration>3879</video:duration>
         <video:publication_date>2009-02-17T17:39:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1847,7 +1847,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/3af6/c1bf3bd4-a60c-4efd-966d-409e8e233af6/John-Sheehan-Application-Virtualization-Redux-Ins_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[John Sheehan: Architecture and Engineering of Microsoft Application Virtualization (AppVirt)]]></video:title>
         <video:description><![CDATA[Microsoft Application Virtualization 4.5 (AppVirt) allows the flexibility to control virtual application interaction. Administrators wanting to consolidate virtual environments, and enable faster,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/3af6/c1bf3bd4-a60c-4efd-966d-409e8e233af6/John-Sheehan-Application-Virtualization-Redux-Ins_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/3af6/c1bf3bd4-a60c-4efd-966d-409e8e233af6/John-Sheehan-Application-Virtualization-Redux-Ins_high.mp4</video:content_loc>
         <video:duration>3511</video:duration>
         <video:publication_date>2009-02-09T19:45:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1862,7 +1862,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
         <video:title><![CDATA[Dave Probert: Inside Windows 7 - User Mode Scheduler (UMS)]]></video:title>
         <video:description><![CDATA[Here, we continue our exploration of the morphology of Windows 7 on Going Deep with windows kernel architect Dave Probert. You may remember him from an early
  four part episode of Going Deep where he&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/cb36/081627a5-11d3-473a-b867-dcb70d01cb36/Dave-Probert-Inside-Windows-7-User-Mode-Scheduler_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/cb36/081627a5-11d3-473a-b867-dcb70d01cb36/Dave-Probert-Inside-Windows-7-User-Mode-Scheduler_high.mp4</video:content_loc>
         <video:duration>3153</video:duration>
         <video:publication_date>2009-02-02T20:11:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1876,7 +1876,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/e77b/0045c53e-b031-4dc3-aeb2-11ffa589e77b/Chittur-Subbaraman-Inside-Windows-7-Service-Contr_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Chittur Subbaraman: Inside Windows 7 - Service Controller and Background Processing ]]></video:title>
         <video:description><![CDATA[At any given point, Windows is executing a lot of code. Some of this code runs in the background as services. In pre Windows 7 operating systems some services were set to auto run even though the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e77b/0045c53e-b031-4dc3-aeb2-11ffa589e77b/Chittur-Subbaraman-Inside-Windows-7-Service-Contr_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e77b/0045c53e-b031-4dc3-aeb2-11ffa589e77b/Chittur-Subbaraman-Inside-Windows-7-Service-Contr_high.mp4</video:content_loc>
         <video:duration>2640</video:duration>
         <video:publication_date>2009-01-23T19:39:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1893,7 +1893,7 @@ particular interest and passion for functional&amp;#8230;]]></video:description>
 Expert to Expert, programming language designer Erik Meijer chats with CCR creator
 
 George Chrysanthakopoulos. We&#39;ve spent a good deal of time on Channel 9 addressing the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d599/990c4548-e55f-42a8-9789-2557eee3d599/Expert-to-Expert-Meijer-and-Chrysanthakopoulos-Co_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d599/990c4548-e55f-42a8-9789-2557eee3d599/Expert-to-Expert-Meijer-and-Chrysanthakopoulos-Co_high.mp4</video:content_loc>
         <video:duration>3404</video:duration>
         <video:publication_date>2009-01-16T20:56:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1907,7 +1907,7 @@ George Chrysanthakopoulos. We&#39;ve spent a good deal of time on Channel 9 addr
         <video:thumbnail_loc>http://video.ch9.ms/ch9/1ebe/091fcd8b-d675-414b-9429-ae5ad6611ebe/Mark-Russinovich-Inside-Windows-7_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Mark Russinovich: Inside Windows 7]]></video:title>
         <video:description><![CDATA[How has Windows evolved, as a general purpose operating system and at the lowest levels, in Windows 7? Who better to talk to than Technical Fellow and Windows Kernel guru Mark Russinovich? Here, Mark&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/1ebe/091fcd8b-d675-414b-9429-ae5ad6611ebe/Mark-Russinovich-Inside-Windows-7_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/1ebe/091fcd8b-d675-414b-9429-ae5ad6611ebe/Mark-Russinovich-Inside-Windows-7_high.mp4</video:content_loc>
         <video:duration>2670</video:duration>
         <video:publication_date>2009-01-14T19:39:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1923,7 +1923,7 @@ George Chrysanthakopoulos. We&#39;ve spent a good deal of time on Channel 9 addr
         <video:description><![CDATA[We&#39;ve covered a lot of ground on both C&amp;#43;&amp;#43; and
 Parallel Computing
 on Channel 9 over the past few years. For C&amp;#43;&amp;#43; in particular, we&#39;ve gone deep on many fronts with some of the main&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ff5e/7e0e5e7d-79f8-45f5-8093-edebda66ff5e/Parallel-Computing-in-Native-Code-New-Trends-and-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ff5e/7e0e5e7d-79f8-45f5-8093-edebda66ff5e/Parallel-Computing-in-Native-Code-New-Trends-and-_high.mp4</video:content_loc>
         <video:duration>3081</video:duration>
         <video:publication_date>2009-01-12T19:48:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1939,7 +1939,7 @@ on Channel 9 over the past few years. For C&amp;#43;&amp;#43; in particular, we&
         <video:description><![CDATA[A few years ago I got the chance to learn about Software Transactional Memory for the first time while visiting MSR Cambridge.
 
 The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/bd4f/5d5a2180-6a67-4f13-ba8d-2c1d802cbd4f/Software-Transactional-Memory-The-Current-State-o_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/bd4f/5d5a2180-6a67-4f13-ba8d-2c1d802cbd4f/Software-Transactional-Memory-The-Current-State-o_high.mp4</video:content_loc>
         <video:duration>4198</video:duration>
         <video:publication_date>2008-12-29T20:19:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1953,7 +1953,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:thumbnail_loc>http://video.ch9.ms/ch9/d3b1/6e678969-d86a-4243-8319-fc36eb24d3b1/Maestro-A-Managed-Domain-Specific-Language-For-Co_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Maestro: A Managed Domain Specific Language For Concurrent Programming]]></video:title>
         <video:description><![CDATA[Josh Phillips(PM), Niklas Gustafsson(Architect), and Artur Laksberg(Developer) of the Parallel Computing Platform Team spend some time with me to discuss a managed (.NET-based) DSL (Domain Specific&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d3b1/6e678969-d86a-4243-8319-fc36eb24d3b1/Maestro-A-Managed-Domain-Specific-Language-For-Co_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d3b1/6e678969-d86a-4243-8319-fc36eb24d3b1/Maestro-A-Managed-Domain-Specific-Language-For-Co_high.mp4</video:content_loc>
         <video:duration>2856</video:duration>
         <video:publication_date>2008-12-22T19:46:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1968,7 +1968,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:title><![CDATA[CHESS: An Automated Concurrency Testing Tool]]></video:title>
         <video:description><![CDATA[CHESS is an automated tool from Microsoft Research for finding errors in multithreaded software by systematic exploration of
  thread schedules. It finds errors, such as data-races, deadlocks, hangs,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e16d/0dae38ad-9d9d-4606-8377-416ced5be16d/CHESS-An-Automated-Concurrency-Testing-Tool_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e16d/0dae38ad-9d9d-4606-8377-416ced5be16d/CHESS-An-Automated-Concurrency-Testing-Tool_high.mp4</video:content_loc>
         <video:duration>2875</video:duration>
         <video:publication_date>2008-12-10T21:46:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1983,7 +1983,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:title><![CDATA[Expert to Expert: Erik Meijer and Jeffrey Snover - Inside PowerShell]]></video:title>
         <video:description><![CDATA[Welcome to another edition of Expert to Expert. Once again the venerable language master Erik Meijer leads the conversation. This time, we&#39;re lucky enough to
  have PowerShell creator and Partner&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7fbe/643a1a16-ce29-4276-9739-9ef6a5547fbe/Expert-to-Expert-Erik-Meijer-and-Jeffrey-Snover-I_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7fbe/643a1a16-ce29-4276-9739-9ef6a5547fbe/Expert-to-Expert-Erik-Meijer-and-Jeffrey-Snover-I_high.mp4</video:content_loc>
         <video:duration>3682</video:duration>
         <video:publication_date>2008-12-03T21:19:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -1997,7 +1997,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:thumbnail_loc>http://video.ch9.ms/ch9/536c/e6678acb-5c51-48fc-9085-5d17365e536c/Rico-Mariani-Visual-Studio-Today-Tomorrow-and-Bey_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Rico Mariani: Visual Studio Today, Tomorrow and Beyond - Your Questions Answered]]></video:title>
         <video:description><![CDATA[The great Rico Mariani, software performance guru and Chief Architect of Visual Studio (we dig into what this role is exactly...), sits down with us to discuss what&#39;s on tap for the next&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/536c/e6678acb-5c51-48fc-9085-5d17365e536c/Rico-Mariani-Visual-Studio-Today-Tomorrow-and-Bey_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/536c/e6678acb-5c51-48fc-9085-5d17365e536c/Rico-Mariani-Visual-Studio-Today-Tomorrow-and-Bey_high.mp4</video:content_loc>
         <video:duration>4215</video:duration>
         <video:publication_date>2008-12-01T18:22:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2011,7 +2011,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f2c2/196103e6-04d3-42fc-acec-21ebaa8cf2c2/Brian-Beckman-The-Zen-of-Stateless-State-The-Stat_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Brian Beckman: The Zen of Stateless State - The State Monad - Part 2]]></video:title>
         <video:description><![CDATA[Concurrency is a problem that faces all developers as we move to the age of ManyCore processor architectures. Managing state is an important aspect of programming generally and for parallel&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f2c2/196103e6-04d3-42fc-acec-21ebaa8cf2c2/Brian-Beckman-The-Zen-of-Stateless-State-The-Stat_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f2c2/196103e6-04d3-42fc-acec-21ebaa8cf2c2/Brian-Beckman-The-Zen-of-Stateless-State-The-Stat_high.mp4</video:content_loc>
         <video:duration>1483</video:duration>
         <video:publication_date>2008-11-20T21:38:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2025,7 +2025,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:thumbnail_loc>http://video.ch9.ms/ch9/fae0/2d2244f5-4be6-4e12-960f-3ac37c08fae0/Brian-Beckman-The-Zen-of-Expressing-State-The-Sta_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Brian Beckman: The Zen of Stateless State - The State Monad - Part 1]]></video:title>
         <video:description><![CDATA[Concurrency is a problem that faces all developers as we move to the age of ManyCore processor architectures. Managing state is an important aspect of programming generally and for parallel&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/fae0/2d2244f5-4be6-4e12-960f-3ac37c08fae0/Brian-Beckman-The-Zen-of-Expressing-State-The-Sta_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/fae0/2d2244f5-4be6-4e12-960f-3ac37c08fae0/Brian-Beckman-The-Zen-of-Expressing-State-The-Sta_high.mp4</video:content_loc>
         <video:duration>2534</video:duration>
         <video:publication_date>2008-11-20T21:36:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2040,7 +2040,7 @@ The great Simon Peyton-Jones and Tim Harris explained to me the&amp;#8230;]]></v
         <video:title><![CDATA[Inside C# 4.0: dynamic typing, optional parameters, covariance and contravariance]]></video:title>
         <video:description><![CDATA[C# Program Manager Mads Torgersen and C# compiler developers 
 Eric Lippert, Chris Burrows, Samuel Ng discuss (and whiteboard) the details inside C# 4.0&#39;s dynamic type, optional parameters and default&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0bdc/36e3162f-5876-4312-a5db-ab49a9ac0bdc/Inside-C-40-dynamic-type-optional-parameters-more_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0bdc/36e3162f-5876-4312-a5db-ab49a9ac0bdc/Inside-C-40-dynamic-type-optional-parameters-more_high.mp4</video:content_loc>
         <video:duration>2954</video:duration>
         <video:publication_date>2008-10-31T16:28:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2056,7 +2056,7 @@ Eric Lippert, Chris Burrows, Samuel Ng discuss (and whiteboard) the details insi
         <video:description><![CDATA[
 Dharma Shukla, Architect for the 
 Live Framework, knows how to make developers happy.  After delivering the programming model for the Workflow Foundation, he joined the Live Services team to&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/339f/5f803ecc-25c7-40b8-be2f-27a0ef33339f/Dharma-Shukla-Inside-Live-Framework_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/339f/5f803ecc-25c7-40b8-be2f-27a0ef33339f/Dharma-Shukla-Inside-Live-Framework_high.mp4</video:content_loc>
         <video:duration>2526</video:duration>
         <video:publication_date>2008-10-29T16:47:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2070,7 +2070,7 @@ Live Framework, knows how to make developers happy.  After delivering the progra
         <video:thumbnail_loc>http://video.ch9.ms/ch9/74e5/94e8c9a2-e6e3-41ef-b6d1-8374f2ae74e5/Dave-Campbell-Inside-SQL-Services_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Dave Campbell: Inside SQL Services]]></video:title>
         <video:description><![CDATA[Technical Fellow Dave Campbell digs into the &amp;quot;fabric&amp;quot; of Azure&#39;s SQL Services. What are the current capabilities of SQL Services and how will they evolve? Can you upload stored procedures to&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/74e5/94e8c9a2-e6e3-41ef-b6d1-8374f2ae74e5/Dave-Campbell-Inside-SQL-Services_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/74e5/94e8c9a2-e6e3-41ef-b6d1-8374f2ae74e5/Dave-Campbell-Inside-SQL-Services_high.mp4</video:content_loc>
         <video:duration>1863</video:duration>
         <video:publication_date>2008-10-27T17:58:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2086,7 +2086,7 @@ Live Framework, knows how to make developers happy.  After delivering the progra
         <video:description><![CDATA[Welcome to the 100th episode of 
 Going Deep! It&#39;s been a great ride so far and I hope you&#39;ve been enjoying the show over the years. For this momentous occasion, meet
 Bart de Smet, a software&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/dcaf/57d081bf-ba85-469d-9cbf-7230beecdcaf/Erik-Meijer-and-Bart-De-Smet-LINQ-to-Anything_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/dcaf/57d081bf-ba85-469d-9cbf-7230beecdcaf/Erik-Meijer-and-Bart-De-Smet-LINQ-to-Anything_high.mp4</video:content_loc>
         <video:duration>3273</video:duration>
         <video:publication_date>2008-10-15T15:31:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2100,7 +2100,7 @@ Bart de Smet, a software&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/d2d3/fea26380-6c1d-46c8-9492-369d8c97d2d3/Building-Channel-9-Inside-EvNet-Part-2_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Building Channel 9: Inside EvNet - Part 2]]></video:title>
         <video:description><![CDATA[EvNet, which is the codebase that powers all of our channels, was written from the ground up. How is the codebase designed? What&#39;s the architecure? What did each developer work on? What were some of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d2d3/fea26380-6c1d-46c8-9492-369d8c97d2d3/Building-Channel-9-Inside-EvNet-Part-2_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d2d3/fea26380-6c1d-46c8-9492-369d8c97d2d3/Building-Channel-9-Inside-EvNet-Part-2_high.mp4</video:content_loc>
         <video:duration>2443</video:duration>
         <video:publication_date>2008-08-28T20:59:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2114,7 +2114,7 @@ Bart de Smet, a software&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9934/36c8a81c-444f-45f0-a15f-b177b26b9934/Building-Channel-9-Inside-EvNet-Part-1_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Building Channel 9: Inside EvNet - Part 1]]></video:title>
         <video:description><![CDATA[You asked. We deliver. Meet the developers behind Channel 9 (and 8, 10, Edge and MicrosoftPDC.com). Mike Sampson, Erik Porter, Duncan Mackenzie and Nathan Heskew are the super talented devs who built&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9934/36c8a81c-444f-45f0-a15f-b177b26b9934/Building-Channel-9-Inside-EvNet-Part-1_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9934/36c8a81c-444f-45f0-a15f-b177b26b9934/Building-Channel-9-Inside-EvNet-Part-1_high.mp4</video:content_loc>
         <video:duration>2941</video:duration>
         <video:publication_date>2008-08-28T19:52:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2129,7 +2129,7 @@ Bart de Smet, a software&amp;#8230;]]></video:description>
         <video:title><![CDATA[John Sheehan: Inside Application Virtualization]]></video:title>
         <video:description><![CDATA[
 Application virtualization is different than machine virtualization which virtualizes the machine on which an operating system (and applications) are installed. Machine virtualization provides an&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/bf7b/3e0faf7a-5a2c-4929-9ed1-82a04d10bf7b/John-Sheehan-Inside-Application-Virtualization_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/bf7b/3e0faf7a-5a2c-4929-9ed1-82a04d10bf7b/John-Sheehan-Inside-Application-Virtualization_high.mp4</video:content_loc>
         <video:duration>3427</video:duration>
         <video:publication_date>2008-07-07T15:41:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2144,7 +2144,7 @@ Application virtualization is different than machine virtualization which virtua
         <video:title><![CDATA[STL Iterator Debugging and Secure SCL]]></video:title>
         <video:description><![CDATA[
 The Visual C&amp;#43;&amp;#43; runtime library now detects incorrect iterator use and will assert and display a dialog box at run time. To enable debug iterator support, a program must be compiled with a&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0e02/11bf71e4-0dd9-453a-a727-d61454850e02/STL-Iterator-Debugging-and-Secure-SCL_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0e02/11bf71e4-0dd9-453a-a727-d61454850e02/STL-Iterator-Debugging-and-Secure-SCL_high.mp4</video:content_loc>
         <video:duration>2856</video:duration>
         <video:publication_date>2008-06-16T17:28:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2159,7 +2159,7 @@ The Visual C&amp;#43;&amp;#43; runtime library now detects incorrect iterator us
         <video:title><![CDATA[Inside Parallel Extensions for .NET 2008 CTP Part 2]]></video:title>
         <video:description><![CDATA[
 Parallel Extensions simplifies development by providing library-based support for introducing concurrency into applications written with any .NET language, including C# and Visual Basic. It includes&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6df4/c8686ac9-9514-4eac-91e0-42e1a32c6df4/Inside-Parallel-Extensions-for-NET-2008-CTP-Part-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6df4/c8686ac9-9514-4eac-91e0-42e1a32c6df4/Inside-Parallel-Extensions-for-NET-2008-CTP-Part-_high.mp4</video:content_loc>
         <video:duration>2143</video:duration>
         <video:publication_date>2008-06-05T20:33:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2174,7 +2174,7 @@ Parallel Extensions simplifies development by providing library-based support fo
         <video:title><![CDATA[Inside Parallel Extensions for .NET 2008 CTP Part 1]]></video:title>
         <video:description><![CDATA[
 Parallel Extensions simplifies development by providing library-based support for introducing concurrency into applications written with any .NET language, including C# and Visual Basic. It includes&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e843/abfce81c-bd4b-4962-acb0-c9f4153ae843/Inside-Parallel-Extensions-for-NET-2008-CTP-Part-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e843/abfce81c-bd4b-4962-acb0-c9f4153ae843/Inside-Parallel-Extensions-for-NET-2008-CTP-Part-_high.mp4</video:content_loc>
         <video:duration>3084</video:duration>
         <video:publication_date>2008-06-05T17:06:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2189,7 +2189,7 @@ Parallel Extensions simplifies development by providing library-based support fo
         <video:title><![CDATA[Expert to Expert: Contract Oriented Programming and Spec#]]></video:title>
         <video:description><![CDATA[
 The Spec# programming system is a new attempt at a more cost effective way to develop and maintain high-quality software.  Spec# is pronounced &amp;quot;Spec sharp&amp;quot; and can be written (and searched&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/da73/c8a38c76-1317-4baa-b13e-89c44aa5da73/Expert-to-Expert-Contract-Oriented-Programming-an_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/da73/c8a38c76-1317-4baa-b13e-89c44aa5da73/Expert-to-Expert-Contract-Oriented-Programming-an_high.mp4</video:content_loc>
         <video:duration>4500</video:duration>
         <video:publication_date>2008-05-27T18:27:52.0000000+00:00</video:publication_date>
       </video:video>
@@ -2203,7 +2203,7 @@ The Spec# programming system is a new attempt at a more cost effective way to de
         <video:thumbnail_loc>http://video.ch9.ms/ch9/db72/3e40a2f1-aa90-4da2-8b47-ab9e39dadb72/Russell-Hadley-The-Route-to-C-Code-Optimization_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Russell Hadley: The Route to C++ Code Optimization]]></video:title>
         <video:description><![CDATA[It&#39;s nice to write clean code (code that looks good, is organized, is easy for others to understand by reading it, etc). As developers we get to use great tools to implement algorithms in our favorite&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/db72/3e40a2f1-aa90-4da2-8b47-ab9e39dadb72/Russell-Hadley-The-Route-to-C-Code-Optimization_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/db72/3e40a2f1-aa90-4da2-8b47-ab9e39dadb72/Russell-Hadley-The-Route-to-C-Code-Optimization_high.mp4</video:content_loc>
         <video:duration>3074</video:duration>
         <video:publication_date>2008-05-20T18:43:14.0000000+00:00</video:publication_date>
       </video:video>
@@ -2217,7 +2217,7 @@ The Spec# programming system is a new attempt at a more cost effective way to de
         <video:thumbnail_loc>http://video.ch9.ms/ch9/ec9a/905f13a6-c6bf-465c-b892-1ac37a6bec9a/FeedSync-Synchronizing-the-Mesh_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[FeedSync: Synchronizing the Mesh]]></video:title>
         <video:description><![CDATA[Synch is one of those things that sounds much, much, much simpler than it actually is   Live Mesh is built with synchronization as a core primitive – every object in the system is synch-enabled, and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ec9a/905f13a6-c6bf-465c-b892-1ac37a6bec9a/FeedSync-Synchronizing-the-Mesh_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ec9a/905f13a6-c6bf-465c-b892-1ac37a6bec9a/FeedSync-Synchronizing-the-Mesh_high.mp4</video:content_loc>
         <video:duration>3365</video:duration>
         <video:publication_date>2008-04-25T16:30:46.0000000+00:00</video:publication_date>
       </video:video>
@@ -2231,7 +2231,7 @@ The Spec# programming system is a new attempt at a more cost effective way to de
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f58a/94f7fb12-d3db-4f7e-84b1-07f27183f58a/Abolade-Gbadegesin-Live-Mesh-Architecture_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Abolade Gbadegesin: Live Mesh Architecture]]></video:title>
         <video:description><![CDATA[Live Mesh integrates a smart client with a services cloud to make your files, devices and social mesh available wherever you are.  Developing it required solving two of the hardest problems around –&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f58a/94f7fb12-d3db-4f7e-84b1-07f27183f58a/Abolade-Gbadegesin-Live-Mesh-Architecture_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f58a/94f7fb12-d3db-4f7e-84b1-07f27183f58a/Abolade-Gbadegesin-Live-Mesh-Architecture_high.mp4</video:content_loc>
         <video:duration>3063</video:duration>
         <video:publication_date>2008-04-23T03:58:56.0000000+00:00</video:publication_date>
       </video:video>
@@ -2247,7 +2247,7 @@ The Spec# programming system is a new attempt at a more cost effective way to de
         <video:description><![CDATA[
 Dan Reed is Microsoft&#39;s Director of Scalable/Multi-Core Systems Research and head of the
 recently formed Universal Parallel Computing Research Centers (UPCRC): one at the University of California&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0c49/ddfabb6c-ef51-473d-abd4-36b0f36d0c49/Dan-Reed-On-the-ManyCore-Future-and-Parallelism-i_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0c49/ddfabb6c-ef51-473d-abd4-36b0f36d0c49/Dan-Reed-On-the-ManyCore-Future-and-Parallelism-i_high.mp4</video:content_loc>
         <video:duration>1690</video:duration>
         <video:publication_date>2008-04-10T19:42:12.0000000+00:00</video:publication_date>
       </video:video>
@@ -2261,7 +2261,7 @@ recently formed Universal Parallel Computing Research Centers (UPCRC): one at th
         <video:thumbnail_loc>http://video.ch9.ms/ch9/d866/70ec4162-44ef-4369-9582-7f58beb8d866/Andy-Ayers-Understanding-the-Phoenix-Compiler-Fra_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Andy Ayers: Understanding the Phoenix Compiler Framework]]></video:title>
         <video:description><![CDATA[The compiler gurus over in C&amp;#43;&amp;#43; World (we spend a lot of time in building 41) have just released the latest CTP of the Phoenix Compiler Framework. It&#39;s been a while since we&#39;ve learned about&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d866/70ec4162-44ef-4369-9582-7f58beb8d866/Andy-Ayers-Understanding-the-Phoenix-Compiler-Fra_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d866/70ec4162-44ef-4369-9582-7f58beb8d866/Andy-Ayers-Understanding-the-Phoenix-Compiler-Fra_high.mp4</video:content_loc>
         <video:duration>2535</video:duration>
         <video:publication_date>2008-04-09T19:19:36.0000000+00:00</video:publication_date>
       </video:video>
@@ -2276,7 +2276,7 @@ recently formed Universal Parallel Computing Research Centers (UPCRC): one at th
         <video:title><![CDATA[Brian Beckman: Project Quark - A New Beginning for Quantum Computing Rises from the Ashes of Theoret]]></video:title>
         <video:description><![CDATA[
 Software Architect and Astrophysicist Brian Beckman has a new job at Microsoft. No longer working with Erik Meijer on cutting edge developer tools and programming languages, Brian has joined a very&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5b64/99ea8ff9-8409-4364-b05d-c587cbe95b64/Brian-Beckman-Project-Quark-A-New-Beginning-for-Q_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5b64/99ea8ff9-8409-4364-b05d-c587cbe95b64/Brian-Beckman-Project-Quark-A-New-Beginning-for-Q_high.mp4</video:content_loc>
         <video:duration>1772</video:duration>
         <video:publication_date>2008-04-01T17:58:15.0000000+00:00</video:publication_date>
       </video:video>
@@ -2291,7 +2291,7 @@ Software Architect and Astrophysicist Brian Beckman has a new job at Microsoft. 
         <video:title><![CDATA[Expert to Expert: Erik Meijer and Bertrand Meyer - Objects, Contracts, Concurrency, Sleeping Barbers]]></video:title>
         <video:description><![CDATA[Bertrand Meyer is a programming language guru, computer scientist and arguably the uncle of object oriented programming . Bertrand created the
 Eiffel programming language. Eiffel is an&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/887e/387edb29-ab15-4b18-b5d9-dd4f1291887e/Expert-to-Expert-Erik-Meijer-and-Bertrand-Meyer-O_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/887e/387edb29-ab15-4b18-b5d9-dd4f1291887e/Expert-to-Expert-Erik-Meijer-and-Bertrand-Meyer-O_high.mp4</video:content_loc>
         <video:duration>4082</video:duration>
         <video:publication_date>2008-03-27T18:32:29.0000000+00:00</video:publication_date>
       </video:video>
@@ -2305,7 +2305,7 @@ Eiffel programming language. Eiffel is an&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9b8c/587aeecb-8002-4c71-a707-c2d2b7809b8c/John-Lam-and-Martin-Maly-Deep-DLR_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[John Lam and Martin Maly: Deep DLR]]></video:title>
         <video:description><![CDATA[Dynamic languages are becoming more popular than ever. Static runtimes (static type system is baked into the machine) like the CLR do not natively support languages that have no requirement for&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9b8c/587aeecb-8002-4c71-a707-c2d2b7809b8c/John-Lam-and-Martin-Maly-Deep-DLR_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9b8c/587aeecb-8002-4c71-a707-c2d2b7809b8c/John-Lam-and-Martin-Maly-Deep-DLR_high.mp4</video:content_loc>
         <video:duration>3730</video:duration>
         <video:publication_date>2008-03-24T13:03:04.0000000+00:00</video:publication_date>
       </video:video>
@@ -2320,7 +2320,7 @@ Eiffel programming language. Eiffel is an&amp;#8230;]]></video:description>
         <video:title><![CDATA[Joe Duffy and Igor Ostrovsky: Parallel LINQ under the hood]]></video:title>
         <video:description><![CDATA[Continuing our exploration of the 
 Parallel Computing Platform and the folks who think it up and build it, we sit down with software developers Joe Duffy (he wrote the original Parallel LINQ Think&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6e06/c2801863-61f2-4fc5-bb4e-c422098b6e06/Joe-Duffy-and-Igor-Ostrovsky-Parallel-LINQ-under-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6e06/c2801863-61f2-4fc5-bb4e-c422098b6e06/Joe-Duffy-and-Igor-Ostrovsky-Parallel-LINQ-under-_high.mp4</video:content_loc>
         <video:duration>3722</video:duration>
         <video:publication_date>2008-03-18T17:32:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2334,7 +2334,7 @@ Parallel Computing Platform and the folks who think it up and build it, we sit d
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7297/4362e24b-c251-47d2-b0d5-7d32e1ec7297/Dave-Campbell-SQL-Server-Data-Services-and-the-Fu_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Dave Campbell: SQL Server Data Services and the Future of Data in the Cloud]]></video:title>
         <video:description><![CDATA[Continuing with the Technical Fellow interviews on Channel 9, meet Dave Campbell. From his bio: &amp;quot;David Campbell is a Microsoft Technical Fellow working in the Data Storage Platform division where&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7297/4362e24b-c251-47d2-b0d5-7d32e1ec7297/Dave-Campbell-SQL-Server-Data-Services-and-the-Fu_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7297/4362e24b-c251-47d2-b0d5-7d32e1ec7297/Dave-Campbell-SQL-Server-Data-Services-and-the-Fu_high.mp4</video:content_loc>
         <video:duration>2710</video:duration>
         <video:publication_date>2008-03-06T19:56:49.0000000+00:00</video:publication_date>
       </video:video>
@@ -2348,7 +2348,7 @@ Parallel Computing Platform and the folks who think it up and build it, we sit d
         <video:thumbnail_loc>http://video.ch9.ms/ch9/c8df/9dc2518b-b433-4877-a3be-e9c8ce11c8df/Stephan-T-Lavavej-Digging-into-C-Technical-Report_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Stephan T. Lavavej: Digging into C++ Technical Report 1 (TR1)]]></video:title>
         <video:description><![CDATA[From Effective C&amp;#43;&amp;#43;, Third Edition:TR1 (&amp;quot;Technical Report 1&amp;quot;) is a specification for new functionality being added to C&amp;#43;&amp;#43;&#39;s standard library. This functionality takes the form&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c8df/9dc2518b-b433-4877-a3be-e9c8ce11c8df/Stephan-T-Lavavej-Digging-into-C-Technical-Report_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c8df/9dc2518b-b433-4877-a3be-e9c8ce11c8df/Stephan-T-Lavavej-Digging-into-C-Technical-Report_high.mp4</video:content_loc>
         <video:duration>3647</video:duration>
         <video:publication_date>2008-02-25T19:50:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2363,7 +2363,7 @@ Parallel Computing Platform and the folks who think it up and build it, we sit d
         <video:title><![CDATA[Joe Duffy, Huseyin Yildiz, Daan Leijen, Stephen Toub - Parallel Extensions: Inside the Task Parallel]]></video:title>
         <video:description><![CDATA[Joe Duffy, Huseyin Yildiz, Daan Leijen, Stephen Toub and I gathered in a conference room in building 122 to dig into the Task Parallel Library infrastructure. You&#39;ve heard about the
 Parallel&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7212/5b1f402f-c68d-4994-af74-bf01c48b7212/Joe-Duffy-Huseyin-Yildiz-Daan-Leijen-Stephen-Toub_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7212/5b1f402f-c68d-4994-af74-bf01c48b7212/Joe-Duffy-Huseyin-Yildiz-Daan-Leijen-Stephen-Toub_high.mp4</video:content_loc>
         <video:duration>3761</video:duration>
         <video:publication_date>2008-02-19T19:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2377,7 +2377,7 @@ Parallel&amp;#8230;]]></video:description>
         <video:thumbnail_loc>https://sec.ch9.ms/ch9/5e52/08118316-3022-485d-885e-cbda18615e52/Burton-Smith-On-General-Purpose-Super-Computing-a_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Burton Smith: On General Purpose Super Computing and the History and Future of Parallelism]]></video:title>
         <video:description><![CDATA[Burton Smith is a Technical Fellow at Microsoft who thinks about ways in which our platform needs to be structured to support general purpose computers that will soon have clustered super computer&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5e52/08118316-3022-485d-885e-cbda18615e52/Burton-Smith-On-General-Purpose-Super-Computing-a_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5e52/08118316-3022-485d-885e-cbda18615e52/Burton-Smith-On-General-Purpose-Super-Computing-a_high.mp4</video:content_loc>
         <video:duration>3922</video:duration>
         <video:publication_date>2008-02-13T16:34:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2393,7 +2393,7 @@ Parallel&amp;#8230;]]></video:description>
         <video:description><![CDATA[I attended 
 Lang.NET 2008 and, as expected, learned a great deal from some of the industry&#39;s finest language and compiler minds. One of the most interesting talks was
 Gilad Bracha&#39;s session on his&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c2ed/938cbae7-0a74-4a90-aaea-0e918015c2ed/Erik-Meijer-Gilad-Bracha-Mads-Torgersen-Perspecti_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c2ed/938cbae7-0a74-4a90-aaea-0e918015c2ed/Erik-Meijer-Gilad-Bracha-Mads-Torgersen-Perspecti_high.mp4</video:content_loc>
         <video:duration>3142</video:duration>
         <video:publication_date>2008-02-05T19:52:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2408,7 +2408,7 @@ Gilad Bracha&#39;s session on his&amp;#8230;]]></video:description>
         <video:title><![CDATA[Vittorio Bertocci and Caleb Baker: Understanding CardSpace and the Complexities of Identity]]></video:title>
         <video:description><![CDATA[What&#39;s going on in CardSpace World these days?
 Recently (and fortuitously), Vittorio Bertocci and Caleb Baker were meeting in Vittorio&#39;s office (probably discussing some top secret CardSpace&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/45c1/1ee0e038-e4a7-45e5-9cf2-82a8414f45c1/Vittorio-Bertocci-and-Caleb-Baker-Understanding-C_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/45c1/1ee0e038-e4a7-45e5-9cf2-82a8414f45c1/Vittorio-Bertocci-and-Caleb-Baker-Understanding-C_high.mp4</video:content_loc>
         <video:duration>2778</video:duration>
         <video:publication_date>2008-01-22T00:14:01.0000000+00:00</video:publication_date>
       </video:video>
@@ -2422,7 +2422,7 @@ Recently (and fortuitously), Vittorio Bertocci and Caleb Baker were meeting in V
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b165/0cb5f00d-a6da-4742-b04e-ffdce954b165/MeijerFunctional_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Erik Meijer: Functional Programming]]></video:title>
         <video:description><![CDATA[I caught up with the venerable Erik Meijer recently to discuss functional programming languages, academic versus real-world application of functional programming languages (there are very good reasons&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b165/0cb5f00d-a6da-4742-b04e-ffdce954b165/MeijerFunctional_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b165/0cb5f00d-a6da-4742-b04e-ffdce954b165/MeijerFunctional_high.mp4</video:content_loc>
         <video:duration>4077</video:duration>
         <video:publication_date>2008-01-18T19:13:04.0000000+00:00</video:publication_date>
       </video:video>
@@ -2437,7 +2437,7 @@ Recently (and fortuitously), Vittorio Bertocci and Caleb Baker were meeting in V
         <video:title><![CDATA[Peter Sestoft: Inside The C5 Generic Collection Library for C# and CLI]]></video:title>
         <video:description><![CDATA[While in Copenhagen recently, I was able to spend some time with computer scientist
 Peter Sestoft. He&#39;s currently a professor at the Copenhagen IT University and he and colleagues have created&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ddc0/6f686f36-dc2f-4c3a-85f4-ec454f2cddc0/Peter-Sestoft-C5-Generic-Collection-Library-for-C_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ddc0/6f686f36-dc2f-4c3a-85f4-ec454f2cddc0/Peter-Sestoft-C5-Generic-Collection-Library-for-C_high.mp4</video:content_loc>
         <video:duration>2714</video:duration>
         <video:publication_date>2008-01-07T19:55:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2451,7 +2451,7 @@ Peter Sestoft. He&#39;s currently a professor at the Copenhagen IT University an
         <video:thumbnail_loc>http://video.ch9.ms/ch9/ae7f/304a49be-460e-4826-a4e4-ac3cf15aae7f/Everything-you-wanted-to-know-about-VC-deployment_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Everything you wanted to know about VC++ deployment but were afraid to ask]]></video:title>
         <video:description><![CDATA[After C&amp;#43;&amp;#43; code has been written, compiled and tested it&#39;s now time for figuring out how to deploy it successfully on n number of users&#39; machines and their various configurations... This is no&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ae7f/304a49be-460e-4826-a4e4-ac3cf15aae7f/Everything-you-wanted-to-know-about-VC-deployment_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ae7f/304a49be-460e-4826-a4e4-ac3cf15aae7f/Everything-you-wanted-to-know-about-VC-deployment_high.mp4</video:content_loc>
         <video:duration>3154</video:duration>
         <video:publication_date>2008-01-02T19:32:51.0000000+00:00</video:publication_date>
       </video:video>
@@ -2466,7 +2466,7 @@ Peter Sestoft. He&#39;s currently a professor at the Copenhagen IT University an
         <video:title><![CDATA[Mark Russinovich: On Working at Microsoft, Windows Server 2008 Kernel, MinWin vs ServerCore, HyperV,]]></video:title>
         <video:description><![CDATA[I recently sat down with Technical Fellow and 
 SysInternals founder Mark Russinovich to dig a bit into what&#39;s new in the Windows Server 2008 kernel. Of course, we talk about many things including&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/70c3/317d0f47-50ad-4a62-aeb4-92c46d0c70c3/Mark-Russinovich-On-Working-at-Microsoft-Windows-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/70c3/317d0f47-50ad-4a62-aeb4-92c46d0c70c3/Mark-Russinovich-On-Working-at-Microsoft-Windows-_high.mp4</video:content_loc>
         <video:duration>2463</video:duration>
         <video:publication_date>2007-12-14T19:01:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2482,7 +2482,7 @@ SysInternals founder Mark Russinovich to dig a bit into what&#39;s new in the Wi
         <video:description><![CDATA[
 You&#39;ve seen a few conversations on Channel 9 about Microsoft&#39;s 
 Entity Framework. Well, it&#39;s time for another one, but with a new twist...Brian Beckman recently had a deep technical chat with Sam&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/85b2/c1d21a7c-29aa-4cca-9062-03dc598485b2/Expert-to-Expert-Brian-Beckman-and-Sam-Druker-Dee_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/85b2/c1d21a7c-29aa-4cca-9062-03dc598485b2/Expert-to-Expert-Brian-Beckman-and-Sam-Druker-Dee_high.mp4</video:content_loc>
         <video:duration>3821</video:duration>
         <video:publication_date>2007-12-05T16:53:29.0000000+00:00</video:publication_date>
       </video:video>
@@ -2496,7 +2496,7 @@ Entity Framework. Well, it&#39;s time for another one, but with a new twist...Br
         <video:thumbnail_loc>http://video.ch9.ms/ch9/d590/f5f9d77f-83c3-4c8a-90b8-214c8b58d590/Brian-Beckman-Dont-fear-the-Monads_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Brian Beckman: Don&#39;t fear the Monad]]></video:title>
         <video:description><![CDATA[Functional programming is increasing in popularity these days given the inherent problems with shared mutable state that is rife in the imperative world. As we march on to a world of multi and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/d590/f5f9d77f-83c3-4c8a-90b8-214c8b58d590/Brian-Beckman-Dont-fear-the-Monads_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/d590/f5f9d77f-83c3-4c8a-90b8-214c8b58d590/Brian-Beckman-Dont-fear-the-Monads_high.mp4</video:content_loc>
         <video:duration>4029</video:duration>
         <video:publication_date>2007-11-22T18:28:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2510,7 +2510,7 @@ Entity Framework. Well, it&#39;s time for another one, but with a new twist...Br
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8aeb/fa775a06-a583-4976-8e66-911e70628aeb/Programming-in-the-Age-of-Concurrency-Anders-Hejl_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Programming in the Age of Concurrency - Anders Hejlsberg and Joe Duffy: Concurrent Programming with ]]></video:title>
         <video:description><![CDATA[Microsoft is developing a number of technologies to simplify the expression of parallelism in code. An example of this work is Parallel Extensions for the .NET Framework (PFX), a managed programming&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8aeb/fa775a06-a583-4976-8e66-911e70628aeb/Programming-in-the-Age-of-Concurrency-Anders-Hejl_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8aeb/fa775a06-a583-4976-8e66-911e70628aeb/Programming-in-the-Age-of-Concurrency-Anders-Hejl_high.mp4</video:content_loc>
         <video:duration>2047</video:duration>
         <video:publication_date>2007-10-12T17:21:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2524,7 +2524,7 @@ Entity Framework. Well, it&#39;s time for another one, but with a new twist...Br
         <video:thumbnail_loc>http://video.ch9.ms/ch9/79e3/fcd3b79d-b958-41c4-8221-96095a7479e3/Ale-Contenti-and-Louis-Lafreniere-Understanding-E_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Ale Contenti and Louis Lafreniere: Understanding Exceptions and When/How to Handle Them]]></video:title>
         <video:description><![CDATA[Sometimes, things go wrong when code executes. You can&#39;t predict when this will happen or even why, but you can write code to handle exceptional problems. If you&#39;re lucky, the problem will carry with&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/79e3/fcd3b79d-b958-41c4-8221-96095a7479e3/Ale-Contenti-and-Louis-Lafreniere-Understanding-E_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/79e3/fcd3b79d-b958-41c4-8221-96095a7479e3/Ale-Contenti-and-Louis-Lafreniere-Understanding-E_high.mp4</video:content_loc>
         <video:duration>3336</video:duration>
         <video:publication_date>2007-09-21T00:47:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2542,7 +2542,7 @@ interviewed
 Byron Cook, a researcher at 
 MSR Cambridge, about his work on 
 Terminator, which is a proof-based analysis tool used for proving that good things will eventually&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6be1/8f62589f-024f-4874-acb9-ff4c7b176be1/Byron-Cook-Inside-Terminator_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6be1/8f62589f-024f-4874-acb9-ff4c7b176be1/Byron-Cook-Inside-Terminator_high.mp4</video:content_loc>
         <video:duration>3047</video:duration>
         <video:publication_date>2007-09-13T21:24:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2556,7 +2556,7 @@ Terminator, which is a proof-based analysis tool used for proving that good thin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6bd5/0612f1b9-e74d-456d-b706-cad31aae6bd5/Patrick-Dussud-Garbage-Collection-Past-Present-an_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Patrick Dussud: Garbage Collection - Past, Present and Future]]></video:title>
         <video:description><![CDATA[I finally got a chance to sit down and talk to Patrick Dussud, one of the CLR founders and chief architect of the .NET Garbage Collector, or GC, as developers call it. I wanted to learn about what a&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6bd5/0612f1b9-e74d-456d-b706-cad31aae6bd5/Patrick-Dussud-Garbage-Collection-Past-Present-an_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6bd5/0612f1b9-e74d-456d-b706-cad31aae6bd5/Patrick-Dussud-Garbage-Collection-Past-Present-an_high.mp4</video:content_loc>
         <video:duration>3858</video:duration>
         <video:publication_date>2007-07-27T19:05:54.0000000+00:00</video:publication_date>
       </video:video>
@@ -2570,7 +2570,7 @@ Terminator, which is a proof-based analysis tool used for proving that good thin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/c1a5/f1f788a8-4e46-49cb-bcf7-04412c6ec1a5/Nick-Baker-XBox-360-Architecture_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Nick Baker: XBox 360 Architecture]]></video:title>
         <video:description><![CDATA[&amp;#65279;What is the XBox 360, exactly? How do you go about designing and building a game console that meets the high standards of today&#39;s gamers and handles the computational pressures of today&#39;s&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c1a5/f1f788a8-4e46-49cb-bcf7-04412c6ec1a5/Nick-Baker-XBox-360-Architecture_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c1a5/f1f788a8-4e46-49cb-bcf7-04412c6ec1a5/Nick-Baker-XBox-360-Architecture_high.mp4</video:content_loc>
         <video:duration>2189</video:duration>
         <video:publication_date>2007-05-25T18:36:30.0000000+00:00</video:publication_date>
       </video:video>
@@ -2584,7 +2584,7 @@ Terminator, which is a proof-based analysis tool used for proving that good thin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8b5f/b9ecef99-e7e5-45a2-b047-b850a5cf8b5f/Luke-Hoban-Orcas-Compiling-LINQ-C-Futures-Intelli_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Luke Hoban: Orcas - Compiling LINQ, C# Futures, Intellisense]]></video:title>
         <video:description><![CDATA[Meet Luke Hoban, Program Manager on the C# Compiler team. Here, we talk about how LINQ works, from a compiler point of view. As you know by now, LINQ is a construct that is built of new language level&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8b5f/b9ecef99-e7e5-45a2-b047-b850a5cf8b5f/Luke-Hoban-Orcas-Compiling-LINQ-C-Futures-Intelli_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8b5f/b9ecef99-e7e5-45a2-b047-b850a5cf8b5f/Luke-Hoban-Orcas-Compiling-LINQ-C-Futures-Intelli_high.mp4</video:content_loc>
         <video:duration>2499</video:duration>
         <video:publication_date>2007-05-18T01:25:39.0000000+00:00</video:publication_date>
       </video:video>
@@ -2598,7 +2598,7 @@ Terminator, which is a proof-based analysis tool used for proving that good thin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/fa09/bf4b64fd-faf8-4d22-8a62-6fc8214cfa09/Scott-Guthrie-Silverlight-and-the-Cross-Platform-_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Scott Guthrie: Silverlight and the Cross-Platform CLR]]></video:title>
         <video:description><![CDATA[Silverlight was announced a few weeks ago as a cross-platform rich media runtime.  Today we announced that Silverlight is not only a great media platform; it is cross-platform .NET.  I sat down with&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/fa09/bf4b64fd-faf8-4d22-8a62-6fc8214cfa09/Scott-Guthrie-Silverlight-and-the-Cross-Platform-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/fa09/bf4b64fd-faf8-4d22-8a62-6fc8214cfa09/Scott-Guthrie-Silverlight-and-the-Cross-Platform-_high.mp4</video:content_loc>
         <video:duration>2195</video:duration>
         <video:publication_date>2007-04-30T17:39:08.0000000+00:00</video:publication_date>
       </video:video>
@@ -2612,7 +2612,7 @@ Terminator, which is a proof-based analysis tool used for proving that good thin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/e47a/61cf12b5-b9e8-4647-92ea-a086efc7e47a/Ale-Contenti-VC-Safe-Libraries-and-More_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Ale Contenti: VC++ Safe Libraries and More]]></video:title>
         <video:description><![CDATA[Ale Contenti is a Senior Development Lead on the VC&amp;#43;&amp;#43; team. He works primarily on Safe Libraries and associated constructs. Here, we learn about what&#39;s new in VC SL (checked iterators are&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e47a/61cf12b5-b9e8-4647-92ea-a086efc7e47a/Ale-Contenti-VC-Safe-Libraries-and-More_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e47a/61cf12b5-b9e8-4647-92ea-a086efc7e47a/Ale-Contenti-VC-Safe-Libraries-and-More_high.mp4</video:content_loc>
         <video:duration>2980</video:duration>
         <video:publication_date>2007-04-18T18:23:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2626,7 +2626,7 @@ Terminator, which is a proof-based analysis tool used for proving that good thin
         <video:thumbnail_loc>http://video.ch9.ms/ch9/0a21/9fce8645-4864-4c6b-9699-4f0a01f40a21/Dr-Peter-Chen-Entity-Relationship-Model-Past-Pres_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Dr. Peter Chen: Entity Relationship Model - Past, Present and Future]]></video:title>
         <video:description><![CDATA[Dr. Peter Chen’s work is a cornerstone of software engineering, in particular Computer-Aided Software Engineering (CASE). In the late 80’s and early 90’s, IBM’s Application Development Cycle&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0a21/9fce8645-4864-4c6b-9699-4f0a01f40a21/Dr-Peter-Chen-Entity-Relationship-Model-Past-Pres_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0a21/9fce8645-4864-4c6b-9699-4f0a01f40a21/Dr-Peter-Chen-Entity-Relationship-Model-Past-Pres_high.mp4</video:content_loc>
         <video:duration>3618</video:duration>
         <video:publication_date>2007-04-05T20:39:23.0000000+00:00</video:publication_date>
       </video:video>
@@ -2656,7 +2656,7 @@ Winternals; a&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/1d75/783e28b4-c858-4eba-9cce-bb97889f1d75/Windows-Vista-PreOS-Environment-What-happens-befo_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows Vista PreOS Environment: What happens before the OS loads]]></video:title>
         <video:description><![CDATA[What happens, exactly, when you turn your computer on? Yeah, you see the black screen and words scroll by, then, finally, the Vista startup sound... But, there&#39;s a good deal of code that runs in this&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/1d75/783e28b4-c858-4eba-9cce-bb97889f1d75/Windows-Vista-PreOS-Environment-What-happens-befo_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/1d75/783e28b4-c858-4eba-9cce-bb97889f1d75/Windows-Vista-PreOS-Environment-What-happens-befo_high.mp4</video:content_loc>
         <video:duration>2096</video:duration>
         <video:publication_date>2007-03-19T20:53:36.0000000+00:00</video:publication_date>
       </video:video>
@@ -2670,7 +2670,7 @@ Winternals; a&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7921/fa3a49f0-e01d-4b89-a568-ad621d877921/Processes-Gone-Wild-Understanding-Windows-Vista-R_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Processes Gone Wild: Understanding Windows Vista Reliability Mechanics]]></video:title>
         <video:description><![CDATA[Ever wonder about the physiology of a dying process? How, exactly, does an OS, like Windows Vista for example, know when a process is dying or hung or just out of its mind? What does Vista do,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7921/fa3a49f0-e01d-4b89-a568-ad621d877921/Processes-Gone-Wild-Understanding-Windows-Vista-R_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7921/fa3a49f0-e01d-4b89-a568-ad621d877921/Processes-Gone-Wild-Understanding-Windows-Vista-R_high.mp4</video:content_loc>
         <video:duration>2966</video:duration>
         <video:publication_date>2007-03-16T20:53:58.0000000+00:00</video:publication_date>
       </video:video>
@@ -2684,7 +2684,7 @@ Winternals; a&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/bffc/cc5a5ebf-4f80-422c-b808-d7113567bffc/UAC-What-How-Why_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[UAC - What. How. Why.]]></video:title>
         <video:description><![CDATA[There has been a large amount of confusion and concern out there about Vista&#39;s new user security model (Everybody runs as Standard User, a new user account security construct, UAC, acts as gatekeeper&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/bffc/cc5a5ebf-4f80-422c-b808-d7113567bffc/UAC-What-How-Why_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/bffc/cc5a5ebf-4f80-422c-b808-d7113567bffc/UAC-What-How-Why_high.mp4</video:content_loc>
         <video:duration>3875</video:duration>
         <video:publication_date>2007-03-05T18:40:05.0000000+00:00</video:publication_date>
       </video:video>
@@ -2698,7 +2698,7 @@ Winternals; a&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/4145/688f7f49-2c11-4835-aa1c-0d3643514145/Transactional-Vista-Kernel-Transaction-Manager-an_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Transactional Vista: Kernel Transaction Manager and friends (TxF, TxR)]]></video:title>
         <video:description><![CDATA[Windows Vista is the first general purpose consumer-grade OS that provides transactional support (ACID) for file IO and Windows Registry modification operations (these are only two of the consumers of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/4145/688f7f49-2c11-4835-aa1c-0d3643514145/Transactional-Vista-Kernel-Transaction-Manager-an_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/4145/688f7f49-2c11-4835-aa1c-0d3643514145/Transactional-Vista-Kernel-Transaction-Manager-an_high.mp4</video:content_loc>
         <video:duration>2227</video:duration>
         <video:publication_date>2007-03-01T16:48:29.0000000+00:00</video:publication_date>
       </video:video>
@@ -2768,7 +2768,7 @@ Winternals; a&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/cebb/4c46622e-33b0-4da0-8f2e-2c0253dccebb/The-Advancement-of-Windows-Michael-Fortin-Windows_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[The Advancement of Windows: Michael Fortin - Windows Vista SuperFetch]]></video:title>
         <video:description><![CDATA[Michael Fortin is a Distingushed Engineer and leads the team at Microsoft responsible for the overall performance of Windows (the folks who think up and write the algorithms that help make Windows&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/cebb/4c46622e-33b0-4da0-8f2e-2c0253dccebb/The-Advancement-of-Windows-Michael-Fortin-Windows_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/cebb/4c46622e-33b0-4da0-8f2e-2c0253dccebb/The-Advancement-of-Windows-Michael-Fortin-Windows_high.mp4</video:content_loc>
         <video:duration>2892</video:duration>
         <video:publication_date>2006-10-06T22:28:04.0000000+00:00</video:publication_date>
       </video:video>
@@ -2783,7 +2783,7 @@ Winternals; a&amp;#8230;]]></video:description>
         <video:title><![CDATA[Vittorio Bertocci: WS-Trust - Under the Hood]]></video:title>
         <video:description><![CDATA[Most developers will never need to dig into the gory details of WS-Trust and WS-Security: CardSpace, WCF and non-Microsoft stacks take care of the details for you.
 But you’re not like the others, are&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c5bb/624a84b9-861e-4ead-ab7d-df6b1981c5bb/Vittorio-Bertocci-WS-Trust-Under-the-Hood_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c5bb/624a84b9-861e-4ead-ab7d-df6b1981c5bb/Vittorio-Bertocci-WS-Trust-Under-the-Hood_high.mp4</video:content_loc>
         <video:duration>3331</video:duration>
         <video:publication_date>2006-10-04T18:24:36.0000000+00:00</video:publication_date>
       </video:video>
@@ -2799,7 +2799,7 @@ But you’re not like the others, are&amp;#8230;]]></video:description>
         <video:description><![CDATA[
 From the kernel to the shell, Windows Vista is a very different OS than XPSP2. How so?
 Here, Charles interviews Architect Narayanan Ganapathy whose team of highly skilled engineers write the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ef23/fe79b114-398e-4c7c-b449-321b89e5ef23/The-Advancement-of-Windows-Narayanan-Ganapathy-Wi_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ef23/fe79b114-398e-4c7c-b449-321b89e5ef23/The-Advancement-of-Windows-Narayanan-Ganapathy-Wi_high.mp4</video:content_loc>
         <video:duration>3362</video:duration>
         <video:publication_date>2006-09-29T21:25:06.0000000+00:00</video:publication_date>
       </video:video>
@@ -2813,7 +2813,7 @@ Here, Charles interviews Architect Narayanan Ganapathy whose team of highly skil
         <video:thumbnail_loc>http://video.ch9.ms/ch9/efce/00fbed9a-a4c8-4733-a414-f3b0d8b5efce/Arun-Kishan-Process-Management-in-Windows-Vista_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Arun Kishan - Process Management in Windows Vista]]></video:title>
         <video:description><![CDATA[Ever wonder how threads and processes are managed in Windows? What&#39;s new in Windows Vista in terms of Process Management? Vista introduces a new type of process called a protected process. What are&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/efce/00fbed9a-a4c8-4733-a414-f3b0d8b5efce/Arun-Kishan-Process-Management-in-Windows-Vista_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/efce/00fbed9a-a4c8-4733-a414-f3b0d8b5efce/Arun-Kishan-Process-Management-in-Windows-Vista_high.mp4</video:content_loc>
         <video:duration>3371</video:duration>
         <video:publication_date>2006-09-11T18:28:42.0000000+00:00</video:publication_date>
       </video:video>
@@ -2829,7 +2829,7 @@ Here, Charles interviews Architect Narayanan Ganapathy whose team of highly skil
         <video:description><![CDATA[Recently, we visited MSR Cambridge(UK) to meet some of the great minds working there. In this case, we were fortunate enough to get an hour&#39;s time with
 Simon Peyton-Jones and
 Tim Harris, who are&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e4e3/8f242a28-ff1c-4540-bd69-c287548ee4e3/Programming-in-the-Age-of-Concurrency-Software-Tr_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e4e3/8f242a28-ff1c-4540-bd69-c287548ee4e3/Programming-in-the-Age-of-Concurrency-Software-Tr_high.mp4</video:content_loc>
         <video:duration>3440</video:duration>
         <video:publication_date>2006-09-01T20:51:39.0000000+00:00</video:publication_date>
       </video:video>
@@ -2844,7 +2844,7 @@ Tim Harris, who are&amp;#8230;]]></video:description>
         <video:title><![CDATA[Programming in the Age of Concurrency: The Accelerator Project]]></video:title>
         <video:description><![CDATA[
 David Tarditi and Sidd Puri are doing some really cool work over in Microsoft Research. They&#39;ve built a development technology, Accelerator, that  &amp;quot;provides a high-level data-parallel&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b080/c573071f-b1bc-4963-8d28-99ae2afab080/Programming-in-the-Age-of-Concurrency-The-Acceler_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b080/c573071f-b1bc-4963-8d28-99ae2afab080/Programming-in-the-Age-of-Concurrency-The-Acceler_high.mp4</video:content_loc>
         <video:duration>2667</video:duration>
         <video:publication_date>2006-08-25T16:58:45.0000000+00:00</video:publication_date>
       </video:video>
@@ -2859,7 +2859,7 @@ David Tarditi and Sidd Puri are doing some really cool work over in Microsoft Re
         <video:title><![CDATA[Singularity IV: Return of the UI]]></video:title>
         <video:description><![CDATA[Here is the long-awaited demo of the latest incarnation of Singularity, a research operating system written primarily in safe C#. See Singularity III: Return of the SIP,
 here. ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5b51/9c5ff55b-4c16-450f-bd66-939179905b51/Singularity-IV-Return-of-the-UI_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5b51/9c5ff55b-4c16-450f-bd66-939179905b51/Singularity-IV-Return-of-the-UI_high.mp4</video:content_loc>
         <video:duration>889</video:duration>
         <video:publication_date>2006-08-18T21:18:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2873,7 +2873,7 @@ here. ]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9175/41ad13d1-c28e-46a1-8396-3d3871429175/Singularity-III-Revenge-of-the-SIP_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Singularity III: Revenge of the SIP]]></video:title>
         <video:description><![CDATA[It&#39;s been a while since we checked in with the Singularity folks over in MSR Redmond. You know, the usual suspects like Jim Larus and Galen Hunt. So, Charles went and visited them recently to see&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9175/41ad13d1-c28e-46a1-8396-3d3871429175/Singularity-III-Revenge-of-the-SIP_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9175/41ad13d1-c28e-46a1-8396-3d3871429175/Singularity-III-Revenge-of-the-SIP_high.mp4</video:content_loc>
         <video:duration>3614</video:duration>
         <video:publication_date>2006-08-18T21:16:17.0000000+00:00</video:publication_date>
       </video:video>
@@ -2888,7 +2888,7 @@ here. ]]></video:description>
         <video:title><![CDATA[Doron Holan - Kernel Mode Driver Framework]]></video:title>
         <video:description><![CDATA[
 It&#39;s hard to write kernel mode drivers. Real hard. In fact, it&#39;s hard to believe how hard it is. Well, the Windows Driver People have been working tirelessly to make it a little less hard (not easy)&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b110/05b249b2-bb79-49ee-b472-486f6e39b110/Doron-Holan-Kernel-Mode-Driver-Framework_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b110/05b249b2-bb79-49ee-b472-486f6e39b110/Doron-Holan-Kernel-Mode-Driver-Framework_high.mp4</video:content_loc>
         <video:duration>2597</video:duration>
         <video:publication_date>2006-08-15T18:42:53.0000000+00:00</video:publication_date>
       </video:video>
@@ -2903,7 +2903,7 @@ It&#39;s hard to write kernel mode drivers. Real hard. In fact, it&#39;s hard to
         <video:title><![CDATA[Barry Bond: Emulation, Emulation, Emulation]]></video:title>
         <video:description><![CDATA[
 Barry Bond is an Architect who lives and breathes software emulation of hardware. What is emulation? How does it work? How do you inhale it? Well, watch, listen and learn. We dig into this important&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9daa/1dfa0f1d-0ce4-4ca5-8c99-6f623a3c9daa/Barry-Bond-Emulation-Emulation-Emulation_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9daa/1dfa0f1d-0ce4-4ca5-8c99-6f623a3c9daa/Barry-Bond-Emulation-Emulation-Emulation_high.mp4</video:content_loc>
         <video:duration>2201</video:duration>
         <video:publication_date>2006-08-10T16:06:37.0000000+00:00</video:publication_date>
       </video:video>
@@ -2918,7 +2918,7 @@ Barry Bond is an Architect who lives and breathes software emulation of hardware
         <video:title><![CDATA[PhotoSynth: What. How. Why.]]></video:title>
         <video:description><![CDATA[Blaise Aguera y Arcas is an Architect of 
 PhotoSynth, which is a super cool 3-D image &amp;quot;tourism&amp;quot; application that enables a new methodology for exploring related groups of images using a&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/cc5b/0e630166-a1f6-4437-ae90-d7710221cc5b/BlaisePhotoSynth_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/cc5b/0e630166-a1f6-4437-ae90-d7710221cc5b/BlaisePhotoSynth_high.mp4</video:content_loc>
         <video:duration>2268</video:duration>
         <video:publication_date>2006-07-28T17:30:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2933,7 +2933,7 @@ PhotoSynth, which is a super cool 3-D image &amp;quot;tourism&amp;quot; applicat
         <video:title><![CDATA[CCR Programming - Jeffrey Richter and George Chrysanthakopoulos]]></video:title>
         <video:description><![CDATA[Do you remember our introduction to the Concurrency and Coordination Runtime
 (CCR) with George Chrysanthakopoulos? What about our discussion with the team that implemented a robotics framework on top&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e1d0/3d17e8b1-4a15-4400-8db0-e34e6b72e1d0/CCR-Programming-Jeffrey-Richter-and-George-Chrysa_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e1d0/3d17e8b1-4a15-4400-8db0-e34e6b72e1d0/CCR-Programming-Jeffrey-Richter-and-George-Chrysa_high.mp4</video:content_loc>
         <video:duration>3706</video:duration>
         <video:publication_date>2006-07-24T18:37:41.0000000+00:00</video:publication_date>
       </video:video>
@@ -2947,7 +2947,7 @@ PhotoSynth, which is a super cool 3-D image &amp;quot;tourism&amp;quot; applicat
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8a24/7676148f-11b9-4eb2-b8b6-8ae7a9768a24/SQL-Everywhere-Edition-What-How-Why_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[&#39;SQL Everywhere Edition&#39; - What. How. Why.]]></video:title>
         <video:description><![CDATA[Meet some of the minds behind &#39;SQL Everywhere Edition&#39;, a database technology that, among other things, enables you to embed a database right into your Windows application that you can program against&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8a24/7676148f-11b9-4eb2-b8b6-8ae7a9768a24/SQL-Everywhere-Edition-What-How-Why_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8a24/7676148f-11b9-4eb2-b8b6-8ae7a9768a24/SQL-Everywhere-Edition-What-How-Why_high.mp4</video:content_loc>
         <video:duration>3503</video:duration>
         <video:publication_date>2006-07-21T15:56:59.0000000+00:00</video:publication_date>
       </video:video>
@@ -2965,7 +2965,7 @@ PhotoSynth, which is a super cool 3-D image &amp;quot;tourism&amp;quot; applicat
 
 
 &amp;#65279;I recently caught up with some of the technical minds behind ADO.NET&#39;s Entity Framework: Architect Michael Pizzo, Technical Lead Pablo Castro and Director of Program Management Britt&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8f8a/aad46857-69a1-4132-af98-9d3b34e18f8a/ADONET-Entity-Framework-What-How-Why_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8f8a/aad46857-69a1-4132-af98-9d3b34e18f8a/ADONET-Entity-Framework-What-How-Why_high.mp4</video:content_loc>
         <video:duration>3298</video:duration>
         <video:publication_date>2006-07-19T18:35:13.0000000+00:00</video:publication_date>
       </video:video>
@@ -2979,7 +2979,7 @@ PhotoSynth, which is a super cool 3-D image &amp;quot;tourism&amp;quot; applicat
         <video:thumbnail_loc>http://video.ch9.ms/ch9/a0db/20b2f3f0-7300-4a08-b270-3b43c33da0db/Rob-Relyea-Theres-Something-About-XAML_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Rob Relyea - There&#39;s Something About XAML]]></video:title>
         <video:description><![CDATA[Join Charles and Channel 9 special correspondent, Dr. Sneath, as we interview Rob Relyea about XAML&#39;s past, present and future. Here, we dig into how XAML works and why it is desiged the way it is.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/a0db/20b2f3f0-7300-4a08-b270-3b43c33da0db/Rob-Relyea-Theres-Something-About-XAML_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/a0db/20b2f3f0-7300-4a08-b270-3b43c33da0db/Rob-Relyea-Theres-Something-About-XAML_high.mp4</video:content_loc>
         <video:duration>3385</video:duration>
         <video:publication_date>2006-07-05T23:12:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -2994,7 +2994,7 @@ PhotoSynth, which is a super cool 3-D image &amp;quot;tourism&amp;quot; applicat
         <video:title><![CDATA[Diving into the Vista Heap]]></video:title>
         <video:description><![CDATA[
 We recently interviewed Adrian Marinescu, lead developer on the Windows Kernel team focusing on the Heap Manager and associated technologies. The Heap Manager plays a big role in shaping system&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7eab/75df256e-5d7f-43be-a0cc-b8bdc8217eab/Diving-into-the-Vista-Heap_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7eab/75df256e-5d7f-43be-a0cc-b8bdc8217eab/Diving-into-the-Vista-Heap_high.mp4</video:content_loc>
         <video:duration>3347</video:duration>
         <video:publication_date>2006-06-21T22:19:30.0000000+00:00</video:publication_date>
       </video:video>
@@ -3009,7 +3009,7 @@ We recently interviewed Adrian Marinescu, lead developer on the Windows Kernel t
         <video:title><![CDATA[InfoCard - Deep Architecture]]></video:title>
         <video:description><![CDATA[
 Nigel Watling, InfoCard Technical Evangelist, leads an in depth discussion of how InfoCard works, how it&#39;s designed (and why) and how it will evolve in the future(great Going Deep stuff!) with&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/83c2/17d416e3-f736-4a7b-8655-50a7e6d083c2/InfoCard-Deep-Architecture_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/83c2/17d416e3-f736-4a7b-8655-50a7e6d083c2/InfoCard-Deep-Architecture_high.mp4</video:content_loc>
         <video:duration>3572</video:duration>
         <video:publication_date>2006-05-12T18:00:43.0000000+00:00</video:publication_date>
       </video:video>
@@ -3024,7 +3024,7 @@ Nigel Watling, InfoCard Technical Evangelist, leads an in depth discussion of ho
         <video:title><![CDATA[Louis Lafreniere - VC++ backend compiler]]></video:title>
         <video:description><![CDATA[Louis Lafreniere has been a developer on the VC&amp;#43;&amp;#43; compiler team for a 
 long time; 15 years, to be exact. Specifically, Louis works on the backend compiler. What&#39;s a backend compiler? How&#39;s it&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/242b/6270420b-1cc4-4a01-bb67-0d2123eb242b/Louis-Lafreniere-VC-backend-compiler_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/242b/6270420b-1cc4-4a01-bb67-0d2123eb242b/Louis-Lafreniere-VC-backend-compiler_high.mp4</video:content_loc>
         <video:duration>3011</video:duration>
         <video:publication_date>2006-05-11T20:24:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -3038,7 +3038,7 @@ long time; 15 years, to be exact. Specifically, Louis works on the backend compi
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8153/5cf9eb59-34b9-4496-b037-a6c93a168153/Greg-Schechter-Windows-Presentation-FoundationWPF_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Greg Schechter: Windows Presentation Foundation(WPF) Architecture]]></video:title>
         <video:description><![CDATA[How is WPF designed? How does it work? Join Charles, Tim Sneath (Dr. Sneath, to us on the C9 team) and WPF Architect Greg Schechter as we dig into the guts of WPF as well as discuss it&#39;s past and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8153/5cf9eb59-34b9-4496-b037-a6c93a168153/Greg-Schechter-Windows-Presentation-FoundationWPF_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8153/5cf9eb59-34b9-4496-b037-a6c93a168153/Greg-Schechter-Windows-Presentation-FoundationWPF_high.mp4</video:content_loc>
         <video:duration>2752</video:duration>
         <video:publication_date>2006-05-07T19:16:56.0000000+00:00</video:publication_date>
       </video:video>
@@ -3053,7 +3053,7 @@ long time; 15 years, to be exact. Specifically, Louis works on the backend compi
         <video:title><![CDATA[Jim Hogg: Phoenix Framework]]></video:title>
         <video:description><![CDATA[
 We recently caught up with Jim Hogg, program manager for the Phoenix Framework, a very robust backend compiler platform co-created by the VC&amp;#43;&amp;#43; team and MSR. Ever wanted to extend the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b26b/e05e0aba-d37c-4306-b8d2-31fe464cb26b/Jim-Hogg-Phoenix-Framework_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b26b/e05e0aba-d37c-4306-b8d2-31fe464cb26b/Jim-Hogg-Phoenix-Framework_high.mp4</video:content_loc>
         <video:duration>2749</video:duration>
         <video:publication_date>2006-05-02T23:03:34.0000000+00:00</video:publication_date>
       </video:video>
@@ -3067,7 +3067,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/68ff/1afbbfd6-eada-42cf-83d7-64a2ed8f68ff/Windows-Shell-Architecture_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows Shell Architecture]]></video:title>
         <video:description><![CDATA[Ever wonder how the Windows shell is designed? Ever try and write a Windows shell extension? It gets easier in Vista! Here, Catherine Heller, a developer and technical evangelist, and Charles sit down&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/68ff/1afbbfd6-eada-42cf-83d7-64a2ed8f68ff/Windows-Shell-Architecture_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/68ff/1afbbfd6-eada-42cf-83d7-64a2ed8f68ff/Windows-Shell-Architecture_high.mp4</video:content_loc>
         <video:duration>3114</video:duration>
         <video:publication_date>2006-04-20T18:23:45.0000000+00:00</video:publication_date>
       </video:video>
@@ -3081,7 +3081,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/5777/ce2f06eb-ba87-4b24-bdb6-ba7942125777/Going-Deep-Richard-Ward-Engineering-security-into_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Going Deep: Richard Ward - Engineering security into Windows Vista]]></video:title>
         <video:description><![CDATA[Richard is an architect on the kernel team on Windows Vista. In other words, everything in Windows builds on top of his team&#39;s work. Here Charles Torre has a 52 minute conversation with him about the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5777/ce2f06eb-ba87-4b24-bdb6-ba7942125777/Going-Deep-Richard-Ward-Engineering-security-into_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5777/ce2f06eb-ba87-4b24-bdb6-ba7942125777/Going-Deep-Richard-Ward-Engineering-security-into_high.mp4</video:content_loc>
         <video:duration>3166</video:duration>
         <video:publication_date>2006-04-14T22:07:06.0000000+00:00</video:publication_date>
       </video:video>
@@ -3121,7 +3121,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9123/51db52a3-c346-4752-9a3d-bd97626f9123/Virtualization_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Virtualization]]></video:title>
         <video:description><![CDATA[Ever wonder how virtualization works? Where is it used? What role could virtualization play in the future of Windows, for example? How will it evolve over time?We recently met with some of the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9123/51db52a3-c346-4752-9a3d-bd97626f9123/Virtualization_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9123/51db52a3-c346-4752-9a3d-bd97626f9123/Virtualization_high.mp4</video:content_loc>
         <video:duration>3644</video:duration>
         <video:publication_date>2006-02-14T22:07:46.0000000+00:00</video:publication_date>
       </video:video>
@@ -3135,7 +3135,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/2914/c69a4135-1de0-4f88-b0d6-18ae7bd42914/Eugene-Lin-and-Jason-Cobb-Windows-Plug-and-Play_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Eugene Lin and Jason Cobb - Windows Plug and Play]]></video:title>
         <video:description><![CDATA[Ever wonder what&#39;s really going on when you attach a peripheral device to your computer (running Windows XP or Vista)? Well, we wanted to find out the low level truths about Plug and Play in Windows.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/2914/c69a4135-1de0-4f88-b0d6-18ae7bd42914/Eugene-Lin-and-Jason-Cobb-Windows-Plug-and-Play_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/2914/c69a4135-1de0-4f88-b0d6-18ae7bd42914/Eugene-Lin-and-Jason-Cobb-Windows-Plug-and-Play_high.mp4</video:content_loc>
         <video:duration>3163</video:duration>
         <video:publication_date>2006-01-18T19:56:24.0000000+00:00</video:publication_date>
       </video:video>
@@ -3149,7 +3149,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/fdc7/70f4d262-2a53-4719-8f66-91ac75aafdc7/Rob-Short-and-kernel-team-Going-deep-inside-Windo_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Rob Short (and kernel team) - Going deep inside Windows Vista&#39;s kernel architecture]]></video:title>
         <video:description><![CDATA[Rob Short is the corporate vice president in charge of the team that architects the foundation of Windows Vista. This is a fascinating conversation with the kernel architecture team. It&#39;s our&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/fdc7/70f4d262-2a53-4719-8f66-91ac75aafdc7/Rob-Short-and-kernel-team-Going-deep-inside-Windo_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/fdc7/70f4d262-2a53-4719-8f66-91ac75aafdc7/Rob-Short-and-kernel-team-Going-deep-inside-Windo_high.mp4</video:content_loc>
         <video:duration>2951</video:duration>
         <video:publication_date>2005-12-23T22:47:40.0000000+00:00</video:publication_date>
       </video:video>
@@ -3163,7 +3163,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7f8e/a2a1cbe5-61a4-4361-a9a0-28386a277f8e/Vista-Audio-Stack-and-API_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Vista Audio Stack and API]]></video:title>
         <video:description><![CDATA[Charles recently caught up with seasoned Niner, Larry Osterman, an SDE and 20 year Microsoft veteran, and Elliot H Omiya, a Software Architect and audio guru, to dig into the innerworkings of Vista&#39;s&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7f8e/a2a1cbe5-61a4-4361-a9a0-28386a277f8e/Vista-Audio-Stack-and-API_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7f8e/a2a1cbe5-61a4-4361-a9a0-28386a277f8e/Vista-Audio-Stack-and-API_high.mp4</video:content_loc>
         <video:duration>2710</video:duration>
         <video:publication_date>2005-12-14T02:44:17.0000000+00:00</video:publication_date>
       </video:video>
@@ -3178,7 +3178,7 @@ We recently caught up with Jim Hogg, program manager for the Phoenix Framework, 
         <video:title><![CDATA[Concurrency and Coordination Runtime]]></video:title>
         <video:description><![CDATA[The Concurrency and Coordination Runtime (CCR) is a lightweight port-based concurrency library for C# 2.0 developed by George Chrysanthakopoulos in the
 Advanced Strategies group at Microsoft. Here,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f40d/a7b01257-aba6-490f-81a1-8d80ce70f40d/Concurrency-and-Coordination-Runtime_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f40d/a7b01257-aba6-490f-81a1-8d80ce70f40d/Concurrency-and-Coordination-Runtime_high.mp4</video:content_loc>
         <video:duration>2626</video:duration>
         <video:publication_date>2005-12-07T19:33:11.0000000+00:00</video:publication_date>
       </video:video>
@@ -3192,7 +3192,7 @@ Advanced Strategies group at Microsoft. Here,&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/3530/273f1c42-be01-446e-ac0b-441c81a03530/Surendra-Verma-Vista-Transactional-File-System_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Surendra Verma: Vista Transactional File System]]></video:title>
         <video:description><![CDATA[Surendra Verma, Development Manager on the Vista Kernel team, digs into Vista&#39;s new Transactional File System whith Charles Torre. TxF, as it is referred to internally, is a new kernel construct that&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/3530/273f1c42-be01-446e-ac0b-441c81a03530/Surendra-Verma-Vista-Transactional-File-System_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/3530/273f1c42-be01-446e-ac0b-441c81a03530/Surendra-Verma-Vista-Transactional-File-System_high.mp4</video:content_loc>
         <video:duration>2324</video:duration>
         <video:publication_date>2005-12-02T19:51:41.0000000+00:00</video:publication_date>
       </video:video>
@@ -3219,7 +3219,7 @@ Advanced Strategies group at Microsoft. Here,&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b74a/784582df-56b7-4562-be0d-422df3a3b74a/Windows-NT-Object-Manager_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows, NT Object Manager]]></video:title>
         <video:description><![CDATA[Almost everything you do on your PC requires the assistance of NT&#39;s Object Manager. The Object Manager is a shared resource; a subsystem upon which all other executive kernel subsystems rely on to get&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b74a/784582df-56b7-4562-be0d-422df3a3b74a/Windows-NT-Object-Manager_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b74a/784582df-56b7-4562-be0d-422df3a3b74a/Windows-NT-Object-Manager_high.mp4</video:content_loc>
         <video:duration>2440</video:duration>
         <video:publication_date>2005-06-03T22:24:40.0000000+00:00</video:publication_date>
       </video:video>
@@ -3235,7 +3235,7 @@ Advanced Strategies group at Microsoft. Here,&amp;#8230;]]></video:description>
         <video:description><![CDATA[MS Researchers Jim Larus and
 Galen Hunt lead an intriguing project where they&#39;ve built an OS using managed code. The project is known as Singularity. In their own words:
 Singularity is a research&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/47ba/165cee19-f6ac-45c6-a985-3640508847ba/Singularity-A-research-OS-written-in-C_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/47ba/165cee19-f6ac-45c6-a985-3640508847ba/Singularity-A-research-OS-written-in-C_high.mp4</video:content_loc>
         <video:duration>3212</video:duration>
         <video:publication_date>2005-05-13T19:19:33.0000000+00:00</video:publication_date>
       </video:video>
@@ -3249,7 +3249,7 @@ Singularity is a research&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/64db/01cf1db5-1732-4205-b2b5-307f7e6d64db/Chris-Anderson-Talking-shop-about-Avalon_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Chris Anderson - Talking shop about Avalon]]></video:title>
         <video:description><![CDATA[Recently, Charles cornered Chris Anderson, an Avalon Architect and champion blogger/demo king, in a room, threw him a dry erase marker and asked him to briefly describe the architecture of Avalon. You&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/64db/01cf1db5-1732-4205-b2b5-307f7e6d64db/Chris-Anderson-Talking-shop-about-Avalon_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/64db/01cf1db5-1732-4205-b2b5-307f7e6d64db/Chris-Anderson-Talking-shop-about-Avalon_high.mp4</video:content_loc>
         <video:duration>672</video:duration>
         <video:publication_date>2005-05-11T18:48:09.0000000+00:00</video:publication_date>
       </video:video>
@@ -3263,7 +3263,7 @@ Singularity is a research&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/df9a/49a09dd1-edc9-4eb4-978d-12404fc0df9a/Nar-Ganapathy-Windows-the-IO-Manager-and-Driver-M_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Nar Ganapathy - Windows, the IO Manager and Driver Model, Part II]]></video:title>
         <video:description><![CDATA[Nar, an architect on Windows Device Experience team, takes us deep inside the I/O manager inside Windows&#39; kernel.]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/df9a/49a09dd1-edc9-4eb4-978d-12404fc0df9a/Nar-Ganapathy-Windows-the-IO-Manager-and-Driver-M_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/df9a/49a09dd1-edc9-4eb4-978d-12404fc0df9a/Nar-Ganapathy-Windows-the-IO-Manager-and-Driver-M_high.mp4</video:content_loc>
         <video:duration>1081</video:duration>
         <video:publication_date>2005-04-25T18:39:03.0000000+00:00</video:publication_date>
       </video:video>
@@ -3277,7 +3277,7 @@ Singularity is a research&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7400/7cc89414-642a-4fe0-a8e3-bd8703757400/Nar-Ganapathy-Windows-the-IO-Manager-and-Driver-M_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Nar Ganapathy - Windows, the IO Manager and Driver Model , Part I]]></video:title>
         <video:description><![CDATA[Charles Torre continues his series of &amp;quot;going deep in Windows&amp;quot; with an interview of Nar Ganapathy, an architect on the I/O Manager in Windows (part of the Windows Kernel).]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7400/7cc89414-642a-4fe0-a8e3-bd8703757400/Nar-Ganapathy-Windows-the-IO-Manager-and-Driver-M_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7400/7cc89414-642a-4fe0-a8e3-bd8703757400/Nar-Ganapathy-Windows-the-IO-Manager-and-Driver-M_high.mp4</video:content_loc>
         <video:duration>1034</video:duration>
         <video:publication_date>2005-04-22T22:30:15.0000000+00:00</video:publication_date>
       </video:video>
@@ -3291,7 +3291,7 @@ Singularity is a research&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6dd8/b9605614-bbc9-4b84-94a2-3bbc6fe16dd8/Windows-NT-Cache-Manager-Molly-Brown-Part-II_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows, NT Cache Manager - Molly Brown - Part II]]></video:title>
         <video:description><![CDATA[Here&#39;s the second part of Molly&#39;s interview, where she dives down deeper into Windows&#39; cache manager.]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6dd8/b9605614-bbc9-4b84-94a2-3bbc6fe16dd8/Windows-NT-Cache-Manager-Molly-Brown-Part-II_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6dd8/b9605614-bbc9-4b84-94a2-3bbc6fe16dd8/Windows-NT-Cache-Manager-Molly-Brown-Part-II_high.mp4</video:content_loc>
         <video:duration>1866</video:duration>
         <video:publication_date>2005-04-21T02:40:44.0000000+00:00</video:publication_date>
       </video:video>
@@ -3305,7 +3305,7 @@ Singularity is a research&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/aef2/3220300d-f74f-4963-8ce6-0fd3cda1aef2/Windows-NT-Cache-Manager-Molly-Brown_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows, NT Cache Manager - Molly Brown]]></video:title>
         <video:description><![CDATA[This is the second in the &amp;quot;Going Deep: Windows&amp;quot; series and here we are still down in the kernel and we&#39;re talking to Molly Brown, developer of the cache manager.The second part of Molly&#39;s&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/aef2/3220300d-f74f-4963-8ce6-0fd3cda1aef2/Windows-NT-Cache-Manager-Molly-Brown_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/aef2/3220300d-f74f-4963-8ce6-0fd3cda1aef2/Windows-NT-Cache-Manager-Molly-Brown_high.mp4</video:content_loc>
         <video:duration>1036</video:duration>
         <video:publication_date>2005-04-19T19:10:59.0000000+00:00</video:publication_date>
       </video:video>
@@ -3320,7 +3320,7 @@ Singularity is a research&amp;#8230;]]></video:description>
         <video:title><![CDATA[Windows, Part IV - Dave Probert]]></video:title>
         <video:description><![CDATA[Here&#39;s the final part of the interview we did with Windows kernel architect Dave Probert.
 In this part Dave discusses the differences between the NT architecture and other operating systems.Dave&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6d64/02f8a4fa-4429-40c1-ae2a-08f800a46d64/Windows-Part-IV-Dave-Probert_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6d64/02f8a4fa-4429-40c1-ae2a-08f800a46d64/Windows-Part-IV-Dave-Probert_high.mp4</video:content_loc>
         <video:duration>1937</video:duration>
         <video:publication_date>2005-04-05T06:54:19.0000000+00:00</video:publication_date>
       </video:video>
@@ -3334,7 +3334,7 @@ In this part Dave discusses the differences between the NT architecture and othe
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6ffa/9b9f67c1-08f1-4396-a98c-1e33f4486ffa/Windows-Part-III-Dave-Probert_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows, Part III - Dave Probert]]></video:title>
         <video:description><![CDATA[Here&#39;s part III of Dave Probert&#39;s discussion of the Windows Kernel.]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6ffa/9b9f67c1-08f1-4396-a98c-1e33f4486ffa/Windows-Part-III-Dave-Probert_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6ffa/9b9f67c1-08f1-4396-a98c-1e33f4486ffa/Windows-Part-III-Dave-Probert_high.mp4</video:content_loc>
         <video:duration>910</video:duration>
         <video:publication_date>2005-04-05T06:48:19.0000000+00:00</video:publication_date>
       </video:video>
@@ -3348,7 +3348,7 @@ In this part Dave discusses the differences between the NT architecture and othe
         <video:thumbnail_loc>http://video.ch9.ms/ch9/470f/3b368dd5-3205-4099-b73e-366750a9470f/Windows-Part-II-Dave-Probert_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows, Part II - Dave Probert]]></video:title>
         <video:description><![CDATA[In this second part of the video with Windows&#39; kernel architect Dave Probert, we get a little tour of multi-threading and how Windows works at a deep level.]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/470f/3b368dd5-3205-4099-b73e-366750a9470f/Windows-Part-II-Dave-Probert_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/470f/3b368dd5-3205-4099-b73e-366750a9470f/Windows-Part-II-Dave-Probert_high.mp4</video:content_loc>
         <video:duration>1176</video:duration>
         <video:publication_date>2005-03-31T21:55:16.0000000+00:00</video:publication_date>
       </video:video>
@@ -3362,7 +3362,7 @@ In this part Dave discusses the differences between the NT architecture and othe
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8ac5/94a54fa1-d9b2-4a4d-817e-5485add58ac5/Windows-Part-I-Dave-Probert_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Windows, Part I - Dave Probert]]></video:title>
         <video:description><![CDATA[Dave Probert is an architect on the Windows Kernel team. This is the first time we&#39;ve had an architect from the kernel team on Channel 9.You&#39;ll hear from Dave over the next week or so (we split the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8ac5/94a54fa1-d9b2-4a4d-817e-5485add58ac5/Windows-Part-I-Dave-Probert_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8ac5/94a54fa1-d9b2-4a4d-817e-5485add58ac5/Windows-Part-I-Dave-Probert_high.mp4</video:content_loc>
         <video:duration>1397</video:duration>
         <video:publication_date>2005-03-31T21:51:48.0000000+00:00</video:publication_date>
       </video:video>
@@ -3376,7 +3376,7 @@ In this part Dave discusses the differences between the NT architecture and othe
         <video:thumbnail_loc>http://video.ch9.ms/ch9/a625/2d7bf321-8e7a-4af6-8a8e-dd25d3cea625/Neal-Christiansen-Inside-File-System-Filter-part-_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Neal Christiansen - Inside File System Filter, part II]]></video:title>
         <video:description><![CDATA[Here&#39;s the second part of the interview with Neal Christiansen. He talks about the internals of Windows and how File System Filters work.Here&#39;s the first part of the interview in case you missed that.]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/a625/2d7bf321-8e7a-4af6-8a8e-dd25d3cea625/Neal-Christiansen-Inside-File-System-Filter-part-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/a625/2d7bf321-8e7a-4af6-8a8e-dd25d3cea625/Neal-Christiansen-Inside-File-System-Filter-part-_high.mp4</video:content_loc>
         <video:duration>1286</video:duration>
         <video:publication_date>2005-01-24T18:41:02.0000000+00:00</video:publication_date>
       </video:video>
@@ -3390,7 +3390,7 @@ In this part Dave discusses the differences between the NT architecture and othe
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6617/b8203f50-6819-4242-b1db-52714c3a6617/Neal-Christiansen-Inside-File-System-Filter-part-_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Neal Christiansen - Inside File System Filter, part I]]></video:title>
         <video:description><![CDATA[File System Filters are kernel-mode non-device drivers that monitor inbound and outbound FileSystem IO.A prime example of an FSM is anti-virus software (the primary function of an AV app is to monitor&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6617/b8203f50-6819-4242-b1db-52714c3a6617/Neal-Christiansen-Inside-File-System-Filter-part-_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6617/b8203f50-6819-4242-b1db-52714c3a6617/Neal-Christiansen-Inside-File-System-Filter-part-_high.mp4</video:content_loc>
         <video:duration>1516</video:duration>
         <video:publication_date>2005-01-21T20:04:24.0000000+00:00</video:publication_date>
       </video:video>
