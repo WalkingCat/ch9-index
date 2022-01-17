@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async</loc>
+      <title><![CDATA[Six Essential Tips for Async]]></title>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/6e1913e9-f872-48df-9a4c-7cdd147ba5f5.png</thumbnail_loc>
+      <description><![CDATA[Async involves some new concepts. They're not difficult; just unfamiliar. Over the past year Lucian Wischik has been watching how people use Async in C# and VB. This series distils out the six essenti&amp;#8230;]]></description>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Three-Essential-Tips-For-Async-Introduction</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5159/bb53c489-da43-4009-86a6-c68b631e5159/TipsForAsyncIntro_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Six Essential Tips For Async - Introduction]]></video:title>
+        <video:description><![CDATA[Async involves some new concepts. They're not difficult; just unfamiliar. Over the past year Lucian Wischik has been watching how people use async/await in C# and VB. This series distils out the three&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5159/bb53c489-da43-4009-86a6-c68b631e5159/TipsForAsyncIntro_high.mp4</video:content_loc>
+        <video:publication_date>2013-03-12 13:00:00Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Tip-1-Async-void-is-for-top-level-event-handlers-only</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/1ae1/50de24d7-5456-4c71-b690-ce6290601ae1/TipsForAsyncVoidForEventHandlers_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tip 1: Async void is for top-level event-handlers only ]]></video:title>
+        <video:description><![CDATA[Async Tip #1: Async void is for top-level event-handlers only, and event-like things. Don't use it elsewhere in your code. Slides are available on Lucian's blog. Async void is a &amp;quot;fire-and-forget&amp;&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/1ae1/50de24d7-5456-4c71-b690-ce6290601ae1/TipsForAsyncVoidForEventHandlers_high.mp4</video:content_loc>
+        <video:publication_date>2013-03-12 13:00:00Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Tip-2-Distinguish-CPU-Bound-work-from-IO-bound-work</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/a326/026bc1ed-d53b-433c-afa7-05ee48aba326/TipsForAsyncThreadsAndDatabinding_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tip 2: Distinguish CPU-Bound work from IO-bound work]]></video:title>
+        <video:description><![CDATA[Async Tip #2: It's crucial to distinguish CPU-bound work (should be done on threadpool) from IO-bound work (which needn't). You can download slides for this talk from Lucian's blog. I remember reading&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/a326/026bc1ed-d53b-433c-afa7-05ee48aba326/TipsForAsyncThreadsAndDatabinding_high.mp4</video:content_loc>
+        <video:publication_date>2013-03-12 13:00:00Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Lucian03-TipsForAsyncThreadsAndDatabinding</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c4d6/9fb64e01-b7bb-4a0d-a144-b8e4fd3cc4d6/TipsforAsyncOverEvents_512.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tip 3: Wrap events up in Task-returning APIs and await them]]></video:title>
+        <video:description><![CDATA[Async Tip #3: You can wrap events up in Task-returning APIs and await them. This can dramatically simplify code. Slides and source code are available on Lucian's blog. This video introduces a new patt&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c4d6/9fb64e01-b7bb-4a0d-a144-b8e4fd3cc4d6/TipsforAsyncOverEvents_high.mp4</video:content_loc>
+        <video:publication_date>2013-03-12 13:00:00Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Async-Library-Methods-Shouldn-t-Lie</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/5aea/03993720-4154-4e36-9817-775e12725aea/TipsforAsyncLibraryMethodsShouldntLie_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tip 4: Async Library Methods Shouldn't Lie]]></video:title>
+        <video:description><![CDATA[Libraries shouldn't lie. That's not why they're called &amp;quot;lie-braries&amp;quot;... The threadpool is an app-global resource, so you should leave the callers of your library to decide how and when they &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/5aea/03993720-4154-4e36-9817-775e12725aea/TipsforAsyncLibraryMethodsShouldntLie_mid.mp4</video:content_loc>
+        <video:publication_date>2014-02-07 02:15:38Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Async-libraries-APIs-should-be-chunky</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/c149/df6e735a-ccfe-44e1-805f-096e59aac149/TipsforAsyncUseChunkyAPIs_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tip 5: Async libraries APIs should be chunky]]></video:title>
+        <video:description><![CDATA[5. Libraries should have chunky async APIs. But if you can't achieve that, there's a micro-optimization you can use for async methods based around the fast-path which can reduce or eliminate the heap &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/c149/df6e735a-ccfe-44e1-805f-096e59aac149/TipsforAsyncUseChunkyAPIs_mid.mp4</video:content_loc>
+        <video:publication_date>2014-02-07 02:16:24Z</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async/Async-library-methods-should-consider-using-Task-ConfigureAwait-false-</loc>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ch9/6730/0ea08978-bffe-44cc-abe3-2ee4e4146730/TipsForAsyncUseConfigureAwaitfalse_960.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Tip 6: Async library methods should consider using Task.ConfigureAwait(false)]]></video:title>
+        <video:description><![CDATA[6. Libraries should consider Task.ConfigureAwait(false). This is another micro-optimization you can use to reduce your methods' impact on the UI thread. Consider this if your library routine might be &amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/ch9/6730/0ea08978-bffe-44cc-abe3-2ee4e4146730/TipsForAsyncUseConfigureAwaitfalse_high.mp4</video:content_loc>
+        <video:publication_date>2014-02-07 17:13:09Z</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 
