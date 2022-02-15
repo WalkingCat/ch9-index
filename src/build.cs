@@ -36,21 +36,21 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
             if (index is object) {
                 if (index.BaseStream.Position == 0) {
                     index.WriteLine(
-                        "<head><link rel='stylesheet' href='styles.css'></head>"
+                        "<head><link rel='stylesheet' href='styles.css'></head><body class='index'>"
                     );
                 }
                 index.WriteLine(
-                    $"<nobr id='{name}'>" +
+                    $"<nobr id='{name}' class='title-container'>" +
                     $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                     $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
 					$"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
-                    "</nobr><br/>"
+                    "</nobr>"
                 );
                 index.Flush();
             }
 
             content.WriteLine(
-                "<head><link rel='stylesheet' href='styles.css'></head>"
+                "<head><link rel='stylesheet' href='styles.css'></head><body class='content'>"
             );
             if (cat == "Posts") {
                 content.WriteLine(
@@ -58,9 +58,9 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                 );
             } else {
                 content.Write(
-                    "<nobr><h2>" +
+                    "<nobr class='title-container'><h2>" +
                     $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                    $"{cat} - {title}" +
+                    $"<span class='title'>{cat} - {title}</span>" +
                     "</h2></nobr>"
                 );
                 if (!(string.IsNullOrEmpty(thumb) && string.IsNullOrEmpty(desc))) {
@@ -70,7 +70,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                         (string.IsNullOrEmpty(thumb) ? "" : "<br clear='right'/>")
                     );
                 }
-                content.WriteLine("<br/>");
+                content.Write("<br/>");
                 continue;
             }
         }
@@ -95,12 +95,12 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
                 }
             }
             content.WriteLine(
-                "<nobr>" +
+                "<nobr class='vtitle-container'>" +
                 $"<a href='http://web.archive.org/web/2020/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                (string.IsNullOrEmpty(v_loc) ? System.Web.HttpUtility.HtmlDecode(v_title) : $"<a href='{v_loc}' target='_blank'>{System.Web.HttpUtility.HtmlDecode(v_title)}</a>") +
+                "<span class='vtitle'>" + (string.IsNullOrEmpty(v_loc) ? System.Web.HttpUtility.HtmlDecode(v_title) : $"<a href='{v_loc}' target='_blank'>{System.Web.HttpUtility.HtmlDecode(v_title)}</a>") +
                 ((v_time >= 0) ? $" [{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}]" : "") +
                 ((v_date is object) ? DateTime.Parse(v_date).ToString(" [yyyy/MM/dd]") : "") +
-                "</nobr><br/>" +
+                "</span></nobr>" +
                 ((v_thumb is object) ? $"<img class='vthumb' src='{v_thumb}'/>" : "") +
                 $"<div class='vdesc'>{(System.Web.HttpUtility.HtmlDecode(v_desc))}</div>" +
                 "<br clear='left'/><br/>"

@@ -2,7 +2,16 @@
 	font-family: "Segoe UI";
 }
 
-.title, .permalink {
+body.index, body.content {
+	margin: 8px 0px;
+}
+
+.title-container, .vtitle-container {
+	display: block;
+	padding: 0px 8px;
+}
+
+.title, .vtitle, .permalink {
 	vertical-align: top;
 }
 
@@ -26,9 +35,9 @@ img.vthumb, img.thumb {
 	
 }
 
-img.vthumb { margin-right: 8px; float: left; }
-img.thumb {	margin-left: 8px; float: right; }
+img.vthumb { float: left; }
+img.thumb {	float: right; }
 
-img.vthumb, div.vdesc {
-	margin-top: 8px;
+img.vthumb, div.vdesc, div.desc, img.thumb {
+		margin: 0px 8px;
 }
