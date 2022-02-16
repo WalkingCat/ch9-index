@@ -9,6 +9,7 @@ body.index, body.content {
 .title-container, .vtitle-container {
 	display: block;
 	padding: 0px 8px;
+	clear: right;
 }
 
 .title, .vtitle, .permalink {
