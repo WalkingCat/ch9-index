@@ -54,7 +54,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
             );
             if (cat == "Posts") {
                 content.WriteLine(
-                    $"<nobr><h2>{cat} - {title}</h2></nobr><br/>"
+                    $"<nobr class='title-container'><h2>{cat} - {title}</h2></nobr><br/>"
                 );
             } else {
                 content.Write(
