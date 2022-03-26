@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/default.aspx</loc>
+      <title><![CDATA[Designing .NET Class Libraries]]></title>
+      <description><![CDATA[The Designing .NET Class Libraries series presents design guidelines for developing classes and components that extend the .NET Framework.]]></description>
+   		<archive_date>2005</archive_date>
+   		<featured>true</featured>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/settingthestage/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/setting_the_stage.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Setting The Stage - Brad Abrams]]></video:title>
+        <video:description><![CDATA[Introduction to the practice of API design. Topics covered include terminology, first principles, and why API design is a crucial thing to get right (the first time!).]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/3/c/c/3cca32f8-0bd1-4582-a50f-1b8d97d5bef6/setting_the_stage_300k.exe</video:content_loc>
+        <video:publication_date>2005-01-14</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/namingconventions/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/naming_conventions.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Naming Conventions - Brad Abrams]]></video:title>
+        <video:description><![CDATA[Learn why good naming is a key factor in API design, and what the recommended naming guidelines are to ensure consistency with the rest of the .NET Framework.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/2/f/a/2fa27a94-859e-40f5-b646-152640cac60a/naming_conventions_300k.exe</video:content_loc>
+        <video:publication_date>2005-01-21</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/richtypesystem/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/rich_type.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Rich Type System - Brad Abrams]]></video:title>
+        <video:description><![CDATA[Learn what rich constructs from the CLR's type system are available and appropriate for developing APIs. Also, learn when to use reference over value types, delegates, exceptions, attributes, and many other important features.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/7/9/2/7920c0ad-24f4-41dc-8cd2-b7f72cd50cf6/rich_type_300k.exe</video:content_loc>
+        <video:publication_date>2005-01-28</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/membertypes/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/member_types.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Member Types - Brad Abrams]]></video:title>
+        <video:description><![CDATA[Learn when to use certain member constructs such as properties, methods, and events over other constructs and why.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/d/f/4/df477a87-2d6a-4a7b-8c75-dd3525055ec1/member_types_300k.exe</video:content_loc>
+        <video:publication_date>2005-02-04</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/inheritancehierarchies/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/hierarchies.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Inheritance Hierarchies - Brad Abrams]]></video:title>
+        <video:description><![CDATA[Learn how to design appropriately for specialization, specifically when to use inheritence over aggregation, abstract classes over interfaces, and so on. Also, learn situations in which virtual methods are called for.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/9/9/4/9944aee1-27fa-4e89-8c8a-92be5e5da81b/hierarchies_300k.exe</video:content_loc>
+        <video:publication_date>2005-02-11</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/apiusability/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/usability.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[API Usability - Steven Clarke]]></video:title>
+        <video:description><![CDATA[Learn to understand your target audience, profile users with personas, and develop APIs that are easy to use and understand.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/a/a/9/aa9623e6-267d-4b6a-a12f-33285563f05b/usability_300k.exe</video:content_loc>
+        <video:publication_date>2005-02-18</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/designingprogressiveAPIs/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/progressive_apis.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing Progressive APIs - Krzysztof Cwalina]]></video:title>
+        <video:description><![CDATA[Learn how to design APIs that are appropriate for a broad range of user personas, while at the same time providing a unified framework with gradients between levels of complexity.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/f/2/9/f295c918-3144-4cd4-a13c-13618eeed2ee/progressive_apis_300k.exe</video:content_loc>
+        <video:publication_date>2005-02-25</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/clrperformancetips</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/clr.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[CLR Performance Tips - Rico Mariani and Maoni Stephens]]></video:title>
+        <video:description><![CDATA[Learn performance basics (measure, measure, measure!), how to build a performance culture, GC basics, and a couple of tips on controversial .NET performance topics.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/f/b/f/fbfa670d-dae4-4333-85a9-bdef23c0e7d5/clr_300k.exe</video:content_loc>
+        <video:publication_date>2005-03-04</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/managedmemory</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/memory_world.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Designing for a Managed Memory World - Brad Abrams]]></video:title>
+        <video:description><![CDATA[Understand the impact that garbage collection has both at runtime and how it impacts the design of your APIs. Learn about finalizers, the Dispose pattern, the using keyword, and other related constructs.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/e/e/b/eebb52c1-baf7-4dd5-9a8c-10f7a3e68867/memory_world_300k.exe</video:content_loc>
+        <video:publication_date>2005-03-11</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/understandinginteroperability</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/interop.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Understanding Interoperability - Sonja Keserovic]]></video:title>
+        <video:description><![CDATA[Learn how to interoperate between managed and unmanaged (native) code, including COM interop. Learn how to consume native code from managed libraries, and how to expose managed libraries to native code.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/6/e/9/6e998e20-3a1e-4da7-93e1-0495f399bfb7/interop_300k.exe</video:content_loc>
+        <video:publication_date>2005-03-18</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/packaging</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/packaging.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Packaging, Assemblies and Namespaces - Michael Murray]]></video:title>
+        <video:description><![CDATA[Understand best practices for packaging and structuring your units of deployment, including how to factor your code appropriately, strong naming, how packaging may impact performance, and namespace structure.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/e/6/1/e61cdcf3-6150-4791-b74b-9d80860e5879/packaging_300k.exe</video:content_loc>
+        <video:publication_date>2005-03-25</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/fxcop/</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/fxcop.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[FxCop in Depth - Jeffrey Van Gogh and Michael Murray]]></video:title>
+        <video:description><![CDATA[FxCop is a tool that enables development teams to check code compliance with best practices. This session will give you a good understanding of the how and why behind the tool.]]></video:description>
+        <video:content_loc>http://web.archive.org/web/20051016021823if_/http://download.microsoft.com/download/c/b/4/cb4b6196-3723-4370-ad18-94e857cf5d55/Fxcop_100k.exe</video:content_loc>
+        <video:publication_date>2005-04-01</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/enablingdevelopmenttools</loc>
+      <video:video>
+        <video:thumbnail_loc>./thumbnails/Extras_Designing_.NET_Class_Libraries/develop.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Enabling Development Tools - Brian Pepin]]></video:title>
+        <video:description><![CDATA[Learn how to enable a rich development experience for your users by writing code that exploits the capabilities of Visual Studio. Covers extending and augmenting the development, debugging, and design environments.]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/7/e/d/7edf9379-0def-405d-ba63-80943e8ab786/develop_300k.exe</video:content_loc>
+        <video:publication_date>2005-04-08</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/security</loc>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[Security - Sebastian Lange]]></video:title>
+        <video:description><![CDATA[Learn how to write secure code using CAS, protected resources, verifiability, and secure units of code. This session also covers partial trust, a couple security gotchas, and some tools to enable secure .NET development.]]></video:description>
+        <video:content_loc></video:content_loc>
+        <video:publication_date>2005-04-15</video:publication_date>
+      </video:video>
+   </url>
+  <url>
+      <loc>http://www.msdn.microsoft.com/netframework/programming/classlibraries/QandA</loc>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[Conclusion and Q&A Session]]></video:title>
+        <video:description><![CDATA[Watch the finale and Q&A session with the series presenters and their audience, with a special guest appearance by Jeff Richter.]]></video:description>
+        <video:content_loc></video:content_loc>
+        <video:publication_date>2005-04-22</video:publication_date>
+      </video:video>
+   </url>
+</urlset> 
