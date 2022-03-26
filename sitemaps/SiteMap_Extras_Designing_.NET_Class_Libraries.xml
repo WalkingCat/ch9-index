@@ -157,4 +157,14 @@
         <video:publication_date>2005-04-22</video:publication_date>
       </video:video>
    </url>
+  <url>
+      <loc>http://blogs.msdn.com/kcwalina/archive/2008/01/08/FrameworkEngineering.aspx</loc>
+      <video:video>
+        <video:thumbnail_loc></video:thumbnail_loc>
+        <video:title><![CDATA[Extra: Framework Engineering: Architecting, Designing, and Developing Reusable Libraries - Krzysztof Cwalina]]></video:title>
+        <video:description><![CDATA[This session covers the main aspects of reusable library design: API design, architecture, and general framework engineering processes. ]]></video:description>
+        <video:content_loc>https://download.microsoft.com/download/b/d/1/bd133733-9647-445f-bc06-238ae9c0dd48/FrameworkEngineering.wmv</video:content_loc>
+        <video:publication_date>2008-01-08</video:publication_date>
+      </video:video>
+   </url>
 </urlset> 
