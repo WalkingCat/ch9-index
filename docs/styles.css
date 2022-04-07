@@ -12,6 +12,10 @@ body.index, body.content {
 	clear: right;
 }
 
+.featured {
+	background: #FFD090;
+}
+
 .title, .vtitle, .permalink {
 	vertical-align: top;
 }

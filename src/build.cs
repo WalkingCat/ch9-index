@@ -36,6 +36,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
         if (string.IsNullOrEmpty(title)) { title = name.Replace('+', ' '); }
         var thumb = elem.GetElementsByTagName("thumbnail_loc").Item(0)?.InnerText;
         var desc = elem.GetElementsByTagName("description").Item(0)?.InnerText;
+        var featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
 
         if (first)
         {
@@ -51,7 +52,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                     );
                 }
                 index.WriteLine(
-                    $"<nobr id='{name}' class='title-container'>" +
+                    $"<nobr id='{name}' class='title-container{(featured ? " featured" : "")}'>" +
                     $"<a href='http://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                     $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
                     $"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
