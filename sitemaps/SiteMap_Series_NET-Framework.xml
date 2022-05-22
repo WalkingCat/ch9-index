@@ -5,6 +5,10 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title>.NET Framework</title>
+      <description><![CDATA[This series includes both instructive and demonstrative videos for the .NET developer. They cover all of the .NET platforms (ex: Windows Azure).Note: new content will show up here instead. ]]></description>
+      <featured>true</featured>
+      <thumbnail_loc>http://web.archive.org/web/20210228165323im_/https://f.ch9.ms/thumbnail/f9f92749-a22d-44f6-a5a7-a1df4b35ea58.png</thumbnail_loc>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Series/NET-Framework/Introduction-to-API-Reviews</loc>
@@ -15,7 +19,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Introduction to API Reviews]]></video:title>
         <video:description><![CDATA[In this video, Dan Fernandez talks to Eric St. John, Immo Landwerth, David Kean, and Krzysztof Cwalina from the .NET team about API reviews. How do we conduct API reviews?How does this work in an open&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_high.mp4</video:content_loc>
         <video:duration>3508</video:duration>
         <video:publication_date>2015-01-28T19:54:04.4496262+00:00</video:publication_date>
       </video:video>
@@ -71,7 +75,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/4c8f/8faf5ad6-3482-49a2-b6ee-6a61f0544c8f/HowToUseTheNetSourceBrowser_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[How to browse the .NET Reference Source]]></video:title>
         <video:description><![CDATA[In this short video, we&#39;ll show off the key features of the new browsing experience for the .NET Reference Source, which you can preview on http://referencesource-beta.microsoft.com: Go to definition&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/687a/58325d9f-0050-4313-966a-90b1526b687a/HowToUseTheNetSourceBrowser_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/687a/58325d9f-0050-4313-966a-90b1526b687a/HowToUseTheNetSourceBrowser_high.mp4</video:content_loc>
         <video:duration>144</video:duration>
         <video:publication_date>2014-02-24T15:52:28.2755131+00:00</video:publication_date>
       </video:video>
@@ -85,7 +89,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/6d9b/f1cdf8bd-a27e-4750-b798-36914e4f6d9b/ASPNetAppSuspend_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Introducing ASP.NET App Suspend]]></video:title>
         <video:description><![CDATA[ASP.NET App Suspend is a new feature in the .NET Framework 4.5.1 that makes ASP.NET sites much more responsive and enables you to host more sites on a single server. It is very well suited for&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/6b56/291e4f32-f949-4772-906c-0ba96ed66b56/ASPNetAppSuspend_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/6b56/291e4f32-f949-4772-906c-0ba96ed66b56/ASPNetAppSuspend_high.mp4</video:content_loc>
         <video:duration>139</video:duration>
         <video:publication_date>2014-02-24T15:31:36.6471024+00:00</video:publication_date>
       </video:video>
