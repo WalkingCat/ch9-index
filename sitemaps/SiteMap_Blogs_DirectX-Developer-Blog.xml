@@ -5,6 +5,10 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title>DirectX on Channel 9</title>
+      <description><![CDATA[Welcome to the DirectX Channel 9 Blog. For the latest news and information on DirectX, visit our MSDN blog and follow us on Twitter @DirectX12.   ]]></description>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/40e9729e-a849-49e4-97a9-ddae88508457.png</thumbnail_loc>
+      <featured>true</featured>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Blogs/DirectX-Developer-Blog/DirectX-12-Multiadapter-Unreal-Engine-4</loc>
@@ -15,7 +19,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/0ee6/b32da186-90f0-4700-927d-fbcfe2c30ee6/MultiadapterUnrealEngine4_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[DirectX 12: Multiadapter Unreal Engine 4]]></video:title>
         <video:description><![CDATA[We implemented an experimental technique called heterogeneous multiadapter using Epic Games&#39; DX12 Unreal Engine 4. This technique allows us to split the rendering workload across an integrated Intel&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0ee6/b32da186-90f0-4700-927d-fbcfe2c30ee6/MultiadapterUnrealEngine4_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0ee6/b32da186-90f0-4700-927d-fbcfe2c30ee6/MultiadapterUnrealEngine4_high.mp4</video:content_loc>
         <video:duration>44</video:duration>
         <video:publication_date>2015-04-30T23:58:21.4039995+00:00</video:publication_date>
       </video:video>
@@ -29,7 +33,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/a74e/127de55e-4e42-4b76-ae4e-1edb1ff7a74e/DirectXTechdemo_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[DirectX: DX12 Techdemo for Maxwell launch]]></video:title>
         <video:description><![CDATA[At E3 this year, Microsoft showed off &amp;quot;Fable Legends&amp;quot; for Xbox One, a new take on the RPG franchise&#39;s well-loved world of magic, humor and high adventure.  Fable Legends&#39; stunning visuals&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/a74e/127de55e-4e42-4b76-ae4e-1edb1ff7a74e/DirectXTechdemo_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/a74e/127de55e-4e42-4b76-ae4e-1edb1ff7a74e/DirectXTechdemo_high.mp4</video:content_loc>
         <video:duration>90</video:duration>
         <video:publication_date>2014-09-19T02:16:41.7081586+00:00</video:publication_date>
       </video:video>
@@ -43,7 +47,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7867/e7d9ce79-6b8b-4bd5-b180-8249278b7867/DirectX12PreviewGDC_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[DirectX: Evolving Microsoft&#39;s Graphics Platform]]></video:title>
         <video:description><![CDATA[For nearly 20 years, DirectX has been the platform used by game developers to create the fastest, most visually impressive games on the planet. However, you asked us to do more. You asked us to bring&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7867/e7d9ce79-6b8b-4bd5-b180-8249278b7867/DirectX12PreviewGDC_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7867/e7d9ce79-6b8b-4bd5-b180-8249278b7867/DirectX12PreviewGDC_high.mp4</video:content_loc>
         <video:duration>2802</video:duration>
         <video:publication_date>2014-04-15T20:55:19.1514533+00:00</video:publication_date>
       </video:video>
