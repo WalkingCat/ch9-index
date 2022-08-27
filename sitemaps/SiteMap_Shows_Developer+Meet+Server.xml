@@ -5,6 +5,9 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title><![CDATA[Developer Meet Server]]></title>
+      <description><![CDATA[Welcome to the show " developer meet server." i am your sincere, humble (as ever), gracious and wonderful host chef tour guide jason olson. in this show, we will be diving through all the various cool &amp;#8230;]]></description>
+      <featured>true</featured>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Application-Compatibility-Debugging</loc>
@@ -15,7 +18,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/029a/cba18531-376f-42f3-ab3b-5f539d62029a/Application-Compatibility-Debugging_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Application Compatibility - Debugging]]></video:title>
         <video:description><![CDATA[In this video, we sit down (well, stand up actually) with Chris Jackson and Gov Maharaj to chat about debugging application compatibility issues (and some of the things Microsoft has done to mitigate&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/029a/cba18531-376f-42f3-ab3b-5f539d62029a/Application-Compatibility-Debugging_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/029a/cba18531-376f-42f3-ab3b-5f539d62029a/Application-Compatibility-Debugging_high.mp4</video:content_loc>
         <video:duration>2201</video:duration>
         <video:publication_date>2008-01-28T22:37:30.0000000+00:00</video:publication_date>
       </video:video>
@@ -30,7 +33,7 @@
         <video:title><![CDATA[Application Compatibility - MSI Installer Issues]]></video:title>
         <video:description><![CDATA[
 In this video, we chat with Robert Flaming about application compatibility issues around Windows Installer for Windows Vista and Windows Server 2008. Mark Taylor, from our first Application&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9963/78e9b4e7-cdb2-41c2-9b3b-ba171d0f9963/Application-Compatibility-MSI-Installer-Issues_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9963/78e9b4e7-cdb2-41c2-9b3b-ba171d0f9963/Application-Compatibility-MSI-Installer-Issues_high.mp4</video:content_loc>
         <video:duration>1855</video:duration>
         <video:publication_date>2008-01-18T18:35:49.0000000+00:00</video:publication_date>
       </video:video>
@@ -48,7 +51,7 @@ Jason Olson chats with Maarten Van De Bospoort, Mark Taylor, and Pat Altimore ab
 
 
 We discuss a bunch of topics in&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b525/ff022b4d-174f-4e80-9866-f75090ebb525/Application-Compatibility-Overview_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b525/ff022b4d-174f-4e80-9866-f75090ebb525/Application-Compatibility-Overview_high.mp4</video:content_loc>
         <video:duration>2550</video:duration>
         <video:publication_date>2008-01-09T21:05:32.0000000+00:00</video:publication_date>
       </video:video>
@@ -58,11 +61,28 @@ We discuss a bunch of topics in&amp;#8230;]]></video:description>
       <lastmod>2011-01-16</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/a11fe87b-e34e-4980-bf34-7627df297ddf.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Screencast - Transactional NTFS and WCF]]></video:title>
+        <video:description><![CDATA[Welcome back to the &amp;quot;Developer, Meet Server&amp;quot; screencast everybody . 
+
+In this screencast we will dive back into Transactional NTFS and look at how you can use it with WCF to build powerful&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/llnwd/ch9/3/2/6/3/5/2/296861_DeveloperMeetServer_02_TransactionalNtfsAndWcf.wmv</video:content_loc>
+        <video:publication_date>2007-03-30 17:46:29Z</video:publication_date>
+      </video:video>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Shows/Developer+Meet+Server/Screencast-Transactional-NTFS</loc>
       <lastmod>2011-01-17</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/previewImages/320/7c1fec52-5c28-4a86-abe1-a4a064c4a2b9.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Screencast - Transactional NTFS]]></video:title>
+        <video:description><![CDATA[Welcome everybody to the inaugural, first ever, grand opening, “opening the doors to the public” celebration day kick-off for the new “Developer, Meet Server” screencast series. 
+I am your sincere,&amp;#8230;]]></video:description>
+        <video:content_loc>https://sec.ch9.ms/llnwd/ch9/9/0/0/3/5/2/289816_DeveloperMeetServer_01_TransactionalNtfs.wmv</video:content_loc>
+        <video:publication_date>2007-03-09 21:29:01Z</video:publication_date>
+      </video:video>
    </url>
 </urlset> 
