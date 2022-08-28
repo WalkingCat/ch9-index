@@ -166,23 +166,40 @@ void DownloadFile(string uri, string file)
         {
             try
             {
-                Console.WriteLine($"Downloading {file}");
+                Console.Write($"Downloading {file}");
                 Directory.CreateDirectory(Path.GetDirectoryName(path)!);
-                using var fs = File.OpenWrite(path);
-                fs.Write(http.GetByteArrayAsync(uri).Result);
+                var data = http.GetByteArrayAsync(uri).Result;
+                if (data.Length > 0)
+                {
+                    using var fs = File.OpenWrite(path);
+                    fs.Write(data);
+                    fs.Flush();
+                    fs.Close();
+                }
+                else
+                {
+                    Console.Write(" [EMPTY]");
+                }
                 done = true;
             }
-            catch (HttpRequestException ex)
+            catch (AggregateException ex)
             {
-                if (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
+                if (ex.InnerException is HttpRequestException hrex)
                 {
-                    done = true;
+                    Console.Write($" [{hrex.StatusCode}]");
+                    if (hrex.StatusCode == System.Net.HttpStatusCode.NotFound)
+                    {
+                        done = true;
+                    }
                 }
+                else throw;
             }
             catch
             {
+                Console.Write(" [ERROR]");
                 done = true;
             }
+            Console.WriteLine();
         } while (!done);
     }
 
