@@ -47,8 +47,8 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
             if (featured && !string.IsNullOrEmpty(thumb))
             {
-                var local_thumb = Path.Combine("./thumbnails/",
-                    Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb)));
+                var local_thumb = "./thumbnails/" +
+                    Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb));
                 DownloadFile(thumb, local_thumb);
                 thumb = local_thumb;
             }
@@ -118,8 +118,8 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 
             if (featured && !string.IsNullOrEmpty(v_thumb))
             {
-                var local_thumb = Path.Combine($"./thumbnails/{cat}_{name}",
-                    Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb))!);
+                var local_thumb = $"./thumbnails/{cat}_{name}/" +
+                    Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb));
                 DownloadFile(v_thumb, local_thumb);
                 v_thumb = local_thumb;
             }
@@ -158,7 +158,7 @@ foreach (var (_, index) in index_files)
 
 void DownloadFile(string uri, string file)
 {
-    var path = out_dir + file;
+    var path = Path.Combine(out_dir, file);
     if (!File.Exists(path))
     {
         bool done = false;
