@@ -27,6 +27,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
     var first = true;
     var urls = xml.GetElementsByTagName("url");
     var arc_date = "2020";
+    var local_thumbs = false;
 
     foreach (XmlElement elem in urls)
     {
@@ -34,12 +35,19 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
         var loc = elem.GetElementsByTagName("loc").Item(0)?.InnerText;
         var title = elem.GetElementsByTagName("title").Item(0)?.InnerText;
         if (string.IsNullOrEmpty(title)) { title = name.Replace('+', ' '); }
-        var thumb = elem.GetElementsByTagName("thumbnail_loc").Item(0)?.InnerText;
         var desc = elem.GetElementsByTagName("description").Item(0)?.InnerText;
         var featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
+        var local_thumb_path = $"./thumbnails/{cat}_{name}/";
+        var thumb = elem.GetElementsByTagName("thumbnail_loc").Item(0)?.InnerText;
 
         if (first)
         {
+            local_thumbs = elem.GetElementsByTagName("local_thumbnails").Item(0)?.InnerText == "true";
+            if (local_thumbs && !string.IsNullOrEmpty(thumb))
+            {
+                thumb = Path.Combine(local_thumb_path, Path.GetFileName(thumb));
+            }
+
             arc_date = (elem.GetElementsByTagName("archive_date").Item(0)?.InnerText) ?? arc_date;
 
             first = false;
@@ -102,6 +110,11 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             v_thumb = v_thumb?.Replace("http://files.channel9.msdn.com/", "https://f.ch9.ms/");
             v_loc = v_loc?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
             v_loc = v_loc?.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
+
+            if (local_thumbs && !string.IsNullOrEmpty(v_thumb))
+            {
+                v_thumb = Path.Combine(local_thumb_path, Path.GetFileName(v_thumb));
+            }
 
             if (string.IsNullOrWhiteSpace(v_title))
             {
