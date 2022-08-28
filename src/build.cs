@@ -45,7 +45,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
         if (first)
         {
             featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
-            if (featured && !string.IsNullOrEmpty(thumb))
+            if (featured && !string.IsNullOrEmpty(thumb) && !thumb.StartsWith("."))
             {
                 var local_thumb = "./thumbnails/" +
                     Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb));
@@ -116,7 +116,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             v_loc = v_loc?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
             v_loc = v_loc?.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
 
-            if (featured && !string.IsNullOrEmpty(v_thumb))
+            if (featured && !string.IsNullOrEmpty(v_thumb) && !v_thumb.StartsWith("."))
             {
                 var local_thumb = $"./thumbnails/{cat}_{name}/" +
                     Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb));
@@ -166,7 +166,7 @@ void DownloadFile(string uri, string file)
         {
             try
             {
-                Console.Write($"Downloading {file}");
+                Console.Write($"  Downloading {file}");
                 Directory.CreateDirectory(Path.GetDirectoryName(path)!);
                 var data = http.GetByteArrayAsync(uri).Result;
                 if (data.Length > 0)
