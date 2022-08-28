@@ -1,6 +1,9 @@
 ﻿using System.Xml;
+using System.Net.Http;
+var out_dir = @"..\docs\";
 var filter = args.FirstOrDefault("");
 var index_files = new Dictionary<string, StreamWriter>();
+var http = new HttpClient();
 foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 {
     var filename = Path.GetFileNameWithoutExtension(path);
@@ -12,7 +15,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
     var xml = new XmlDocument();
     xml.Load(path);
 
-    var index_name = $"..\\docs\\{cat}.html";
+    var index_name = $"{out_dir}{cat}.html";
     if (string.IsNullOrEmpty(filter))
     {
         if (!index_files.ContainsKey(index_name))
@@ -27,25 +30,27 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
     var first = true;
     var urls = xml.GetElementsByTagName("url");
     var arc_date = "2020";
-    var local_thumbs = false;
+    var featured = false;
 
     foreach (XmlElement elem in urls)
     {
         var video = elem.GetElementsByTagName("video:video").Item(0) as XmlElement;
         var loc = elem.GetElementsByTagName("loc").Item(0)?.InnerText;
+        var loc_name = Path.GetFileName(loc);
         var title = elem.GetElementsByTagName("title").Item(0)?.InnerText;
         if (string.IsNullOrEmpty(title)) { title = name.Replace('+', ' '); }
         var desc = elem.GetElementsByTagName("description").Item(0)?.InnerText;
-        var featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
-        var local_thumb_path = $"./thumbnails/{cat}_{name}/";
         var thumb = elem.GetElementsByTagName("thumbnail_loc").Item(0)?.InnerText;
 
         if (first)
         {
-            local_thumbs = elem.GetElementsByTagName("local_thumbnails").Item(0)?.InnerText == "true";
-            if (local_thumbs && !string.IsNullOrEmpty(thumb))
+            featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
+            if (featured && !string.IsNullOrEmpty(thumb))
             {
-                thumb = Path.Combine(local_thumb_path, Path.GetFileName(thumb));
+                var local_thumb = Path.Combine("./thumbnails/",
+                    Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb)));
+                DownloadFile(thumb, local_thumb);
+                thumb = local_thumb;
             }
 
             arc_date = (elem.GetElementsByTagName("archive_date").Item(0)?.InnerText) ?? arc_date;
@@ -111,9 +116,12 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             v_loc = v_loc?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
             v_loc = v_loc?.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
 
-            if (local_thumbs && !string.IsNullOrEmpty(v_thumb))
+            if (featured && !string.IsNullOrEmpty(v_thumb))
             {
-                v_thumb = Path.Combine(local_thumb_path, Path.GetFileName(v_thumb));
+                var local_thumb = Path.Combine($"./thumbnails/{cat}_{name}",
+                    Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb))!);
+                DownloadFile(v_thumb, local_thumb);
+                v_thumb = local_thumb;
             }
 
             if (string.IsNullOrWhiteSpace(v_title))
@@ -146,4 +154,36 @@ foreach (var (_, index) in index_files)
     index.Flush();
     index.Close();
     index.Dispose();
+}
+
+void DownloadFile(string uri, string file)
+{
+    var path = out_dir + file;
+    if (!File.Exists(path))
+    {
+        bool done = false;
+        do
+        {
+            try
+            {
+                Console.WriteLine($"Downloading {file}");
+                Directory.CreateDirectory(Path.GetDirectoryName(path)!);
+                using var fs = File.OpenWrite(path);
+                fs.Write(http.GetByteArrayAsync(uri).Result);
+                done = true;
+            }
+            catch (HttpRequestException ex)
+            {
+                if (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
+                {
+                    done = true;
+                }
+            }
+            catch
+            {
+                done = true;
+            }
+        } while (!done);
+    }
+
 }
