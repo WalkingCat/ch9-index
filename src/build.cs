@@ -1,9 +1,12 @@
 ﻿using System.Xml;
 using System.Net.Http;
+
 var out_dir = @"..\docs\";
 var filter = args.FirstOrDefault("");
-var index_files = new Dictionary<string, StreamWriter>();
+var has_filter = !string.IsNullOrEmpty(filter);
+var indexes = new Dictionary<string, Tuple<StringWriter, StringWriter>>();
 var http = new HttpClient();
+
 foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 {
     var filename = Path.GetFileNameWithoutExtension(path);
@@ -16,14 +19,14 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
     xml.Load(path);
 
     var index_name = $"{out_dir}{cat}.html";
-    if (string.IsNullOrEmpty(filter))
+    if (!has_filter)
     {
-        if (!index_files.ContainsKey(index_name))
+        if (!indexes.ContainsKey(index_name))
         {
-            index_files[index_name] = new StreamWriter(index_name, false, System.Text.Encoding.UTF8);
+            indexes[index_name] = new(new StringWriter(), new StringWriter());
         }
     }
-    var index = index_files.GetValueOrDefault(index_name);
+    var index_writers = indexes.GetValueOrDefault(index_name);
 
     using var content = new StreamWriter($"..\\docs\\{cat}_{name}.html", false, System.Text.Encoding.UTF8);
 
@@ -47,30 +50,24 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
             if (featured && !string.IsNullOrEmpty(thumb) && !thumb.StartsWith("."))
             {
-                var local_thumb = "./thumbnails/" +
-                    Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb));
-                DownloadFile(thumb, local_thumb);
+                var local_thumb = "./thumbnails/" + Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb));
+                if (has_filter) DownloadFile(thumb, local_thumb);
                 thumb = local_thumb;
             }
 
             arc_date = (elem.GetElementsByTagName("archive_date").Item(0)?.InnerText) ?? arc_date;
 
             first = false;
-            if (index is object)
+            if (index_writers is object)
             {
-                if (index.BaseStream.Position == 0)
-                {
-                    index.WriteLine(
-                        "<head><link rel='stylesheet' href='styles.css'></head><body class='index'>"
-                    );
-                }
+                var index = featured ? index_writers.Item1 : index_writers.Item2;
                 index.WriteLine(
-                    $"<nobr id='{name}' class='title-container{(featured ? " featured" : "")}'>" +
-                    $"<a href='http://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                    $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
-                    $"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
-                    "</nobr>"
-                );
+                     $"<nobr id='{name}' class='title-container{(featured ? " featured" : "")}'>" +
+                     $"<a href='http://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                     $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
+                     $"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
+                     "</nobr>"
+                 );
                 index.Flush();
             }
 
@@ -118,9 +115,8 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 
             if (featured && !string.IsNullOrEmpty(v_thumb) && !v_thumb.StartsWith("."))
             {
-                var local_thumb = $"./thumbnails/{cat}_{name}/" +
-                    Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb));
-                DownloadFile(v_thumb, local_thumb);
+                var local_thumb = $"./thumbnails/{cat}_{name}/" + Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb));
+                if (has_filter) DownloadFile(v_thumb, local_thumb);
                 v_thumb = local_thumb;
             }
 
@@ -149,11 +145,26 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
         }
     }
 }
-foreach (var (_, index) in index_files)
+
+foreach (var (name, index) in indexes)
 {
-    index.Flush();
-    index.Close();
-    index.Dispose();
+    var featured = index.Item1.ToString();
+    var archive = index.Item2.ToString();
+
+    using var index_file = new StreamWriter(name, false, System.Text.Encoding.UTF8);
+
+    index_file.WriteLine(
+        "<head><link rel='stylesheet' href='styles.css'></head><body class='index'>"
+    );
+    index_file.Write(featured);
+    if ((featured.Length > 0) && (archive.Length > 0))
+    {
+        index_file.WriteLine("<hr class='featured'/>");
+    }
+    index_file.Write(archive);
+
+    index_file.Flush();
+    index_file.Close();
 }
 
 void DownloadFile(string uri, string file)
