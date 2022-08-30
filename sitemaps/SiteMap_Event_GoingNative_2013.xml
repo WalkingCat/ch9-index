@@ -5,6 +5,10 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title><![CDATA[GoingNative 2013]]></title>
+      <thumbnail_loc>https://f.ch9.ms/thumbnail/1f2ca5a1-ec60-43e2-b84a-ef2cf77743c7.png</thumbnail_loc>
+      <description><![CDATA[The theme of GoingNative 2013 is decidedly pragmatic - to inform and educate the global C++ developer community with the latest information about ISO C++11 and draft C++14. Fro&amp;#8230;]]></description>
+      <featured>true</featured>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Events/GoingNative/2013/A-Cpp-REST-SDK-OSS-web-services-on-Windows-and-Linux</loc>
@@ -15,7 +19,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/ac1d/750dc4e3-e60b-4f3f-a241-77ee73c9ac1d/GN13NiklasGustafssonACPPRestSDK_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[A C++ REST SDK: OSS web services on Windows and Linux ]]></video:title>
         <video:description><![CDATA[C&amp;#43;&amp;#43; 11 is a thoroughly modern and productive language, but it is often seen as long in the tooth when it comes to connecting to cloud. In particular, consuming and authoring REST services in&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ac1d/750dc4e3-e60b-4f3f-a241-77ee73c9ac1d/GN13NiklasGustafssonACPPRestSDK_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ac1d/750dc4e3-e60b-4f3f-a241-77ee73c9ac1d/GN13NiklasGustafssonACPPRestSDK_Source.wmv</video:content_loc>
         <video:duration>1937</video:duration>
         <video:publication_date>2013-12-13T01:02:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -29,7 +33,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f0f1/d34317ac-6b33-478a-8a9e-a236cc88f0f1/GN13CompilerConfidential_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Compiler Confidential]]></video:title>
         <video:description><![CDATA[Modern CPU and instruction set architecture improvements are critical to the performance of software, but it&#39;s the compiler that can make your code sing. Come learn how compiler optimizations are&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f0f1/d34317ac-6b33-478a-8a9e-a236cc88f0f1/GN13CompilerConfidential_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f0f1/d34317ac-6b33-478a-8a9e-a236cc88f0f1/GN13CompilerConfidential_Source.wmv</video:content_loc>
         <video:duration>3721</video:duration>
         <video:publication_date>2013-12-12T23:05:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -43,7 +47,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7088/9ea88d5a-b989-4310-a1e9-f7911ef77088/GN13HerbSutterUIChallenge_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Herb&#39;s UI Challenge]]></video:title>
         <video:description><![CDATA[In his keynote, Herb challenged GN13 attendees to make a UI app from scratch using ISO C&amp;#43;&amp;#43;, openFrameworks and/or Cinder libraries. Let&#39;s see what they came up with!   ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7088/9ea88d5a-b989-4310-a1e9-f7911ef77088/GN13HerbSutterUIChallenge_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7088/9ea88d5a-b989-4310-a1e9-f7911ef77088/GN13HerbSutterUIChallenge_Source.wmv</video:content_loc>
         <video:duration>653</video:duration>
         <video:publication_date>2013-09-06T16:09:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -57,7 +61,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b60f/8c75513e-36fe-4ad2-98f7-e1a58815b60f/GN13AlesHolecekCPPandtheWindowsRuntime_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ and the Windows Runtime]]></video:title>
         <video:description><![CDATA[In this talk, Ales discusses the evolution of the Windows platform and the story of its development, and the key role that C&amp;#43;&amp;#43; plays in it.  In the spirit of &amp;quot;Going Native&amp;quot;, the new&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b60f/8c75513e-36fe-4ad2-98f7-e1a58815b60f/GN13AlesHolecekCPPandtheWindowsRuntime_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b60f/8c75513e-36fe-4ad2-98f7-e1a58815b60f/GN13AlesHolecekCPPandtheWindowsRuntime_Source.wmv</video:content_loc>
         <video:duration>2396</video:duration>
         <video:publication_date>2013-09-05T15:27:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -71,7 +75,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/40c1/f4307006-a181-4004-9b35-a474a1c040c1/GN13ElliotHOmiyaEverythingYouWantedtoKnowThreadin_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Everything You Always Wanted to Know About Threading (But...)]]></video:title>
         <video:description><![CDATA[In this talk, Elliot discusses the history of threading in Windows and surveys thread scheduling, threadpool internals, UI thread behavior, the new ASTA UI infrastructure, and the WinRT async pattern. ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/40c1/f4307006-a181-4004-9b35-a474a1c040c1/GN13ElliotHOmiyaEverythingYouWantedtoKnowThreadin_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/40c1/f4307006-a181-4004-9b35-a474a1c040c1/GN13ElliotHOmiyaEverythingYouWantedtoKnowThreadin_Source.wmv</video:content_loc>
         <video:duration>3449</video:duration>
         <video:publication_date>2013-09-01T23:23:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -85,7 +89,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/5b01/f7bfac2d-3b75-44cd-bea7-0a55bf355b01/GN13DeonBrewisBringingawaittoCPP_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Bringing await to C++]]></video:title>
         <video:description><![CDATA[Modern application development requires asynchronous programming techniques. For C&amp;#43;&amp;#43;, this generally involves using libraries employing promises or futures or tasks, a la PPL and std::future.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5b01/f7bfac2d-3b75-44cd-bea7-0a55bf355b01/GN13DeonBrewisBringingawaittoCPP_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5b01/f7bfac2d-3b75-44cd-bea7-0a55bf355b01/GN13DeonBrewisBringingawaittoCPP_Source.wmv</video:content_loc>
         <video:duration>2305</video:duration>
         <video:publication_date>2013-08-26T17:50:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -99,7 +103,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/62d2/ed10925d-060f-4464-84be-fce8961f62d2/GN13GarrettSerackUsingNuGetforCandCPPLibraries_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Find-Build-Share-Use: Using NuGet for C and C++ Libraries  ]]></video:title>
         <video:description><![CDATA[Finally! NuGet package management-long reserved for managed developers-is finally here for C/C&amp;#43;&amp;#43; developers! Discover the simplicity of finding and consuming native library packages in NuGet,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/62d2/ed10925d-060f-4464-84be-fce8961f62d2/GN13GarrettSerackUsingNuGetforCandCPPLibraries_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/62d2/ed10925d-060f-4464-84be-fce8961f62d2/GN13GarrettSerackUsingNuGetforCandCPPLibraries_Source.wmv</video:content_loc>
         <video:duration>1228</video:duration>
         <video:publication_date>2013-08-21T18:22:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -113,7 +117,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b122/9bbf9413-1d63-4720-a1c5-f938f21cb122/GN13AndreiAlexandrescuExplodingTuple_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[The Way of the Exploding Tuple ]]></video:title>
         <video:description><![CDATA[People commonly ask: “If I have a tuple&amp;lt;T...&amp;gt;  and a function fun(T...), how do I generically call the function passing the tuple as arguments?” It’s a short piece of quite unusual code.   ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b122/9bbf9413-1d63-4720-a1c5-f938f21cb122/GN13AndreiAlexandrescuExplodingTuple_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b122/9bbf9413-1d63-4720-a1c5-f938f21cb122/GN13AndreiAlexandrescuExplodingTuple_Source.wmv</video:content_loc>
         <video:duration>1524</video:duration>
         <video:publication_date>2013-08-21T18:20:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -127,7 +131,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/93cb/06fb3056-c4f1-4098-ab9d-fd02594693cb/GN13HerbSutterMyFavoriteCPP10Liner_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[My Favorite C++ 10-Liner ]]></video:title>
         <video:description><![CDATA[I’ll share my favorite 10-line piece of C&amp;#43;&amp;#43; code I’ve come across and explain just how amazingly much it does in those 10 lines. And, if that doesn’t fill 20 minutes, I might just share more&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/93cb/06fb3056-c4f1-4098-ab9d-fd02594693cb/GN13HerbSutterMyFavoriteCPP10Liner_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/93cb/06fb3056-c4f1-4098-ab9d-fd02594693cb/GN13HerbSutterMyFavoriteCPP10Liner_Source.wmv</video:content_loc>
         <video:duration>1602</video:duration>
         <video:publication_date>2013-08-21T18:20:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -141,7 +145,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7469/5deda136-d074-445d-8ac8-8a6983507469/GN13SeanParentInheritanceistheBaseClassofEvil_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Inheritance Is The Base Class of Evil]]></video:title>
         <video:description><![CDATA[Implementing non-intrusive runtime polymorphic objects with value-semantics, and multiple-undo in 20 minutes. ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7469/5deda136-d074-445d-8ac8-8a6983507469/GN13SeanParentInheritanceistheBaseClassofEvil_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7469/5deda136-d074-445d-8ac8-8a6983507469/GN13SeanParentInheritanceistheBaseClassofEvil_Source.wmv</video:content_loc>
         <video:duration>1459</video:duration>
         <video:publication_date>2013-08-21T18:19:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -155,7 +159,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/2712/2a0db69d-5304-4bd5-9e93-1cce03f92712/GN13PanelDay3_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Q&amp;A Panel]]></video:title>
         <video:description><![CDATA[Attendee-driven Q&amp;amp;A with Day 3 speakers: Herb Sutter, Niklas Gustafsson, Elliot H. Omiya, Sean Parent, Michael Wong, and Eric Brumer. ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/2712/2a0db69d-5304-4bd5-9e93-1cce03f92712/GN13PanelDay3_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/2712/2a0db69d-5304-4bd5-9e93-1cce03f92712/GN13PanelDay3_Source.wmv</video:content_loc>
         <video:duration>3008</video:duration>
         <video:publication_date>2013-08-21T18:19:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -169,7 +173,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/c741/4548a96a-412c-429a-8e64-cee1c844c741/GN13JimRadiganCPP_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Compiler++]]></video:title>
         <video:description><![CDATA[In order to successfully deliver new and innovative C&amp;#43;&amp;#43; compiler technology on a regular basis, compiler vendors must respond to yearly microprocessor advancements. Additionally, the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/c741/4548a96a-412c-429a-8e64-cee1c844c741/GN13JimRadiganCPP_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/c741/4548a96a-412c-429a-8e64-cee1c844c741/GN13JimRadiganCPP_Source.wmv</video:content_loc>
         <video:duration>4420</video:duration>
         <video:publication_date>2013-08-19T22:05:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -183,7 +187,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/2f90/5172e898-ba7b-4901-8952-b85d72192f90/GN13PanelDay2_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Interactive Panel: Ask Us Anything]]></video:title>
         <video:description><![CDATA[Attendee-driven Q&amp;amp;A with Day 1 and Day 2 speakers: Bjarne Stroustrup, Andrei Alexandrescu, Herb Sutter, Scott Meyers, Chandler Carruth, Sean Parent, Michael Wong, and Stephan T. Lavavej. ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/2f90/5172e898-ba7b-4901-8952-b85d72192f90/GN13PanelDay2_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/2f90/5172e898-ba7b-4901-8952-b85d72192f90/GN13PanelDay2_Source.wmv</video:content_loc>
         <video:duration>4726</video:duration>
         <video:publication_date>2013-08-19T21:58:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -197,7 +201,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9fb9/5f4cd3b3-4569-4651-987a-46dcc2739fb9/GN13STLrandConsideredHarmful_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[rand() Considered Harmful ]]></video:title>
         <video:description><![CDATA[When you need a random number, don&#39;t call rand() and especially don&#39;t say rand() % 100!  This presentation will explain why that&#39;s so terrible, and how C&amp;#43;&amp;#43;11&#39;s &amp;lt;random&amp;gt; header can make&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9fb9/5f4cd3b3-4569-4651-987a-46dcc2739fb9/GN13STLrandConsideredHarmful_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9fb9/5f4cd3b3-4569-4651-987a-46dcc2739fb9/GN13STLrandConsideredHarmful_Source.wmv</video:content_loc>
         <video:duration>1887</video:duration>
         <video:publication_date>2013-08-17T18:04:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -211,7 +215,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/baa6/ac9ca7a8-dda7-4f46-96ff-f3f48a27baa6/GN13MichaelWongCpp14ThroughtheLookingGlass_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++14: Through the Looking Glass ]]></video:title>
         <video:description><![CDATA[“The time has come,” the ISO said, “To talk of many things:  Of move-capture—and literals— Of making lambdas sing— And why deduction is so hot— And if digits should grow wings?” So have you heard of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/baa6/ac9ca7a8-dda7-4f46-96ff-f3f48a27baa6/GN13MichaelWongCpp14ThroughtheLookingGlass_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/baa6/ac9ca7a8-dda7-4f46-96ff-f3f48a27baa6/GN13MichaelWongCpp14ThroughtheLookingGlass_Source.wmv</video:content_loc>
         <video:duration>3669</video:duration>
         <video:publication_date>2013-07-28T21:42:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -225,7 +229,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/744b/d83af651-bdb2-4f76-9002-22826b17744b/GN13ChandlerCarruthTheCareandFeedingofCppsDragon_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[The Care and Feeding of C++s Dragons ]]></video:title>
         <video:description><![CDATA[Last year I described C&amp;#43;&amp;#43; as bearing the cautionary label ‘Here Be Dragons.’ And yet we’re all still writing C&amp;#43;&amp;#43; because it is the best programming language for the problems we face.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/744b/d83af651-bdb2-4f76-9002-22826b17744b/GN13ChandlerCarruthTheCareandFeedingofCppsDragon_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/744b/d83af651-bdb2-4f76-9002-22826b17744b/GN13ChandlerCarruthTheCareandFeedingofCppsDragon_Source.wmv</video:content_loc>
         <video:duration>5686</video:duration>
         <video:publication_date>2013-07-28T21:42:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -239,7 +243,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/5c51/d30749f7-09d7-4266-bd57-d1d446165c51/GN13HerbOneCpp_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Keynote: Herb Sutter - One C++]]></video:title>
         <video:description><![CDATA[Herb Sutter, language architect of Visual C&amp;#43;&amp;#43; and Chairman of the ISO C&amp;#43;&amp;#43; Committee, opens Day 2 with a brand new talk, &amp;quot;One C&amp;#43;&amp;#43;&amp;quot;. ]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5c51/d30749f7-09d7-4266-bd57-d1d446165c51/GN13HerbOneCpp_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5c51/d30749f7-09d7-4266-bd57-d1d446165c51/GN13HerbOneCpp_Source.wmv</video:content_loc>
         <video:duration>5487</video:duration>
         <video:publication_date>2013-07-28T21:41:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -253,7 +257,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/a866/9db13f93-4f7a-47fe-9c62-c5d4149aa866/Gn13ScottMeyersAnEffectiveCPP_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[An Effective C++11/14 Sampler]]></video:title>
         <video:description><![CDATA[After years of intensive study (first of C&amp;#43;&amp;#43;0x, then of C&amp;#43;&amp;#43;11, and most recently of C&amp;#43;&amp;#43;14), Scott thinks he finally has a clue. About the effective use of C&amp;#43;&amp;#43;11, that&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/a866/9db13f93-4f7a-47fe-9c62-c5d4149aa866/Gn13ScottMeyersAnEffectiveCPP_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/a866/9db13f93-4f7a-47fe-9c62-c5d4149aa866/Gn13ScottMeyersAnEffectiveCPP_Source.wmv</video:content_loc>
         <video:duration>4545</video:duration>
         <video:publication_date>2013-07-28T21:41:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -267,7 +271,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b03d/c1e8a130-f457-40b8-a36d-8c5126d0b03d/GN13STLDontHelptheCompiler_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Dont Help the Compiler ]]></video:title>
         <video:description><![CDATA[C&amp;#43;&amp;#43; has powerful rules for dealing with low-level program structure.  Before a program is ever executed, the compiler determines valuable information about every expression in the source code.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b03d/c1e8a130-f457-40b8-a36d-8c5126d0b03d/GN13STLDontHelptheCompiler_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b03d/c1e8a130-f457-40b8-a36d-8c5126d0b03d/GN13STLDontHelptheCompiler_Source.wmv</video:content_loc>
         <video:duration>4620</video:duration>
         <video:publication_date>2013-07-28T21:39:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -281,7 +285,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/b6d9/2fbed296-e747-44c8-9833-e086a443b6d9/GN13AndreiAlexandrescuWritingQuickCodeCpp_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Writing Quick Code in C++, Quickly ]]></video:title>
         <video:description><![CDATA[Contemporary computer architectures make it possible for slow code to work reasonably well. They also make it difficult to write really fast code that exploits the CPU amenities to their fullest. And&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/b6d9/2fbed296-e747-44c8-9833-e086a443b6d9/GN13AndreiAlexandrescuWritingQuickCodeCpp_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/b6d9/2fbed296-e747-44c8-9833-e086a443b6d9/GN13AndreiAlexandrescuWritingQuickCodeCpp_Source.wmv</video:content_loc>
         <video:duration>4297</video:duration>
         <video:publication_date>2013-07-28T21:39:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -295,7 +299,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/ca9a/66ac2da7-efca-4e13-a494-62843281ca9a/GN13BjarneStroustrup_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Bjarne Stroustrup - The Essence of C++: With Examples in C++84, C++98, C++11, and C++14 ]]></video:title>
         <video:description><![CDATA[C&amp;#43;&amp;#43;11 is being deployed and the shape of C&amp;#43;&amp;#43;14 is becoming clear. This talk examines the foundations of C&amp;#43;&amp;#43;. What is essential? What sets C&amp;#43;&amp;#43; apart from other&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/ca9a/66ac2da7-efca-4e13-a494-62843281ca9a/GN13BjarneStroustrup_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/ca9a/66ac2da7-efca-4e13-a494-62843281ca9a/GN13BjarneStroustrup_Source.wmv</video:content_loc>
         <video:duration>5802</video:duration>
         <video:publication_date>2013-07-28T21:38:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -309,7 +313,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/8b0e/512cf5cc-8628-4b4c-88f4-56ae14dd8b0e/GN13SeanParentCppSeasoning_220.jpg</video:thumbnail_loc>
         <video:title><![CDATA[C++ Seasoning ]]></video:title>
         <video:description><![CDATA[A look at many of the new features in C&amp;#43;&amp;#43; and a couple of old features you may not have known about. With the goal of correctness in mind, we’ll see how to utilize these features to create&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/8b0e/512cf5cc-8628-4b4c-88f4-56ae14dd8b0e/GN13SeanParentCppSeasoning_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/8b0e/512cf5cc-8628-4b4c-88f4-56ae14dd8b0e/GN13SeanParentCppSeasoning_Source.wmv</video:content_loc>
         <video:duration>4632</video:duration>
         <video:publication_date>2013-07-28T21:38:00.0000000+00:00</video:publication_date>
       </video:video>
