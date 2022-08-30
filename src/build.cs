@@ -110,6 +110,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 
             v_thumb = v_thumb?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
             v_thumb = v_thumb?.Replace("http://files.channel9.msdn.com/", "https://f.ch9.ms/");
+            v_thumb = v_thumb?.Replace("http://sessions.visitmix.com/images/", "https://sec.ch9.ms/ecn/content/mixvideos/");
             v_loc = v_loc?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
             v_loc = v_loc?.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
 
