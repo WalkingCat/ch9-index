@@ -14,7 +14,7 @@
 				if (sep > 1) {
 					const index = page.substring(0, sep);
 					const content = page.substring(sep + 1).replaceAll(' ', '+');
-					if (['Shows', 'Series', 'Blogs', 'Posts', 'Events', 'EventRegion', 'Extras'].indexOf(index) >= 0) {
+					if (['Shows', 'Series', 'Blogs', 'Posts', 'Event', 'EventRegion', 'Extras'].indexOf(index) >= 0) {
 						window.open(index + '.html#' + content, 'index');
 						window.open(index + '_' + content + '.html', 'content');
 					}
