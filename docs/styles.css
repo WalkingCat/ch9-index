@@ -34,6 +34,7 @@ body.index, body.content {
 img.vthumb, img.thumb {
 	width: 256px;
 	height: auto;
+	min-height: 144px;
 	display: inline-block;
 	outline: 1px solid black;
 }
