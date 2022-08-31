@@ -238,6 +238,12 @@
       <lastmod>2015-10-15</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://sec.ch9.ms/ecn/mix/09/thumb/06w.png</video:thumbnail_loc>
+        <video:title><![CDATA[Hiking Mt. Avalon]]></video:title>
+        <video:description><![CDATA[WPF has a reputation for a steep learning curve. Robby Ingebretsen and Jaime Rodriguez do remember back to the early Avalon days when things were hard: no tools, no docs, no sleep. Today, it is much e&amp;#8230;]]></video:description>
+        <video:publication_date>2009-03-11T01:31:59.0000000+00:00</video:publication_date>
+      </video:video>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Events/MIX/MIX09/T08F</loc>
@@ -1076,6 +1082,13 @@
       <lastmod>2015-10-15</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/mix/09/thumb/b01m.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Scaling a Rich Client to Half a Billion Users]]></video:title>
+        <video:description><![CDATA[See how China's Tencent Corporation built a next-generation QQ Instant Messenger client using Microsoft Silverlight. Hear how one of the largest communities in the world with 400M+ active users and 50&amp;#8230;]]></video:description>
+        <video:content_loc>http://video.ch9.ms/ecn/mix/09/wmv-hq/B01M.wmv</video:content_loc>
+        <video:publication_date>2009-03-11T01:31:59.0000000+00:00</video:publication_date>
+      </video:video>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Events/MIX/MIX09/T80M</loc>
@@ -1304,10 +1317,10 @@
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
       <video:video>
-        <video:thumbnail_loc>http://video.ch9.ms/ecn/mix/09/thumb/T17F.jpg</video:thumbnail_loc>
+        <video:thumbnail_loc>http://video.ch9.ms/ecn/mix/09/thumb/t17f.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Deep Dive into Microsoft Silverlight Graphics]]></video:title>
         <video:description><![CDATA[Come hear about the Silverlight 3 rendering pipeline, and learn how to enhance your application experience with the latest additions to the Silverlight graphics APIs.]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/mix/09/wmv-hq/T17F.wmv</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/mix/09/wmv-hq/t17f.wmv</video:content_loc>
         <video:publication_date>2009-03-11T01:31:59.0000000+00:00</video:publication_date>
       </video:video>
    </url>
@@ -1652,5 +1665,11 @@
       <lastmod>2015-10-15</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
+      <video:video>
+        <video:thumbnail_loc>https://f.ch9.ms/thumbnail/57d5dac3-ef62-4d70-bc95-fe7f371bc82d.jpg</video:thumbnail_loc>
+        <video:title><![CDATA[Cascading Stylesheets]]></video:title>
+        <video:description><![CDATA[Responsible for visual design elements such as fonts, colors, and page layout, CSS also allows you to make your sites run better, gain improved speed, and enjoy improved accessibility and search engin&amp;#8230;]]></video:description>
+        <video:publication_date>2009-03-11T01:31:59.0000000+00:00</video:publication_date>
+      </video:video>
    </url>
 </urlset> 
