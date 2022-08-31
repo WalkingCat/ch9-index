@@ -57,13 +57,15 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 
             arc_date = (elem.GetElementsByTagName("archive_date").Item(0)?.InnerText) ?? arc_date;
 
+            var index_loc = (cat == "Posts") ? $"https://channel9.msdn.com/Niners/{name}/Posts" : loc;
+
             first = false;
             if (index_writers is object)
             {
                 var index = featured ? index_writers.Item1 : index_writers.Item2;
                 index.WriteLine(
                      $"<nobr id='{name}' class='title-container{(featured ? " featured" : "")}'>" +
-                     $"<a href='http://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                     $"<a href='http://web.archive.org/web/{arc_date}/{index_loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                      $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
                      $"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
                      "</nobr>"
@@ -71,32 +73,24 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                 index.Flush();
             }
 
-            content.WriteLine(
-                "<head><link rel='stylesheet' href='styles.css'></head><body class='content'>"
+            content.WriteLine("<head><link rel='stylesheet' href='styles.css'></head><body class='content'>");
+            content.Write(
+                "<nobr class='title-container'><h2>" +
+                $"<a href='http://web.archive.org/web/{arc_date}/{index_loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                $"<span class='title'>{cat} - {title}</span>" +
+                "</h2></nobr>"
             );
-            if (cat == "Posts")
-            {
-                content.WriteLine(
-                    $"<nobr class='title-container'><h2>{cat} - {title}</h2></nobr><br/>"
-                );
-            }
-            else
+            if (!(string.IsNullOrEmpty(thumb) && string.IsNullOrEmpty(desc)))
             {
                 content.Write(
-                    "<nobr class='title-container'><h2>" +
-                    $"<a href='http://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                    $"<span class='title'>{cat} - {title}</span>" +
-                    "</h2></nobr>"
+                    (string.IsNullOrEmpty(thumb) ? "" : $"<img class='thumb' src='{thumb}'/>") +
+                    $"<div class='desc'>{(System.Web.HttpUtility.HtmlDecode(desc))}</div>" +
+                    (string.IsNullOrEmpty(thumb) ? "" : "<br clear='right'/>")
                 );
-                if (!(string.IsNullOrEmpty(thumb) && string.IsNullOrEmpty(desc)))
-                {
-                    content.Write(
-                        (string.IsNullOrEmpty(thumb) ? "" : $"<img class='thumb' src='{thumb}'/>") +
-                        $"<div class='desc'>{(System.Web.HttpUtility.HtmlDecode(desc))}</div>" +
-                        (string.IsNullOrEmpty(thumb) ? "" : "<br clear='right'/>")
-                    );
-                }
-                content.Write("<br/>");
+            }
+            content.WriteLine("<br/>");
+            if (cat != "Posts")
+            {
                 continue;
             }
         }
