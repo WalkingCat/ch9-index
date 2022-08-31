@@ -6,6 +6,10 @@ body.index, body.content {
 	margin: 8px 0px;
 }
 
+body.index {
+	background-color: #F5F5F5;
+}
+
 .title-container, .vtitle-container {
 	display: block;
 	padding: 0px 8px;
@@ -33,10 +37,11 @@ body.index, body.content {
 
 img.vthumb, img.thumb {
 	width: 256px;
-	min-height: 144px;
+	height: 144px;
 	object-fit: contain;
 	display: inline-block;
-	outline: 1px solid black;
+	background-color: #0A0A0A;
+	outline: 1px solid #004E8E;
 }
 
 img.vthumb { float: left; }
