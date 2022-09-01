@@ -50,7 +50,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
             if (featured && !string.IsNullOrEmpty(thumb) && !thumb.StartsWith("."))
             {
-                var local_thumb = "./thumbnails/" + Path.ChangeExtension($"{cat}_{name}", Path.GetExtension(thumb));
+                var local_thumb = $"./thumbnails/{cat}_{name}{Path.GetExtension(thumb)}";
                 if (has_filter) DownloadFile(thumb, local_thumb);
                 thumb = local_thumb;
             }
