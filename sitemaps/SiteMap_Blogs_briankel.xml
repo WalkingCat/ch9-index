@@ -5,6 +5,10 @@
       <lastmod>2021-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
+      <title>Brian Keller</title>
+      <description><![CDATA[Channel 9 Blog for Brian Keller]]></description>
+      <thumbnail_loc>https://avatar-ssl.xboxlive.com/avatar/Gr8fulDead/avatar-body.png</thumbnail_loc>
+      <featured>true</featured>
    </url>
   <url>
       <loc>https://channel9.msdn.com/Blogs/briankel/Lightweight-Web-Editing-with-Markdown-Files-in-Visual-Studio-Online</loc>
@@ -29,7 +33,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/3c86/68890969-0ba5-4d05-b7b1-34889e813c86/DSCGettingStarted_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Getting Started with Desired State Configuration]]></video:title>
         <video:description><![CDATA[Brian Keller talks with Keith Bankston (Senior Program Manager) and Jeff Levinson (Technology Solution Professional) about the PowerShell Desired State Configuration (DSC), the new Configuration as&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/3c86/68890969-0ba5-4d05-b7b1-34889e813c86/DSCGettingStarted_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/3c86/68890969-0ba5-4d05-b7b1-34889e813c86/DSCGettingStarted_high.mp4</video:content_loc>
         <video:duration>1048</video:duration>
         <video:publication_date>2014-11-24T18:44:23.4380994+00:00</video:publication_date>
       </video:video>
@@ -43,7 +47,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/79da/bec2e49e-ce8c-49d0-bc63-fc3cdb3079da/AzureO365Identity_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Azure and Office 365 powered by Identity and Access Services]]></video:title>
         <video:description><![CDATA[This short animation tells a story about how Azure and Office 365 work together as building blocks for corporate applications and how identity plays a key role as the &amp;quot;glue&amp;quot; that makes these&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/79da/bec2e49e-ce8c-49d0-bc63-fc3cdb3079da/AzureO365Identity_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/79da/bec2e49e-ce8c-49d0-bc63-fc3cdb3079da/AzureO365Identity_high.mp4</video:content_loc>
         <video:duration>221</video:duration>
         <video:publication_date>2014-07-18T02:03:51.0300647+00:00</video:publication_date>
       </video:video>
@@ -57,7 +61,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/025b/f32dc57b-3d4d-4426-a5ed-9ee7014d025b/ManagingFieldMappingsforIntegrationofTeamFoundationServerandProjectServer_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Managing Field Mappings for Integration of Team Foundation Server and Project Server ]]></video:title>
         <video:description><![CDATA[ This is the fourth of four videos which demonstrates the Visual Studio Team Foundation Server 2010 and Project Server Integration Feature Pack. This video is a recording of the hands-on-lab available&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/025b/f32dc57b-3d4d-4426-a5ed-9ee7014d025b/ManagingFieldMappingsforIntegrationofTeamFoundationServerandProjectServer_high_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/025b/f32dc57b-3d4d-4426-a5ed-9ee7014d025b/ManagingFieldMappingsforIntegrationofTeamFoundationServerandProjectServer_high_2MB_ch9.wmv</video:content_loc>
         <video:duration>1273</video:duration>
         <video:publication_date>2011-05-19T00:42:22.0000000+00:00</video:publication_date>
       </video:video>
@@ -71,7 +75,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/7fe2/dccb695b-a70c-4d44-b989-9ee7014c7fe2/MakingAgileTeamProgressVisibletotheProjectManagementOffice_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Making Agile Team Progress Visible to the Project Management Office ]]></video:title>
         <video:description><![CDATA[ This is the third of four videos which demonstrates the Visual Studio Team Foundation Server 2010 and Project Server Integration Feature Pack. This video is a recording of the hands-on-lab available&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/7fe2/dccb695b-a70c-4d44-b989-9ee7014c7fe2/MakingAgileTeamProgressVisibletotheProjectManagementOffice_high_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/7fe2/dccb695b-a70c-4d44-b989-9ee7014c7fe2/MakingAgileTeamProgressVisibletotheProjectManagementOffice_high_2MB_ch9.wmv</video:content_loc>
         <video:duration>1242</video:duration>
         <video:publication_date>2011-05-19T00:42:12.0000000+00:00</video:publication_date>
       </video:video>
@@ -85,7 +89,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/9638/b5738137-0251-4a8a-b149-9ee7014b9638/ManagingProjectDetailsinanEnterpriseProjectPlanMappedtoaTeamProjectinTeamFoundationServer_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Managing Project Details in an Enterprise Project Plan Mapped to a Team Project in Team Foundation&amp;#8230;]]></video:title>
         <video:description><![CDATA[ This is the second of four videos which demonstrates the Visual Studio Team Foundation Server 2010 and Project Server Integration Feature Pack. This video is a recording of the hands-on-lab available&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/9638/b5738137-0251-4a8a-b149-9ee7014b9638/ManagingProjectDetailsinanEnterpriseProjectPlanMappedtoaTeamProjectinTeamFoundationServer_high_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/9638/b5738137-0251-4a8a-b149-9ee7014b9638/ManagingProjectDetailsinanEnterpriseProjectPlanMappedtoaTeamProjectinTeamFoundationServer_high_2MB_ch9.wmv</video:content_loc>
         <video:duration>977</video:duration>
         <video:publication_date>2011-05-19T00:42:08.0000000+00:00</video:publication_date>
       </video:video>
@@ -99,7 +103,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/af10/9d65db68-3ec0-4c5f-9a11-9ee70146af10/TopDownPlanningofBusinessRequirementswithinanEnterpriseProjectusingTeamFoundationServerandProjectServer_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Top-Down Planning of Business Requirements within an Enterprise Project using Team Foundation Server&amp;#8230;]]></video:title>
         <video:description><![CDATA[ This is the first of four videos which demonstrates the Visual Studio Team Foundation Server 2010 and Project Server Integration Feature Pack. This video is a recording of the hands-on-lab available&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/af10/9d65db68-3ec0-4c5f-9a11-9ee70146af10/TopDownPlanningofBusinessRequirementswithinanEnterpriseProjectusingTeamFoundationServerandProjectServer_high_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/af10/9d65db68-3ec0-4c5f-9a11-9ee70146af10/TopDownPlanningofBusinessRequirementswithinanEnterpriseProjectusingTeamFoundationServerandProjectServer_high_2MB_ch9.wmv</video:content_loc>
         <video:duration>1509</video:duration>
         <video:publication_date>2011-05-19T00:41:55.0000000+00:00</video:publication_date>
       </video:video>
@@ -113,7 +117,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ch9/e68c/abb22d07-c4a2-4304-a0f2-9ebe0172e68c/ODataServiceForTeamFoundationServer2010Beta_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[OData Service for Team Foundation Server 2010]]></video:title>
         <video:description><![CDATA[Update: Please see https://aka.ms/tfsodata for a newer version of this project than the one highlighted in this video.&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/e68c/abb22d07-c4a2-4304-a0f2-9ebe0172e68c/ODataServiceForTeamFoundationServer2010Beta_high_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/e68c/abb22d07-c4a2-4304-a0f2-9ebe0172e68c/ODataServiceForTeamFoundationServer2010Beta_high_2MB_ch9.wmv</video:content_loc>
         <video:duration>557</video:duration>
         <video:publication_date>2011-04-08T18:29:14.0000000+00:00</video:publication_date>
       </video:video>
@@ -127,7 +131,7 @@
         <video:thumbnail_loc>http://files.channel9.msdn.com/thumbnail/9f87c24d-8b2e-40cc-95c6-312239f9cac1.png</video:thumbnail_loc>
         <video:title><![CDATA[PDC10 Recap: First Impressions from Windows Phone 7 Developers]]></video:title>
         <video:description><![CDATA[ The day after PDC10, 150 conference attendees extended their stays for an extra day of Windows Phone 7 app building at the PDC10 Workshop. For most, this was the first time they were able to deploy&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/33fa/b323c649-962f-4e33-9192-9e24014533fa/PDC10WindowsPhone7Developers_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/33fa/b323c649-962f-4e33-9192-9e24014533fa/PDC10WindowsPhone7Developers_2MB_ch9.wmv</video:content_loc>
         <video:duration>157</video:duration>
         <video:publication_date>2010-11-04T21:18:29.0000000+00:00</video:publication_date>
       </video:video>
@@ -141,7 +145,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/ea15/e42de420-543c-4a78-9840-9dfa0145ea15/ResourceVisibilityForThePMO_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Team Foundation Server and Project Server Integration: Resource visibility for the PMO]]></video:title>
         <video:description><![CDATA[ **UPDATED MAY 18, 2011**This video is based on an older release. For newer videos which highlight the v1 release of this integration please start here.This is video 4 in a 4-part series showcasing&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/ea15/e42de420-543c-4a78-9840-9dfa0145ea15/ResourceVisibilityForThePMO_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/ea15/e42de420-543c-4a78-9840-9dfa0145ea15/ResourceVisibilityForThePMO_2MB_ch9.wmv</video:content_loc>
         <video:duration>640</video:duration>
         <video:publication_date>2010-09-23T20:55:20.0000000+00:00</video:publication_date>
       </video:video>
@@ -155,7 +159,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/4908/d8389954-1989-4a47-a394-9dfa01444908/SetTheDialOnYourProjectPlanDetails_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Team Foundation Server and Project Server Integration: Set the dial on your project plan details]]></video:title>
         <video:description><![CDATA[ **UPDATED MAY 18, 2011**This video is based on an older release. For newer videos which highlight the v1 release of this integration please start here. This is video 3 in a 4-part series showcasing&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/4908/d8389954-1989-4a47-a394-9dfa01444908/SetTheDialOnYourProjectPlanDetails_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/4908/d8389954-1989-4a47-a394-9dfa01444908/SetTheDialOnYourProjectPlanDetails_2MB_ch9.wmv</video:content_loc>
         <video:duration>579</video:duration>
         <video:publication_date>2010-09-23T20:55:17.0000000+00:00</video:publication_date>
       </video:video>
@@ -169,7 +173,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/10d0/8878b94c-dfa0-496f-b462-9dfa013f10d0/AgileTeamsAreNoLongerBlackHoles_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Team Foundation Server and Project Server Integration: Agile teams are no longer black holes]]></video:title>
         <video:description><![CDATA[ **UPDATED MAY 18, 2011**This video is based on an older release. For newer videos which highlight the v1 release of this integration please start here. This is video 2 in a 4-part series showcasing&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/10d0/8878b94c-dfa0-496f-b462-9dfa013f10d0/AgileTeamsAreNoLongerBlackHoles_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/10d0/8878b94c-dfa0-496f-b462-9dfa013f10d0/AgileTeamsAreNoLongerBlackHoles_2MB_ch9.wmv</video:content_loc>
         <video:duration>691</video:duration>
         <video:publication_date>2010-09-23T20:55:14.0000000+00:00</video:publication_date>
       </video:video>
@@ -183,7 +187,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/73f1/5dd1f5a6-b544-42b4-aaa7-9dfa013d73f1/RealtimeProjectStatusForThePMO_512_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Team Foundation Server and Project Server Integration: Real-time project status for the PMO]]></video:title>
         <video:description><![CDATA[ **UPDATED MAY 18, 2011**This video is based on an older release. For newer videos which highlight the v1 release of this integration please start here. This is video 1 in a 4-part series showcasing&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/73f1/5dd1f5a6-b544-42b4-aaa7-9dfa013d73f1/RealtimeProjectStatusForThePMO_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/73f1/5dd1f5a6-b544-42b4-aaa7-9dfa013d73f1/RealtimeProjectStatusForThePMO_2MB_ch9.wmv</video:content_loc>
         <video:duration>906</video:duration>
         <video:publication_date>2010-09-23T20:55:07.0000000+00:00</video:publication_date>
       </video:video>
@@ -197,7 +201,7 @@
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5036/565036/VSLive2010Day1Keynote_512_ch9.png</video:thumbnail_loc>
         <video:title><![CDATA[VSLive 2010 Day 1 Keynote: Visual Studio 2010 and a Glimpse of the Future]]></video:title>
         <video:description><![CDATA[Ready to get to know the newest member of the Visual Studio family? Watch Jason Zander’s keynote from VSLive! 2010 Redmond, during which he announces and demonstrates the key capabilities of Visual&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/5036/565036/VSLive2010Day1Keynote_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5036/565036/VSLive2010Day1Keynote_2MB_ch9.wmv</video:content_loc>
         <video:duration>3205</video:duration>
         <video:publication_date>2010-08-05T01:44:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -212,7 +216,7 @@
         <video:title><![CDATA[Visual Studio 2010 Lab Management announce]]></video:title>
         <video:description><![CDATA[This is an excerpt of the 
 VSLive! 2010 Day 2 keynote. This excerpt features the Visual Studio 2010 Lab Management availability announcement and product demonstration. For the full keynote,&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/5028/565028/VSLiveLabManagementAnnounce_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5028/565028/VSLiveLabManagementAnnounce_2MB_ch9.wmv</video:content_loc>
         <video:duration>950</video:duration>
         <video:publication_date>2010-08-04T23:31:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -226,7 +230,7 @@ VSLive! 2010 Day 2 keynote. This excerpt features the Visual Studio 2010 Lab Man
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/5029/565029/VSLive2010Day2Keynote_512_ch9.png</video:thumbnail_loc>
         <video:title><![CDATA[VSLive 2010 Day 2 Keynote: An Insiders Perspective of Visual Studio 2010 and Application Lifecycle&amp;#8230;]]></video:title>
         <video:description><![CDATA[Dave Mendlen, Senior Director of Microsoft Developer Platform and Tools continues the excitement of the Visual Studio 2010 launch with a keynote session focused on Application Lifecycle Management&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/5029/565029/VSLive2010Day2Keynote_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/5029/565029/VSLive2010Day2Keynote_2MB_ch9.wmv</video:content_loc>
         <video:duration>2876</video:duration>
         <video:publication_date>2010-08-04T23:31:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -240,7 +244,7 @@ VSLive! 2010 Day 2 keynote. This excerpt features the Visual Studio 2010 Lab Man
         <video:thumbnail_loc>http://video.ch9.ms/ecn/ch9/3/0/0/6/5/5/VisualStudioTestProfessional2010NaysawnNaderi_512_ch9.png</video:thumbnail_loc>
         <video:title><![CDATA[Visual Studio Test Professional 2010: The Tool for the Modern Tester]]></video:title>
         <video:description><![CDATA[Over the past decade, the complexity of technology has increased rapidly even as business demands continue to rise. Unfortunately, test organizations have changed very little in either processes or&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/0/0/6/5/5/VisualStudioTestProfessional2010NaysawnNaderi_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ecn/ch9/3/0/0/6/5/5/VisualStudioTestProfessional2010NaysawnNaderi_2MB_ch9.wmv</video:content_loc>
         <video:duration>4336</video:duration>
         <video:publication_date>2010-06-15T04:28:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -263,7 +267,7 @@ Author:
 Mark Miller, DevExpress
 
 Short 2-3 sentence description of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/8/9/5/3/4/ClipboardHistoryForVisualStudio_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/0/8/9/5/3/4/ClipboardHistoryForVisualStudio_2MB_ch9.wmv</video:content_loc>
         <video:duration>159</video:duration>
         <video:publication_date>2008-10-28T13:52:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -283,7 +287,7 @@ Title of the video
 Brian the Build Bunny 
   
 The developer and designer tools you used (both Microsoft and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/0/1/5/3/4/PDC2008ShowOffBrianTheBuildBunny_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/9/0/1/5/3/4/PDC2008ShowOffBrianTheBuildBunny_2MB_ch9.wmv</video:content_loc>
         <video:duration>168</video:duration>
         <video:publication_date>2008-10-28T03:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -305,7 +309,7 @@ Silverlight 2 Spectrum Emulator.
  
 Short 2-3 sentence description of your video 
 A quick&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/1/1/5/3/4/PDC2008ShowOffSilverlight2SpectrumAnalyzer_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/1/1/5/3/4/PDC2008ShowOffSilverlight2SpectrumAnalyzer_2MB_ch9.wmv</video:content_loc>
         <video:duration>224</video:duration>
         <video:publication_date>2008-10-28T03:00:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -323,7 +327,7 @@ This video is a sample of one of the entries from
 Microsoft PDC 2008 ShowOff. We recommend downloading the high-quality WMV of this video for the best experience.
 
 Title of the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/5/6/4/3/4/PDC180VEViewer_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/4/5/6/4/3/4/PDC180VEViewer_2MB_ch9.wmv</video:content_loc>
         <video:publication_date>2008-10-28T03:00:00.0000000+00:00</video:publication_date>
       </video:video>
    </url>
@@ -338,7 +342,7 @@ Title of the&amp;#8230;]]></video:description>
         <video:description><![CDATA[The Microsoft Regional Directors are fired up for another great PDC!
 Tim Huckaby threw a rockin&#39; RD party at his house on Saturday and
 Scott Stanfield was there with his camera to capture some&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/8/8/5/3/4/RegionalDirectorsPDC2008Predictions_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/7/8/8/5/3/4/RegionalDirectorsPDC2008Predictions_2MB_ch9.wmv</video:content_loc>
         <video:duration>204</video:duration>
         <video:publication_date>2008-10-27T23:35:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -361,7 +365,7 @@ Scott Stanfield was there with his camera to capture some&amp;#8230;]]></video:d
 facility at p&amp;amp;p and how it’s built for agile teams. Now get a view inside one of the team rooms at p&amp;amp;p. In this video,
 Ajoy Krishnamoorthy and
 Ade Miller gives you&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/3/4/9/2/4/pnpTeamRoomWalkthrough_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/2/3/4/9/2/4/pnpTeamRoomWalkthrough_2MB_ch9.wmv</video:content_loc>
         <video:duration>564</video:duration>
         <video:publication_date>2008-09-24T23:37:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -375,7 +379,7 @@ Ade Miller gives you&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/llnwd/ch9/3/2/7/7/2/4/PDC2008AgilePreCon_large_ch9.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Countdown to PDC2008: Did somebody say Agile Pre Con at PDC? Chat with Mary and Grigori.]]></video:title>
         <video:description><![CDATA[When Dilbert talks about Agile, you know it has become main stream. This is also evident from the increased adoption of agile techniques and practices in the software development industry. Mary and&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/2/7/7/2/4/PDC2008AgilePreCon_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/3/2/7/7/2/4/PDC2008AgilePreCon_2MB_ch9.wmv</video:content_loc>
         <video:duration>573</video:duration>
         <video:publication_date>2008-09-15T23:58:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -389,7 +393,7 @@ Ade Miller gives you&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ecn/previewImages/320/12d239d5-d035-4d53-8529-fc7cd908e034.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Countdown to PDC2008: Pre-cons]]></video:title>
         <video:description><![CDATA[We&#39;ve heard a lot about PDC2008 which promises to bring a boatload (official term) of information and announcements about the future of the Microsoft development platform. But before you rush out to&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/3/2/7/1/4/PDC2008PreCons_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/6/3/2/7/1/4/PDC2008PreCons_2MB_ch9.wmv</video:content_loc>
         <video:duration>438</video:duration>
         <video:publication_date>2008-07-23T17:16:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -404,7 +408,7 @@ Ade Miller gives you&amp;#8230;]]></video:description>
         <video:title><![CDATA[Pex - Automated Exploratory Testing for .NET ]]></video:title>
         <video:description><![CDATA[Pex is a tool being developed by Microsoft Research which has the potential to dramatically improve the quality of software testing while requiring minimal, if any, effort on the
  part of the&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/0/4/3/1/4/PexAutomatedExploratoryTestingForDotNET_ch9.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/llnwd/ch9/5/0/4/3/1/4/PexAutomatedExploratoryTestingForDotNET_2MB_ch9.wmv</video:content_loc>
         <video:duration>1450</video:duration>
         <video:publication_date>2008-07-03T17:56:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -418,7 +422,7 @@ Ade Miller gives you&amp;#8230;]]></video:description>
         <video:thumbnail_loc>http://video.ch9.ms/ch9/0028/87b9438f-88fa-4ee8-be71-7856d8fc0028/New-GDR-Announced-for-Visual-Studio-Team-System-2_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[New GDR Announced for Visual Studio Team System 2008 Database Edition]]></video:title>
         <video:description><![CDATA[We caught up with Gert Drapers to get the inside scoop on the new General Distribution Release (GDR) for Visual Studio Team System 2008 Database Edition. The GDR was announced this week at TechEd&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/0028/87b9438f-88fa-4ee8-be71-7856d8fc0028/New-GDR-Announced-for-Visual-Studio-Team-System-2_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/0028/87b9438f-88fa-4ee8-be71-7856d8fc0028/New-GDR-Announced-for-Visual-Studio-Team-System-2_high.mp4</video:content_loc>
         <video:duration>2258</video:duration>
         <video:publication_date>2008-06-03T12:52:00.0000000+00:00</video:publication_date>
       </video:video>
@@ -433,7 +437,7 @@ Ade Miller gives you&amp;#8230;]]></video:description>
         <video:title><![CDATA[James Whittaker on Software Testing]]></video:title>
         <video:description><![CDATA[I recently sat down with James Whittaker who is a Principal Program Manager Architect on the
 Visual Studio Team System Test Edition team. James is tasked with helping to shape the next wave of&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/86be/7893371a-81f9-485b-a55b-6ecc171186be/James-Whittaker-on-Software-Testing_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/86be/7893371a-81f9-485b-a55b-6ecc171186be/James-Whittaker-on-Software-Testing_high.mp4</video:content_loc>
         <video:duration>781</video:duration>
         <video:publication_date>2008-05-05T20:13:02.0000000+00:00</video:publication_date>
       </video:video>
@@ -448,7 +452,7 @@ Visual Studio Team System Test Edition team. James is tasked with helping to sha
         <video:title><![CDATA[Better Project Management with Team Foundation Server]]></video:title>
         <video:description><![CDATA[Reader&#39;s of Brian Harry&#39;s blog will be familiar with the &amp;quot;dogfooding statistics&amp;quot; he posts related to how we use Team Foundation Server at Microsoft. Brian has blogged
  about our deployment&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5683/d08b359e-fb73-4a1d-9a4b-d5eda08c5683/Better-Project-Management-with-Team-Foundation-Se_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5683/d08b359e-fb73-4a1d-9a4b-d5eda08c5683/Better-Project-Management-with-Team-Foundation-Se_high.mp4</video:content_loc>
         <video:duration>1011</video:duration>
         <video:publication_date>2008-03-20T18:29:28.0000000+00:00</video:publication_date>
       </video:video>
@@ -463,7 +467,7 @@ Visual Studio Team System Test Edition team. James is tasked with helping to sha
         <video:title><![CDATA[Testing the Zune Content Ingestion Pipeline]]></video:title>
         <video:description><![CDATA[You&#39;ve seen the Zune, and you&#39;ve seen the newly remodeled 
 Zune Markeplace, but have you ever wondered about the magic which goes on behind the scenes to get the music from the artists and studios&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/5d3d/67312990-8997-49e0-b813-f42030e45d3d/Testing-the-Zune-Content-Ingestion-Pipeline_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/5d3d/67312990-8997-49e0-b813-f42030e45d3d/Testing-the-Zune-Content-Ingestion-Pipeline_high.mp4</video:content_loc>
         <video:duration>1055</video:duration>
         <video:publication_date>2008-03-17T21:02:07.0000000+00:00</video:publication_date>
       </video:video>
@@ -477,7 +481,7 @@ Zune Markeplace, but have you ever wondered about the magic which goes on behind
         <video:thumbnail_loc>http://video.ch9.ms/ch9/f185/517c1e08-5612-4422-9554-2b1df34cf185/Personify-TeamSpec-with-Juan-Perez_512.jpg</video:thumbnail_loc>
         <video:title><![CDATA[Personify TeamSpec with Juan Perez]]></video:title>
         <video:description><![CDATA[Did you know that Microsoft Word is the most popular &amp;quot;requirements management&amp;quot; solution in the world? But while popular, it&#39;s not without its drawbacks. How do you prevent documents from&amp;#8230;]]></video:description>
-        <video:content_loc>http://video.ch9.ms/ch9/f185/517c1e08-5612-4422-9554-2b1df34cf185/Personify-TeamSpec-with-Juan-Perez_mid.mp4</video:content_loc>
+        <video:content_loc>http://video.ch9.ms/ch9/f185/517c1e08-5612-4422-9554-2b1df34cf185/Personify-TeamSpec-with-Juan-Perez_high.mp4</video:content_loc>
         <video:duration>1315</video:duration>
         <video:publication_date>2008-03-09T22:34:16.0000000+00:00</video:publication_date>
       </video:video>

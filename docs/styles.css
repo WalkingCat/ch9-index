@@ -20,6 +20,10 @@ body.index {
 	background: #FFD090;
 }
 
+hr.featured {
+	margin: 0px 0px 8px 0px;
+}
+
 .title, .vtitle, .permalink {
 	vertical-align: top;
 }
