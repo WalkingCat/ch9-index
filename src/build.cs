@@ -193,7 +193,8 @@ void DownloadFile(string uri, string file)
                 if (ex.InnerException is HttpRequestException hrex)
                 {
                     Console.Write($" [{hrex.StatusCode}]");
-                    if (hrex.StatusCode == System.Net.HttpStatusCode.NotFound)
+                    if ((hrex.StatusCode == System.Net.HttpStatusCode.NotFound)
+                        || (hrex.StatusCode == System.Net.HttpStatusCode.GatewayTimeout))
                     {
                         done = true;
                     }
