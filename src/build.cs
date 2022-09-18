@@ -65,7 +65,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                 var index = featured ? index_writers.Item1 : index_writers.Item2;
                 index.WriteLine(
                      $"<nobr id='{name}' class='title-container{(featured ? " featured" : "")}'>" +
-                     $"<a href='http://web.archive.org/web/{arc_date}/{link}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                     $"<a href='https://web.archive.org/web/{arc_date}/{link}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                      $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
                      $"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
                      "</nobr>"
@@ -76,7 +76,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             content.WriteLine("<head><link rel='stylesheet' href='styles.css'></head><body class='content'>");
             content.Write(
                 "<nobr class='title-container'><h2>" +
-                $"<a href='http://web.archive.org/web/{arc_date}/{link}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                $"<a href='https://web.archive.org/web/{arc_date}/{link}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                 $"<span class='title'>{cat} - {title}</span>" +
                 "</h2></nobr>"
             );
@@ -128,7 +128,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
             }
             content.WriteLine(
                 "<nobr class='vtitle-container'>" +
-                $"<a href='http://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                $"<a href='https://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
                 "<span class='vtitle'>" + (string.IsNullOrEmpty(v_loc) ? System.Web.HttpUtility.HtmlDecode(v_title) : $"<a href='{v_loc}' target='_blank'>{System.Web.HttpUtility.HtmlDecode(v_title)}</a>") +
                 ((v_time >= 0) ? $" [{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}]" : "") +
                 ((v_date is object) ? DateTime.Parse(v_date).ToString(" [yyyy/MM/dd]") : "") +
