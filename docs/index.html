@@ -21,9 +21,8 @@
 				}
 			}
 	</script>
-	<nobr>
-	<div style='display:inline-block;width:45%;height:100%;'>
-		<div style='display:flex;justify-content:space-evenly;padding:8px;height:24px;border-bottom:4px solid #e4a000;'>
+	<div style='display:block;width:100%;height:24x;border-bottom:4px solid #e4a000;'>
+		<div style='display:inline-flex;justify-content:space-evenly;width:calc(45% - 16px);height:24px;padding:8px;'>
 			<a href='http://web.archive.org/web/2020/https://channel9.msdn.com/' target='_blank'><img src='favicon.ico' width=24 height=24/></a>
 			<a href="Shows.html" target="index">Shows</a>
 			<a href="Blogs.html" target="index">Blogs</a>
@@ -32,8 +31,18 @@
 			<a href="Event.html" target="index">Events</a>
 			<a href="EventRegion.html" target="index">Events(Region)</a>
 			<a href="Extras.html" target="index">Extras</a>
-		</div><iframe name='index' src='Shows.html' style='width:100%;height:calc(100% - 44px);margin:0px;border:none'></iframe>
-	</div><div style='display:inline'><iframe name='content' src='Shows_Going+Deep.html' style='vertical-align:top;width:55%;height:100%;margin:0px;border:none;'></iframe></div>
-  </nobr>
+		</div>
+		<div style='float:right;height:24px;padding:8px;'>
+			Built by
+			<a href='https://twitter.com/_h0x0d_' target='_blank' style='text-decoration: none;'>WalkingCat <img src='twitter.png' style='vertical-align:middle;width:24px;height:24px'/></a>
+			<a href='https://buymecoffe.com/walkingcat' target='_blank' style='text-decoration: none; '>BuyMeCoffee <img src='bmc-logo-yellow.png' style='vertical-align:middle;margin:0px;padding:0px;width:24px;height:24px;'/></a>
+		</div>
+	</div>
+	<div style="display:block;width:100%;height:calc(100% - 24px);">
+		<nobr>
+			<div style='display:inline-block;width:45%;height:100%;'><iframe name='index' src='Shows.html' style='width:100%;height:100%;margin:0px;border:none'></iframe></div>
+			<div style='display:inline'><iframe name='content' src='Shows_Going+Deep.html' style='vertical-align:top;width:55%;height:100%;margin:0px;border:none;'></iframe></div>
+  	</nobr>
+  </div>
 </body>
 </html>
