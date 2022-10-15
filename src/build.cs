@@ -1,5 +1,6 @@
 ﻿using System.Xml;
 using System.Net.Http;
+using System.Linq;
 
 var out_dir = @"..\docs\";
 var filter = args.FirstOrDefault("");
@@ -65,7 +66,7 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                 var index = featured ? index_writers.Item1 : index_writers.Item2;
                 index.WriteLine(
                      $"<nobr id='{name}' class='title-container{(featured ? " featured" : "")}'>" +
-                     $"<a href='https://web.archive.org/web/{arc_date}/{link}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
+                     (featured ? $"<img src='{thumb}' class='thumb-inline{(string.IsNullOrEmpty(thumb) ? " broken" : "")}'>" : "") +
                      $"<span class='title'><a href='{cat}_{name}.html' target='content' class='title'>{title}</a> ({((cat == "Posts") ? urls.Count : (urls.Count - 1))})</span>" +
                      $"<a class='permalink' href='index.html?p={cat}_{name}' target='_top'>#</a>" +
                      "</nobr>"
@@ -75,10 +76,9 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
 
             content.WriteLine("<head><link rel='stylesheet' href='styles.css'></head><body class='content'>");
             content.Write(
-                "<nobr class='title-container'><h2>" +
-                $"<a href='https://web.archive.org/web/{arc_date}/{link}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                $"<span class='title'>{cat} - {title}</span>" +
-                "</h2></nobr>"
+                "<nobr class='title-container'><h2><span class='title'>" +
+                $"<a href='https://web.archive.org/web/{arc_date}/{link}' target='_blank'>{cat} - {title}</a>" +
+                "</span></h2></nobr>"
             );
             if (!(string.IsNullOrEmpty(thumb) && string.IsNullOrEmpty(desc)))
             {
@@ -97,16 +97,30 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
         {
             var v_title = video?.GetElementsByTagName("video:title").Item(0)?.InnerText;
             var v_desc = video?.GetElementsByTagName("video:description").Item(0)?.InnerText;
-            var v_loc = video?.GetElementsByTagName("video:content_loc").Item(0)?.InnerText;
             var v_date = video?.GetElementsByTagName("video:publication_date").Item(0)?.InnerText;
-            var v_thumb = video?.GetElementsByTagName("video:thumbnail_loc").Item(0)?.InnerText;
             var v_time = long.Parse(video?.GetElementsByTagName("video:duration").Item(0)?.InnerText ?? "-1");
 
+            var v_thumb = video?.GetElementsByTagName("video:thumbnail_loc").Item(0)?.InnerText;
             v_thumb = v_thumb?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
             v_thumb = v_thumb?.Replace("http://files.channel9.msdn.com/", "https://f.ch9.ms/");
             v_thumb = v_thumb?.Replace("http://sessions.visitmix.com/images/", "https://sec.ch9.ms/ecn/content/mixvideos/");
-            v_loc = v_loc?.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
-            v_loc = v_loc?.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
+
+            var v_res = new List<Resource>();
+            var v_locs = video?.GetElementsByTagName("video:content_loc");
+            if (v_locs is object)
+            {
+                for (var i = 0; i < v_locs.Count; ++i)
+                {
+                    var item = v_locs.Item(i)!;
+                    var v_loc = item.InnerText;
+                    if (!string.IsNullOrEmpty(v_loc))
+                    {
+                        v_loc = v_loc.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
+                        v_loc = v_loc.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
+                        v_res.Add(new Resource(v_loc) { Label = item.Attributes?["label"]?.InnerText });
+                    }
+                }
+            }
 
             if (featured && !string.IsNullOrEmpty(v_thumb) && !v_thumb.StartsWith("."))
             {
@@ -126,14 +140,31 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                     v_title = "[Title Missing]";
                 }
             }
+            content.Write(
+                "<nobr class='vtitle-container'><span class='vtitle'>" +
+                $"<a href='https://web.archive.org/web/{arc_date}/{loc}' target='_blank'>" +
+                System.Web.HttpUtility.HtmlDecode(v_title) +
+                "</a><span></nobr>"
+            );
+            content.Write(
+                ((v_thumb is object) ? $"<img class='vthumb' src='{v_thumb}'/>" : "")
+            );
+            content.Write("<nobr class='vinfo-container'><span class='vinfo'>");
+            foreach (var res in v_res)
+            {
+                var ext = Path.GetExtension(res.Location).TrimStart('.').ToUpper();
+                if (string.IsNullOrEmpty(ext))
+                {
+                    ext = "LINK";
+                }
+                var label = (res.Label is object) ? $"({res.Label.ToUpper()})" : "";
+                content.Write($"<a href='{res.Location}'>[{ext}{label}]</a> ");
+            }
+            content.Write(
+                ((v_time >= 0) ? $"[{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}] " : "") +
+                ((v_date is object) ? DateTime.Parse(v_date).ToString("[yyyy/MM/dd]") : "") +
+                "</span></nobr>");
             content.WriteLine(
-                "<nobr class='vtitle-container'>" +
-                $"<a href='https://web.archive.org/web/{arc_date}/{loc}' target='_blank'><img src='logo_archive-sm.png' width=24 height=24></a> " +
-                "<span class='vtitle'>" + (string.IsNullOrEmpty(v_loc) ? System.Web.HttpUtility.HtmlDecode(v_title) : $"<a href='{v_loc}' target='_blank'>{System.Web.HttpUtility.HtmlDecode(v_title)}</a>") +
-                ((v_time >= 0) ? $" [{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}]" : "") +
-                ((v_date is object) ? DateTime.Parse(v_date).ToString(" [yyyy/MM/dd]") : "") +
-                "</span></nobr>" +
-                ((v_thumb is object) ? $"<img class='vthumb' src='{v_thumb}'/>" : "") +
                 $"<div class='vdesc'>{(System.Web.HttpUtility.HtmlDecode(v_desc))}</div>" +
                 "<br clear='left'/><br/>"
             );
@@ -151,6 +182,10 @@ foreach (var (name, index) in indexes)
     index_file.WriteLine(
         "<head><link rel='stylesheet' href='styles.css'></head><body class='index'>"
     );
+    if (featured.Length > 0)
+    {
+        index_file.WriteLine("<hr class='featured-begin'/>");
+    }
     index_file.Write(featured);
     if ((featured.Length > 0) && (archive.Length > 0))
     {
@@ -210,4 +245,15 @@ void DownloadFile(string uri, string file)
         } while (!done);
     }
 
+}
+
+class Resource
+{
+    public string Location;
+    public string? Label;
+    public Resource(string loc, string? label = null)
+    {
+        Location = loc;
+        Label = label;
+    }
 }
