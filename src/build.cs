@@ -163,7 +163,12 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                     ext = "LINK";
                 }
                 var label = (res.Label is object) ? $"({res.Label.ToUpper()})" : "";
-                content.Write($"<a href='{res.Location}' target='_blank'>[{ext}{label}]</a> ");
+				var rloc = res.Location;
+				if (cat != "Extras")
+				{
+					rloc = "https://web.archive.org/web/2020if_/" + rloc;
+				}
+                content.Write($"<a href='{rloc}' target='_blank'>[{ext}{label}]</a> ");
             }
             content.Write(
                 ((v_time >= 0) ? $"[{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}] " : "") +
