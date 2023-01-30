@@ -122,13 +122,18 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                 }
             }
 
-            if (featured && !string.IsNullOrEmpty(v_thumb) && !v_thumb.StartsWith("."))
-            {
-                var local_thumb = $"./thumbnails/{cat}_{name}/" + Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb));
-                if (has_filter) DownloadFile(v_thumb, local_thumb);
-                v_thumb = local_thumb;
-            }
-
+			if (!string.IsNullOrEmpty(v_thumb) && !v_thumb.StartsWith("."))
+			{
+				if (featured)
+				{
+					var local_thumb = $"./thumbnails/{cat}_{name}/" + Path.ChangeExtension(loc_name, Path.GetExtension(v_thumb));
+					if (has_filter) DownloadFile(v_thumb, local_thumb);
+					v_thumb = local_thumb;
+				} else {
+					v_thumb = "https://web.archive.org/web/2020if_/" + v_thumb;
+				}
+			}
+			
             if (string.IsNullOrWhiteSpace(v_title))
             {
                 if (!string.IsNullOrWhiteSpace(loc))
