@@ -115,9 +115,12 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                     var v_loc = item.InnerText;
                     if (!string.IsNullOrEmpty(v_loc))
                     {
-                        v_loc = v_loc.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
-                        v_loc = v_loc.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
-                        v_res.Add(new Resource(v_loc) { Label = item.Attributes?["label"]?.InnerText });
+                        bool v_fixed = (item.Attributes?["fixed"]?.InnerText == "true");
+                        if (!v_fixed) {
+                            v_loc = v_loc.Replace("http://video.ch9.ms/", "https://sec.ch9.ms/");
+                            v_loc = v_loc.Replace("http://download.microsoft.com/", "https://download.microsoft.com/");
+                        }
+                        v_res.Add(new Resource(v_loc) { Label = item.Attributes?["label"]?.InnerText, ArchiveDate = item.Attributes?["arcdate"]?.InnerText });
                     }
                 }
             }
@@ -162,13 +165,14 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter))
                 {
                     ext = "LINK";
                 }
-                var label = (res.Label is object) ? $"({res.Label.ToUpper()})" : "";
-				var rloc = res.Location;
+                var res_label = (res.Label is object) ? $"({res.Label.ToUpper()})" : "";
+                var res_arc_date = res.ArchiveDate;
+				var res_loc = res.Location;
 				if (cat != "Extras")
 				{
-					rloc = "https://web.archive.org/web/2020if_/" + rloc;
+					res_loc = $"https://web.archive.org/web/{res_arc_date ?? arc_date}if_/" + res_loc;
 				}
-                content.Write($"<a href='{rloc}' target='_blank'>[{ext}{label}]</a> ");
+                content.Write($"<a href='{res_loc}' target='_blank'>[{ext}{res_label}]</a> ");
             }
             content.Write(
                 ((v_time >= 0) ? $"[{v_time / 3600}:{(v_time % 3600) / 60:D2}:{v_time % 60:D2}] " : "") +
@@ -261,9 +265,11 @@ class Resource
 {
     public string Location;
     public string? Label;
-    public Resource(string loc, string? label = null)
+    public string? ArchiveDate;
+    public Resource(string loc, string? label = null, string? arcDate = null)
     {
         Location = loc;
         Label = label;
+        ArchiveDate = arcDate;
     }
 }
