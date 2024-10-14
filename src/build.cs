@@ -41,6 +41,9 @@ foreach (var path in Directory.EnumerateFiles(@"..\sitemaps\", filter)) {
         if (string.IsNullOrEmpty(title)) { title = name.Replace('+', ' '); }
         var desc = elem.GetElementsByTagName("description").Item(0)?.InnerText;
         var thumb = elem.GetElementsByTagName("thumbnail_loc").Item(0)?.InnerText;
+        if (!string.IsNullOrEmpty(thumb)) {
+            thumb = "https://web.archive.org/web/2020if_/" + thumb;
+        }
 
         if (first) {
             featured = elem.GetElementsByTagName("featured").Item(0)?.InnerText == "true";
